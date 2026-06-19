@@ -16,15 +16,15 @@ aaddaammss;0
 aadegree;40
 aadegrees;40
 aaf;20
-aafair;30;A. A. Fair, pseudonym of Erle Stanley Gardner
+A. A. Fair;30;Pseudonym of Erle Stanley Gardner
 aah;40
-aahat;30
+aah at;30
 aahed;40
-aahedat;30
+aahed at;30
 aahing;40
-aahingat;30
+aahing at;30
 aahs;50
-aahsat;30
+aahs at;30
 aaiiiiiiiiiiiii;0
 aalarge;40
 aam;20
@@ -8030,7 +8030,7 @@ boy;50
 boyamigladtoseeyou;60
 boyandtheheron;60;Studio Ghibli movie
 boyardee;60
-boyd;40;Woody Boyd on "Cheers", LOTR actor Billy Boyd 
+boyd;40;Woody Boyd on "Cheers", LOTR actor Billy Boyd
 boyden;30
 boynton;30;Boynton Beach, FL (pop. 80,000)
 boyohboy;60
@@ -20822,7 +20822,7 @@ fallsoutoflove;50
 fallsshy;50
 fallsshyof;40
 fallsto;40
-fallstreak;50;
+fallstreak;50
 fallstreakhole;50;Cloud phenomenon
 fallstreakholes;50
 fallsupon;40
@@ -23402,6 +23402,8 @@ gabfest;50
 gabfests;50
 gabler;30
 gaby;40
+gacha game;60
+gacha games;60
 gad;50
 gadarene;30;???
 gadded;30;Gallavanted (about)
@@ -37554,6 +37556,8 @@ makebail;50
 makebelieve;60
 makebiscuits;60;Knead, like a cat
 makebyhand;60
+make do;50
+make-do;50
 makedowith;40
 makefaces;50
 makegood;50
