@@ -1,14 +1,27 @@
+21 Grams;60;2003 Sean Penn / Naomi Watts movie
+25 or 6 to 4;60;1970 Chicago song
+3 wise monkeys;60
+50 Ways to Leave Your Lover;60;1975 Paul Simon song
+54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
+99 Problems;60;2003 Jay-Z song
 a;50
 aa;40
 aaa;40
+AAAA;30;Small battery size
 aaaaaaaaaaaaaaa;0
+AAA Auto Club;50
+AAA ball;40
 aaabond;50
 aaabonds;50
-aaamap;30
-aaamaps;30
+AAA card;50
+aaacards;0
+AAA cell;40
+AAA cells;40
+AAA map;30;Green paint
+AAA maps;30;Green paint
 aaas;40;Batteries
-aaateam;50
-aaateams;50
+AAA team;50
+AAA teams;50
 aaaugh;30
 aacell;40
 aacells;40
@@ -35,28 +48,30 @@ aand;20
 aande;30
 aandw;30
 aang;40;"Avatar: The Last Airbender" protagonist
-aaonline;40;Alcoholics Anonymous online
+AA online;40;Alcoholics Anonymous online
 aapi;30;Asian American and Pacific Islander
 aar;20
 aardman;30
 aardvarkcub;50
 aardvarkcubs;50
 aari;30;Aari McDonald of the WNBA
-aaronite;40
-aaronites;40
+Aaronite;40;Priestly descendant of Aaron
+Aaronites;40;Priestly descendants of Aaron
 aarons;30;Plural name
 aaronsrod;50;Biblical stick carried by Moses's brother, D. H. Lawrence novel
 aarontaylorjohnson;60
 aarp;40
 aarpcard;40
 aarpcards;40
-aarpmember;50
-aarpmembers;50
+AARP member;50
+AARP members;50
 aas;40;Batteries
+Aasif;40
+A as in apple;60
 aasponsor;60
 aasponsors;60
-aateam;40
-aateams;40
+AA team;50
+AA teams;50
 aau;20
 aaugh;40;Charlie Brown cry
 aave;40;African-American Vernacular English
@@ -70,7 +85,7 @@ aback;50
 abaculus;30
 abacus;50
 abacuses;50
-abadegg;30;Trouble
+a bad egg;30;Trouble
 abaft;40
 aball;20
 abandonedship;50
@@ -4631,6 +4646,7 @@ avs;20
 avulse;20
 avulses;20
 aw;50
+A&W;50;Root beer brand
 awakeatdawn;50
 awardee;30
 awardgala;50
@@ -21494,6 +21510,8 @@ fieryspirit;60
 fifteenfootpole;0
 fiftieth;40
 fiftyfirstdates;50
+Fifty-four Forty or Fight!;60;Slogan in the 1844 Oregon boundary dispute
+fiftyfourfortyorfight;50
 fiftyniftyunitedstates;60
 fiftyninth;40;???
 fiftypointbonus;30
@@ -59659,6 +59677,8 @@ soylattes;50
 soyousee;60
 soys;40
 sp;40
+S&P;50;Standard & Poor's
+S&P 500;60;Stock market index
 spa;50
 spaceagencies;50
 spaceagency;50
