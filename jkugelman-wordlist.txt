@@ -50506,7 +50506,7 @@ rackers;30
 racoon;20
 racoons;20
 rad;50
-radames;20;Aida's lover
+Radames;30;Aida's lover
 radarblip;60
 radarblips;60
 radardetector;60
@@ -50639,7 +50639,7 @@ rahman;30
 rahmemanuel;50
 rahs;40
 rahway;30;NYC suburb in New Jersey
-rai;20
+Rai;30
 raid;50
 raided;50
 raiding;50
@@ -50706,7 +50706,7 @@ rainstorm;50
 rainstorms;50
 rainydayfund;60
 rainydayfunds;60
-raisa;20;Mrs. Gorbachev
+Raisa;30;Mrs. Gorbachev
 raiseaglass;60
 raisearedflag;60
 raiseawareness;50
@@ -50757,14 +50757,15 @@ raisingthesubject;50
 raisingthesubjectof;50
 raisman;40;Gymnast Aly Raisman
 raison;40
-raita;30;Indian dip
+raita;40;Indian dip
 raitts;30;Plural family name
 raj;40
 raja;40;Indian prince
 rajah;40
 rajahs;40
 rajas;40
-rajiv;20;Indian P.M., son of Indira Gandhi
+Rajiv;30;Indian P.M. Rajiv Gandhi (1984-89), son of Indira Gandhi
+Rajiv Gandhi;50;Indian P.M. 1984-89, son of Indira Gandhi
 rajput;30
 rajputs;30;Hindu warrior caste
 rakeditin;50
@@ -50901,7 +50902,7 @@ ranine;20;Frog-related, or region under the tongue
 raninterference;60
 raninterferencefor;50
 raninto;40
-ranit;20
+ran it;40;Did a runthrough, in theater
 ranitby;40
 rankandfile;60
 rankandfiler;60
@@ -50986,7 +50987,7 @@ raping;10
 rapmetal;60
 rapoff;60
 rapoffs;60
-rapp;30
+Rapp;40;Singer/actress Reneé Rapp
 rappedat;40
 rappingat;40
 rapporteur;30;???
@@ -51056,7 +51057,7 @@ raritan;40;New Jersey river
 rarite;20
 ras;40
 rasa;40
-rasam;20
+rasam;40;Indian soup
 rasher;30
 rashers;30
 rashest;30
@@ -51071,8 +51072,8 @@ raspers;30
 rasselas;20
 rassle;40
 rassled;40
-rassler;20
-rasslers;20
+rassler;30
+rasslers;30
 rassles;40
 rasslin;40
 rassling;40
@@ -51208,7 +51209,8 @@ rawscores;50
 rawsilk;50
 rax;20
 ray;50
-raya;20
+Raya;40;Disney's "Raya and the Last Dragon" (2021)
+Raya and the Last Dragon;50;2021 Disney movie
 rayban;50
 raybans;50
 raye;40;1950s comedian Martha Raye
@@ -51586,10 +51588,10 @@ recoal;20;Load more coal
 recoaled;20
 recoaling;20
 recoals;20
-recoat;20
-recoated;20
-recoating;20
-recoats;20
+recoat;30
+recoated;30
+recoating;30
+recoats;30
 recode;40
 recoded;40
 recodes;40
@@ -51846,7 +51848,7 @@ redyed;20
 redyeing;20
 redyes;20
 redzone;50
-ree;20
+Ree;30;Food writer Ree Drummond
 reearn;20
 reearned;20
 reearning;20
@@ -51863,6 +51865,7 @@ reedit;40
 reedited;40
 reediting;40
 reedits;40
+Ree Drummond;50;Blogger, author, food writer, and television personality
 reefed;40
 reefermadness;60
 reefshark;50
@@ -51901,7 +51904,7 @@ reerected;20
 reerecting;20
 reerects;20
 reerf;20
-rees;30;Children's author Gwyneth Rees
+Rees;30;Children's author Gwyneth Rees / Filmmaker Dee Rees
 reesespeanutbuttercup;50
 reesespeanutbuttercups;50
 reetch;20
@@ -52258,6 +52261,8 @@ renato;30;"La Cage aux Folles" character
 rendell;30;???
 rendezvous;50
 renedescartes;60
+Reneé Rapp;50;Singer/actress
+Renee Rapp;0
 renees;30;Plural name
 renegedon;40
 renegeon;40
@@ -52372,9 +52377,12 @@ replates;40
 replating;40
 replicant;60
 replicants;60
+replied all;60
 repliedto;40
-repliesall;30
+replies all;60
 repliesto;40
+reply all;60
+replying all;60
 replyingto;40
 replyto;40
 repoll;40
@@ -52567,8 +52575,10 @@ resoap;20
 resoaped;20
 resoaping;20
 resoaps;20
-resod;20
-resods;20
+resod;40
+resodded;40
+resodding;40
+resods;40
 resoil;30;Make dirty again
 resoiled;30
 resoiling;30
@@ -54294,6 +54304,7 @@ rungaround;30;Called around
 runinterference;60
 runinterferencefor;50
 runinto;40
+run it;40;Do a runthrough, in theater
 runitby;40
 runlet;40;Small stream
 runlets;40
@@ -54318,6 +54329,7 @@ runninggameon;60
 runninginterference;60
 runninginterferencefor;50
 runninginto;40
+running it;40;Doing a runthrough, in theater
 runningitby;40
 runningloose;50
 runningmate;50
@@ -54376,6 +54388,7 @@ runsin;40
 runsinterference;60
 runsinterferencefor;50
 runsinto;40
+runs it;40;Does a runthrough, in theater lingo
 runsitby;40
 runsloose;50
 runsmackdabinto;50
