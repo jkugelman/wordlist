@@ -29196,6 +29196,8 @@ hunterbiden;50
 huntinglicense;60
 huntinglicenses;60
 huntley;40;Old newscaster Chet Huntley, "The Huntley-Brinkley Report" (1956-70)
+Huntrix;40;"KPop Demon Hunters" band
+Huntr/x;40;"KPop Demon Hunters" band
 huntsvilleal;40
 hup;40
 hur;40
@@ -33859,7 +33861,7 @@ kpgevent;40;Extinction event that killed the dinosaurs
 kpgextinction;40;It killed the dinosaurs
 kpgextinctionevent;40
 kph;40
-kpopdemonhunters;60;Netflix's most-watched movie of all time
+KPop Demon Hunters;60;Netflix's most-watched movie of all time
 kps;20
 kra;20
 kraal;20;African village
