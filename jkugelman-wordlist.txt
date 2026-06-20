@@ -44,6 +44,8 @@ aam;20
 aameeting;60
 aameetings;60
 aamilne;50
+Aamir;30;Indian actor Aamir Khan
+Aamir Khan;50;Indian actor
 aand;20
 aande;30
 aandw;30
