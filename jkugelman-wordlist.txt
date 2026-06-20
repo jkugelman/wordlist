@@ -91,11 +91,13 @@ aball;20
 abandonedship;50
 abandonee;40
 abandonees;40
+abandon hope all ye who enter here;60
 abandoningship;50
 abandonship;60
 abandonsship;50
 abandonware;60
-abargain;30;Cheap
+a bargain;30;Cheap
+a barrel of laughs;60
 abarsong;50;Chart topping Shaboozey song
 abase;50
 abased;50
@@ -114,13 +116,15 @@ abatis;20;A means of defense formed by felled trees
 abatises;20
 abator;20;One who abates
 abators;20
+A batteries;50
+A battery;50
 abaya;30;Muslim robe
-abayas;30
+abayas;30;Muslim robes
 abbacies;40
 abbacy;40
 abbas;40;Arafat's successor
 abbazaba;40;Taffy candy bar
-abbazabas;40
+abbazabas;40;Taffy candy bars
 abbe;20
 abbeyroadstudios;60
 abbi;30;Comedian Abbi Jacobson
@@ -137,6 +141,7 @@ abcdef;20
 abcdefg;20
 abcdefghijklm;20
 abcdf;20
+ABC islands;60;Aruba, Bonaire, and Curaçao
 abcjuice;60;Apple-beetroot-carrot juice
 abcrunch;50
 abcrunches;50
@@ -11375,6 +11380,7 @@ christiaan;40;???
 christiana;40
 christianname;60
 christianpop;50
+Christian Pulisic;50;American soccer player
 christianrock;50
 christinaperri;50;Singer of "A Thousand Years"
 christmas;60
@@ -33241,7 +33247,8 @@ kerosenes;40
 kerplop;50
 kerr;40
 kersee;40
-keshena;20;Tiny Wisconsin town
+Kes;30;Trinidiadian soca (calypso offshoot) band
+Keshena;20;Tiny Wisconsin town
 kessler;40;???
 ketch;30;Ship type
 ketches;30
@@ -45600,6 +45607,7 @@ pacificblue;50
 package;50
 packedin;40
 packedinit;40;British
+Packer;50;Green Bay player
 packer;30
 packin;40
 packingin;40
@@ -45974,7 +45982,7 @@ parallelpark;60
 parallelparked;60
 parallelparking;60
 parallelparks;60
-paramus;20;New Jersey city
+Paramus;30;New Jersey city
 parana;20;Bazilian state, Argentinian river
 parang;20
 parangs;20
@@ -46083,10 +46091,10 @@ parsis;30;Zoroastrians
 parsleys;40;Plural?
 parstock;50
 parstocks;50
-parta;40
-partb;20;Medicare option
-partc;20;Medicare option
-partd;20;Medicare option
+Part A;30;Medicare option
+Part B;30;Medicare option
+Part C;30;Medicare option
+Part D;30;Medicare option
 partedfrom;40
 partedwith;40
 parter;40
@@ -46357,7 +46365,8 @@ pau;20
 paulatreides;50
 paulblartmallcop;60
 paulcezanne;60
-paulettegoddard;30
+Paulette Goddard;50;Golden Age of Hollywood actress
+paulettegoodard;0
 pauli;40
 paulii;20
 pauliii;20
@@ -46503,7 +46512,7 @@ pda;40
 pdas;40
 pdf;40
 pdfformat;30
-pdfs;30
+PDFs;40
 pdiddy;10
 pdjames;40;English detective novelist
 pdq;40
@@ -47147,7 +47156,8 @@ pgh;20
 pgratedmovie;50
 pgratedmovies;50
 pgrating;50
-pgs;20
+PGs;20;Movie ratings
+pgs;40;Pages
 ph;40
 phablet;30;Phone/tablet
 phablets;30
@@ -48116,7 +48126,8 @@ pledgingto;40
 pledguilty;50
 pledto;40
 pledwith;40
-pleinair;20;Painting outdoors
+plein air;50;Painting outdoors
+plein air painting;50
 plemons;40;Actor Jesse Plemons
 plena;20;Puerto Rican music
 plenary;40;Congressional term
@@ -48165,8 +48176,8 @@ plotzed;40
 plotzes;40
 plotzing;40
 plovdiv;30;???
-plover;20;Bird
-plovers;20;Birds
+plover;30;Bird
+plovers;30;Birds
 plowedinto;40
 plowinginto;40
 plowinto;40
@@ -48242,7 +48253,7 @@ pmdawn;40;'90s hip hop group P.M. Dawn
 pms;40;Prime ministers
 pmsed;40
 pmsing;40
-pnc;20
+PNC;40;Bank
 pneuma;30;Vital spirit, soul, or creative force of a person
 pneumas;30
 pneumata;30;Pneuma plural
@@ -48593,6 +48604,7 @@ poordears;50
 poordevil;60
 poordevils;60
 poorhouse;60
+poori;30;Indian bread
 poorme;60
 poorness;40
 poorquality;50
@@ -48672,7 +48684,7 @@ popo;40;Police
 popoff;60
 popolvuh;30;Mayan text
 popon;40
-poppa;20;Papa variant
+poppa;40;Papa variant
 poppas;20;Papas variant
 poppedawheelie;60
 poppedinamovie;50
@@ -48937,10 +48949,10 @@ potts;40;Pepper Potts ("Iron Man"), Mrs. Potts ("Beauty and the Beast"), Annie P
 pottyhumor;60
 pottytrained;50
 potus;40
-pouf;30;Ottoman
+pouf;40;Ottoman
 pouffe;50;Puffy foot rest
 pouffes;50
-poufs;30;Ottomans
+poufs;40;Ottomans
 poult;30;Young fowl
 poulter;40;Actor Will Poulter
 poults;30
@@ -49073,7 +49085,7 @@ pragencies;50
 pragency;50
 pragent;30
 pragents;30
-praia;20
+Praia;40;Capital of Cape Verde
 prairiedog;60
 prairiedogpup;50
 prairiedogpups;50
@@ -49266,10 +49278,10 @@ presidenttyler;50
 presidentvanburen;50
 presidentwashington;50
 presidentwilson;50
-presoak;30
-presoaked;30
-presoaking;30
-presoaks;30
+presoak;50
+presoaked;50
+presoaking;50
+presoaks;50
 presort;30
 presorted;30
 presorting;30
@@ -49869,7 +49881,7 @@ pules;40;Whines
 puli;20;Dreadlocked dog
 puling;40;Whining
 pulis;20;Dreadlocked dogs
-pulisic;30;American soccer player
+pulisic;40;American soccer player Christian Pulisic
 pullat;40
 pullauey;50
 pullday;50
@@ -49992,7 +50004,7 @@ pured;50;Struck a golf ball perfectly
 pureluck;60
 pures;50;Strikes a golf ball perfectly
 purex;40;Detergent brand
-puri;20
+puri;30;Indian bread
 purifications;40
 purim;50;Jewish holiday
 purims;40;Plural Jewish holiday
