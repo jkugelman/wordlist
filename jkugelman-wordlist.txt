@@ -533,7 +533,7 @@ acmegiantkitekit;60;Acme invention
 acmegiantmousetrap;60;Acme invention
 acmegiantrubberband;60;Acme invention
 acmehispeedtonic;60;Acme invention
-acmeindestructosteelball;60;Acme invention
+ACME Indestructo Steel Ball;60;ACME invention Wile E. Coyote uses
 acmeinstanticiclemaker;60;Acme invention
 acmeinstantroad;60;Acme invention
 acmeinvisiblepaint;60;Acme invention
@@ -30594,21 +30594,38 @@ incurving;40
 incus;30;Ear bone (anvil)
 ind;40;Independent or Indiana (or "in D" ugh)
 indaclub;60
-inde;40;Actress Inde Navarrette from "Obsession" (2026)
+Inde;40;Actress Inde Navarrette from "Obsession" (2026)
+indebted to;40
 indebtto;40
+indecent exposure;60
 indeedido;60
 indeedy;60
-indeliblepencil;60
-indenavarrette;50;Actress Inde Navarrette from "Obsession" (2026)
+in deep trouble;60
+indelible mark;60
+indelible marks;60
+indelibleoink;0
+indelible pencil;60;Unerasable pencil
+indelible pencils;60;Unerasable pencils
+Inde Navarrette;50;"Obsession" (2026) actress
 indenial;50
 indenter;40
 indenters;40
 indention;40;???
-indestructosteelball;60;Acme invention
+indentured servant;50
+indentured servants;50
+indentured servitude;50
+Independence Ave.;50
+independently wealthy;60
+independent of;40
+Indestructo Steel Ball;60;ACME invention Wile E. Coyote uses
 indexer;40
 indexers;40
 indexfinger;50
 indexfingers;50
+index fund;60
+index funds;60
+index number;50
+index numbers;50
 indextoes;50
 indianahoosier;50
 indianahoosiers;50
