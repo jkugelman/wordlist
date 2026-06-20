@@ -21517,7 +21517,6 @@ fifteenfootpole;0
 fiftieth;40
 fiftyfirstdates;50
 Fifty-four Forty or Fight!;60;Slogan in the 1844 Oregon boundary dispute
-fiftyfourfortyorfight;50
 fiftyniftyunitedstates;60
 fiftyninth;40;???
 fiftypointbonus;30
