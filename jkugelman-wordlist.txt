@@ -59264,6 +59264,7 @@ solacer;30
 solaces;30
 solame;50
 solana;20
+Solanas;40;Valerie Solanas, attempted assassin of Andy Warhol
 solange;40;Beyoncé's sister w/a Grammy of her own
 solano;20;California county
 solans;20
@@ -69349,6 +69350,7 @@ valedictorians;50
 valent;20;Suffix
 valera;30;Irish president Éamon de Valera 1959-73
 valerieplame;50
+Valerie Solanas;50;Attempted assassin of Andy Warhol
 valhalla;60
 valhallas;40;Weird plural
 valiancies;40
