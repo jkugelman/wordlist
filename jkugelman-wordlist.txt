@@ -21096,6 +21096,8 @@ faultlines;50
 faunae;30
 faure;30;French composer Gabriel Fauré
 faustian;60
+Faustian bargain;60
+Faustian bargains;60
 faustino;30;David Faustino who played Bud Bundy
 fauve;30;Member of an early 20th-century art movement
 fauves;30;Members of an early 20th-century art movement
@@ -21103,26 +21105,35 @@ fauvism;30;Early 20th-century art movement
 fauvist;30;Member of an early 20th-century art movement
 fauvists;30;Members of an early 20th-century art movement
 fauxintellectual;60
+faux leather;60
 fauxpas;50
 fav;40
 favela;30;Brazilian slum
 favelas;30;Brazilian slums
+favorable circumstances;50
 fawn;50
 fawns;50
 fax;50
+fax printer;50
+fax printers;50
 fay;40;Elfin, or Fay Wray
-fbaccount;20
+Faye Dunaway;60
+FB account;40
+FB accounts;40
 fbi;50
+FBI academy;60
 fbiagent;60
 fbiagents;60
+FBI director;60
+FBI directors;40
 fbireport;50
 fbireports;50
 fbispies;30
 fbispy;30
 fbomb;60
 fbombs;60
-fbpost;20
-fbposts;20
+FB post;40
+FB posts;40
 fbs;30;Full backs
 fcc;40
 fclef;40
@@ -21133,17 +21144,18 @@ fdr;40
 fdrjr;30
 fe;30
 fearandloathing;60
-fearedfor;40
+Fear and Loathing in Las Vegas;60
+feared for;40
 fearedto;40
-fearfor;40
-fearingfor;40
+fear for;40
+fearing for;40
 fearingto;40
 fearisthemindkiller;60
 fearlessleader;50
 fearlessleaders;50
 fearmonger;60
 fearofneedles;50
-fearsfor;40
+fears for;40
 fearsto;40
 fearto;40
 feastedon;40
@@ -47172,8 +47184,8 @@ pgh;20
 pgratedmovie;50
 pgratedmovies;50
 pgrating;50
-PGs;20;Movie ratings
 pgs;40;Pages
+PGs;20;Movie ratings
 ph;40
 phablet;30;Phone/tablet
 phablets;30
@@ -59705,8 +59717,8 @@ soylatte;50
 soylattes;50
 soyousee;60
 soys;40
-sp;40
 S&P;50;Standard & Poor's
+sp;40
 S&P 500;60;Stock market index
 spa;50
 spaceagencies;50
