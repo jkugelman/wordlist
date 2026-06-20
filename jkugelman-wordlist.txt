@@ -65554,13 +65554,37 @@ thirdst;40
 thirdwave;50
 thirdwheeling;60;The act of being an awkward/unnecessary tag-along to a couple
 thirlby;40;Minor actress Olivia Thirlby (b. 1986)
+thirst after;40
+thirsted after;40
+thirsted for;40
+thirsted for blood;60
+thirsted for knowledge;60
+thirsted over;40
 thirster;40
 thirsters;40
+thirst for;40
+thirst for blood;60
 thirstforknowledge;60
-thirstingforknowledge;50
+thirst for power;60
+thirsting after;40
+thirsting for;40
+thirsting for blood;60
+thirsting for knowledge;60
+thirsting over;40
+thirst over;40
 thirstquenching;60
-thirsttrap;60
-thirsttraps;60
+thirsts after;40
+thirsts for;40
+thirsts for blood;60
+thirsts for knowledge;60
+thirsts over;40
+thirst trap;60
+thirst traps;60
+thirsty for;40
+thirsty for blood;60
+thirsty for knowledge;60
+Thirsty Thursdays;60
+thirsty work;60
 thirtieth;40
 thirtieths;40
 thisagain;60
