@@ -5,8 +5,8 @@
 54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
 99 Problems;60;2003 Jay-Z song
 a;50
-aa;40
-aaa;40
+AA;40;Alcoholics Anonymous / Battery size
+AAA;40;American Automobile Association / Small battery size
 AAAA;30;Small battery size
 aaaaaaaaaaaaaaa;0
 AAA Auto Club;50
