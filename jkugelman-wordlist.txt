@@ -1,6 +1,7 @@
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;Stephen King book
 12 Angry Men;60;1957 legal drama
+1984;60;George Orwell novel
 21 Grams;60;2003 Sean Penn / Naomi Watts movie
 25 or 6 to 4;60;1970 Chicago song
 3 wise monkeys;60
@@ -27062,6 +27063,7 @@ harrisonford;60
 harrymack;60;Freestyle rapper
 harryo;30;Harry O, ABC detective series 1974-76
 harrypotterandthesorcerersstone;10
+Harry Winston;60;Jeweler
 harshlightofday;60
 harte;30;19th century writer Bret Harte
 hartebeest;40;Antelope
@@ -42186,7 +42188,7 @@ nineseven;20;WTF
 ninetales;50;Pokeyman
 nineteen;50
 nineteeneighty;30
-nineteeneightyfour;60
+Nineteen Eighty-Four;60;George Orwell novel
 nineteenfifties;40
 nineteenfifty;30
 nineteenforty;30
@@ -71816,6 +71818,9 @@ winsit;20
 winsomer;30
 winsomest;30
 winssilver;50
+Winston Churchill;60
+Winston-Salem NC;50
+Winston Smith;60;"1984" protagonist
 winstreak;50
 winstreaks;50
 winstupidprizes;60
