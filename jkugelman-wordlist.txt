@@ -31981,6 +31981,7 @@ itssoeasyachildcandoit;60
 itssoeasyachildcoulddoit;60
 itssoeasyevenachildcandoit;60
 itssoeasyevenachildcoulddoit;60
+it's so over;60
 itssotrue;60
 itsstarting;50
 itsstretchingit;60
@@ -71065,6 +71066,7 @@ wereonthesamewavelength;60
 wereopen;60
 wererich;60
 weresoback;60
+we're so back;60
 weresoold;60
 werestuck;50
 werestumped;60
