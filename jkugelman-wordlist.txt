@@ -70442,10 +70442,13 @@ wasborn;20
 wasdueto;20
 washday;50
 washdays;50
+washi;40;Washi tape, decorative Japanese masking tape
 washier;40
 washiest;40
 washingtonian;50
 washingtonians;50
+washi tape;50;Decorative Japanese masking tape
+washi tapes;50;Decorative Japanese masking tapes
 washoe;40;Nevada county with Reno and Lake Tahoe
 washtubbass;50
 washtubbasses;50
