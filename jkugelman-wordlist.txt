@@ -1,3 +1,6 @@
+10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
+11/22/63;60;Stephen King book
+12 Angry Men;60;1957 legal drama
 21 Grams;60;2003 Sean Penn / Naomi Watts movie
 25 or 6 to 4;60;1970 Chicago song
 3 wise monkeys;60
@@ -14597,6 +14600,7 @@ dangitalltoheck;60
 dangittoheck;60
 dangme;20
 dani;40
+Daniel Gabriel Fahrenheit;50;Fahrenheit scale inventor
 danite;30
 danites;30
 danmarino;50
@@ -18174,6 +18178,7 @@ easyfour;50
 easygo;30
 easymode;60
 easyon;40
+easy peasy lemon squeezy;60
 easyread;50
 easyreader;50
 easyreads;50
@@ -23438,6 +23443,8 @@ gabaldon;40;"Outlander" books author Diana Gabaldon
 gabfest;50
 gabfests;50
 gabler;30
+gabrieldanielfahrenheit;0
+Gabriel García Márquez;60;Colombian writer
 gaby;40
 gacha game;60
 gacha games;60
@@ -32288,6 +32295,7 @@ jamminginto;40
 jamnut;40
 jamnuts;40
 jamon;40
+jamón serrano;50;Spanish dry-cured ham
 jampack;40
 jampacked;60
 jampacking;40
@@ -35197,6 +35205,7 @@ lemonrind;50
 lemonrinds;50
 lemonslice;60
 lemonslices;60
+lemon squeezy;60
 lemontwist;60
 lemontwists;60
 lemonzest;60
@@ -47092,6 +47101,7 @@ peteacher;50
 peteachers;50
 peterarno;40;New Yorker cartoonist 1925-68
 petercottontail;60
+Peter Gabriel;60
 petergunn;50
 peteri;30
 peterii;30
@@ -53651,6 +53661,7 @@ rodino;30;Nixon impeachment chairman Peter Rodino
 rodless;30;Type of cylinder
 rodolfo;40
 rodri;40;2024 Ballon D'Or winner, 2024 Euro cup's "Player of the Tournament"
+Rodrigo y Gabriela;60
 rodsandcones;50
 rodserling;50
 roe;50
@@ -68731,6 +68742,8 @@ unimoons;40
 uninominal;40;One-member
 unionohio;30
 unionorganizers;50
+Union soldier;60
+Union soldiers;60
 unionspies;50
 unionspy;50
 unionsuit;50
