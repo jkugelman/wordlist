@@ -33916,6 +33916,7 @@ krasner;20;Painter married to Jackson Pollock
 krater;20
 kration;40;WWII field meal
 krations;40
+kratom;40;Herbal vape shop drug
 krav;30
 krazy;50
 krazykat;50
