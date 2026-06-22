@@ -3,7 +3,7 @@
 11/22/63;60;Stephen King book
 12 Angry Men;60;1957 legal drama
 1984;60;George Orwell novel
-21 Grams;60;2003 Sean Penn / Naomi Watts movie
+21 Grams;50;2003 Sean Penn / Naomi Watts movie
 25 or 6 to 4;60;1970 Chicago song
 3 wise monkeys;60
 50 Ways to Leave Your Lover;60;1975 Paul Simon song
