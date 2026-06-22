@@ -15654,6 +15654,7 @@ dessertfork;60
 dessertforks;60
 dessertmenu;50
 dessertmenus;50
+dessert stomach;60;Craving for sweets after meals
 desserttray;50
 desserttrays;50
 dessertwine;50
@@ -55990,6 +55991,8 @@ secondpairofeyes;60
 secondpunicwar;50
 secondserve;50
 secondsetofeyes;60
+second stomach;60;Craving for sweets after meals
+secondstomars;0
 secondtolast;50
 secrecies;30
 secretariat;50
@@ -60680,6 +60683,11 @@ standsupto;40
 standto;40
 standtrial;60
 standtrialfor;50
+standup comedian;60
+standup comedians;60
+standup comedy;60
+standup comic;60
+standup comics;60
 standupguy;60
 standupguys;60
 standupto;40
