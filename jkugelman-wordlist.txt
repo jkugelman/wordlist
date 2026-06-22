@@ -60664,6 +60664,7 @@ standingsplits;60;Gymnastic split done while standing on one leg
 standingto;40
 standingtrial;60
 standingtrialfor;50
+standing up in court;60
 standingupto;40
 standins;50
 standish;30;Pilgrim Miles Standish
@@ -60679,6 +60680,7 @@ standsover;40
 standsto;40
 standstrial;60
 standstrialfor;50
+stands up in court;60
 standsupto;40
 standto;40
 standtrial;60
@@ -60688,8 +60690,11 @@ standup comedians;60
 standup comedy;60
 standup comic;60
 standup comics;60
-standupguy;60
-standupguys;60
+stand-up guy;60
+standup guy;0
+stand-up guys;60
+standup guys;0
+stand up in court;60
 standupto;40
 stanfor;50
 stang;40;Ford Mustang, familiarly
@@ -61498,6 +61503,7 @@ stoodover;20
 stoodto;40
 stoodtrial;60
 stoodtrialfor;50
+stood up in court;60
 stoodupto;40
 stool;50
 stoolie;50
