@@ -64,7 +64,8 @@ aardvarkcubs;50
 aari;30;Aari McDonald of the WNBA
 Aaronite;40;Priestly descendant of Aaron
 Aaronites;40;Priestly descendants of Aaron
-aarons;30;Plural name
+Aaron's;30;Aaron's rod
+Aarons;30;Plural name
 Aaron Sorkin;60;TV and movie writer
 aaronsrod;50;Biblical stick carried by Moses's brother, D. H. Lawrence novel
 Aaron Taylor-Johnson;50
