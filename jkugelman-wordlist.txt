@@ -27678,18 +27678,29 @@ hellene;40;Greek
 hellenes;40;Greeks
 hellenic;50;Greek
 hellers;30;Hellions
+hell freezes over;60
+hell hath no fury like a woman scorned;60
 hellhole;60
 hellholes;60
 hellhound;60
 hellhounds;60
+hell if I know;60
+Hell in a Cell;60
+hell in a handbasket;60
 hellion;60
 hellions;60
 hellish;60
 hellishly;60
+hell is other people;60
+he'll live;60
 hellmannsdijonnaise;50
 hellno;60
 hello;50
-hellodolly;50
+hello Clarice;60;Hannibal Lecter line in "Silence of the Lambs"
+Hello, Dolly!;60;Musical
+Hello Dolly;0
+hell of a guy;60
+HelloFresh;60
 hellohello;50
 hellosailor;50
 hellostranger;60
