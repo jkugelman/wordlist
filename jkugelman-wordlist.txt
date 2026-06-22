@@ -2467,7 +2467,9 @@ anag;30
 anagoge;20;<Something to do with scriptural interpretation>
 anagoges;20;<Something to do with scriptural interpretation>
 anaheimca;30
-anais;40;Diarist Anaïs Nin
+Anais;40;Diarist and erotica writer Anaïs Nin
+Anaïs Nin;50;Diarist and erotica writer
+Anais Nin;0
 anal;50
 analecta;30
 analectic;30
@@ -15845,6 +15847,7 @@ diarchy;30;Government by two independent authorities
 diarist;50
 diarists;50
 diarrhea;10
+Diary of Anaïs Nin;60
 dias;40
 diastema;30;Tooth gap
 diatomite;30;Diatomaceous earth
@@ -64769,6 +64772,7 @@ thedevilsplayground;60;Idle hands, it's said
 thedevilsplaythings;60;Idle hands, it's said
 thedevilsworkshop;60;Idle hands, it's said
 thedew;0
+The Diary of Anaïs Nin;60
 thedie;20
 thedishes;30
 thedisrespect;60
