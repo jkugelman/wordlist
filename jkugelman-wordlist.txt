@@ -28611,6 +28611,9 @@ honeybakedham;60
 honeybakedhams;60
 honeybear;60
 honeybears;60
+honeybee farm;60
+honeybee farming;60
+honeybee farms;60
 honeybun;60
 honeybunch;60
 honeybunny;60
@@ -60441,18 +60444,18 @@ squaresoffagainst;50
 squarethecircle;60
 squaringoff;50
 squaringoffagainst;50
-squashabeef;60
-squashbeefs;60
-squashedabeef;60
-squashedbeefs;60
-squashedthebeef;60
-squashesabeef;60
-squashesbeefs;60
-squashesthebeef;60
-squashingabeef;60
-squashingbeefs;60
-squashingthebeef;60
-squashthebeef;60
+squash a beef;60
+squash beefs;60
+squashed a beef;60
+squashed beefs;60
+squashed the beef;60
+squashes a beef;60
+squashes beefs;60
+squashes the beef;60
+squashing a beef;60
+squashing beefs;60
+squashing the beef;60
+squash the beef;60
 squealedlikeapig;60
 squealedon;40
 squealinglikeapig;60
@@ -62860,6 +62863,7 @@ systemofadown;60
 syzygies;60
 syzygy;60
 sza;40;R&B singer
+Szechuan beef;60
 szechwan;20
 szyslak;50;Moe Szyslak on "The Simpsons"
 t;40
@@ -71275,6 +71279,7 @@ whatsthis;60
 whatsthisthen;60
 whatswhat;60
 whatswiththat;60
+what's your beef?;60
 whatsyourexcuse;60
 whatsyourmalfunction;60
 whatsyourproblem;60
@@ -71331,7 +71336,8 @@ whereforeartthou;40;Partial
 whereforeartthouromeo;60
 wherehaveyougonejoedimaggio;60
 whereinto;40
-wheresthebeef;60
+where's the beef?;60
+where's the beef;0
 wheresthefire;60
 wheresthisgoing;60;"Alright, cut to the chase"
 wheretheresawilltheresaway;60
