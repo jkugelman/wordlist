@@ -17125,6 +17125,10 @@ dottedis;50
 dottedline;60
 dottedlines;60
 doublea;30
+double bag;50
+double bagged;50
+double bagging;50
+double bags;50
 doubleblinded;50
 doubleblindedstudies;50
 doubleblindedstudy;50
@@ -25050,7 +25054,7 @@ goesinon;50
 goesinsane;50
 goesinto;40
 goesintolabor;50
-goesipo;40
+goes IPO;30;Not a real phrase
 goeskaput;60
 goesmad;50
 goesmadfor;40
@@ -25166,7 +25170,7 @@ goinginon;50
 goinginpeace;50
 goinginsane;50
 goingintolabor;50
-goingipo;40
+going IPO;30;Not a real phrase
 goingkaput;60
 goingmad;50
 goingmadfor;40
@@ -25207,7 +25211,7 @@ goinon;50
 goinsane;50
 gointo;40
 gointolabor;50
-goipo;40
+go IPO;30;Not a real phrase
 goitrous;30;Having a goiter
 gokaput;60
 gol;40
@@ -36867,6 +36871,8 @@ lowing;40
 lowiq;40
 lowiqs;40
 lowish;40
+lowlight;50;Particularly bad or unpleasant event, detail, or part
+lowlights;50;Area of the hair made a darker color
 lowlily;30;Weird adverb
 lowneck;50
 lowness;50
@@ -71012,7 +71018,7 @@ wentinpeace;50
 wentinsane;50
 wentinto;40
 wentintolabor;50
-wentipo;40
+went IPO;30;Not a real phrase
 wentkaput;60
 wentmad;50
 wentmadfor;40
