@@ -22,6 +22,8 @@ AAA card;50
 aaacards;0
 AAA cell;40
 AAA cells;40
+Aaahh!!! Real Monsters;60
+Aaahh Real Monsters;0
 AAA map;30;Green paint
 AAA maps;30;Green paint
 aaas;40;Batteries
