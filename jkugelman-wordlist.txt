@@ -65736,6 +65736,11 @@ thoughtahead;50
 thoughtof;40
 thoughton;40
 thoughtoutsidethebox;60
+thought-terminating;60
+thought-terminating cliché;60
+thought-terminating cliche;0
+thought-terminating clichés;60
+thought-terminating cliches;0
 thoughtup;50
 thr;20
 thrace;40;Ancient Greek region
