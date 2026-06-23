@@ -70357,18 +70357,22 @@ waikikibeach;50
 waimea;40;Hawaiian valley
 waitabit;50
 waitadarnminute;60
+wait around for;40
 waitasec;60
 waitasecond;60
 waite;30;Various people, not super notable
 waitedabit;50
+waited around for;40
 waitedfor;40
 waitedon;40
 waiters;50
 waitfor;40
 waithe;40;Actress/producer Lena Waithe
 waitingabit;50
+waiting around for;40
 waitingfor;40
 waitingon;40
+Waiting on a War;50;2021 single by Foo Fighters
 waitjustaminute;60
 waitjustamoment;60
 waitjustasec;60
@@ -70383,6 +70387,7 @@ waitresses;50
 waitron;60
 waitrons;60
 waitsabit;50
+waits around for;40
 waitsfor;40
 waitson;40
 waityourturn;60
