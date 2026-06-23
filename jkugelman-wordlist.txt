@@ -15323,8 +15323,18 @@ dehydratedboulders;60;Acme invention
 dehydratedfood;50
 dehydratedfoods;50
 dei;40;Opus Dei, Agnus Dei
-deicer;30
-deicers;30
+de-ice;50
+deice;50
+de-iced;50
+deiced;50
+deicer;40
+de-icer;40
+deicers;40
+de-icers;40
+de-ices;50
+deices;50
+de-icing;50
+deicing;50
 deictic;30;Linguistics term
 deidre;40
 deific;50;Godlike
@@ -36301,6 +36311,8 @@ loccit;40;Loc. cit. footnote term
 loci;40
 lockandload;60
 lockaway;40
+lock de-icer;50
+lock de-icers;50
 lockdown;50
 lockdowns;50
 lockedandloaded;60
