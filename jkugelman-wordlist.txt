@@ -2132,6 +2132,7 @@ altruists;50
 alts;40
 alttab;50
 alttext;50
+altwweeeekly;0
 aludel;20
 aluminate;30
 aluminium;60
@@ -3696,6 +3697,7 @@ arroyo;40;Southwestern gully
 arroyos;40;Southwestern gullies
 arroz;40
 arrr;30
+arrrrrrrrrrrrgo;0
 ars;40;Classical art?
 arse;50
 arsed;50
@@ -5892,6 +5894,7 @@ bbqstand;60
 bbqstands;60
 bbqwing;60
 bbqwings;60
+bbrrootthheerr;0
 bbs;50;Ammo, or BBS
 bc;40
 bcc;40
@@ -8603,6 +8606,7 @@ bubblebaths;60
 bubblegum;50
 bubblegumpink;60
 bubbles;50
+bubblleeggum;0
 buc;40
 bucatini;40;Hollow spaghetti-like pasta
 buchedenoel;50;???
@@ -8668,6 +8672,7 @@ bugeyed;60
 bugeyes;60
 bugfix;60
 bugfixes;60
+buggaabboo;0
 bugged;50
 buggedoff;50
 buggedout;60
@@ -9026,6 +9031,7 @@ butttexting;60
 butttexts;60
 buttugly;60
 butyrate;40;Fatty acid
+buuuuuungeecord;0
 buy;50
 buyamap;0
 buycheapbuytwice;60
@@ -9149,6 +9155,7 @@ caesuras;30
 caf;40
 cafetable;50
 cafetables;50
+caffeettaables;0
 caffeinic;30
 cagedin;40
 cagedive;60
@@ -10400,6 +10407,7 @@ cced;40
 ccell;40
 ccells;40
 cch;40;Actress CCH Pounder
+cchheeeessee;0
 cci;20
 ccii;20
 ccing;40
@@ -14484,6 +14492,7 @@ dadblasted;60
 dadbod;60
 dadbods;60
 daddario;50;Actress Alexandra Daddario
+daddylleeggss;0
 daddyshome;50
 dadgum;60
 dadgumit;60
@@ -14916,6 +14925,7 @@ dddddddd;0
 dddddddddd;0
 dde;30;Eisenhower
 ddeeaall;0
+ddiippppeerr;0
 ddr;20
 dds;40
 ddt;40;Insecticide
@@ -17180,6 +17190,7 @@ doubleshots;50
 doubleslitexperiment;60
 doubleslitexperiments;60
 doubletime;50
+doublettaapp;0
 doubleu;30
 doublewide;50
 doublewides;50
@@ -18563,6 +18574,7 @@ eelier;30
 eeliest;30
 eeling;30
 eellike;40
+eellwwaayy;0
 eelpie;30
 eelpies;30
 eelpot;30
@@ -23305,6 +23317,7 @@ fuckwith;10
 fuddy;40;Fuddy duddy
 fuddyduddies;60
 fuddyduddy;60
+fudgeffaaccttor;0
 fudgsicle;60
 fudgsicles;60
 fudgy;30
@@ -24043,6 +24056,7 @@ gemination;40
 geminations;40
 geminid;50
 geminids;50
+gemmiinnii;0
 gemologist;50
 gemologists;50
 gemology;50
@@ -24533,6 +24547,8 @@ gflatscale;30
 gforce;60
 gforces;60
 gfs;20
+gggggggsummit;0
+gglleennnn;0
 ghali;40
 ghastlily;30;Weird adverb
 ghee;40;Indian butter
@@ -25134,6 +25150,7 @@ gofaster;50
 goff;30;Detroit Lions quarterback Jared Goff, made it to Super Bowl and Pro Bowl
 gofish;50
 goflat;50
+goflyyaakkite;0
 gofor;40
 goforadip;50
 goforajog;50
@@ -25820,6 +25837,7 @@ grandbaby;50
 grandcanal;50
 grandcru;50
 grandee;30
+grandeeddaamme;0
 grandees;30
 grandfamily;60;Family where children are raised by their grandparents
 grandfatherclock;50
@@ -29952,12 +29970,14 @@ iii;30;Three, of a kind
 iiii;20;Four, of a kind
 iiiii;20
 iiiiispltnfntve;0
+iiiimsssspp;0
 iimagineso;60
 iin;20
 iinsist;60
 iipeter;20
 iirc;30;"To the best of my recollection", in a text
 iis;20
+iissllaanndd;0
 ijbol;20
 ijest;50
 ijk;20
@@ -32640,6 +32660,8 @@ jiujitsudojo;60
 jiujitsudojos;60
 jjevans;50
 jjonahjameson;60
+jjoohhnnsilver;0
+jjoohhnnss;0
 jkl;20
 jklmno;20
 jkrowling;10
@@ -32912,6 +32934,7 @@ junes;30;Plural name
 juneteenth;60
 junglier;30
 jungliest;30
+junglleeggym;0
 jungly;30
 juniormiss;50
 juniorseau;50
@@ -33816,8 +33839,9 @@ kod;40
 kodos;40;Simpsons alien
 koed;40
 koestler;40;Arthur Koestler, author of "The Sleepwalkers"
-kofi;40;Kofi Annan
-kofiannan;50
+Kofi;40;Kofi Annan, UN Secretary-General from 1997 to 2006
+Kofi Annan;50;UN Secretary-General from 1997 to 2006
+Kofi Atta Annan;50;UN Secretary-General from 1997 to 2006
 koh;20
 kohenoor;40;Koh-e-Noor, 105.6 carat diamond in the Crown of Queen Elizabeth
 kohinoor;40;Koh-i-Noor, 105.6 carat diamond in the Crown of Queen Elizabeth
@@ -36227,6 +36251,7 @@ llb;20
 llc;40
 llcs;40
 lld;20
+lleewwiiss;0
 lleyton;40;???
 llihhtiaf;0
 llm;40
@@ -37464,6 +37489,7 @@ magahats;10
 magdalen;40;Less common spelling of Magdalene
 magdas;20
 magentas;40
+magenttaappink;0
 maggot;40
 maggots;40
 maggoty;40
@@ -37911,6 +37937,7 @@ malison;20
 mallarme;40;Poet and critic Stéphane Mallarmé
 malle;40;Louis Malle, director of "My Dinner With Andre"
 mallee;20
+malleeggaze;0
 malleoli;40
 malleolus;40;Ankle bump
 mallets;50
@@ -37948,6 +37975,7 @@ mamies;20;Plural name
 mammee;20;Tropical fruit tree
 mammies;20
 mammon;30;Biblical wealth
+Mammootty;40;Indian actor and film producer (born 1951)
 mammy;50;"Gone With the Wind" character
 mamo;20;Plant/bird
 mamselle;40;???
@@ -38088,6 +38116,7 @@ manuallabor;50
 manuallaborer;50
 manuallaborers;50
 manubrium;30
+manuffaacctture;0
 manumission;30
 manumissions;30
 manumit;30;Release from slavery
@@ -42417,6 +42446,7 @@ noblegas;50
 noblegases;50
 noblelie;50
 noblelies;50
+noblleeggas;0
 nobodyknows;60
 nobodysawthatright;60
 nobroccoliforme;0
@@ -42948,6 +42978,7 @@ notsosecretmenu;60
 notsosure;60
 notsurewhy;60
 notsurprisingly;60
+nottaapproblem;0
 notthebrightestcrayoninthebox;60
 nottheonion;60
 notthesharpesttoolintheshed;60
@@ -45395,6 +45426,7 @@ outofcentralcasting;60
 outofconcern;50
 outofconcernfor;40
 outofcontention;50
+outoffaaccttion;0
 outofgas;50
 outofhand;60
 outofideas;50
@@ -52916,6 +52948,7 @@ returnsto;40
 returnto;40
 returntothefold;60
 retuse;20
+retwweeeeted;0
 retying;50
 reune;30
 reuned;30
@@ -54618,6 +54651,7 @@ sabre;40;British spelling, or Buffalo hockey player
 sabrinalebeauf;40;Sabrina Le Beauf from "The Cosby Show"
 sabut;0
 sac;50
+sacajjaawwea;0
 sacamaindevoyage;50;Hermès's Kelly bag, formerly (sac à main de Voyage)
 saccule;30;Inner ear organ
 sacha;40;Sacha Baron Cohen
@@ -55258,6 +55292,7 @@ satsuma;40;Japanese mandarin
 satsumas;40
 sattest;50
 sattests;50
+sattiinnyy;0
 satupon;40
 saturant;30
 saturants;30
@@ -56595,6 +56630,7 @@ serenest;30
 serfish;40
 serge;40;Fabric
 sergeidiaghilev;20;Russian art critic
+Sergei Prokofiev;60
 serges;40;Fabrics
 sergesuit;30
 sergesuits;30
@@ -60545,6 +60581,7 @@ squire;60
 squirtbottle;50
 squirtbottles;50
 squirtle;50;Pokeyman
+squxxxxccounts;0
 sr;40
 sra;40
 srabyeknom;0
@@ -60571,10 +60608,12 @@ sshape;30
 sshaped;30
 sshapes;30
 ssi;20
+ssiinnggllee;0
 ssn;40
 ssns;40
 ssorctfel;0
 ssorts;20
+ssppeennddeerr;0
 ssr;30;Part of the USSR [extremely common]
 ssri;40
 ssris;40
@@ -63888,6 +63927,7 @@ tearjerker;60
 tearjerkers;60
 tearjerkingscene;60
 tearoneshairout;60
+tearraappart;0
 tearsat;40
 tearsforfears;60
 tearsinto;40
@@ -65493,6 +65533,7 @@ thetrojanwar;20
 thetrolleyproblem;20
 thetrolleysong;20
 thetropics;40
+thetruuuuuuuuth;0
 thetuba;30
 thetudors;20
 theturn;50
@@ -67909,6 +67950,8 @@ tswift;60
 ttest;40
 ttests;40
 ttfn;20
+tthhrreeee;0
+ttiimmeenosee;0
 ttoe;20
 ttop;40
 ttops;40
@@ -68403,6 +68446,7 @@ twoyearterms;50
 twozerozerotwo;0
 twp;20;Township
 twps;20;Townships
+twwooeextremes;0
 twyla;40
 tx;40
 txt;40
@@ -70212,6 +70256,7 @@ vue;20
 vulcan;50
 vulcandeathgrip;60
 vulcans;50
+vvoowweell;0
 vwbug;60
 vwbugs;60
 vwbus;60
@@ -70224,6 +70269,7 @@ vye;20
 vyingfor;40
 w;40
 wa;40
+waaaaaaaistband;0
 waac;30
 waacs;30
 waah;30
@@ -71371,6 +71417,7 @@ what's your beef?;60
 whatsyourexcuse;60
 whatsyourmalfunction;60
 whatsyourproblem;60
+whattaappity;0
 whatthe;60
 whattheactualfuck;10
 whatthefuck;10
@@ -71436,6 +71483,7 @@ wherry;30;Small British boat
 whetstone;50
 whetstones;50
 whichisit;60
+whiiiiiiiiiss;0
 whilom;20;Former, archaic
 whipin;40
 whippedin;40
@@ -71624,6 +71672,7 @@ whyistheoceanneartheshore;60
 whyme;60
 whyso;50
 whysthat;60
+whytheffaaccee;0
 whyyoulittle;60
 wichitaks;30
 wickedcool;60
@@ -72363,6 +72412,7 @@ wwiiaces;30
 wwiiepic;40
 wwiiepics;40
 wwiiera;40
+wwiinnddeedd;0
 wwiipilot;50
 wwiipilots;50
 wwiiship;20
