@@ -47,9 +47,14 @@ aahing;40
 aahing at;30
 aahs;50
 aahs at;30
+aah that's the spot;60
+aah this is the life;60
 aaiiiiiiiiiiiii;0
 aalarge;40
+Aalto;40;Finnish architect and designer Alvar Aalto
+aalto;0
 aam;20
+AAMCO;40
 aameeting;60
 aameetings;60
 aamilne;50
@@ -2141,6 +2146,7 @@ alumnimags;50
 alundum;20;Fused alumina used as abrasive/refractory
 alunser;40
 alva;40;Thomas Alva Edison
+Alvar Aalto;50;Finnish architect and designer
 alveoli;40
 alvinbragg;50;Trump prosecutor
 alvins;30;Plural name
