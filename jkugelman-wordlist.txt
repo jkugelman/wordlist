@@ -35169,6 +35169,7 @@ legominifigures;60
 legomovie;60
 legoset;60
 legosets;60
+Lego Technic;60;Line for models of working vehicles and machines
 legpress;60
 legpresses;60
 legree;30;Simon Legree of "Uncle Tom's Cabin"
@@ -46378,6 +46379,7 @@ patchtests;60
 patchup;50
 patdowndownpat;0
 pate;50
+pâté;50
 pated;40;Addle-pated?
 patel;40
 patellae;40
@@ -62947,7 +62949,7 @@ tach;40
 tachograph;40;Device that records driving time, speed, and distance
 tachographs;40
 tachometry;40
-tacitus;20;Roman historian
+Tacitus;40;Roman historian
 tackedonto;40
 tacket;20
 tackets;20
@@ -62967,6 +62969,9 @@ taconights;60
 taconite;20;Iron ore
 tacopie;40
 tacopies;40
+taco sauce;50
+taco sauces;50
+taco seasoning;60
 tacostand;60
 tacostands;60
 tacotown;50;???
@@ -63246,7 +63251,7 @@ takingtothehills;60
 takingunderoneswing;60
 takingwing;50
 takis;40;Tortilla chips
-tal;20
+Tal;40;Chess grandmaster Mikhail Tal / "The Pitt" actress Tal Anderson
 talaria;30;Mercury's winged sandals
 talbot;30;???
 talced;40;Powdered (verb)
@@ -63896,6 +63901,7 @@ techipo;40
 techipos;40
 techmogul;50
 techmoguls;50
+Technic;40;Lego line for advanced models
 technic;20;Technique
 technicalissue;50
 technicalissues;50
@@ -63938,13 +63944,15 @@ teeheehee;40
 teehees;30
 teeingoff;50
 teeingoffon;50
-teeitup;20
+tee it up;40
 teeline;30
 teemarker;60
 teemarkers;60
 teemer;30
 teemers;30
-teemu;20
+Teemu;30;Hockey Hall of Famer Teemu Selänne
+Teemu Selänne;50;Hockey Hall of Famer (2017)
+teemuselanne;20
 teena;40
 teenangst;60
 teener;30;Teenager, or drug slang
@@ -64073,7 +64081,7 @@ telos;40;Term from Aristotle
 telpher;30;Cable car
 telphers;30
 tels;30
-telugu;20;South Indian language
+Telugu;30;South Indian language
 tem;40
 temblor;20;Earthquake
 temblors;20;Earthquakes
@@ -64083,7 +64091,7 @@ tempagency;50
 tempera;40;Water-based paint
 temperas;40
 tempesttossed;60;Violently buffeted
-tempi;20;Tempos
+tempi;40;Tempos
 tempjob;50
 tempjobs;50
 templeofartemis;60;One of the Seven Wonders of the Ancient World
@@ -64276,8 +64284,8 @@ terret;30;Loop for horse reins
 terrets;30;Loops for horse reins
 terriermix;50
 terriermixes;50
-terrine;20
-terrines;20
+terrine;30;Type of pâté
+terrines;30;Types of pâté
 territorialize;30
 territorialized;30
 terroir;30;Character of wine
@@ -64417,7 +64425,7 @@ thalami;40;Thalamus plural
 thalassa;30;Moon of Neptune, Greek sea goddess
 thaler;20;Old German coin
 thalers;20;Old German coins
-thalia;20;Muse of comedy
+Thalia;40;Muse of comedy
 thalli;30;Plural of thallus
 thallus;30;Vegetative tissue
 thandie;30;Actress Thandiwe Newton (formerly Thandie)
@@ -64764,7 +64772,7 @@ thecopa;40
 thecops;40
 thecore;40;Sci-fi film
 thecosmos;40
-thecount;20
+The Count;50;Muppet
 thecow;20
 thecrab;40;???
 thecrimea;30
@@ -64838,8 +64846,8 @@ theentertainer;60
 theepa;20
 theerastour;60
 theespys;40
-theeu;20
-theeuro;20
+the EU;40
+the euro;30
 theexpertscurse;60
 theeye;40;Dirty look
 theeyeofra;40
@@ -65133,7 +65141,7 @@ thenextroundisonme;60
 thenextroundsonme;60
 thenfl;20
 thenhl;20
-thenile;20
+the Nile;50
 thenod;30
 thenorth;40
 thenosebleeds;60
@@ -65343,7 +65351,7 @@ theshahofiran;30;???
 theshapeofmeandotherstuff;50;Dr. Seuss book
 theshining;60
 theshipoftheseus;60
-theshire;30
+The Shire;60
 theshit;10
 theshootist;50
 theshowmustgoon;60
