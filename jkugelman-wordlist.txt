@@ -1,16 +1,16 @@
-'03 Bonnie and Clyde;60;2002 Jay-Z song
-'03 Bonnie & Clyde;60;2002 Jay-Z song
+'03 Bonnie and Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
+'03 Bonnie & Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
 101 Dalmatians;60;1961 Disney movie
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
-11/22/63;60;Stephen King book
-12 Angry Men;60;1957 legal drama
+11/22/63;60;2011 novel by Stephen King
+12 Angry Men;60;American legal drama film by Sidney Lumet
 1984;60;George Orwell novel
-21 Grams;50;2003 Sean Penn / Naomi Watts movie
-25 or 6 to 4;60;1970 Chicago song
+21 Grams;50;2003 Sean Penn / Naomi Watts film
+25 or 6 to 4;60;1970 single by Chicago
 3 wise monkeys;60
-50 Ways to Leave Your Lover;60;1975 Paul Simon song
+50 Ways to Leave Your Lover;60;1975 single by Paul Simon
 54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
-99 Problems;60;2003 Jay-Z song
+99 Problems;60;2004 single by Jay-Z
 a;50
 AA;40;Alcoholics Anonymous / Battery size
 AAA;40;American Automobile Association / Small battery size
@@ -75,16 +75,18 @@ Aaronite;40;Priestly descendant of Aaron
 Aaronites;40;Priestly descendants of Aaron
 Aaron's;30;Aaron's rod
 Aarons;30;Plural name
-Aaron Sorkin;60;TV and movie writer
-aaronsrod;50;Biblical stick carried by Moses's brother, D. H. Lawrence novel
-Aaron Taylor-Johnson;50
+Aaron Sorkin;60;American screenwriter, playwright, and filmmaker (born 1961)
+Aaron's rod;50;Biblical stick carried by Moses's brother
+Aaron's Rod;50;D. H. Lawrence novel
+Aaron Taylor-Johnson;50;English actor (born 1990)
 aarp;40
 aarpcard;40
 aarpcards;40
 AARP member;50
 AARP members;50
 aas;40;Batteries
-Aasif;40
+Aasif;40;Aasif Mandvi, "The Daily Show" correspondent 2006-17
+Aasif Mandvi;50;"The Daily Show" correspondent 2006-17
 A as in apple;60
 aasponsor;60
 aasponsors;60
@@ -11414,7 +11416,7 @@ christiaan;40;???
 christiana;40
 christianname;60
 christianpop;50
-Christian Pulisic;50;American soccer player
+Christian Pulisic;50;American soccer player (born 1998)
 christianrock;50
 christinaperri;50;Singer of "A Thousand Years"
 christmas;60
@@ -37612,7 +37614,8 @@ mailingitin;40
 mailingto;40
 mailitin;40
 maillardreaction;60
-maillot;30;Type of swimsuit
+maillot;30;Woman's one-piece swimsuit
+maillots;30;Women's one-piece swimsuits
 mailsin;40
 mailsitin;40
 mailsto;40
@@ -38030,6 +38033,7 @@ mandolas;40;Violin : viola :: mandolin : mandola
 mandoline;50
 mandolines;50
 mandragora;30;Mandrake genus
+Mandvi;40;Aasif Mandvi, "The Daily Show" correspondent 2006-17
 mandys;30;Plural name
 maneater;50
 maneaters;50
@@ -50041,7 +50045,7 @@ pules;40;Whines
 puli;20;Dreadlocked dog
 puling;40;Whining
 pulis;20;Dreadlocked dogs
-pulisic;40;American soccer player Christian Pulisic
+Pulisic;40;Christian Pulisic, American soccer player (born 1998)
 pullat;40
 pullauey;50
 pullday;50
