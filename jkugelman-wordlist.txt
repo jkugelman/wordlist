@@ -55373,7 +55373,7 @@ saysyesto;40
 saythankyou;60
 sayto;40
 sayyesto;40
-sba;20
+SBA;30;Small Business Administration
 sbaloan;30
 sbaloans;30
 sblood;20;Archaic oath
@@ -55746,7 +55746,7 @@ scrotox;10;Botox for the scrotum
 scrubnurse;50
 scrubnurses;50
 scrumdiddlyumptious;60
-scruple;30
+scruple;40;Weird singular
 scrupled;30
 scry;40
 scrying;40
@@ -56203,7 +56203,7 @@ segura;40;Comedian/podcaster Tom Segura
 segwaytour;50
 segwaytours;50
 sehorn;40;NFL player Jason Sehorn (1994-2003)
-sei;20
+sei;30;Six, in Italian
 seidel;30
 seidnitsew;0
 seifert;30;49ers coach George Seifert 1989-96
@@ -56519,9 +56519,9 @@ sentrygo;40;Call for the changing of the guard
 sentto;40
 seo;30
 sep;40
-sepal;20;Flower part
-sepaloid;40
-sepals;20;Flower parts
+sepal;30;Flower part
+sepaloid;30
+sepals;30;Flower parts
 sepias;30
 sepoy;20;Indian soldier
 sepoys;20;Indian soldiers
@@ -56564,7 +56564,7 @@ serenest;30
 serfish;40
 serge;40;Fabric
 sergeidiaghilev;20;Russian art critic
-serges;20;Fabrics
+serges;40;Fabrics
 sergesuit;30
 sergesuits;30
 sergios;30;Plural name
@@ -57524,7 +57524,7 @@ shriven;20;Gone to confession
 shroom;60
 shrooms;60
 shs;20
-shu;20
+shu;30;Moo shu pork
 shubniggurath;60;Lovecraftian Outer God
 shuckcorn;50
 shuckedcorn;50
@@ -57648,8 +57648,8 @@ siegeweapon;60
 siegeweapons;60
 siegfriedandroy;60
 siemens;30
-siena;20;Italian city
-sienese;20;Renaissance school of painting
+Siena;40;Italian city
+Sienese;30;From Siena, Italy / Renaissance school of painting
 siepi;20
 sierraclub;50
 sierramist;60
@@ -57715,8 +57715,8 @@ signingonto;40
 signlanguage;50
 signoneslifeaway;60
 signonto;40
-signor;50
-signori;20;Italian gentleman
+signor;40
+signori;40;Italian gentleman
 signories;20
 signorine;20;Unmarried Italian woman
 signory;20;Territory or domain
@@ -57982,8 +57982,8 @@ sirup;20
 sirups;20
 siryessir;50
 sis;50
-sisal;20
-sisals;20
+sisal;30;Rope fiber
+sisals;30;Rope fibers
 sisepuede;60
 sisi;40
 sisisi;40
@@ -58853,7 +58853,7 @@ smorgasbord;60
 smorgasbords;60
 sms;30
 smtwtfs;30
-smu;20
+SMU;40;Southern Methodist University
 smurf;60;Pretend noob
 smurfed;60
 smurfing;60
@@ -58994,7 +58994,8 @@ snell;30;Fishing line attachment
 snelleneyechart;60
 snells;30;Snell's law of refraction
 snerd;30;Mortimer Snerd, ventriloquism dummy
-snert;20;Hagar's dog, or Dutch split pea soup
+Snert;30;Hägar the Horrible's dog
+snert;20;Dutch split pea soup
 snes;40
 sniatnuom;0
 snicker;50
@@ -59318,7 +59319,8 @@ softwareupdates;60
 sog;20
 sohavei;50
 sohelpme;60
-sohla;20
+Sohla;30;Chef, restaurateur, author, and YouTube personality Sohla El-Waylly
+Sohla El-Waylly;50;Chef, restaurateur, author, and YouTube personality
 sohn;20;Son: Ger.
 soho;40
 soi;20
@@ -59333,7 +59335,7 @@ soitgoes;60
 soitseems;60
 soiwaslike;60
 soiwasthinking;60
-soju;30;Korean liquor
+soju;40;Korean liquor
 sokhumi;30;Georgian city (the country)
 sol;40
 sola;40
@@ -59443,7 +59445,7 @@ solvating;30
 solvation;30
 solveacrossword;20
 soma;30
-somad;20
+so mad;40;Contrived?
 somalian;20;Wrong, Somali is preferred
 somalians;20
 somalipirate;50
@@ -59587,8 +59589,8 @@ sororal;40
 sororitypin;50
 sororitypins;50
 sorosis;20
-sorrel;30;Herb
-sorrels;30;Herbs
+sorrel;50;Herb
+sorrels;40;Herbs
 sorrower;30
 sorrowers;30
 sorryfor;40
@@ -59741,7 +59743,7 @@ southcarolinian;50
 southcarolinians;50
 southdakotan;50
 southdakotans;50
-souther;30
+souther;40;Singer JD Souther
 southerncooking;50
 southerner;50
 southerners;50
@@ -61410,8 +61412,9 @@ stlouismo;40
 stlouisram;50
 stlouisrams;50
 stmalo;40;French city, didn't check notability
-stn;20
+stn;30;Station
 stneduts;0
+stns;30;Stations
 sto;20
 stoat;40
 stoats;40
@@ -61512,7 +61515,7 @@ stoneylonesome;60
 stoodat;20
 stoodatease;50
 stoodnextto;40
-stoodon;20
+stood on;40
 stoodover;20
 stoodto;40
 stoodtrial;60
@@ -61530,18 +61533,18 @@ stoopingto;40
 stoopsto;40
 stoopto;40
 stopapologizing;60
-stopat;20
+stop at;40
 stopbath;60;Photo development aid
 stopbaths;60
 stoploss;60;Trading policy to limit downside
 stopmakingsense;60
-stoppedat;20
-stoppingat;20
+stopped at;40
+stopping at;40
 stopple;30;Stopper/plug
 stoppled;30
 stopples;30
 stoppling;30
-stopsat;20
+stops at;40
 stopsit;0
 stopthat;60
 stopthefight;60
@@ -61551,7 +61554,8 @@ storagemedia;50
 storagemedium;50
 storages;40
 storch;20
-storead;20;???
+store ad;40;Green paint
+store ads;40;Green paint
 storedin;40
 storein;40
 storer;40
@@ -62123,7 +62127,7 @@ sueover;40
 suesehtminotaur;0
 suesfor;40
 suesover;40
-suet;30;Animal fat
+suet;40;Animal fat
 suethepantsoff;60
 suethepantsoffof;60
 suets;20
@@ -62343,7 +62347,8 @@ supercontinent;50
 supercontinents;50
 supercool;60
 supereasybarelyaninconvenience;60
-superegos;30
+superego;60
+superegos;60
 superfood;60
 superfoods;60
 supergirl;60
