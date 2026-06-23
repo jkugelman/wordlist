@@ -1,3 +1,5 @@
+'03 Bonnie and Clyde;60;2002 Jay-Z song
+'03 Bonnie & Clyde;60;2002 Jay-Z song
 101 Dalmatians;60;1961 Disney movie
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;Stephen King book
@@ -6566,7 +6568,12 @@ bey;40;Queen Bey (Beyonce)
 beyblade;60
 beyblades;60
 beyhive;60;Beyoncé fans
-beyonce;60
+Beyoncé;60
+Beyonce;0
+Beyoncé Knowles;60
+Beyonce Knowles;0
+Beyoncé Knowles-Carter;60
+Beyonce Knowles-Carter;0
 beyondonesreach;50
 beyondthespiderverse;60
 bf;40
@@ -32409,6 +32416,8 @@ jaycees;40;United States Junior Chamber, leadership training service organizatio
 jayjg;0
 jaylen;40;Jaylen Brown of the Celtics
 jayson;40;Jayson Blair in a plagiarism scandal, or the NBA's Jayson Tatum
+jayzdiscography;0
+jayzkanyewest;0
 jazzaficionado;50
 jazzaficionados;50
 jazzage;50
@@ -33039,6 +33048,7 @@ kansasdog;20;???
 kansasdogs;20;???
 kansasst;20
 kanyewest;10
+kanyewestjayzbigsean;0
 kaolinite;30;Mineral
 kaon;30;Subatomic particle
 kaons;30;Subatomic particles
@@ -41900,6 +41910,7 @@ newareas;20;Green paint
 newarrival;50
 newarrivals;50
 newat;40
+newbeyoncealbum;0
 newclothes;50
 newconstruction;50
 newdo;50
