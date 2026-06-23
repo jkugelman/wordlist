@@ -26352,6 +26352,8 @@ guessers;40
 guesses;50
 guessesat;40
 guessingat;40
+guess it's not meant to be;60
+guess it wasn't meant to be;60
 guessnot;60
 guesstimate;60
 guesstimated;60
@@ -32011,15 +32013,27 @@ itsnotaddingup;60
 itsnotatoy;60
 itsnotformetosay;60
 itsnothing;60
+it's nothing fancy;60
+it's nothing new;60
+it's nothing personal;60
+it's nothing really;60
+it's not if but when;60
 itsnotjustyou;60
-itsnotmeanttobe;60
-itsnotmuchtolookat;60
-itsnotmydepartment;60
-itsnotmyfinestwork;60
-itsnotright;60
-itsnotsetinstone;60
+it's not like that;60
+it's not meant to be;60
+it's not much to look at;60
+it's not my cup of tea;60
+it's not my day;60
+it's not my department;60
+it's not my finest work;60
+it's not right;60
+it's not set in stone;60
+it's not that bad;60
+it's not that complicated;60
 itsnotthatdeep;60;"Stop taking this so seriously!"
 itsnotthatsimple;60
+It's Not Unusual;60;1965 single by Tom Jones
+it's not your problem;60
 itsnouse;60
 itsodd;50
 itsok;50
@@ -32029,13 +32043,14 @@ itsokaywithme;60
 itsokbyme;60
 itsokwithme;60
 itsonethingafteranother;60
+it's on like Donkey Kong;60
 itsonlyamatteroftime;60
 itsonme;60
 itsoundsfishy;50
-itsoundslikeaskillissue;60
-itsoundslikeayouproblem;60
+it sounds like a skill issue;60
+it sounds like a you problem;60
 itsoutofmyhands;60
-itsoutofourhands;60
+its out of our hands;60
 itsover;60
 itsoveralready;60;"That was fast..."
 itspecialist;50
@@ -32046,14 +32061,17 @@ itsprivate;60
 itsquiettooquiet;60
 itsquiteastretch;60
 itsreallyinthere;60
-itsselfexplanatory;60
+it's Saturday night;60
+it's self-explanatory;60
 itsserious;60
+it's settled;60
 itssimple;60
 itssimplereally;60
-itssoeasyachildcandoit;60
-itssoeasyachildcoulddoit;60
-itssoeasyevenachildcandoit;60
-itssoeasyevenachildcoulddoit;60
+it's so bad;60
+it's so easy a child can do it;60
+it's so easy a child could do it;60
+it's so easy even a child can do it;60
+it's so easy even a child could do it;60
 it's so over;60
 itssotrue;60
 itsstarting;50
@@ -32098,6 +32116,7 @@ itwasjustadream;60
 itwasjustathought;60
 itwasmeanttobe;60
 itwasntme;60
+it wasn't meant to be;60
 itwasntnotmyfinesthour;60
 itwelcometoderry;60;"IT: Welcome to Derry"
 itwillcostyounothing;60
@@ -48201,6 +48220,7 @@ playssecondfiddle;60
 playstation;60
 playstationgame;60
 playstationgames;60
+PlayStation Portable;60
 playstations;60
 playsto;40
 playstupidgames;60
@@ -59313,10 +59333,10 @@ sodiumna;0
 sods;50
 sodumb;60
 soeasyacavemancandoit;60
-soeasyachildcandoit;60
-soeasyachildcoulddoit;60
-soeasyevenachildcandoit;60
-soeasyevenachildcoulddoit;60
+so easy a child can do it;60
+so easy a child could do it;60
+so easy even a child can do it;60
+so easy even a child could do it;60
 soever;30
 soextra;60
 sofa;50
@@ -59560,13 +59580,24 @@ sonants;40
 sonars;40
 sondra;30;???
 sone;20;Unit of loudness
+Song Exploder;60;Music podcast
 songkran;40;Thai New Year
+Song of the South;50
+Song of the Year;60;Grammy category
 songparodies;50
 songparody;50
+Songs in the Key of Life;60;1976 studio album by Stevie Wonder
+songsoffaithand;0
+songstresspatti;0
+songswithout;0
 songz;50;Rapper Trey
 soni;20
 sonia;40
 soniabraga;50
+sonic boom;60
+sonic booms;60
+sonic depth finder;60
+sonic depth finders;60
 sonics;50
 sonicthehedgehog;60
 sonicyouth;60
@@ -59574,6 +59605,7 @@ soninlaw;50
 sonneteer;40
 sonneteers;40
 sonnies;30
+Sonny Crockett;50;"Miami Vice" character
 sonnys;30;Plural name
 sonof;40
 sonofa;60
@@ -59594,10 +59626,12 @@ sonship;40;Christian term
 sonsie;20;???
 sonsinlaw;50
 sonsofadam;50
+Sons of Anarchy;60
+Sons of Liberty;60
 sont;20
-sonyplaystation;60
-sonyplaystations;60
-sonypsp;50
+Sony PlayStation;60
+Sony PlayStations;60
+Sony PSP;50;Handheld game console by Sony
 sonys;40
 soo;40;Phillipa Soo of "Hamilton"
 sooey;40;Farm call
