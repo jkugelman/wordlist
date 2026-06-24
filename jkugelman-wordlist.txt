@@ -40291,6 +40291,8 @@ monkeysuit;60;Tuxedo
 monkeysuncle;60
 monkmode;60;Lifestyle choice
 Monobloc;50;World's most common plastic chair
+Monobloc chair;60;World's most common plastic chair
+Monobloc chairs;60;World's most common plastic chairs
 monobrow;40
 monobrows;40
 monocle;60
