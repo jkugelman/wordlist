@@ -17348,17 +17348,18 @@ drawablank;60
 drawabye;40
 drawadistinction;50
 drawagunon;40
-drawahead;50
+draw ahead;50
 drawandquarter;50
 drawattentionto;40
 drawaway;40
 drawawayfrom;40
+drawbridge ahead;60
 drawfrom;40
 drawingablank;60
 drawingabye;40
 drawingadistinction;50
 drawingagunon;40
-drawingahead;50
+drawing ahead;50
 drawingandquartering;50
 drawingattentionto;40
 drawingaway;40
@@ -17378,7 +17379,7 @@ drawsablank;60
 drawsabye;40
 drawsadistinction;50
 drawsagunon;40
-drawsahead;50
+draws ahead;50
 drawsandquarters;50
 drawsattentionto;40
 drawsaway;40
@@ -17480,7 +17481,7 @@ drewablank;60
 drewabye;40
 drewadistinction;50
 drewagunon;40
-drewahead;50
+drew ahead;50
 drewattentionto;40
 drewaway;40
 drewawayfrom;40
@@ -57568,6 +57569,7 @@ shovelingsnow;50
 shovelsnow;50
 shovelware;60
 showa;20;20th century Japanese era
+show a profit;60
 showbill;50
 showbills;50
 showboat;60
@@ -57575,6 +57577,8 @@ showboated;60
 showboater;60
 showboating;60
 showboats;60
+showed a profit;60
+showed signs of life;60
 shower;50
 showerbeer;60
 showerbeers;60
@@ -57596,13 +57600,27 @@ showhorse;50
 showhorses;50
 showid;50
 showids;50
+showing a profit;60
+showing signs of life;60
 showmatch;50
 showmatches;50
 showme;50
 showmewhatyougot;60
+show of force;60
+show of gratitude;60
+show of strength;60
+show of support;60
 showroom;50
 showrooms;50
+shows a profit;60
+show signs of life;60
+shows of force;60
+shows of gratitude;60
+showsofgratitude;20
+shows of strength;60
+shows of support;60
 showsomeclass;60
+shows signs of life;60
 showto;20
 shr;20
 shrankfrom;40
@@ -57802,6 +57820,7 @@ signapetition;50
 signedapact;50
 signedapetition;50
 signedfor;40
+signed off on;40
 signedoneslifeaway;60
 signedonto;40
 signedphoto;50
@@ -57811,9 +57830,23 @@ signfor;40
 signingapact;50
 signingapetition;50
 signingfor;40
+signing off now;60
+signing off on;40
+signingofthe;0
 signingoneslifeaway;60
 signingonto;40
 signlanguage;50
+sign of affection;60
+sign-off;50
+sign off;50
+sign off on;40
+sign-offs;50
+sign of life;60
+sign of strength;60
+sign of the cross;60
+sign of the zodiac;60
+sign of weakness;60
+sign of what's to come;60
 signoneslifeaway;60
 signonto;40
 signor;40
@@ -57824,6 +57857,14 @@ signory;20;Territory or domain
 signsapact;50
 signsapetition;50
 signsfor;40
+signs of affection;60
+signs off on;40
+signs of strength;60
+signs of struggle;50
+signs of the times;60
+signs of the zodiac;60
+signs of weakness;60
+signs of what's to come;60
 signsoneslifeaway;60
 signsonto;40
 sikes;40;Dickens villain Bill Sikes
