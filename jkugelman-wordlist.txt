@@ -40283,6 +40283,7 @@ monkeystick;60;Percussion instrument
 monkeysuit;60;Tuxedo
 monkeysuncle;60
 monkmode;60;Lifestyle choice
+Monobloc;50;World's most common plastic chair
 monobrow;40
 monobrows;40
 monocle;60
