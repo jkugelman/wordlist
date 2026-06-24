@@ -26341,10 +26341,18 @@ guerilla;20;Variant spelling
 guerillas;20
 guerillawarfare;20
 guerrilla;50
-guerrillaartist;60
-guerrillaartists;60
+guerrilla art;60
+guerrilla artist;60
+guerrilla artists;60
+guerrilla marketing;60
 guerrillas;50
-guerrillausability;60
+guerrilla tactics;60
+guerrilla testing;60;Quick, informal usability testing with public test subjects
+guerrilla theater;60
+guerrilla usability;60;Quick, informal usability testing with public test subjects
+guerrilla usability test;60;Quick, informal usability testing with public test subjects
+guerrilla usability testing;60;Quick, informal usability testing with public test subjects
+guerrilla usability tests;60;Quick, informal usability testing with public test subjects
 guerrillawarfare;60
 guess;50
 guessat;40
@@ -26794,7 +26802,9 @@ halloween;60
 halloweennight;60
 halloweenspecial;60
 halloweenspecials;60
-hallwaytesting;60
+hallway test;60;Quick, informal usability testing with public test subjects
+hallway testing;60;Quick, informal usability testing with public test subjects
+hallway tests;60;Quick, informal usability testing with public test subjects
 halon;50;Fire suppressant
 halons;20
 halotop;60;Low calorie ice cream
