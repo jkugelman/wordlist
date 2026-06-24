@@ -13475,6 +13475,12 @@ coverup;60
 coverups;60
 coverversion;60
 coverversions;60
+COVID;50
+COVID-19;50
+COVID booster;60
+COVID boosters;60
+COVID shot;60
+COVID shots;60
 coving;30;Relative of crown molding
 covings;30
 cow;50
@@ -36524,6 +36530,7 @@ longa;40
 longan;20;Tropical fruit
 longas;20
 longbeachca;40
+long COVID;50
 longe;40
 longedfor;40
 longes;20
