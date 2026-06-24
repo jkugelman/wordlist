@@ -1606,6 +1606,8 @@ alastor;30;Trojan War figure, Shelley poem
 alasuisse;30
 alateen;40;Alanon for teens
 alaughaminute;60
+Al-Azhar;40;Egypt's oldest degree-granting university, and one of the oldest universities in the world
+Al-Azhar University;50;Egypt's oldest degree-granting university, and one of the oldest universities in the world
 alb;20;Priestly robe
 albanberg;50;Twelve-tone composer of the Second Viennese School
 albanese;30
