@@ -177,6 +177,9 @@ abecedarians;30
 abecedaries;30
 abecedarium;30
 abecedary;30
+abed;50
+Abed;40;Various people
+Abed Nadir;50;Danny Pudi's character on "Community"
 abednego;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 abele;20;White poplar
 abeles;20;White poplars
@@ -2273,6 +2276,7 @@ ameche;30;Old football player or actor
 amedeo;20
 ameen;20;Amen variant (?)
 amelcorn;30;Wheat variety
+Amelia Bedelia;60;Children's books character who takes figures of speech literally
 amelias;30;Plural name
 ameliorant;30
 amemoir;40
@@ -25798,6 +25802,7 @@ grabbingabite;50
 grabbingacab;50
 grabbingat;40
 grabbingon;40
+grabedaite;0
 graben;20;Valley: Geology
 grabens;20;Valleys: Geology
 grabhim;60
@@ -28083,6 +28088,8 @@ hiddenmeaning;60
 hiddenmic;50
 hiddenmics;50
 hiddentreasure;60
+hide-a-bed;60
+hide-a-beds;60
 hidefrom;40
 hideftv;40
 hideftvs;40
@@ -34843,6 +34850,8 @@ laxer;50
 laxest;50
 laxness;50;Legit, though laxity is more common
 lay;50
+lay-abed;40;Late riser, more commonly lie-abed
+lay-abeds;40;Late risers, more commonly lie-abeds
 layanchor;50
 layanegg;60
 layawake;50
@@ -35719,7 +35728,8 @@ lid;50
 lidarose;40;"The Music Man" song "Lida Rose / Will I Ever Tell You?"
 lidless;30
 lie;50
-lieabeds;40;Late risers
+lie-abed;50;Late riser
+lie-abeds;40;Late risers
 lieahead;50
 lieatanchor;50
 lieawake;50
@@ -50069,27 +50079,32 @@ puli;20;Dreadlocked dog
 puling;40;Whining
 pulis;20;Dreadlocked dogs
 Pulisic;40;Christian Pulisic, American soccer player (born 1998)
+pull a rabbit out of a hat;60
 pullat;40
 pullauey;50
 pullday;50
 pulldays;50
+pulled a rabbit out of a hat;60
 pulledat;40
 pulledauey;50
 pulledon;40
 pulledonespunches;60
 pulledoutallthestops;60
 pulledoutbytheroots;50
+pulled out of;40
 pulledrank;60
 pulledrankon;60
 pulledthegoalie;60
 pulledupbytheroots;50
 pulledupstakes;60
+pulling a rabbit out of a hat;60
 pullingat;40
 pullingauey;50
 pullingon;40
 pullingonespunches;60
 pullingoutallthestops;60
 pullingoutbytheroots;50
+pulling out of;40
 pullingrank;60
 pullingrankon;60
 pullingthegoalie;60
@@ -50100,16 +50115,23 @@ pullon;40
 pullonespunches;60
 pulloutallthestops;60
 pulloutbytheroots;50
+pull out of;40
+pullout sofa;60
+pullout sofa bed;60
+pullout sofa beds;60
+pullout sofas;60
 pullrank;60
 pullrankon;60
 pullrequest;60
 pullrequests;60
+pulls a rabbit out of a hat;60
 pullsat;40
 pullsauey;50
 pullson;40
 pullsonespunches;60
 pullsoutallthestops;60
 pullsoutbytheroots;50
+pulls out of;40
 pullsrank;60
 pullsrankon;60
 pullsthegoalie;60
@@ -58627,6 +58649,8 @@ sleeparound;50
 sleeparoundon;50
 sleepdivorce;60
 sleepdivorces;60
+sleeper sofa;60
+sleeper sofas;60
 sleepin;50
 sleepingaround;50
 sleepingaroundon;50
@@ -58802,6 +58826,8 @@ slubberdegullions;60
 slue;40;To swing or slide, standard spelling per Garner
 slued;40
 slues;40
+slugabed;50;Late riser
+slugabeds;50;Late risers
 slugbug;50
 slugfest;60
 slugfests;60
@@ -59407,6 +59433,12 @@ so easy even a child could do it;60
 soever;30
 soextra;60
 sofa;50
+sofa bed;60
+sofabed;60
+sofa-bed;60
+sofa beds;60
+sofa-beds;60
+sofabeds;60
 sofafort;60
 sofaforts;60
 sofarsobad;60
