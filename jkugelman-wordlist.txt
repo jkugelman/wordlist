@@ -33657,6 +33657,7 @@ kingsnakes;50
 kingsrook;50
 kingsrooks;50
 kingsstilts;60;Dr. Seuss book, with "The"
+King Tutankhamen;60
 kingwenceslas;50
 kinkajou;40;Rainforest mammal "honey bear"
 kinkajous;40
@@ -70117,6 +70118,7 @@ vim;50
 vin;40;Vin Diesel, French wine, car VIN
 vinblanc;50
 vinca;30;Periwinkle genus
+Vincent Adultman;60
 vincenzo;40
 vinci;40
 vined;40;Ivied?
