@@ -26608,6 +26608,7 @@ hadablast;50
 hadacouple;60
 hadacow;50
 hadadrink;50
+had a goat it;50
 hadaheart;60
 hadahunch;50
 hadalegupon;60
@@ -27165,6 +27166,7 @@ hasablast;50
 hasacouple;60
 hasacow;50
 hasadrink;50
+has a go at it;50
 hasaheart;60
 hasahunch;50
 hasalisp;40
@@ -27299,6 +27301,7 @@ haveablast;50
 haveacouple;60
 haveacow;60
 haveadrink;50
+have a go at it;50
 haveagoodtrip;50
 haveaheart;60
 haveahunch;50
@@ -27354,6 +27357,7 @@ havingabite;50
 havingablast;50
 havingacow;50
 havingadrink;50
+having a go at it;50
 havingaheart;60
 havingahunch;60
 havingalook;50
@@ -35551,6 +35555,7 @@ letsgetoutofhere;60
 letsgetouttahere;60
 letsgetthisstraight;60
 letsgiveitawhirl;60
+let's have a go at it;50
 letshaveit;60
 letshearit;60
 letshopeso;60
