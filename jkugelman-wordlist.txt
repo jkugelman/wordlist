@@ -14294,6 +14294,8 @@ currentness;40
 currerbell;60;Charlotte Brontë
 currish;20
 currybarker;60;Director Curry Barker of "Obsession" (2026)
+curry puff;60;Pastry with curry filling
+curry puffs;60;Pastries with curry filling
 curseat;40
 cursedat;40
 curseofexpertise;60
