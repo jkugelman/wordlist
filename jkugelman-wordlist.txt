@@ -72578,6 +72578,7 @@ wyomingite;50
 wyomingites;50
 x;40
 xacto;50
+xAI;40;SpaceX subsidiary that makes Grok and X (Twitter)
 xanadu;60
 xanax;50
 xanderschauffele;60;Golfer Xander Schauffele
