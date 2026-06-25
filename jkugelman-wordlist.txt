@@ -11782,6 +11782,7 @@ clearascrystal;60
 clearasday;60
 clearidea;60
 clearlyvisible;60
+clear nail polish;60
 clearsoup;50
 cleavon;40;"Blazing Saddles" actor Cleavon Little
 clefairy;50;Pokeyman
@@ -29145,7 +29146,7 @@ howe;40
 howelse;50
 howerton;50
 howexactly;60
-howilearnedtostopworryingandlovethebomb;60
+How I Learned to Stop Worrying and Love the Bomb;60;"Dr. Strangelove" subtitle
 howisit;60
 howisthatmyfault;60
 howitzer;50
@@ -30045,6 +30046,7 @@ ila;20
 ilana;30;Actress Ilana Glazer
 ildivo;40;Vocal quartet
 ile;40
+I learned from the best;60
 ileave;20
 iledefrance;50
 iledelacite;50
@@ -31759,6 +31761,7 @@ isotone;20;Certain atom
 isotones;20;Certain atoms
 isotonic;40
 isotopic;40
+is our children learning;60
 isout;20
 isp;40
 ispose;50
@@ -34450,6 +34453,8 @@ langouste;40;French lobster
 langsyne;20
 languagebarrier;50
 languagebarriers;50
+language learner;60
+language learners;60
 langue;20
 laniard;20
 laniards;20
@@ -35048,15 +35053,41 @@ leapyear;50
 leapyears;50
 learjet;60
 learjets;60
+learn about;40
+learned about;40
+learned behavior;60
+learned behaviors;60
+learned from;40
+learned from one's mistakes;60
+learned helplessness;60
+learned in school;60
 learnedof;40
-learnedto;30
+learned one's lesson;60
+learned to;30
+learned to take a joke;60
+learn from;40
+learn from one's mistakes;60
 learnin;40;???
-learningto;30
+learning about;40
+learning aid;50
+learning aids;50
+learning from;40
+learning from one's mistakes;60
+learning to;30
+learning to take a joke;60
 learnof;40
+learns about;40
+learns from;40
+learns from one's mistakes;60
 learnsof;40
-learnsto;30
-learnto;30
+learns to;30
+learns to take a joke;60
+learnt about;40
+learnt from;40
+learn to;30
 learntoread;60
+learn to take a joke;60
+learnt to take a joke;60
 leas;40
 leasedto;40
 leaser;40
@@ -35794,6 +35825,7 @@ lifeforms;50
 lifeisntfair;60
 lifelesson;60
 lifelessons;60
+lifelong learners;60
 lifepartner;50
 lifeskill;50
 lifeskills;50
@@ -40892,6 +40924,7 @@ muchas;40
 muchogusto;60
 muchos;40
 muchsimpler;50
+much to learn you still have;60
 muchtomychagrin;60
 muchweepingandgnashingofteeth;60
 mucker;40;Person who cleans a horse stall
@@ -42582,6 +42615,7 @@ nohitters;50
 noho;40
 nohogging;60
 nohorsingaround;60
+no hugging no learning;60;Larry David's philosophy on "Seinfeld"
 noi;20
 noia;20
 noice;40
@@ -45092,7 +45126,7 @@ orgiast;40;Particiant in an orgy
 orgiasts;40
 orgo;40;Organic chemistry, to med students
 orgs;40
-orhowilearnedtostopworryingandlovethebomb;60
+or: How I Learned to Stop Worrying and Love the Bomb;60;"Dr. Strangelove" subtitle
 ori;20
 oriana;30;Italian journalist Oriana Fallaci
 oribi;30;African antelope
