@@ -1680,7 +1680,7 @@ alek;40
 alekeg;30
 alekegs;30
 aleksei;30
-alekwek;40;Sudanese model
+Alek Wek;40;South Sudanese-British model and designer
 aleman;20;Mexican president
 alembic;30;Alchemy vessel
 alembics;30
@@ -31672,6 +31672,7 @@ iseethevision;60;"Okay, your plan makes sense now"
 iseewhatyoudid;60
 iseewhatyoudidthere;60
 iseewhatyoumean;60
+I see why;50
 iseeyourpoint;60
 iselin;20
 iseult;20;Isolde
@@ -32346,6 +32347,8 @@ jacobs;50;Marc Jacobs
 jaderabbit;50
 jadis;40;The White Witch in Narnia
 jae;20
+Jaegwon;40;Jaegwon Kim, Korean-American philosopher (1934–2019)
+Jaegwon Kim;50;Korean-American philosopher (1934–2019)
 jaffa;30;Israeli port mentioned in the Bible
 jag;50
 jager;50
@@ -38801,6 +38804,7 @@ mcdvi;20
 mcdx;20
 mced;40
 mcelhenney;50
+McElwee;40;Ross McElwee, American documentary filmmaker (born 1947)
 mcescher;50
 mcewan;40;Ian McEwan, author of "Atonement"
 mcg;30;Director [rare]
@@ -50782,6 +50786,7 @@ raducanu;40;Rising tennis player Emma Raducanu
 rae;40;Issa Rae
 raedawn;30
 raedawnchong;30
+Raekwon;40;Wu-Tang Clan rapper
 raf;40
 rafaelnadal;60
 rafanadal;60
@@ -54189,6 +54194,7 @@ rossano;40;Rossano Brazzi, star of "South Pacific" (1958)
 rosses;30;Plural name
 rosset;30;Entrepreneur Barney Rosset, tennis player Marc Rosset
 rossi;40;Martini & Rossi wine
+Ross McElwee;50;American documentary filmmaker (born 1947)
 rostand;30;Edmond Rostand, "Cyrano de Bergerac" playwright
 rosten;30;Humorist Leo Rosten
 rosterspot;50
