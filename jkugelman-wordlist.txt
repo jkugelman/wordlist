@@ -26235,6 +26235,8 @@ gripedat;40
 gripesat;40
 gripewater;50
 gripingat;40
+grippy sock;60
+grippy socks;60
 gris;30
 grisaille;40;Gray painting method
 grists;40;Plural? Verb?
