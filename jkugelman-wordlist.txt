@@ -69983,6 +69983,12 @@ venaecavae;30
 venation;30;Arrangement of veins in a leaf or insect wing
 vender;20;Variant spelling used by The New Yorker for some reason
 venders;20
+vendor;50
+vendor booth;60
+vendor booths;60
+vendored;50;Bundled, as a third-party dependency in a piece of software
+vendoring;50;Bundling, as a third-party dependency in a piece of software
+vendors;50
 venereal;10
 venerealdisease;10
 venery;20;Sexual indulgence, archaic
