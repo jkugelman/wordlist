@@ -34803,6 +34803,7 @@ latexglove;50
 latexgloves;50
 lath;30;Wooden strip
 latham;30;???
+lather rinse repeat;60
 lathi;20;South Asian bamboo weapon
 lathis;20;South Asian bamboo weapons
 laths;30;Wooden strips
