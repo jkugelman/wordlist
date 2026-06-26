@@ -2596,6 +2596,7 @@ andone;50;NBA term
 andosentinelorl;0
 andra;30;Singer Andra Day???
 andreitarkovsky;50;Major director
+Andrew Cuomo;50;Governor of New York 2011-21, resigned due to sexual misconduct allegations
 androgyny;60
 android;60
 androidapp;60
@@ -11424,6 +11425,7 @@ chr;20
 chreaster;60;Christian slang for someone who only goes to church on Christmas and Easter
 chreasters;60
 chrisbosh;50
+Chris Cuomo;50;CNN anchor 2013-21, fired after helping brother Andrew with sexual harrassment allegations
 chrisisaak;50
 chrism;20;Myrrh oil
 chrisms;20;Myrrh oils
@@ -17380,6 +17382,8 @@ drankto;40
 drasticaction;50
 drasticactions;50
 dratit;30
+draw a bead;50
+draw a bead on;60
 drawablank;60
 drawabye;40
 drawadistinction;50
@@ -17391,6 +17395,8 @@ drawaway;40
 drawawayfrom;40
 drawbridge ahead;60
 drawfrom;40
+drawing a bead;50
+drawing a bead on;60
 drawingablank;60
 drawingabye;40
 drawingadistinction;50
@@ -17407,10 +17413,14 @@ drawingto;40
 drawingtoaclose;60
 drawingup;40
 drawinto;30
+drawn a bead;50
+drawn a bead on;60
 drawnandquartered;50
 drawnout;50
 drawnto;50
 drawon;40
+draws a bead;50
+draws a bead on;60
 drawsablank;60
 drawsabye;40
 drawsadistinction;50
@@ -17513,6 +17523,8 @@ dressuniform;50
 dressuniforms;50
 dressupas;40
 drevil;50
+drew a bead;50
+drew a bead on;60
 drewablank;60
 drewabye;40
 drewadistinction;50
@@ -17521,6 +17533,7 @@ drew ahead;50
 drewattentionto;40
 drewaway;40
 drewawayfrom;40
+Drew Carey Show;60;With "The"
 drewfrom;40
 drewinto;30
 drewon;40
@@ -65133,6 +65146,7 @@ thedot;20
 thedotcomboom;20
 thedotcombubble;50
 thedow;20
+The Drew Carey Show;60
 thedubs;50;1950s doo wop group
 thee;50;For whom the bell tolls
 theeagles;60
