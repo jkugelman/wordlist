@@ -529,7 +529,7 @@ ackee;40;National fruit of Jamaica
 ackees;40
 ackroyd;20;Some author
 acl;40
-aclashofkings;60;A Song of Ice and Fire book #2
+A Clash of Kings;60;A Song of Ice and Fire book #2
 acle;20
 aclinjuries;50
 aclinjury;50
@@ -721,7 +721,7 @@ adamondra;60
 adamsapple;60
 adamsapples;60
 adamses;40
-adancewithdragons;60;A Song of Ice and Fire book #5
+A Dance with Dragons;60;A Song of Ice and Fire book #5
 adaptedto;40
 adaptingto;40
 adaptsto;40
@@ -900,7 +900,7 @@ adorners;40
 adoseof;20
 adout;40;Tennis score
 adp;30
-adreamofspring;60;A Song of Ice and Fire book #7
+A Dream of Spring;60;A Song of Ice and Fire book #7
 adreamwithinadream;60
 adrenaline;60
 adriana;40;Model Adriana Lima
@@ -1056,7 +1056,8 @@ afcteam;40
 afcteams;40
 afcwest;40
 afeared;30
-afeastforcrows;60;A Song of Ice and Fire book #4
+A Feast for Crows;60;A Song of Ice and Fire book #4
+a few choice words;60
 afewwords;50
 affairoftheheart;60;Phrase, or Rick Springfield song
 affine;40
@@ -1143,7 +1144,7 @@ aga;20
 agalaxyfarfaraway;60
 agallop;30
 agame;50
-agameofthrones;60;A Song of Ice and Fire book #1
+A Game of Thrones;60;A Song of Ice and Fire book #1
 agamewithinagame;60
 agana;20;Capital of Guam, archaic
 agar;40
@@ -3976,6 +3977,7 @@ asolo;20
 asonant;30
 asone;50
 asoneman;40;In unison
+A Song of Ice and Fire;60
 asonia;20;Tone-deafness, controversial 3/19/23 entry
 asosan;20
 asp;50
@@ -4141,7 +4143,7 @@ astoldto;40
 aston;50
 astor;40
 astorbar;30;???
-astormofswords;60;A Song of Ice and Fire book #3
+A Storm of Swords;60;A Song of Ice and Fire book #3
 astors;40
 astorywithinastory;60
 astragal;20;Seal between a pair of doors
@@ -11334,6 +11336,8 @@ chocotacos;60
 chocula;60
 choi;40
 choiceofweapons;50
+choice of words;60
+choice words;60
 choirmaster;60
 choirmasters;60
 choirrobe;60
@@ -11363,10 +11367,17 @@ choo;40
 choochoo;60
 choochootrain;60
 chooseme;40
+choose one's words;60
+choose one's words carefully;60
 choosesides;60
+chooses one's words;60
+chooses one's words carefully;60
 choosessides;60
 choosesup;30
 chooseup;30
+choose your words carefully;60
+choosing one's words;60
+choosing one's words carefully;60
 choosingsides;60
 choosingup;30
 chopblock;60;Football penalty
@@ -11402,6 +11413,8 @@ chortles;60
 chortling;60
 chorusline;50
 choruslines;50
+chose one's words;60
+chose one's words carefully;60
 chosesides;60
 choseup;30
 chou;30;Chou En-lai
@@ -11702,7 +11715,8 @@ claricestarling;50
 clarkgable;50
 claro;40
 claros;40
-clashofkings;60;A Song of Ice and Fire book #2, with "A"
+clash of ideas;60
+Clash of Kings;60;A Song of Ice and Fire book #2, with "A"
 classa;40
 classclown;60
 classclowns;60
@@ -13354,8 +13368,12 @@ coty;40;Major beauty conglomerate (owns Adidas, Gucci, Tiffany, and many more)
 cotyledon;30;Botany word
 cotyledons;30
 couch;50
+couched one's words;60
+couches one's words;60
 couchfort;60
 couchforts;60
+couching one's words;60
+couch one's words;60
 couldafooledme;60
 couldbefun;60
 couldhavefooledme;60
@@ -14628,7 +14646,8 @@ danceteams;50
 dancethe;0
 dancetothemusic;50
 danceupastorm;60
-dancewithdragons;60;A Song of Ice and Fire book #5, with "A"
+Dance with Dragons;60;A Song of Ice and Fire book #5, with "A"
+dance with the devil;60
 dancingaround;50
 dancingqueen;60
 dancingtothemusic;50
@@ -17445,7 +17464,7 @@ dreamland;60
 dreamlife;60
 dreamlogic;60
 dreamof;40
-dreamofspring;60;A Song of Ice and Fire book #7, with "A"
+Dream of Spring;60;A Song of Ice and Fire book #7, with "A"
 dreampop;60
 dreamsof;40
 dreamteam;60
@@ -20420,10 +20439,14 @@ excelmacros;50
 excelsat;40
 excelsin;40
 exchangedletters;50
+exchanged words;60
 exchangeletters;50
 exchanges;50
 exchangesletters;50
+exchanges words;60
+exchange words;60
 exchangingletters;50
+exchanging words;60
 excia;30
 exciton;40;Subatomic particle
 excitons;40
@@ -21238,7 +21261,9 @@ feastedon;40
 feastedupon;50
 feaster;40
 feasters;40
-feastforcrows;60;A Song of Ice and Fire book #4, with "A"
+Feast for Crows;60;A Song of Ice and Fire book #4, with "A"
+feast for the eyes;60
+feast for the senses;60
 feastingon;40
 feastingupon;50
 feaston;40
@@ -23159,6 +23184,7 @@ friendaversary;60
 friendiversaries;60
 friendiversary;60
 friendlily;30;Weird adverb
+Friendly Neighborhood Spider-Man;60;Comic book series by Marvel Comics
 friendlyreminder;60;Passive aggressive opening
 friendlyreminders;60
 friendofdorothy;60;20th century gay codeword
@@ -23671,7 +23697,10 @@ gamemode;60
 gamemodes;60
 gamenight;60
 gamenights;60
-gameofthrones;60;A Song of Ice and Fire book #1, with "A"
+Game of the Year;60
+Game of the Year edition;60
+Game of the Year editions;60
+Game of Thrones;60;A Song of Ice and Fire book #1, with "A"
 gameover;60
 gameoverman;60
 gameplan;50
@@ -30324,6 +30353,7 @@ imgoingtoeatyouforbreakfast;60
 imgonnabounce;60
 imgonnaeatyouforbreakfast;60
 imgood;60
+I'm Happy Just to Dance with You;50;1964 single by the Beatles
 imhavingablast;60
 imhere;50
 imhereforit;60
@@ -32246,6 +32276,9 @@ ivyleagueschools;50
 ivysaur;50;Pokeyman
 ivyvine;40
 iwan;40;Iwan Rheon who played Ramsey Bolton on "Game of Thrones"
+I Wanna Dance with Somebody;60;1987 single by Whitney Houston
+I Wanna Dance with Somebody (Who Loves Me);60;1987 single by Whitney Houston
+I Wanna Dance with Somebody Who Loves Me;0
 iwannalook;60
 iwannasee;60;"Move out of the way!"
 iwanrheon;50;Iwan Rheon who played Ramsey Bolton on "Game of Thrones"
@@ -32286,7 +32319,7 @@ iwoodpinefiryew;0
 iwouldeatyoualive;60
 iwouldnever;60
 iwouldntbother;60;"It's not worth the trouble"
-iwouldntdreamofit;60
+I wouldn't dream of it;60
 ix;40
 ixion;30;Tartarus captive
 iykyk;40
@@ -49305,6 +49338,7 @@ powerwalking;50
 powerwalks;50
 pows;40
 pox;50
+poxes;50
 pozole;40;Mexican stew
 pp;40
 ppd;20
@@ -61832,8 +61866,13 @@ storingin;40
 stork;50
 stormalert;60
 stormalerts;60
+stormed off in a huff;60
 stormin;50
-stormofswords;60;A Song of Ice and Fire book #3, with "A"
+storming off in a huff;60
+storm off in a huff;60
+Storm of Swords;60;A Song of Ice and Fire book #3, with "A"
+Storm of the Century;60
+storms off in a huff;60
 storrs;30;UConn city
 storyarc;60
 storyarcs;60
@@ -65778,7 +65817,7 @@ thewickedwitchoftheeast;60
 thewickedwitchofthewest;60
 thewickerman;50
 thewildwildtsew;0
-thewindsofwinter;60;A Song of Ice and Fire book #6
+The Winds of Winter;60;A Song of Ice and Fire book #6
 thewindycity;60
 thewinterstale;60
 thewisemen;30
@@ -72034,7 +72073,7 @@ windshields;50
 windshieldwiper;50
 windsleeve;50
 windsleeves;50
-windsofwinter;60;A Song of Ice and Fire book #6, with "The"
+Winds of Winter;60;A Song of Ice and Fire book #6, with "The"
 windsprint;50
 windsprints;50
 windstoaclose;60
@@ -72513,7 +72552,7 @@ woulditkillhim;60
 woulditkillthem;60
 woulditkillyou;60
 wouldjustassoon;50
-wouldntdreamofit;60
+wouldn't dream of it;60
 wouldntitbenice;60
 wouldntyouknow;60
 wouldntyouknowit;60
@@ -73421,6 +73460,7 @@ yourethebest;60
 youretoolate;60
 youreup;60
 youreupearly;60
+Your Friendly Neighborhood Spider-Man;60;2025 Marvel Studios animated series
 yourgrace;50
 yourhonor;50
 yourloss;60
