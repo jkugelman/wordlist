@@ -14260,6 +14260,7 @@ cunk;40
 cunkonbritain;50
 cunkonearth;50
 cuoco;40;"The Big Bang Theory" actress Kaley Cuoco
+Cuomos;40;Political family
 cup;50
 cupbearer;50
 cupbearers;50
@@ -38394,6 +38395,7 @@ marinetwo;50
 marino;40;Quarterback Dan Marino
 mariobatali;10;Sexual assault
 mariobros;60
+Mario Cuomo;50;Governor of New York from 1983 to 1994
 mariokart;60
 mariolanza;50;Hollywood tenor
 marioncotillard;60
@@ -53738,6 +53740,7 @@ riverboatpilots;50
 riverbottom;50
 rivercard;50
 rivercards;50
+Rivers Cuomo;50;Weezer's lead vocalist and primary songwriter
 riverstyx;60
 riving;20;Splitting apart
 rivoli;40;Napoleon battle site
