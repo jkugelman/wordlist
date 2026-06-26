@@ -31426,6 +31426,8 @@ investmentbanks;50
 investmentvalue;50
 inveteracy;40
 invisiblepaint;60;Acme invention
+invisible to the naked eye;60
+invisible with the naked eye;60
 invitrofertilization;50
 invitrofertilizations;40
 invogue;60
@@ -31617,8 +31619,10 @@ irocz;40
 iroczs;40
 iron;50
 ironage;60
+ironagoodliving;0
 ironbirdseed;60;Acme invention
-ironcarrot;60;Acme invention
+iron carrot;60;Acme invention
+iron carrots;50
 ironclad;60
 ironcladalibi;60
 ironcladalibis;60
@@ -41406,6 +41410,9 @@ nakedcalls;60
 nakedcity;60
 nakeder;30
 nakedest;30
+naked-eye observatories;60;Architecture that measures and tracks celestial bodies
+naked-eye observatory;60;Architecture that measures and tracks celestial bodies
+Naked Eyes;50;1980s English synth-pop duo
 nakedflame;50
 nakedflames;50
 nakedgun;60
@@ -55574,6 +55581,7 @@ sawstars;50
 sawthings;50
 sawto;40
 sawup;40
+saw with the naked eye;60
 sax;50
 saxiphonesolos;60
 saxophonesolo;60
@@ -56351,6 +56359,7 @@ seeingstars;50
 seeingthings;60
 seeingto;40
 seeingup;40
+seeing with the naked eye;60
 seeinto;30
 seekingto;40
 seeksto;40
@@ -56377,6 +56386,7 @@ seenred;30
 seensay;30
 seensays;30
 seento;40
+seen with the naked eye;60
 seeover;30
 seepage;30
 seepages;40
@@ -56413,6 +56423,7 @@ seestars;50
 seesthings;50
 seesto;40
 seesup;40
+sees with the naked eye;60
 seeth;40
 seethelight;60
 seethings;50
@@ -56423,6 +56434,7 @@ seeum;20
 seeums;20
 seeup;40
 seewhathappens;60
+see with the naked eye;60
 seeyasuckers;60
 seeyouallinhell;60
 seeyouaround;60
@@ -65438,6 +65450,7 @@ themuses;50
 themushroomkingdom;50
 then;50
 thenaenae;40
+the naked eye;40
 thenakedgun;60
 thenakedmaja;60;Goya painting
 thenamesbond;50
@@ -67324,6 +67337,7 @@ tothebone;30
 tothedeath;60
 tothemannerborn;60
 tothemoon;60
+to the naked eye;50
 tothepenny;30
 tothesamedegree;50
 totheuntrainedeye;60
@@ -68970,6 +68984,7 @@ umyeah;50
 un;40
 una;40
 unadon;30;Japanese eel dish
+unaided eye;60
 unaimed;30
 unalaska;30;Aleutian island
 unalert;30
@@ -70298,6 +70313,7 @@ viscus;30;An internal organ, singular of viscera
 visiblelight;50
 visiblelightspectrum;60
 visibletothenakedeye;60
+visible with the naked eye;60
 visionpro;60;Apple mixed-reality headset
 visionquest;60
 visionquests;60
@@ -72328,6 +72344,7 @@ withoutascratch;50
 withoutasound;50
 withoutwarning;60
 withreagan;40;Book
+with the naked eye;50
 withtimetospare;60
 withy;30;Willow branch used in basketry
 witt;40
