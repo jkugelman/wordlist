@@ -44086,6 +44086,9 @@ olafharaldsson;40;Saint Olaf
 olafi;30
 olafii;20
 olafiv;20
+Olafs;30
+Olaf Scholz;50;Chancellor of Germany from 2021 to 2025
+Olaf Sholz;0;Misspelling
 olaftheholy;50
 olafthestout;50
 olamina;30;???
