@@ -11241,8 +11241,10 @@ chimeras;50
 chimers;30
 chimesinon;40
 chiminginon;40
+China;50;Country in East Asia
+china;50;Porcelain tableware / kind of drum cymbal
 chinabeach;50;Late 80s war drama on ABC
-chinas;20
+chinas;40;Certain drum cymbals
 chinchin;50;???
 chine;20
 chines;20
@@ -38602,6 +38604,9 @@ mastoid;40
 mastoidal;40
 mastoiditis;30
 mastoids;40
+masturbations;10
+masturbator;10
+masturbators;10
 mat;50
 mata;30;Mata Hari, spy
 matabele;30;People of Zimbabwe
@@ -50078,6 +50083,9 @@ publicforum;50
 publichospitals;30
 publiclibraries;60
 publiclibrary;60
+public masturbation;10
+public masturbator;10
+public masturbators;10
 publicofficials;50
 publicplace;50
 publicplaces;50
@@ -66833,6 +66841,7 @@ toluenes;20
 tom;50
 tomakemattersworse;60
 tomaso;40
+to masturbation;0
 tomatina;40;Spanish tomato-throwing festival
 tomatofrog;60
 tomatofrogs;60
