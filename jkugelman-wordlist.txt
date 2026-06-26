@@ -7684,6 +7684,8 @@ bonesup;50
 bonet;40
 boneup;50
 bonewhite;50
+Boney M.;40;German disco group in the late '70s
+Boney M;0
 bonghit;60
 bonghits;60
 bongodrum;50
@@ -34804,6 +34806,7 @@ latexgloves;50
 lath;30;Wooden strip
 latham;30;???
 lather rinse repeat;60
+lathery;50
 lathi;20;South Asian bamboo weapon
 lathis;20;South Asian bamboo weapons
 laths;30;Wooden strips
