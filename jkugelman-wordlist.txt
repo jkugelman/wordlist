@@ -15,6 +15,7 @@
 10am;40
 10 lords a-leaping;60
 10pm;40
+10th;40
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;2011 novel by Stephen King
 11am;40
@@ -29,9 +30,18 @@
 12-step program;60
 12-step programs;60
 12 Years a Slave;60;1853 memoir by Solomon Northup
+13 Going on 30;20;2004 Jennifer Garner romcom
+15 minutes of fame;60;What Andy Warhol said everyone will have, one day
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
+1-800 number;60
+1-800 numbers;60
+18-wheeler;60;Semi-trailer truck
+18-wheelers;60;Semi-trailer trucks
+1-900 number;60
+1-900 numbers;60
 1910fruitgumco;0
 1910 Fruitgum Company;50;Bubblegum pop band of the 1960s
+1979;50;Smashing Pumpkins song
 1984;60;George Orwell novel
 1am;40
 #1 draft pick;60
@@ -40,6 +50,7 @@
 1pm;40
 #1 seed;50
 #1 seeds;50
+1st;50
 1-up;50;Extra life in video games
 1-ups;50;Extra lives in video games
 1v1;50
@@ -53,6 +64,7 @@
 2am;40
 2 Chainz;60;American rapper and actor (born 1977)
 2 Legit 2 Quit;60;1991 single by MC Hammer
+2nd;50
 2Pac;60;Rapper Tupak Shakur
 #2 pencil;60
 #2 pencils;60
@@ -68,6 +80,7 @@
 3D printing;60
 3 French hens;60
 3pm;40
+3rd;50
 3rd Rock from the Sun;60;American television sitcom (1996–2001)
 #3 seed;50
 #3 seeds;50
@@ -77,6 +90,7 @@
 4 calling birds;60
 4 Non Blondes;60;'90s rock band
 4pm;40
+4th;40
 50 Cent;60;American rapper and actor (born 1975)
 50 Ways to Leave Your Lover;60;1975 single by Paul Simon
 5-10-15-20 (25-30 Years of Love);50;1970 single by The Presidents
@@ -84,6 +98,7 @@
 5am;40
 5 golden rings;60
 5pm;40
+5th;40
 60 Minutes;60;American television news magazine program
 6am;40
 6 geese a-laying;60
@@ -92,6 +107,7 @@
 6-string;50
 6-string guitar;60
 6-string guitars;60
+6th;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
 7am;40
 7-layer dip;60;Tex-Mex appetizer
@@ -103,6 +119,7 @@
 7-string guitar;60
 7-string guitars;60
 7 swans a-swimming;60
+7th;40
 7th heaven;60
 867-5309;60;1981 single by Tommy Tutone
 867-5309/Jenny;60;1981 single by Tommy Tutone
@@ -114,6 +131,7 @@
 8-string;50
 8-string guitar;60
 8-string guitars;60
+8th;40
 8-track;50
 8-track cartridge;50
 8-track cartridges;50
@@ -132,6 +150,7 @@
 9am;40
 9 ladies dancing;60
 9pm;40
+9th;40
 9-volt;50;Small battery
 9-volt batteries;60
 9-volt battery;60
@@ -20365,10 +20384,20 @@ etherizes;30
 etherizing;30
 ethicscommittee;50
 ethicscommittees;50
+ethmoid;30
+ethmoid bone;40
+ethmoid bones;40
 ethnical;30
 ethniccleansing;10
-ethnicrelations;50
+ethnic cuisine;60
+ethnic food;60
+ethnic humor;40
+ethnicjoke;10
+ethnicjokes;10
+ethnic relations;50
 ethnics;10
+ethnic slur;10
+ethnic slurs;10
 ethno;40
 ethnos;30;Ethnic group
 ethoses;30
@@ -20377,7 +20406,7 @@ etic;20
 etienne;30
 etier;30
 etihad;40;UAE airline Etihad Airways
-etihadairways;50;UAE airline Etihad Airways
+Etihad Airways;50;Airline of the United Arab Emirates
 etilde;30
 etile;30;Scrabble 1-pointer
 etiles;30
@@ -20386,6 +20415,7 @@ etiolated;30;Deprived of light, as a plant
 etiolates;30;Deprive of light, as a plant
 etiolating;30;Depriving of light, as a plant
 etna;40
+et noir;20
 eto;20
 etoile;30;Star: Fr.
 etoiles;30
@@ -20401,40 +20431,101 @@ etphonehome;60
 etrade;50
 etradebaby;30
 etrades;20
+E train;30
+E trains;20
+e-Transfer;30
+e-Transferred;20
+e-Transferring;20
+e-Transfers;20
 etre;40
 etruria;30;Ancient region of Italy, home of Etruscans
+Etruscan civilization;50
 ets;40
+et sic de;0
+et sic de ceteris;50;"And so of the rest"
+Etsy shop;60
+Etsy shops;60
+Etsy store;60
+Etsy stores;60
+Etsy witch;60
+Etsy witches;60
 etta;40
+Etta Jones;50;American jazz singer (1928–2001)
 ette;40
 ettheextraterrestrial;60
+Ettore Bugatti;60;Italian-born French automobile designer and manufacturer (1881–1947)
 ettu;40
 etymological;50
+etymological dictionary;60
 etymologies;50
 etymologist;50
 etymologists;50
 etymology;50
 etype;40;Classic Jaguar roadster
+E-Type Jaguar;20
 etypes;40;Classic Jaguar roadsters
 eubie;40;Jazz pianist Eubie Blake
-eubieblake;40;Jazz pianist Eubie Blake
+Eubie Blake;50;American jazz pianist (1887–1983)
+Eubie Shelton;20;???
+eucalyptus amygdalina;20
+eucalyptus calophylla;20
+eucalyptus camaldulensis;20
+eucalyptus camphora;20
+eucalyptus citriodora;20
+eucalyptus coriacea;20
+eucalyptus delegatensis;20
+eucalyptus deugenioides;20
+eucalyptus dumosa;20
+eucalyptus fraxinoides;20
+eucalyptus globulus;20
+eucalyptus gum;50
+eucalyptus kino;40
+eucalyptus maculata;20
+eucalyptus maculata citriodora;20
+eucalyptus pauciflora;20
+eucalyptus regnans;20
+eucalyptus rostrata;20
+eucalytus stellulata;20
+eucarya acuminata;20
 euchred;30;Exhausted, or got the better of in a card game
 euchres;30
 euclase;20;Mineral
+Euclid's theorem;60;Infinitely many prime numbers exist
+Euclid's theorems;50;Foundational principles from "Elements"
 eucre;20
 eudaemon;40;Greek daemon
 eudaemonia;30;Happiness
+Eudoxie;30;Ludacris's wife Eudoxie Mbouguiengue
+Eudoxie Mbouguiengue;40;Ludacris's wife
+Eudoxie Mbouguiyengue;40;Ludacris's wife
+Eugene J. McCarthy;50
+Eugene Joseph McCarthy;50
+Eugene Maleska;60;New York Times crossword editor, Will Shortz's predecessor
 eugeneonegin;50;Pushkin novel
 eugeneor;30
+eugenes;30
+Eugene T. Maleska;60;New York Times crossword editor, Will Shortz's predecessor
+Eugene T Maleska;0
 eugenic;10
 eugenicist;10
 eugenicists;10
 eugenics;10
+Eugenie Clark;50;American ichthyologist, shark researcher and scientific scuba diver
 euglena;30;Algae genus
 eukanuba;30;Pet food brand
 eula;40
+Eula Biss;40;American non-fiction writer
 eulas;40
+Euler;40
+Euler's;30
+Euler's constant;40;γ = 0.57721...
+Euler's formula;60;e^ix = cos x + i sin x
+Euler's identity;60;e^(i pi) + 1 = 0
+Euler's number;60;e = 2.71828...
+Euler's totient function;40
 eulogia;30
 eulogy;50;Farewell address
+eunectes murinus;20;Green anaconda, species of snake
 eunices;30
 eunoym;30
 eunoyms;30
@@ -51049,6 +51140,8 @@ pygmyslowloris;50;Cute nocturnal mammal
 pygmyslowlorises;50
 pyloric;40;???
 pym;20
+Pynchon;50;Thomas Pynchon, author of "Gravity's Rainbow"
+Pynchonesque;60
 pyotr;40;Pyotr Ilyich Tchaikovsky
 pyramindsong;60
 pyramus;30
@@ -66623,6 +66716,7 @@ thom;50
 thomasedison;60
 thomashadenchurch;50
 thomaspaine;50
+Thomas Pynchon;60;Author of "Gravity's Rainbow"
 thomyorke;60
 thora;40
 thoraces;30;Valid plural of thorax, but thoraxes is more common and looks better
