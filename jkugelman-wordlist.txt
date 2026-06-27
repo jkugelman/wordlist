@@ -1,18 +1,77 @@
 '03 Bonnie and Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
 '03 Bonnie & Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
+100%;50
+10,000 Maniacs;50;American alternative rock band
+100 Grand;60;Brand of chocolate bar
+100 Grand Bar;60;Brand of chocolate bar
+100 percent;50
+100 pounds soaking wet;60
 100 Years of Solitude;60;1967 novel by Gabriel García Márquez
 101 Dalmatians;60;1961 Disney movie
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;2011 novel by Stephen King
 12 Angry Men;60;American legal drama film by Sidney Lumet
+12 Monkeys;60;1995 Bruce Willis sci-fi thriller
+12 Years a Slave;60;1853 memoir by Solomon Northup
+16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
+1910fruitgumco;0
+1910 Fruitgum Company;50;Bubblegum pop band of the 1960s
 1984;60;George Orwell novel
+1 Infinite Loop;60;Address of Apple's headquarters until 2017
+1-up;50;Extra life in video games
+1-ups;50;Extra lives in video games
+1v1;50
+20 questions;60;Spoken guessing game using yes–no questions
 21 Grams;50;2003 Sean Penn / Naomi Watts film
+21 Jump Street;60;1980s TV show or 2000s movie series
+21questions;60
+24: Live Another Day;50;2014 limited event television series
 25 or 6 to 4;60;1970 single by Chicago
+2 Chainz;60;American rapper and actor (born 1977)
+2 Legit 2 Quit;60;1991 single by MC Hammer
+2Pac;60;Rapper Tupak Shakur
+3:10 to Yuma;60;Western movie
+3 AM;50;1996 Matchbox Twenty single
+3D printer;60
+3D printers;60
+3D printing;60
+3rd Rock from the Sun;60;American television sitcom (1996–2001)
 3 wise monkeys;60
+40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
+4 Non Blondes;60;'90s rock band
+50 Cent;60;American rapper and actor (born 1975)
 50 Ways to Leave Your Lover;60;1975 single by Paul Simon
 5-10-15-20 (25-30 Years of Love);50;1970 single by The Presidents
 54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
+60 Minutes;60;American television news magazine program
+6ix9ine;60;American rapper (born 1996)
+77 Sunset Strip;50;American crime drama television series (1958–1964)
+7-layer dip;60;Tex-Mex appetizer
+7-layer dips;60;Tex-Mex appetizers
+7th heaven;60
+867-5309;60;1981 single by Tommy Tutone
+867-5309/Jenny;60;1981 single by Tommy Tutone
+8 Mile;60;2002 Eminem movie
+8mm;50;1999 Nicolas Cage thriller
+8-track;50
+8-track cartridge;50
+8-track cartridges;50
+8-track player;50
+8-track players;50
+8-tracks;50
+8-track tape;50
+8-track tapes;50
+90210;50;Beverly Hills's zip code
+99.9%;50
+999;20
+99.9 percent;60
+99 Luftballons;50;1983 single by Nena
 99 Problems;60;2004 single by Jay-Z
+99 Red Balloons;50;1983 single by Nena ("99 Luftballons")
+9-volt;50;Small battery
+9-volt batteries;60
+9-volt battery;60
+9-volts;50;Small batteries
 a;50
 AA;40;Alcoholics Anonymous / Battery size
 AAA;40;American Automobile Association / Small battery size
@@ -1158,9 +1217,9 @@ agathas;30
 agaze;30
 age;50
 agedcare;50
-agedlikeafinewine;60
-agedlikefinewine;60
-agedlikemilk;60
+aged like a fine wine;60
+aged like fine wine;60
+aged like milk;60
 agedness;40
 agee;40;Pulitzer-winning writer James Agee
 ageeight;50
@@ -1182,9 +1241,9 @@ ageing;30;British spelling
 ageings;20
 agelevel;50
 agelevels;50
-agelikeafinewine;60
-agelikefinewine;60
-agelikemilk;60
+age like a fine wine;60
+age like fine wine;60
+age like milk;60
 ageline;60
 agelines;60
 agemate;40
@@ -1213,9 +1272,9 @@ ageseventy;50
 agesix;50
 agesixteen;50
 agesixty;50
-ageslikeafinewine;60
-ageslikefinewine;60
-ageslikemilk;60
+ages like a fine wine;60
+ages like fine wine;60
+ages like milk;60
 agesold;50;Ancient
 ageten;50
 agethirteen;50
@@ -1234,9 +1293,9 @@ aggro;30
 agha;40;Turkish honorific
 aghas;40
 agi;20;Will Shortz won't accept it
-aginglikeafinewine;60
-aginglikefinewine;60
-aginglikemilk;60
+aging like a fine wine;60
+aging like fine wine;60
+aging like milk;60
 agirlcandream;60
 agita;50
 agleam;40
@@ -1331,6 +1390,7 @@ ahousedivided;60
 ahs;40
 ahso;10
 ahtawaih;0
+a hundred pounds soaking wet;60
 ahushfelloverthecrowd;60
 ahwell;60
 ahwellwhatcanyoudo;60
@@ -7657,6 +7717,9 @@ bondgirls;60
 bondingwith;40
 bondissue;50
 bondissues;50
+bondjames;0
+Bond, James Bond;60
+Bond James Bond;0
 bondo;30;Putty brand
 bondswith;40
 bondwith;40
@@ -7691,6 +7754,7 @@ Boney M.;40;German disco group in the late '70s
 Boney M;0
 bonghit;60
 bonghits;60
+bongjamesbong;0
 bongodrum;50
 bongoes;20;Rare spelling
 bongoplayer;50
@@ -7849,14 +7913,28 @@ bootout;50
 bootsit;40;Make an error in fielding a grounder
 bootsoff;50
 bootsout;50
-bootycall;60
-bootycalls;60
+booty call;60
+booty called;60
+booty calling;60
+booty calls;60
+bootylicious;60;Callipygous or otherwise appealingly voluptuous
+Bootylicious;60;2001 single by Destiny's Child
+booty shorts;60
 booutlaw;30;Unremarkable NBA player
 booyah;60
-boozecruise;60
-boozecruises;60
+booyakasha;60;Ali G's catchphrase
+booze cruise;60
+booze cruised;60
+booze cruises;60
+booze cruising;60
+boozed it up;60
+booze it up;60
 boozer;10
 boozers;10
+booze run;60
+booze runs;60
+boozes it up;60
+boozing it up;60
 bop;50
 bopin;30
 boppedin;30
@@ -9397,6 +9475,7 @@ camebackemptyhanded;50
 cameby;40
 cameclean;50
 camedowntoearth;60
+came down to the wire;60
 camedownwith;40
 cameeasy;60
 camefor;40
@@ -9777,6 +9856,7 @@ capstoneprojects;50
 capt;40
 captainbuzzkill;60
 captaineo;20
+Captain James Cook;60;First European to visit Hawaii
 captainofindustry;60
 captainplanet;50
 captainplanetandtheplaneteers;50
@@ -12542,6 +12622,7 @@ comedicprop;50
 comedicprops;50
 comedo;20
 comedowntoearth;60
+come down to the wire;60
 comedownwith;40
 comedy;50
 comedyroast;50
@@ -12585,6 +12666,7 @@ comesbackemptyhanded;50
 comesby;40
 comesclean;50
 comesdowntoearth;60
+comes down to the wire;60
 comesdownwith;40
 comesfor;40
 comesfrom;40
@@ -12638,6 +12720,7 @@ comingbackemptyhanded;50
 comingby;40
 comingclean;50
 comingdowntoearth;60
+coming down to the wire;60
 comingfor;40
 comingfrom;40
 comingfullcircle;60
@@ -17284,6 +17367,7 @@ downstair;50
 downto;40
 downtobrasstacks;60
 downtoclown;60
+down to the wire;60
 downvote;50
 downvotes;50
 dowonders;60
@@ -25088,6 +25172,7 @@ gobbets;40
 gobidessert;0
 gobies;20
 gobig;50
+go big or go home;60
 gobirds;60;Eagles fan cry
 goblank;50
 gobletoffire;50
@@ -25115,6 +25200,7 @@ godlily;30;Weird adverb
 godno;60
 godofmanynames;60
 godowntheline;50
+go down to the wire;60
 godry;40
 godsacre;50
 godsacres;50
@@ -25152,6 +25238,7 @@ goesbythebook;60
 goescondo;50
 goesdeaf;50
 goesdowntheline;50
+goes down to the wire;60
 goesdry;50
 goeseasyon;50
 goesflat;50
@@ -25271,6 +25358,7 @@ goingbythebook;60
 goingcondo;50
 goingdeaf;50
 goingdowntheline;50
+going down to the wire;60
 goingdry;50
 goingflat;50
 goingfor;40
@@ -27932,7 +28020,7 @@ henripoincare;50
 henryhyde;40;House rep Henry Hyde (R-IL, 1975-2007)
 henryi;40
 henryii;30
-henryjames;50
+Henry James;60;American and British writer (1843–1916)
 henryjekyll;60
 henryjonesjr;60
 henryknox;50
@@ -28432,6 +28520,7 @@ hitsthestreets;60
 hitsthetop;20
 hitter;50
 hitters;50
+hit the bell;60;YouTuber's request
 hitthefoor;0
 hitthepavement;60
 hittheroadjack;60
@@ -30074,6 +30163,7 @@ iipeter;20
 iirc;30;"To the best of my recollection", in a text
 iis;20
 iissllaanndd;0
+Ijames;40;James Ijames, "Fat Ham" playwright, 2022 Pulitzer winner
 ijbol;20
 ijest;50
 ijk;20
@@ -32453,32 +32543,71 @@ jaleel;40
 jalen;40;Various athletes
 jam;50
 jama;30;Journal of the A.M.A.
+James A. Garfield;50;President of the United States in 1881
+James A Garfield;0
+James Albert Michener;50;American author (1907–1997)
+James A. Michener;50;American author (1907–1997)
+James A Michener;0
+James and the Giant Peach;60
+James Barrie;50;J. M. Barrie, creator of Peter Pan
+James Beard;60
+James Beard Award;60
+James Beard Awards;60
+James Beard Foundation;60
+James Belushi;50;Comedian Jim Belushi
+James Bernoulli;60;Swiss mathematician (1655–1705)
+jamesbluntly;0
+James B. McPherson;50;U.S. Army general in the American Civil War (1828–1864)
+James B McPherson;0
+James Bond Theme;60
 jamesbrown;60
 jamescameron;60
 jamescromwell;50
+James Dean;60
 jamesdoohan;50
 jamesdwatt;60
-jamesearljones;60
+jameseaerljones;0
+James Earl Jones;60
 jamesensor;50
-jameshetfield;60
+James E. Webb;50;James Webb Space Telescope
+James Franco;50;American actor and filmmaker (born 1978)
+James Hetfield;60;Metallica's lead singer and rhythm guitarist
 jameshorner;50
 jamesi;30
+James Iha;50;Smashing Pumpkins guitarist
 jamesii;30
+James III;30
+James Ijames;50;"Fat Ham" playwright, 2022 Pulitzer winner
+James Ingram;50;American singer, songwriter, and record producer (1952–2019)
 jamesiv;30
 jamesjoyce;60
-jameskpolk;50
-jameslabrie;50
+James Kirk;50;"Star Trek" captain
+James Knox Polk;50;President of the United States from 1845 to 1849
+James K. Polk;50;President of the United States from 1845 to 1849
+James K Polk;0
+James LaBrie;50;Dream Theater's lead singer
+James Lipton;60;"Inside the Actors Studio" host
 jamesmadison;50
-jamesmcneillwhistler;60
+James M. Cain;50;Hardboiled crime novelist (1892-1977)
+James M Cain;0
+James McNeill Whistler;60;American painter (1834–1903)
 jamesmonroe;50
 jamespatterson;50
+James Polk;50;President of the United States from 1845 to 1849
 jamesrandi;60
-jamesthejust;60;Brother of Jesus
-jamestkirk;60
+James the Just;60;Brother of Jesus, first leader of the Church of Jerusalem
+James Tiberius Kirk;60;"Star Trek" captain
+James T. Kirk;60;"Star Trek" captain
+James T Kirk;0
+James V;30
 jamesvi;30
 jamesvii;30
+James Wan;50;Horror movie director
 jameswatson;60;Watson and Crick
 jameswatt;60
+James Webb;50;James Webb Space Telescope
+jameswebb;0
+James Webb Space Telescope;60
 jameswhistler;60
 jamin;40
 jaminto;40
@@ -32785,7 +32914,8 @@ jitneys;30
 jiujitsudojo;60
 jiujitsudojos;60
 jjevans;50
-jjonahjameson;60
+J. Jonah Jameson;60
+J Jonah Jameson;0
 jjoohhnnsilver;0
 jjoohhnnss;0
 jkl;20
@@ -35973,20 +36103,24 @@ likeacheapsuit;60
 likeacheapsuitcase;60
 likeacheaptent;60
 likeadogwithtwotails;60;Delighted
+like a fine wine;60
 likeaglove;60
 likeakidinacandystore;60
 likealawnchair;60
 likeamillionbucks;60
-likeandsubscribe;60
+like and subscribe;60;YouTuber's request
 likeasnot;60
 likeatickingtimebomb;60
 likebumpsonalog;60
+like buttah;60
+like butter;60
 likebutton;60
 likebuttons;60
 likeclockwork;60
 likecommentandsubscribe;60
 likedrinkingfromafirehose;60
 likedto;40
+like fine wine;60
 likegangbusters;60
 likegreasedlightning;60
 likehotcakes;60
@@ -37847,6 +37981,7 @@ majorthreats;50
 majorwalterreed;50
 majuro;40;Capital of the Marshall Islands
 makable;20;Variant of makeable
+Makaveli;60;Stage name for Tupac Shakur
 makeabeelinefor;60
 makeabundle;60
 makeacameo;50
@@ -38824,6 +38959,7 @@ mayim;40;Actress Mayim Bialik
 mayimbialik;60
 mayisee;60
 maynard;40
+Maynard James Keenan;60;Lead singer of Tool and A Perfect Circle
 mayonest;20;???
 mayoracha;60;Sriracha mayo
 mayoralelection;50
@@ -44445,6 +44581,7 @@ onde;20;Wave: Fr.
 ondine;40;2009 Colin Farrell movie
 ondisc;40
 ondope;10
+on down to the wire;20
 ondra;40;Adam Ondra
 ondrugs;10
 ondvd;40
@@ -46841,7 +46978,8 @@ pdf;40
 pdfformat;30
 PDFs;40
 pdiddy;10
-pdjames;40;English detective novelist
+P. D. James;50;English detective novelist (1920–2014)
+P D James;0
 pdq;40
 pdqbach;50
 pdr;20
@@ -53449,6 +53587,7 @@ ricin;40;Poison
 rickdees;50
 ricked;30
 ricking;30
+Rick James;60
 rickrack;30;Zigzag ribbon
 ricks;50;"Casablanca" club
 ricksteves;50
@@ -59098,6 +59237,8 @@ smashin;40
 smashingin;40
 smashinginto;40
 smashinto;40
+Smash Mouth;60;"All Star" rock band
+smash that like button;60;YouTuber's request
 smaug;40;"The Hobbit" dragon
 smaze;30;Smoke/haze mix
 smearedon;50
@@ -64969,6 +65110,8 @@ thawer;30
 thc;40
 thd;20
 the;50
+The 40-Year-Old Virgin;60;2005 Steve Carrell comedy
+the40yearoldvirgin;20
 thea;30
 theabcs;40
 theabsoluteunit;60
@@ -65010,6 +65153,7 @@ theart;20
 theartist;60
 theas;40;The Athletics
 theasp;30;Daddy Warbucks's bodyguard
+The Assassination of Jesse James by the Coward Robert Ford;60
 theasteroidbelt;20
 theaterdirector;50
 theaterdirectors;50
@@ -65367,7 +65511,7 @@ thekeyofc;0
 thekeystonekops;40
 thekid;50
 thekiller;60;David Fincher / Michael Fassbender movie
-thekingjamesbible;40
+The King James Bible;40
 thekingofclubs;40
 thekingofdiamonds;40
 thekingofhearts;40
@@ -68629,6 +68773,7 @@ twelvemonkeys;60
 twelvemos;40
 twelveplusone;0
 twelvepm;50
+twenty questions;60;Spoken guessing game using yes–no questions
 twerent;50
 twi;20
 twibe;20;Twitter tribe
@@ -68992,6 +69137,7 @@ ululation;50
 ululations;50
 uluru;40;Ayers Rock monolith in Australia
 ulyanov;40;Lenin's real last name
+ulyssesjamesjoyce;0
 um;50
 uma;50
 umackshually;60
@@ -71455,6 +71601,7 @@ wentbythebook;60
 wentcondo;50
 wentdeaf;50
 wentdowntheline;50
+went down to the wire;60
 wentdry;50
 wentflat;50
 wentfor;40
@@ -72111,6 +72258,7 @@ williami;30
 williamii;30
 williamiii;30
 williamiv;30
+William James Durant;50;American historian, philosopher and writer (1885–1981)
 williamsafire;60
 williamssonoma;50
 willothewisp;60
