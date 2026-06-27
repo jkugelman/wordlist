@@ -4185,7 +4185,7 @@ assayas;30;French director Olivier Assayas, seems respected, no movies I've hear
 assbackward;60
 assbackwards;60
 asscrack;10
-asscrackofdawn;60
+ass crack of dawn;60
 assegai;20;Bantu spear
 assegais;20;Bantu spears
 assentedto;40
@@ -4575,7 +4575,7 @@ attestor;30
 attestors;30
 atteststo;40
 attestto;40
-attheasscrackofdawn;60
+at the ass crack of dawn;60
 atthebat;30;Awkward
 atthedropofahat;60
 attheendof;40
@@ -7407,6 +7407,7 @@ blo;20
 bloater;30
 bloaters;30
 bloatware;60
+Blockade Crown;50;Roman military decoration
 blockader;30
 blockaders;30
 blockbuster;60
@@ -19421,7 +19422,24 @@ emoter;50
 emoters;50
 emoticon;50
 emoticons;50
+emotional affair;60
+emotional affairs;60
+emotional eater;60
+emotional eaters;60
+emotional eating;60
+emotional intelligence;60
+emotional IQ;60
+emotional labor;60
+emotionally charged;60
+emotionally charged language;60
+emotionally charged topic;60
+emotionally charged topics;60
+emotionally unavailable;60
 emotionaloutlet;60
+emotional support animal;60
+emotional support animals;60
+emotional wreck;60
+emotional wrecks;60
 emp;40
 empale;20
 empaled;20
@@ -24644,6 +24662,7 @@ getdark;30
 getdirton;50
 getdowntobrasstacks;60
 getem;50
+get emotional;60
 geterdone;50
 getfat;10
 getfired;60
@@ -24732,6 +24751,7 @@ getscute;60
 getsdark;30
 getsdirton;50
 getsdowntobrasstacks;60
+gets emotional;60
 getsfat;10
 getsfired;60
 getshitched;50
@@ -24835,6 +24855,7 @@ gettingcute;60
 gettingdark;30
 gettingdirton;50
 gettingdowntobrasstacks;60
+getting emotional;60
 gettingfat;10
 gettingfired;60
 gettingforasong;60
@@ -26044,6 +26065,7 @@ gotdark;30
 gotdirton;50
 gotdowntobrasstacks;60
 goteamgo;60
+got emotional;60
 gotfat;10
 gotfired;60
 gotgame;50
@@ -26107,6 +26129,7 @@ gotsore;40
 gotspooked;50
 gottacatchemall;60
 gottan;30;Japanese plucked instrument
+gotten emotional;50
 gottenin;40
 gottheax;60
 gottheaxe;60
@@ -26296,6 +26319,8 @@ graspingat;40
 graspingatstraws;60
 graspsat;40
 graspsatstraws;60
+grass crass class;0
+Grass Crown;50;Roman military decoration
 grassed;40
 grassfed;60
 grassfedbeef;60
@@ -28213,6 +28238,7 @@ helpvampire;60
 helpvampires;60
 helvetia;30
 hem;50
+He-Man and the Masters of the Universe;60;1980s cartoon show
 hemand;20
 hematic;30;???
 hematin;40;Iron pigment from blood
@@ -35968,8 +35994,10 @@ leshalles;40;Parisian market until 2018
 leshan;30;???
 leslea;30;Lesléa Newman, young adult author of "Heather Has Two Mommies"
 leslies;20
-lesmis;60
-lesmiz;40
+Les Mis;50;"Les Misérables" the musical
+Les Misérables;60;1862 novel by Victor Hugo / 1983 musical
+Les Miserables;0
+Les Miz;50;"Les Misérables" the musical
 lesnessman;40;Character on "WKRP in Cincinatti"
 lespaul;60
 lespaulguitar;60
@@ -39098,15 +39126,21 @@ mastermind;60
 masterminded;60
 masterminding;60
 masterminds;60
+master of ceremonies;60
+master of disguise;60
 masterofnone;60
-masterofpuppets;60
+Master of Puppets;60;1986 studio album by Metallica
 masterofscience;50
+Master of the House;60;Song from "Les Misérables"
 masterp;50
 masterpiece;60
 masterpieces;60
 masterplan;60
 masterplans;50
 masterpo;60;Kung Fu Panda
+masters of ceremonies;60
+masters of disguise;60
+Masters of Rome;50;Series of historical novels by Colleen McCullough
 mastersword;60
 mastic;30;Plant resin
 mastitis;30;Breast swelling
@@ -44270,8 +44304,22 @@ ocellar;20
 ocelli;40;Peacock "eyes"
 och;40
 ochenta;40
+ochenta y cinco;20
+ochenta y cuatro;20
+ochenta y dos;20
+ochenta y nueve;20
+ochenta y ocho;20
+ochenta y seis;20
+ochenta y siete;20
+ochenta y tres;20
+ochenta y un;20
+ochenta y una;20
+ochenta y uno;20
 ocher;50
 ochers;40
+ochlocracies;40
+ochlocracy;40;Mob rule
+ochlocrats;40
 ocho;40
 ochoa;40;Goalie Guillermo Ochoa (tied for most World Cup Finals w/Messi and Ronaldo), or golfer Loren Ochoa
 ochophobia;50;Fear of vehicles
@@ -44280,8 +44328,12 @@ ochre;40
 ochres;40
 ochs;40;Songwriter Phil Ochs
 ock;20
+Ockeghem;40;Renaissance composer (c. 1410–1497)
 ockham;40;William of Ockham or Occam, as in Occam's razor
+O come;40
+O come all ye;20
 oconee;20;Georgia river
+O'Connors;40
 ocr;30;[only used once in NYT]
 ocs;20
 oct;40
@@ -44311,11 +44363,17 @@ oculars;30
 oculi;40
 oculist;40;Eye doctor
 oculists;40
+oculomotor nerve;50
+oculomotor nerves;50
+Oculus Rift;50;VR headset 2013-21
+Oculus Rifts;50;VR headsets 2013-21
 od;10
 oda;20
-odalisque;30
-odamae;20;Whoopi in "Ghost"
-odarkthirty;60
+odalisque;30;Female slave or concubine in an Ottoman seraglio
+odalisques;30;Female slaves or concubines in an Ottoman seraglio
+Oda Mae;20;Oda Mae Brown, Whoopi Goldberg's role in "Ghost"
+Oda Mae Brown;40;Whoopi Goldberg's role in "Ghost"
+O dark thirty;60;Military slang for an ungodly early time
 odawa;20;Ottawa
 oday;40;Jazz vocalist Anita [frequent]
 odd;50
@@ -60148,14 +60206,16 @@ soccerrefs;50
 sochi;50
 socialanxiety;60
 socialbubmarine;0
+social butterflies;60
+social butterfly;60
 socialchange;60
 socialconstruct;60
 socialconstructs;60
 socialcontracts;50
 socialcue;60
 socialcues;60
-socialexperiment;60
-socialexperiments;60
+social experiment;60
+social experiments;60
 socialite;60
 socialites;60
 socialmediaaddiction;60
@@ -65903,6 +65963,7 @@ thegoods;60
 thegop;20
 thegospels;40
 thegrammys;40
+The Grass Crown;50;Roman military decoration / Colleen McCullough historical novel
 thegrease;30
 thegreatbrain;30;Children's book series
 thegreatdane;60;Nickname for pianist Victor Borge
@@ -71577,6 +71638,7 @@ wasonadate;30;Green paint???
 waspy;50
 wasrun;30
 wassail;30
+was scratched;20
 wasser;40;Water: Ger.
 wassweeton;40
 wast;20
@@ -74397,6 +74459,8 @@ zerocalorie;50
 zerocalories;50
 zerocarbon;60
 zerodarkthirty;60
+zero dark thirty;60;Military slang for an ungodly early time
+Zero Dark Thirty;60;2012 film about the hunt for bin Laden
 zeroedin;50
 zeroedinon;50
 zeroesin;50
