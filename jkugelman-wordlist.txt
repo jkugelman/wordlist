@@ -25,6 +25,9 @@
 12 drummers drumming;60
 12 Monkeys;60;1995 Bruce Willis sci-fi thriller
 12pm;50
+12-step;50
+12-step program;60
+12-step programs;60
 12 Years a Slave;60;1853 memoir by Solomon Northup
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
 1910fruitgumco;0
@@ -86,11 +89,19 @@
 6 geese a-laying;60
 6ix9ine;60;American rapper (born 1996)
 6pm;40
+6-string;50
+6-string guitar;60
+6-string guitars;60
 77 Sunset Strip;50;American crime drama television series (1958–1964)
 7am;40
 7-layer dip;60;Tex-Mex appetizer
 7-layer dips;60;Tex-Mex appetizers
 7pm;40
+7-string;50
+7-stringer;50
+7-stringers;50
+7-string guitar;60
+7-string guitars;60
 7 swans a-swimming;60
 7th heaven;60
 867-5309;60;1981 single by Tommy Tutone
@@ -100,6 +111,9 @@
 8 Mile;60;2002 Eminem movie
 8mm;50;1999 Nicolas Cage thriller
 8pm;40
+8-string;50
+8-string guitar;60
+8-string guitars;60
 8-track;50
 8-track cartridge;50
 8-track cartridges;50
@@ -10943,6 +10957,8 @@ chapin;40;Harry Chapin or Mary Chapin Carpenter
 chaplaincy;40
 chaplet;20
 chaplets;20
+Chapman Stick;60;Guitar-like instrument
+Chapman Sticks;60;Guitar-like instruments
 chappellroan;60
 chapterii;40
 chapterone;50
@@ -18978,6 +18994,10 @@ eightletterwords;50
 eight maids a-milking;60
 eightpm;50
 eightsome;20
+eight-string;60
+eight-string guitar;60
+eight-string guitars;60
+eight-strings;50
 eik;20;Eat in kitchen, in ads
 ein;40
 eine;40
@@ -22266,6 +22286,10 @@ fivestarrating;60
 fivestarratings;60
 fivestarreview;60
 fivestarreviews;60
+five-string;60
+five-string bass;60
+five-string basses;60
+five-strings;50
 fivetimechamp;20
 fivews;50
 fix;50
@@ -23100,6 +23124,11 @@ fouronthefloor;60
 fourpm;50
 fourstarreview;60
 fourstarreviews;60
+four-string banjo;60
+four-string banjos;60
+four-string bass;60
+four-string basses;60
+four-strings;50
 fourthandinches;60
 fourthandlong;60
 fourthrees;20
@@ -57535,6 +57564,12 @@ sevenseas;60
 sevensegment;60
 sevensegmentdisplay;60
 sevensegmentdisplays;60
+seven-string;60
+seven-stringer;60
+seven-stringers;60
+seven-string guitar;60
+seven-string guitars;60
+seven-strings;50
 seven swans a-swimming;60
 seventeens;20;???
 seventeenths;40
@@ -58906,6 +58941,12 @@ sixpackabs;60
 sixpast;30
 sixpm;50
 sixseven;60
+six-string;60
+six-string bass;60
+six-string basses;60
+six-string guitar;60
+six-string guitars;60
+six-strings;60
 sixteen;50
 sixteens;40
 sixteenthnote;50
@@ -69105,6 +69146,11 @@ twelvemonkeys;60
 twelvemos;40
 twelveplusone;0
 twelvepm;50
+twelve-step program;60
+twelve-step programs;60
+twelve-string;60
+twelve-string guitar;60
+twelve-string guitars;60
 twenty questions;60;Spoken guessing game using yes–no questions
 twerent;50
 twi;20
