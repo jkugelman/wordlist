@@ -63,16 +63,22 @@
 1v1;50
 1v1 me;60;Childish gamer's challenge
 #1 with a bullet;60
+20/20;50
+2020;20
+20/20 eyesight;60
+20/20 vision;60
+2020vision;20
 20 questions;60;Spoken guessing game using yes–no questions
 21 Grams;50;2003 Sean Penn / Naomi Watts film
 21 Jump Street;60;1980s TV show or 2000s movie series
-21questions;60
 23andMe;60;Genetic testing company
 24/7;50
 24/7/365;60
 24: Live Another Day;50;2014 limited event television series
 25 or 6 to 4;60;1970 single by Chicago
 2am;40
+2 Become 1;60;1996 single by the Spice Girls
+2 Broke Girls;60;CBS sitcom 2011-17
 2 Chainz;60;American rapper and actor (born 1977)
 2 Legit 2 Quit;60;1991 single by MC Hammer
 2nd;50
@@ -83,9 +89,13 @@
 #2 seed;50
 #2 seeds;50
 2 turtledoves;60
+30 for 30;60;ESPN sports documentary film series
+30 Rock;50;NBC Tina Fey sitcom 2006-13
 3:10 to Yuma;60;Western movie
+.38 Special;50;Smith & Wesson revolver cartridge
 3 AM;50;1996 Matchbox Twenty single
 3am;40
+3 Doors Down;60;'90s rock band
 3D printer;60
 3D printers;60
 3D printing;60
@@ -99,8 +109,15 @@
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
 4:3;40;Fullscreen aspect ratio
 4:3 aspect ratio;60
+47 Ronin;60;Samurai battle on 31 January 1703
+48 Hours;50;CBS news show since 1988
+48 Hrs.;50;1982 Nick Nolte / Eddie Murphy buddy cop movie
+49er;50
+49ers;50
 4am;40
 4 calling birds;60
+4 colly birds;0
+4-H Club;60;Youth development organization
 4K;40
 4K television;60
 4K televisions;60
@@ -111,7 +128,11 @@
 4K videos;50
 4 Non Blondes;60;'90s rock band
 4pm;40
+4Runner;50;Toyota SUV
+4Runners;50;Toyota SUVs
+4 square;50;Elimination-based ball game played in a box
 4th;40
+50/50;50
 50 Cent;60;American rapper and actor (born 1975)
 50 Ways to Leave Your Lover;60;1975 single by Paul Simon
 5-10-15-20 (25-30 Years of Love);50;1970 single by The Presidents
@@ -120,7 +141,14 @@
 5 golden rings;60
 5pm;40
 5th;40
+5th Avenue;60;Hershey chocolate bar
+5th Avenue bar;60;Hershey chocolate bar
+5th Avenue bars;60;Hershey chocolate bars
 60 Minutes;60;American television news magazine program
+69;10
+69ed;10
+69ing;10
+69s;10
 6am;40
 6 geese a-laying;60
 6ix9ine;60;American rapper (born 1996)
@@ -135,6 +163,7 @@
 7-layer dip;60;Tex-Mex appetizer
 7-layer dips;60;Tex-Mex appetizers
 7pm;40
+7 Rooms of Gloom;50;1967 single by Four Tops
 7-string;50
 7-stringer;50
 7-stringers;50
@@ -151,6 +180,8 @@
 8 Mile;60;2002 Eminem movie
 8mm;50;1999 Nicolas Cage thriller
 8pm;40
+8 Simple Rules;50;ABC John Ritter sitcom 2002-05
+8 Simple Rules... for Dating My Teenage Daughter;60;ABC John Ritter sitcom 2002-05
 8-string;50
 8-string guitar;60
 8-string guitars;60
@@ -164,6 +195,7 @@
 8-track tape;50
 8-track tapes;50
 90210;50;Beverly Hills's zip code
+98 Degrees;60;Boy band
 99.9%;50
 999;20
 99.9 percent;60
@@ -1707,6 +1739,8 @@ ajo;30;Garlic: Sp. [rare]
 a job's a job;60
 ajs;20
 aka;50
+Akan;30;Language of Ghana
+Akan language;50;Language of Ghana
 akas;20
 akc;30;American Kennel Club
 akebono;30;???
@@ -3501,6 +3535,7 @@ arank;20
 ararat;40
 arare;20
 araucaria;30;Evergreen tree genus "monkey puzzles"
+Arawakan;40
 arb;20
 arbalest;40;Crossbow variation
 arbalests;40
@@ -4297,6 +4332,7 @@ assworship;10
 ast;20
 asta;30
 astana;40;Capital of Kazakhstan
+Astana Kazakhstan;50;Capital of Kazakhstan
 astar;20
 astarisborn;60
 astars;20
@@ -8446,6 +8482,8 @@ breadwinner;60
 breadwinners;60
 breakabad;60
 breakbad;60
+breakbaker;0
+breakbrake;0
 breakbread;60
 breakbreadwith;50
 breakcharacter;60
@@ -13487,6 +13525,7 @@ corruptfile;50
 corruptfiles;50
 corselet;40;Women's garment
 corselets;40
+corsetescort;0
 corslet;30;Armor
 corslets;30;Armor
 cortado;40;???
@@ -14126,6 +14165,7 @@ crips;40
 crisishotline;60
 crisishotlines;60
 crispr;50
+crispscrip;0
 crisscross;60
 crisscrossapplesauce;60
 crisscrossed;60
@@ -15815,6 +15855,7 @@ denimskirts;50
 denisleary;50
 denisvilleneuve;60
 dennislehane;50;"Shutter Island" author
+dennissinned;0
 denominate;40
 denominated;40
 denominates;40
@@ -16582,6 +16623,7 @@ Disco Elysium;60
 discoid;30
 discoing;40
 Disco Stu;60
+discountconduits;0
 discoursing;30
 discusser;30
 discussers;30
@@ -19465,6 +19507,7 @@ emoter;50
 emoters;50
 emoticon;50
 emoticons;50
+emoticonseconomist;0
 emotional affair;60
 emotional affairs;60
 emotional eater;60
@@ -30240,6 +30283,7 @@ ideologist;40
 ideserveit;60
 idi;10
 idiamin;10
+I did, did I?;40;Contrived?
 ididgood;50
 ididnot;40;Playground retort
 ididntask;60
@@ -31016,6 +31060,7 @@ impulsebuys;60
 impulsepurchase;60
 impulsepurchases;60
 impumped;60
+impureumpire;0
 imran;40;Imran Khan, Pakistani PM 2018-2022
 imrich;60
 ims;40
@@ -31129,6 +31174,7 @@ inapppurchases;60
 inappreciable;20
 inapproachable;20
 inaprettypickle;60
+inaptpaint;0
 inarabic;30
 inarightpickle;60
 inarmor;40
@@ -35258,6 +35304,7 @@ lassoer;30
 lassoers;30
 lassoo;0
 lastactionhero;60
+Last Analysis;50;Saul Bellow's only full-length play, not well known, with "The"
 lastbus;30;Green paint
 lastcall;50
 lastcalls;50
@@ -40248,6 +40295,7 @@ middleseats;60
 middletoe;50
 middletoes;50
 midear;30
+Mideast analysis;20
 midfade;50;Haircut
 midfades;50
 midfields;30
@@ -42993,6 +43041,7 @@ nightshift;50
 nightshifts;50
 nightsinwhitesatin;60
 nightstick;50
+night thing;20;???
 nightwear;50
 nih;40
 nihao;40
@@ -43135,7 +43184,7 @@ niseis;30;American-born Japanese
 nissanz;40
 nissen;30;???
 nissenhuts;20
-nissin;50;Cup Noodles maker
+nissin;40;Cup Noodles maker
 nit;50
 nite;40
 niter;40
@@ -45320,6 +45369,7 @@ onelump;40
 oneman;40;Like some canoes, or whatever
 onemanoperation;50
 onemanoperations;50
+One Man Woman/One Woman Man;50;1974 single by Paul Anka with Odia Coates
 onemasted;50
 onemeg;20
 onemil;40
@@ -46167,7 +46217,7 @@ ossies;20
 ossifrage;40;Bearded vulture
 ossining;30;New York village
 ossipee;20
-osso;40;___ buco
+osso;40;Osso bucco, veal shanks braised with vegetables
 ost;30;East: Ger. [common]
 ostar;20
 ostars;20
@@ -46297,6 +46347,7 @@ outergods;60;From Lovecraft
 outermongolia;50
 outerplanet;60
 outerplanets;60
+outer route;0
 outface;30
 outfaced;30
 outfaces;30
@@ -48291,6 +48342,7 @@ phfactor;50
 phfactors;50
 phi;50
 phidias;30;Greek sculptor
+Philip Pirrip;50;AKA Pip, "Great Expectations" narrator
 philliephanatic;60
 phillipsheadscrewdriver;50
 phillipsheadscrewdrivers;50
@@ -48782,6 +48834,7 @@ piratehat;60
 piratehats;60
 pirateking;60;???
 piratic;30
+Pirrip;40;Philip Pirrip, AKA Pip, "Great Expectations" narrator
 pis;40
 pisaitaly;20
 pisaller;40;Pis aller, action of last resort
@@ -59933,6 +59986,7 @@ smirkingat;40
 smirksat;40
 smirky;30
 smithee;40;Alan Smithee, common directorial pseudonym
+Smith & Wesson;60;American manufacturer of firearms and ammunition
 smits;40;Actor Jimmy Smits
 sml;20
 smogtest;50
@@ -62336,6 +62390,7 @@ steno;40
 stenog;40
 stenographer;50
 stenographers;50
+steno notes;20
 stenos;40
 stenose;20
 stenosis;30;Spinal cord narrowing
@@ -66177,6 +66232,7 @@ thekiss;50;Rodin sculpture
 theknack;50
 thelakers;50
 thelark;30
+The Last Analysis;50;Saul Bellow's only full-length play, not well known
 thelastjedi;60
 thelastofus;60
 thelastunicorn;60
@@ -66266,6 +66322,7 @@ themessage;0
 themessiah;50
 themets;40
 themgs;30;1960s R&B band Booker T. & the M.G.'s
+the Miami Heat;40;Spurious "the"
 themiddleofnowhere;60
 themikado;60
 themile;20
