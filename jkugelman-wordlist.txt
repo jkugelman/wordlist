@@ -32,9 +32,12 @@
 12 Years a Slave;60;1853 memoir by Solomon Northup
 13 Going on 30;20;2004 Jennifer Garner romcom
 15 minutes of fame;60;What Andy Warhol said everyone will have, one day
+16:9;50;Aspect ratio for TV and computer monitors
+16:9 aspect ratio;60
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
 1-800 number;60
 1-800 numbers;60
+18 and Life;50;1989 single by Skid Row
 18-wheeler;60;Semi-trailer truck
 18-wheelers;60;Semi-trailer trucks
 1-900 number;60
@@ -54,11 +57,15 @@
 1-up;50;Extra life in video games
 1-ups;50;Extra lives in video games
 1v1;50
+1v1 me;60;Childish gamer's challenge
 #1 with a bullet;60
 20 questions;60;Spoken guessing game using yes–no questions
 21 Grams;50;2003 Sean Penn / Naomi Watts film
 21 Jump Street;60;1980s TV show or 2000s movie series
 21questions;60
+23andMe;60;Genetic testing company
+24/7;50
+24/7/365;60
 24: Live Another Day;50;2014 limited event television series
 25 or 6 to 4;60;1970 single by Chicago
 2am;40
@@ -86,8 +93,18 @@
 #3 seeds;50
 3 wise monkeys;60
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
+4:3;40;Fullscreen aspect ratio
+4:3 aspect ratio;60
 4am;40
 4 calling birds;60
+4K;40
+4K television;60
+4K televisions;60
+4K TV;40
+4K TVs;40
+4K UHD;40;Ultra-high-definition
+4K video;50
+4K videos;50
 4 Non Blondes;60;'90s rock band
 4pm;40
 4th;40
@@ -110,6 +127,7 @@
 6th;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
 7am;40
+7-Eleven;60;Convenience store chain
 7-layer dip;60;Tex-Mex appetizer
 7-layer dips;60;Tex-Mex appetizers
 7pm;40
@@ -124,6 +142,7 @@
 867-5309;60;1981 single by Tommy Tutone
 867-5309/Jenny;60;1981 single by Tommy Tutone
 8am;40
+8K UHD;40;Ultra-high-definition
 8 maids a-milking;60
 8 Mile;60;2002 Eminem movie
 8mm;50;1999 Nicolas Cage thriller
@@ -36210,6 +36229,8 @@ leyden;30;Kind of jar or cheese
 leyna;30;Unnotable name???
 lfo;20
 lg;40
+LG 4K OLED TV;20
+LG 4K OLED TVs;20
 lga;40
 lgbtflag;60
 lgbtflags;60
@@ -69614,6 +69635,7 @@ ugric;20;Ancient Hungarian
 ugsome;30;Disgusting, archaic
 ugsomeness;20
 uh;50
+UHD;30;Ultra-high-definition
 uhf;40
 uhh;50
 uhnak;0
