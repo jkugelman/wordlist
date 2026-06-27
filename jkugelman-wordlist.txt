@@ -1,5 +1,7 @@
 '03 Bonnie and Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
 '03 Bonnie & Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
+0 BC;50
+0th;50
 100%;50
 10,000 Maniacs;50;American alternative rock band
 100 Grand;60;Brand of chocolate bar
@@ -766,6 +768,7 @@ acuvue;40;Contact lens brand
 acv;20
 acyrologia;20;Malapropism
 ad;50
+AD 1;50;First year of the Common Era
 ada;50
 adab;30
 adagencies;50
@@ -1597,7 +1600,7 @@ ajcook;40;"Criminal Minds" actress A. J. Cook
 ajfoyt;40;Four-time Indy 500 winner
 aji;20
 ajo;30;Garlic: Sp. [rare]
-ajobsajob;60
+a job's a job;60
 ajs;20
 aka;50
 akas;20
@@ -2689,6 +2692,7 @@ andyouare;60
 andyourlittledogtoo;60
 ane;30;Suffix
 aneedle;20
+an elephant in the room;50;"An"?
 anema;20
 anembarrassmentofriches;60
 anemias;30
@@ -3254,6 +3258,8 @@ applestrudel;50
 applestrudels;50
 appletini;60
 appletinis;60
+apple turnover;60
+apple turnovers;60
 applevisionpro;60;Apple mixed-reality headset
 applewatch;60
 applewatches;60
@@ -4022,7 +4028,7 @@ aslant;30
 aslarge;20
 asleepatthewheel;60
 asleepinthedeep;60
-asleeponthejob;60
+asleep on the job;60
 asmallpricetopay;60
 asmara;40;Capital of Eritrea
 asmaran;30;From Asmara, Eritrea's capital
@@ -4752,6 +4758,7 @@ awakeatdawn;50
 awardee;30
 awardgala;50
 awardgalas;50
+aware of;50
 awaste;20
 awaysaway;60
 awe;50
@@ -6146,9 +6153,11 @@ beaverkit;50
 beaverkits;50
 beaverlodge;50
 beaverlodges;50
+be aware of;20
 bebackinaminute;50
 bebe;40
 bec;20
+became aware of;40
 becameobsolete;50
 becauseigothigh;60;Afroman song
 becauseitsthere;60
@@ -6161,8 +6170,11 @@ becloud;30
 beclouded;30
 beclouding;30
 beclouds;30
+become aware of;40
 becomeobsolete;50
+becomes aware of;40
 becomesobsolete;50
+becoming aware of;40
 becomingobsolete;50
 beconcise;50
 bed;50
@@ -6636,6 +6648,7 @@ betteryet;60
 bettingon;40
 betts;30;???
 bettygrable;50
+be unaware of;20
 beurre;30;Butter: French
 bev;40
 bevmo;40;Online liquor store
@@ -7839,6 +7852,7 @@ bookit;50
 bookmobile;50
 bookmobiles;50
 bookofeli;60
+Book of Job;60
 bookofmatches;50
 bookoncd;30
 bookrec;50
@@ -19025,7 +19039,9 @@ elenchi;20
 elenchus;20;Logical refutation, from the Socratic method
 elenore;30;Song by The Turtles
 eleonora;30;Poe short story
+elephant in the room;60
 elephantmario;60
+elephants in the room;60
 elephantssnacks;0
 elerian;30
 eless;20
@@ -19313,6 +19329,7 @@ empiricallaw;60
 empiricallaws;60
 employeediscount;60
 employeediscounts;60
+employee turnover;60
 emptyhanded;50
 emptynetgoal;50
 emptynetgoals;50
@@ -22067,7 +22084,7 @@ firstkisses;60
 firstladies;60
 firstlady;60
 firstlaw;50
-firstlawofthermodynamics;60
+first law of thermodynamics;60
 firstlittlepig;60
 firstoffense;50
 firstorderlogic;50
@@ -29556,6 +29573,7 @@ iadmitit;60
 ial;30;Suffix [occasional]
 ialone;50
 iam;50
+I am aware of that;60
 iambi;40
 iambicpentameter;60
 iamkenough;60
@@ -30399,6 +30417,7 @@ imataloss;60
 imaum;20;Imam, archaic
 imaums;20;Imams, archaic
 imaware;60
+I'm aware of that;60
 imawfulatnames;60
 imawfulwithnames;60
 imaxfilm;60
@@ -30488,7 +30507,7 @@ iminnomood;60
 iminthemoney;60
 imissyou;60
 imjustbrowsing;60
-imjustdoingmyjob;60
+I'm just doing my job;60
 imjustfuckingwithyou;10
 imjustfuckinwithya;10
 imjustfuckinwithyou;10
@@ -30700,6 +30719,7 @@ imwarminguptotheidea;60
 imwarningyou;60;"Consider this your first strike!"
 imwayaheadofyou;60
 imwellaware;60
+I'm well aware of that;60
 imworkingonit;60
 imy;20
 imyourbiggestfan;60
@@ -32925,18 +32945,51 @@ jlo;40
 jnr;20
 jo;40
 joakim;20;Bibilical king of Judah
+Joan of;20
 joao;30
-joaquinphoenix;60
+Joaquin Castro;50;Texas representative since 2013
+Joaquin Phoenix;60
 job;50
+Job;50;Biblical figure
+job agencies;50
+job agency;50
 jobapplications;50
-jobboard;60
-jobboards;60
-jobeth;40
-jobmarket;50
-jobmarkets;50
-joboffer;50
+job bank;50
+job banks;50
+jobbery;40
+job board;60
+job boards;60
+job cut;50
+job cuts;50
+JoBeth;40
+job growth;60
+job-hop;60
+job-hopped;60
+job-hopper;60
+job-hoppers;60
+job-hopping;60
+job-hops;60
+job hunt;60
+job hunter;60
+job hunters;60
+job hunting;60
+job hunts;60
+Jobim;40;Bossa nova composer Antônio Carlos Jobim (1927-1994)
+job loss;50
+job losses;50
+job market;60
+job markets;60
+job offer;60
+job offers;60
 jobs;50
-jobsecurity;60
+job satisfaction;60
+job search;60
+job searches;60
+job security;60
+jobs report;60
+jobs reports;60
+job stress;60
+Joburg;50;Nickname for Johannesburg, South Africa
 jockjam;60
 jockstrap;50
 jockstraps;50
@@ -33229,7 +33282,8 @@ justbrowsing;60
 justcoolit;60
 justcoolitwouldya;60
 justcoolitwouldyou;60
-justdoingmyjob;60
+just doing my job;60
+just doin' my job;60
 justdont;60
 justforfunsies;60
 justformen;60
@@ -34613,6 +34667,7 @@ lancinating;30;Stabbing, as pain
 lancination;30
 landagent;50
 landagents;50
+land a great job;20
 landahoy;60
 landat;30
 landau;40;Actor Martin Landau
@@ -34926,6 +34981,8 @@ latening;50
 latenite;40
 latens;50
 lateon;20
+lateral job move;60
+lateral job moves;60
 lateran;20
 laterdude;60
 latergram;50
@@ -35048,6 +35105,8 @@ lawnshrine;60;Lawn shrine with the Virgin Mary
 lawnshrines;60
 lawofattraction;50
 lawofmoses;60
+law of the excluded middle;60
+law of thermodynamics;60
 lawprofessor;60
 lawprofessors;60
 lawrencewelk;50
@@ -36576,6 +36635,10 @@ loadings;40;Weird plural
 loadingscreentip;60
 loadingscreentips;60
 loadsin;40
+loafed on the job;20
+loafing on the job;20
+loaf on the job;20
+loafs on the job;20
 loam;40
 loamier;40
 loamiest;40
@@ -43300,6 +43363,7 @@ notsosure;60
 notsurewhy;60
 notsurprisingly;60
 nottaapproblem;0
+not that I'm aware of;60
 notthebrightestcrayoninthebox;60
 nottheonion;60
 notthesharpesttoolintheshed;60
@@ -51459,6 +51523,7 @@ rapider;30;It's more rapid
 rapidest;30;It's most rapid
 rapidfire;50
 rapido;30
+rapid turnover;60
 rapine;30
 rapines;30
 raping;10
@@ -61093,6 +61158,7 @@ staffmembers;50
 staffonly;50
 staffpick;60
 staffpicks;60
+staff turnover;50
 stagdo;60;Bachelor party, in the UK
 stagdos;60
 stageastrike;50
@@ -65111,7 +65177,6 @@ thc;40
 thd;20
 the;50
 The 40-Year-Old Virgin;60;2005 Steve Carrell comedy
-the40yearoldvirgin;20
 thea;30
 theabcs;40
 theabsoluteunit;60
@@ -65363,6 +65428,7 @@ theeast;30
 theeastindies;40
 theeconomist;50
 theelegants;40;Doo-wop group
+the elephant in the room;60
 theemmys;40
 theemperor;60;Tarot card
 theempirestrikesback;60
@@ -66162,7 +66228,7 @@ thirdbaseman;60
 thirdbasemen;60
 thirdeye;60
 thirdlaw;50
-thirdlawofthermodynamics;60
+third law of thermodynamics;60
 thirdlittlepig;60
 thirdout;50
 thirdpunicwar;50
@@ -68560,12 +68626,14 @@ turkeybreast;50
 turkeywing;50
 turkeywings;50
 turkishrose;60;Type of rose grown for rose oil
+turn a new leaf;20
 turnback;50
 turnbackinto;40
 turnbacktheclock;60
 turncard;50
 turncards;50
 turndown;50
+turned a new leaf;20
 turnedback;50
 turnedbackinto;40
 turnedbacktheclock;60
@@ -68592,6 +68660,7 @@ turnedupsidedown;50
 turnery;30
 turngreen;60
 turnheads;60
+turning a new leaf;20
 turningback;50
 turningbackinto;40
 turningbacktheclock;60
@@ -68627,6 +68696,7 @@ turnonto;40
 turnoveranewleaf;60
 turnpale;50
 turnpro;50
+turns a new leaf;20
 turnsback;50
 turnsbackinto;40
 turnsbacktheclock;60
@@ -69196,6 +69266,7 @@ unary;40
 unas;40
 unasleep;40
 unassembly;40
+unaware of;50
 unawed;30
 unbag;50
 unbagged;50
@@ -73921,7 +73992,7 @@ zerostarreview;60
 zerostarreviews;60
 zerostars;60
 zerosum;60
-zerothlawofthermodynamics;60
+zeroth law of thermodynamics;60
 zerotosixty;60
 zerotosixtytime;60
 zerotosixtytimes;60
