@@ -16383,12 +16383,14 @@ diningareas;50
 diningat;40
 diningin;40
 diningon;40
-dinkaround;50
-dinkedaround;50
-dinkingaround;50
-dinksaround;50
+Dinka;30;Nilotic ethnic group native to South Sudan
+Dinka language;40;Nilotic dialect cluster spoken by the Dinka people of South Sudan
+dink around;50
+dinked around;50
+dinking around;50
+dinks around;50
 dinmont;30
-dinnerandamovie;50
+dinner and a movie;60
 dinnerandashow;50
 dinnerbuffet;50
 dinnerbuffets;50
@@ -16398,12 +16400,22 @@ dinnerfortwo;50
 dinneroccasions;50
 dinnerparties;50
 dinnerparty;50
+dinner reservation;60
+dinner reservations;60
 dinnersfortwo;50
 dinnertable;50
 dinnertables;50
+Dinner with Andre;20
+Dino de Laurentis;0;Misspelling
+dino nugget;60
+dino nuggets;60
+dinosaur egg;60
+dinosaur eggs;60
+dinosaur erotica;20
 dio;20
 diocesan;40
 dioceses;40
+Diocletian;50;Roman emperor from 284 to 305
 diomede;20
 diomedean;40
 diomedes;40;"Iliad" warrior
@@ -16518,12 +16530,16 @@ disci;40;Discuses
 discjockey;60
 discjockeys;60
 discmans;30
+disco ball;60
+disco balls;60
 discobar;50
 discobars;50
 discobeat;50
-discoed;30
-discoelysium;60
+discoed;40
+Disco Elysium;60
 discoid;30
+discoing;40
+Disco Stu;60
 discoursing;30
 discusser;30
 discussers;30
@@ -65794,6 +65810,7 @@ thedevilsworkshop;60;Idle hands, it's said
 thedew;0
 The Diary of Anaïs Nin;60
 thedie;20
+the disco era;20
 thedishes;30
 thedisrespect;60
 thedj;20
