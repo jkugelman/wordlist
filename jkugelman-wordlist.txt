@@ -26780,6 +26780,7 @@ hadalegupon;60
 hadaline;20
 hadalisp;40
 hadalook;50
+had a look around;60
 hadalookat;40
 hadanair;40
 hadanap;40
@@ -26792,6 +26793,7 @@ hadapoint;50
 hadar;20
 hadaroughgo;50
 hadaroughgoofit;60
+had around;50
 hadarow;30
 hadashotat;40
 hadasip;50
@@ -27111,6 +27113,8 @@ handvacs;50
 handwedge;60;Golf cheat
 haneke;30;French director Michael Haneke, Oscar-nominated in 2013 for "Amour", not super notable
 hangaroa;30;Main town on Easter Island
+hang around at;20
+hang around with;40
 hangauie;30
 hangedauie;30
 hangedman;60;Tarot card
@@ -27121,7 +27125,10 @@ hanggliders;60
 hangglides;60
 hanggliding;60
 hangin;40
+Hanginaround;50;1999 single by Counting Crows
 hanging;50
+hanging around the corner;20
+hanging around with;40
 hangingauie;30
 hangingin;40
 hangingintheair;60
@@ -27143,6 +27150,7 @@ hangonhearmeout;60
 hangonto;40
 hangoutwith;40
 hangry;60
+hangs around with;40
 hangsauie;30
 hangsin;40
 hangsintheair;60
@@ -27266,6 +27274,7 @@ hardstuff;60
 hardtaco;60
 hardtacos;60
 hardten;50
+hard to be around;60
 hardtobeat;60
 hardtocomeby;60
 hardtoport;60
@@ -27336,6 +27345,7 @@ hasaheart;60
 hasahunch;50
 hasalisp;40
 hasalook;50
+has a look around;50
 hasalookat;40
 hasan;40;Comedian Hasan Minhaj
 hasanair;40
@@ -27348,6 +27358,7 @@ hasanip;50
 hasapoint;50
 hasaroughgo;50
 hasaroughgoofit;60
+has around;50
 hasarow;30
 hasashotat;40
 hasasip;50
@@ -27471,6 +27482,7 @@ haveagoodtrip;50
 haveaheart;60
 haveahunch;50
 havealook;50
+have a look around;60
 havealookat;40
 haveanair;40
 haveanap;40
@@ -27483,11 +27495,13 @@ haveanip;50
 haveapoint;50
 havearoughgo;50
 havearoughgoofit;60
+have around;50
 havearow;30
 haveashotat;40
 haveasip;50
 haveatit;60
 haveayenfor;40
+have been around;40
 havedibson;50
 haveeyesfor;50
 havefun;60
@@ -27526,6 +27540,7 @@ having a go at it;50
 havingaheart;60
 havingahunch;60
 havingalook;50
+having a look around;50
 havingalookat;40
 havinganair;30
 havinganap;50
@@ -27535,6 +27550,7 @@ havinganeyeon;40
 havinganip;50
 havingaroughgo;50
 havingaroughgoofit;60
+having around;50
 havingarow;30
 havingashotat;40
 havingasip;50
@@ -27910,7 +27926,7 @@ hellbenton;60
 hellboy;60
 hellcat;60
 hellcats;60
-hellcomearound;60
+he'll come around;60
 helleatyouforbreakfast;60
 hellen;30
 hellene;40;Greek
@@ -28584,6 +28600,10 @@ hobbit;50
 hobbits;50
 hobbitses;60
 hobbitvillage;20
+hobble around;50
+hobbled around;50
+hobbles around;50
+hobbling around;50
 hobgoblin;60
 hobgoblins;60
 hobobag;50
@@ -29442,6 +29462,7 @@ humpbacked;60
 humpbacks;60
 humpbackwhale;60
 humpbackwhales;60
+Humpin' Around;50;1992 single by Bobby Brown
 humstrum;50;Musical instrument
 humus;40;Soil organic matter
 humuses;20
@@ -29449,6 +29470,7 @@ hun;50
 hunchesinbunches;60;Dr. Seuss book
 hundop;40;100%, slangily
 hundredthsplace;50
+hung around with;40
 hungauie;30
 hungeredfor;40
 hungerfor;40
@@ -29469,13 +29491,21 @@ hungoutwith;40
 hungtough;50
 hungwith;40
 hunley;40;???
+hunt around;50
+hunt around for;40
+hunted around;50
+hunted around for;40
 hunter;50
 hunterbiden;50
+hunting around;50
+hunting around for;40
 huntinglicense;60
 huntinglicenses;60
 huntley;40;Old newscaster Chet Huntley, "The Huntley-Brinkley Report" (1956-70)
 Huntrix;40;"KPop Demon Hunters" band
 Huntr/x;40;"KPop Demon Hunters" band
+hunts around;50
+hunts around for;40
 huntsvilleal;40
 hup;40
 hur;40
@@ -29485,10 +29515,14 @@ hurons;50
 hurricaneseason;50
 hurricaneseasons;50
 hurriedalong;50
+hurried around;50
 hurriesalong;50
+hurries around;50
 hurry;50
 hurryalong;50
+hurry around;50
 hurryingalong;50
+hurrying around;50
 hurryup;50
 hurter;20
 hurters;20
