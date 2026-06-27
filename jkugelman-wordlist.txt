@@ -11958,20 +11958,24 @@ clampon;40
 clampson;40
 clanton;30;OK Corral gunfighter
 clapback;60
-clapbackat;60
+clap back;60
+Clap Back;50;2003 single by Ja Rule
+clap back at;60
+clapbacks;60
 clapfor;40
 clapometer;60
 clapometers;60
+clap on the back;60
 clappedback;60
-clappedbackat;60
+clapped back at;60
 clappedfor;40
 clappedto;40
 clappingback;60
-clappingbackat;60
+clapping back at;60
 clappingfor;40
 clappingto;40
 clapsback;60
-clapsbackat;60
+claps back at;60
 clapsfor;40
 clapsto;40
 clapto;40
@@ -35278,17 +35282,21 @@ lashana;40;Actress Lashana Lynch
 lashat;30
 lashedat;30
 lashedinto;30
-lashedoutat;40
+lashed out;50
+lashed out at;40
 lasher;30;Whippers
 lashers;30
 lashesat;30
 lashesinto;30
-lashesoutat;40
+lashes out;50
+lashes out at;40
 lashingat;30
 lashinginto;30
-lashingoutat;40
+lashing out;50
+lashing out at;40
 lashinto;30
-lashoutat;40
+lash out;50
+lash out at;40
 lashto;20
 lasker;40;Chess champion Emanuel Lasker
 laski;30;1930s political scientist Harold Laski
