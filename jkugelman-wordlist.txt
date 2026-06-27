@@ -10,51 +10,84 @@
 100 pounds soaking wet;60
 100 Years of Solitude;60;1967 novel by Gabriel García Márquez
 101 Dalmatians;60;1961 Disney movie
+10am;40
+10pm;40
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;2011 novel by Stephen King
+11am;40
+11pm;40
+12am;50
 12 Angry Men;60;American legal drama film by Sidney Lumet
 12 Monkeys;60;1995 Bruce Willis sci-fi thriller
+12pm;50
 12 Years a Slave;60;1853 memoir by Solomon Northup
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
 1910fruitgumco;0
 1910 Fruitgum Company;50;Bubblegum pop band of the 1960s
 1984;60;George Orwell novel
+1am;40
+#1 draft pick;60
+#1 draft picks;60
 1 Infinite Loop;60;Address of Apple's headquarters until 2017
+1pm;40
+#1 seed;50
+#1 seeds;50
 1-up;50;Extra life in video games
 1-ups;50;Extra lives in video games
 1v1;50
+#1 with a bullet;60
 20 questions;60;Spoken guessing game using yes–no questions
 21 Grams;50;2003 Sean Penn / Naomi Watts film
 21 Jump Street;60;1980s TV show or 2000s movie series
 21questions;60
 24: Live Another Day;50;2014 limited event television series
 25 or 6 to 4;60;1970 single by Chicago
+2am;40
 2 Chainz;60;American rapper and actor (born 1977)
 2 Legit 2 Quit;60;1991 single by MC Hammer
 2Pac;60;Rapper Tupak Shakur
+#2 pencil;60
+#2 pencils;60
+2pm;40
+#2 seed;50
+#2 seeds;50
 3:10 to Yuma;60;Western movie
 3 AM;50;1996 Matchbox Twenty single
+3am;40
 3D printer;60
 3D printers;60
 3D printing;60
+3pm;40
 3rd Rock from the Sun;60;American television sitcom (1996–2001)
+#3 seed;50
+#3 seeds;50
 3 wise monkeys;60
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
+4am;40
 4 Non Blondes;60;'90s rock band
+4pm;40
 50 Cent;60;American rapper and actor (born 1975)
 50 Ways to Leave Your Lover;60;1975 single by Paul Simon
 5-10-15-20 (25-30 Years of Love);50;1970 single by The Presidents
 54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
+5am;40
+5pm;40
 60 Minutes;60;American television news magazine program
+6am;40
 6ix9ine;60;American rapper (born 1996)
+6pm;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
+7am;40
 7-layer dip;60;Tex-Mex appetizer
 7-layer dips;60;Tex-Mex appetizers
+7pm;40
 7th heaven;60
 867-5309;60;1981 single by Tommy Tutone
 867-5309/Jenny;60;1981 single by Tommy Tutone
+8am;40
 8 Mile;60;2002 Eminem movie
 8mm;50;1999 Nicolas Cage thriller
+8pm;40
 8-track;50
 8-track cartridge;50
 8-track cartridges;50
@@ -70,6 +103,8 @@
 99 Luftballons;50;1983 single by Nena
 99 Problems;60;2004 single by Jay-Z
 99 Red Balloons;50;1983 single by Nena ("99 Luftballons")
+9am;40
+9pm;40
 9-volt;50;Small battery
 9-volt batteries;60
 9-volt battery;60
@@ -17341,6 +17376,7 @@ doublewide;50
 doublewides;50
 douche;30
 douches;30
+doughnuttype;0
 dounto;50
 doup;50
 dourer;50
@@ -43525,41 +43561,85 @@ ntsb;40
 nu;40
 nub;50
 nubber;30;Weakly hit baseball
+nubbiness;40
 nubble;30;Small lump
 nubbles;30;Small lump
+nubblier;30
+nubbliest;30
+nubbly;40;Rough or lumpy
 nubia;40;Nile river region
 nubility;40
+Nu Centauri;50;Binary star system in the constellation Centaurus
 nuclearage;60
-nucleararsenal;50
-nuclearblast;60
-nuclearfuel;50
-nuclearfuels;50
-nuclearmeltdown;60
+nuclear arms race;60
+nuclear arsenal;50
+nuclear arsenals;50
+nuclear blast;50
+nuclear blasts;50
+nuclear bomb;50
+nuclear bombs;50
+nuclear deterrence;60
+nuclear disaster;50
+nuclear disasters;50
+nuclear explosion;50
+nuclear explosions;50
+nuclear families;60
+nuclear family;60
+nuclear fission;60
+nuclear fuel;60
+nuclear fuels;60
+nuclear fusion;60
+nuclear holocaust;50
+nuclear holocausts;50
+nuclear isotope;50
+nuclear isotopes;50
+nuclear launch code;60
+nuclear launch codes;60
+nuclear medicine;60
+nuclear meltdown;60
+nuclear meltdowns;60
+nuclear missile;50
+nuclear missiles;50
+nuclear non-proliferation;60
 nuclearpact;50
 nuclearpacts;50
 nuclearphysics;50
-nuclearpile;50
-nuclearpiles;50
-nuclearpowerplant;50
-nuclearpowerplants;50
-nuclearreaction;50
-nuclearreactions;50
-nuclearreactor;50
-nuclearreactors;50
+nuclear pile;50
+nuclear piles;50
+nuclear power plant;60
+nuclear power plants;60
+nuclear propulsion;60
+nuclear reaction;60
+nuclear reactions;60
+nuclear reactor;60
+nuclear reactors;60
+Nuclear Regulatory Commission;60
 nuclearsnow;60
+nuclear stockpile;60
+nuclear stockpiles;60
+nuclear sub;60
+nuclear submarine;60
+nuclear submarines;60
+nuclear subs;60
 nucleartalks;50
 nucleartest;50
 nucleartests;50
 nuclearthreat;50
 nuclearthreats;50
 nuclearumbrella;60
+nuclear watchdog;50
+nuclear watchdogs;20
 nuclearweapon;50
 nuclearweapons;50
 nuclearwinter;60
+nuclear winters;50
+Nuclear Wintour;60;Nickname for Vogue editor Anna Wintour
 nucleolar;40;???
 nucleus;50
 nuclide;30
 nucor;20;Steel company
+Nude Descending a Staircase;60;1912 painting by Marcel Duchamp
+Nude Descending a Staircase, No. 2;60;1912 painting by Marcel Duchamp
 nudemaja;60;Goya painting
 nudemice;60;Hairless laboratory mice
 nudemodel;60
@@ -43567,16 +43647,23 @@ nudemodeling;60
 nudemodels;60
 nudemouse;60;Hairless laboratory mouse
 nudeness;40
+nude person;20
 nudephoto;60
 nudephotos;60
 nuder;40
 nudescene;60
 nudescenes;60
+nudge nudge;60
+nudge nudge wink wink;60
 nudger;40
 nudgers;40
 nudie;40
-nudiebar;40
-nudiebars;40
+nudie bar;40
+nudie bars;40
+nudie mag;40
+nudie magazine;40
+nudie magazines;40
+nudie mags;40
 nudies;40
 nudism;50
 nudist;50
@@ -43585,29 +43672,61 @@ nudities;30
 nueva;40
 nueve;40
 nuevo;40
-nuff;30
+nuevo tango;60;Evolution of tango dance that began in the 1980s
+'nuff;30
 nugatory;30;???
 nui;20
 nul;20
 nullah;20
+null and void;60
+null hypotheses;60
+null hypothesis;60
+nullius filius;50;Illegitimate child, in common law
+null modem;50
+null value;60
+null values;60
 num;20
 numan;30;Musician Gary Numan
 numans;20
-numbat;20
+Numb3rs;50;CBS crime drama (2005–2010)
+numbat;30;Australian marsupial
+numbats;30;Australian marsupials
+number among;40
 numberedaccount;50
 numberedaccounts;50
+numbered among;40
 numbereight;30;???
-numberofletters;50
+numbering among;40
+number is up;20
+number of letters;20
+number of people in a group;0
 numberofthebeast;60
 numberonedad;60
-numberoneseed;60
+number one draft pick;60
+number one draft picks;60
+number one seed;60
+number one seeds;60
+number one with a bullet;60
+Numberphile;60;Educational YouTube channel
+numbers among;40
 numbersgames;50
+numbers guy;60
+numbers guys;60
+numbers people;60
+numbers person;60
 numbertheory;50
-numbertwopencil;50
-numbertwopencils;50
+number three seed;40
+number three seeds;40
+number two pencil;60
+number two pencils;60
+number two seed;50
+number two seeds;50
 numbles;20;Edible entrails, archaic
 numbskull;60
 numbskulls;60
+numenius borealis;20;Eskimo curlew, species of bird
+numerical identifier for address;0
+numerical order;50
 numero;40
 numerological;50
 numerologist;50
@@ -43630,6 +43749,9 @@ numskulls;60
 nun;50
 nunatak;20;Glacial island
 nunataks;20;Glacial islands
+Nunavut postal code;0
+Nunavut postal codes;0
+nunc dimittis;50;Passage from the Gospel of Luke
 nunchakus;60
 nuncheon;30
 nuncheons;30
@@ -43637,30 +43759,72 @@ nunciate;30
 nunciates;30
 nuncio;30
 nuncios;30
+Nuncrackers;40;Comedic holiday musical in the "Nunsense" series
+Nuncrackers: The Nunsense Christmas Musical;50
 nuns;50
+Nunsense;40;1985 musical comedy by Dan Goggin
+Nunsense 2;40
+Nunsense 2: The Second Coming;50
+nunsploitation;60;Exploitation film genre targeting nuns
+nunsploitation film;60;Exploitation film genre targeting nuns
+nunsploitation films;60;Exploitation film genre targeting nuns
 nunya;30;Australian "nunya business"
 nurdle;20;Tiny plastic pellet
 nurdles;20
 nuremberg;50
+Nuremberg trial;60
+Nuremberg trials;60
 nureyev;40;Ballet dancer Rudolf Nureyev
+nurikabe;40;Japanese spirit monster / Logic puzzle game
+nurikabes;40;Japanese spirit monsters / Logic puzzle games
 nurmi;20;Distance runner Paavo the "Flying Finn"
+nursable;40
+nurse a crush on;50
+nurse clinician;50
+nurse clinicians;50
+nursed a crush;60
+nursed a crush on;50
+nursed a grudge;60
 nurser;30
+Nurse Ratched;60;Main antagonist of ''One Flew Over the Cuckoo's Nest''
 nurseryrhyme;60
 nurseryrhymes;60
+nursery school;60
+nursery schools;60
+nurses a crush;60
+nurses a crush on;50
+nurses a grudge;60
 nursesaide;50
 nursie;30;Childish "nurse"
 nursies;30
+nursing a crush;60
+nursing a crush on;50
+nursing a grudge;60
 nursingbra;50
 nursingbras;50
+nursooyscherloo;0
+Nur-Sultan;40;Capital of Kazakhstan
+Nur-Sultan Kazakhstan;50;Capital of Kazakhstan
+nurturant;40
+nurture a belief;20
+nurture an idea;20
 nus;30;Plural letter nu
+Nusrat;30;Pakistani singer-songwriter Nusrat Fateh Ali Khan (1948–1997)
+Nusrat Fateh Ali Khan;50;Pakistani singer-songwriter (1948–1997)
 nut;50
+nut allergies;60
+nut allergy;60
+nut and bolt;20
 nutant;30;Drooping, like plants
-nutate;20
-nutated;20
-nutating;20
-nutation;20
+nutate;30
+nutated;30
+nutating;30
+nutation;30;Wobble of the axis of rotation
 nutational;20
-nutations;20
+nutations;30;Wobbles of the axis of rotation
+nut brownie;50
+nut brownies;50
+Nutcracker Suite;60
 nutgraf;40;Paragraph in a news story that explains the story's context and tells readers why they should care
 nutgrafs;40
 nutgraph;50
@@ -43676,14 +43840,26 @@ nutmeats;50
 nutoil;40
 nutoils;40
 nutraceutical;50;Drug that claims physiological benefits
-nutraceuticals;50
+nutraceuticals;50;Drugs that claims physiological benefits
 nutrasweet;60
 nutria;30;Rodent
 nutrias;30;Rodents
+nutrified;40;Supplied nutrients to
+nutrifies;40;Supplies nutrients to
+nutrify;40;Supply nutrients to
+nutrifying;40;Supplying nutrients to
 nutriment;40
 nutriments;40
+nutritional value;60
+nuts for;40
+nuts over;50
+nuts to that;60
+nuts to this;60
+nuts to you;60
 nutsy;40;Insane??
+Nuttin' for Christmas;60;1955 novelty Christmas song sung by Barry Gordon
 nutting;40;Nut gathering
+Nutty Professor;60
 nuuk;40;Capital of Greenland
 nuvola;20;???
 nvm;40;Nevermind
@@ -65775,6 +65951,12 @@ thenow;30
 thenra;20
 thensa;20
 thenudemaja;60;Goya painting
+The Number of the Beast;60
+The Nun II;40;Eighth installment in "The Conjuring" franchise
+The Nutcracker;60
+The Nutcracker Suite;60
+thenutcrackersuite;60
+The Nutty Professor;60
 theoatmeal;50
 theodicy;30
 theodora;40;???
@@ -72633,6 +72815,7 @@ witchtrial;60
 witchtrials;60
 witchywoman;60
 with;50
+with a bullet;50;#1 with a bullet
 withagoat;0
 withal;30
 withallthebellsandwhistles;60
