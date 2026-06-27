@@ -2743,6 +2743,7 @@ andco;40
 andcounting;60
 andformynexttrick;60
 andforthatreasonimout;60
+and Garfunkel;0
 andgo;20
 andherestoyoumrsrobinson;60
 andi;30;Partial "and I", or Disney Channel show "Andi Mack"
@@ -5130,6 +5131,7 @@ backtire;50
 backtires;50
 backtolife;50
 backtothefuture;60
+Back to the Hotel;50;1992 rap song by N2Deep
 backup;50
 backupgenerator;60
 backupgenerators;60
@@ -5736,6 +5738,7 @@ barringthedoor;50
 barringthedoors;50
 barrybonds;50
 barrymgoldwater;50
+Barry Zuckercorn;60;"Arrested Development" lawyer played by Henry Winkler
 barseat;50
 barseats;50
 barset;50
@@ -5964,6 +5967,7 @@ battingoneseyes;50
 battleax;60
 battlecreekmi;40
 battlecreekmich;40
+Battlefield Earth;60;L. Ron Hubbard sci-novel / John Travolta flop
 battleformation;60
 battleformations;60
 battleofbritain;60
@@ -6675,6 +6679,7 @@ bestcasescenarios;60
 bestchance;60
 bestchances;60
 bestdirector;50
+Best Exotic Marigold Hotel;60;2011 comedy drama film, with "The"
 bestie;60
 besties;60
 bestir;50
@@ -7689,6 +7694,11 @@ bobdylan;60
 bobevans;50
 bobgreene;40;Journalist Bob Greene (?)
 bobgriese;50;Dolphins quarterback Bob Griese during their undefeated season
+Bob Loblaw;60;"Arrested Development" character
+Bob Loblaw Launches Law Blog;60;Tongue twister in "Arrested Development"
+Bob Loblaw Law Blog;60;Tongue twister in "Arrested Development"
+Bob Loblaw Lobs Law Bomb;60;Tongue twister in "Arrested Development"
+Bob Loblaw No Habla Español;60;Tongue twister in "Arrested Development"
 boblong;40;Packers quarterback in the 60s and 70s
 bobross;60
 bobstay;40;Part of a ship's rigging
@@ -8856,6 +8866,8 @@ budgetarylimit;50
 budgetarylimits;50
 budgetcommittee;50
 budgetcommittees;50
+budget hotel;50
+budget hotels;50
 budgetoffice;50
 budgetoffices;50
 budlight;60
@@ -9144,6 +9156,7 @@ bustedinon;40
 bustedon;40
 bustedoneschops;60
 bustedup;50
+Buster Bluth;60;"Arrested Development" character
 bustingagut;60
 bustingarib;60
 bustinginon;40
@@ -10320,6 +10333,8 @@ casinocomp;50
 casinocomps;50
 casinogame;50
 casinogames;50
+casino hotel;60
+casino hotels;60
 casinoroyale;60
 casita;40
 casitas;40
@@ -11115,8 +11130,8 @@ chaz;40;Chaz Bono
 che;40
 cheapdate;60
 cheapdates;60
-cheaphotel;50
-cheaphotels;50
+cheap hotel;50
+cheap hotels;50
 cheapmeal;50
 cheapmoney;50
 cheaprug;50;Lie like a cheap rug
@@ -13412,6 +13427,7 @@ corleone;50
 cornedbeefonrye;50
 corneille;30;Singer, or 17th century playwright
 cornel;30;Dogwood
+Cornelia Funke;50;German author of children's fiction (born 1958)
 cornellu;40
 cornels;30;Dogwoods
 cornerpocket;60
@@ -15307,6 +15323,7 @@ dearmas;40;Actress Ana de Armas
 dearness;40
 dearsir;50
 dearsirs;50
+Dear Theodosia;60;"Hamilton" song
 dearths;30
 dearto;40
 deathanddestruction;50
@@ -16979,6 +16996,8 @@ doggydoors;60
 doggystyle;10
 doghandler;50
 doghandlers;50
+dog hotel;50
+dog hotels;50
 doghouse;50
 dogit;40;Loaf
 dogkiss;60
@@ -23813,6 +23832,8 @@ funhouses;60
 funicular;50;Cable railway system on a mountainside
 funiculars;50
 funkadelic;60
+Fünke;40;"Arrested Development" surname
+Funke;0
 funkmetal;60
 funkmusic;60
 funkyfresh;60
@@ -24162,6 +24183,7 @@ gareth;40
 garfieldandfriends;50
 garfish;40
 garfishes;40
+Garfunkel and Oates;60;Comedy folk duo of Riki Lindhome and Kate Micucci
 gargamel;50
 gargantua;60;Black hole in Interstellar
 gargoyle;50
@@ -24578,12 +24600,14 @@ geometryii;40
 geometryset;50
 geometrysets;50
 georg;40;Mathematician Cantor, composer Solti, and others
+George Bluth Sr.;60;"Arrested Development" character
 georgeharrison;60
 georgei;30
 georgeii;30
 georgeiv;30
 georgem;30;1968 musical "George M!" about songwriter George M. Cohan
 georgemichael;50
+George Michael Bluth;60;"Arrested Development" character
 georgetakei;60
 georgev;30
 georgevi;30
@@ -25422,11 +25446,13 @@ goatyoga;60
 goawaygreen;60;Disney color that diverts attention away from infrastructure
 goawry;50
 gob;50
+G.O.B.;40;"Arrested Development" character
 gobackto;40
 gobacktosleep;50
 gobag;50
 gobbet;40;Lump of flesh, spit, etc.
 gobbets;40
+Gob Bluth;60;"Arrested Development" character
 gobidessert;0
 gobies;20
 gobig;50
@@ -26259,6 +26285,7 @@ grandad;40;Legit per ngram
 grandads;40
 grandbabies;50
 grandbaby;50
+Grand Budapest Hotel;60;2014 film by Wes Anderson, with "The"
 grandcanal;50
 grandcru;50
 grandee;30
@@ -27843,6 +27870,7 @@ hayrick;40;Haystack
 hayricks;40
 hayseed;50
 hayseeds;50
+Hazbin Hotel;60;Adult animated television series
 hazmat;60
 hbcu;40;Historically black colleges and universities
 hbcus;40
@@ -28601,6 +28629,8 @@ highpriority;50
 highprofile;50
 highrankingofficial;50
 highrankingofficials;50
+highrise hotel;50
+highrise hotels;50
 highroller;50
 highrollers;50
 highschooljob;50
@@ -29399,6 +29429,7 @@ hotbuttonissue;60
 hotbuttonissues;60
 hotcakes;60
 hotcar;20;Green painty
+hot-carrier injection;50;Phenomenon in solid-state electronic devices
 hotchili;50
 hotchilis;50
 hotcocoa;60
@@ -29413,14 +29444,45 @@ hotdesking;60
 hotdesks;60
 hotdog;50
 hotdogs;50
-hotelbar;50
-hotelbars;50
+hotel bar;60
+hotel bars;60
+hotel bill;50
+hotel bills;50
+Hotel California;60
+hotel check-in;60
+hotel clerk;60
+hotel clerks;60
+hotel detective;60;Bygone profession, film noir staple
+hotel detectives;60;Bygone profession, film noir staples
+hot electron;50;High-energy electron generated through nonradiative decay
+hot electrons;50;High-energy electrons generated through nonradiative decay
+hotel guest;60
+hotel guests;60
+hotel lounge;60
+hotel lounges;60
+hotel manager;60
+hotel managers;60
+hotel policy;50
 hotelpool;60
 hotelpools;60
-hotelsafe;50
-hotelsafes;50
+hotel porter;60
+hotel porters;60
+hotel proprietor;50
+hotel proprietors;50
+hotel reservation;60
+hotel reservations;60
+hotel restaurant;60
+hotel restaurants;60
+Hotel Rwanda;60;2004 biographical historical drama film
+hotel safe;60
+hotel safes;60
+Hotel Sahara;50;1951 British war comedy film
+hotel suite;60
+hotel suites;60
+Hotel Transylvania;60;Sony animated movie franchise
 hotelvisitor;50
 hotelvisitors;50
+Hotel Yorba;50;2001 single by the White Stripes
 hotfix;50;Quick software update released outside the normal development cylcle"
 hotfixed;50
 hotfixes;50
@@ -29525,6 +29587,8 @@ houseboat;60
 houseboats;60
 housedemocrat;60
 housedemocrats;60
+house detective;60;In-house security professional
+house detectives;60;In-house security professionals
 housedress;50
 housedresses;50
 housedressing;60
@@ -35765,6 +35829,12 @@ leeves;40;Jane Leeves of "Frasier"
 leftacomment;60
 leftfor;40
 leftfordead;60
+left-handed pitcher;60
+left-handed pitchers;60
+left-handed shop;60
+left-handed shops;60
+left-handed store;60
+left-handed stores;60
 leftin;40
 leftistelement;60
 leftistelements;60
@@ -35774,6 +35844,7 @@ leftlane;60
 leftlanes;60
 lefton;40
 leftonread;60
+Leftorium;60;Ned Flanders's left-handed store
 leftover;50
 leftovers;50
 leftright;50
@@ -36349,6 +36420,7 @@ lieon;40
 lieover;40
 lierne;30;Part of Gothic architecture
 liesahead;50
+Lies and the Lying Liars Who Tell Them;60;2003 book by Al Franken
 liesawake;50
 liesdormant;50
 liesflat;50
@@ -36568,6 +36640,8 @@ lindentree;40
 lindentrees;40
 lindhome;40;Riki Lindhome
 lindros;30;Star hockey player Eric Lindros
+Lindsay Bluth;60;"Arrested Development" character
+Lindsay Bluth-Fünke;60;"Arrested Development" character
 lindt;40;Chocolates
 lindyhop;50
 lindyhopped;50
@@ -37675,6 +37749,8 @@ luchadormask;60
 luchadormasks;60
 luchalibre;60
 lucie;30;Desi's daughter
+Lucille Austero;60;"Arrested Development" character
+Lucille Bluth;60;"Arrested Development" character
 luckedinto;50
 luckinginto;50
 luckinto;50
@@ -38119,6 +38195,8 @@ madsmikkelsen;60
 madura;30;Indonesian island
 maduro;30;Nicolás Maduro, president of Venezuela
 mae;50
+Maeby Fünke;60;"Arrested Development" character
+Maeby Funke;0
 maenad;30;Female followers of Dionysus
 maenads;30
 maersk;20;Danish shipping company
@@ -40060,6 +40138,7 @@ mfr;20
 mg;40
 mgb;20
 mgm;50
+MGM Grand Hotel;60
 mgmt;40
 mgr;20
 mgs;30
@@ -40086,6 +40165,7 @@ micah;40;Bible book/prophet
 micas;30
 miceandmen;0
 mich;40;Michigan
+Michael Bluth;60;"Arrested Development" character
 michaelcaine;60
 michaeljohnston;50;Actor Michael Johnston from "Obsession" (2026)
 michaelpalin;50
@@ -41820,6 +41900,7 @@ myron;30;Ancient sculptor
 myrrhs;40;Plural?
 myrtletheturtle;60
 myship;40;Kurt Weill / Ira Gershwin song from "Lady in the Dark" (song has its own Wikipedia article)
+My Shot;60;"Hamilton" song
 mysides;60
 mysin;20
 mysore;30;Indian city
@@ -43572,6 +43653,8 @@ notedly;30
 notelet;30
 notelets;30
 notell;40;No tell motel
+no-tell hotel;60;Love hotel
+no-tell hotels;60;Love hotels
 notellmotel;60
 notellmotels;60
 notenoughcoffee;60
@@ -47045,8 +47128,8 @@ parietals;30
 paring;50
 parings;40;Weird plural
 paripassu;30;"Equal footing" in contract law
-parishotel;20
-parishotels;20;Green paint
+Paris hotel;20;Green paint
+Paris hotels;20;Green paint
 parishpump;50
 parismetro;50
 parisology;50;Use of ambiguous words (no relation to the city)
@@ -54229,6 +54312,11 @@ rightbackatyou;60
 rightface;50
 rightfit;20;Green paint
 rightfromcentralcasting;60
+right-handed pitcher;50
+right-handed pitchers;50
+right hand man;60
+Right Hand Man;60;"Hamilton" song
+right hand men;60
 rightinthefeels;60
 rightjustified;50
 rightjustify;50
@@ -56574,6 +56662,9 @@ scoopseat;50
 scoopseats;50
 scopecreep;60
 scopestrial;60
+scorched earth;60
+scorched earth policies;60
+scorched earth policy;60
 scorcher;60
 scorchers;60
 scoredon;40
@@ -56962,6 +57053,7 @@ secondbanana;60
 secondbananas;50
 secondbaseman;60
 secondbasemen;60
+Second Best Exotic Marigold Hotel;60;2015 film sequel, with "The"
 secondcoming;60
 seconddate;50
 seconddates;50
@@ -58865,7 +58957,9 @@ simile;50
 simms;40
 simnel;40;British fruitcake
 simona;40;Star tennis player Simona Halep
+Simon and Garfunkel;60;1960s folk duo
 simones;30
+Simon & Garfunkel;60;1960s folk duo
 simoniac;30;One who practices simony (selling church things for favors)
 simoniacs;30
 simonies;30
@@ -58917,6 +59011,7 @@ sinfonia;40;Italian for symphony
 sinfulness;30
 singalong;60
 singalongs;60
+singer Garfunkel;0
 singfor;20
 singha;30;Thai beer
 singin;40
@@ -65747,6 +65842,7 @@ thebeeb;50
 thebeesknees;60
 thebends;50
 thebesharps;60;Homer's barbershop quartet
+The Best Exotic Marigold Hotel;60;2011 comedy drama film
 thebestofbothworlds;60
 thebestpartofwakingup;60
 The Best Years of Our Lives;50;1946 American drama film directed by William Wyler
@@ -65771,6 +65867,7 @@ theblob;50
 thebluegrassstate;40
 thebluegrotto;40
 thebluelagoon;50
+The Bob Loblaw Law Blog;60;Tongue twister in "Arrested Development"
 thebodyshop;50;???
 thebolts;40;???
 thebomb;60
@@ -65984,6 +66081,7 @@ thegoods;60
 thegop;20
 thegospels;40
 thegrammys;40
+The Grand Budapest Hotel;60;2014 film by Wes Anderson
 The Grass Crown;50;Roman military decoration / Colleen McCullough historical novel
 thegrease;30
 thegreatbrain;30;Children's book series
@@ -66083,6 +66181,8 @@ thelatest;60
 thelaw;40
 thelead;20
 theleft;30
+The Leftorium;60;Ned Flanders's left-handed store
+theleftorium;20
 thelegomovie;60
 theleonids;40
 thelessiknowthebetter;60
@@ -66426,6 +66526,7 @@ thescottishplay;50
 thesea;20
 thesearetryingtimes;60
 theseats;0
+The Second Best Exotic Marigold Hotel;60;2015 film sequel
 thesecret;20;Woo-woo self-help book
 theseine;30
 thesenate;30
@@ -67534,6 +67635,8 @@ tobefrank;50
 tobehad;20;Long partial
 tobesafe;50
 tobesure;50
+Tobias Fünke;60;"Arrested Development" character
+Tobias Funke;0
 tobin;40;Actor Tobin Bell among others
 toc;20
 tocarry;20
@@ -72648,6 +72751,8 @@ wholetthishappen;60
 wholewheatbagel;60
 wholewheatbagels;60
 wholivesinapineappleunderthesea;60
+Who Lives, Who Dies, Who Tells Your Story;60;"Hamilton" song
+Who Lives Who Dies Who Tells Your Story;0
 wholovesya;60
 whomakesthisstuff;60
 whoomp;40;1993 song "Whoomp! There It Is"
@@ -73746,6 +73851,7 @@ yance;20
 yani;40;LPGA #1 golfer 2011-2013 Yani Tseng
 yanitseng;40;LPGA #1 golfer 2011-2013 Yani Tseng
 yankedon;40
+Yankee Hotel Foxtrot;60;2001 studio album by Wilco
 yankingon;40
 yankon;40
 yankovic;60
