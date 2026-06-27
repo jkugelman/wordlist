@@ -1,5 +1,6 @@
 '03 Bonnie and Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
 '03 Bonnie & Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
+100 Years of Solitude;60;1967 novel by Gabriel García Márquez
 101 Dalmatians;60;1961 Disney movie
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;2011 novel by Stephen King
@@ -9,6 +10,7 @@
 25 or 6 to 4;60;1970 single by Chicago
 3 wise monkeys;60
 50 Ways to Leave Your Lover;60;1975 single by Paul Simon
+5-10-15-20 (25-30 Years of Love);50;1970 single by The Presidents
 54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
 99 Problems;60;2004 single by Jay-Z
 a;50
@@ -6520,6 +6522,7 @@ bestsellers;60
 bestsupportingactor;60
 bestsupportingactress;60
 bestupset;60;ESPY award
+Best Years of Our Lives;50;1946 American drama film directed by William Wyler, with "The"
 besuretosmackthatbell;60
 besweeton;50
 bet;50
@@ -17131,6 +17134,8 @@ dor;20
 dorag;20;Misspelled
 dorags;20;Misspelled
 doramaar;30;Painter, partner and subject of many Picasso paintings
+Dora Márquez;50;Dora the Explorer
+Dora Marquez;0
 dorati;30
 doreen;30;Mouseketeer Doreen Tracey
 doric;40
@@ -23557,6 +23562,7 @@ gabfests;50
 gabler;30
 gabrieldanielfahrenheit;0
 Gabriel García Márquez;60;Colombian writer
+Gabriel Garcia Marquez;0
 gaby;40
 gacha game;60
 gacha games;60
@@ -23806,6 +23812,8 @@ garbageday;60
 garbagepeople;60
 garbageperson;60
 garbages;30;Weird plural
+García Márquez;60;Gabriel García Márquez, Colombian writer and Nobel laureate (1927–2014)
+Garcia Marquez;0
 garcons;40;French boys
 gardasil;40;HPV vaccine
 garde;40
@@ -37482,6 +37490,7 @@ macgyvers;60
 machado;40;Manny Machado, all-star player for the Padres (notable)
 machere;40
 macherie;50;My dear, for a woman
+Machiavelli;60;Niccolò Machiavelli, writer of "The Prince"
 machineage;50
 machinelearning;60
 machinewash;50
@@ -38458,6 +38467,8 @@ marplots;20;Meddlers
 marque;40
 marquee;50
 marques;40
+Márquez;40
+Marquez;0
 marram;30;Beach grass
 marrer;40
 marrers;40
@@ -39766,6 +39777,8 @@ mimeography;40
 mimeos;40
 mimesis;20;Imitation of the real world in art and literature
 mimikyu;50;Pokeyman
+Mimi Márquez;50;Lead female character in "Rent"
+Mimi Marquez;0
 mimsy;40;"All mimsy were the borogroves": Jabberwocky (miserable + flimsy)
 min;40
 minable;30
@@ -42315,6 +42328,8 @@ nic;40
 nicad;40
 nicaea;20;Ancient Greek city
 niccage;40
+Niccolò Machiavelli;60;Writer of "The Prince"
+Niccolo Machiavelli;0
 niceass;10
 nicebutt;60
 nicecatch;60
@@ -44512,7 +44527,7 @@ onehits;20
 onehop;30
 onehour;50
 One Hundred and One Dalmatians;60;1961 Disney movie
-onehundredyearsofsolitude;60
+One Hundred Years of Solitude;60;1967 novel by Gabriel García Márquez
 oneida;30;Native American tribe
 oneidalake;30
 oneidas;30;Native American tribe
@@ -49706,15 +49721,41 @@ priesthunters;60
 priests;50
 prii;40
 primacies;30
+primary care;60
+primary care center;60
+primary care centers;60
+primary caregiver;60
+primary caregivers;60
+primary care physician;60
+primary care physicians;60
+primary care provider;60
+primary care providers;60
 primarycolor;60
 primarycolors;60
+primary concern;50
+primary concerns;50
+primary education;60
+primary school;60
+primary schools;60
 primas;40
+primate cities;60;Disproportionately largest cities of a country or region
+primate city;60;Disproportionately largest city of a country or region
+primate house;60
+primate houses;60
+primate sanctuaries;60
+primate sanctuary;60
+primatologist;60
+primatologists;60
+primatology;60
 primedirective;60
 primefactor;50
 primefactors;50
+prime meridian;60
 primeminister;50
 primeministers;50
 primeministership;50
+prime mover;60
+prime movers;60
 primerib;50
 primeribs;30
 primetime;50
@@ -57050,6 +57091,7 @@ sevento;20
 seventyeight;40
 seventynine;40
 sevenyearitch;60
+sevenyearsof;0
 severalties;40
 severalty;40
 severance;60
@@ -65014,6 +65056,7 @@ thebends;50
 thebesharps;60;Homer's barbershop quartet
 thebestofbothworlds;60
 thebestpartofwakingup;60
+The Best Years of Our Lives;50;1946 American drama film directed by William Wyler
 thebible;30
 thebigapple;60
 thebigbang;40
@@ -65546,6 +65589,7 @@ thepopo;30
 thepost;30
 thepotomac;30
 thepowersthatbe;60
+The Prince;60;Political treatise by Niccolò Machiavelli
 theprom;40;2020 movie with Meryl Streep, Nicole Kidman, and others
 thepru;40;Prudential Tower in Boston
 thepunicwars;40
