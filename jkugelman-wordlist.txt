@@ -31,10 +31,14 @@
 12-step programs;60
 12 Years a Slave;60;1853 memoir by Solomon Northup
 13 Going on 30;20;2004 Jennifer Garner romcom
+15 minutes;50
 15 minutes of fame;60;What Andy Warhol said everyone will have, one day
 16:9;50;Aspect ratio for TV and computer monitors
 16:9 aspect ratio;60
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
+16 Candles;20;Spelled out is the norm
+1-800;50;Toll-free
+1800;20
 1-800 number;60
 1-800 numbers;60
 18 and Life;50;1989 single by Skid Row
@@ -9575,6 +9579,7 @@ callstoarms;50
 callsup;40
 callto;40
 calltoarms;50
+call toll-free;60
 callup;40
 calmbeforethestorm;60
 calmsea;40;Green paint?
@@ -67758,8 +67763,12 @@ tolle;30;Self-help author Eckhart Tolle
 toller;30;Real word???
 tollers;30
 tollfree;60
+toll-free call;60
+toll-free calls;60
 tollfreenumber;60
 tollfreenumbers;60
+toll-free telephone number;60
+toll-free telephone numbers;60
 tollman;40
 tollmen;40
 tollson;20
