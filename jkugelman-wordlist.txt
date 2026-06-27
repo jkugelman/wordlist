@@ -8,16 +8,21 @@
 100 Grand Bar;60;Brand of chocolate bar
 100 percent;50
 100 pounds soaking wet;60
+100 Proof (Aged in Soul);50;Early 1970s funk/soul group
+100% Pure Love;50;1994 single by Crystal Waters
 100 Years of Solitude;60;1967 novel by Gabriel García Márquez
 101 Dalmatians;60;1961 Disney movie
 10am;40
+10 lords a-leaping;60
 10pm;40
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 11/22/63;60;2011 novel by Stephen King
 11am;40
+11 pipers piping;60
 11pm;40
 12am;50
 12 Angry Men;60;American legal drama film by Sidney Lumet
+12 drummers drumming;60
 12 Monkeys;60;1995 Bruce Willis sci-fi thriller
 12pm;50
 12 Years a Slave;60;1853 memoir by Solomon Northup
@@ -51,12 +56,14 @@
 2pm;40
 #2 seed;50
 #2 seeds;50
+2 turtledoves;60
 3:10 to Yuma;60;Western movie
 3 AM;50;1996 Matchbox Twenty single
 3am;40
 3D printer;60
 3D printers;60
 3D printing;60
+3 French hens;60
 3pm;40
 3rd Rock from the Sun;60;American television sitcom (1996–2001)
 #3 seed;50
@@ -64,6 +71,7 @@
 3 wise monkeys;60
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
 4am;40
+4 calling birds;60
 4 Non Blondes;60;'90s rock band
 4pm;40
 50 Cent;60;American rapper and actor (born 1975)
@@ -71,9 +79,11 @@
 5-10-15-20 (25-30 Years of Love);50;1970 single by The Presidents
 54°40' or Fight;60;Slogan in the 1844 Oregon boundary dispute
 5am;40
+5 golden rings;60
 5pm;40
 60 Minutes;60;American television news magazine program
 6am;40
+6 geese a-laying;60
 6ix9ine;60;American rapper (born 1996)
 6pm;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
@@ -81,10 +91,12 @@
 7-layer dip;60;Tex-Mex appetizer
 7-layer dips;60;Tex-Mex appetizers
 7pm;40
+7 swans a-swimming;60
 7th heaven;60
 867-5309;60;1981 single by Tommy Tutone
 867-5309/Jenny;60;1981 single by Tommy Tutone
 8am;40
+8 maids a-milking;60
 8 Mile;60;2002 Eminem movie
 8mm;50;1999 Nicolas Cage thriller
 8pm;40
@@ -104,6 +116,7 @@
 99 Problems;60;2004 single by Jay-Z
 99 Red Balloons;50;1983 single by Nena ("99 Luftballons")
 9am;40
+9 ladies dancing;60
 9pm;40
 9-volt;50;Small battery
 9-volt batteries;60
@@ -2671,6 +2684,7 @@ andalusite;40
 andaman;30;Indian islands
 andanotherthing;60
 andantes;30
+and a partridge in a pear tree;60
 andbobsyouruncle;60
 andbows;0
 andco;40
@@ -3110,6 +3124,7 @@ aparade;20
 aparicio;40;Yalitza Aparicio, Best Actress nominee from "Roma" in 2018
 aparthistory;50
 apartotel;20;Apartment hotel
+a partridge in a pear tree;60
 apathies;30
 apatite;30;Mineral
 apatites;30;Minerals
@@ -4657,6 +4672,7 @@ australiaday;60
 australiancattledog;50
 australiancattledogs;50
 australianopens;30
+Australian turtledove;20
 austro;40
 aut;20
 authentications;30
@@ -9446,6 +9462,7 @@ calligram;50
 callin;40
 callingatruce;60
 callingbackto;40
+calling birds;60
 callingbullshit;10
 callingbullshiton;10
 callingfor;40
@@ -14813,6 +14830,7 @@ danite;30
 danites;30
 danmarino;50
 dannykaye;50
+Danny Partridge;50
 dannypudi;50;Actor Danny Pudi
 dannytorrance;60;From "The Shining"
 dano;40
@@ -17914,6 +17932,7 @@ drumlins;30
 drummajor;50
 drummajors;50
 drummedout;50
+drummers drumming;60
 drummingout;50
 drumout;50
 drumroll;60
@@ -18956,6 +18975,7 @@ eightiron;50
 eightirons;50
 eightletterword;50
 eightletterwords;50
+eight maids a-milking;60
 eightpm;50
 eightsome;20
 eik;20;Eat in kitchen, in ads
@@ -19092,6 +19112,7 @@ elevenam;50
 elevenfiftynine;0
 elevenletterword;50
 elevenletterwords;50
+eleven pipers piping;60
 elevenplus;40;Exam in the UK
 elevenpm;50
 elevenses;40;???
@@ -22230,6 +22251,7 @@ fittv;50
 fiveam;50
 fiveanddime;60
 fivedice;20
+five golden rings;60
 fivehead;60
 fiveiron;50
 fiveirons;50
@@ -23063,6 +23085,7 @@ fouralarmfires;50
 fouram;50
 fourbars;50;Good signal
 fourbells;50
+four calling birds;60
 fourdayworkweek;60
 fourhclubs;30
 fourhleader;20
@@ -23285,6 +23308,7 @@ frenchcuff;50
 frenchcuffs;50
 frenchcuisine;50
 frenchdressing;60
+French hens;60
 frenchhorn;50
 frenchhorns;50
 frenchlick;50
@@ -24235,6 +24259,7 @@ geeksout;60
 geeky;50
 geelong;20;Melbourne suburb
 geer;30;Will Geer of "The Waltons"
+geese a-laying;60
 geewhiz;60
 geezer;50
 geezers;50
@@ -25513,6 +25538,9 @@ goldenlab;50
 goldenlabs;50
 goldenoreo;60
 goldenoreos;60
+golden rice;60
+golden ring;60
+golden rings;60
 goldenset;60;Tennis set one without losing a single point
 goldensets;60
 goldenshower;10
@@ -33682,6 +33710,7 @@ keir;40;British PM Keir Starmer
 keiraknightley;60
 keirstarmer;60;British Prime Minister
 keithmoon;50
+Keith Partridge;30
 keiths;30;Plural name
 kel;30;Kenan Thompson's show "Kenan & Kel"
 kelce;50;Travis Kelce
@@ -34568,6 +34597,7 @@ ladadog;30;Albert Payson Terhune novel
 ladanum;30;Herbal resin
 ladarmorc;0
 ladd;40
+ladies dancing;60
 ladiesman;60
 ladiesmen;60
 ladiestee;60
@@ -37086,6 +37116,7 @@ lordchancellors;50
 lordit;20
 lordjim;50;Joseph Conrad novel
 lordlily;30;Weird adverb
+lords a-leaping;60
 lordsday;50
 lordvader;30
 lordvoldemort;10;Harry Potter
@@ -38014,6 +38045,7 @@ maidenvoyage;50
 maidenvoyages;50
 maidof;20
 maidofhonor;60
+maids a-milking;60
 maidsofhonor;50
 maier;40;Skier Hermann Maier
 maigre;20;Day on which the eating of flesh is forbidden by the Roman Catholic Church
@@ -42722,6 +42754,7 @@ nineeleven;10
 nineinchnails;60
 nineiron;50
 nineirons;50
+nine ladies dancing;60
 nineletterword;50
 nineletterwords;50
 ninemile;30;Nine Mile Canyon in Utah
@@ -46864,8 +46897,9 @@ partisantactics;60
 partitive;30
 partof;40
 partofacompletebreakfast;60
-partridgechick;50
-partridgechicks;50
+partridge chick;50
+partridge chicks;50
+partridge in a pear tree;60
 partsdepartment;50
 partsfrom;40
 partsong;30
@@ -48417,6 +48451,7 @@ pipedown;60
 pipeline;50
 pipelines;50
 pipercub;50
+pipers piping;60
 pipesmoke;50
 pipestem;50
 pipestems;50
@@ -57500,6 +57535,7 @@ sevenseas;60
 sevensegment;60
 sevensegmentdisplay;60
 sevensegmentdisplays;60
+seven swans a-swimming;60
 seventeens;20;???
 seventeenths;40
 seventhamendment;50
@@ -58858,6 +58894,7 @@ sixam;50
 sixdaywar;50
 sixdegrees;50
 sixesandsevens;60
+six geese a-laying;60
 sixgun;30
 sixiron;50
 sixirons;50
@@ -63394,6 +63431,7 @@ swanneries;40
 swannery;40;Swan breeding place
 swanns;30;"Swann's Way", Proust's most famous work, more commonly known as "In Search of Lost Time"
 swanpaddleboats;50
+swans a-swimming;60
 swansea;40;Birthplace of Dylan Thomas, second largest city in Wales
 swappedspit;60
 swappingspit;60
@@ -64941,6 +64979,7 @@ tenlegs;20;???
 tenletterword;50
 tenletterwords;50
 tenley;30;1950s figure skater Tenley Albright
+ten lords a-leaping;60
 tenmile;30
 tenmiles;20
 tenmillion;40
@@ -66588,6 +66627,7 @@ threedmovie;30
 threedmovies;30
 threedollarbill;60;Reclaimed by the LGBTQ+ community
 threefingersalute;60;Ctrl-Alt-Delete
+three French hens;60
 threeiron;50
 threeirons;50
 threelegged;50
@@ -68955,6 +68995,7 @@ turntotheright;50
 turntraitor;50
 turntwo;30;Green paint
 turnupsidedown;50
+turtledoves;60
 turtlenest;50
 turtlenests;50
 turturro;50
@@ -69056,6 +69097,7 @@ tweetsat;40
 tweetstorm;50
 tweetstorms;50
 twelveam;50
+twelve drummers drumming;60
 twelveletterword;50
 twelveletterwords;50
 twelvemo;40;Size of a piece of paper cut 12 from a sheet
@@ -69189,6 +69231,7 @@ twotimers;60
 twotiming;60
 twotons;40
 twototango;30
+two turtledoves;60
 twoxtwo;20
 twoyear;40
 twoyears;40
