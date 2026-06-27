@@ -18053,6 +18053,10 @@ dudeyouregettingadell;50
 due;50
 duebill;30
 duebills;30
+duel wield;60
+duel wielded;60
+duel wielding;60
+duel wields;60
 duenna;20;Spanish escort
 duennas;20
 dueprocess;60
