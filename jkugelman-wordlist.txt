@@ -61743,6 +61743,8 @@ spythriller;60
 spythrillers;60
 sq;40
 sqft;30
+sq. mi.;40
+sq mi;0
 sqr;20
 sqrt;40
 sqs;20
