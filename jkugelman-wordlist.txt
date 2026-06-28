@@ -6876,6 +6876,7 @@ bibinetanyahu;50
 bibless;30
 biblestories;50
 biblestory;50
+biblical proportions;60
 biblike;20
 biblioklept;60
 bibliokleptomania;60
@@ -20933,7 +20934,7 @@ exertingon;40
 exerton;40
 exertson;40
 exeunt;40
-exfbi;30
+ex-FBI;30;Contrived
 exgi;30
 exgis;30
 exhorter;40
@@ -21676,12 +21677,40 @@ fbi;50
 FBI academy;60
 fbiagent;60
 fbiagents;60
+FBI asset;40
+FBI assets;40
+FBI building;60
+FBI case;50
+FBI cases;50
+FBI chief;40
+FBI chiefs;40
 FBI director;60
 FBI directors;40
-fbireport;50
-fbireports;50
-fbispies;30
-fbispy;30
+FBI file;40
+FBI files;40
+FBI headquarters;60
+FBI HQ;60
+FBI intelligence;50
+FBI investigation;40
+FBI investigator;50
+FBI investigators;50
+FBI lab;50
+FBI labs;50
+FBI man;30
+FBI men;30
+FBI raid;50
+FBI raids;50
+FBI report;50
+FBI reports;50
+FBI seal;50
+FBI specialagent;60
+FBI special agents;60
+FBI spies;30
+FBI spy;30
+FBI Ten Most Wanted;60
+FBI Ten Most Wanted Fugitives;60
+FBI Ten Most Wanted list;60
+FBI True;50;2023 documentary television series
 fbomb;60
 fbombs;60
 FB post;40
@@ -23654,9 +23683,15 @@ friendlily;30;Weird adverb
 Friendly Neighborhood Spider-Man;60;Comic book series by Marvel Comics
 friendlyreminder;60;Passive aggressive opening
 friendlyreminders;60
+friend of Bill;60;AA member
+friend of Bill W.;60;AA member
+friend of Bill W;0
 friendofdorothy;60;20th century gay codeword
 friendrequest;60
 friendrequests;60
+friends of Bill;60;AA members
+friends of Bill W.;60;AA members
+friends of Bill W;0
 friendsofdorothy;60
 friendwhoisagirl;60
 frier;30;Variant spelling of fryer
@@ -29887,6 +29922,7 @@ humuses;20
 hun;50
 hunchesinbunches;60;Dr. Seuss book
 hundop;40;100%, slangily
+hundreds of billions;20
 hundredthsplace;50
 hung around with;40
 hungauie;30
@@ -43045,6 +43081,8 @@ nicesave;60
 nicetan;50
 nicetohave;60
 nicetry;60
+nice try, FBI;60;Meme response
+nice try FBI;0
 nicetryguy;60
 nichearea;40
 nicheareas;40
@@ -44705,6 +44743,7 @@ ofada;20;Nigerian stew
 ofaman;0
 ofanera;40
 ofbad;20
+of biblical proportions;60
 off;50
 offcut;40;Leftover material (wood, fabric, etc.)
 offcuts;40
@@ -55439,6 +55478,7 @@ rudge;30
 rudi;30;Fashion designer Gernreich
 rudin;40;EGOT-winning producer Scott Rudin
 rudolf;40;Ballet dancer Rudolf Nureyev, inventor Rudolf Diesel
+Rudolf Bing;50;Austrian-American opera impresario (1902–1997)
 rue;50
 ruefulness;30
 ruehl;40;Actress Mercedes Ruehl
@@ -59231,6 +59271,7 @@ sirmichaelcaine;60
 sirnosir;50
 sirocco;40;Hot African wind
 siroccos;40
+Sir Rudolf Bing;50;Austrian-American opera impresario (1902–1997)
 sirthisisawendys;60
 sirtis;40;Marina Sirtis of ST:TNG
 sirup;20
@@ -60817,6 +60858,7 @@ sonsie;20;???
 sonsinlaw;50
 sonsofadam;50
 Sons of Anarchy;60
+sons of bitches;10
 Sons of Liberty;60
 sont;20
 Sony PlayStation;60
@@ -65493,6 +65535,7 @@ tenrecs;30;Madagascar animals
 tenseconds;30
 tensity;40;Tension
 tenski;20
+tens of billions;20
 tensofpeople;60
 tensor;40
 tensors;40
@@ -66332,6 +66375,7 @@ thelead;20
 theleft;30
 The Leftorium;60;Ned Flanders's left-handed store
 theleftorium;20
+The Legend of Billie Jean;50;1985 drama film by Matthew Robbins
 thelegomovie;60
 theleonids;40
 thelessiknowthebetter;60
@@ -70073,8 +70117,8 @@ underbites;50
 underboob;60
 undercard;60
 undercards;60
-undercoverfbiagent;60
-undercoverfbiagents;60
+undercover FBI agent;60
+undercover FBI agents;60
 underdeliver;60
 underdelivered;60
 underdelivering;60
@@ -71595,9 +71639,9 @@ wadesin;40
 wadesinto;40
 wadingin;40
 wadinginto;40
-wadofbills;50
+wad of bills;60
 wadofcash;50
-wadsofbills;50
+wads of bills;60
 wadsofcash;50
 waf;20
 wafflehouseindex;60
