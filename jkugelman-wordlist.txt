@@ -8853,6 +8853,8 @@ bruni;30;Carla ___
 bruschetta;50
 brushedon;40
 brusheson;40
+brush-footed butterflies;50
+brush-footed butterfly;50
 brushingon;40
 brushon;40
 brusselsbelgium;30;???
@@ -9269,6 +9271,7 @@ butstill;60
 buttdial;60
 buttdialing;60
 buttdials;60
+butted in on;40
 butterbattlebook;60;Dr. Seuss book, with "The"
 butterbeer;10;Harry Potter
 butterchicken;60
@@ -9278,7 +9281,10 @@ buttercroissant;60
 buttercroissants;60
 butterfinger;60
 butterfingers;60
-butterflyeffect;60
+Butterflies Are Free;60;1972 Goldie Hawn comedy
+butterflies in one's stomach;60
+butterflies in the stomach;60
+butterfly effect;60;Sensitive dependence on initial conditions in chaos theory
 butterflykiss;60
 butterflykisses;60
 butterflypalm;50
@@ -9296,6 +9302,8 @@ buttholesurfers;50
 butthurt;60
 buttingheads;60
 buttingheadswith;60
+butting in on;40
+butt in on;40
 buttinski;60
 buttinskies;60
 buttinsky;60
@@ -9320,6 +9328,7 @@ buttplug;10
 buttplugs;10
 buttsheads;60
 buttsheadswith;60
+butts in on;40
 buttsinseats;60
 butttext;60
 butttexted;60
@@ -19575,6 +19584,8 @@ empathizingwith;40
 empedocles;40
 empennage;40;Airplane tail section
 empennages;40
+emperor butterflies;60
+emperor butterfly;60
 emphasisadded;60
 emping;30;Indonesian cracker
 empirestatebldg;30
@@ -23393,6 +23404,8 @@ fourbars;50;Good signal
 fourbells;50
 four calling birds;60
 fourdayworkweek;60
+four-footed butterflies;50
+four-footed butterfly;50
 fourhclubs;30
 fourhleader;20
 fourhleaders;20
@@ -24823,6 +24836,7 @@ getbeyond;30
 getbiblical;50
 getbig;40;Personal addition
 getbored;50
+get butterflies;60
 getcanned;50
 getchummy;50
 getchummywith;50
@@ -24914,6 +24928,7 @@ getsbeyond;30
 getsbiblical;50
 getsbig;40
 getsbored;50
+gets butterflies;60
 getscanned;50
 getschummy;50
 getschummywith;50
@@ -25019,6 +25034,7 @@ gettingbeyond;30
 gettingbiblical;50
 gettingbig;40
 gettingbored;50
+getting butterflies;60
 gettingchummy;50
 gettingchummywith;50
 gettingcozy;50
@@ -26227,6 +26243,7 @@ gotbeyond;30
 gotbiblical;50
 gotbig;40
 gotbored;50
+got butterflies;60
 gotcanned;50
 gotcha;60
 gotchajournalism;60
@@ -27208,6 +27225,7 @@ hadass;20
 hadat;40
 hadatit;40
 hadayenfor;40
+had butterflies;60
 haddibs;50
 haddibson;50
 hadean;40;Geologic eon
@@ -27772,6 +27790,7 @@ hasasip;50
 hasat;40;Attacks, dives into
 hasatit;50
 hasayenfor;40
+has butterflies;60
 hasdibson;50
 hasdone;30
 haseyesfor;50
@@ -27909,6 +27928,7 @@ haveasip;50
 haveatit;60
 haveayenfor;40
 have been around;40
+have butterflies;60
 havedibson;50
 haveeyesfor;50
 havefun;60
@@ -27962,6 +27982,7 @@ havingarow;30
 havingashotat;40
 havingasip;50
 havingayenfor;40
+having butterflies;60
 havingeyesfor;50
 havingfun;50
 havinggame;50
@@ -31949,6 +31970,7 @@ intherightplaceattherighttime;60
 intherightplaceatthewrongtime;60
 intherough;50
 inthetank;60
+In the Time of the Butterflies;60;1994 historical fiction novel by Julia Alvarez
 inthewash;50
 inthewrongplaceattherighttime;60
 inthewrongplaceatthewrongtime;60
@@ -51361,7 +51383,7 @@ put a hat on a hat;60;Comedy mistake (something unnecessary)
 putahexon;50
 putalidonit;60
 putapininit;60
-putbuttsinseats;60
+put butts in seats;60
 putby;40;???
 putdowninwords;50
 putdowninwriting;50
@@ -51408,7 +51430,7 @@ putsacurseon;50
 puts a hat on a hat;60;Comedy mistake (something unnecessary)
 putsahexon;50
 putsalidonit;50
-putsbuttsinseats;60
+puts butts in seats;60
 putsdowninwords;50
 putsdowninwriting;50
 putsdownonpaper;50
@@ -51437,7 +51459,7 @@ puttingabravefaceon;60
 puttingacurseon;50
 putting a hat on a hat;60;Comedy mistake (something unnecessary)
 puttingahexon;50
-puttingbuttsinseats;60
+putting butts in seats;60
 puttingdowninwords;50
 puttingdowninwriting;50
 puttingdownonpaper;50
@@ -51628,8 +51650,8 @@ queso;40
 quesodip;50
 quesodips;50
 questel;30
-questionmarkbutterflies;60
-questionmarkbutterfly;60
+question mark butterflies;60
+question mark butterfly;60
 qui;40;On the qui vive
 quickbite;60
 quickbites;60
@@ -66082,6 +66104,7 @@ thebuddha;50
 thebulls;40
 theburbs;60
 thebutterbattlebook;60;Dr. Seuss book
+The Butterfly Effect;60;2004 Ashton Kutcher science fiction thriller
 thecab;20
 thecalmbeforethestorm;60
 thecandyman;50
