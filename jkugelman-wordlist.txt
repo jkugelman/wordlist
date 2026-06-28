@@ -1508,7 +1508,7 @@ aguything;60
 ah;50
 aha;50
 ahas;40
-ahatonahat;60;Comedy mistake (something unnecessary)
+a hat on a hat;60;Comedy mistake (something unnecessary)
 ahchoo;20;Sneeze sound: Var.
 aheadof;40
 aheartbreakingworkofstaggeringgenius;60
@@ -27849,7 +27849,7 @@ hatforms;50
 hatha;40;Type of yoga
 hathayoga;60
 hatinhand;60
-hatonahat;60;Comedy mistake (something unnecessary)
+hat on a hat;60;Comedy mistake (something unnecessary)
 hatteras;40;North Carolina's Cape Hatteras
 hattip;50
 hattips;50
@@ -51357,7 +51357,7 @@ put;50
 puta;10
 putabravefaceon;60
 putacurseon;50
-putahatonahat;60;Comedy mistake (something unnecessary)
+put a hat on a hat;60;Comedy mistake (something unnecessary)
 putahexon;50
 putalidonit;60
 putapininit;60
@@ -51405,7 +51405,7 @@ putouttopasture;60
 putput;20
 putsabravefaceon;60
 putsacurseon;50
-putsahatonahat;60;Comedy mistake (something unnecessary)
+puts a hat on a hat;60;Comedy mistake (something unnecessary)
 putsahexon;50
 putsalidonit;50
 putsbuttsinseats;60
@@ -51435,7 +51435,7 @@ putthepedaltothemetal;60
 putthepiecestogether;60
 puttingabravefaceon;60
 puttingacurseon;50
-puttingahatonahat;60;Comedy mistake (something unnecessary)
+putting a hat on a hat;60;Comedy mistake (something unnecessary)
 puttingahexon;50
 puttingbuttsinseats;60
 puttingdowninwords;50
