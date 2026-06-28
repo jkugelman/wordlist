@@ -21702,6 +21702,7 @@ FBI raid;50
 FBI raids;50
 FBI report;50
 FBI reports;50
+FBIs;20
 FBI seal;50
 FBI specialagent;60
 FBI special agents;60
