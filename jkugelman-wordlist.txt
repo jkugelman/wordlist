@@ -4129,6 +4129,16 @@ asiamap;20
 asiana;40;South Korean airline
 asianf;60
 asianfs;60
+Asian giant hornet;60;World's largest hornet
+Asian giant hornets;60;World's largest hornets
+Asian hornet;50
+Asian hornets;50
+Asian lady beetle;60
+Asian lady beetles;60
+Asian long-horned beetle;60
+Asian long-horned beetles;60
+Asian predatory wasp;60
+Asian predatory wasps;60
 asifoncue;60
 asimmer;30
 asimov;50
@@ -4198,6 +4208,8 @@ asonia;20;Tone-deafness, controversial 3/19/23 entry
 asosan;20
 asp;50
 asparagine;30;Nonessential amino acid
+asparagus beetle;60
+asparagus beetles;60
 aspca;40
 asper;40;As per
 aspera;40
@@ -5387,6 +5399,8 @@ baldcaps;60
 baldeagle;60
 baldeagles;60
 balded;50
+bald-faced hornet;60
+bald-faced hornets;60
 baldies;30
 baldric;40;Sword shoulder belt
 baldrick;40
@@ -6487,6 +6501,8 @@ beertent;60
 beertents;60
 beery;30
 beesknees;60
+Beetlejuice;60
+Beetlejuice Beetlejuice;60
 beetlewing;50
 beetlewings;50
 beetred;60
@@ -7304,6 +7320,9 @@ blackbottom;50;Jazz Age dance
 blackbox;60
 blackbudget;60;Budget for black ops
 blackbudgets;60
+black caraway;50
+black carpet beetle;60
+black carpet beetles;60
 blackcow;30;???
 blackdiamond;60
 blackdiamondrun;60
@@ -8783,6 +8802,9 @@ browncows;50
 browndwarf;60
 browndwarfs;60
 browngravy;50
+Brown Hornet;50
+brown hornet;50
+brown hornets;50
 browniemix;60
 browniemixes;60
 browniepan;60
@@ -15397,6 +15419,8 @@ deathstares;60
 deathstrike;60
 deathtrap;60
 deathtraps;60
+deathwatch beetle;60
+deathwatch beetles;60
 deb;40
 debar;40
 debarge;30
@@ -20684,6 +20708,10 @@ eurodollar;40;???
 eurodollars;40
 eurogame;60;Board game with indirect player interaction and a focus on abstract strategy, such as Carcassone or Ticket to Ride
 eurogames;60
+European hornet;50
+European hornets;50
+European paper wasp;50
+European paper wasps;50
 eurotrash;50
 eurovibe;20;???
 eus;20
@@ -24698,6 +24726,10 @@ germanbeer;50
 germander;40;Flower
 germanders;40
 germanlit;50
+German wasp;50
+German wasps;50
+German yellowjacket;50
+German yellowjackets;50
 germaphobe;50
 germaphobes;50
 germx;50
@@ -25110,6 +25142,8 @@ giantcactuses;50
 giantess;40
 giantesses;40
 giantflypaper;60;Acme invention
+giant hornet;50
+giant hornets;50
 giantkiller;60
 giantkillers;60
 giantkitekit;60;Acme invention
@@ -26585,6 +26619,7 @@ greenfairy;60;Absinthe
 greengiant;60
 greengoblin;60
 greenhorn;50
+Green Hornet;60
 greenhorns;50
 greenhousegas;60
 greenhousegases;60
@@ -29398,6 +29433,14 @@ horne;40;Lena Horne, or Alex Horne from "Taskmaster"
 hornedin;40
 hornedinon;40
 horners;20;Eye syndrome
+hornet larva;50
+hornet larvae;50
+hornet larvas;50
+hornets' nest;60
+hornet's nest;60
+hornets' nests;60
+hornet sting;50
+hornet stings;50
 hornin;40
 horningin;40
 horninginon;40
@@ -38163,6 +38206,7 @@ madabout;50
 madama;40;Puccini's "Madama Butterfly"
 madamepresident;50
 madameweb;60
+mad as a hornet;60
 madat;40
 madcap;60
 madcaps;40
@@ -41796,6 +41840,8 @@ murdercases;50
 murderee;30
 murderees;30
 murderersthumb;60;Genetic trait with one short, wide thumb
+murder hornet;60;Nickname for the Asian giant hornet
+murder hornets;60;Nickname for Asian giant hornets
 murderinc;50
 murdermap;60;Conspiracy board
 murdermaps;60
@@ -42817,6 +42863,7 @@ newmoon;50
 newmoons;50
 newmusic;30;Green paint?
 newnormal;60
+New Orleans Hornets;60;Now the Pelicans
 newparent;50
 newparents;50
 newperspective;50
@@ -43594,6 +43641,8 @@ northcarolinians;50
 northdakotan;50
 northdakotans;50
 norther;30
+northern giant hornet;50
+northern giant hornets;50
 northof;50;More than
 northpaw;60
 norths;30
@@ -46056,6 +46105,8 @@ oriel;20;Bay window
 oriels;20;Bay windows
 orientalcarpet;50
 orientalcarpets;50
+Oriental hornet;50
+Oriental hornets;50
 orientals;10
 oriente;30
 orienteer;40
@@ -47096,6 +47147,8 @@ papertiger;60
 papertigers;60
 papertown;60;Copyright trap
 papertowns;60
+paper wasp;50
+paper wasps;50
 paperweight;50
 paperweights;50
 papeterie;40;Stationary (store)
@@ -62624,17 +62677,21 @@ stirp;20
 stirps;20
 stirredin;40
 stirredthepot;60
+stirred up a hornet's nest;60
 stirrer;40
 stirrers;40
 stirringin;40
 stirringthepot;60
+stirring up a hornet's nest;60
 stirrup;50
 stirrupcup;40;Foxhunting drink
 stirrupcups;40
 stirrups;50
 stirsin;40
 stirsthepot;60
+stirs up a hornet's nest;60
 stirthepot;60
+stir up a hornet's nest;60
 stiver;20
 stivic;30;Mike Stivic, Rob Reiner's "All in the Family" character
 stix;40
@@ -65972,6 +66029,7 @@ thebritishfilmacademy;60
 thebrocode;40
 thebrow;20
 thebrownbomber;50;Nickname for boxer Joe Louis
+The Brown Hornet;50
 thebrutalist;60;2025 Oscar wining film
 thebuckstopshere;60
 thebuddha;50
@@ -66156,6 +66214,7 @@ thegebuilding;30
 thegemcity;40
 thegiftofthemagi;60
 thegirlnextdoor;60
+The Girl Who Kicked the Hornet's Nest;60
 thegiver;50;???
 thegoat;60
 thegoldenarches;20
@@ -66178,6 +66237,7 @@ thegreatoldones;60;Cthulhu, etc.
 thegreatunknown;60
 thegreenarrow;40
 thegreenfairy;60;Absinthe
+The Green Hornet;60
 thegreens;40;???
 thegrinch;60
 thegrownupsaretalking;60
@@ -66205,6 +66265,8 @@ thehobbit;50
 thehomedepotbeat;60
 thehoneymooners;60
 thehopi;20
+the hornet's nest;60
+the hornets' nest;60
 thehotcorner;50;???
 thehots;60
 thehound;60
@@ -70652,6 +70714,7 @@ ussenterprise;50
 ussesirpretne;0
 ussgeraldrford;40
 ussharrystruman;40
+USS Hornet;50;Various ships
 ussindianapolis;40
 ussiowa;40
 ussmadison;40
@@ -74089,6 +74152,8 @@ yellowhighlighters;50
 yellowjournalism;60
 yellowlab;50
 yellowlabs;50
+yellow-legged hornet;50
+yellow-legged hornets;50
 yelloworgold;0
 yellowpaint;0
 yellowpalm;50
