@@ -22825,6 +22825,8 @@ floatingaway;50
 floatingonair;50
 floatingspherefountain;60
 floatingspherefountains;60
+float like a butterfly;60
+float like a butterfly sting like a bee;60
 floatonair;50
 floatrider;50
 floatriders;50
@@ -32257,6 +32259,7 @@ iron;50
 ironage;60
 ironagoodliving;0
 ironbirdseed;60;Acme invention
+Iron Butterfly;60;"In-A-Gadda-Da-Vida" (1968) rock band
 iron carrot;60;Acme invention
 iron carrots;50
 ironclad;60
@@ -38263,6 +38266,8 @@ maculations;40
 mad;50
 madabout;50
 madama;40;Puccini's "Madama Butterfly"
+Madama Butterfly;60
+Madame Butterfly;60
 madamepresident;50
 madameweb;60
 mad as a hornet;60
@@ -39608,7 +39613,8 @@ mbastudent;40
 mbastudents;40
 mbe;20
 mbeki;40;Mandela's successor Thabo Mbeki
-mbutterfly;50
+M. Butterfly;50;1988 play by David Henry Hwang
+M Butterfly;0
 mca;20
 mcadam;30;Scottish road builder John Loudon McAdam
 mcadoo;40;NBA All-Star Bob McAdoo
@@ -41534,6 +41540,17 @@ mountrushmorestate;60
 mountweazel;60;Plagiarism trap
 mountweazels;60;Plagiarism traps
 mourinho;30;Soccer manager, one of the greatest of all time
+mourned the loss;60
+mourned the loss of;60
+mourning cloak;60;Species of butterfly
+mourning cloak butterflies;60
+mourning cloak butterfly;60
+mourning the loss;60
+mourning the loss of;60
+mourns the loss;60
+mourns the loss of;60
+mourn the loss;60
+mourn the loss of;60
 moussed;50
 moutai;30;Chinese liquor
 mouther;30
@@ -42084,6 +42101,10 @@ My Shot;60;"Hamilton" song
 mysides;60
 mysin;20
 mysore;30;Indian city
+my spider sense is tingling;60
+my spider senses are tingling;60
+my spidey sense is tingling;60
+my spidey senses are tingling;60
 mystars;50
 mysterysciencetheater;60
 mythologicalgod;0
@@ -61444,6 +61465,8 @@ spidergwen;60
 spiderling;50
 spiderlings;50
 spiderman;60
+spider sense;60
+spider senses;60
 spidersilk;60
 spidervein;40
 spiderveins;40
@@ -61455,6 +61478,7 @@ spiderwebs;60
 spiderwoman;60
 spidey;50
 spideysense;60
+spidey senses;60
 spiedon;40
 spies;50
 spieson;40
@@ -62716,6 +62740,7 @@ stimulatingconversation;50
 stimulatingconversations;50
 stine;40
 stinge;40;Stingy person, backformation
+sting like a bee;60
 stingo;20;Strong beer: Br.
 stingos;20;Strong beers: Br.
 stink;50;Air offensive?
