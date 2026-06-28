@@ -433,6 +433,7 @@ abled;50
 abler;40
 ablest;50
 ablewasiereisawelba;60
+Abloh;40;Virgil Abloh, fashion designer and entrepreneur (1980–2021)
 abm;20
 abnegate;40
 abnegated;40
@@ -1445,6 +1446,7 @@ agn;20
 agnate;20
 agnates;20
 agnatic;30;???
+Agnes Denes;50;Conceptual artist based in New York City
 agnesvarda;40;Director Rex loves (see 11/6/24)
 agnolotti;40;Stuffed pasta
 agnomen;20
@@ -2586,6 +2588,9 @@ amitoolate;60
 amityville;60
 amiup;60
 amiwrong;60
+Aml;30;Aml Ameen, British actor and filmmaker (born 1985)
+Aml Ameen;50;British actor and filmmaker (born 1985)
+Amleth;40;Figure in medieval Scandinavian romance, direct inspiration for Hamlet
 amman;40;Capital of Jordan
 ammandine;20;Mispelling of amandine?
 ammeter;40
@@ -6774,6 +6779,7 @@ bethiphopaward;60
 bethiphopawards;60
 bethnal;30;???
 bethought;40
+Beti;30;Mongo Beti, exiled Cameroonian author and polemicist (1932–2001)
 betiaraed;30
 betide;30
 betided;30
@@ -15848,7 +15854,8 @@ denarius;30;Roman coin
 denaturant;30
 denaturants;30
 dendra;30;Nerve cell parts
-deneb;20;Alpha Cygni
+Deneb;30;Alpha Cygni
+Denes;40;Agnes Denes, Conceptual artist based in New York City
 deng;30;Chinese leader
 dengxiaoping;50;Chinese leader 1978-1989
 deniece;40;'80s soul singer Deniece Williams
@@ -22512,6 +22519,8 @@ fixe;40
 fixeson;50
 fixesup;50
 fixitinpost;60
+FKA;30;FKA Twigs, English singer, songwriter, and dancer (born 1988)
+FKA Twigs;50;English singer, songwriter, and dancer (born 1988)
 fl;40
 fla;40
 flagbearer;50
@@ -29769,6 +29778,7 @@ hts;40
 http;40
 https;40
 hua;20
+HUAC;40;House Un-American Activities Committee
 hualapai;40;Arizona tribe
 huarache;20;Mexican sandal
 huaraches;20
@@ -34005,7 +34015,9 @@ kegstands;60
 kehinde;40;Black portrait painter Kehinde Wiley (famously did Obama's portrait)
 kehlani;40;Decently popular pop singer nominated for 5 Grammys
 kehuyquan;60
+Kei;30;Kei Nishikori, Japanese tennis player (born 1989)
 keillor;40;Garrison Keillor
+Kei Nishikori;50;Japanese tennis player (born 1989)
 keir;40;British PM Keir Starmer
 keiraknightley;60
 keirstarmer;60;British Prime Minister
@@ -36062,6 +36074,7 @@ lemuel;30;Biblical king, or Gulliver of "Gulliver's Travels"
 len;40;Len Goodman, "Dancing With the Stars" judge
 lena;40;Lena Dunham, Lena Headey, Lena Olin
 lenadunham;60;"Girls" creator
+Lenae;40;Ravyn Lenae, American singer (born 1999)
 lenaolin;50
 lenape;20;Delaware tribe
 lendee;30
@@ -41042,6 +41055,7 @@ moneyplayer;60;Competitor who performs best under pressure
 moneyplayers;60
 moneys;40
 mongo;40
+Mongo Beti;50;Exiled Cameroonian author and polemicist (1932–2001)
 mongolianbeef;50
 mongoloid;10
 mongoloids;10
@@ -52348,6 +52362,8 @@ raviolicrimper;60
 raviolicrimpers;60
 ravisher;40;Plunderer
 ravishers;40
+Ravyn;40;Ravyn Lenae, American singer (born 1999)
+Ravyn Lenae;50;American singer (born 1999)
 raw;50
 rawbatter;50
 rawdata;50
@@ -71224,6 +71240,7 @@ viralimage;60
 viralimages;60
 vireo;20;Songbird
 vireos;20
+Virgil Abloh;50;Fashion designer and entrepreneur (1980–2021)
 virginears;60
 virginian;50
 virginians;50
