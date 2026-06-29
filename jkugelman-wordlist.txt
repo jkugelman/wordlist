@@ -22004,6 +22004,8 @@ fendrix;40;"Poor Things" movie composer Jerskin Fendrix
 fenestra;30;Biological opening
 fenetre;20;Maison window (???)
 feng;40;Feng shui
+fenland;40;Wet, marshy ground
+fenlands;40;Wet, marshy grounds
 fenn;40;Sherilyn Fenn
 fennec;40;Small fox
 fennecs;30
