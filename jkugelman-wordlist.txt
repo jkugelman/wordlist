@@ -4605,6 +4605,8 @@ atp;40;Energy molecule in cells
 atplay;50
 atra;30
 atrace;30
+A Train;40
+A trains;40
 atrance;20;Long partial
 atremble;40
 atreus;30;Father of Agamemnon
@@ -7720,8 +7722,10 @@ bo;40
 boa;50
 boaconstrictor;60
 boaconstrictors;60
+board a train;40;Contrived
 boardbook;50
 boardbooks;50
+boarded a train;40;Contrived
 boardgame;60
 boardgamecafe;60
 boardgamecafes;60
@@ -7729,6 +7733,7 @@ boardgamegeek;60
 boardgamenight;60
 boardgamenights;60
 boardgames;60
+boarding a train;40;Contrived
 boardingparties;50
 boardingpass;50
 boardingschool;60
@@ -7736,6 +7741,7 @@ boardingschools;60
 boardmeeting;50
 boardmeetings;50
 boardoftrustees;50
+boards a train;40;Contrived
 boarshead;50
 boastedof;40
 boastingof;40
@@ -10499,11 +10505,13 @@ catchabus;50
 catchall;50
 catchashow;50
 catchastray;60
+catch a train;40;Contrived
 catcher;50
 catchers;50
 catchesabus;50
 catchesashow;50
 catchesastray;60
+catches a train;40;Contrived
 catchesfeelings;60
 catchesfeelingsfor;60
 catchesfire;50
@@ -10519,6 +10527,7 @@ catchhell;60
 catchingabus;50
 catchingashow;50
 catchingastray;60
+catching a train;40;Contrived
 catchingfeelings;60
 catchingfeelingsfor;60
 catchingfire;50
@@ -10639,6 +10648,7 @@ caudillo;30;Spanish or Latin American military dictator
 caughtabus;50
 caughtashow;50
 caughtastray;60
+caught a train;40;Contrived
 caughtfeelings;60
 caughtfeelingsfor;60
 caughtfire;50
@@ -17386,6 +17396,7 @@ dontwaitup;60
 dontwaitupforus;50
 dontworryaboutit;60
 dontworryicantakeit;60
+don't worry I'm a trained professional;60
 dontyell;60
 dontyoubelieveit;60
 dontyoulikeit;60
@@ -23121,7 +23132,7 @@ folksycharm;60
 folktale;60
 folktales;60
 followthemoney;60
-fomo;60
+FOMO;40;Fear of missing out
 fondas;40
 fondle;50
 fondled;50
@@ -28534,6 +28545,7 @@ here;50
 hereand;0
 hereat;30;Because, archaically
 hereboy;60;Summons for a pet
+Here Comes That Rainy Day Feeling Again;50;1971 single by The Fortunes
 herecomestrouble;60
 hereforit;60
 heregirl;60;Summons for a pet
@@ -28545,6 +28557,7 @@ heresanidea;60
 heresathought;60
 heresatip;60
 hereshowitworks;60
+Here's That Rainy Day;50;1953 song by Jimmy Van Heusen and Johnny Burke
 herestomanymore;60
 hereto;30
 heretostay;60
@@ -28572,8 +28585,20 @@ herocults;60
 herodi;30
 heroicage;50
 heroical;30
+Heroica Puebla de Zaragoza;50;Metropolis in Puebla, Mexico
+heroic effort;60
+heroic efforts;60
+heroi-comic;50;Satiric parody of Classical heroic literature
+heroi-comical;50;Satiric parody of Classical heroic literature
+heroi-comic poem;50;Satiric parody of Classical heroic literature
+heroi-comic poems;50;Satiric parodies of Classical heroic literature
+heroi-comic poetry;50;Satiric parody of Classical heroic literature
+heroic quatrain;50
+heroic quatrains;50
 heroicsacrifice;60
 heroicsacrifices;60
+heroic stanza;50
+heroic stanzas;50
 heroin;40
 heroinchic;60
 heroize;30
@@ -29419,6 +29444,7 @@ hootingat;40
 hootsat;40
 hop;50
 hopacab;50
+hop a train;40;Contrived
 hopeagainsthope;60
 hopecore;50;Too trendy?
 hopedagainsthope;60
@@ -29451,6 +29477,7 @@ hopon;40
 hoponpop;60;Dr. Seuss book
 hoponto;40
 hoppedacab;50
+hopped a train;40;Contrived
 hoppedin;40
 hoppedinto;40
 hoppedon;40
@@ -29459,6 +29486,7 @@ hoppedupongoofballs;60
 hopperpopper;60;Rubber children's toy
 hopperpoppers;60;Rubber children's toys
 hoppingacab;50
+hopping a train;40;Contrived
 hoppingin;40
 hoppinginto;40
 hoppingmad;60
@@ -29468,6 +29496,7 @@ hopsacab;50
 hopsack;40;Fabric
 hopsacking;40;Fabric
 hopsacks;40
+hops a train;40;Contrived
 hopsin;40
 hopsinto;40
 hopson;40
@@ -30927,6 +30956,7 @@ imarets;30;Turkish inns
 imaround;60
 imaroundifyouneedme;60
 imataloss;60
+I'm a trained professional;60
 imaum;20;Imam, archaic
 imaums;20;Imams, archaic
 imaware;60
@@ -37716,6 +37746,7 @@ louisxiv;40;"The Sun King"
 louisxv;30
 loungebar;50
 loungebars;50
+lounge car on a train;20
 loungelizard;60
 loungelizards;60
 loungemusic;50
@@ -41010,6 +41041,9 @@ mocapsuit;60
 mocapsuits;60
 mochalatte;50
 mochalattes;50
+mock-heroic;60;Satiric parody of Classical heroic literature
+mock heroic;0
+mock-heroics;60;Satiric parodies of Classical heroic literature
 mocktail;60
 mocktails;60
 mocktrial;60
@@ -45368,6 +45402,7 @@ onatimer;40
 onatip;30
 onatoot;20
 onatopp;30;GoldenEye's bond girl Xenia Zaragevna Onatopp
+on a train;20
 onatrialbasis;60
 onatrip;40
 onautopilot;60
@@ -46085,8 +46120,8 @@ orcapod;50
 orcapods;50
 orcatank;50;Green paint?
 orcatanks;50
-orcatrainer;50;Green paint?
-orcatrainers;50
+orca trainer;40;Contrived
+orca trainers;40;Contrived
 orcawhale;40
 orchestrapit;50
 orchestrapits;50
@@ -51175,6 +51210,7 @@ pud;20
 puddy;40;"Seinfeld" character
 pudi;40;Actor Danny Pudi
 puebla;40
+Puebla de Zaragoza;50;Metropolis in Puebla, Mexico
 puerperal;20;Medical word
 puerto;40
 puertorican;60
@@ -52712,6 +52748,7 @@ realstinker;60
 realstinkers;60
 realter;20
 realtv;40;Reality show aka "America's Best Caught on Tape" 1996-2001
+Real Zaragoza;50;Association football club in Spain
 reamass;20
 reamassed;20
 reamasses;20
@@ -54441,6 +54478,7 @@ riddlemethisbatman;60
 rideabroomstick;50
 ridealong;50
 ridealongs;50
+ride a train;40;Contrived
 rideau;20
 rideawave;50
 rideaway;30
@@ -54453,6 +54491,7 @@ rideordie;60
 rideordiechick;60
 rideordiechicks;60
 ridesabroomstick;50
+rides a train;40;Contrived
 ridesawave;50
 ridesby;40
 rideshare;60
@@ -54472,6 +54511,7 @@ ridgy;30
 ridic;50
 ridin;40;2005 Chamillionaire song
 ridingabroomstick;50
+riding a train;40;Contrived
 ridingawave;50
 ridingby;40
 ridingcap;50
@@ -54952,6 +54992,7 @@ rodder;40;Hot rodder
 rodders;40
 roddy;40;Actor Roddy McDowall (1928-98), or wrestler "Rowdy" Roddy Piper
 rodeabroomstick;50
+rode a train;40;Contrived
 rodeawave;50
 rodeaway;30
 rodeby;40
@@ -63037,6 +63078,7 @@ strangeisntit;60
 strangeordeal;60
 strangequark;60
 strangequarks;60
+Strangers on a Train;60;Patricia Highsmith novel or Alfred Hitchcock adaptaion
 strangle;40
 strangled;40
 stranglehold;60
@@ -64478,6 +64520,7 @@ takeashower;50
 takeasiesta;50
 takeastab;50
 takeaswig;50
+take a train;40;Contrived
 takebacks;60
 takebacksies;60
 takebaths;50
@@ -64561,6 +64604,7 @@ takesorders;50
 takesout;40
 takespains;50
 takesshape;60
+takes the A train;20;Contrived
 takesthebait;60
 takesthecake;60
 takesthefall;60
@@ -64579,6 +64623,8 @@ takesunderoneswing;60
 takeswing;60
 takesybacksies;60
 takesybacksy;60
+Take the "A" Train;60;Jazz standard
+Take the A Train;0
 takethebait;60
 takethefall;60
 takethefield;60
@@ -66040,6 +66086,7 @@ theatergeeks;60
 theaterofoperations;60
 theatersofoperations;60
 theathletic;50
+the A train;40
 theatre;40
 theatres;40
 theaudacity;60
@@ -72742,6 +72789,7 @@ whatarip;60
 whatasave;60
 whatasurprise;60
 whatatool;60
+what a trainwreck;60
 whatazoo;60;60 is borderline...
 whatcanido;60
 whatcanidoyoufor;60
