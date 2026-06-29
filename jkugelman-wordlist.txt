@@ -211,6 +211,9 @@
 9-volt battery;60
 9-volts;50;Small batteries
 a;50
+A+;40
+A-;40
+A++;40
 AA;40;Alcoholics Anonymous / Battery size
 AAA;40;American Automobile Association / Small battery size
 AAAA;30;Small battery size
@@ -5022,6 +5025,8 @@ azur;40
 azureblue;30
 azured;20
 b;40
+B+;40
+B-;40
 ba;40
 baa;40
 baabaa;40
@@ -9404,6 +9409,8 @@ byu;40
 byzantine;50
 byzantineempire;50
 c;40
+C+;40
+C-;40
 ca;40
 caa;20;Talent agency
 caan;40;Actor James Caan
@@ -14817,6 +14824,8 @@ cysts;50
 cyt;20
 cytwombly;50;Painter Cy Twombly
 d;40
+D+;40
+D-;40
 da;40
 daae;40;Christine of Phantom
 dab;50
