@@ -9217,6 +9217,11 @@ bushfood;60;Food eaten by Indigenous Australians
 bushido;60
 bushism;50
 bushisms;50
+bushman poison;60;African shrubs/insects used to tip hunting arrows
+bushman's poison;60;African shrubs/insects used to tip hunting arrows
+bushman's poison bulb;60;African source of sap used to tip hunting arrows
+bushman's poison tree;60;African source of paste used to tip hunting arrows
+bushman's tea;60;African shrub AKA qat
 bushsr;50
 bushsrera;30
 bushtea;30
@@ -23538,6 +23543,7 @@ franciscopizarro;60
 franciscrick;60;Watson and Crick
 francisdrake;60
 francisfordcoppola;60
+Francis X. Bushman;50;Silent film actor, director, writer (1883–1966)
 franfine;50
 frangipane;40;French custard
 frangipani;50;Flower
