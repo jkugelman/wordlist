@@ -61354,6 +61354,7 @@ spatup;40
 spavin;20
 spavined;20
 spawner;30
+SPCA;40;Society for the Prevention of Cruelty to Animals
 speakillof;50
 speakingillof;50
 speakingof;60
