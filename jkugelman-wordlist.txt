@@ -12669,6 +12669,8 @@ cointoss;50
 cointosses;50
 cointrick;50
 cointricks;50
+coir;20;Coconut fiber
+coirs;20;Coconut fibers
 coital;50
 cojones;60
 cokebottle;50
