@@ -28099,6 +28099,8 @@ headbutting;60
 headbutts;60
 headcanon;60
 headcanons;60
+head chain;50;Metal hair accessory
+head chains;50;Metal hair accessories
 headchef;60
 headchefs;60
 headcount;60
