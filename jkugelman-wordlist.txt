@@ -868,6 +868,11 @@ actionstars;50
 actium;20;Greek battle site
 activ;40
 activa;40
+active ingredient;60
+active ingredients;60
+active learner;60
+active learners;60
+active learning;60
 activemember;50
 activemembers;50
 activeroster;50
@@ -4028,6 +4033,7 @@ arynasabalenka;50;World #1 women's tennis player Aryna Sabalenka
 as;50
 asa;40
 asabell;20
+as a cat;20
 asada;40
 asafetida;30;Indian spice
 asafoetida;30;Indian spice
@@ -6347,6 +6353,7 @@ beclouding;30
 beclouds;30
 become aware of;40
 becomeobsolete;50
+becomes a cat;20
 becomes aware of;40
 becomesobsolete;50
 becoming aware of;40
@@ -17092,6 +17099,7 @@ dogdays;60
 dogdom;40
 dogdoor;50
 dogdoors;50
+dogdotrotratcat;0
 doge;30
 dogear;60
 dogeared;60
@@ -21192,6 +21200,7 @@ ezines;30
 ezpz;50
 ezr;20
 f;40
+F-14 Tomcat;60
 fa;40
 faa;40
 fab;50
@@ -21566,6 +21575,9 @@ farina;40
 farinas;20
 faris;40;Anna Faris
 farmbelt;50
+farm cat;60
+farm cats;60
+farmcats;60
 farmed;50
 farmerstan;50;???
 farmstand;60
@@ -22421,6 +22433,7 @@ firesashot;50
 firesat;40
 firesaway;40
 fireseason;50
+fireside cat;20
 fireson;40
 firesonallcylinders;60
 firestorm;60
