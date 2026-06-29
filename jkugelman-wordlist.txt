@@ -10702,7 +10702,10 @@ cbcnews;40
 cbd;40;Cannabanoid oil
 cber;40
 cbers;40
-cbgb;20;NYC punk and new wave club
+CBGB;40;Legendary NYC punk and new wave club (Country, Bluegrass, Blues, and Other Music For Uplifting Gourmandizers)
+CBGB and OMFUG;60;Legendary NYC punk and new wave club (Country, Bluegrass, Blues, and Other Music For Uplifting Gourmandizers)
+CBGB & OMFUG;60;Legendary NYC punk and new wave club (Country, Bluegrass, Blues, and Other Music For Uplifting Gourmandizers)
+CBGB's;40;Legendary NYC punk and new wave club (Country, Bluegrass, Blues, and Other Music For Uplifting Gourmandizers)
 cbhandle;50
 cbhandles;50
 cbradio;50
