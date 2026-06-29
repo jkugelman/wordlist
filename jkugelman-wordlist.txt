@@ -877,6 +877,7 @@ activemember;50
 activemembers;50
 activeroster;50
 activerosters;50
+actives;40
 actnatural;60
 actnormal;60
 actofparliament;50
