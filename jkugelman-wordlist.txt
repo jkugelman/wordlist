@@ -13508,6 +13508,7 @@ cordcutter;60
 cordcutters;60
 cordcutting;60
 cordero;30;???
+corecore;60;2020s Internet aesthetic and artistic movement
 corespondent;40;Person cited in a divorce case as having committed adultery with the respondent
 corespondents;40
 corevalue;50
