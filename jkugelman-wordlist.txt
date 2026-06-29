@@ -55943,6 +55943,9 @@ sacamaindevoyage;50;Hermès's Kelly bag, formerly (sac à main de Voyage)
 saccule;30;Inner ear organ
 sacha;40;Sacha Baron Cohen
 sachar;40;"Holes" novelist Louis Sachar
+Sachin;40;Sachin Tendulkar, Indian cricketer dubbed the "God of Cricket" (born 1973)
+Sachin Tendulka;0;Misspelling
+Sachin Tendulkar;50;Indian cricketer dubbed the "God of Cricket" (born 1973)
 sackbackgown;50
 sackbackgowns;50
 sackbut;40;Trombone precursor
