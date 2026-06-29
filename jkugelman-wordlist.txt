@@ -15033,6 +15033,7 @@ danseuse;40;Female ballet dancer
 danseuses;40
 dansk;30;???
 danteii;20
+Danticat;40;Haitian-American novelist and short story writer (born 1969)
 danton;30;French Revolution figure Georges Danton [used often pre-Shortz, only once post-]
 danzig;50
 dao;20
@@ -18983,6 +18984,7 @@ edwardv;30
 edwardvi;30
 edwardvii;30
 edwardviii;30
+Edwidge Danticat;50;Haitian-American novelist and short story writer (born 1969)
 edwina;30
 edy;40
 ee;40
@@ -27476,6 +27478,8 @@ hamburgermenus;60;Triple-line menu
 hamer;40;Civil rights activist Fannie Lou Hamer, or Frank Hamer who tracked down Bonnie and Clyde
 hamidkarzai;50
 hamilton;60
+Hamilton Ti-Cat;50;Hamilton Tiger-Cats, Canadian Football League team
+Hamilton Ti-Cats;50;Hamilton Tiger-Cats, Canadian Football League team
 hamingwaychampagne;60;Cocktail
 hamite;20
 hamites;20
@@ -67472,6 +67476,8 @@ tibiae;30
 tic;50
 tical;20;Siamese coin
 ticals;20
+Ti-Cat;30;Hamilton Tiger-Cats, Canadian Football League team
+Ti-Cats;30;Hamilton Tiger-Cats, Canadian Football League team
 ticha;40;WNBA all-star Ticha Penicheiro
 tickertape;50
 tickertapes;50
