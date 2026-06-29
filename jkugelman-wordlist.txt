@@ -45759,6 +45759,7 @@ onthebigscreen;60
 onthebottle;30
 onthecompanydime;60
 onthedancefloor;50
+on the fence;60
 onthehairyedge;60
 onthehairyedgeof;60
 onthehook;50
@@ -64181,13 +64182,16 @@ swinge;30;???
 swinger;60
 swingera;50
 swingers;60
+swing for the fences;60
 swingingat;40
 swingingaway;50
+swinging for the fences;60
 swingmechanics;60;Golf
 swingmusic;60
 swingofthings;60
 swingsat;40
 swingsaway;50
+swings for the fences;60
 swingshift;50
 swingshifts;50
 swingstate;50
@@ -64270,6 +64274,7 @@ swound;30;Faint, archaically
 sws;20
 swungat;40
 swungaway;50
+swung for the fences;60
 sybarite;40;Sensualist, hedonist
 sybil;40;"Downton Abbey" daughter
 syd;40;Pink Floyd singer Barrett
@@ -66332,6 +66337,8 @@ thefbibuilding;30
 thefda;20
 thefed;50
 thefellowshipofthering;60
+The Fenlands;50;Area of low lying land in eastern England
+The Fens;50;Area of low lying land in eastern England
 thefineprint;50
 thefins;20;???
 thefirstletters;0
