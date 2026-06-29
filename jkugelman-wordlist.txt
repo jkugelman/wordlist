@@ -60416,6 +60416,7 @@ snifter;50
 snifters;50
 sniglet;40;Made up joke word
 sniglets;40
+snikt;40;Sound of Wolverine's claws emerging
 snillocmot;0
 snip;50
 snipeat;40
