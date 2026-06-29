@@ -7625,6 +7625,14 @@ blowyourownhorn;50
 blt;50
 blts;50
 blu;20
+blueball;10
+blue-ball;10
+blueballed;10
+blue-balled;10
+blueballing;10
+blue-balling;10
+blueballs;10
+blue-balls;10
 bluebeard;50
 bluebeetle;50;D.C. superhero movie
 bluebells;50
