@@ -36815,6 +36815,7 @@ likeshareandsubscribe;60
 likesto;40
 liketakingcandyfromababy;60
 likethedickens;60
+like this;60
 liketo;40
 likewaterforchocolate;60
 likeyouwouldntbelieve;60
@@ -72725,6 +72726,7 @@ weredonefor;60
 weredonehere;60
 werefreshout;60
 wereinbigtrouble;60
+we're like this;60;"We are *this* close" 🤞
 werenext;50
 werenogoodtogether;60
 werenotbuyingit;60
