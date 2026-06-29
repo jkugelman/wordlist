@@ -36603,6 +36603,8 @@ libration;20
 libre;40
 libres;40;Cuba libres
 libris;40;Ex libris???
+libro;40;Book, in Spanish
+libros;40;Books, in Spanish
 lic;40;License [common]
 licensefee;50
 licensefees;50
