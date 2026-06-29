@@ -17307,7 +17307,7 @@ donetodeath;60
 donetsk;20;Ukrainian city
 donezo;60
 dongs;50
-donimus;50
+Don Imus;50;Morning radio shock jock (1940-2019)
 donking;50
 donmartin;50
 donnas;30;Italian women, or plural name
