@@ -2081,6 +2081,8 @@ allfiredup;60
 allflashnocash;60
 allforfree;50
 allforms;60
+all for one;60
+all for one and one for all;60;"The Three Musketeers" motto
 allfours;60
 allgirl;40
 allgood;60
@@ -45533,6 +45535,9 @@ onefingersalute;60
 onefishtwofishredfishbluefish;60;Dr. Seuss book
 onefluidmotion;50
 onefold;20
+one for all;60
+one for all, all for one;60;Unofficial motto of Switzerland
+one for all and all for one;60;Unofficial motto of Switzerland
 oneforthebooks;60
 onefortheroad;60
 onefranc;30
@@ -68583,6 +68588,7 @@ touristmaps;50
 tournedos;40;French steak dish tournedos Rossini
 tourofduty;50
 toursofduty;50
+Tous pour un, un pour tous;60;"The Three Musketeers" motto
 touter;30
 touters;30
 tov;40
@@ -70573,6 +70579,7 @@ untwisting;50
 untwists;50
 unu;20;Burmese leader
 unum;40
+Unus pro omnibus, omnes pro uno;60;"One for all, all for one" (unofficial motto of Switzerland)
 unwiser;30
 unwisest;30
 unwon;50
