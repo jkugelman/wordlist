@@ -35681,9 +35681,11 @@ lavacakes;50
 lavaflow;50
 lavage;30;Washing out of a body cavity, medical
 lavages;30
+Laval;30;Montreal suburb
 lavalier;30;Chained pendant
 lavaliere;30;Chained pendant
 lavalieres;30;Chained pendant
+Laval Quebec;40;Montreal suburb
 lavalse;40;Ravel's "La valse"
 lavar;30;???
 lavas;40;Weird plural
