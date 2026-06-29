@@ -16939,6 +16939,7 @@ doatakeon;20
 doavanishingact;60
 dob;40
 dobby;10;Harry Potter
+do be do be do;50;Sinatra syllables
 dobiegillis;40;1960s sitcom
 dobusiness;40
 doc;50
@@ -67926,6 +67927,7 @@ tobear;20
 tobeclear;50
 tobefrank;50
 tobehad;20;Long partial
+to be is to do;60;Quote often attributed to Sartre
 tobesafe;50
 tobesure;50
 Tobias Fünke;60;"Arrested Development" character
@@ -67942,6 +67944,7 @@ todays;30
 toddlersandtiaras;60
 todeath;50
 todman;30;Adrianne Todman, Biden's HUD Secretary
+to do is to be;60;Quote often attributed to Socrates
 todolist;60
 todolists;60
 toe;50
