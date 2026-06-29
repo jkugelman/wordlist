@@ -45672,6 +45672,7 @@ onhard;0
 onhire;40;In service, British slang
 onhrt;40
 oni;40;Japanese demon, or Navy ONI
+on in;20;Partial
 onionbagel;60
 onionbagels;60
 oniondome;60
