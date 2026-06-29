@@ -72907,6 +72907,8 @@ whatmeworry;60
 whatnotevenathankyou;60
 whatsahoe;60
 whatsallthisthen;60
+what's a nice girl like you doing in a place like this?;60
+what's a nice girl like you doing in a place like this;0
 whatsayyou;60
 whatscookinggoodlooking;60
 whatscookingoodlookin;60
@@ -73186,6 +73188,13 @@ whoyagonnacall;60
 whoyagonnacallghostbusters;60
 why;50
 whyamiseeingthis;60
+why are we whispering?;60
+why are we whispering;0
+why are you here?;60
+why are you here;0
+why are you like this?;60
+why are you like this;0
+why are you this way?;60
 whybackinmyday;60
 whydoesitmatter;60
 whydoesthisalwayshappentome;60
@@ -74641,6 +74650,8 @@ youknowwhat;60
 youknowwhatimean;60
 youknowwhatimsaying;60
 youknowwhoyouare;60
+you live like this?;60
+you live like this;0
 youllbefine;60
 youllbemissed;50
 youllbesorry;60
