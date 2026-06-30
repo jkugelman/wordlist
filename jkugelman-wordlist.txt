@@ -4041,6 +4041,7 @@ arum;30;Lily genus
 arums;30
 arundhati;40
 arundhatiroy;40
+A Rush of Blood to the Head;60;2002 studio album by Coldplay
 a rut;30
 ary;20
 arya;40
@@ -8913,6 +8914,9 @@ brusheson;40
 brush-footed butterflies;50
 brush-footed butterfly;50
 brushingon;40
+brush off;50
+brush-off;50
+brush-offs;50
 brushon;40
 brusselsbelgium;30;???
 bryans;30;Plural name
@@ -19831,6 +19835,8 @@ endogeny;40
 endon;40
 endora;30;Bewitched witch
 endorphin;50
+endorphin rush;60
+endorphin rushes;60
 endorphins;50
 endorsee;40
 endorsees;40
@@ -24636,6 +24642,7 @@ gaveground;50
 gaveitago;50
 gaveittheoldcollegetry;60
 gaveitto;40
+gave the brush-off;60
 gavethegreenlight;60
 gavetherunaround;60
 gavethesilenttreatment;60
@@ -25485,6 +25492,7 @@ giveittomestraight;60
 givemeahand;60
 givemeonereason;60
 givemesomespace;60
+given the brush-off;60
 giventhegreenlight;60
 givento;40
 givenzerofucks;10
@@ -25497,12 +25505,14 @@ givesground;50
 givesitago;50
 givesittheoldcollegetry;60
 givesitto;40
+gives the brush-off;60
 givesthegreenlight;60
 givestherunaround;60
 givesthesilenttreatment;60
 givesway;50
 giveswayto;40
 giveszerofucks;10
+give the brush-off;60
 givethegreenlight;60
 givetherunaround;60
 givethesilenttreatment;60
@@ -25520,6 +25530,7 @@ givingground;50
 givingitago;50
 givingittheoldcollegetry;60
 givingitto;40
+giving the brush-off;60
 givingthegreenlight;60
 givingtherunaround;60
 givingthesilenttreatment;60
@@ -56006,6 +56017,9 @@ rushers;30
 rushesat;40
 rushesheadlonginto;50
 rushesinto;40
+rushes of blood;60
+rushes of blood to the head;60
+rushes of endorphins;60
 rushesto;40
 rushheadlonginto;50
 rushingat;40
@@ -56014,6 +56028,9 @@ rushinginto;40
 rushingto;40
 rushinto;40
 rushmore;60
+rush of blood;60
+rush of blood to the head;60
+rush of endorphins;60
 rushorder;60
 rushorders;60
 rushto;40
