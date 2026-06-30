@@ -60625,11 +60625,13 @@ sno;40
 snobappeal;60
 snocone;50
 snocones;50
+Snoo;40;Reddit mascot
 snood;40;Female headgear
 snoods;40;Female headgear
 snook;30;Fish, or gesture
 snookercue;50
 snookercues;50
+Snooki;40;"Jersey Shore" cast member
 snookums;60
 snoopier;40
 snoopiest;40
