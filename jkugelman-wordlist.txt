@@ -6727,6 +6727,7 @@ bergybit;60;Very small iceberg
 bergybits;60
 beriberi;40;Thiamin deficiency
 berlusconi;50
+Berman;40;Chris Berman, long-time "SportsCenter" anchor
 bernardherrmann;50
 bernardi;30;Herschel Bernardi of "Peter Gunn"
 bernerslee;50
@@ -7238,6 +7239,7 @@ birettas;30
 birkin;40;World famous Hermès purse
 birkinbag;60;World famous Hermès purse
 birkinbags;60
+Birman;30;Cat breed, the "Sacred Cat of Burma"
 birminghamal;40
 birthdayboy;60
 birthdayboys;50
@@ -8233,6 +8235,7 @@ borge;40;Comedy pianist Victor Borge
 boric;40;Boric acid
 boring;50
 boriskarloff;60
+Borman;30
 borninto;40
 bornsexyyesterday;60
 bornto;40
@@ -9194,6 +9197,7 @@ burlily;30;Weird adverb
 burling;40
 burls;30;Knots in a tree or cloth
 burly;50
+Burman;30
 burmesepython;50
 burmesepythons;50
 burndaylight;60
@@ -11809,6 +11813,7 @@ choy;40;Bok choy, La Choy soy sauce
 chr;20
 chreaster;60;Christian slang for someone who only goes to church on Christmas and Easter
 chreasters;60
+Chris Berman;50;Long-time "SportsCenter" anchor
 chrisbosh;50
 Chris Cuomo;50;CNN anchor 2013-21, fired after helping brother Andrew with sexual harrassment allegations
 chrisisaak;50
