@@ -20618,7 +20618,8 @@ esurance;30;Insurance company
 esurience;30;Greed
 esurient;30;Greedy
 et;40
-eta;50
+eta;50;Greek letter Η or η
+ETA;40;Estimated time of arrival
 etagere;40;Display case
 etageres;40
 etail;30
@@ -20650,7 +20651,7 @@ etchers;40
 etchesin;40
 etchin;40
 etchingin;40
-etd;40
+ETD;40;Estimated time of departure
 etds;40
 ete;40
 etee;20
