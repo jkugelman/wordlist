@@ -1023,6 +1023,7 @@ adeste;40;Adeste Fideles (O Come, All Ye Faithful)
 adeux;40;For two
 adexec;50
 adexecs;50
+Adeyemi;40;Tomi Adeyemi, Nigerian-American novelist (born 1993)
 adfee;40
 adfees;40
 adfreeexperience;60
@@ -15980,7 +15981,9 @@ denarius;30;Roman coin
 denaturant;30
 denaturants;30
 dendra;30;Nerve cell parts
+Dene;30;Indigenous people in northern Canada
 Deneb;30;Alpha Cygni
+Denebola;40;Second brightest star in the Leo constellation
 Denes;40;Agnes Denes, Conceptual artist based in New York City
 deng;30;Chinese leader
 dengxiaoping;50;Chinese leader 1978-1989
@@ -17572,6 +17575,7 @@ doreen;30;Mouseketeer Doreen Tracey
 doric;40
 dories;30;Fishing boats
 dorislee;50
+Doris Lessing;50;Nobel Prize in Literature in 2007
 dorma;40;Puccini's "Nessun Dorma"
 dormer;40;Roof window
 dormers;40
@@ -17986,6 +17990,10 @@ drheinzdoofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 drhenryjekyll;60
 drhenryjonesjr;60
 drhook;40;'70s rock band
+Dr. Horrible;60
+Dr Horrible;0
+Dr. Horrible's Sing-Along Blog;60
+Dr Horrible's Sing-Along Blog;0
 dri;20
 driblet;30
 driblets;30
@@ -19443,6 +19451,9 @@ elia;40;Elia Kazan
 elicitor;30
 elie;40;Elie Wiesel
 elieli;20;Hebrew song
+Elif;30;Writer Elif Batuman or Elif Shafak
+Elif Batuman;50;American writer and academic (born 1977)
+Elif Shafak;50;Turkish novelist, essayist and women's rights activist (born 1971)
 eligiblereceiver;60
 eligiblereceivers;60
 elihu;40;Critic of Job, statesman Elihu Root
@@ -36496,6 +36507,7 @@ lesserape;60
 lesserapes;60
 lesserof;20
 lessexpensive;50
+Lessing;40;Doris Lessing, Nobel Prize in Literature in 2007
 lessinteresting;50
 lessof;40
 lesson;50
@@ -42365,6 +42377,7 @@ nacrite;30;Mineral
 nacrous;40;Of or resembling pearl
 nada;50
 nadasurf;50
+Na-Dene;30
 naderite;40
 naderites;40
 naders;20;Nader's Raiders consumer group
@@ -52776,6 +52789,7 @@ Raya;40;Disney's "Raya and the Last Dragon" (2021)
 Raya and the Last Dragon;50;2021 Disney movie
 rayban;50
 raybans;50
+Ray Charles Singers;50;Group that accompanied Perry Como on TV for 35 years
 raye;40;1950s comedian Martha Raye
 raygun;60
 Ray Gunn;50;2026 animated neo-noir film by Brad Bird
@@ -66970,6 +66984,7 @@ therapysession;50
 therapysessions;50
 theratrace;20
 theravada;40;Branch of Buddhism
+The Ray Charles Singers;50;Group that accompanied Perry Como on TV for 35 years
 there;50
 thereal;0
 therealhousewives;60
@@ -68362,6 +68377,8 @@ tomfoolery;60
 tomfools;60
 tomhanks;60
 tomharkin;30;Iowa senator 1985-2015
+Tomi;40;Tomi Adeyeme, Nigerian-American novelist (born 1993)
+Tomi Adeyemi;50;Nigerian-American novelist (born 1993)
 tomizzo;40;Tom Izzo, Michigan State basketball coach in the Hall of Fame
 tomkenny;60;Voice of SpongeBob
 tomlin;40;Lily Tomlin
