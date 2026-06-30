@@ -1888,6 +1888,8 @@ alecmazo;50
 alecost;20
 alecto;40;One of the three Furies [occasional]
 alee;40
+ale glass;40
+ale glasses;40
 alegup;40
 aleichem;40;Hebrew greeting "shalom aleichem"
 aleister;40
@@ -1910,8 +1912,8 @@ alertto;40
 ales;50
 alessi;20;Italian houseware brand
 alet;20
-aletap;30
-aletaps;30
+ale tap;30
+ale taps;30
 aletter;0
 alewife;30;Herring
 alewives;30;Herrings
