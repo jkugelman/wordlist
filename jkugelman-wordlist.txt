@@ -599,6 +599,7 @@ academicyears;50
 acaipuree;20
 acaipurees;20
 acake;20
+a canal;20
 acanthus;20;Plant genus
 acanticleforleibowitz;50
 acaricide;30;Pesticide
@@ -2405,7 +2406,9 @@ amala;30;Amala Dlamini aka Doja Cat
 amalie;40;Charlotte Amalie, capital of the Virgin Islands
 amana;40;Kitchen appliance brand
 amanapart;50
-amanaplanacanal;60
+a man a plan;30
+a man a plan a canal;40
+a man a plan a canal Panama;60
 amanas;40
 amanita;40;Mushroom genus
 amanoramouse;60
@@ -4030,6 +4033,7 @@ arum;30;Lily genus
 arums;30
 arundhati;40
 arundhatiroy;40
+a rut;30
 ary;20
 arya;40
 aryan;10
@@ -20273,6 +20277,7 @@ ereaders;50
 erebus;40;Greek god, Antarctic volcano
 erecter;30;More erect
 erecters;30
+ere I saw Elba;40
 eremite;30;Christian hermit
 eremites;30
 eremitic;30
@@ -43697,7 +43702,7 @@ noho;40
 nohogging;60
 nohorsingaround;60
 no hugging no learning;60;Larry David's philosophy on "Seinfeld"
-noi;20
+no I;20
 noia;20
 noice;40
 noidea;60
@@ -45281,7 +45286,7 @@ oksure;50
 okthen;50
 oktober;50
 okurr;20
-ola;30;Greeting or suffix [extremely common]
+ola;40;Greeting or suffix [extremely common]
 olaf;40
 olafharaldsson;40;Saint Olaf
 olafi;30
