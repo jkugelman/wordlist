@@ -1890,8 +1890,8 @@ alecmazo;50
 alecost;20
 alecto;40;One of the three Furies [occasional]
 alee;40
-ale glass;40
-ale glasses;40
+ale glass;30;Contrived
+ale glasses;30;Contrived
 alegup;40
 aleichem;40;Hebrew greeting "shalom aleichem"
 aleister;40
@@ -27569,6 +27569,7 @@ halfvolleyed;50
 halfvolleys;50
 halfwit;50
 halkemp;50
+Halle an der Saale;50;City in Saxony-Anhalt, Germany
 hallmonitor;60
 hallmonitors;60
 hallo;40
@@ -56103,6 +56104,9 @@ rys;20
 s;40
 sa;40
 saag;40
+Saale;30;River in Germany
+Saale glaciation;50;Glacial period in Europe
+Saale river;40;River in Germany
 saaremaa;30;Estonian island
 saatchi;30;Ad agency Saatchi & Saatchi
 sab;20
