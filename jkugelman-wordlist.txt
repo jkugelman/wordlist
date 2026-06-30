@@ -14110,6 +14110,7 @@ creditedto;40
 creditedwith;40
 creditingto;40
 creditingwith;40
+credit or debit?;60
 creditreport;50
 creditreports;50
 creditscore;50
@@ -15507,6 +15508,7 @@ debateteam;50
 debateteams;50
 debbiedowner;60
 debbiedowners;60
+debit or credit?;60
 deboner;40
 deboners;40
 debose;40;Actress/singer Ariana DeBose of "Hamilton" and "West Side Story"
@@ -27950,6 +27952,7 @@ hatecrime;10
 hatecrimes;10
 hatedto;40
 hateit;50
+hate it or love it;30
 hatemail;60
 hateread;60;Find joy in bad writing
 hatereading;60
@@ -30294,6 +30297,7 @@ icanseeagain;50
 icanseebothsides;60
 icanso;50;Playground retort
 icantakeit;60
+I can take it or leave it;60
 icantbebothered;60
 icantbelieveit;60
 icantbelieveitsactuallyhappening;60
@@ -30458,6 +30462,7 @@ icouldjustgobbleyouup;60
 icouldkissyou;60
 icouldntcareless;60
 icouldntpossibly;60
+I could take it or leave it;60
 icoulduseadrink;60
 icried;30;Song title
 icry;30;Song title
@@ -38763,6 +38768,7 @@ makeheadsroll;60
 makeitfast;60
 makeitlookeasy;60
 makeitmakesense;60
+make it or break it;60
 makeitpop;60
 makeitquick;60
 makeitsnappy;60
@@ -41702,6 +41708,7 @@ moveforward;50
 moveinon;40
 moveinto;40
 moveit;50
+move it or lose it;60
 movepastit;60
 movesforward;50
 movesinon;40
