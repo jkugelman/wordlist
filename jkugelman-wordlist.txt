@@ -28385,7 +28385,16 @@ heartsurgeon;60
 heartsurgeons;60
 hearttoheart;60
 heatandserve;50
-heatdeath;60
+heat damage;50
+heat death;60;Possible fate of the universe
+heat death of the universe;60;Possible fate of the universe
+heat detector;50;Type of fire alarm
+heat detectors;50;Type of fire alarms
+heat diffuser;50;Cooking utensil to make burner heat more gentle and even
+heat diffusers;50;Cooking utensils to make burner heat more gentle and even
+heat dissipation;50
+heat dome;60;Extreme heat caused by a stationary high-pressure system
+heat domes;60;Extreme heat caused by stationary high-pressure systems
 heatedseat;60
 heatedseats;60
 heatindex;50
