@@ -1267,6 +1267,7 @@ afcteams;40
 afcwest;40
 afeared;30
 A Feast for Crows;60;A Song of Ice and Fire book #4
+a feather in one's cap;60
 a few choice words;60
 afewwords;50
 affairoftheheart;60;Phrase, or Rick Springfield song
@@ -3248,6 +3249,7 @@ apchinese;50
 apcs;20
 ape;50
 apedom;50
+Ape Escape;60;Video game series
 apelet;20
 apelets;20
 apenglish;50
@@ -17099,6 +17101,10 @@ doestoatee;40
 doestoo;40;Playground retort
 doesup;50
 doeth;40
+doffed one's cap;60
+doffing one's cap;60
+doff one's cap;60
+doffs one's cap;60
 dofor;40
 dog;50
 dogballoon;60
@@ -18389,7 +18395,8 @@ dumpsters;50
 dun;20
 duncecap;60
 duncecaps;50
-duncescap;60
+dunce's cap;60
+dunces' caps;60
 dundalk;20;Maryland/Ireland town
 dune buggies;60
 dune buggy;60
@@ -20394,20 +20401,43 @@ escalopes;40
 escamillo;40;Toreador character in "Carmen"
 escapeact;60
 escapeacts;60
+escape attention;50
+escaped attention;50
 escapedconvict;60
 escapedconvicts;60
-escapedfrom;40
-escapedto;40
-escapefrom;40
+escaped from;40
+escaped notice;50
+escaped punishment;50
+escaped to;40
+escape from;40
+Escape from L.A.;60
+Escape from LA;0
+Escape from New York;60
+escape notice;50
+escape punishment;50
 escaper;30
+escape room;60
+escape rooms;60
 escapers;30
-escapesfrom;40
-escapesto;40
-escapeto;40
+escapes attention;50
+escapes from;40
+escapes notice;50
+escapes punishment;50
+escapes to;40
+Escape (The Piña Colada Song);60
+escape to;40
+Escape to the Sun;50;1972 drama film
+Escape to Witch Mountain;50;1968 science fiction novel by Alexander Key / Disney adaptation
 escapevalve;50
 escapevalves;50
-escapingfrom;40
-escapingto;40
+escaping attention;50
+escaping from;40
+escaping notice;50
+escaping punishment;50
+escaping to;40
+escapologist;60
+escapologists;60
+escapology;60
 escargots;40;Valid plural
 escarp;30
 escarped;30
@@ -21862,6 +21892,7 @@ featherboas;60
 featheredbangs;60
 featheredhair;60
 featheredsidebangs;60
+feather in one's cap;60
 feathersthenest;60
 featurearticle;60
 featurearticles;60
@@ -26704,6 +26735,7 @@ greatdayforup;60;Dr. Seuss book
 greateagle;60;Massive bird from "The Lord of the Rings"
 greateagles;60
 greaten;30
+Great Escape;60
 greatestgeneration;60
 greatfallsmt;30
 greatgrate;0
@@ -39885,6 +39917,7 @@ meanmugged;60
 meanmugging;60
 meanmugs;60
 meanness;40
+means of escape;60
 meansomething;50
 meansto;40
 meanstreets;60
@@ -44008,6 +44041,7 @@ notenoughcoffee;60
 noteof;20
 noter;40
 noters;40
+not escape;20
 noteven;50
 notevenathankyou;60
 notevenonce;60
@@ -58104,6 +58138,7 @@ sesameseedbagels;60
 sesameseeds;60
 sesamest;40;Sesame St.
 sesamestreet;60
+sescape;20
 sesenta;40
 sesh;40
 sessatimed;0
@@ -66431,6 +66466,8 @@ theendisnigh;60
 theentertainer;60
 theepa;20
 theerastour;60
+The Escape Artist;50;1982 American film / 2013 BBC thriller series
+The Escape Club;50;English pop rock band formed in 1983
 theespys;40
 the EU;40
 the euro;30
@@ -66863,6 +66900,7 @@ theregoestheneighborhood;60
 thereisa;0
 thereisaidit;60
 thereisnochoice;60
+there is no escape;60
 thereisnosilverbullet;60
 thereitis;60
 theremainsoftheday;60
@@ -66879,6 +66917,7 @@ therese;40;Saint Thérèse of Lisieux
 theresmorewherethatcamefrom;60
 theresnodoubtaboutit;60
 theresnoeasywaytosaythis;60
+there's no escape;60
 theresnoexcuse;60
 theresnoexcuseforyou;60
 theresnosilverbullet;60
@@ -67890,12 +67929,20 @@ tiplines;50
 tipofoneshat;60
 tipofonestongue;60
 tiponeill;50
+tip one's cap;60
+tip one's cap to;60
+tipped one's cap;60
+tipped one's cap to;60
 tippet;30;Hanging end of a sleeve, cap, or hood
 tippets;30
+tipping one's cap;60
+tipping one's cap to;60
 tiproast;50
 tipsandtricks;60
 tipsheet;60
 tipsheets;60
+tips one's cap;60
+tips one's cap to;60
 tipster;50
 tipsters;50
 tiptoethroughthetulips;50
@@ -70479,6 +70526,9 @@ unitcircles;50
 unitedly;40
 unitedstates;50
 unitedstatescamelcorps;50
+United States Capitol;60
+United States Capitol Building;60
+United States Capitol rotunda;60
 unitedstatespresident;50
 unitedstatespresidents;50
 unitive;30
@@ -72543,6 +72593,8 @@ weedgummy;60
 weedrop;30;Scottish green paint
 weedtea;60;Tea from cannabis or weeds
 weefolk;50
+weekend escape;60
+weekend escapes;60
 weekendupdate;60
 weeklyallowance;50
 weeknd;60;The Weeknd, singer-songwriter and 2021 Super Bowl halftime show
