@@ -19304,8 +19304,16 @@ ekistics;30;Science of human settlements
 eku;20
 el;40
 ela;20
+elaborated on;40
+elaborated upon;40
+elaborate on;40
 elaboratesetpiece;60
 elaboratesetpieces;60
+elaborates on;40
+elaborates upon;40
+elaborate upon;40
+elaborating on;40
+elaborating upon;40
 elainebenes;50
 elaines;30
 elal;50
