@@ -62896,6 +62896,7 @@ stewpots;50
 stfu;10
 stg;20
 stge;20
+STI;20
 stickhorse;50
 stickhorses;50
 stickingitto;40
@@ -63018,6 +63019,7 @@ stirsthepot;60
 stirs up a hornet's nest;60
 stirthepot;60
 stir up a hornet's nest;60
+STIs;20
 stiver;20
 stivic;30;Mike Stivic, Rob Reiner's "All in the Family" character
 stix;40
