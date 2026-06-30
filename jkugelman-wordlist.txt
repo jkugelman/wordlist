@@ -2791,6 +2791,7 @@ andaman;30;Indian islands
 andanotherthing;60
 andantes;30
 and a partridge in a pear tree;60
+...and baby makes three;60
 andbobsyouruncle;60
 andbows;0
 andco;40
@@ -5102,6 +5103,7 @@ babygirl;60
 babyjogger;50
 babyjoggers;50
 babymac;60;Mini Big Mac
+baby makes three;50
 babymama;60
 babymamas;60
 babyname;60
@@ -6948,6 +6950,7 @@ biers;50
 biffhenderson;50
 biffloman;50
 big;50
+big 3-0;60
 biga;20
 bigapple;60
 bigbad;60;Trope
@@ -7020,6 +7023,7 @@ bigscene;60
 bigsleep;60
 bigslick;60;Ace-king in poker
 bigtalk;60
+big three-O;60
 bigtime;60
 bigtodo;60
 bigtodos;50
@@ -9810,6 +9814,8 @@ campfire;50
 campfireashes;60
 campground;50
 campgrounds;50
+camphor dune tansies;50;Perennial herbs
+camphor dune tansy;50;Perennial herb
 camphors;40
 campnurse;60
 campnurses;60
@@ -10131,6 +10137,7 @@ caracoles;20
 caractacus;40;1st-century British chieftan, or main character of Chitty-Chitty-Bang-Bang
 caracul;30;Asian sheep/fur
 carads;50
+Cara Dune;50;Character in "The Mandalorian"
 caravaned;30
 carbo;40;Carbo-loading
 carbomb;10
@@ -11138,6 +11145,8 @@ chaplets;20
 Chapman Stick;60;Guitar-like instrument
 Chapman Sticks;60;Guitar-like instruments
 chappellroan;60
+Chapterhouse: Dune;60;1985 novel by Frank Herbert
+Chapterhouse Dune;0
 chapterii;40
 chapterone;50
 characteractor;60
@@ -11566,6 +11575,7 @@ childprooflids;60
 childprooflock;60
 childprooflocks;60
 childproofs;60
+Children of Dune;60;1976 novel by Frank Herbert
 childrensmuseum;50
 childstar;50
 childstars;50
@@ -12901,6 +12911,7 @@ comegetsome;60
 comehereoften;60
 comeinfirst;50
 comeinlast;50
+come in threes;50
 comeinto;40
 comeintobeing;60
 comeintoplay;50
@@ -12939,6 +12950,7 @@ comesfrom;40
 comesfullcircle;60
 comesinfirst;50
 comesinlast;50
+comes in threes;20
 comesinto;40
 comesintobeing;60
 comesintoplay;50
@@ -14913,8 +14925,8 @@ dafuq;50
 dag;30;U.N.'s Dag Hammarskjöld
 dagama;40
 daggerthree;60;Game-securing 3-point shot
-daggerthreepointer;60
-daggerthreepointers;60
+dagger three pointer;60
+dagger three pointers;60
 daggerthrees;60
 dagmar;30;One-named 1950s TV sex symbol
 dagoba;20;Buddhist shrine
@@ -17492,7 +17504,7 @@ doordashers;60
 doormat;60
 doormats;60
 doornumberone;50
-doornumberthree;50
+door number three;50
 doornumbertwo;50
 doorone;40
 dooropener;50
@@ -18377,8 +18389,26 @@ duncecap;60
 duncecaps;50
 duncescap;60
 dundalk;20;Maryland/Ireland town
-dunepartone;50
-duneparttwo;50
+dune buggies;60
+dune buggy;60
+dune cycle;50
+dune cycles;50
+dune cycling;50;Is this real? Doesn't google well
+duned;40;Featuring or formed into dunes
+Dunedin;40;Second-most populous city in the South Island of New Zealand
+Dunedin Florida;50
+duneland;40;Area having many dunes
+dunelike;30;Resembling or characteristic of a dune
+Dune Messiah;60;1969 science fiction novel by Frank Herbert
+Dune: Part One;60;Technically no subtitle
+Dune: Part Three;60
+Dune Part Three;0
+Dune: Part Two;60
+Dune Part Two;0
+Dune Prophecy;60
+dune tansies;50;Perennial herbs
+dune tansy;50;Perennial herb
+Dune universe;60
 dung;40;Dung beetle
 dunged;30
 dungeoncrawlercarl;60
@@ -18607,10 +18637,10 @@ earthpyramids;60
 earthquakedrill;60
 earthquakedrills;60
 earthquakepills;60;Acme invention
-earthreentrymodule;60
-earthreentrymodules;60
-earthreentryvehicle;60
-earthreentryvehicles;60
+Earth reentry module;60
+Earth reentry modules;60
+Earth reentry vehicle;60
+Earth reentry vehicles;60
 earths;40
 earthsea;50
 earthshattering;60
@@ -21546,6 +21576,7 @@ fanservice;60
 fansite;60
 fansites;60
 fantasia;60
+fantasticthree;0
 fantastique;60;Literary genre, or Berlioz's "Symphonie fantastique"
 fantasying;40
 fantod;20
@@ -22622,6 +22653,7 @@ fittv;50
 fiveam;50
 fiveanddime;60
 fivedice;20
+five four three two one;50
 five golden rings;60
 fivehead;60
 fiveiron;50
@@ -25685,6 +25717,7 @@ goddess;60
 goddesses;60
 godeaf;50
 godelescherbach;60
+God Emperor of Dune;60;1981 science fiction novel by Frank Herbert
 godhelpme;60
 godhelpus;60
 godhelpusall;60
@@ -25961,6 +25994,7 @@ goldensnitch;10;Harry Potter
 goldest;30
 goldfishbowl;50
 goldfishbowls;50
+Goldilocks and the Three Bears;60
 goldingot;50
 goldingots;50
 goldlame;50;???
@@ -27163,7 +27197,7 @@ guynoir;60
 gwb;20
 gwbush;50
 gwu;20
-gwynethrees;50;Children's author Gwyneth Rees
+Gwyneth Rees;50;British author of children's books (born 1968)
 gyasi;40;"Homegoing" author Yaa Gyasi
 gym;50
 gymbag;60
@@ -28613,6 +28647,7 @@ heresatip;60
 hereshowitworks;60
 Here's That Rainy Day;50;1953 song by Jimmy Van Heusen and Johnny Burke
 herestomanymore;60
+Heretics of Dune;60;1984 novel by Frank Herbert
 hereto;30
 heretostay;60
 hereunto;40
@@ -31529,6 +31564,8 @@ index funds;60
 index number;50
 index numbers;50
 indextoes;50
+Indiana Dunes;60;National park
+Indiana Dunes National Park;60;National park
 indianahoosier;50
 indianahoosiers;50
 indianajones;60
@@ -35131,6 +35168,7 @@ ladyinthelake;60
 ladyish;30
 ladylike;50
 ladyluck;60
+Lady of the Dunes;50;Murder victim Ruth Marie Terry
 lae;20;Ka Lae, southernmost point in the U.S.
 laertes;40
 lafeeverte;40;Absinthe, la fée verte "the green fairy"
@@ -43821,6 +43859,7 @@ northern giant hornet;50
 northern giant hornets;50
 northof;50;More than
 northpaw;60
+North Reef;50;Various places
 norths;30
 northstar;50
 northstarstate;50
@@ -45485,6 +45524,7 @@ oncedaily;60
 oncee;20
 onceler;50
 onceyoupopyoucantstop;60
+oncloudthree;0
 oncogene;30;Cancer-causing gene
 oncogenes;30
 ond;20
@@ -45710,7 +45750,8 @@ oneton;40
 onetoten;50
 onetotwo;20
 onetwo;40
-onetwothreefour;40
+one two three four;50
+one two three four I declare a thumb war;60
 oneunit;40
 oneupon;40
 onevolt;40
@@ -45816,6 +45857,7 @@ ontheball;60
 onthebigscreen;60
 onthebottle;30
 onthecompanydime;60
+on the count of three;60
 onthedancefloor;50
 on the fence;60
 onthehairyedge;60
@@ -55911,7 +55953,7 @@ rut;50
 rutalee;30
 rutger;40;Rutger Hauer
 ruthann;40;Various obscure
-ruthreeves;50;Painter Ruth Reeves (1892-1966)
+Ruth Reeves;50;American painter, Art Deco textile designer and expert on Indian handicrafts (1892-1966)
 ruthreichl;40
 rutile;40
 rutles;30;Beatles parody band
@@ -64792,6 +64834,7 @@ taler;20;Old coin
 talers;20
 talesman;20;Person added to a jury
 talesmen;20;Persons added to a jury
+Tales of Dune;60;Short story collection by Frank Herbert
 talia;40
 talias;30
 talib;30;Name
@@ -66202,6 +66245,7 @@ thebestofbothworlds;60
 thebestpartofwakingup;60
 The Best Years of Our Lives;50;1946 American drama film directed by William Wyler
 thebible;30
+the big 3-0;60
 thebigapple;60
 thebigbang;40
 thebigbangtheory;60
@@ -66212,6 +66256,7 @@ thebiggame;60
 thebiglie;50;From Hitler
 thebigmo;50;Big Momentum
 thebigsleep;60
+the big three-O;60
 thebigtop;40
 thebigunit;60;Nickname for 6'10" tall pitcher Randy Johnson
 thebillofrights;50
@@ -66326,6 +66371,7 @@ thedarkknightrises;60
 thedarkside;60
 thedarksideofthemoon;60
 thedarktower;60
+The Dark Tower II: The Drawing of the Three;60;Novel by Stephen King
 thedayofthelord;60;Apocalyptic event considered by the prophets in the Hebrew Bible
 thedcuniverse;40
 thede;40;Robin Thede, creator of "A Black Lady Sketch Show" on HBO
@@ -66358,8 +66404,11 @@ thedot;20
 thedotcomboom;20
 thedotcombubble;50
 thedow;20
+The Drawing of the Three;60;Stephen King's "The Dark Tower II: The Drawing of the Three"
 The Drew Carey Show;60
 thedubs;50;1950s doo wop group
+The Dunes;60;Historic casino hotel in Las Vegas, Nevada
+the Dune universe;50
 thee;50;For whom the bell tolls
 theeagles;60
 theearth;30;Various titles, nothing notable
@@ -66533,6 +66582,7 @@ thekingsstilts;60;Dr. Seuss book
 thekinks;60
 thekiss;50;Rodin sculpture
 theknack;50
+The Lady of the Dunes;50;Murder victim Ruth Marie Terry
 thelakers;50
 thelark;30
 The Last Analysis;50;Saul Bellow's only full-length play, not well known
@@ -73664,6 +73714,7 @@ wolfpups;50
 wolframite;40
 wolfsbane;50
 wolverine;60
+Woman in the Dunes;50;1964 Japanese New Wave avant-garde arthouse psychological thriller film
 womanlike;40
 womans;40
 wombocombo;60
