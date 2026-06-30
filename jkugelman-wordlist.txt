@@ -43377,6 +43377,7 @@ niello;20;Ornamental metalwork
 niels;40;Niels Bohr
 nieman;40;Harvard's Nieman Foundation for Journalism
 niente;40;Nothing: It.
+Nier;40;2010 Square Enix RPG
 nieto;30;Mexican president, or "grandson"
 nietzsche;60
 niftyfifty;60
