@@ -55610,6 +55610,8 @@ rostral;40
 roswellnm;30
 rosyboa;30;Desert snake
 rot;50
+rota;30;Membership list / Vatican tribunal
+rotas;20;Membership lists / Vatican tribunals
 rotatedin;40
 rotatein;40
 rotatesin;40
