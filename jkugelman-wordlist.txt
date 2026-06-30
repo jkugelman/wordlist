@@ -19673,6 +19673,7 @@ emojis;60
 emoney;30
 emono;20
 emorap;60
+emos;40
 emoter;50
 emoters;50
 emoticon;50
