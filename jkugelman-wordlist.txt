@@ -9731,6 +9731,7 @@ calycle;20
 calyx;30
 calyxes;30
 cam;50
+cama;30;Bed, in Spanish
 camacho;40;???
 camarilla;40;Nefarious inner circle
 camarillo;40;California city pop. 70,741
@@ -42401,6 +42402,8 @@ nailtechnician;60
 nailtechnicians;60
 nailtechs;60
 nailup;40
+Naim;30
+Naima;30;1960 jazz ballad on John Coltrane's "Giant Steps"
 nainsook;30;???
 naipaul;40;Trinidadian writer V.S. Naipaul (Nobel Prize in 2001)
 nair;40;Hair removal brand
@@ -62153,6 +62156,7 @@ srta;40
 srtas;30
 sry;40
 ssa;40;Social Security Administration
+ssam;40;Korean-style food wrap
 sscceennee;0
 sse;30
 sseldees;0
