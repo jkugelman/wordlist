@@ -11217,6 +11217,7 @@ charl;30;Golfer Charl Schwartzel, 2011 Masters winner
 charlatan;50
 charlatans;50
 charlesatlas;60
+Charles Le Brun;50;French painter and art theorist (1619–1690)
 charlesmartinet;50;Voice of Mario
 charli;50;"Brat" singer Charli XCX
 charlieday;50
@@ -19456,6 +19457,9 @@ elion;20
 eliotness;60
 elis;40;Yale students
 elisa;30;"Clueless" actress Elisa Donovan
+Élisabeth Louise Vigée Le Brun;50;French portrait painter (1755–1842)
+Élisabeth Vigée Le Brun;50;French portrait painter (1755–1842)
+Elisabeth Vigee Le Brun;0
 elise;40
 elissa;40;Various: Michigan senator, queen Dido of Carthage
 eliteballknowledge;60
@@ -36185,6 +36189,8 @@ leb;20
 lebeau;40;NFL HOF coach Dick LeBeau
 lebeauf;30;Sabrina Le Beauf from "The Cosby Show"
 lebon;40;Simon of Duran Duran
+Le Brun;30;Either of two French painters
+Lebrun;0
 lecar;30
 lecars;30
 lech;10
@@ -38522,6 +38528,7 @@ madabout;50
 madama;40;Puccini's "Madama Butterfly"
 Madama Butterfly;60
 Madame Butterfly;60
+Madame Le Brun;50;French portrait painter (1755-1842)
 madamepresident;50
 madameweb;60
 mad as a hornet;60
@@ -39403,6 +39410,7 @@ maricopa;40;Arizona county
 marieantoinette;50
 mariecallenders;50
 mariecurie;50
+marielouiseelisabethvigeelebrun;0
 maries;30
 mariette;30;Unsure who [never used in NYT]
 marijuana;60
@@ -71674,6 +71682,8 @@ viewerslikeyou;60
 viewingas;40
 viewsas;40
 vig;50
+Vigée Le Brun;50;Élisabeth Louise Vigée Le Brun, French portrait painter (1755–1842)
+Vigee Le Brun;0
 vigny;20;Alfred de ___
 vii;30
 viii;30
