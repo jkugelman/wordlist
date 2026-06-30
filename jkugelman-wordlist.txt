@@ -5264,6 +5264,8 @@ badcredit;50
 baddate;60
 baddates;60
 baddog;50
+bade adieu;60
+bade adieu to;60
 badegg;60
 badeggs;60
 badegree;40
@@ -6922,10 +6924,12 @@ bicpens;30
 bicyclerace;50
 bicycleraces;50
 bid;50
-bidadieu;50
+bid adieu;60
+bid adieu to;60
 bidday;50;Final part of a sorority or fraternity recruitment period when potential new members receive invitations to join
 biddays;50
-biddingadieu;50
+bidding adieu;60
+bidding adieu to;60
 biddingcontest;50
 biddingcontests;50
 biddingfor;40
@@ -6934,7 +6938,8 @@ biddingwar;50
 biddingwars;50
 bidfor;40
 bidon;40
-bidsadieu;50
+bids adieu;60
+bids adieu to;60
 bidsfor;40
 bidsniper;60
 bidsnipers;60
@@ -7109,6 +7114,7 @@ billto;40
 billw;40;A.A. co-founder
 billybeer;60;Beer made by Jimmy Carter's brother
 billyboy;60
+Billy Hargrove;50;"Stranger Things" character
 billyjoe;40;???
 billymadison;50
 billymayshere;60
@@ -7801,6 +7807,7 @@ Bob Loblaw Law Blog;60;Tongue twister in "Arrested Development"
 Bob Loblaw Lobs Law Bomb;60;Tongue twister in "Arrested Development"
 Bob Loblaw No Habla Español;60;Tongue twister in "Arrested Development"
 boblong;40;Packers quarterback in the 60s and 70s
+Bob Newby;50;"Stranger Things" character played by Sean Astin
 bobross;60
 bobstay;40;Part of a ship's rigging
 bobstays;40
@@ -18462,6 +18469,7 @@ dustcover;60
 dustcovers;60
 dustgun;50
 dustguns;50
+Dustin Henderson;50;One of the "Stranger Things" kids
 dustinthewind;60
 dustjacket;60
 dustjackets;60
@@ -18960,6 +18968,7 @@ edb;20
 edd;40;Edd Hall
 edda;40
 eddiearcaro;50;Hall of Fame jockey
+Eddie Munson;50;"Stranger Things" character
 ede;20
 edebiri;40;Ayo Edebiri of "The Bear"
 edema;40;Fluid retention
@@ -24577,6 +24586,8 @@ gateleg;40;Type of dropleaf table
 gatelegtable;40
 gatelegtables;40
 gateless;30
+Gaten;40;Gaten Matarazzo, actor who plays Dustin on "Stranger Things"
+Gaten Matarazzo;50;Actor who plays Dustin on "Stranger Things"
 gatheredsteam;60
 gatheringsteam;60
 gatherssteam;60
@@ -30292,6 +30303,7 @@ ibexkids;40
 ibf;20
 ibi;20
 ibid;40
+I bid you adieu;60
 ibis;40;Bird
 ibischick;50
 ibischicks;50
@@ -33578,6 +33590,7 @@ jimbeam;50
 jimcameron;50
 jimdandy;50
 jimdavis;50
+Jim Hopper;50;"Stranger Things" character played by David Harbour
 jimirsay;40;Owner of the Indianpolis Colts
 jimkelly;50
 jimmckay;50
@@ -33677,6 +33690,7 @@ joefriday;50
 joegaragiola;40;NBC baseball announcer Joe Garagiola in the '60s-'80s
 joegirardi;50
 joejonas;50
+Joe Keery;50;Actor who plays Steve on "Stranger Things"
 joelembiid;50
 joelouis;50
 joepa;10;Joe Paterno, disgraced Penn State coach
@@ -33768,6 +33782,7 @@ jolters;30
 jon;50
 jonanderson;60
 jonathanbanks;50;Mike Ehrmantraut actor
+Jonathan Byers;50;"Stranger Things" character
 jonboy;30;Celebrity tattooer
 jonesbo;40;Author Jo Nesbø, most successful Norwegian author of all time
 joneses;60
@@ -33808,6 +33823,7 @@ journeyman;50
 journeymen;50
 jovi;40
 joy;50
+Joyce Byers;50;"Stranger Things" character played by Winona Ryder
 joyharjo;40;Joy Harjo, U.S. Poet Laureate 2019-2022
 joyofsex;60
 joyride;60
@@ -34266,6 +34282,7 @@ keeptabson;50
 keepto;40
 keepunderwraps;60
 keepyourshirton;60
+Keery;40;Joe Keery, actor who plays Steve on "Stranger Things"
 keeshan;30;Bob Keeshan aka Captain Kangaroo
 keester;20
 kefir;40
@@ -35208,6 +35225,7 @@ ladyluck;60
 Lady of the Dunes;50;Murder victim Ruth Marie Terry
 lae;20;Ka Lae, southernmost point in the U.S.
 laertes;40
+Laetitia Sadier;50;French singer in the avant-pop band Stereolab (born 1968)
 lafeeverte;40;Absinthe, la fée verte "the green fairy"
 lafitte;40;1800s pirates Jean and Pierre Lafitte
 lafontaine;30;French poet
@@ -38081,6 +38099,7 @@ luc;40
 luca;40
 lucania;30;Historical region of Italy
 lucasarts;60
+Lucas Sinclair;50;One of the "Stranger Things" kids
 Lucca;30;City and comune in Tuscany, Italy
 luce;30;Henry Luce, founder of Time
 lucent;30
@@ -39713,6 +39732,7 @@ maximumwordcount;60
 maximumwordcounts;60
 maximusdecimusmeridius;60;"Gladiator" protagonist
 maxixe;30;Brazilian tango
+Max Mayfield;50;"Stranger Things" character
 maxplanck;60
 maxplayer;20
 maxplayers;20
@@ -40634,6 +40654,7 @@ mikan;40;George Mikan of the NBA
 mikeehrmantraut;50;Mike Ehrmantraut from "Breaking Bad" / "Better Caul Saul"
 mikepatton;50
 mikeportnoy;50
+Mike Wheeler;50;"Stranger Things" kid played by Finn Wolfhard
 miking;50
 mikkelsen;40;Actor Mads Mikkelsen
 mil;40
@@ -42434,6 +42455,7 @@ nance;30;Jack Nance of Twin Peaks, or 1930s VP John Nance Garner (common clue, u
 nances;30;Yellow cherry-sized fruit
 nancherla;40;Comedian Aparna Nancherla of "Bojack Horseman"
 nanci;30;Folk singer Nanci Griffith
+Nancy Wheeler;50;"Stranger Things" character played by Natalia Dyer
 nandrolone;40;???
 nankeen;20
 nankeens;20
@@ -55064,6 +55086,7 @@ robertfripp;50
 robertfrost;50
 roberti;30
 robertprevost;50;Pope Leo XIV
+Robin Buckley;50;"Stranger Things" character played by Maya Hawke
 robinhood;60
 robinia;30;Plant genus
 robinsnest;50
@@ -56122,6 +56145,9 @@ sadexcuse;60
 sadface;60
 sadhu;20
 sadhus;20
+Sadie Hawkins dance;60
+Sadie Hawkins dances;60
+Sadier;40;Laetitia Sadier, French singer in the avant-pop band Stereolab (born 1968)
 sadies;30
 sadiron;30;Type of antique iron
 sadirons;30
@@ -58384,6 +58410,7 @@ sexwax;50
 sexy;60
 sexyprime;50
 sexyprimes;50
+Sexy Sadie;60;1968 song by the Beatles
 sexyvoice;60
 sexyy;50;2023 breakout rapper Sexyy Red
 sexyyred;60;2023 breakout rapper Sexyy Red
@@ -62850,7 +62877,8 @@ stetted;40
 stetting;40
 steuben;40
 steveguttenberg;50
-stevehowe;50;Yes guitarist
+Steve Harrington;50;"Stranger Things" character
+Steve Howe;50;Yes guitarist
 stevemillerband;50
 stevenwilson;60
 steverogers;50
@@ -67136,7 +67164,7 @@ theunderworld;40
 theunmelancholydane;60;Nickname for pianist Victor Borge
 theupanishads;20
 theupshot;50
-theupsidedown;60;"Stranger Things" alternate dimension
+The Upside Down;60;"Stranger Things" alternate dimension
 theus;40
 theusa;30
 theusopen;20
