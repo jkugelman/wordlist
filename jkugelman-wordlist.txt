@@ -22086,8 +22086,8 @@ felttipped;50
 feltundertheweather;60
 feltupto;50
 feltuptoit;60
-felucca;40;Woodden sailing boat
-feluccas;40
+felucca;40;Wooden sailing boat
+feluccas;40;Wooden sailing boats
 fem;40
 fema;40
 femalenude;50
@@ -38081,6 +38081,7 @@ luc;40
 luca;40
 lucania;30;Historical region of Italy
 lucasarts;60
+Lucca;30;City and comune in Tuscany, Italy
 luce;30;Henry Luce, founder of Time
 lucent;30
 lucently;30
@@ -41289,7 +41290,11 @@ moltenlavacakes;50
 molter;30
 molto;40
 moltobene;50
+Molucca;40;Marginal sea in the Pacific Ocean near Indonesia
+Moluccan;40
+Moluccans;40
 moluccas;40;Indonesian islands
+Molucca Sea;40;Marginal sea in the Pacific Ocean near Indonesia
 moly;40;Holy moly
 mom;50
 moma;40
@@ -55081,7 +55086,9 @@ robs;50
 robsof;40
 robspetertopaypaul;60
 roc;40
+Roca;30
 rocambole;30;Garlic-like plant
+Rocca;30
 roche;30;Pharmaceutical company
 rochesterny;40
 rocinante;40;Don Quixote's horse
