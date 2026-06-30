@@ -16235,6 +16235,10 @@ devoutcoward;50
 devs;40
 dew;50
 dewar;40;Dewar flask, or whiskey brand
+Dewey Cox;60;"Walk Hard: The Dewey Cox Story"
+Dewey Decimal;60;Library classification system
+Dewey Decimal Classification;60
+Dewey Defeats Truman;60
 dewilde;30;Actor Brandon deWilde (1942-72)
 dews;40;Weird plural, better clued as a verb
 dewsweeper;60;Early morning golfer
@@ -30072,6 +30076,8 @@ hueandcry;60
 huerta;40;Labor leader Dolores Huerta
 huevo;40
 huevos;40
+Huey, Dewey, and Louie;60
+Huey Dewey and Louie;0
 hufflepuff;60
 hufflepuffs;60
 hug;50
@@ -33281,6 +33287,7 @@ jamesbrown;60
 jamescameron;60
 jamescromwell;50
 James Dean;60
+James Dewey Watson;60;Discoverer of the DNA double helix, along with Francis Crick
 jamesdoohan;50
 jamesdwatt;60
 jameseaerljones;0
@@ -40224,6 +40231,9 @@ meltingface;60;Emoji
 meltingfaceemoji;60
 meltingfaceemojis;60
 melton;20
+Melvil Dewey;50;Inventor of the Dewey Decimal system
+Melville Dewey;50;Inventor of the Dewey Decimal system
+Melville Louis Kossuth Dewey;50;Inventor of the Dewey Decimal system
 mem;20
 memaine;0
 memberdirectory;50
@@ -40677,6 +40687,7 @@ milemarkers;60
 miler;50;One that competes in mile races, or ___-miler
 milers;50
 milesaway;50
+Miles Dewey Davis Jr.;50;Jazz trumpeter Miles Davis's father
 milessmiles;50;Miles Davis album
 milfoil;30;Aquatic plant
 milfoils;30
@@ -66484,6 +66495,8 @@ thedevilsplayground;60;Idle hands, it's said
 thedevilsplaythings;60;Idle hands, it's said
 thedevilsworkshop;60;Idle hands, it's said
 thedew;0
+The Dewey Decimal Classification;50
+The Dewey Decimal System;50
 The Diary of Anaïs Nin;60
 thedie;20
 the disco era;20
@@ -67428,6 +67441,8 @@ tholepins;30
 tholes;20
 tholing;20
 thom;50
+Thomas Dewey;50;47th governor of New York from 1943 to 1954
+Thomas E. Dewey;50;47th governor of New York from 1943 to 1954
 thomasedison;60
 thomashadenchurch;50
 thomaspaine;50
@@ -72073,6 +72088,8 @@ walkedonthinice;60
 walkedouton;40
 walkedto;40
 walkedwithpurpose;60
+Walk Hard: The Dewey Cox Story;60;2007 John C. Reilly biopic parody
+Walk Hard the Dewey Cox Story;0
 walkinbath;60
 walkinbaths;60
 walkingandtalking;50
