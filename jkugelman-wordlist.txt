@@ -21197,18 +21197,61 @@ expressedregret;50
 expressesregret;50
 expressingregret;50
 expressregret;50
+ex-Ranger;20
+ex-Rangers;20
+ex-Red;20
+exred;20
+ex-Reds;20
+ex-Royal;20
+ex-Royals;20
 exs;40;"All My Ex's Live in Texas"
 exsert;30
 exserted;30
 exserting;30
 exserts;30
-exspy;40
+ex-Sixer;20
+ex-Sixers;20
+ex-spies;30
+ex-spy;30
 exstar;20
+ex-Steeler;20
+ex-Steelers;20
 ext;40
+ex-tenant;40
+ex-tenants;40
+extend an invitation;60
+extend an invitation to;50
 extendanolivebranch;60
+extend an olive branch to;50
+extend credit;50
+extend credit to;50
+extended an invitation;60
+extended an invitation to;50
 extendedanolivebranch;60
+extended an olive branch to;50
+extended credit;50
+extended credit to;50
+extended family;60
+extended-release;50
+extended-release tablet;60
+extended-release tablets;60
+extended to;40
+extended universe;60
+extended universes;60
+extending an invitation;60
+extending an invitation to;50
 extendinganolivebranch;60
+extending an olive branch to;50
+extending credit;50
+extending credit to;50
+extends an invitation;60
+extends an invitation to;50
 extendsanolivebranch;60
+extends an olive branch to;50
+extends credit;50
+extends credit to;50
+extends to;40
+extend to;40
 extensionladder;50
 extensionladders;50
 extenuatingcircumstances;60
