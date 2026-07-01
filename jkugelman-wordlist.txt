@@ -2598,7 +2598,8 @@ aminus;50
 amion;20
 amioolate;0
 amira;40;???
-amiright;60
+am I right?;60
+am I right;0
 am I right or am I right?;60
 am I right or am I right;0
 amirite;60
@@ -9334,10 +9335,12 @@ busybee;60
 busybees;60
 busybodies;60
 busybody;60
+Busy, Busy Town;50;Children's book by Richard Scarry
 busyseason;60
 busyseasons;60
 busysignal;60
 busysignals;60
+Busytown;50;Fictional town created by children's author Richard Scarry
 but;50
 butadiene;30;Chemical
 butanes;40;Plural??
@@ -27892,8 +27895,12 @@ hardreset;60
 hardroe;40
 hards;20;Flex or hemp refuse
 hardsame;60;"Ditto"
-hardsciencefiction;60
-hardscifi;60
+hardscape;50;Hard landscape materials in the built environment structures
+hardscapes;50;Hard landscape materials in the built environment structures
+hardscaping;50;Hard landscape materials in the built environment structures
+hard science fiction;60
+hard sci-fi;60
+hardscrabble;60;Involving hard work and struggle
 hardsell;60
 hardselling;60
 hardsells;60
@@ -54705,6 +54712,10 @@ riceuniversity;60
 ricflair;60
 richarddawkins;60
 richardroe;50
+Richard Scarry;50;Children's author and illustrator (1919–1994)
+Richard Scarry's Busy, Busy Town;50;Classic children's book
+Richard Scarry's Busytown;50;1993 educational video game and its 1999 remake
+Richard Schiff;50;Actor who played Toby Ziegler on "The West Wing"
 riche;40
 richmondva;40
 richthofen;40;Manfred von Richthofen, the Red Baron
