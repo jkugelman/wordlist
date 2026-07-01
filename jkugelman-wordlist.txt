@@ -40540,6 +40540,8 @@ metrolines;50
 metrology;30
 metronome;50
 metronomes;50
+Metropolis: Suite I (The Chase);50;2007 EP by Janelle Monáe
+Metropolis Suite I The Chase;0
 metsjersey;20;Green paint
 mettle;50
 mettled;30
@@ -49631,6 +49633,8 @@ playstations;60
 playsto;40
 playstupidgames;60
 playstupidgameswinstupidprizes;60
+play style;60
+play styles;60
 playtest;60
 playtested;60
 playtester;60
@@ -66471,7 +66475,7 @@ thechair;40;2021 Netflix series about university
 thechariot;60;Tarot card
 thecharitystripe;20
 thecharlesriver;20
-thechase;40;1966 Brando-Redform film
+The Chase;50;British game show / 1966 Brando-Redford film
 thechickenortheegg;60
 thechilites;50;1970s R&B group
 thechoiceisclear;60
