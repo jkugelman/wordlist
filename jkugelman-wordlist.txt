@@ -11683,11 +11683,15 @@ chipleader;60
 chipleaders;60
 chipndale;60
 chipotle;60
+chipped up;50;Gained chips, in a poker tournament
 chippier;50
 chippiest;50
+chipping up;50;Gaining chips, in a poker tournament
 chippy;50
 chipsahoy;60
 chipsanddip;60
+chips up;50;Gains chips, in a poker tournament
+chip up;50;Gain chips, in a poker tournament
 chiron;40;Wisest of the centaurs
 chiropod;30
 chiropody;30
