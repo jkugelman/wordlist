@@ -591,7 +591,8 @@ abysm;20;Abyss, poetically
 abysms;20
 abyssia;20
 abyuja;40;Capital of Nigeria (not Lagos)
-ac;40
+AC;40;Alternating current / Air conditioning
+A/C;40;Air conditioning
 aca;40
 academicrobes;60
 academicyear;50
@@ -18894,7 +18895,7 @@ ebs;20
 ebsen;40
 ebt;20
 ebw;20
-ec;40
+EC;30
 eca;20
 ecafhtron;0
 ecard;40
@@ -44843,6 +44844,7 @@ obverting;30
 obverts;30
 obvi;40
 obvs;40
+OC;40;Orange County
 oca;30;South American tuber
 ocala;40
 ocanada;60
@@ -70277,6 +70279,7 @@ ubolts;40
 ubs;20
 ubu;20
 uburoi;40;Obscene "Macbeth" parody from 1896
+UC;40;University of California
 ucanttouchthis;60
 ucberkeley;50
 uccello;30;Renaissance painter Paolo Uccello
