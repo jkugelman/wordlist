@@ -2120,7 +2120,7 @@ allinfavor;60
 allinone;60
 allinto;50
 alliwant;40;Hit song by Kodaline (1 billion Spotify streams) or Olivia Rodrigo (High School Musical)
-allkillernofiller;60
+all killer no filler;60
 allknowing;60
 allmanner;50
 allmannerof;50
@@ -2599,7 +2599,8 @@ amion;20
 amioolate;0
 amira;40;???
 amiright;60
-amirightoramiright;60
+am I right or am I right?;60
+am I right or am I right;0
 amirite;60
 amis;40
 amisupposedtocare;60
@@ -2888,6 +2889,7 @@ angeluses;30
 angerer;30
 angevin;20;Anjou empire
 angi;40;Angie's List
+Angine de Poitrine;60;Experimental rock duo with microtonal compositions and black-and-white polka-dotted costumes
 anginous;30
 angio;40
 angiology;30
@@ -3148,6 +3150,7 @@ antipiracy;50
 antipodean;40;Australian or New Zealander
 antipodeans;40
 antiprom;60;High school protest also known as morp
+Antiques Roadshow;60;British TV series
 antiquestore;60
 antiquestores;60
 antiracism;60
@@ -3205,6 +3208,7 @@ anyobjections;60;"Is everyone okay with this?"
 anyoneelse;60
 anyoneknow;60
 anyportinastorm;60
+any reason in particular?;60
 anysecondnow;60
 anysuggestions;60
 anythingwrong;60
@@ -3691,6 +3695,8 @@ areyougonnaeatthat;60
 areyougonnaeatthose;60
 areyougood;60
 areyouhappy;60
+are you hearing yourself?;60
+are you hearing yourself right now?;60
 areyouinsane;60
 areyoukidding;60
 areyoumad;60
@@ -4196,6 +4202,8 @@ askingfor;40
 askingforit;60
 askingin;40
 askingof;40
+asking the real questions;60
+asking the real questions here;60
 askingto;40
 askmarilyn;50
 askmeificare;60
@@ -17738,6 +17746,8 @@ doya;30;ELO song
 doyoudareme;60
 doyouevenliftbro;60
 doyougetthatalot;60
+do you hear yourself?;60
+do you hear yourself right now?;60
 doyouknowwhatyouvedone;60
 doyoumindimeating;60;"Gross!"
 doyoumindimeatinghere;60;"Gross!"
