@@ -24406,6 +24406,8 @@ gameface;60
 gamefaces;60
 gamegenie;60
 gamegenies;60
+game jam;60;Video game production contest limited in time
+game jams;60;Video game production contests limited in time
 gamemechanics;60
 gamemode;60
 gamemodes;60
