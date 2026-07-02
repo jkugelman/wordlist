@@ -50329,8 +50329,8 @@ poptarts;50
 poptheclutch;60
 popthehood;60
 popularculture;60
-popularitycontest;60
-popularitycontests;60
+popularity contest;60
+popularity contests;60
 popularizer;50
 popularscience;60
 popupad;60
