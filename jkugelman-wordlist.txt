@@ -2325,6 +2325,8 @@ alternatejurors;60
 alternativecut;20;???
 alternativecuts;20
 alternativemetal;60
+Alt+F4;50;Close window keyboard shortcut
+Alt-F4;50;Close window keyboard shortcut
 altfolk;50
 althea;40;Althea Gibson, first African American to win a tennis Grand Slam title
 althing;20;Iceland's parliament
@@ -2333,6 +2335,7 @@ althorn;20;Horn
 althorns;20;Horns
 alti;40;Altos, or prefix
 altimas;40;Some Nissans
+Alt-J;50;English indie rock band
 altkey;30
 altmetal;50
 altoaria;40
@@ -2361,7 +2364,18 @@ altruism;50
 altruist;50
 altruists;50
 alts;40
-alttab;50
+Alt-Tab;50;Keyboard shortcut to switch windows without using a mouse
+Alt+Tab;50;Keyboard shortcut to switch windows without using a mouse
+alt-tab;0
+Alt-Tabbed;50
+Alt+Tabbed;50
+alt-tabbed;0
+Alt-Tabbing;50
+Alt+Tabbing;50
+alt-tabbing;0
+Alt-Tabs;50
+Alt+Tabs;50
+alt-tabs;0
 alttext;50
 altwweeeekly;0
 aludel;20
@@ -14588,14 +14602,28 @@ ctier;50
 ctn;20
 cto;40
 ctr;30;Center, contractor
-ctrlc;40
+Ctrl-A;40
+Ctrl+A;40
+Ctrl+Alt+Del;60;Computer keyboard shortcut that triggers a reboot or system security function
+Ctrl-Alt-Del;60;Computer keyboard shortcut that triggers a reboot or system security function
+Ctrl+Alt+Delete;60;Computer keyboard shortcut that triggers a reboot or system security function
+Ctrl-Alt-Delete;60;Computer keyboard shortcut that triggers a reboot or system security function
+Ctrl+C;40
+Ctrl-C;40
+Ctrl-F;40
+Ctrl+F;40
 ctrlkey;40
 ctrlkeys;30
 ctrlleft;30
-ctrlp;40
-ctrlv;40
+Ctrl+P;40
+Ctrl-P;40
+Ctrl-S;40
+Ctrl+S;40
+Ctrl-V;40
+Ctrl+V;40
 ctrlx;40
-ctrlz;40
+Ctrl-Z;40
+Ctrl+Z;40
 ctrs;30
 cts;20
 ctu;20
