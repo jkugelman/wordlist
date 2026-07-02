@@ -1,0 +1,45 @@
+name: Update STWL
+
+# Nightly refresh of spreadthewordlist.txt from spreadthewordlist.com. When the
+# download differs from the committed copy, commit it straight to main as the
+# GitHub Actions bot. Downstream tools fetch this branch's raw content
+# directly, so an update is live as soon as it lands here.
+
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stwl
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch current STWL
+        run: python3 scripts/update-stwl.py spreadthewordlist.txt
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- spreadthewordlist.txt; then
+            echo "STWL is unchanged; nothing to commit."
+            exit 0
+          fi
+          # GitHub's built-in Actions bot identity. 41898282 is that bot
+          # account's id; the "<id>+<name>@users.noreply.github.com" form is
+          # what links these commits to the bot — octocat avatar, and off any
+          # human's contribution graph.
+          # (Suggested by actions/checkout, PR #1707.)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f spreadthewordlist.txt
+          git commit -m "chore: update STWL from spreadthewordlist.com"
+          git push
