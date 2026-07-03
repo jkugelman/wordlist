@@ -35604,9 +35604,11 @@ lapins;20
 lapis;40
 lapislazuli;60
 laporte;40;???
+lapp;10;Historical term for the Sámi people, sometimes considered offensive
 lappedat;40
 lappingat;40
 lappish;40
+lapps;10;Historical term for the Sámi people, sometimes considered offensive
 laprensa;30
 lapsat;40
 lapsedinto;40
