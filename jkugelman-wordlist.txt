@@ -797,6 +797,7 @@ acquireland;20;Green paint
 acquisition;50
 acr;20
 acrazylittlethingcalledlove;60
+acrdntheboard;0
 acreinch;50;Unit of volume in crop irrigation
 acritical;40;Not critical
 acro;30
@@ -4162,6 +4163,7 @@ ashighasakite;60
 ashikaga;40;Period in Japanese history (1336-1573)
 ashikagaera;40
 ashikagaperiod;40;Period in Japanese history (1336-1573)
+ashipboard;40
 ashland;30
 ashlar;20;Masonry
 ashlars;20;Masonry
@@ -4407,6 +4409,7 @@ asta;30
 astana;40;Capital of Kazakhstan
 Astana Kazakhstan;50;Capital of Kazakhstan
 astar;20
+astarboard;40
 astarisborn;60
 astars;20
 astarte;30;Canaanite goddess of love, sex, war, and hunting
@@ -4694,6 +4697,8 @@ attemptedto;20
 attemptingto;20
 attemptsto;20
 attemptto;20
+attendance board;50
+attendance boards;50
 attendedon;40
 attendedto;40
 attendingon;40
@@ -6227,6 +6232,7 @@ bdiiiiiiiiiiiii;0
 bds;20
 be;50
 bea;50
+be aboveboard;20
 beachbod;60
 beachboys;60
 beachfront;60
@@ -6273,10 +6279,14 @@ beak;50
 beale;40;Famous Memphis street
 bealion;40;"The Wiz" song
 beallears;0
+beam aboard;60
 beaman;50
+beamed aboard;60
 beamer;50;BMW
 beamers;50
+beaming aboard;60
 beamoflight;50
+beams aboard;60
 beamsoflight;50
 beanballs;50
 beanbunny;50;Muppet
@@ -7123,7 +7133,14 @@ bilker;30
 bilkers;30
 bilko;40
 billboard;50
-billboardchart;60
+Billboard 200;60;American weekly album chart
+billboard advertising;60
+Billboard chart;60
+Billboard Global 200;60;Weekly global songs chart published by Billboard
+Billboard Hot 100;60
+Billboard Music Award;60
+Billboard Music Awards;60
+Billboard top ten;30;Does this exist?
 billbruford;60
 billburr;50
 billcosby;10
@@ -7388,6 +7405,9 @@ blackbeauty;60
 blackbelt;60
 blackbelts;60
 blackberry;60
+blackboard bold;60;Typeface style used in mathematics
+blackboard eraser;50
+blackboard erasers;50
 blackbodyradiation;60
 blackbottom;50;Jazz Age dance
 blackbox;60
@@ -7800,17 +7820,20 @@ bo;40
 boa;50
 boaconstrictor;60
 boaconstrictors;60
+board a plane;40
 board a train;40;Contrived
 boardbook;50
 boardbooks;50
+boarded a plane;40;Contrived
 boarded a train;40;Contrived
 boardgame;60
 boardgamecafe;60
 boardgamecafes;60
-boardgamegeek;60
+BoardGameGeek;60
 boardgamenight;60
 boardgamenights;60
 boardgames;60
+boarding a plane;40
 boarding a train;40;Contrived
 boardingparties;50
 boardingpass;50
@@ -7819,6 +7842,7 @@ boardingschools;60
 boardmeeting;50
 boardmeetings;50
 boardoftrustees;50
+boards a plane;40
 boards a train;40;Contrived
 boarshead;50
 boastedof;40
@@ -11118,8 +11142,8 @@ chaiselounges;50
 chaitea;50
 chaiteas;50
 chalamet;50;Timothée Chalamet
-chalkboarderaser;50
-chalkboarderasers;50
+chalkboard eraser;60
+chalkboard erasers;60
 chalkdust;50
 chalked;60
 chalkmark;50
@@ -11358,10 +11382,15 @@ cheaton;40
 cheatsdeath;60
 cheatsin;40
 cheatson;40
+checkboard square;50
 checkedinto;40
 checkedon;40
 checkedonesprivilege;60
 checkedwith;40
+checkerboard pattern;60
+checkerboard patterned;60
+checkerboard patterns;60
+checkerboard squares;50
 checkers;50
 checkincounters;50
 checkinginto;40
@@ -11473,6 +11502,8 @@ cheng;30;Not sure who's notable???
 chenier;30;French revolution poet André Chénier
 chenin;40;Chenin blanc wine
 cheops;40;Egyptian pharaoh AKA Khufu
+chequerboard;40
+chequerboards;40
 chere;40
 cheri;50
 cheris;40
@@ -11908,12 +11939,16 @@ chthonian;40
 chu;40
 chubbybunny;60;Party game that involves seeing who can stuff the most marshmallows in their mouth
 chuckedinthediscardpile;50
+chucked overboard;50
 chuckinginthediscardpile;50
+chucking overboard;50
 chuckinthediscardpile;50
 chuckitall;50;Quit
 chuckitallin;50
 chuckitin;50
+chuck overboard;50
 chucksinthediscardpile;50
+chucks overboard;50
 chumbawamba;60
 chunkya;30;Arsenio's musical persona Chunky A
 chupacabra;60
@@ -12223,10 +12258,14 @@ cleanupthispigsty;60
 cleanwater;50
 clearascrystal;60
 clearasday;60
+cleared the board;60;Started over, or won everything
 clearidea;60
+clearing the board;60;Starting over, or winning everything
 clearlyvisible;60
 clear nail polish;60
 clearsoup;50
+clears the board;60;Starts over, or wins everything
+clear the board;60;Start over, or win everything
 cleavon;40;"Blazing Saddles" actor Cleavon Little
 clefairy;50;Pokeyman
 cleftchinned;50
@@ -13360,8 +13399,8 @@ consortedwith;40
 consortingwith;40
 consortswith;40
 consortwith;40
-conspiracyboard;60
-conspiracyboards;60
+conspiracy board;60
+conspiracy boards;60
 conspiratolair;0
 conspirito;50
 constitutionstate;50
@@ -16164,8 +16203,8 @@ desiarnazjr;50
 desica;30;Director of "The Bicycle Thief"
 designatedproxy;50
 designbycommittee;60
-designerboardgame;60
-designerboardgames;60
+designer board game;60
+designer board games;60
 desilu;40;Desi and Lucille's production company
 desireline;60
 desirelines;60
@@ -19453,6 +19492,8 @@ electricalstorm;50
 electricalstorms;50
 electricpower;50
 electron;50
+electronic bulletin board;50
+electronic bulletin boards;50
 electronicmusic;60
 electrons;50
 electropop;60
@@ -22034,6 +22075,8 @@ federalfunding;50
 federalholidays;50
 federallaw;50
 federallaws;50
+Federal Reserve Board;60;Governing body of the U.S. Federal Reserve System
+Federal Reserve Board of Governors;60;Governing body of the U.S. Federal Reserve System
 fedexdriver;60
 fedexdrivers;60
 fedin;40
@@ -22441,6 +22484,8 @@ filmy;50
 filo;40;Baklava dough
 fin;50
 finable;40;Subject to a fine, fineable is the less common variant spelling surprisingly
+final boarding call;60
+final boarding calls;60
 finalboss;60
 finalcheck;50
 finalchecks;50
@@ -25691,6 +25736,7 @@ glinka;30;Russian composer Mikhail Glinka
 glissade;40;Ballet or climbing technique
 glo;40
 gloam;50
+Global 200;60;Weekly global songs chart published by Billboard
 globalmacro;50;Investment strategy that leverages large-scale macroeconomic and geopolitical data
 globose;20;Spherical
 glogg;30;Swedish spiced wine
@@ -25838,6 +25884,7 @@ gob;50
 G.O.B.;40;"Arrested Development" character
 gobackto;40
 gobacktosleep;50
+go back to the drawing board;60
 gobag;50
 gobbet;40;Lump of flesh, spit, etc.
 gobbets;40
@@ -25906,6 +25953,7 @@ goesat;40
 goesaway;50
 goesawry;50
 goesbackto;40
+goes back to the drawing board;60
 goesbig;50
 goesblank;50
 goesblueintheface;60
@@ -26028,6 +26076,7 @@ goingastray;50
 goingat;40
 goingawry;50
 goingbackto;40
+going back to the drawing board;60
 goingbig;50
 goingblank;50
 goingblueintheface;60
@@ -29738,6 +29787,7 @@ hopingto;40
 hopinto;40
 hopium;60
 hopon;40
+hop on board;50
 hoponpop;60;Dr. Seuss book
 hoponto;40
 hoppedacab;50
@@ -29745,6 +29795,7 @@ hopped a train;40;Contrived
 hoppedin;40
 hoppedinto;40
 hoppedon;40
+hopped on board;50
 hoppedonto;40
 hoppedupongoofballs;60
 hopperpopper;60;Rubber children's toy
@@ -29755,6 +29806,7 @@ hoppingin;40
 hoppinginto;40
 hoppingmad;60
 hoppingon;40
+hopping on board;50
 hoppingonto;40
 hopsacab;50
 hopsack;40;Fabric
@@ -29764,6 +29816,7 @@ hops a train;40;Contrived
 hopsin;40
 hopsinto;40
 hopson;40
+hops on board;50
 hopsonto;40
 hopsto;30
 hopto;50
@@ -29875,6 +29928,7 @@ hostlers;20;Stablemen
 hosts;50
 hostwiththemost;60
 hot;50
+Hot 100;60;Billboard song chart
 hotashades;60
 hotbed;50
 hotbeds;50
@@ -46773,6 +46827,7 @@ otc;40
 ote;20
 otello;40
 oteri;40
+Othello board;50
 othering;60;Making someone feel like an outsider
 othmar;20;"Peanuts" teacher
 otho;20;Roman emperor
@@ -47614,6 +47669,7 @@ paraderest;50
 paradiddle;60;Drum pattern
 paradiddles;60
 paradingregally;0
+Paradise by the Dashboard Light;50;1977 single by Meat Loaf and Ellen Foley
 paradox;60
 paradoxes;60
 paradoxical;60
@@ -57607,9 +57663,11 @@ seatedtwist;50
 seatedtwists;50
 seatoad;40
 seatoads;40
+seat on the board;60
 seatrade;50
 seatrip;40;Sea trip (not seat rip)
 seatrips;40
+seats on the board;60
 seattlekraken;60
 seattlemariner;60
 seattlemariners;60
@@ -59871,6 +59929,8 @@ skalds;30
 skanky;40
 skarsgard;50;Acting family
 skarsgards;50;Acting family
+skateboard park;60
+skateboard parks;60
 skatedonthinice;60
 skateguard;50
 skateguards;50
@@ -67564,6 +67624,7 @@ thisisnpr;50
 thisisquiteapickle;60
 thisissendingme;60
 thisistakingforever;60
+this is the final boarding call;60
 thisiswhereicomein;60
 thisiswhereyoucomein;60
 thisllbetheendofme;60
@@ -72974,6 +73035,7 @@ wentastray;50
 wentat;40
 wentawry;50
 wentbackto;40
+went back to the drawing board;60
 wentbig;50
 wentblank;50
 wentblueintheface;60
