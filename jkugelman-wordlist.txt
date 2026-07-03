@@ -61202,8 +61202,8 @@ solvation;30
 solveacrossword;20
 soma;30
 so mad;40;Contrived?
-somalian;20;Wrong, Somali is preferred
-somalians;20
+Somalian;20;Wrong, Somali is preferred
+Somalians;20;Wrong, Somalis is preferred
 somalipirate;50
 somalipirates;50
 somata;20
