@@ -32324,6 +32324,11 @@ inurns;40
 inutile;40
 inv;20
 invacuo;30;In a vacuum
+invaginate;40
+invaginated;40
+invaginates;40
+invaginating;40
+invagination;40
 invalidid;40;Green paint???
 invalidids;40
 invalidusername;50
@@ -67307,6 +67312,7 @@ theus;40
 theusa;30
 theusopen;20
 theva;40
+The Vagina Monologues;60
 thevatican;40
 thevegasstrip;40
 thevenetian;50
@@ -71344,6 +71350,10 @@ vacuumhoses;50
 vacuumsealed;50
 vacuumtube;60
 vacuumtubes;60
+vaginal discharge;10
+vaginal douche;10
+vaginally;10
+Vagina Monologues;60;1996 play by Eve Ensler, with "The"
 vagueidea;50
 vagueideas;50
 vahospital;50
