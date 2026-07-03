@@ -11555,6 +11555,7 @@ chewygranolabar;20
 cheyennewy;30
 chg;20
 chi;50
+Chia Donald Trump;10
 chiapas;40;Mexican state
 chiasma;30;Genetics term
 chica;40
@@ -17309,6 +17310,7 @@ doiever;50
 doigotta;60
 doihaveachoice;60
 doihaveanychoice;60
+do I look stupid?;10
 doingabackflip;50
 doingadance;50
 doingadryrun;50
@@ -17419,6 +17421,9 @@ dona;30
 donair;40;Canadian version of doner kebab
 donairs;40
 donaldson;50
+Donald Trump;10
+Donald Trump Jr.;10
+Donald Trump suit;0
 donameche;40;"Cocoon" actor Don Ameche (1908-93)
 donatedto;40
 donatesto;40
@@ -17470,7 +17475,7 @@ dontbesoliteral;60
 dontbethatguy;60
 dontblockthebox;60
 dontbother;60
-dontbullshitabullshitter;10
+don't bullshit a bullshitter;10
 dontcaredidntask;60
 dontchathink;60
 dontcrampmystyle;60
@@ -17605,7 +17610,9 @@ dopamine;60
 dopaminerush;60
 dopant;30
 dopants;30
+dope dealer;10
 dopeness;30
+dope peddler;10
 dopeslap;40
 dopeslapped;40
 dopeslapping;40
@@ -17813,7 +17820,7 @@ drachmae;30
 drachmas;50
 drachms;30
 draco;40;Constellation
-dracomalfoy;10;Harry Potter
+Draco Malfoy;10;Harry Potter
 draconids;50;Meteor shower
 dracula;60
 draftcard;50
@@ -18588,10 +18595,10 @@ dwelledon;40
 dwellingon;40
 dwellon;40
 dwellson;40
-dwi;10
+DWI;10
 dwightdavideisenhower;60
 dwighteisenhower;60
-dwis;10
+DWIs;10
 dxc;20
 dxci;20
 dxcv;20
@@ -20464,11 +20471,11 @@ erst;40
 erte;30;Artist Romain de Tirtoff
 ertegun;30;Ahmet ___, Rock and Roll Hall of Fame chairman
 ertes;30;Works by Erté
-eruct;10
-eructation;10
-eructed;10
-eructing;10
-eructs;10
+eruct;10;Belch
+eructation;10;Belching
+eructed;10;Belched
+eructing;10;Belching
+eructs;10;Belches
 erupter;40
 erupters;40
 ervin;40;Senator Sam Ervin who led the Watergate investigation
@@ -24866,9 +24873,9 @@ gen;40
 gena;40;Various, including Gena Rowlands
 genc;30;Generation Covid, supposedly
 genderaffirming;50
-genderbender;10;Some consider it offensive
-genderbenders;10
-genderbending;10
+gender bender;10;Some consider it offensive
+gender benders;10;Some consider it offensive
+gender bending;10;Some consider it offensive
 genderbias;60
 genderdysphoria;60
 gendereuphoria;60
@@ -24892,6 +24899,7 @@ generalassembly;50
 generalelection;50
 generalelectric;60
 generalknowledge;60
+general leering;10
 generalmanager;60
 generalmanagers;60
 generalpartner;50
@@ -25078,7 +25086,7 @@ getdowntobrasstacks;60
 getem;50
 get emotional;60
 geterdone;50
-getfat;10
+get fat;10
 getfired;60
 gethard;20
 gethitched;50
@@ -25167,7 +25175,7 @@ getsdark;30
 getsdirton;50
 getsdowntobrasstacks;60
 gets emotional;60
-getsfat;10
+gets fat;10
 getsfired;60
 getshitched;50
 getsickedout;60
@@ -25242,6 +25250,7 @@ getthesack;50
 getthis;60
 gettingabumrap;60
 gettingadate;30
+getting a hard on;10
 gettingajumpon;60
 gettingalegupon;60
 gettingallbutthurt;60
@@ -25272,7 +25281,7 @@ gettingdark;30
 gettingdirton;50
 gettingdowntobrasstacks;60
 getting emotional;60
-gettingfat;10
+getting fat;10
 gettingfired;60
 gettingforasong;60
 gettinghitched;50
@@ -25809,6 +25818,7 @@ goaltends;60
 goaltimate;50;Ultimate frisbee spinoff with a soccer goal instead
 goape;50
 goapeover;50
+go apeshit over;10
 goas;40
 goaskdad;60
 goaskmom;60
@@ -25888,6 +25898,8 @@ goesallin;50
 goesallout;50
 goesape;50
 goesapeover;50
+goesapeshitover;20
+goes apeshit over;10
 goesas;40
 goesastray;50
 goesat;40
@@ -26009,6 +26021,8 @@ goingallin;50
 goingallout;50
 goingape;50
 goingapeover;50
+goingapeshitover;20
+going apeshit over;10
 goingas;40
 goingastray;50
 goingat;40
@@ -26231,7 +26245,7 @@ gonetoseed;60
 gonewrong;40
 gongongongongon;0
 gonococci;10;Gonorrhea bacteria
-gonococcus;10
+gonococcus;10;Gonorrhea bacterium
 gonogo;60
 gonogogauge;50
 gonogogauges;50
@@ -26493,7 +26507,7 @@ gotdirton;50
 gotdowntobrasstacks;60
 goteamgo;60
 got emotional;60
-gotfat;10
+got fat;10
 gotfired;60
 gotgame;50
 gothard;20
@@ -27036,11 +27050,19 @@ gromyko;30;???
 groomsman;50
 groomsmen;50
 grooveme;20
+grope around;50
+grope around for;40
+groped around;50
+groped around for;40
 gropedfor;40
 gropefor;40
 groper;10
 gropers;10
+gropes around;50
+gropes around for;40
 gropesfor;40
+groping around;50
+groping around for;40
 gropingfor;40
 grossedup;40
 grossesup;40
@@ -38515,6 +38537,7 @@ macbookair;60
 macbookairs;60
 macbookpro;60
 macbookpros;60
+MacDonald Trump;0
 macer;20
 macerate;40
 macerated;40
@@ -38692,9 +38715,10 @@ mafiosi;60
 mafioso;60
 mafiosos;60
 mag;40
-maga;10
+MAGA;10;Make America Great Again
 magahat;10
 magahats;10
+MAGAs;10;Make America Great Again
 magdalen;40;Less common spelling of Magdalene
 magdas;20
 magentas;40
@@ -72939,6 +72963,8 @@ wentallin;50
 wentallout;50
 wentape;50
 wentapeover;50
+wentapeshitover;20
+went apeshit over;10
 wentas;40
 wentastray;50
 wentat;40
