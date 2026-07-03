@@ -35603,6 +35603,8 @@ lapin;20;Rabbit fur
 lapins;20
 lapis;40
 lapislazuli;60
+laplander;10;Historical term for the Sámi people, sometimes considered offensive
+laplanders;10;Historical term for the Sámi people, sometimes considered offensive
 laporte;40;???
 lapp;10;Historical term for the Sámi people, sometimes considered offensive
 lappedat;40
