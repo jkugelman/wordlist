@@ -26412,6 +26412,7 @@ googlestalking;60
 googlestalks;60
 googlestreetview;60
 googletranslate;50
+Google Wifi;50;One-time home mesh Wi-Fi system
 googly;60
 googol;60
 googology;60;Mathematical study of large numbers
@@ -30836,7 +30837,7 @@ idontknowifican;60
 idontknowificandoit;60
 idontknowificandothat;60
 idontknowifimready;60
-idontknowifimreadyforthat;60
+I don't know if I'm ready for that;60
 idontknowijustworkhere;60
 idontliketobrag;60
 idontliketobragbut;60
@@ -32127,6 +32128,10 @@ inrecordtime;50
 inrepair;40
 inright;40;As in baseball
 inrome;30;Awkward to clue, partial of "When in Rome..."
+in-room;40
+in-room fax;50
+in-room safe;50
+in-room Wi-Fi;50
 inrun;30;Ski jump slope
 inrush;30
 ins;50
@@ -32853,6 +32858,7 @@ isthatit;60
 isthatso;60
 isthatyou;60
 isthereanyonehome;60
+is there Wi-Fi?;60
 istheskyblue;60
 isthisabadtime;60
 isthisajoketoyou;60
@@ -73331,6 +73337,8 @@ whatstheretoget;60
 whatstheretolose;60
 whatsthescuttlebutt;60
 whatstheuse;60
+what's the Wi-Fi situation?;60
+what's the Wi-Fi situation;0
 whatsthewordonthestreet;60
 whatstheworstthatcouldhappen;60
 whatsthis;60
@@ -73641,6 +73649,7 @@ wifeguys;60
 wifetobe;50
 wiffleballbat;50
 wiffleballbats;50
+Wi-Fi code;50
 wificonnection;60
 wificonnections;60
 wifihotspot;60
@@ -74344,6 +74353,8 @@ wweraw;60
 wwf;40
 wwi;50
 wwiera;40
+WWI film;40
+WWI films;40
 wwiiace;30
 wwiiaces;30
 wwiiepic;40
