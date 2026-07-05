@@ -2826,7 +2826,7 @@ andformynexttrick;60
 andforthatreasonimout;60
 and Garfunkel;0
 andgo;20
-andherestoyoumrsrobinson;60
+and here's to you, Mrs. Robinson;60
 andi;30;Partial "and I", or Disney Channel show "Andi Mack"
 andifidont;60
 andimeanit;60
@@ -6285,6 +6285,7 @@ beamed aboard;60
 beamer;50;BMW
 beamers;50
 beaming aboard;60
+beam me up, Mr. Scott;60
 beamoflight;50
 beams aboard;60
 beamsoflight;50
@@ -39659,7 +39660,7 @@ marv;30
 marvelat;40
 marveledat;40
 marvelingat;40
-marvelousmrsmaisel;60
+Marvelous Mrs. Maisel;60;Period comedy-drama television series, with "The"
 marveloustoy;50
 marvelsat;40
 marvinkmooneywillyoupleasegonow;60;Dr. Seuss book
@@ -40011,6 +40012,9 @@ mcardle;40;Columnist Megan McArdle
 mcat;40
 mcats;40
 mcc;20
+McCabe and Mrs. Miller;50;1971 Robert Altman film
+mccabeandmrsmiller;0
+McCabe & Mrs. Miller;50;1971 Robert Altman film
 mccan;20;???
 mccann;40;???
 mccc;20
@@ -42051,6 +42055,9 @@ mps;40
 mpthreeplayers;20
 mr;50
 mrandmrs;50
+Mr and Mrs Andrews;50;1750 painting by Thomas Gainsborough
+Mr. and Mrs. Bridge;50;1990 film by James Ivory
+Mr and Mrs Bridge;0
 mrapril;20
 mrb;20
 mrbeast;60
@@ -42088,6 +42095,7 @@ mrlee;30;From Bobbettes song "I Shot Mr. Lee"
 mrmayor;60
 mrmime;50;Pokeyman
 mrmoto;50
+Mr. & Mrs. Bridge;50;1990 film by James Ivory
 mrn;20
 mrna;40
 mrnoodle;40;"Sesame Street" character
@@ -42096,28 +42104,57 @@ mrorange;60;From "Reservoir Dogs"
 mrouch;60;Mr. Ouch, electrical hazard symbol for kids
 mrpeanut;50
 mrpink;60;From "Reservoir Dogs"
-mrred;40;Cincinatti Reds mascot
+Mr. Red;40;Cincinatti Reds mascot
 mrree;30;Captain Underpants janitor, first name Toilette
 mrroarke;50
 mrrobot;60
 mrroper;40
-mrs;50
+Mrs.;50
+Mrs;0
 mrsalt;30;???
-mrsandman;60
-mrsaturdaynight;50
-mrsdash;40;They dropped the "Mrs."
-mrsdoubtfire;60
+Mrs. America;50
+Mrs America;0
+Mr. Sandman;60;1954 song
+Mr Sandman;0
+Mr. Saturday Night;50;1992 Billy Crystal film
+Mrs. Butterworth;60;Brand of syrups and pancake mixes
+Mrs Butterworth;0
+Mrs. Butterworth's;60;Brand of syrups and pancake mixes
+Mrs Butterworth's;0
+Mrs. Dash;40;Brand of seasoning products, just Dash since 2020
+Mrs Dash;0
+Mrs. Doubtfire;60;1993 Robin Williams comedy
+Mrs Doubtfire;0
+Mrs. Fields;50;Cookie brand
+Mrs Fields;0
+Mr. Show;50;1990s Bob Odenkirk / David Cross sketch comedy show
+Mr Show;0
+Mr. Show with Bob and David;60;1990s Bob Odenkirk / David Cross sketch comedy show
+Mr Show with Bob and David;0
 mrsking;50
-mrslate;60
+Mrs. Krabappel;60
+Mrs Krabappel;0
+Mr. Slate;50;Fred Flintstone's boss
+Mr Slate;0
 mrsmaisel;60
-mrsmartypants;60
+Mrs. Malaprop;60;1775 play character, origin of "malapropism"
+Mrs Malaprop;0
+Mr. Smarty-pants;60
 mrsminiver;50
-mrsmith;50
+Mr. Smith;50
+Mr Smith;0
 mrsmithers;60
-mrsnuffleupagus;50
+Mr. Smith Goes to Washington;60;1939 James Stewart film by Frank Capra
+Mr Smith Goes to Washington;0
+Mr. Snuffleupagus;60;Character on Sesame Street
+Mr Snuffleupagus;0
 mrsoleary;50
 mrspeel;40;Emma Peel of "The Avengers", as she was known
-mrssmith;50
+Mr. Spock;60;"Star Trek" character
+Mr Spock;0
+Mrs. Robinson, are you trying to seduce me?;60;"The Graduate" quote
+Mrs. Smith;50
+Mrs Smith;0
 mrswho;50;Character in "A Wrinkle in Time"
 mrt;40
 mrwarmth;50
@@ -45439,7 +45476,7 @@ okayhearmeout;60;"So this may sound crazy but..."
 okayigive;60
 okayimconvinced;60
 okaymistersmartypants;60
-okaymrsmartypants;60
+okay Mr. Smarty-pants;60
 okaynowwhat;60
 okaysmartypants;60
 okaysure;60
@@ -45472,7 +45509,7 @@ okla;40;Oklahoma
 oklahoman;50
 oklahomans;50
 okmistersmartypants;60
-okmrsmartypants;60
+OK Mr. Smarty-pants;60
 oknowwhat;60
 okras;30
 oks;50
@@ -66971,7 +67008,8 @@ themanwithnoname;60
 themap;20
 themarines;40
 themarsvolta;60
-themarvelousmrsmaisel;60
+The Marvelous Mrs. Maisel;60;Period comedy-drama television series
+The Marvelous Mrs Maisel;0
 themarveloustoy;60
 themasses;60
 themasters;60
@@ -67641,6 +67679,7 @@ thissentme;60
 thisslaps;60
 thisthingofours;60
 thneedville;60
+Thnks fr th Mmrs;50;2007 single by Fall Out Boy
 tho;40
 thole;20
 tholed;20
