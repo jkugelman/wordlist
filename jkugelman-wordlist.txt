@@ -4451,6 +4451,7 @@ astrings;40
 astrodome;60
 astroid;30;Type of mathematical curve
 astroids;30
+a stroke of bad luck;50
 astrolabe;60
 astrolabes;60
 astrologer;60
@@ -23678,6 +23679,9 @@ fouram;50
 fourbars;50;Good signal
 fourbells;50
 four calling birds;60
+four-cycle;50
+four-cycle engine;50
+four-cycle engines;50
 fourdayworkweek;60
 four-footed butterflies;50
 four-footed butterfly;50
@@ -23699,6 +23703,7 @@ four-string banjos;60
 four-string bass;60
 four-string basses;60
 four-strings;50
+four-stroke internal combustion engine;60
 fourthandinches;60
 fourthandlong;60
 fourthrees;20
@@ -34254,6 +34259,7 @@ kanban;40;Engineering project management style
 kanbanboard;60;Planning boards for engineering projects
 kanbanboards;60;Planning boards for engineering projects
 kandy;30;Last capital of Ceylon (Sri Lanka)
+Kane Parsons;60;"Backrooms" (2026) director
 kanes;30;Plural name
 kang;40;Simpsons alien
 kanga;40;Roo's mom
@@ -36577,6 +36583,9 @@ lenity;40;Kindness/gentleness, literary
 lennie;40;Various: "Of Mice and Men", "Law and Order", others
 lennonmccartney;60
 lenoir;20;North Carolina town
+lens cap shot;60
+lens cap shots;60
+LensCrafters;50;Optician and eyewear retail chain
 lensflare;60
 lensman;40;Photographer
 lensmen;40
@@ -41855,6 +41864,7 @@ mostexpensive;50
 mostimportant;50
 mostimportantly;50
 mostlyharmless;60
+most notably;60
 mosul;40;Second largest city in Iraq
 mot;40
 mota;20
@@ -59921,6 +59931,9 @@ siwashes;30
 siwashing;30
 six;50
 sixam;50
+six-cycle;50
+six-cycle engine;50
+six-cycle engines;50
 sixdaywar;50
 sixdegrees;50
 sixesandsevens;60
@@ -63727,10 +63740,10 @@ strobilus;20;Pine cone structure
 strodein;40
 stroh;20;Austrian spirit
 strohs;40;Beer brand owned by Pabst
-strokeofbadluck;60
+stroke of bad luck;60
 stroker;30
 strokers;30
-strokesofbadluck;60
+strokes of bad luck;60
 strollby;50
 strollsby;50
 strom;40
@@ -70320,6 +70333,10 @@ twobyfour;60
 twobyfours;60
 twocar;50
 twocents;50
+two-cycle;50
+two-cycle engine;50
+two-cycle engines;50
+twocycleengines;20
 twodashes;30
 twodots;20
 twodrinkminimum;60
