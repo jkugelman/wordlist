@@ -71902,6 +71902,8 @@ vaticinator;30;???
 vau;20
 vaunter;40;Braggart
 vaunters;40
+vav;20;Sixth letter of the Hebrew alphabet, ו
+vavs;20;Sixth letters of the Hebrew alphabet, ו
 vax;50
 vay;20
 vaya;30
