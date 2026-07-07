@@ -37,8 +37,7 @@
 16:9 aspect ratio;60
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
 16 Candles;20;Spelled out is the norm
-1-800;50;Toll-free
-1-800;20
+1-800;40;Toll-free
 1-800 number;60
 1-800 numbers;60
 18 and Life;50;1989 single by Skid Row
@@ -50,6 +49,7 @@
 1910 Fruitgum Company;50;Bubblegum pop band of the 1960s
 1979;50;Smashing Pumpkins song
 1984;60;George Orwell novel
+1999;40
 1am;40
 #1 draft pick;60
 #1 draft picks;60
@@ -64,10 +64,8 @@
 1v1 me;60;Childish gamer's challenge
 #1 with a bullet;60
 20/20;50
-20/20;20
 20/20 eyesight;60
 20/20 vision;60
-20/20 vision;20
 20 questions;60;Spoken guessing game using yes–no questions
 21 Grams;50;2003 Sean Penn / Naomi Watts film
 21 Jump Street;60;1980s TV show or 2000s movie series
@@ -93,8 +91,8 @@
 30 Rock;50;NBC Tina Fey sitcom 2006-13
 3:10 to Yuma;60;Western movie
 .38 Special;50;Smith & Wesson revolver cartridge
-3 AM;50;1996 Matchbox Twenty single
-3 AM;40
+3 AM;40;1996 Matchbox Twenty single
+3am;40
 3 Doors Down;60;'90s rock band
 3D printer;60
 3D printers;60
@@ -197,7 +195,6 @@
 90210;50;Beverly Hills's zip code
 98 Degrees;60;Boy band
 99.9%;50
-99.9%;20
 99.9 percent;60
 99 Luftballons;50;1983 single by Nena
 99 Problems;60;2004 single by Jay-Z
@@ -253,8 +250,7 @@ aah that's the spot;60
 aah this is the life;60
 aaiiiiiiiiiiiii;0
 aalarge;40
-Aalto;40;Finnish architect and designer Alvar Aalto
-Aalto;0
+Aalto;30;Finnish architect and designer Alvar Aalto
 aam;20
 AAMCO;40
 AA meeting;60
@@ -381,8 +377,8 @@ abecedarians;30
 abecedaries;30
 abecedarium;30
 abecedary;30
-Abed;50
 Abed;40;Various people
+abed;40;In bed
 Abed Nadir;50;Danny Pudi's character on "Community"
 Abednego;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 abele;20;White poplar
@@ -4019,6 +4015,7 @@ arsenious;30;Containing arsenic
 arsenite;40;Chemical
 arsonist;50
 arsons;50;The town has suffered a rash of arsons
+Ars Technica;60
 art;50
 Art Brut;60
 artbuyer;50
@@ -5016,8 +5013,8 @@ avrooms;50
 Avs;20
 avulse;20
 avulses;20
-A&W;50
-A&W;50;Root beer brand
+aw;50;Used to express disappointment or dismay
+A&W;40;Root beer brand
 awakeatdawn;50
 awardee;30
 award gala;50
@@ -7770,13 +7767,14 @@ BLT;50
 BLTs;50
 Blu;20
 blue-ball;10
-blue-ball;10
+blueball;10
 blue-balled;10
-blue-balled;10
+blueballed;10
 blue-balling;10
-blue-balling;10
+blueballing;10
 blue-balls;10
-blue-balls;10
+blueballs;10
+blue balls;10
 Bluebeard;50
 Blue Beetle;50;D.C. superhero movie
 bluebells;50
@@ -8280,8 +8278,8 @@ booty call;60
 booty called;60
 booty calling;60
 booty calls;60
-Bootylicious;60;Callipygous or otherwise appealingly voluptuous
 Bootylicious;60;2001 single by Destiny's Child
+bootylicious;60;Callipygous or otherwise appealingly voluptuous
 booty shorts;60
 booutlaw;30;Unremarkable NBA player
 booyah;60
@@ -8702,7 +8700,6 @@ breaking loose;50
 breaking out in a sweat;60
 breaking out in song;60
 breaking out into song;60
-breaking out into song;20
 breakings;40;Weird plural
 breaking serve;50
 breaking up the band;60
@@ -8725,7 +8722,6 @@ breaks loose;50
 breaks out in a sweat;60
 breaks out in song;60
 breaks out into song;60
-breaks out into song;20
 breaks up the band;60
 breakup sex;60
 break up the band;60
@@ -8929,10 +8925,10 @@ broken home;50
 broken in;50
 broken nose;60
 broken noses;60
+broken out into song;60
 broke out in a sweat;60
 broke out in song;60
 broke out into song;60
-broke out into song;20
 brokeradeal;60
 brokerage account;60
 brokerage accounts;60
@@ -11782,8 +11778,8 @@ chimeras;50
 chimers;30
 chimesinon;40
 chiminginon;40
+china;50;Porcelain tableware / kind of drum cymbal
 China;50;Country in East Asia
-China;50;Porcelain tableware / kind of drum cymbal
 China Beach;50;Late 80s war drama on ABC
 chinas;40;Certain drum cymbals
 chin chin;50;???
@@ -16012,18 +16008,19 @@ dehydrated food;50
 dehydratedfoods;50
 dei;40;Opus Dei, Agnus Dei
 de-ice;50
-de-ice;50
+deice;50
 de-iced;50
-de-iced;50
+deiced;50
 de-icer;40
-de-icer;40
+deicer;40
 de-icers;40
-de-icers;40
+deicers;40
 de-ices;50
-de-ices;50
+deices;50
 de-icing;50
-de-icing;50
-deictic;30;Linguistics term
+deicing;50
+deictic;30;Word requiring context to understand its meaning
+deictics;30;Words requiring context to understand their meaning
 Deidre;40
 deific;50;Godlike
 Deimos;50;Martian moon
@@ -20890,7 +20887,7 @@ Esurance;30;Insurance company
 esurience;30;Greed
 esurient;30;Greedy
 ET;40
-ETA;50;Greek letter Η or η
+eta;50;Greek letter Η or η
 ETA;40;Estimated time of arrival
 etagere;40;Display case
 etageres;40
@@ -21932,7 +21929,6 @@ farinas;20
 Faris;40;Anna Faris
 farmbelt;50
 farm cat;60
-farm cats;60
 farm cats;60
 farmed;50
 farmer's tan;50;???
@@ -25326,6 +25322,7 @@ getmossed;60;Get dominated by a wide receiver's showy catch, a la Randy Moss
 get naked;50
 getnear;40
 get off my case;60
+get off on a technicality;60
 getoffoneshighhorse;60
 get off on the right foot;60
 getoffyourhighhorse;60
@@ -25407,6 +25404,7 @@ getsmade;60
 getsmossed;60;Gets dominated by a wide receiver's showy catch, a la Randy Moss
 gets naked;50
 getsnear;40
+gets off on a technicality;60
 gets off on the right foot;60
 gets on;40
 gets on board;50
@@ -25513,6 +25511,7 @@ gettingmade;60
 gettingmossed;60;Getting dominated by a wide receiver's showy catch, a la Randy Moss
 getting naked;50
 gettingnear;40
+getting off on a technicality;60
 getting off on the right foot;60
 getting on;40
 getting on board;50
@@ -26036,6 +26035,7 @@ goaltends;60
 goaltimate;50;Ultimate frisbee spinoff with a soccer goal instead
 go ape;50
 goapeover;50
+go apeshit for;10
 go apeshit over;10
 goas;40
 goaskdad;60
@@ -26052,7 +26052,7 @@ goatsucker;60;Chupacabra
 goat yoga;60
 Go Away Green;60;Disney color that diverts attention away from infrastructure
 go awry;50
-G.O.B.;50
+gob;50
 G.O.B.;40;"Arrested Development" character
 gobackto;40
 go back to sleep;50
@@ -26117,7 +26117,7 @@ goes all in;50
 goes all out;50
 goes ape;50
 goesapeover;50
-goes apeshit over;20
+goes apeshit for;10
 goes apeshit over;10
 goesas;40
 goes astray;50
@@ -26242,7 +26242,7 @@ going all in;50
 going all out;50
 goingape;50
 goingapeover;50
-going apeshit over;20
+going apeshit for;10
 going apeshit over;10
 goingas;40
 going astray;50
@@ -26435,6 +26435,8 @@ gondwanan;50
 goneahead;40
 gonealong;40
 goneape;40
+gone apeshit;10
+gone apeshit for;10
 goneastray;40
 goneat;30
 goneawol;40
@@ -26762,6 +26764,7 @@ gotnear;40
 gotnoshot;50
 go to;50
 go toe to toe;60
+got off on a technicality;60
 got off on the right foot;60
 go together;50
 go to great lengths;60
@@ -29029,8 +29032,8 @@ heptagonal;40
 heptagons;40
 heptarch;40
 heptarchs;40
+heptarchy;40;Government of seven people
 Heptarchy;40;Seven kingdoms of Anglo-Saxon England
-Heptarchy;40;Government of seven people
 hepto;30
 her;50
 heraldry;50
@@ -32163,13 +32166,13 @@ info desks;50
 infodrop;60
 infodrops;60
 info-dump;60
-info-dump;60
+infodump;60
 info-dumped;60
-info-dumped;60
+infodumped;60
 info-dumping;60
-info-dumping;60
+infodumping;60
 info-dumps;60
-info-dumps;60
+infodumps;60
 infoil;30
 infold;30;???
 infolded;20
@@ -33775,7 +33778,6 @@ James Wan;50;Horror movie director
 James Watson;60;Watson and Crick
 James Watt;60
 James Webb;50;James Webb Space Telescope
-James Webb;0
 James Webb Space Telescope;60
 James Whistler;60
 jam in;40
@@ -34105,8 +34107,8 @@ Joan of;20
 Joao;30
 Joaquin Castro;50;Texas representative since 2013
 Joaquin Phoenix;60
-Job;50
 Job;50;Biblical figure
+job;50
 job agencies;50
 job agency;50
 job applications;50
@@ -40335,7 +40337,6 @@ MCAT;40
 MCATs;40
 mcc;20
 McCabe and Mrs. Miller;50;1971 Robert Altman film
-McCabe and Mrs. Miller;0
 McCabe & Mrs. Miller;50;1971 Robert Altman film
 mccan;20;???
 McCann;40;???
@@ -47701,8 +47702,8 @@ pacificblue;50
 package;50
 packed in;40
 packedinit;40;British
-Packer;50;Green Bay player
-Packer;30
+Packer;50;Green Bay football player
+packer;40
 pack in;40
 packing in;40
 packinginit;40;British
@@ -48403,7 +48404,7 @@ patchtests;60
 patch up;50
 patdowndownpat;0
 pâté;50
-pâté;50
+pate;50
 pated;40;Addle-pated?
 Patel;40
 patellae;40
@@ -49266,7 +49267,7 @@ pgh;20
 pgratedmovie;50
 pgratedmovies;50
 PG rating;50
-PGs;40;Pages
+pgs;40;Pages
 PGs;20;Movie ratings
 pH;40
 phablet;30;Phone/tablet
@@ -51665,7 +51666,6 @@ probesat;40
 probie;30
 probies;30
 probingat;40
-problem?;50
 problem?;50
 problem set;50
 problem sets;50
@@ -59697,7 +59697,6 @@ shows a profit;60
 show signs of life;60
 shows of force;60
 shows of gratitude;60
-shows of gratitude;20
 shows of strength;60
 shows of support;60
 showsomeclass;60
@@ -61242,7 +61241,7 @@ snelleneyechart;60
 snells;30;Snell's law of refraction
 Snerd;30;Mortimer Snerd, ventriloquism dummy
 Snert;30;Hägar the Horrible's dog
-Snert;20;Dutch split pea soup
+snert;20;Dutch split pea soup
 SNES;40
 sniatnuom;0
 snicker;50
@@ -62059,8 +62058,7 @@ soy latte;50
 soy lattes;50
 soyousee;60
 soys;40
-S&P;50;Standard & Poor's
-S&P;40
+S&P;40;Standard & Poor's
 S&P 500;60;Stock market index
 spa;50
 space agencies;50
@@ -66216,7 +66214,7 @@ techipos;40
 techmogul;50
 techmoguls;50
 Technic;40;Lego line for advanced models
-Technic;20;Technique
+technic;20;Technique
 technicalissue;50
 technical issues;50
 technicolor dreamcoat;60
@@ -66914,6 +66912,7 @@ THC;40
 thd;20
 the;50
 The 40-Year-Old Virgin;60;2005 Steve Carrell comedy
+the 99.9%;60
 Thea;30
 theabcs;40
 theabsoluteunit;60
@@ -67360,7 +67359,6 @@ thelaw;40
 thelead;20
 the left;30
 The Leftorium;60;Ned Flanders's left-handed store
-The Leftorium;20
 The Legend of Billie Jean;50;1985 drama film by Matthew Robbins
 The Lego Movie;60
 theleonids;40
@@ -67512,7 +67510,6 @@ thenudemaja;60;Goya painting
 The Number of the Beast;60
 The Nun II;40;Eighth installment in "The Conjuring" franchise
 The Nutcracker;60
-The Nutcracker Suite;60
 The Nutcracker Suite;60
 The Nutty Professor;60
 The Oatmeal;50
@@ -69340,8 +69337,8 @@ torturer;40
 torturers;40
 tortures;40
 toruli;20;Insect's antenna socket
+tos;40;Lean-tos, talking-tos, go-tos, how-tos, etc.
 TOS;40;Terms of service
-TOS;40;Lean-tos, talking-tos, go-tos, how-tos, etc.
 Tosca;40
 Toscanini;50
 To Serve Man;60
@@ -70759,7 +70756,6 @@ two cents;50
 two-cycle;50
 two-cycle engine;50
 two-cycle engines;50
-two-cycle engines;20
 twodashes;30
 twodots;20
 two-drink minimum;60
@@ -71546,8 +71542,8 @@ uprears;40
 uprooter;30
 uprooters;30
 uprose;30
-UPS;50;Positive things
-UPS;50;United Parcel Service
+ups;50;Positive things
+UPS;40;United Parcel Service
 upsadaisy;60
 upsala;20;Defunct New Jersey college
 upscale;50
@@ -73522,7 +73518,7 @@ went all in;50
 went all out;50
 went ape;50
 wentapeover;50
-went apeshit over;20
+went apeshit for;10
 went apeshit over;10
 wentas;40
 went astray;50
@@ -73628,7 +73624,6 @@ we're on;40
 wereonthesamewavelength;60
 we're open;60
 we're rich;60
-we're so back;60
 we're so back;60
 weresoold;60
 werestuck;50
