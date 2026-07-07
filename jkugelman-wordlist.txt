@@ -301,6 +301,7 @@ aaverage;50
 aaverages;50
 ab;40
 aba;40;Bar assoc.
+ABAB;30;Rhyme scheme
 abacab;40;Genesis album
 abaci;50
 aback;50
@@ -459,6 +460,8 @@ abominating;40
 aboner;20
 abookwithinabook;60
 aboriginalland;50
+abort! abort!;50
+abort abort;0
 aborter;30
 aborters;30
 aboundedin;30
@@ -923,6 +926,7 @@ ad;50
 AD 1;50;First year of the Common Era
 ada;50
 adab;30
+Adad;20;Babylonian storm god
 adagencies;50
 adagency;50
 adai;40;Dosa made with lentils (used several times in USA Today)
@@ -1043,6 +1047,7 @@ adheringto;40
 adhominem;60
 adia;40
 adiabatic;40
+adieu, adieu;50
 adieus;40
 adieux;40
 adillyofapickle;60
@@ -1359,6 +1364,7 @@ afterthese;20;???
 afts;40
 ag;40
 aga;20
+Agag;20;Biblical king
 agalaxyfarfaraway;60
 agallop;30
 agame;50
@@ -1366,7 +1372,7 @@ A Game of Thrones;60;A Song of Ice and Fire book #1
 agamewithinagame;60
 agana;20;Capital of Guam, archaic
 agar;40
-agaragar;30;Agar-agar
+agar-agar;30;Thickening agent used in microbiology and food
 agaric;20
 agars;30;Legit plural?
 agasp;40
@@ -1863,6 +1869,7 @@ alcaldes;30
 alcapone;50
 alcaraz;40;Top tennis player Carlos Alcaraz (2018-current)
 alcatraz;60
+alces alces;20;Moose species
 alceste;30;Gluck opera
 alcestis;30;Euripides play
 alchemist;60
@@ -2529,6 +2536,7 @@ Amelia Bedelia;60;Children's books character who takes figures of speech literal
 amelias;30;Plural name
 ameliorant;30
 amemoir;40
+amen amen;50
 amencorners;50
 amendatory;40;???
 amendedtext;20;Green paint?
@@ -2820,6 +2828,7 @@ ancientman;50
 ancus;20
 and;50
 andale;40
+¡ándale, ándale!;40;Spanish "Let's go, let's go!"
 andalusite;40
 andaman;30;Indian islands
 andanotherthing;60
@@ -2848,6 +2857,7 @@ andl;20
 andloan;20
 andmakeitsnappy;60
 andnotthawedout;0
+and on and on;60
 andone;50;NBA term
 andosentinelorl;0
 andra;30;Singer Andra Day???
@@ -2864,6 +2874,7 @@ androngynous;60
 ands;40
 andso;50
 andsoitgoes;60
+and so on and so on;60
 andtheawardgoesto;60
 andthelike;60
 andthentherewerenone;60
@@ -3967,6 +3978,7 @@ arresthim;50
 arrestment;40
 arrets;20
 arrhenius;30;Nobel prize winning chemist
+¡arriba, arriba!;60;Speedy Gonzales's cheer
 arrid;40;Deodorant
 arriere;20
 arriveat;40
@@ -4865,6 +4877,8 @@ Australian turtledove;20
 austro;40
 aut;20
 authentications;30
+Author! Author!;50;P. G. Wodehouse book / 1982 Al Pacino film
+Author Author;0
 authoress;30
 authoresses;30
 authorinresidence;60
@@ -7490,6 +7504,7 @@ bladderfiddle;50;Musical instrument
 bladeii;30
 bladerunner;60
 bladesof;0
+blah blah;50
 blahnik;40
 blaises;20
 blamedon;40
@@ -8017,6 +8032,7 @@ boloknives;50
 bombballoonbasket;60;Acme invention
 bombblast;50
 bombblasts;50
+bombina bombina;20;European fire-bellied toad
 bombsaway;60
 bombscare;50
 bombscares;50
@@ -11253,7 +11269,7 @@ chantries;30;Church things
 chantry;30;Church thing
 chanty;20;(Sea) shanty
 chao;40
-chaoschaos;50;???
+Chaos Chaos;50;Indie synthpop band
 chaotian;20;Proposed geologic era
 chaoticevil;60;D&D alignment
 chaoticgood;60;D&D alignment
@@ -13051,6 +13067,7 @@ comebackemptyhanded;50
 comebet;50
 comeby;40
 comeclean;50
+come, come;50
 comedicfoil;60
 comedicfoils;60
 comedicprop;50
@@ -28042,6 +28059,7 @@ happilyeverafter;60
 happybabypose;60;Yoga asana that involves lying on the back and grasping your feet, so-called for its resemblance to a baby finding their feet
 happyfathersday;60
 happyhalloween;60
+happy happy joy joy;60;Ren and Stimpy catchphrase
 happyjuice;60
 happylittletrees;60
 happymothersday;60
@@ -30862,7 +30880,7 @@ ideologist;40
 ideserveit;60
 idi;10
 idiamin;10
-I did, did I?;40;Contrived?
+I did, did I?;50
 ididgood;50
 ididnot;40;Playground retort
 ididntask;60
@@ -30917,6 +30935,8 @@ idnumber;50
 idnumbers;50
 ido;50
 idobelieve;60
+I do, do I?;50
+I do do I;0
 idodothat;60
 idoidoidoidoido;50;ABBA song
 idoindeed;50
@@ -35025,6 +35045,7 @@ kissesupto;50
 kissin;30;Elvis film "Kissin' Cousins"
 kissingbutt;60
 kissingupto;50
+Kiss Kiss Bang Bang;60;2005 Robert Downey Jr. / Val Kilmer crime-comedy film
 kissme;50
 kissmedeadly;60
 kissmygrits;60
@@ -41540,6 +41561,7 @@ mmx;20
 mmxc;20
 mmxl;20
 mmxvi;20
+MM/YY;30;Credit card expiration date format
 mn;40
 mneme;20
 mnightshyamalan;60
@@ -42872,6 +42894,8 @@ nanaimo;40;Port in British Columbia, don't know if notable didn't look
 nanana;20
 nananana;20
 nanananana;20
+Na Na Na (Na Na Na Na Na Na Na Na Na);40;2010 single by My Chemical Romance
+Na Na Na Na Na Na Na Na Na Na Na Na;0
 nanas;40
 nanbobbsey;50;One of the Bobbsey Twins of kid lit
 nance;30;Jack Nance of Twin Peaks, or 1930s VP John Nance Garner (common clue, ugh!)
@@ -42884,6 +42908,7 @@ nankeen;20
 nankeens;20
 nankipoo;30
 nannie;40;Civil Rights activist Nannie Helen Burroughs
+nanny nanny boo boo;60
 nannystate;60
 nannystates;60
 nannytax;50
@@ -45422,6 +45447,7 @@ ofaman;0
 ofanera;40
 ofbad;20
 of biblical proportions;60
+of course, of course;50
 off;50
 offcut;40;Leftover material (wood, fabric, etc.)
 offcuts;40
@@ -46183,6 +46209,8 @@ onenotrump;40
 oneocat;20;Old ball game
 oneoclock;40
 oneofus;50
+one of us! one of us!;60
+one of us one of us;0
 oneohm;40
 oneoldcat;20;Old ball game
 oneon;30
@@ -51582,6 +51610,7 @@ promisees;40
 promiseme;60
 promisering;60
 promiserings;60
+promises promises;60
 promking;60
 promkings;60
 promocassette;60
@@ -72436,6 +72465,7 @@ vulcan;50
 vulcandeathgrip;60
 vulcans;50
 vvoowweell;0
+VVVVVV;40;2010 puzzle-platform game
 vwbug;60
 vwbugs;60
 vwbus;60
@@ -73400,6 +73430,8 @@ werenext;50
 werenogoodtogether;60
 werenotbuyingit;60
 werenotevenhere;60
+we're not worthy, we're not worthy;60;"Wayne's World" catchphrase
+we're not worthy we're not worthy;0
 werentmeanttobe;60
 wereon;40
 wereonthesamewavelength;60
