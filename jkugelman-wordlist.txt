@@ -1922,6 +1922,9 @@ alembic;30;Alchemy vessel
 alembics;30
 alencon;20;Normandy town
 alephs;40
+Aleppo;40;Syrian city
+Aleppo, Syria;50
+Aleppo Syria;0
 alertedto;40
 alerter;40
 alerters;40
