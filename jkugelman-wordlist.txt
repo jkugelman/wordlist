@@ -2063,6 +2063,7 @@ allaspects;60
 allatingle;50
 allayer;30
 allayers;30
+all banged up;60
 allbangers;60
 allbangersnoskips;60
 allbark;60
@@ -4231,6 +4232,10 @@ asiseeit;60
 asisuspected;60
 asivesaid;60
 ask;50
+ask a silly question;60
+ask a silly question, get a silly answer;60
+ask a stupid question;60
+ask a stupid question, get a stupid answer;60
 askdad;60
 askedfor;40
 askedin;40
@@ -6822,6 +6827,7 @@ besharps;60;Homer's barbershop quartet
 beshrew;30
 beshrewed;30
 beshrews;30
+beside the question;60
 besieger;30
 besiegers;30
 besmear;40
@@ -6950,6 +6956,7 @@ Beyonce Knowles;0
 Beyoncé Knowles-Carter;60
 Beyonce Knowles-Carter;0
 beyondonesreach;50
+beyond question;60
 beyondthespiderverse;60
 bf;40
 bfa;40
@@ -8804,11 +8811,14 @@ brigid;30;Patron saint of Ireland
 brimmer;20
 brimstone;50
 bringemon;60
+bringing into question;50
 bringingon;40
 bringingonesagame;60
+bring into question;50
 bringiton;60
 bringon;40
 bringonesagame;60
+brings into question;50
 bringson;40
 bringsonesagame;60
 bringsto;40
@@ -8952,6 +8962,7 @@ brotherrat;50
 brothersinarms;60
 brothersinlaw;50
 brotox;50;Botox for men, slangily
+brought into question;50
 broughton;40
 broughtonesagame;60
 brouhaha;60;Fun word
@@ -10040,6 +10051,8 @@ candyshop;50
 candyshops;50
 candystore;50
 candystores;50
+can I ask a question?;60
+can I ask a question;0
 caniaskyousomething;60
 canibuyyouadrink;60
 canicome;60
@@ -14627,6 +14640,7 @@ croziers;40
 crs;20
 crt;20
 cru;40;French vineyard
+crucial question;20
 cruciverbalist;60
 cruciverbalists;60
 crudemetal;50
@@ -16662,6 +16676,7 @@ diewithasmile;60;Grammy-winning Lady Gaga & Bruno Mars duet
 diez;40;Ten in Spanish
 dif;20
 diff;40
+difficult question;20
 difficulttime;60
 diffs;20;???
 dig;50
@@ -20887,6 +20902,8 @@ ETD;40;Estimated time of departure
 etds;40
 ete;40
 etee;20
+eternal question;60
+eternal questions;60
 eterne;40
 etes;40
 etesian;30;Mediterranean wind
@@ -25222,6 +25239,8 @@ getareadon;60
 getaroundto;40
 getarun;30;Green paint
 getasay;50
+get a silly answer;60
+get a stupid answer;60
 getat;40
 getatip;50
 getatoehold;60
@@ -27039,6 +27058,7 @@ greatlie;20
 greatoldone;60;Cthulhu, e.g.
 greatoldones;60
 greatpains;50
+great question;60
 greatredspot;60
 greatsaltlake;60
 greatsaltlakedesert;60
@@ -28107,6 +28127,10 @@ hardg;30
 hardgrounder;50
 hardgs;30
 hardheaded;60
+hardhitingquestion;0
+hardhitingquestions;0
+hard-hitting question;60
+hard-hitting questions;60
 hardlabor;50
 hardlot;50
 hardluckstories;60
@@ -30692,6 +30716,8 @@ icebelt;30
 icebergtheory;60;Hemingway's theory on writing
 icebreakergame;60
 icebreakergames;60
+icebreaker question;60
+icebreaker questions;60
 icebreaking;50
 icebucketchallenge;60
 icecanoe;60
@@ -31567,6 +31593,7 @@ imnotscaredofyou;60
 imnotsorry;60
 imnotsure;60
 imnotsurprised;60;"We all saw that one coming"
+I'm not taking questions;60
 imnotyou;60
 imnotyourmother;60
 imo;40
@@ -32492,6 +32519,7 @@ intl;40
 intoner;30
 intoners;30
 intoodeep;60
+into question;30
 intoshape;30
 intothespiderverse;60
 intra;40
@@ -32559,6 +32587,8 @@ inversed;30
 invertase;40;Baking enzyme
 invertedcomma;60
 invertedcommas;60
+inverted question mark;60;¿
+inverted question marks;60;¿¿¿
 invesco;40;Investment management company
 investmentbanks;50
 investmentvalue;50
@@ -33021,6 +33051,7 @@ is that a smile?;60
 is that a smile;0
 is that a thing?;60
 is that a thing;0
+is that a trick question?;60
 is that a yes?;60
 is that a yes;0
 is that a yes or a no?;60
@@ -33035,6 +33066,8 @@ istheskyblue;60
 isthisabadtime;60
 isthisajoketoyou;60
 isthisanything;60
+is this a trick question?;60
+is this a trick question;0
 isthisbetter;60;"Seem like an improvement?"
 isthisgood;60
 isthisit;60
@@ -33226,6 +33259,7 @@ itsarealstretch;60
 itsasetup;60
 itsashame;60
 itsasign;60
+it's a simple question;60
 itsastart;60
 itsastretch;60
 itsathing;60
@@ -33347,6 +33381,7 @@ itsstarting;50
 itsstretchingit;60
 itstakingforever;60
 itsthebestofbothworlds;60
+it's the eternal question;60
 itsthelaw;60
 itstime;50
 itstimetomoveon;60
@@ -52368,6 +52403,7 @@ quickbitetoeat;60
 quickbooks;60;Budgeting software
 quickcam;50
 quickerpickerupper;60
+quick question;60
 quidditchplayer;50
 quidditchplayers;50
 quietcar;50
@@ -53298,8 +53334,8 @@ reade;30;Novelist Charles
 reademandweep;60
 readerquestions;50
 readerresponses;50
-readersubmittedquestion;60
-readersubmittedquestions;60
+reader-submitted question;60
+reader-submitted questions;60
 reades;20
 readier;30
 readiest;30
@@ -66675,6 +66711,7 @@ thatslaps;60
 thatsme;60
 thatsmessedup;60
 thatsmorelikeit;60
+that's my next question;60
 thatsnewstome;60
 thatsnice;60
 thatsnolie;60
@@ -66710,10 +66747,12 @@ thatssurprising;60
 thatsthat;60
 thatsthebasicidea;60
 thatsthebasicideaanyways;60
+that's the eternal question;60
 thatsthegistofit;60
 thatsthejoke;60
 that's the neat part, you don't;60;Meme phrase
 thatstheplan;60;"I'm aiming to!"
+that's the question;60
 thatsthething;60
 thatsthewayitgoes;60
 thatsthewayitis;60
@@ -66737,6 +66776,7 @@ thatsyou;60
 thatsyounotme;60
 thattracks;60
 thatwasagoodone;50
+that was my next question;60
 thatwontdo;60
 thatworks;60
 thawer;30
@@ -67018,6 +67058,7 @@ theerastour;60
 The Escape Artist;50;1982 American film / 2013 BBC thriller series
 The Escape Club;50;English pop rock band formed in 1983
 theespys;40
+the eternal question;60
 the EU;40
 the euro;30
 theexpertscurse;60
@@ -67453,6 +67494,7 @@ thereisa;0
 thereisaidit;60
 thereisnochoice;60
 there is no escape;60
+there is no question;60
 thereisnosilverbullet;60
 thereitis;60
 theremainsoftheday;60
@@ -67472,6 +67514,9 @@ theresnoeasywaytosaythis;60
 there's no escape;60
 theresnoexcuse;60
 theresnoexcuseforyou;60
+there's no question;60
+there's no question about it;60
+there's no question about that;60
 theresnosilverbullet;60
 theresnotimetoexplain;60
 theresnouse;60
@@ -67944,6 +67989,8 @@ thoriated;30
 thoriates;30
 thoriating;30
 thorite;30
+thorny question;30
+thorny questions;30
 thoron;30;Radon isotope
 thorpes;30
 thorsten;30;???
@@ -68637,6 +68684,7 @@ toahair;30
 toahalt;30
 toahead;40
 toaman;40
+to answer your question;60
 toapoint;50
 toarms;40;Battle cry
 toast;50
@@ -71308,6 +71356,7 @@ upice;20;Czech town
 upinarms;60
 upinflames;60
 upjohn;30;Defunct pharmaceutical company
+uploaded questions;0
 upn;20
 upness;30
 uponesgame;60
@@ -71994,6 +72043,7 @@ vert;40;Vertical
 vertebralcolumn;50
 vervet;30;Monkey
 verycool;60
+very crucial question;20
 verygood;50
 verymuchso;60
 veryodd;50
@@ -73595,6 +73645,8 @@ whatfor;60
 whathappensnext;60
 whathaveibecome;60
 whathogwash;60
+"what if" question;60
+"what if" questions;60
 whatinblazes;60
 whatintarnation;60
 whatinthesamhill;60
@@ -73632,6 +73684,7 @@ whatsthemagicword;60
 whatsthemove;60;"So our plan is...?"
 whatstheplan;60
 whatsthepoint;60
+what's the question?;60
 whatstheretoget;60
 whatstheretolose;60
 whatsthescuttlebutt;60
@@ -73648,6 +73701,7 @@ what's your beef?;60
 whatsyourexcuse;60
 whatsyourmalfunction;60
 whatsyourproblem;60
+what's your question?;60
 whattaappity;0
 whatthe;60
 whattheactualfuck;10
@@ -73655,6 +73709,8 @@ whatthefuck;10
 whatthehey;60
 whatwasithinking;60
 whatwasthatfor;60
+what was the question?;60
+what was your question?;60
 whatwouldjesusdo;60
 whatwouldyoulike;60
 wheals;30;Hives
@@ -75150,6 +75206,10 @@ yesmen;60
 yesmlady;50
 yesmom;60
 yesmyson;60
+yes-no question;60
+yes no question;0
+yes-no questions;60
+yes no questions;0
 yesreally;60
 yessed;30
 yessing;30
