@@ -33414,6 +33414,7 @@ ittt;0
 itunesstore;50
 iturbi;30;Pianist Jose Iturbi
 itv;20
+it very well may be;60
 itwasadarkandstormynight;60
 itwasadaylikeanyother;60
 itwasalladream;60
@@ -34979,6 +34980,7 @@ kimye;40;Kim/Kanye
 kin;50
 kinara;30;Kwanzaa candle holder
 kinase;30;ATP enzyme
+kinda sorta maybe;60
 kinderjoy;50;Chocolate eggs brand
 kindlily;30;Weird adverb
 kindsofkindness;60
@@ -40184,6 +40186,10 @@ may;50
 mayaderen;40;Maya Deren, experimental filmmaker in the 1940s and 50s
 mayanruins;50
 maybedont;60
+maybe it's just me;60
+maybe it's just me but;60
+maybe, maybe not;60
+maybe maybe not;0
 maybeso;50
 mayella;30;"To Kill a Mockingbird" central character
 mayflies;50
@@ -75444,7 +75450,7 @@ youlose;50
 youlostme;60
 youlove;0
 youmans;40;Broadway composer Vincent Youmans ("Tea for Two", "No, No, Nanette")
-youmaybeexcused;60
+you may be excused;60
 youmind;60
 youmissed;60
 youmustbefunatparties;60
