@@ -73109,6 +73109,8 @@ wedgie;60
 wedgies;60
 wedidit;50
 wedo;50
+We Don't Need Another Hero (Thunderdome);50;1985 single by Tina Turner
+we don't need no education;60;Opening line from Pink Floyd's "Another Brick in the Wall"
 wee;50
 weedeater;50
 weedeaters;50
