@@ -8979,6 +8979,8 @@ broughtonesagame;60
 brouhaha;60;Fun word
 brouhahas;60
 brown-bagged;50
+brown-bagger;50
+brown-baggers;50
 brownbaglunch;50
 brownbaglunches;50
 brown belt;60
@@ -12244,7 +12246,6 @@ clampingon;30
 clampon;40
 clampson;40
 Clanton;30;OK Corral gunfighter
-clapback;60
 clap back;60
 Clap Back;50;2003 single by Ja Rule
 clap back at;60
@@ -26240,7 +26241,10 @@ goi;20
 go in;40
 going all in;50
 going all out;50
-goingape;50
+Going Ape!;50;1981 Tony Danza / Danny DeVito comedy film
+going ape;50
+GOINGAPE!;0
+goingape;0
 goingapeover;50
 going apeshit for;10
 going apeshit over;10
@@ -41049,7 +41053,11 @@ mgt;20
 mho;20;Conductance unit
 mhz;40
 mi;40
-mia;50
+Mia;50;Various people
+MIA;40;Missing in action
+M.I.A.;40;British singer, rapper, songwriter, record producer, and activist
+mia;10;Bulimia
+MIA!;0
 Miamian;40
 miamifl;30
 miamis;40;Tribe
@@ -66264,7 +66272,7 @@ teemer;30
 teemers;30
 Teemu;30;Hockey Hall of Famer Teemu Selänne
 Teemu Selänne;50;Hockey Hall of Famer (2017)
-teemuselanne;20
+Teemu Selanne;0
 Teena;40
 teen angst;60
 teener;30;Teenager, or drug slang
@@ -75879,9 +75887,9 @@ zero;50
 zero-calorie;50
 zero calories;50
 zero-carbon;60
-zerodarkthirty;60
 zero dark thirty;60;Military slang for an ungodly early time
 Zero Dark Thirty;60;2012 film about the hunt for bin Laden
+zerodarkthirty;0
 zeroed in;50
 zeroed in on;50
 zeroes in;50
