@@ -30914,6 +30914,7 @@ idareyou;60
 idbecareful;60
 idbedelighted;60
 idbettergo;60
+IDC;30;I don't care
 idchip;40
 idchips;40
 ide;20
