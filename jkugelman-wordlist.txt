@@ -3699,6 +3699,9 @@ aretino;20;Renaissance author
 aretoo;40;Playground retort
 aretreat;0
 areweclear;60
+are we done here?;60
+are we done here;0
+are we done yet?;60
 arewegettingthis;60
 arewelive;60;"Is this thing on?"
 arewenot;20
@@ -21186,6 +21189,7 @@ ewallet;40
 ewallets;40
 ewaste;50
 ewe;50
+ewe don't say;0
 ewelamb;30
 ewell;40
 ewer;40
@@ -24856,6 +24860,7 @@ gaveground;50
 gaveitago;50
 gaveittheoldcollegetry;60
 gaveitto;40
+gave one's best;60
 gave the brush-off;60
 gavethegreenlight;60
 gavetherunaround;60
@@ -25712,6 +25717,7 @@ given the brush-off;60
 giventhegreenlight;60
 givento;40
 givenzerofucks;10
+give one's best;60
 givesahand;50
 givesairto;40
 givesalift;50
@@ -25721,6 +25727,7 @@ givesground;50
 givesitago;50
 givesittheoldcollegetry;60
 givesitto;40
+gives one's best;60
 gives the brush-off;60
 givesthegreenlight;60
 givestherunaround;60
@@ -25746,6 +25753,7 @@ givingground;50
 givingitago;50
 givingittheoldcollegetry;60
 givingitto;40
+giving one's best;60
 giving the brush-off;60
 givingthegreenlight;60
 givingtherunaround;60
@@ -44662,7 +44670,7 @@ nowme;60
 nownow;60
 nowonder;60
 nowthen;50
-nowwhatdowedo;60
+now what do we do;60
 nowwheredidipark;60
 nowwheredidwepark;60
 nox;40;Night goddess
@@ -46204,6 +46212,7 @@ oneround;30
 oners;40
 onerun;40
 ones;50
+one's best;20
 onescoop;50
 onese;20
 onesecond;50
@@ -48214,6 +48223,7 @@ pastlife;50
 pastlives;50
 pastme;50
 pastonesbedtime;60
+past one's best;50
 pastorate;40
 pastorates;40
 pastspat;0
@@ -59456,6 +59466,7 @@ showboater;60
 showboating;60
 showboats;60
 showed a profit;60
+showed one's best side;60
 showed signs of life;60
 shower;50
 showerbeer;60
@@ -59479,6 +59490,7 @@ showhorses;50
 showid;50
 showids;50
 showing a profit;60
+showing one's best side;60
 showing signs of life;60
 showmatch;50
 showmatches;50
@@ -59488,6 +59500,7 @@ show of force;60
 show of gratitude;60
 show of strength;60
 show of support;60
+show one's best side;60
 showroom;50
 showrooms;50
 shows a profit;60
@@ -59498,6 +59511,7 @@ showsofgratitude;20
 shows of strength;60
 shows of support;60
 showsomeclass;60
+shows one's best side;60
 shows signs of life;60
 showto;20
 shr;20
@@ -69724,6 +69738,8 @@ tridelt;40;Women's fraternity ΔΔΔ, colloquially
 triduum;30;Christian "Three Days" before Easter
 triedfor;40
 triedon;40
+tried one's best;60
+tried one's best at;40
 triedoutfor;40
 triedouton;40
 triedto;30
@@ -69734,6 +69750,8 @@ trier;30;Judge, e.g.
 triers;30
 triesfor;40
 trieson;40
+tries one's best;60
+tries one's best at;40
 triesoutfor;40
 triesouton;40
 triesto;30
@@ -69991,6 +70009,8 @@ tryharding;60
 tryhards;60
 tryingfor;40
 tryingon;40
+trying one's best;60
+trying one's best at;40
 tryingoutfor;40
 tryingouton;40
 tryingto;30
@@ -69998,6 +70018,8 @@ tryme;60
 trymelater;60
 tryna;40
 tryon;40
+try one's best;60
+try one's best at;40
 tryoutfor;40
 tryouton;40
 trypanophobe;50
@@ -73108,7 +73130,7 @@ wedgeissues;60
 wedgie;60
 wedgies;60
 wedidit;50
-wedo;50
+we do;50
 We Don't Need Another Hero (Thunderdome);50;1985 single by Tina Turner
 we don't need no education;60;Opening line from Pink Floyd's "Another Brick in the Wall"
 wee;50
@@ -73245,7 +73267,7 @@ wellletsjustsay;60
 wellletsseenow;60
 wellletthisslide;60
 wellnowwhat;60
-wellnowwhatdowedo;60
+well now what do we do?;60
 wellread;60
 wellregulatedmilitia;60
 wellrested;50
