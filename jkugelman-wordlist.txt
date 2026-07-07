@@ -369,6 +369,7 @@ abcjuice;60;Apple-beetroot-carrot juice
 abcrunch;50
 abcrunches;50
 abctv;30
+ABD;20
 abduls;30;Plural name
 abdurraqib;50;Poet Hanif Abdurraqib (2021 MacArthur Fellow)
 abe;50
@@ -6666,6 +6667,12 @@ beguine;30;Rhumba-like dance
 beguines;30
 behan;30;Irish writer Brendan Behan
 behar;40;Joy Behar of "The View"
+behead;40
+beheaded;40
+beheading;40
+be heading for a fall;20
+beheadings;40
+beheads;40
 behests;40
 behim;20
 behindit;20
@@ -44610,6 +44617,11 @@ notaprob;60
 notar;40;Cigarette claim
 notarial;30;???
 notarise;30
+notarised;30
+notarises;30
+notarising;30
+notarized statement;50
+notarized statements;50
 notaro;40;Comedian Tig Notaro
 notasable;20;Green paint
 notasido;40
@@ -45466,6 +45478,7 @@ Oda Mae Brown;40;Whoopi Goldberg's role in "Ghost"
 O dark thirty;60;Military slang for an ungodly early time
 odawa;20;Ottawa
 oday;40;Jazz vocalist Anita [frequent]
+ODB;30
 odd;50
 oddball;50
 oddballs;50
@@ -48808,6 +48821,7 @@ peggedout;30
 peggingout;30
 pegleg;60
 peglegs;60
+pegmatite;40;Igneous rock with very large interlocked crystals
 pegout;30;Win, in cribbage
 pegsout;30
 pegtop;40;Spinning toy
@@ -49223,6 +49237,7 @@ pettaxi;60
 pettaxis;60
 petter;40
 petters;40
+Petterson;40
 pettit;40;???
 pettycash;50
 petula;40;"Downtown" singer Petula Clark
@@ -69325,6 +69340,7 @@ torturer;40
 torturers;40
 tortures;40
 toruli;20;Insect's antenna socket
+TOS;40;Terms of service
 tos;40;Lean-tos, talking-tos, go-tos, how-tos, etc.
 tosca;40
 toscanini;50
@@ -71530,7 +71546,8 @@ uprears;40
 uprooter;30
 uprooters;30
 uprose;30
-ups;50
+ups;50;Positive things
+UPS;50;United Parcel Service
 upsadaisy;60
 upsala;20;Defunct New Jersey college
 upscale;50
