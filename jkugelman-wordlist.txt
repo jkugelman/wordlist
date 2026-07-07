@@ -104,6 +104,7 @@
 #3 seed;50
 #3 seeds;50
 3 wise monkeys;60
+3XL;40;Triple extra large size
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
 4:3;40;Fullscreen aspect ratio
 4:3 aspect ratio;60
@@ -921,7 +922,7 @@ Acuvue;40;Contact lens brand
 acv;20
 acyrologia;20;Malapropism
 ad;50
-AD 1;50;First year of the Common Era
+AD 1;40;First year of the Common Era
 Ada;50
 a dab;30
 Adad;20;Babylonian storm god
@@ -2351,7 +2352,7 @@ althorn;20;Horn
 althorns;20;Horns
 alti;40;Altos, or prefix
 Altimas;40;Some Nissans
-Alt-J;50;English indie rock band
+Alt-J;30;English indie rock band
 alt key;30
 alt-metal;50
 altoaria;40
@@ -4118,7 +4119,7 @@ as am I;50
 asamule;20
 asana;40;Yoga position
 asanas;30
-ASAP;50
+ASAP;40
 asarail;30
 as a rule;50
 asaset;40
@@ -33811,6 +33812,7 @@ jamsinto;40
 jamun;30
 jan;50;Month or first name
 Jana;30
+Jana Gana Mana;50;National anthem of India
 Jana Novotna;50
 jandj;30
 Jane Eyre;60
@@ -39599,7 +39601,8 @@ Mammy;50;"Gone With the Wind" character
 mamo;20;Plant/bird
 mamselle;40;???
 man;50
-Mana;50
+mana;50;Magical power
+Mana;30
 manageress;20
 managing editors;50
 managing partner;50
@@ -43496,7 +43499,8 @@ Nena;40;"99 Luftballons" singer
 nene;40
 Neneh;20
 nenes;40
-neo-;50
+Neo;50
+neo-;40
 neobank;60;Online only bank
 neobanks;60
 neobop;40;1980s jazz style pioneered by Wynton Marsalis
@@ -47619,7 +47623,8 @@ owns it;60
 owns up to;40
 own up to;40
 owosso;20;Michigan town
-OWS;50
+ows;40
+OWS;30;Occupy Wall Street
 oww;40
 ox;50
 oxalate;40;Organic molecule
@@ -48853,7 +48858,7 @@ pelicanchicks;50
 pelion;20
 pelisse;30;Fur-lined cloak
 pelisses;30
-Pell;50
+Pell;40
 pellagra;30;Disease
 pellagrous;20
 pelletgun;50
@@ -52572,7 +52577,7 @@ Quonset hut;60
 Quonset huts;60
 quoter;40
 quoters;40
-QVC;50
+QVC;40
 qwave;30;Heart wave measured in an ECG
 qxquv;0
 r;40
@@ -68791,7 +68796,7 @@ T-men;30
 tmesis;40;Separation of a word/phrase by another, e.g. un-freaking-believable, whole nother story, any-old-where
 TMI;40
 tms;20
-TMZ;50
+TMZ;40
 TN;40
 tnage;0
 tnecsatsereve;0
@@ -69907,7 +69912,9 @@ tressy;30
 Trevelyan;40;???
 Trevi;40
 Trevino;40;Golfer Lee Trevino
-T rex;50
+T. rex;50
+T-Rex;50
+T rex;0
 trexarms;60
 T rexes;50
 tri-;40
@@ -70955,7 +70962,7 @@ UFOs;50
 UFW;20
 UGA;40;University of Georgia
 Ugarte;30;"Casablanca" character
-Ugg;50
+Ugg;50;Fuzzy boot brand
 Uggs;50
 ugh;50
 ughs;40
@@ -72323,7 +72330,8 @@ viewedas;40
 viewers like you;60
 viewingas;40
 viewsas;40
-Vig;50
+Vig;40
+vig;40;Charge taken on bets, as by a bookie or gambling establishment.
 vigny;20;Alfred de ___
 VII;30
 VIII;30
@@ -74870,7 +74878,7 @@ WWII vet;50
 WWII vets;50
 WWI vet;50
 WWI vets;50
-WWJD;60
+WWJD;60;What would Jesus do?
 WWW;40
 wxy;20
 wxyz;20
@@ -74981,6 +74989,7 @@ XIX;20
 XJs;20
 xkcd;40
 XK-E;20
+XL;40
 xli;20
 xlii;20
 xliii;20
@@ -75042,7 +75051,7 @@ XVI;20
 XVII;20
 XXI;20
 XXII;20
-XXL;50
+XXL;40
 xxo;20
 XXV;20
 XXVI;20
@@ -75051,6 +75060,7 @@ XXX;50
 XXXI;20
 XXXIII;20
 XXXIX;20
+XXXL;40
 xxxrating;60
 xxxratings;60
 xylaria;40
