@@ -565,7 +565,7 @@ abt;20
 abtest;60
 abtesting;60
 abtests;60
-abu;50
+Abu;40
 abubble;30
 abudhabi;60
 abuela;40
@@ -655,6 +655,7 @@ aceae;20
 acedeuce;30
 acedia;20;Mental sloth
 acedit;40
+Aceh;30;Autonomous province in Sumatra, Indonesia
 aceinthehole;60
 aceit;40
 acela;40
@@ -5640,6 +5641,7 @@ bananasplit;60
 bananasplits;60
 banc;40
 banco;40
+Banda Aceh;40;City in Sumatra, Indonesia
 bandb;30
 bandcamp;50
 bandcamps;50
@@ -5698,6 +5700,7 @@ bannerdays;60
 banneryear;60
 banneryears;60
 bano;40
+Bantam Ben;50;Nickname for golfer Ben Hogan
 banting;30
 bantu;40;Nigerian people/language
 banyanfig;50
@@ -8960,6 +8963,8 @@ broomcloset;50
 broomclosets;50
 broreally;60;"Seriously dude?"
 broseph;60
+Brother, Can You Spare a Dime;60
+Brother Can You Spare a Dime;0
 brotherinlaw;50
 brotherrat;50
 brothersinarms;60
@@ -10121,6 +10126,7 @@ canoerace;60
 canoeraces;60
 canoeracing;60
 canoers;40
+canoe spare a dime;0
 canofbeer;50
 canofcorn;50
 canofsardines;40
@@ -10188,6 +10194,7 @@ canyounot;60
 canyoupleasenot;60
 canyourepeatthat;60;"Sorry, I didn't catch what you said"
 canyousee;50
+can you spare a dime?;50
 canyoutell;50
 canzone;30;Italian ballad
 caoxuepin;50;Cao Xueqin, author of "Dream of the Red Chamber"
@@ -13761,6 +13768,8 @@ cordcutter;60
 cordcutters;60
 cordcutting;60
 cordero;30;???
+core asset;50
+core assets;50
 corecore;60;2020s Internet aesthetic and artistic movement
 corespondent;40;Person cited in a divorce case as having committed adultery with the respondent
 corespondents;40
@@ -14502,6 +14511,8 @@ crocodiledundee;50
 crocus;50;Flower
 croissanwich;60;Burger King breakfast sandwich
 croissanwiches;60;Burger King breakfast sandwiches
+cromlech;40;Megalithic construction made of large stone blocks
+cromlechs;40;Megalithic constructions made of large stone blocks
 cromulent;60
 cronin;30;Last name, various
 cronus;30;Titan, also spelled Kronos
@@ -15372,7 +15383,7 @@ darnit;60
 darnitall;60
 darnitalltoheck;60
 darnittoheck;60
-darnright;60
+darn right;60
 darpa;40
 darter;40
 darters;40
@@ -17779,6 +17790,7 @@ doramaar;30;Painter, partner and subject of many Picasso paintings
 Dora Márquez;50;Dora the Explorer
 Dora Marquez;0
 dorati;30
+Dordrecht;40;City and municipality in South Holland, Netherlands
 doreen;30;Mouseketeer Doreen Tracey
 doric;40
 dories;30;Fishing boats
@@ -17966,6 +17978,9 @@ dqs;40
 dr;50
 drabclothing;40;Green paint?
 drabcolors;40;Green paint?
+dracaena;30;Plant with woody stems and funnel-shaped flowers
+dracaena draco;20;Species of flowering plant
+dracaenas;30;Plants with woody stems and funnel-shaped flowers
 drachm;30;Ancient coin
 drachma;50;Greek coin 1833-2002
 drachmae;30
@@ -20738,7 +20753,7 @@ esharp;50
 esharpscale;30
 eshkol;30;???
 eshop;30;Where to buy Nintendo Switch games
-esi;40;Novelist Esi Edugyan
+Esi;30;Novelist Esi Edugyan
 esiason;40;Boomer Esiason
 esiedugyan;50;Novelist Esi Edugyan
 esign;40
@@ -24843,6 +24858,8 @@ gastropubs;60
 gaswar;20
 gaswars;20
 gat;40
+gate agent;60
+gate agents;60
 gateau;40;Rich cake
 gateaux;40
 gatech;40
@@ -25317,6 +25334,7 @@ getoutofmyhead;60
 getoutofsight;60
 getoutofthekitchen;60
 getoutthevote;60
+get plowed;50;Get drunk / Vulgar
 getreal;60
 getrest;30
 getrevenge;50
@@ -25396,6 +25414,7 @@ getsoutalive;60
 getsoutofajam;60
 getsoutofsight;60
 getsoutthevote;60
+gets plowed;50;Gets drunk / Vulgar
 getspooked;50
 getsquiet;50
 getsready;50
@@ -25498,6 +25517,7 @@ gettingoutalive;60
 gettingoutofajam;60
 gettingoutofsight;60
 gettingoutthevote;60
+getting plowed;50;Getting drunk / Vulgar
 gettingquiet;50
 gettingready;50
 gettingreal;60
@@ -26458,6 +26478,7 @@ goodaguessasany;60
 goodaim;50
 goodas;20
 goodasgrits;60
+good as new;60
 goodat;40
 goodby;30
 goodcall;60
@@ -26754,6 +26775,7 @@ gotoutalive;60
 gotoutofajam;60
 gotoutofsight;60
 gotoutthevote;60
+got plowed;50;Got drunk / Vulgar
 gotquiet;50
 gotready;50
 gotreal;60
@@ -26839,6 +26861,7 @@ grabsacab;50
 grabsat;40
 grabson;40
 grabthebullbythehorns;60
+Grace Hopper;60;Pioneer of computer programming
 gracekelly;60
 gracile;30;Slender
 grackle;30;Kind of bird
@@ -27669,6 +27692,9 @@ hadanin;50
 hadanip;50
 hadapoint;50
 hadar;20
+had a right;50
+had a right to;40
+had a right to know;60
 hadaroughgo;50
 hadaroughgoofit;60
 had around;50
@@ -28098,6 +28124,8 @@ harburg;30;"The Wizard of Oz" lyricist Yip Harburg
 hardagree;60
 hardass;60
 hardasses;60
+hard asset;50;Physical item with intrinsic value
+hard assets;50;Physical items with intrinsic value
 hardboiled;60
 hardboileddetective;60
 hardboileddetectives;60
@@ -28247,6 +28275,9 @@ hasaneyeon;40
 hasanin;50
 hasanip;50
 hasapoint;50
+has a right;50
+has a right to;40
+has a right to know;60
 hasaroughgo;50
 hasaroughgoofit;60
 has around;50
@@ -28386,6 +28417,9 @@ haveanicelife;60
 haveanin;50
 haveanip;50
 haveapoint;50
+have a right;50
+have a right to;40
+have a right to know;60
 havearoughgo;50
 havearoughgoofit;60
 have around;50
@@ -28442,6 +28476,9 @@ havinganaxetogrind;60
 havinganedge;50
 havinganeyeon;40
 havinganip;50
+having a right;50
+having a right to;40
+having a right to know;60
 havingaroughgo;50
 havingaroughgoofit;60
 having around;50
@@ -28983,6 +29020,10 @@ heptads;30
 heptagon;40
 heptagonal;40
 heptagons;40
+heptarch;40
+heptarchs;40
+Heptarchy;40;Seven kingdoms of Anglo-Saxon England
+heptarchy;40;Government of seven people
 hepto;30
 her;50
 heraldry;50
@@ -30316,6 +30357,7 @@ howe;40
 howelse;50
 howerton;50
 howexactly;60
+how gauche;60
 How I Learned to Stop Worrying and Love the Bomb;60;"Dr. Strangelove" subtitle
 howisit;60
 howisthatmyfault;60
@@ -30515,11 +30557,11 @@ hushnowthegrownupsaretalking;60
 hushthegrownupsaretalking;60
 huskings;30;???
 hustings;30;Election meeting
-hustledup;50
+hustled up;50
 hustler;50
-hustlesup;50
-hustleup;60
-hustlingup;50
+hustles up;50
+hustle up;60
+hustling up;50
 hut;50
 hutment;30
 hutt;40;Jabba the Hutt
@@ -30659,6 +30701,7 @@ ibooks;30;Now known as Apple Books
 ibrahim;40
 ibram;40;Ibram X. Kendi, author of "How to Be an Antiracist"
 ibramxkendi;60;Ibram X. Kendi, author of "How to Be an Antiracist"
+IBU;20
 icahn;30;Billionaire Carl
 icallbs;60
 icallbullshit;10
@@ -34496,6 +34539,7 @@ kansascityroyals;60
 kansasdog;20;???
 kansasdogs;20;???
 kansasst;20
+Kanye spare a dime;0
 kanyewest;10
 kanyewestjayzbigsean;0
 kaolinite;30;Mineral
@@ -34659,6 +34703,7 @@ keepingkosher;50
 keepingmum;50
 keepingon;40
 keepingonescool;50
+keeping one's eyes peeled;60
 keepingpace;50
 keepingpacewith;50
 keepingtabs;50
@@ -34674,6 +34719,7 @@ keepmeintheloop;60
 keepmum;50
 keepon;40
 keeponescool;50
+keep one's eyes peeled;60
 keepoutsign;60
 keepoutsigns;60
 keeppace;50
@@ -34691,6 +34737,7 @@ keepskosher;50
 keepsmum;50
 keepson;40
 keepsonescool;50
+keeps one's eyes peeled;60
 keepspace;50
 keepspacewith;50
 keepstabs;50
@@ -34775,6 +34822,7 @@ keptkosher;50
 keptmum;50
 kepton;40
 keptonescool;50
+kept one's eyes peeled;60
 keptpace;50
 keptpacewith;50
 kepttabs;50
@@ -37422,6 +37470,7 @@ linage;30;Number of lines in printed or written matter, especially when used to 
 linages;20
 linaria;30;Flower genus
 linc;30;Eagles stadium, "Mod Squad" role
+Lin Carter;50;Fantasy writer, editor, poet and critic (1930-1988)
 lincoln;50
 lincolnmemorial;50
 lincolnne;30
@@ -38915,7 +38964,10 @@ madeanappearance;60
 madeanoffer;50
 madeapass;50
 madeaquickbuck;60
+made a sale;50
 madeastatement;50
+made a stop;50
+made a stop at;50
 madeatoast;50
 madeauey;40
 madeauie;40
@@ -38936,6 +38988,8 @@ madeitpop;60
 madeittofirstbase;60
 madeittosecondbase;60
 madeittothirdbase;60
+made light;50;Downplayed, with "of"
+made light of;50
 mademad;50
 mademattersworse;60
 madenice;60
@@ -39235,7 +39289,10 @@ makeanentrances;0
 makeanoffer;50
 makeapass;50
 makeaquickbuck;60
+make a sale;50
 makeastatement;50
+make a stop;50
+make a stop at;50
 makeatoast;50
 makeauey;40
 makeauie;40
@@ -39264,6 +39321,8 @@ makeitso;60
 makeittofirstbase;60
 makeittosecondbase;60
 makeittothirdbase;60
+make light;50;Downplay, with "of"
+make light of;50
 makelikeatreeandgetoutofhere;60
 makelikeatreeandleave;60
 makemad;50
@@ -39296,7 +39355,10 @@ makesanappearance;60
 makesanoffer;50
 makesapass;50
 makesaquickbuck;60
+makes a sale;50
 makesastatement;50
+makes a stop;50
+makes a stop at;50
 makesatoast;50
 makesauey;40
 makesauie;40
@@ -39317,6 +39379,8 @@ makesitpop;60
 makesittofirstbase;60
 makesittosecondbase;60
 makesittothirdbase;60
+makes light;50;Downplays, with "of"
+makes light of;50
 makesmad;50
 makesmattersworse;60
 makesnice;60
@@ -39381,7 +39445,10 @@ makinganappearance;60
 makinganoffer;50
 makingapass;50
 makingaquickbuck;60
+making a sale;50
 makingastatement;50
+making a stop;50
+making a stop at;50
 makingatoast;50
 makingauey;40
 makingauie;40
@@ -39399,6 +39466,8 @@ makingitpop;60
 makingittofirstbase;60
 makingittosecondbase;60
 makingittothirdbase;60
+making light;50;Downplaying, with "of"
+making light of;50
 makingmad;40
 makingmattersworse;60
 makingnice;60
@@ -39582,6 +39651,7 @@ manineededthat;60
 manintheironmask;60
 manioc;20;Cassava
 maniple;20
+manipulate light;20
 mank;40;David Fincher movie
 manless;30
 manley;40;???
@@ -39709,6 +39779,7 @@ marbleslab;50
 marbleslabs;50
 marcanthony;50
 marcaregistrada;20
+marcasite;40;Mineral known as white iron pyrite
 marcato;40
 marcelproust;60
 marcels;30
@@ -39758,6 +39829,8 @@ margheritapizza;60
 margheritapizzas;60
 margined;40
 margo;40;Various, no one super notable
+Margrethe;40;Margrethe II, queen of Denmark from 1972 to 2024
+Margrethe II;40;Queen of Denmark from 1972 to 2024
 mariacallas;50;Soprano Maria Callas
 mariachi;60
 mariachis;60
@@ -42104,6 +42177,8 @@ mosul;40;Second largest city in Iraq
 mot;40
 mota;20
 motecontrol;0
+motel pool;60
+motel pools;60
 motet;40;Short piece of sacred choral music
 motets;40;Short pieces of sacred choral music
 mothball;60
@@ -49118,6 +49193,10 @@ petnapping;50;Abducting Fifi
 petnaps;50;Abducts Fifi
 petodor;50
 petodors;50
+pet parrot;60
+pet parrots;60
+pet passport;60;Official document that records information about a specific animal as part of travel procedures
+pet passports;60;Official documents that record information about specific animals as part of travel procedures
 petpig;60
 petpigs;60
 petpsychic;60
@@ -50810,6 +50889,8 @@ portablepa;50
 portablepas;50
 portage;40
 portages;40
+portal gun;60
+portal guns;60
 portapotties;60
 portapotty;60
 portered;40
@@ -52377,6 +52458,7 @@ queasystomaches;50
 queeg;40;"The Caine Mutiny" captain
 queenan;40
 queene;20
+Queen Margrethe;50;Queen of Denmark from 1972 to 2024
 queenofclubs;50
 queenofcoins;60;Tarot card
 queenofcups;60;Tarot card
@@ -52897,7 +52979,7 @@ ran;50
 ranaclosesecond;60
 ranaclosesecondto;50
 ranafoul;50
-ranalight;50
+ran a light;50
 ranalong;50
 ranascam;50
 ranat;40
@@ -55462,11 +55544,13 @@ riptoshreds;60
 riri;40;Rihanna
 ris;20
 risdon;30;???
+rise again;40
 risefor;40
 risentofame;50
 riseofskywalker;60
 riseover;40;Conquer??? [once, Erik Agard]
 riseoverrun;60
+rises again;40
 risesover;40
 risesto;40
 risestofame;50
@@ -55475,6 +55559,7 @@ riseto;40
 risetofame;50
 risetothetop;50
 rishi;40;Rishi Sunak, UK P.M., or Hindu sage
+rising again;40
 risingover;40
 risings;40;Weird plural
 risingsealevels;60
@@ -55995,6 +56080,7 @@ rosarybeads;50
 roscoelee;30;1970s actor Roscoe Lee Browne
 roseabsolute;60;Perfumery ingredient
 roseabsolutes;60
+rose again;40
 roseanneroseannadanna;60
 roseate;40
 rosecolored;50
@@ -56346,7 +56432,7 @@ run;50
 runaclosesecond;60
 runaclosesecondto;50
 runafoul;50
-runalight;50
+run a light;50
 runalong;50
 runalongnow;60
 runasadministrator;60
@@ -56382,7 +56468,7 @@ runnels;30;Streamlets
 runneth;40
 runningaclosesecond;60
 runningaclosesecondto;50
-runningalight;50
+running a light;50
 runningascam;50
 runningat;40
 runningatab;50
@@ -56436,7 +56522,7 @@ runrampant;60
 runringsaround;60
 runsaclosesecond;60
 runsaclosesecondto;50
-runsalight;50
+runs a light;50
 runsalong;50
 runsascam;50
 runsat;40
@@ -56759,6 +56845,7 @@ sagittal;40;Anatomical plane that divides the body into left and right sections
 sagittate;30
 sago;30;Palm starch
 sagos;30
+Sag season;50;Sagittarius season
 saguarocacti;50
 saguarocactus;60
 saguarocactuses;60
@@ -56770,6 +56857,7 @@ sahl;40;Comedian Mort Sahl
 sahm;30
 sahni;30;Indian last name, not sure if anyone is notable??? Never used in NYT
 sai;30;Weapon
+said aloud;50
 saidamen;40
 saidhito;40
 saidido;50
@@ -57377,11 +57465,13 @@ saxsolos;60
 say;50
 sayagain;60
 sayah;50
+say aloud;50
 sayamen;40
 sayboo;60
 sayest;30
 sayhito;40
 sayido;30
+saying aloud;50
 sayingamen;40
 sayinghi;50
 sayinghito;40
@@ -57401,6 +57491,7 @@ sayonara;50
 sayonespiece;60
 sayplease;60
 saypresto;20
+says aloud;50
 saysamen;40
 sayshito;40
 saysido;50
@@ -58647,6 +58738,8 @@ serjtankian;50;System of a Down singer
 sermon;50
 sermononthemount;60
 sermons;50
+serologic;40
+serological;40
 serosa;20;Internal tissue
 serotine;20;Late in developing, or a Eurasian bat
 serotonin;60
@@ -58735,6 +58828,8 @@ set;50
 setacourse;50
 setacoursefor;50
 setae;20
+set a goal;50
+set ahead;40
 setat;40
 setatop;40
 setboundaries;60
@@ -58761,6 +58856,8 @@ setpoint;50
 setpoints;50
 setsacourse;50
 setsacoursefor;50
+sets a goal;50
+sets ahead;40
 setsapr;0
 setsat;40
 setsboundaries;60
@@ -58782,6 +58879,8 @@ settheclockback;60
 setthetone;50
 settingacourse;50
 settingacoursefor;50
+setting a goal;50
+setting ahead;40
 settingboundaries;60
 settingeyeson;50
 settingfireto;40
@@ -59228,6 +59327,7 @@ shewing;30
 shews;30
 shh;50
 shhh;40
+Shi;20
 shiatsumassage;50
 shiatsumassager;40
 shiatsumassagers;40
@@ -62006,6 +62106,7 @@ spanishaccents;50
 spanishlit;50
 spanky;40
 spanx;50
+spare a dime;50
 sparedtherod;60
 sparekey;50
 sparekeys;50
@@ -64730,6 +64831,9 @@ suspendedanimation;60
 suspendeddisbelief;60
 suspendingdisbelief;60
 suspendsdisbelief;60
+suspensor;40;Temporary anatomical structure in plants and fungi
+suspensors;40;Temporary anatomical structures in plants and fungi
+suspensory;40;Something that suspends / Held in suspension
 suspiration;40
 suspire;40;Sigh deeply, poetically
 suspired;40
@@ -66561,6 +66665,7 @@ tetraquark;40
 tetraquarks;40
 tetrarch;40
 tetrarchs;40
+tetrarchy;40;Roman system of power division among four rulers
 tetras;40
 tetris;50
 tetriseffect;60
@@ -66663,7 +66768,7 @@ thatgood;60
 thaticanrelateto;60
 thatisadillyofapickle;60
 thatisalie;50
-thatisarightpickle;60
+that is a right pickle;60
 thatisquiteapickle;60
 thatissonotokay;60
 thatistosay;60
@@ -66687,7 +66792,7 @@ thatsamore;60
 thatsano;60
 thatsanonstarter;60
 thatsarealstretch;60
-thatsarightpickle;60
+that's a right pickle;60
 thatsashame;60
 thatsaspicymeataball;60
 thatsaspicymeataballa;60
@@ -69403,8 +69508,13 @@ tra;20
 trabecula;20;Anatomical partition
 trabeculae;20;Anatomical partitions
 trabert;30;Tony Trabert, 10-time Grand Slam tennis player in the 1950s
+traced over;50
 tracedto;40
+trace odor;50
+trace odors;50
+trace over;50
 tracery;30;Gothic window ornamental design
+traces over;50
 tracesto;40
 traceto;40
 trach;40;Tracheotomy
@@ -69413,6 +69523,7 @@ trache;20
 tracheae;40
 tracheas;40
 trachoma;30;Eye disease
+tracing over;50
 tracingto;40
 trackage;20;Railway lines
 trackedonesorder;50
@@ -73264,6 +73375,7 @@ wegetit;60
 wegetthatalot;60
 wegotitmade;60
 wegovy;60;Weight loss drug
+we have a right to know;60
 wehavefoodathome;60
 wei;20
 weibo;40;Chinese social media site
@@ -75221,6 +75333,8 @@ yes-no question;60
 yes no question;0
 yes-no questions;60
 yes no questions;0
+yes people;50
+yes person;50
 yesreally;60
 yessed;30
 yessing;30
@@ -75497,7 +75611,7 @@ youredamnedifyoudoandyouredamnedifyoudont;60
 youredamnright;60
 youredarnedifyoudoanddarnedifyoudont;60
 youredarnedifyoudoandyouredarnedifyoudont;60
-youredarnright;60
+you're darn right;60
 youredonefor;60
 yourefinished;60
 yourefired;60
