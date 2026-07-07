@@ -32676,7 +32676,7 @@ in want of;50
 inweave;30
 inweaves;30
 inweaving;30
-INXS;50
+INXS;40;Australian rock band (1977–2012)
 Io;40
 IOC;40
 iocaine;50
