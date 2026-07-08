@@ -68895,19 +68895,28 @@ tofu dogs;50
 tofupudding;50
 tofupuffs;50
 tofu salad;50
-tog;40;Dress (up)
+tog;30;Dress (up)
 togae;30
 togaed;40
+togarashi;40;Japanese for chili pepper
 toga toga;20
-togged;40
-toggedout;40
+to get;20
+to get one's goat;20
+to get the year you;0
+togged;30
+togged out;30
 togged up;40
 toggery;40
-togging;40
+togging;30
+togging out;30
 togging up;40
-togout;40
-togs;40
-togsout;40
+to good purpose;40
+to good use;40
+to go on;20
+tog out;30
+to grow on;20
+togs;30
+togs out;30
 togs up;40
 tog up;40
 toheart;40
