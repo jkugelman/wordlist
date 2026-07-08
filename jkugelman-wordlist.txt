@@ -13649,7 +13649,7 @@ cooling rack;50
 cooling racks;50
 coolingto;40
 cool it;60
-coolitwouldyou;60
+cool it would you;60
 cool kids;60
 cool mil;60
 cool million;60
@@ -34498,7 +34498,7 @@ just a skosh;60
 just browsing;60
 justcoolit;60
 justcoolitwouldya;60
-justcoolitwouldyou;60
+just cool it would you;60
 just doing my job;60
 just doin' my job;60
 just don't;60
@@ -48196,6 +48196,7 @@ Parcells;50
 pard;40
 pardoner;40
 pardoners;40
+pardon me, would you have any Grey Poupon?;60
 pards;40
 Paree;30
 paregoric;30
@@ -73609,6 +73610,7 @@ well well well;60
 wellwerewaiting;60
 well will ya look at that;60
 well will you look that;60
+well wouldja look at that;60
 wellwouldntyouknow;60
 well would ya look at that;60
 well would you look at that;60
@@ -73963,6 +73965,7 @@ what was that for;60
 what was the question?;60
 what was your question?;60
 what would Jesus do;60
+what would you do for a Klondike Bar?;60
 what would you like;60
 wheals;30;Hives
 Wheat Chex;50
@@ -74873,12 +74876,14 @@ woulditkillher;60
 woulditkillhim;60
 woulditkillthem;60
 woulditkillyou;60
+wouldja look at that;60
 wouldjustassoon;50
 wouldn't dream of it;60
 Wouldn't It Be Nice;60
 wouldntyouknow;60
 wouldn't you know it;60
 would ya look at that;60
+would you be a dear;60
 would you look at that;60
 wound to a close;60
 wovein;40
