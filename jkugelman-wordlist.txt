@@ -3929,6 +3929,7 @@ arnica;20;Sunflower herb
 arnicas;20;Sunflower herbs
 Arnie's;40;Arnie's Army, Arnold Palmer charity
 arniesy;0
+Arnold Bax;40;English composer (1883–1953)
 arnolds;40;Happy Days diner
 aro;40
 aro ace;60
@@ -4714,7 +4715,9 @@ at speed;30;???
 atstores;30
 at symbol;50
 at symbols;50
-AT&T;40;Attempts, football stat
+AT&T;40;Telecommunications company
+ATT;40;Attempts, football stat
+att;0
 atta;40
 attaboy;60
 attack dog;60
@@ -6184,6 +6187,7 @@ B average;40
 B averages;40
 bawled like a baby;20
 bawlers;30
+Bax;20;Arnold Bax, English composer (1883-1953)
 bay;50
 Bay Area;60
 bayat;40
@@ -10902,6 +10906,7 @@ cavils;40
 Cavs;40;Cleveland Cavalier
 cavy;30;Guinea pig
 caw;50
+Cax;30;Mama Cax, American–Haitian model and disabled rights activist (1989–2019)
 caxirola;40;Brazilian percussion instrument
 caxirolas;40
 cay;50
@@ -20225,6 +20230,7 @@ enlistingin;40
 enlistinthearmy;30;Green paint???
 enlistsin;40
 enls;20
+ENM;20
 enmities;40;Weird plural
 ennead;30;Group of nine
 enneads;30;Groups of nine
@@ -20311,7 +20317,8 @@ ensteeling;30
 ensteels;30
 ensurer;40
 ensurers;40
-ENT;40
+ENT;40;Ear, nose, and throat
+ent;40;Tolkien tree creature
 enteral;30
 entered in;40
 entered into;40
@@ -20378,7 +20385,8 @@ entrycode;50
 entrycodes;50
 entry visa;50
 entry visas;50
-ENTs;40
+ENTs;40;Ear, nose, and throat doctors
+ents;40;Tolkien tree creatures
 enuf;30
 enuff;30
 enumerator;30
@@ -20830,7 +20838,9 @@ Essie;40;Top nail polish brand, actress Essie Davis (decently notable)
 Essman;30;???
 Esso;40;Canadian gas
 essy;20;Singer
-est;40
+EST;40;Eastern standard time
+-est;40;Suffix
+est;40;Estimate
 esta;40
 establishing shot;60
 establishing shots;60
@@ -31093,7 +31103,8 @@ idyls;30
 ie;40
 ied;10
 ieds;10
-ier;30;Occupational suffix [common]
+-ier;30;Occupational suffix [common]
+-iers;30
 ies;30;Plural suffix [rare]
 if;50
 ifa;20
@@ -39584,6 +39595,7 @@ mama bear;60
 mama bears;60
 mama bird;50
 mama birds;50
+Mama Cax;50;American–Haitian model and disabled rights activist (1989–2019)
 mamalike;50;???
 mamalikes;60
 maman;20
@@ -46811,7 +46823,7 @@ ophidian;20
 ophidians;20
 Ophira;30;???
 Ophiuchus;30
-OPI;40;Nail polish brand with the color "15 Minutes of Flame"
+OPI;40;Nail polish brand
 opia;20
 Opie;40
 opiner;40
