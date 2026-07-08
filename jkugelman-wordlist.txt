@@ -41737,11 +41737,15 @@ mmli;20
 mmlv;20
 mmlxv;20
 mmm;40
+mmmci;20
 mmmdc;20
 mmmdi;20
 mmmi;20
 mmmix;20
-mmmmmmgood;60;Campbell's soup slogan
+mmml;20
+M'm! M'm! Good!;60;Campbell's soup slogan
+m'm m'm good;0
+Mmm! Mmm! Good!;40;Campbell's soup slogan [I don't see evidence that it was spelled this way]
 MMORPG;40
 MMORPGs;40
 mms;30
