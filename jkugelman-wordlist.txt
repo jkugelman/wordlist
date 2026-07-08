@@ -15717,6 +15717,7 @@ deaofficer;50
 deaofficers;50
 dear;50
 dearbornmi;30
+dear, dear;50
 dearden;40;Actress Taylor Dearden from "The Pitt"
 dear friend;50
 dear friends;50
@@ -61973,7 +61974,7 @@ so that happened;60
 so that's it;60
 so that's it then;60
 so there;60;"Take that!"
-sotheresthatthen;60
+so there's that then;60
 Sothern;40;1940s actress Ann Sothern (1909-2001)
 so they say;60
 sothis;0
@@ -66971,6 +66972,7 @@ that's what you sound like;60
 that's wild;60
 that's you;60
 thatsyounotme;60
+That Thing You Do;60
 that tracks;60
 thatwasagoodone;50
 that was my next question;60
