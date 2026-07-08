@@ -16603,7 +16603,7 @@ dict;30
 dicta;40;Pronouncements
 did;50
 didabackflip;50
-did a bit;50
+did a bit;60
 did a dance;50
 didadryrun;50
 didaduet;20
@@ -17245,7 +17245,7 @@ dny;20
 do;50
 DOA;40
 doabackflip;50
-do a bit;50
+do a bit;60
 do a dance;50
 doadeal;30
 doadryrun;50
@@ -17318,7 +17318,7 @@ Doerr;40;Anthony Doerr, "Cloud Cuckoo Land" author
 doers;40
 doesabackflip;50
 does a bear shit in the woods;10
-does a bit;50
+does a bit;60
 does a dance;50
 doesadryrun;50
 doesaduet;20
