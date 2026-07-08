@@ -4635,6 +4635,7 @@ Atlanta Falcons;50
 atlantaga;30
 Atlanta Hawk;50
 Atlanta Hawks;50
+Atlanta, Illinois;40
 atlantes;20
 Atlantis;60
 atlascarry;50
@@ -8931,6 +8932,8 @@ broken in;50
 broken nose;60
 broken noses;60
 broken out into song;60
+broken taillight;50
+broken taillights;50
 broke out in a sweat;60
 broke out in song;60
 broke out into song;60
@@ -9434,6 +9437,8 @@ bustedarib;60
 bustedinon;40
 bustedon;40
 bustedoneschops;60
+busted taillight;60
+busted taillights;60
 busted up;50
 Buster Bluth;60;"Arrested Development" character
 busting a gut;60
@@ -16048,6 +16053,8 @@ del;40
 Delacorte;40;Central Park theater that hosts Shakespeare in the Park
 de la Cruz;50;Baseball All-Star Elly De La Cruz
 delanoroosevelt;0
+de la Rocha;50;Zack de la Rocha, Lead singer of Rage Against the Machine
+Delaroche;40;Paul Delaroche, French painter (1797–1856)
 Delawarean;50
 Delawareans;50
 Delaware River;50
@@ -23920,6 +23927,7 @@ franciscrick;60;Watson and Crick
 Francis Drake;60
 Francis Ford Coppola;60
 Francis X. Bushman;50;Silent film actor, director, writer (1883–1966)
+François de La Rochefoucauld;50;French writer (1613-1680)
 Fran Fine;50
 frangipane;40;French custard
 frangipani;50;Flower
@@ -34043,6 +34051,8 @@ jetskis;60
 jet stream;60
 jet streams;60
 Jett;40;Joan Jett
+jet tube taillight;20
+jet tube taillights;20
 jeu;20
 Jew;50
 Jewell;30;British spelling
@@ -48500,6 +48510,7 @@ Pau;20
 Paul Atreides;50
 Paul Blart Mall Cop;60
 Paul Cezanne;60
+Paul Delaroche;50;French painter (1797–1856)
 Paulette Goddard;50;Golden Age of Hollywood actress
 paulettegoodard;0
 Pauli;40
@@ -73970,6 +73981,8 @@ whippit;50;Inhalant drug
 whippits;50;Inhalant drugs
 whipsawn;40
 whipsin;40
+whiptail lizard;50
+whiptail lizards;50
 whirlwind romance;60
 whirlwind romances;60
 whish;30
@@ -75858,7 +75871,9 @@ za'atar;40;Za'atar Middle Eastern spice blend
 Zabar's;40;Famous NYC deli
 Zac;50
 Zach Cherry;50;From "Severance"
+Zach de la Rocha;0;Misspelled
 Zack;50
+Zack de la Rocha;60;Lead singer of Rage Against the Machine
 zacposen;50
 Zadora;40;Actress Pia Zadora
 zag;50
