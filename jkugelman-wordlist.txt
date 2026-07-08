@@ -63129,6 +63129,8 @@ star signs;60
 stars in;40
 starsofstageandscreen;60
 Star-Spangled Banner;60
+starspot;40;Stellar phenomenon
+starspots;40;Stellar phenomena
 starstruck;60
 star-studded;60
 star-studded cast;60
@@ -72946,6 +72948,8 @@ warminguptoanidea;60
 warm reception;60
 warm spell;50
 warm spells;50
+warm spot;40;Fond place in the heart, figuratively (?)
+warm spots;40
 warms to;40
 warmsuptoanidea;60
 warmto;40
