@@ -11783,6 +11783,7 @@ chili powder;50
 chillaxed;60
 chillily;30;Weird adverb
 chillwave;60
+chimaeras;40
 chimedinon;40
 chimeinon;40
 chimer;30
@@ -15193,6 +15194,8 @@ dai;20
 daikaiju;50;Surf punk band
 dailyfeed;50
 dailyfiber;50
+daily habit;50
+daily habits;50
 daily life;60
 daily mix;60;Spotify playlist
 daily mixes;60
@@ -16520,6 +16523,8 @@ dialed in;40
 dial in;40
 dialing down;50
 dialing in;40
+dial it back a bit;60
+dial it back a bit, would you?;60
 dial it down;60
 dialled;30;British spelling
 dialling;30
@@ -16598,6 +16603,7 @@ dict;30
 dicta;40;Pronouncements
 did;50
 didabackflip;50
+did a bit;50
 did a dance;50
 didadryrun;50
 didaduet;20
@@ -17239,6 +17245,7 @@ dny;20
 do;50
 DOA;40
 doabackflip;50
+do a bit;50
 do a dance;50
 doadeal;30
 doadryrun;50
@@ -17311,6 +17318,7 @@ Doerr;40;Anthony Doerr, "Cloud Cuckoo Land" author
 doers;40
 doesabackflip;50
 does a bear shit in the woods;10
+does a bit;50
 does a dance;50
 doesadryrun;50
 doesaduet;20
@@ -17497,6 +17505,7 @@ do I have a choice;60
 do I have any choice;60
 do I look stupid?;10
 doingabackflip;50
+doing a bit;60
 doing a dance;50
 doingadryrun;50
 doingaduet;20
@@ -18441,6 +18450,8 @@ drug company;60
 drug czar;60
 drug deal;60
 drug deals;60
+drug habit;10
+drug habits;10
 drug mule;60
 drug mules;60
 drugrep;50
@@ -41484,6 +41495,8 @@ Miramar;40;San Diego or Miami suburb
 Mira Nair;40;Filmmaker Mira Nair
 mireddown;40
 mired in;40
+Mirena;40;Intrauterine device
+Mirenas;40;Intrauterine devices
 Miriam Makeba;50;Miriam Makeba, South African singer a.k.a. Mama Africa
 mirier;30
 miriest;30
@@ -72596,6 +72609,10 @@ vocalfryregister;60
 vocal minorities;50
 vocal minority;50
 voce;40;Sotto voce
+vodka cran;60
+vodka cranberries;60
+vodka cranberry;60
+vodka crans;60
 vodkaneat;60
 vodka tonic;60
 vodka tonics;60
