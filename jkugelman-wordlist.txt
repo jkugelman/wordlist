@@ -197,6 +197,7 @@
 8-track tape;50
 8-track tapes;50
 90210;50;Beverly Hills's zip code
+90 Day Fiancé;60;Reality television series on TLC
 98 Degrees;60;Boy band
 99.9%;50
 99.9 percent;60
@@ -825,6 +826,7 @@ acted as;40
 acted for;40
 acted in;40
 acted in concert;60
+acted naive;40
 actedon;40
 acted upon;40
 act fast;60
@@ -847,6 +849,7 @@ actingexercises;50
 acting for;40
 acting in;40
 actinginconcert;60
+acting naive;40
 actingon;40
 acting president;50
 acting upon;40
@@ -890,6 +893,7 @@ active members;50
 active roster;50
 active rosters;50
 actives;40
+act naive;40
 act natural;60
 act normal;60
 act of parliament;50
@@ -901,6 +905,7 @@ ACT prep;50
 acts as;40
 acts for;40
 acts in;40
+acts naive;40
 acts of war;50
 actson;40
 actssad;30
@@ -1798,6 +1803,7 @@ akvavit;30;Scandinavian liquor also spelled aquavit
 akvavits;30
 Al;50
 a la;50
+à la;50
 Alabama;50
 Alabamian;50
 Alabamians;50
@@ -6805,6 +6811,7 @@ bemires;40
 bemiring;30;???
 Ben;50
 Benaderet;30;Old Hollywood actress Bea Benaderet
+be naive;20
 benand;0
 benandjerry;50
 benandjerrys;50
@@ -17734,6 +17741,7 @@ don't be a fool;60
 dontbeahog;60
 don't be rude;60
 don't be so literal;60
+don't be so naive;60
 don't be that guy;60
 dontblockthebox;60
 don't bother;60
@@ -19981,7 +19989,13 @@ Emezi;40;LGBT novelist Akwaeke Emezi
 EMF;20
 Emhoff;30;Second gentleman Doug (Kamala Harris's husband)
 EMI;40
+emigre;50
+émigré;50
+emigré;50
 emigree;30;Variant spelling?
+emigres;50
+émigrés;50
+emigrés;50
 Emil;40;1920s actor Emil Jannings, Soviet pianist Emil Gilels
 Emile;40
 emiles;20;Plural name
@@ -21452,6 +21466,14 @@ exerton;40
 exertson;40
 exeunt;40
 ex-FBI;30;Contrived
+ex-fiance;50
+ex-fiancé;50
+ex-fiancee;50
+ex-fiancée;50
+ex-fiancees;50
+ex-fiancées;50
+ex-fiances;50
+ex-fiancés;50
 exgi;30
 exgis;30
 exhorter;40
@@ -22589,7 +22611,13 @@ F-hole;40;Violin-style f-shaped hole on some guitars
 F-holes;40
 fi;30
 fiance;50
+fiancé;50
 fiancee;50
+fiancée;50
+fiancees;50
+fiancées;50
+fiances;50
+fiancés;50
 fib;50
 Fibonacci series;50
 fibrinous;40
@@ -30088,6 +30116,7 @@ hopedforarematch;60
 hopedto;40
 hopefor;40
 hopeforarematch;60
+hopelessly naive;60
 hoper;30
 hopers;30
 hopes against hope;60
@@ -30462,6 +30491,8 @@ how can I;60
 howcanideletesomeoneelsescomment;60
 howcanideletesomeoneelsespost;60
 how cool;60
+how could I be so naive?;60
+how could I be so naive;0
 how could I forget;60
 how could I not;60
 how could you forget;60
@@ -32104,6 +32135,7 @@ indecent exposure;60
 indeed I do;60
 indeedy;60
 in deep trouble;60
+in defiance;50
 indelible mark;60
 indelible marks;60
 indelibleoink;0
@@ -43114,8 +43146,12 @@ Naipaul;40;Trinidadian writer V.S. Naipaul (Nobel Prize in 2001)
 Nair;40;Hair removal brand
 naira;30;Nigerian currency
 nairas;30
+naïve;50
+naive;50
 naiver;40;It's more naive
 naivest;40;It's most naive
+naivete;50
+naïveté;50
 naked ape;50;Book
 nakedcall;60
 nakedcalls;60
@@ -43538,6 +43574,7 @@ nedicks;30;Old defunct fast food chain
 Ned Kelly;60
 neds;30
 nee;50
+née;50
 need a hand;60
 needair;50
 need a lift;60
@@ -44187,6 +44224,7 @@ ninetofiver;60
 ninetofivers;60
 ninetoone;20
 ninetosix;20;Work hours
+Ninety Day Fiancé;60;Reality television series on TLC
 ninety-five;40
 ninety-nine;40
 ninety-one;30
@@ -54952,6 +54990,12 @@ rests on one's oars;50
 restsupon;40
 restupon;40
 resultssuggest;60
+resume;50
+résumé;50
+resumé;50
+resumes;50
+résumés;50
+resumés;50
 resveratrol;50
 reswam;20
 reswim;20
