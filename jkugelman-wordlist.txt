@@ -24689,7 +24689,7 @@ game shows;60
 gamesmanship;50
 gamesome;40;Playful and merry
 Games People Play;60
-gamespot;50
+GameSpot;50;Video game website
 game-winning shot;60
 game-winning shots;60
 game within a game;60
