@@ -41872,6 +41872,7 @@ mnopqr;20
 MO;40
 moa;20
 Moab;40;Utah city
+Moafi;40;Sepideh Moafi, actress on "The Pitt"
 moai;40;Easter Island statues
 moated;40
 mob;50
@@ -58883,6 +58884,8 @@ sepal;30;Flower part
 sepaloid;30
 sepals;30;Flower parts
 sepias;30
+Sepideh;40;Sepideh Moafi, actress on "The Pitt"
+Sepideh Moafi;50;Actress on "The Pitt"
 sepoy;20;Indian soldier
 sepoys;20;Indian soldiers
 sepsis;40
