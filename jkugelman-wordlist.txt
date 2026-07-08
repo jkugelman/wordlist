@@ -71526,7 +71526,7 @@ UPC codes;50
 UPCs;40
 updog;60
 up for;40
-UPI;40
+UPI;30
 up ice;20;Czech town
 up in arms;60
 up in flames;60
