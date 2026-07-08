@@ -5291,6 +5291,7 @@ backtat;60
 backtats;60
 back tattoo;60
 back tattoos;60
+Back That Thang Up;50;1999 single by Juvenile (radio title, originally "Back That Azz Up")
 backthetruckup;60
 back tire;50
 back tires;50
@@ -33134,6 +33135,7 @@ is that all right with you?;60
 is that all there is?;60
 is that all there is;0
 is that all you got?;60
+is that all you've got?;60
 is that alright?;60
 Is That Alright?;50;2018 Lady Gaga song from "A Star is Born"
 is that alright;0
@@ -33160,6 +33162,8 @@ is that a yes or a no;0
 is that clear;60
 is that it;60
 is that so;60
+is that the best you can do?;60
+is that the best you can do;0
 is that you;60
 isthereanyonehome;60
 is there Wi-Fi?;60
@@ -44802,6 +44806,7 @@ not sure why;60
 notsurprisingly;60
 nottaapproblem;0
 not that I'm aware of;60
+not that there's anything wrong with that;60
 notthebrightestcrayoninthebox;60
 not the Onion;60
 not the sharpest tool in the shed;60
@@ -66973,7 +66978,9 @@ that's what you sound like;60
 that's wild;60
 that's you;60
 thatsyounotme;60
+that thing;0
 That Thing You Do;60
+that thought;0
 that tracks;60
 thatwasagoodone;50
 that was my next question;60
@@ -67723,7 +67730,7 @@ theresnowheretogobutup;60
 theressimplynoexcuse;60
 the rest;30
 The Restaurant at the End of the Universe;60
-theresthatthen;60
+there's that then;60
 the rest is history;60
 therestoration;50;British era 1660-1714
 the results are in;60
@@ -70635,6 +70642,7 @@ turntable;60
 turntables;60
 turn tail;60
 turn that frown upside down;60
+turn that thing off;60
 turn to;40
 turn to dust;60
 turntogold;50
@@ -74139,6 +74147,8 @@ whoopsmybad;60
 whoopsmymistake;60
 whoopsy-daisy;60
 whoopsydoodle;60
+who put that there?;60
+who put that there;0
 whored;10
 whoredoms;10
 who's a good boy;60
