@@ -33606,6 +33606,7 @@ iwasgoingtosay;60
 I was gonna say;60
 I was like;60
 iwasnthere;60
+I was right;60
 I was thinking;60
 iwilleatyoualive;60
 iwilleatyouforbreakfast;60
@@ -34691,7 +34692,8 @@ K-Cup pods;60
 kdot;40;Nickname for Kendrick Lamar
 K-drama;50;"Squid Game", e.g.
 K-dramas;50
-kea;40;Mauna Kea
+kea;30;Species of bird endemic to New Zealand
+Kea;30;Mauna Kea, Hawaiian volcano
 Keach;40
 keagan;40
 Keane;40;Bil Keane of "Family Circus"
@@ -37855,7 +37857,7 @@ LMNOP;20
 lng;20
 lns;20
 lo;40
-Loa;40;Mauna Loa
+Loa;30;Mauna Loa
 loach;40;Fish
 loaches;40
 load-bearing wall;50
@@ -46456,6 +46458,7 @@ onewood;40
 one year;40
 onfeed;40
 onfirst;40
+Ong;20;Walter J. Ong, Jesuit priest and historian (1912–2003)
 ongod;50
 On Golden Pond;60
 onhard;0
@@ -58944,6 +58947,8 @@ set-tos;40
 set upon;40
 set up shop;60
 setyourhouseinorder;60
+Seu;20;Seu Jorge, Brazilian musician and actor (born 1970)
+Seu Jorge;40;Brazilian musician and actor (born 1970)
 Seurat;50;Pointillist Georges Seurat
 Seuss;50
 Seussian;60
@@ -68825,7 +68830,7 @@ tnos;20
 T-note;40
 T-notes;40
 tns;20
-TNT;40
+TNT;50
 T-nut;40
 T-nuts;40
 to;50
@@ -69556,6 +69561,7 @@ TPing;40
 tpk;40
 tpke;40
 T pose;40
+TPP;20
 TPs;40
 tra;20
 trabecula;20;Anatomical partition
@@ -71889,6 +71895,7 @@ Ute;40
 uteri;40
 utero;40
 Utes;40
+UTF;20
 U Thant;20;U.N. Secretary-General 1961-1971
 Uther;40
 UTI;20
@@ -72881,6 +72888,8 @@ walrus moustache;60
 walrus moustaches;60
 walston;40;Ray Walston from "South Pacific", "Damn Yankees", etc.
 Walt Disney;60
+Walter J. Ong;40;Jesuit priest and historian (1912–2003)
+Walter J Ong;0
 Walter Reed;60
 Walton;40
 Walton Goggins;50
@@ -76082,6 +76091,8 @@ Zorbs;40
 zori;20
 Zosia;40;Actress Zosia Mamet of "Girls"
 zot;20
+Zou;20
+Zou Bisou Bisou;40;1960 single by Gillian Hills, Sophia Loren, Jessica Paré, and others
 zouk;30;Dance style
 zpg;20
 Zsa;40;Zsa Zsa Gabor
