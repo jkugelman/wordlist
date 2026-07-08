@@ -400,6 +400,7 @@ a bet is a bet;60
 abetment;30
 abettal;30
 abettals;30
+A Better Man;50;2003 Clint Black song
 abettor;30
 abeyance;30
 abeyances;30
@@ -1174,6 +1175,13 @@ adult site;60
 adult sites;60
 adult supervision;60
 Adult Swim;60
+adumbrate;40;Vaguely foreshadow
+adumbrated;40;Vaguely foreshadowed
+adumbrates;40;Vaguely foreshadows
+adumbrating;40;Vaguely foreshadowing
+adumbration;40;Vague foreshadowing
+adumbrations;40;Vague foreshadowings
+adumbrative;40;Vaguely foreshadowing
 adunit;50
 adunits;50
 adv;40
@@ -7249,6 +7257,7 @@ Billboard top ten;30;Does this exist?
 Bill Bruford;60
 Bill Burr;50
 billcosby;10
+Bill Cowher;50;Pittsburg Steelers head coach 1992-2006
 billedto;40
 Biller;30
 billers;30
@@ -12226,6 +12235,7 @@ cioppino;50;Italian seafood stew
 Cipro;40;Antibiotic brand
 cir;40
 Circe;40;Greek sorceress
+circle-A;50;Anarchist A, written as Ⓐ
 circleoftrust;60
 circlesoftrust;60
 circuit diagram;60
@@ -37842,7 +37852,7 @@ littlemsthang;60
 littlemsthing;60
 Little Nemo;50
 littlepigs;60
-littleprince;60
+Little Prince;60;Antoine de Saint-Exupéry's eponymously named character
 Little Red Riding Hood;60
 littlerockar;30
 little toe;50
