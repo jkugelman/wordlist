@@ -34300,6 +34300,7 @@ josh;50
 Josh Brolin;60
 joshed;50
 joshes;50
+Josh fight;20;Viral Internet meme and mock fight in 2021
 joshing;50
 joss;40;Joss Whedon (ew) or singer Joss Stone (better)
 Jost;40
