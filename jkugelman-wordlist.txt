@@ -17802,6 +17802,8 @@ door-to-door sales;50
 doortwo;40
 do-over;50
 do-overs;50
+Doo Wop (That Thing);50;1998 single by Lauryn Hill
+Doo Wop That Thing;0
 dopamine;60
 dopamine rush;60
 dopant;30
@@ -41525,6 +41527,7 @@ misdo;30
 misdoer;30
 misdoes;30
 mise;40;Mise en scene, mise en place
+Miseducation of Lauryn Hill;60;1998 studio album by Lauryn Hill, with "The"
 Miserere;40;Latin "Have mercy", in various prayers, songs, etc.
 misfed;40
 misfeed;40
@@ -67530,6 +67533,7 @@ theminotaur;40
 theminute;30
 The Miracles;40;???
 The Miracle Worker;40;???
+The Miseducation of Lauryn Hill;60;1998 studio album by Lauryn Hill
 themob;40
 themojave;40
 The Mole;50;TV show
@@ -73599,7 +73603,11 @@ wellthatsthething;60
 well there's your problem;60
 well well well;60
 wellwerewaiting;60
+well will ya look at that;60
+well will you look that;60
 wellwouldntyouknow;60
+well would ya look at that;60
+well would you look at that;60
 welly;30;Waterproof boot
 welovetoseeit;60
 Welty;40;Eudora Welty, Pulitzer-winning writer of "The Optimist's Daughter"
@@ -74331,8 +74339,10 @@ Will Poulter;50;Actor
 willpower;50
 will they or won't they;60
 willtheywontthey;60
+will ya look at that;60
 Willy Loman;50
 will you be quiet;60
+will you look at that;60
 Willy Wonka and the Chocolate Factory;60;1971 film
 Willy Wonka & the Chocolate Factory;60;1971 film
 Wilt Chamberlain;60
@@ -74864,6 +74874,8 @@ wouldn't dream of it;60
 Wouldn't It Be Nice;60
 wouldntyouknow;60
 wouldn't you know it;60
+would ya look at that;60
+would you look at that;60
 wound to a close;60
 wovein;40
 woveinto;40
