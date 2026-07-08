@@ -4755,6 +4755,13 @@ attestor;30
 attestors;30
 attests to;40
 attestto;40
+at that instant;50
+at that moment;50
+at that place;20
+at that point;50
+at that point in time;50
+at that stage;50
+at that time;50
 at the ass crack of dawn;60
 atthebat;30;Awkward
 at the drop of a hat;60
@@ -10171,6 +10178,7 @@ cans of tuna;50
 canst;40
 Cantab;40;Demonym for person from Cambridge or Harvard
 Cantabs;40
+can't beat that;60
 can't catch a break;60
 cantcook;30;???
 cantdo;40
@@ -10208,7 +10216,8 @@ canyoudothat;60
 canyoufillmein;60
 can you not;60
 canyoupleasenot;60
-can you repeat that;60;"Sorry, I didn't catch what you said"
+can you repeat that?;60
+can you repeat that;0
 can you see;50
 can you spare a dime?;50
 canyoutell;50
@@ -13997,6 +14006,7 @@ could've fooled me;60
 couldyoufillmein;60
 could you not;60
 could you please not;60
+could you repeat that?;60
 coulee;30
 coulees;30
 coulis;30;Pureed fruit sauce
@@ -17686,6 +17696,7 @@ don't despair;60
 dontdillydally;60
 don't do that;60
 don't drink and drive;60
+don't eat that;60
 don't erase;60
 dontforgettosmackthatbell;60
 don't freak out;60
@@ -17734,6 +17745,7 @@ don't tell;60
 don't tell me;60
 don't tempt me;60
 don't test me;60
+don't that beat all;60
 don't think about it;60
 donttryanything;60
 donttryit;60
@@ -28793,6 +28805,7 @@ heat rays;50
 heatset;50;Thermal process in textiles
 heatsets;50
 heatsetting;50
+heat that radiates;0
 heat wave;50
 heat waves;50
 heavedto;20
@@ -73572,6 +73585,7 @@ wellbequiet;60
 well-bred;50
 welldang;60
 well-documented;50
+well don't that beat all;60
 well drink;60
 well drinks;60
 welleatyouforbreakfast;60
@@ -75607,6 +75621,7 @@ you called;60
 you can do it;60
 youcandothat;60
 youcanonlyblameyourself;60
+you can't beat that;60
 you can't be serious;60
 you can't deny it;60
 youcantdoanythingright;60
@@ -75649,8 +75664,9 @@ you get me;60
 you get nothing;60
 yougetthatalot;60
 you give me no choice;60
-yougoingtoeatthat;60
-you gonna eat that;60
+you going to eat that?;60
+you gonna eat that?;60
+you gonna eat that;0
 yougonnaeatthose;60
 you good;60
 yougoonwithoutme;60
