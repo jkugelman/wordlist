@@ -1,5 +1,6 @@
 '03 Bonnie and Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
 '03 Bonnie & Clyde;60;2002 single by Jay-Z featuring Beyoncé Knowles
+0 AD;50
 0 BC;50
 0th;50
 100%;50
@@ -10,8 +11,10 @@
 100 pounds soaking wet;60
 100 Proof (Aged in Soul);50;Early 1970s funk/soul group
 100% Pure Love;50;1994 single by Crystal Waters
+100th;40
 100 Years of Solitude;60;1967 novel by Gabriel García Márquez
 101 Dalmatians;60;1961 Disney movie
+101st;40
 10am;40
 10 lords a-leaping;60
 10pm;40
@@ -2137,6 +2140,7 @@ all in favor;60
 all-in-one;60
 allinto;50
 alliwant;40;Hit song by Kodaline (1 billion Spotify streams) or Olivia Rodrigo (High School Musical)
+All I Want Is You;50;Song by various artists including U2
 all killer no filler;60
 all-knowing;60
 allmanner;50
@@ -3154,13 +3158,31 @@ anthropogenesis;50
 anthropomorphic;50
 anthropomorphism;50
 anthropomorphisms;50
+anti;50
+anti-;40
 antiacid;20
 anti-aging cream;60
 anti-aging creams;60
-antianti;40
+anti-anti-;30
+anti-anti-American;50
+anti-anti-Americanism;50
+anti-anti-Americanist;50
+antibaryon;50
+antibaryons;50
 Antibes;20
+antibiotic cream;50
+antibiotic creams;50
+antibiotic resistance;60
+antibody response;50
+antibody test;60
+antibody testing;60
+antibody tests;60
+antibody therapy;60
 antic;40
 Antichrist;60
+anticlimactic;60
+anticlimax;60
+anticlimaxes;60
 anticomedy;60
 antidote;50
 antidotes;50
@@ -3188,7 +3210,25 @@ antipiracy;50
 antipodean;40;Australian or New Zealander
 antipodeans;40
 antiprom;60;High school protest also known as morp
-Antiques Roadshow;60;British TV series
+antiquark;60
+antiquarks;60
+antique automobile;60
+antique automobiles;60
+antique car;60
+antique car collector;60
+antique car collectors;60
+antiquecarcololectors;0
+antique car museum;60
+antique car museums;60
+antique cars;60
+antique collector;60
+antique collectors;60
+antique lamp;60
+antique lamps;60
+Antique Roadshow;0;It's Antiques plural
+antiques buyer;60
+antiques buyers;60
+Antiques Roadshow;60;British reality show television programme
 antique store;60
 antique stores;60
 antiracism;60
@@ -10188,6 +10228,7 @@ canthelpyouthere;60
 cantholdacandleto;60
 canticleforleibowitz;50
 cantimaginewhy;60
+Cantique de Noël;60;Original title of "O Holy Night"
 cantle;30
 cantles;30
 cantmakeanyguarantees;60
@@ -26091,6 +26132,7 @@ goaltenders;60
 goaltending;60
 goaltends;60
 goaltimate;50;Ultimate frisbee spinoff with a soccer goal instead
+go antiquing;60
 go ape;50
 goapeover;50
 go apeshit for;10
@@ -26173,6 +26215,7 @@ goer;30
 goers;30
 goes all in;50
 goes all out;50
+goes antiquing;60
 goes ape;50
 goesapeover;50
 goes apeshit for;10
@@ -26298,6 +26341,7 @@ goi;20
 go in;40
 going all in;50
 going all out;50
+going antiquing;60
 Going Ape!;50;1981 Tony Danza / Danny DeVito comedy film
 going ape;50
 GOINGAPE!;0
@@ -36215,6 +36259,8 @@ Las Vegas;60
 lasvegasnv;40
 Las Vegas Strip;60
 Laszlo;40;Victor Laszlo of "Casablanca", or Peter Lorre originally
+László Moholy-Nagy;50;Hungarian painter and photographer (1895-1946)
+Laszlo Moholy-Nagy;0
 laszlototh;40;Hero of "The Brutalist"
 lat;50
 Lata;30;Lata Mangeshkar, influential Indian singer
@@ -41870,6 +41916,7 @@ Mohave;40
 mohawk;60
 mohawks;60
 mohel;50
+Moholy-Nagy;40
 Mohr;40;Comedian Jay
 Mohs;40
 moi;50
@@ -45815,6 +45862,8 @@ oh no not again;60
 oh no reason;60
 oh no you didn't;60
 oho;40
+O Holy;20
+O Holy Night;60;Christmas song
 oh really now;60
 ohs;40
 ohsaycanyousay;60;Dr. Seuss book of tongue twisters
@@ -72272,6 +72321,8 @@ verbing weirds language;60
 verb phrase;50
 verb phrases;50
 Vercingetorix;40;Gallic king
+verd antique;50;Type of green marble
+verde antique;50;Type of green marble
 Vereen;40;Actor Ben Vereen
 verged on;40
 verge on;40
@@ -73654,6 +73705,7 @@ weng;40;Will Weng
 Wen Jiabao;40
 went all in;50
 went all out;50
+went antiquing;60
 went ape;50
 wentapeover;50
 went apeshit for;10
