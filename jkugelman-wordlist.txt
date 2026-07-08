@@ -16708,6 +16708,10 @@ Die with a Smile;60;Grammy-winning Lady Gaga & Bruno Mars duet
 diez;40;Ten in Spanish
 dif;20
 diff;40
+differential diagnoses;60
+differential diagnosis;60
+differential equation;60
+differential equations;60
 difficult question;20
 difficulttime;60
 diffs;20;???
@@ -48241,22 +48245,26 @@ parter;40
 parterre;40;Ornamental garden with paths between the beds
 parters;40
 partfrom;40
+Parthenon;60
 par three;50
 par threes;50
 Part I;40
+partial abortion;10
+partial differential equation;60
 participation medal;60
 participation medals;60
 participation trophies;60
 particolor;40;Having different colors
 particolored;40;Having different colors
 particularizing;30
-partiedon;40
+partied on;40
 partiers;50
-partieson;40
+parties on;40
 Part II;40
 Part III;40
 partingfrom;40
 partingofways;60
+parting remark or action;0
 parting with;40
 partisantactic;60
 partisantactics;60
@@ -48271,6 +48279,7 @@ partsfrom;40
 part song;30
 part songs;30
 parts with;40
+part to whole relation;0
 parturition;40;Childbirth
 partv;40
 part with;40
@@ -48293,7 +48302,7 @@ partyers;20
 partygift;50
 partygifts;50
 partygoers;50
-partyingon;40
+partying on;40
 partyjam;50
 party line;50
 party lines;50
