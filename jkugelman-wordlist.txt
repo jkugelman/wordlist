@@ -5100,7 +5100,7 @@ Ayo;40;Ayo Edebiri of "The Bear" or Ayọ Tometi, co-founder of Black Lives Matt
 ayouproblem;60
 ayr;20
 Ayres;20;Actor Lew
-ays;40;Shakespearean cries
+ays;30;Shakespearean cries
 ayton;40;Deandre Ayton in the NBA, 1st overall draft pick in 2018
 ayup;50
 AZ;40
@@ -19416,6 +19416,7 @@ egal;40
 Egan;20;Actor, governor
 EGBDF;40
 Egbert;40;9th century king of England
+Ege;20
 egeria;20
 egerias;20
 egest;40
@@ -20934,7 +20935,7 @@ etchin;40
 etchingin;40
 ETD;40;Estimated time of departure
 ETDs;40
-ete;40
+été;30;French for "summer"
 etee;20
 eternal question;60
 eternal questions;60
@@ -21014,7 +21015,7 @@ e-Transfer;30
 e-Transferred;20
 e-Transferring;20
 e-Transfers;20
-etre;40
+être;40
 Etruria;30;Ancient region of Italy, home of Etruscans
 Etruscan civilization;50
 ETs;40
@@ -31168,6 +31169,7 @@ ifyousnoozeyoulose;60
 Iga;40;Iga Swiatek, current women's champion tennis player, or grocery store
 Igbo;30;Ethnic group in Nigeria
 Igby;30;Movie "Igby Goes Down"
+Ige;20
 I Get Around;50;Beach Boys song
 I get it;60
 igetlonely;60
@@ -32458,7 +32460,8 @@ insult;50
 insult comic;60
 insurance broker;50
 insurances;40
-int;40;Interception or interest
+int;40;Interest / interior / integer
+INT;40;Interceptions
 intaglio;50
 intaglioed;50
 intaglios;50
@@ -70989,6 +70992,7 @@ Ugg;50;Fuzzy boot brand
 Uggs;50
 ugh;50
 ughs;40
+UGK;20;1980s hip-hop duo
 ugli;40
 uglily;30;Weird adverb
 uglyassin;60
