@@ -11057,6 +11057,11 @@ celebrity cameo;60
 celebrity cameos;60
 celebrity roast;60
 celebrity roasts;60
+celebrity sex pass;60
+celebrity sex passes;60
+celebrity sex tape;60
+celebrity sex tapes;60
+celebrity status;60
 Celeron;20;Intel chip discontinued in 2023
 celery seed;50
 celestial bodies;50
@@ -59109,6 +59114,8 @@ sex object;60
 sex objects;60
 sexologist;60
 sexologists;60
+sex pass;60
+sex passes;60
 sexpert;60
 sex position;60;Sex position or sexposition (exposition against a backdrop of sex or nudity)
 sex positions;60
