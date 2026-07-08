@@ -24502,6 +24502,7 @@ fusionjazz;50
 fussbudget;60
 fussbudgets;60
 fut;20
+future a dream and;0
 Future Nostalgia;60;Dua Lipa's second album, Grammy winner
 futures contract;50
 futz around;50
