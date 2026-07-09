@@ -2455,6 +2455,7 @@ alyssum;30;Flower genus
 alyssums;30;Flowers
 am;50
 AMA;40;American Medical Association or Reddit Ask Me Anything
+Amaarae;40;Pop/R&B singer (born 1994)
 amadavat;20;Avadavat: Var.
 amadavats;20
 Amahl;30;"___ and the Night Visitors"
@@ -2773,6 +2774,14 @@ anadems;20;Head wreaths
 anaemia;40
 anaemic;40
 anag;30
+anaglyph;40;Image in 3D with red-cyan glasses
+anaglyph 3D;50;Method of representing images in 3D with red-cyan glasses
+anaglyphic;30;Method of representing images in 3D with red-cyan glasses
+anaglyphical;30;Method of representing images in 3D with red-cyan glasses
+anaglyphs;40;Images in 3D with red-cyan glasses
+anaglyphy;30;Method of representing images in 3D with red-cyan glasses
+anaglyptic;30;Method of representing images in 3D with red-cyan glasses
+anaglyptical;30;Method of representing images in 3D with red-cyan glasses
 anagoge;20;<Something to do with scriptural interpretation>
 anagoges;20;<Something to do with scriptural interpretation>
 anaheimca;30
@@ -32436,7 +32445,8 @@ infielder;50
 infielders;50
 in fine fettle;60
 infinite money glitch;60
-infinite money glitches;50
+infinite money glitches;60
+infinite monkey theorem;60
 infinites;30;Weird plural
 in fits and starts;60
 infix;50
@@ -33479,6 +33489,7 @@ it'd;50
 it doesn't add up;60
 -ite;20
 item;50
+item one;50
 items;50
 iterant;40
 it factor;60
@@ -47623,6 +47634,8 @@ otology;40;Ear medicine
 Otomi;30;Mexican people
 otomis;30;Mexican people
 otooles;30;Plural name
+OTP;20;One-time password
+OTPs;20;One-time passwords
 otra;40
 Otranto;20
 otra vez;30
@@ -73939,6 +73952,7 @@ wellbackinmyday;60
 we'll be in touch;60
 wellbequiet;60
 well-bred;50
+well but;30;Contrived?
 welldang;60
 well-documented;50
 well don't that beat all;60
