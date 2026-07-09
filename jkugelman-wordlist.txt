@@ -1241,6 +1241,10 @@ aerial yoga;50
 aerier;20
 aeriest;20
 aero;40
+Aero bar;40;Chocolate candy bar
+aerobar;40;Handlebar for time trial bikes
+Aero bars;40;Chocolate candy bars
+aerobars;40;Handlebars for time trial bikes
 aerobat;30
 aerobats;30
 aerobe;50;Breathtaking creature
@@ -4009,6 +4013,7 @@ aroundnoon;30;Green paint
 around the bend;60
 around the block;60
 around the clock;60
+around-the-clock supervision;50
 around the corner;60
 around the globe;60
 Around the Horn;60
@@ -18720,6 +18725,7 @@ dud;50
 Duddy;40;Fuddy duddy
 dudebro;60
 dudebros;60
+dude c'mon;60
 duded;40
 duded up;50
 dude not funny;60
@@ -20377,6 +20383,10 @@ ENM;20
 enmities;40;Weird plural
 ennead;30;Group of nine
 enneads;30;Groups of nine
+enneagon;30;Nine-sided polygon
+enneagons;30;Nine-sided polygons
+enneagram;30;Nine-sided star polygon
+enneagrams;30;Nine-sided star polygons
 Ennio;40;Film composer Ennio Morricone
 ennius;30;???
 ennuis;20;Bad plural
@@ -23818,6 +23828,7 @@ foot wedge;60;Golf cheat
 fop;50
 for;50
 fora;40
+for a bit;50
 forall;40
 for all intents and purposes;60
 for all the marbles;60
@@ -26324,6 +26335,7 @@ goes dry;50
 goes easy on;50
 goes flat;50
 goes for;40
+goes for a bite;50
 goes for a dip;50
 goesforajob;50
 goes for a jog;50
@@ -26393,6 +26405,7 @@ Go Fish;50
 go flat;50
 goflyyaakkite;0
 go for;40
+go for a bite;50
 go for a dip;50
 go for a jog;50
 go for a run;50
@@ -26451,6 +26464,7 @@ going down to the wire;60
 going dry;50
 going flat;50
 going for;40
+going for a bite;50
 going for a dip;50
 going for a jog;50
 going for a run;50
@@ -37542,6 +37556,7 @@ lie-abeds;40;Late risers
 lie ahead;50
 lieatanchor;50
 lie awake;50
+Liebestod;40;Final aria from "Tristan und Isolde"
 liedahead;50
 lie detector;60
 lie detectors;60
@@ -40892,6 +40907,7 @@ medical records;50
 medical research;60
 medicalservices;50
 medicalstaff;50
+medical supervision;50
 medical team;50
 medical teams;50
 Medicare;60
@@ -48403,6 +48419,7 @@ paper tiger;60
 paper tigers;60
 paper town;60;Copyright trap
 paper towns;60
+paper version of document;20
 paper wasp;50
 paper wasps;50
 paperweight;50
@@ -49488,9 +49505,13 @@ perspectiveshifts;50
 perter;30
 Perugia;40;Capital of Umbria, Italy
 perv;10
+perved on;10
 pervert;10
 perverts;10
+perving on;10
+perv on;10
 pervs;10
+pervs on;10
 pervy;40
 PES;20
 Pesach;40;AKA Passover
@@ -56135,6 +56156,7 @@ Roche;30;Pharmaceutical company
 rochesterny;40
 Rocinante;40;Don Quixote's horse
 rock;50
+Rock Around the Clock;60;1954 rock and roll song
 rock climb;60
 rock climbed;60
 rock climber;60
@@ -71609,6 +71631,7 @@ underdelivers;60
 underdog;50
 underdogs;50
 underglass;50
+under medical supervision;50
 under oath;50
 under par;50
 underpenaltyofdeath;50
@@ -74010,6 +74033,7 @@ went down to the wire;60
 went dry;50
 went flat;50
 went for;40
+went for a bite;50
 went for a dip;50
 went for a jog;50
 went for a run;50
