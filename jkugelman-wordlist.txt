@@ -24137,6 +24137,7 @@ freecycling;50
 Freedent;40;Wrigly's chewing gum brand that doesn't stick to dentures
 freedman;20
 freedmen;20
+freedom from double jeopardy;20
 free-dove;50;???
 free download;60
 free downloads;60
@@ -40757,6 +40758,8 @@ mdlv;20
 mdlvi;20
 mdlx;20
 MDMA;40
+Mdou;30;Mdou Moctar, Nigerian guitarist, singer and songwriter (born 1984)
+Mdou Moctar;50;Nigerian guitarist, singer and songwriter (born 1984)
 MD-PhD;40
 MD-PhDs;40
 MDs;40
@@ -63215,7 +63218,7 @@ Srta;40
 Srtas;30
 sry;40
 SSA;40;Social Security Administration
-ssam;40;Korean-style food wrap
+ssam;30;Korean-style food wrap
 sscceennee;0
 SSE;30
 sseldees;0
@@ -66092,6 +66095,7 @@ tams;40
 tam-tam;40;Large gong
 tam-tams;40
 tan;50
+tanacetum douglasii;20;Dune tansy flower
 tanach;30;Hebrew Bible
 tanager;40
 tanagers;40
