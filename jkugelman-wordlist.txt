@@ -883,6 +883,7 @@ action stars;50
 Actium;20;Greek battle site
 Act IV;40
 activa;40
+active dry yeast;50
 active ingredient;60
 active ingredients;60
 active learner;60
@@ -893,6 +894,7 @@ active members;50
 active roster;50
 active rosters;50
 actives;40
+active yeast;50
 act naive;40
 act natural;60
 act normal;60
@@ -1968,6 +1970,8 @@ Alexi;30;Lalas of soccer, Laiho of Children of Bodom
 alexie;40
 Alex Mack;50
 Alex Trebek;50
+ale yeast;50
+ale yeasts;50
 Alf;40
 Alfa;40
 alfalfas;30
@@ -2941,7 +2945,15 @@ anenigma;20
 aneroid;40;Type of barometer
 A New Hope;60
 A New Leaf;50
-aneyeforaneyeatoothforatooth;60
+an eye for;20
+an eye for an eye;60
+an eye for an eye and a tooth for a tooth;60
+an eye for an eye, a tooth for a tooth;60
+an eye for an eye makes the whole world blind;60
+an eye for an I;0
+an eye for detail;60
+an eye for eye and a tooth for a tooth;60
+an eye out for;20
 Ang;40
 angaria;20;Maritime law word
 angel food;60
@@ -2993,6 +3005,7 @@ angsty;50
 anhedonia;50
 anhonestmistake;60
 Ani;40
+an I for an eye;0
 Anika;30;Singer, not super notable?
 anil;40;Dye, or first name
 anilide;20;Fungicide compound
@@ -3045,7 +3058,7 @@ anime club;50
 anime clubs;50
 anime expo;50
 anime expos;50
-animeeyes;60
+anime eyes;60
 animi;20;Resins
 animism;40
 animist;40
@@ -3524,6 +3537,9 @@ Apple Inc;50
 appleiphone;60
 applelogo;50
 applelogos;40
+apple martini;60
+apple martinis;60
+applemartinis;20
 appleof;0
 Apple Park;60;Name for the corporate headquarters of Apple, based in Cupertino CA
 apple picker;50
@@ -3750,6 +3766,7 @@ are;50
 area;50
 area code map;40
 area code maps;40
+a real eye opener;60
 A Real Pain;60;2025 Oscar wining film
 Area Man;60;Frequent The Onion interviewee
 area map;30
@@ -3876,6 +3893,7 @@ arikaras;30;North Dakota tribe
 Arike;40;WNBA player Arike Ogunbowale
 aril;30
 arils;30
+Ari Meyers;40;Actress who played Kate's daughter Emma on "Kate & Allie"
 ariose;20;Songlike
 ariosi;20;Opera passages
 arioso;30;Opera passage
@@ -5197,6 +5215,8 @@ AZ;40
 Azathoth;60;Lovecraftian god
 azeez;40;Actress Shabana Azeez from "The Pitt"
 Azera;20;Discontinued Hyundai model
+Azerbaijani;50
+Azerbaijanis;50
 Azeri;30;Turk ethnic group in Azerbaijan
 Azeris;30;Turk ethnic group in Azerbaijan
 azillion;40
@@ -5407,6 +5427,8 @@ bacon bit;50
 bacon bits;50
 Baconian;50;One who believes Shakespeare was Francis Bacon
 Baconians;50
+bacon martini;60
+bacon martinis;60
 baconroll;50
 baconrolls;50
 Bacon's Rebellion;50
@@ -6876,6 +6898,7 @@ benisons;40
 benitoantoniomartinezocasio;60;Bad Bunny
 benitomartinez;60;Bad Bunny
 benitomartinezocasio;60;Bad Bunny
+Benito Mussolini;50;Dictator of Italy from 1922 to 1943
 Benjamin Button;60
 benjamite;40;???
 bennets;40;"Pride and Prejudice" family
@@ -12361,6 +12384,7 @@ claim-jumping;50
 claimsto;40
 claimto;40
 Clair;50
+Claire Forlani;50;Actress in "Meet Joe Black" and "Mallrats"
 clam bed;50
 clam beds;50
 clampedon;40
@@ -20981,6 +21005,8 @@ espouser;40
 espousers;40
 espressocart;50
 espressocarts;50
+espressotini;60
+espressotinis;60
 ESP test;60
 ESP tests;60
 esq;40
@@ -21692,7 +21718,11 @@ eye doc;40
 eye docs;40
 eyefold;50
 eyefolds;50
-eyeforaneyetoothforatooth;60
+eye for;20
+eye for an eye;60
+eye for an eye, tooth for a tooth;60
+eye for eye;50
+eye for eye, and tooth for tooth;60
 eyeful;50
 eyefuls;50
 eye gel;50
@@ -22740,6 +22770,7 @@ fighting against;40
 fighting a losing battle;60
 fighting crime;60
 fighting for;40
+Fighting Illini;60;Athletics teams of the University of Illinois Urbana-Champaign
 fighting with;40
 fight or flight;60
 fight or flight response;60
@@ -27313,6 +27344,7 @@ great question;60
 Great Red Spot;60
 Great Salt Lake;60
 greatsaltlakedesert;60
+Great Santini;50;1979 Robert Duvall film, with "The"
 great shot;50
 great stuff;60
 grebdlogipoohw;0
@@ -27802,6 +27834,7 @@ Guy Fawkes;60
 guynoir;60
 GWB;20
 G W Bush;50
+Gwen Stefani;60
 gwu;20
 Gwyneth Rees;50;British author of children's books (born 1968)
 Gyasi;40;"Homegoing" author Yaa Gyasi
@@ -27917,6 +27950,7 @@ had a nap;40
 had an axe to grind;60
 had an edge;60
 had an edge on;60
+had an eye for;40
 hadaneyeon;40
 hadanin;50
 hadanip;50
@@ -28514,6 +28548,7 @@ has a nap;40
 has an axe to grind;60
 has an edge;60
 has an edge on;60
+has an eye for;40
 hasaneyeon;40
 hasanin;50
 hasanip;50
@@ -28669,6 +28704,7 @@ have a nap;40
 have an axe to grind;60
 have an edge;60
 have an edge on;60
+have an eye for;40
 haveaneyeon;40
 have a nice life;60
 haveanin;50
@@ -28745,6 +28781,7 @@ having a nap;50
 having an axe to grind;60
 having an edge;60
 having an edge on;60
+having an eye for;40
 havinganeyeon;40
 havinganip;50
 having a right;50
@@ -30010,6 +30047,7 @@ holy buckets;60
 holy fuck;10
 Holy Land;60
 holylands;60
+holy macaroni;60
 holy mackerel;60
 Holy of Holies;60
 holy roller;60
@@ -31661,8 +31699,10 @@ illgottengain;60
 ill-gotten gains;60
 Illini;50;Illinois Fighting Illini, U. of Illinois team
 Illinoise;60;2023 musical about growing up in the Midwest
+Illinois Fighting Illini;60;Athletics teams of the University of Illinois Urbana-Champaign
 illinoisian;50
 illinoisians;50
+Illinois Illini;50
 illiteracy;50
 illiterati;60
 I'll leave you to it;60
@@ -34766,6 +34806,7 @@ just give it time;60
 justgoestoshow;60
 justice system;60
 just imagine;60
+Justin Baldoni;10;Actor in the news for suing / being sued by Blake Lively
 just in case;60
 Justine Triet;50;"Anatomy of a Fall" director Justine Triet
 Justin Lin;50
@@ -35894,6 +35935,8 @@ kymographs;20;Graphical representations of spatial position over time
 kyocera;30;Japanese electronics company
 Kyoto Protocol;60
 Kyra;40
+Kyrgyzstani;50
+Kyrgyzstanis;50
 kyrsten;40;Arizona senator Kyrsten Sinema
 kyrstensinema;50;Arizona senator Kyrsten Sinema
 Kyser;30;Bandleader Kay Kyser
@@ -37742,6 +37785,7 @@ lil;50
 Lila;40
 lilalee;40;Silent film actress
 liletee;20;1992 Kentucky Derby winner
+Lili'uokalani;60;Last sovereign monarch of the Hawaiian Kingdom (1891-93)
 lilkinz;50
 Lille;40;French city
 Lillie;30;1800s socialite Lillie Langtry
@@ -49777,6 +49821,8 @@ phonetic spellings;60
 phoning it in;50
 phono;40;Prefix
 phony baloney;60
+Phony Negroni;60
+Phony Negronis;60
 photobomb;60
 photobombed;60
 photobomber;60
@@ -50006,12 +50052,14 @@ piggingouton;60
 piggy bank;60
 piggy banks;60
 pig iron;60
+pig on the rocks;60;Bacon martini
 pigouton;60
 pigpile;50
 pigpiles;50
 pigsear;50
 pigskin;60
 pigskins;60
+pigs on the rocks;60;Bacon martinis
 pigsouton;60
 pigsty;50
 Pik;20
@@ -50126,8 +50174,9 @@ Pinkertons;50
 Pinkett;50
 pinkflamingo;50
 Pink Flamingos;50
-pinkflirtini;60
+pink flirtini;60;Raspberry vodka cocktail
 pinkflirtinis;60
+pink flirtinis;60;Raspberry vodka cocktails
 pink gin;50
 pinkiepromise;60
 pinkieswear;60
@@ -50993,6 +51042,7 @@ politico;50
 politicos;50
 polkaband;50
 polkabands;50
+polka dot bikini;60
 polkapower;50;Weird Al song
 Polks;30;Plural name
 Pollan;40;Author Michael Pollan
@@ -52903,6 +52953,7 @@ queenslandheelers;50
 queen's rook;50
 queen's rooks;50
 queerasathreedollarbill;60
+Queer Eye for the Straight Guy;60
 queer icon;60
 queer icons;60
 queer prom;60
@@ -56797,6 +56848,8 @@ Rudi;30;Fashion designer Gernreich
 Rudin;40;EGOT-winning producer Scott Rudin
 Rudolf;40;Ballet dancer Rudolf Nureyev, inventor Rudolf Diesel
 Rudolf Bing;50;Austrian-American opera impresario (1902–1997)
+Rudolph Giuliani;50;New York mayor, Trump's one-time lawyer
+Rudy Giuliani;50;New York mayor, Trump's one-time lawyer
 rue;50
 ruefulness;30
 Ruehl;40;Actress Mercedes Ruehl
@@ -65799,6 +65852,8 @@ taipan;30;Snake
 taipans;30
 Taisho;30;???
 Taj;40
+Tajikistani;50
+Tajikistanis;50
 Tajin;30;Mexican spice
 tak;20
 take a bath;50
@@ -67669,6 +67724,7 @@ The Fed;50
 The Fellowship of the Ring;60
 The Fenlands;50;Area of low lying land in eastern England
 The Fens;50;Area of low lying land in eastern England
+The Fighting Illini;50;Athletics teams of the University of Illinois Urbana-Champaign
 thefineprint;50
 thefins;20;???
 thefirstletters;0
@@ -67765,6 +67821,7 @@ theice;40
 the ick;60
 theidea;30
 theides;30
+The Illinois Fighting Illini;50;Athletics teams of the University of Illinois Urbana-Champaign
 theillusionofchoice;60
 their;50
 theira;20
@@ -72393,6 +72450,8 @@ uxoricide;30;Killing of one's wife
 uxoricides;30
 uxorious;30
 uxoriousness;30
+Uzbekistani;50
+Uzbekistanis;50
 Uzi;40
 uzielgal;50;Uziel Gal, inventor of the Uzi
 Uzis;40
@@ -72539,6 +72598,8 @@ veal cutlet;60
 veal cutlets;60
 veallawfourchin;0
 veal parm;60
+veal scallopini;50
+vealscaloppini;0
 ved;20
 Vedanta;40;School of Hindu philosophy
 vedantic;40
@@ -73020,6 +73081,8 @@ vodka cran;60
 vodka cranberries;60
 vodka cranberry;60
 vodka crans;60
+vodka martini;60
+vodka martinis;60
 vodkaneat;60
 vodka tonic;60
 vodka tonics;60
@@ -75009,6 +75072,8 @@ withal;30
 withallthebellsandwhistles;60
 withallthetrimmings;60
 withamoomoohere;30;???
+with an eye for;20
+with an eye for detail;20
 wither away;50
 withered away;50
 withering away;50
@@ -76508,7 +76573,7 @@ Zoey;40
 zog;20
 Zohan;40;Adam Sandler character
 Zohran;40;NYC mayor Zohran Mamdani
-Zohran Mamdani;60;NYC mayor Zohran Mamdani
+Zohran Mamdani;60;American politician and Mayor of New York City
 Zola;40
 Zombi;30
 zombie;60
