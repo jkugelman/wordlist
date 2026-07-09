@@ -3153,6 +3153,8 @@ ant;50
 antae;20
 Antarctica;60
 antarcticite;60
+antbear;50;Aardvark
+antbears;50;Aardvarks
 ant cow;40;An aphid from which ants obtain honeydew
 ant cows;40
 anteaterpup;50
@@ -4799,12 +4801,16 @@ attemptsto;20
 attemptto;20
 attendance board;50
 attendance boards;50
-attendedon;40
+attended on;30
 attended to;40
-attendingon;40
+attending on;30
+attending physician;60
+attending physicians;60
+attending surgeon;50
+attending surgeons;50
 attending to;40
-attendon;40
-attendson;40
+attend on;30
+attends on;30
 attends to;40
 attendto;40
 attention economy;60
@@ -10246,6 +10252,7 @@ cans of tuna;50
 canst;40
 Cantab;40;Demonym for person from Cambridge or Harvard
 Cantabs;40
+can't be arsed;60
 can't beat that;60
 can't catch a break;60
 cantcook;30;???
