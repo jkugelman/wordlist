@@ -6630,7 +6630,8 @@ bee orchid;50
 bee orchids;50
 beepat;40
 beep beep;60
-beepbeepbackthetruckup;60
+beep beep back the truck up;60
+beep beeps;20
 beepedat;40
 beepingat;40
 beepsat;40
