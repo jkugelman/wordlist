@@ -2902,6 +2902,7 @@ and one;50;NBA term
 andosentinelorl;0
 Andra;30;Singer Andra Day???
 Andrei Tarkovsky;50;Major director
+Andre Royo;50;Actor who played Bubbles on "The Wire"
 Andrew Cuomo;50;Governor of New York 2011-21, resigned due to sexual misconduct allegations
 androgyny;60
 android;60
@@ -24434,6 +24435,10 @@ frowns on;40
 frowsy;40;Scruffy
 frowzy;20;Scruffy: Var.
 Froyo;50
+Froyo shop;60
+Froyo shops;60
+Froyo store;60
+Froyo stores;60
 frozen asset;50
 frozen assets;50
 frozen banana;50
@@ -24448,6 +24453,10 @@ Frozen Four;60;NCAA men's hockey championship
 Frozen II;40
 frozen smoke;60;Nickname for aerogel
 frozenspinach;50
+frozen yogurt shop;60
+frozen yogurt shops;60
+frozen yogurt store;60
+frozen yogurt stores;60
 froze up;50
 Frozone;60
 frs;20
@@ -40351,7 +40360,7 @@ Marti;40;Cuban revolutionary José Martí
 martial art;50
 martial arts;50
 martial law;60
-martinaarroyo;30
+Martina Arroyo;50;Opera singer in the 1960s-80s
 martinbormann;30
 martini bar;50
 martini bars;50
@@ -56742,6 +56751,9 @@ royal we;60
 Roy Bean;50
 roycohn;30;Joseph McCarthy's chief counsel
 royko;30;1970s journalist Mike Royko
+Royo;40;Andre Royo, actor who played Bubbles on "The Wire"
+Roy Orbison;60
+Roy Orbison And The Candy Men;50
 Roz;40;Frasier's friend, or New Yorker cartooner Roz Chast, or other various
 rozkelly;50
 RPG;40
