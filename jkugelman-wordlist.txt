@@ -1374,6 +1374,7 @@ afteronesownheart;60
 afterparties;50
 afterparty;50
 afters;30
+After the Gold Rush;50;1970 studio album by Neil Young
 after them;50
 afterthese;20;???
 afts;40
@@ -2877,6 +2878,7 @@ And Just Like That;60
 andl;20
 andloan;20
 and make it snappy;60
+and nothing but the truth;60
 andnotthawedout;0
 and on and on;60
 and one;50;NBA term
@@ -3208,6 +3210,8 @@ anti-humor;60
 antilice;50
 antilog;40
 antilogs;30
+antimacassar;40;Small cloth placed over the backs of furniture
+antimacassars;40;Small cloths placed over the backs of furniture
 antimatter;50
 antimonies;40
 antinomian;40
@@ -5666,6 +5670,7 @@ bam;50
 Bama;40
 Bam Adebayo;60;Bam Adebayo, who scored 83 points in an NBA game (2nd highest all time)
 Bamako;40;Capital of Mali
+Bama Rush;50;Sorority recruitment at the University of Alabama
 Bam Bam;50
 bamboo pole;50
 bamboo poles;50
@@ -9847,6 +9852,7 @@ California condor;50
 California condors;50
 California Golden Bear;50
 California Golden Bears;50
+California gold rush;60
 Californian;50
 Californians;50
 californiaredwood;50
@@ -12444,6 +12450,7 @@ clear as day;60
 cleared the board;60;Started over, or won everything
 clear idea;60
 clearing the board;60;Starting over, or winning everything
+clearish;40;Somewhat clear
 clearly visible;60
 clear nail polish;60
 clear soup;50
@@ -18083,6 +18090,8 @@ dozer;50
 dozers;50
 dozy;30
 DP;40
+D'Pharaoh;40;D'Pharaoh Woon-A-Tai, actor on "Reservation Dogs" (2021-2023)
+D'Pharaoh Woon-A-Tai;50;Actor on "Reservation Dogs" (2021-2023)
 DPI;40
 dpl;20
 D plus;50
@@ -18401,6 +18410,7 @@ drivingwhileblack;60
 drizzlecake;50
 drizzlecakes;50
 Dr J;50
+Dr. James Naismith;60;Inventor of basketball (1861–1939)
 Dr Jekyll;60
 Dr Jekyll and Mr Hyde;60
 Dr Joyce Brothers;50
@@ -19765,6 +19775,7 @@ elenchi;20
 elenchus;20;Logical refutation, from the Socratic method
 Elenore;30;Song by The Turtles
 Eleonora;30;Poe short story
+Eleonore Prohaska;50;Prussian woman who fought as a male soldier during the Napoleonic Wars, inspiring a Beethoven piece
 elephant in the room;60
 Elephant Mario;60
 elephants in the room;60
@@ -20802,6 +20813,9 @@ escallops;30
 escalope;40;Thinned piece of meat, scallop
 escalopes;40
 escamillo;40;Toreador character in "Carmen"
+Escanaba;30;Michigan city
+Escanaba, Michigan;40
+Escanaba Michigan;0
 escape act;60
 escape acts;60
 escape attention;50
@@ -25301,6 +25315,8 @@ geocentrism;50
 geocentrist;50
 geocentrists;50
 geoengineering;60
+geoglyph;50;Motif produced on the ground, observable only from a height
+geoglyphs;50;Motifs produced on the ground, observable only from a height
 geographybee;60
 geographybees;60
 geoguessing;60
@@ -25859,6 +25875,7 @@ Ginger Spice;60
 gingivae;30
 ginglymi;30
 ginglymus;30;Hinge-like joint such as the elbow or knee
+Gingrich;40;Newt Gingrich, Speaker of the House 1995-1999
 gin martini;50
 gin martinis;50
 Ginnie;40
@@ -26532,6 +26549,8 @@ gold record;60
 gold records;60
 gold reserve;50
 gold reserves;50
+gold rush;60
+gold rushes;60
 goldseal;60
 goldsmith;60
 goldsmiths;60
@@ -28482,6 +28501,7 @@ has it bad;60
 has it good;60
 has it in for;50
 has it made;60
+Haskalah;30;1770s–1880s Jewish intellectual movement
 has knowledge;50
 has knowledge of;50
 haslegs;60
@@ -28725,6 +28745,8 @@ Hawaiian;50
 hawaiianisland;50
 Hawaiian Islands;50
 Hawaiians;50;Natives only
+hawkfish;40;Fish found in coral reefs
+hawkfishes;40;Fish found in coral reefs
 Hawkgirl;50
 hawse;30;Ship part
 hawser;30;Thick ship rope
@@ -30347,6 +30369,11 @@ hotbed;50
 hotbeds;50
 hot-blooded;50
 hotbloodedness;50
+hot broth;40
+Hot Brown;50;Open-faced sandwich from Kentucky
+Hot Browns;50;Open-faced sandwiches from Kentucky
+Hot Brown sandwich;50;Open-faced sandwich from Kentucky
+Hot Brown sandwiches;50;Open-faced sandwiches from Kentucky
 hot button;60
 hot-button issue;60
 hot-button issues;60
@@ -30677,6 +30704,8 @@ hula hoops;50
 hula skirt;50
 hula skirts;50
 Hulce;30;Mozart in "Amadeus"
+Huldrych;30;Huldrych Zwingli, Protestant Reformation leader in Switzerland, Swiss Reformed Church founder (1484–1531)
+Huldrych Zwingli;50;Protestant Reformation leader in Switzerland, Swiss Reformed Church founder (1484–1531)
 Hull House;40
 Hulme;20;T. E. Hulme, English critic and poet
 Hulot;20;Jacques Tati character in '60s
@@ -31351,6 +31380,7 @@ if statement;60
 if statements;60
 iftar;40;Ramadan meal
 ifthis;0
+if truth be told;60
 if worst comes to worst;60
 -ify;20
 ifyoucantstandtheheat;60
@@ -31661,7 +31691,7 @@ Ilya;30
 I'm;50
 Ima;20;I'm a partial
 I'm a big fan;60
-imacatch;60
+I'm a catch;60
 imadam;20
 I made it up;60
 I'm afraid;50
@@ -33662,6 +33692,7 @@ itstakingforever;60
 itsthebestofbothworlds;60
 it's the eternal question;60
 it's the law;60
+It's The Truth Ruth;50;1958 song by The Big Bopper
 it's time;50
 it's time to move on;60
 it's too bad;60
@@ -33989,6 +34020,7 @@ James M. Cain;50;Hardboiled crime novelist (1892-1977)
 James M Cain;0
 James McNeill Whistler;60;American painter (1834–1903)
 James Monroe;50
+James Naismith;60;Inventor of basketball (1861–1939)
 James Patterson;50
 James Polk;50;President of the United States from 1845 to 1849
 James Randi;60
@@ -34395,6 +34427,7 @@ joepa;10;Joe Paterno, disgraced Penn State coach
 Joe Pera;50;Comedian/actor
 Joe Satriani;50
 Joe Sixpack;60
+Joe Walsh;50;Eagles guitarist
 Joey Chestnut;60
 joeyoung;20;Unnotable NBA player
 Jo Frost;50
@@ -34881,6 +34914,7 @@ kayoing;30
 kayos;30
 Kaz;20
 Kazaa;30
+Kazimir Malevich;50;Russian artist and painter (1879–1935)
 kazoo;50
 kazoos;50
 kB;30
@@ -35688,6 +35722,7 @@ kratom;40;Herbal vape shop drug
 Krav;30
 Krazy;50
 Krazy Kat;50
+kreplach;40;Traditional Jewish dumplings
 Kresge;40;The K in Kmart
 krewe;40;Mardis Gras group
 kreweofrex;50
@@ -37123,6 +37158,8 @@ leonas;30
 leone;40
 Leoni;40;Téa Leoni
 leonia;30;Unnotable NJ town
+Leonora Prohaska;50;Prussian woman who fought as a male soldier during the Napoleonic Wars, inspiring a Beethoven piece
+Leonore Prohaska;50;Prussian woman who fought as a male soldier during the Napoleonic Wars, inspiring a Beethoven piece
 Leonov;40;Cosmonaut Alexei Leonov, first person to conduct a spacewalk
 leons;20
 Leon Spinks;60;Only man to win a belt from Muhammad Ali
@@ -37806,6 +37843,8 @@ Lionel Messi;60
 lionels;30;Plural name, or toy train brand
 lionet;40;Young lion
 lionets;40
+lionfish;40;Venomous fish
+lionfishes;40;Venomous fish
 lionhearted;60
 Lions Clubs;50
 lionsclubsinternational;50
@@ -38008,6 +38047,7 @@ live on;50
 liveonair;60
 liveoutofatrunk;60
 live radar;50
+liverish;30;Queasy
 liverpoolaccent;50
 livesat;40
 lives by;40
@@ -39778,6 +39818,7 @@ malenurse;50
 malenurses;50
 male privilege;60
 male sex;50
+Malevich;30;Kazimir Malevich, Russian artist and painter (1879–1935)
 malfoy;10;Harry Potter
 malices;30
 Malik;30;Zayn Malik, formerly of One Direction
@@ -43234,6 +43275,9 @@ Naipaul;40;Trinidadian writer V.S. Naipaul (Nobel Prize in 2001)
 Nair;40;Hair removal brand
 naira;30;Nigerian currency
 nairas;30
+Naismith;40;James Naismith, inventor of basketball (1861–1939)
+Naismith Award;50;Basketball award
+Naismith Awards;50;Basketball awards
 naïve;50
 naive;50
 naiver;40;It's more naive
@@ -44030,6 +44074,7 @@ news teams;60
 newsted;40
 news to me;40
 newsy;30
+Newt Gingrich;50;Speaker of the House 1995-1999
 new to;40
 new to me;40
 Newtonian;50
@@ -44944,7 +44989,9 @@ nothavingit;60
 not here;50;"Let's discuss this later"
 nothingbeatsnewhellmannsdijonnaise;50
 nothing but net;60
+nothing but the truth;60
 nothing but trouble;60
+nothing could be further from the truth;60
 nothing fancy;60
 nothing in common;50
 nothingissacred;60
@@ -48979,6 +49026,8 @@ peanutgalleries;50
 peanutmandm;40
 peanutmandms;40
 peanutoils;40;Bad plural???
+pea patch;50
+pea patches;50
 Pearce;40;Actor Guy Pearce
 pearl diver;60
 pearl divers;60
@@ -55968,7 +56017,7 @@ roadies;50
 roadkill;60
 road rallies;50
 road rally;50
-roadrash;50
+road rash;50;Injury due to falling or sliding on asphalt
 roadrunnerlasso;60;Acme invention
 roadshow;50
 roadshows;50
@@ -62490,6 +62539,7 @@ speaking ill of;50
 speaking of;60
 speakingon;40
 speaking to;40
+speaking truth to power;60
 speak no evil;60
 speak of;40
 speakon;40
@@ -62497,7 +62547,9 @@ speaks ill of;50
 speaks of;40
 speakson;40
 speaks to;40
+speaks truth to power;60
 speak to;40
+speak truth to power;60
 spear carrier;60
 spear carriers;60
 spearfish;60
@@ -62832,6 +62884,7 @@ spoke of;40
 spokeon;40
 spokescow;60
 spoke to;40
+spoke truth to power;60
 spoliation;30;Spoilment, destruction
 spoliator;30
 sponcon;30;Influencer's "sponsored content"
@@ -67368,6 +67421,7 @@ theburbs;60
 The Butter Battle Book;60;Dr. Seuss book
 The Butterfly Effect;60;2004 Ashton Kutcher science fiction thriller
 thecab;20
+the California gold rush;40
 the calm before the storm;60
 thecandyman;50
 The Capeman;40;Paul Simon musical flop
@@ -67395,6 +67449,8 @@ the choice is clear;60
 thecia;20
 The Circle;30;Movie/TV show???
 theclap;10
+The Clash;60
+the classics;60
 theclient;50
 theclippers;40
 The Clock;0
@@ -67560,6 +67616,7 @@ the GOAT;60
 thegoldenarches;20
 thegoldenarm;60;Nickname for Johnny Unitas
 thegoldenhind;40
+The Gold Rush;60;1925 Charlie Chaplin film
 the goods;60
 thegop;20
 thegospels;40
@@ -68148,6 +68205,8 @@ thetrojanwar;20
 thetrolleyproblem;20
 The Trolley Song;20
 thetropics;40
+the truth of the matter;60
+the truth of the matter is;60
 thetruuuuuuuuth;0
 thetuba;30
 The Tudors;20
@@ -68269,6 +68328,10 @@ thidwickthebigheartedmoose;60;Dr. Seuss book
 thiefofjoy;60;Comparison, it's said
 thiel;40;Billionaire Peter Thiel
 Thiessen;40
+thievish;30;Having a tendency to steal
+thievishly;30;With a tendency to steal
+thievishness;30;Tendency to steal
+thievishnesses;20;Tendencies to steal
 thigh-slappers;60
 thigh-slapping;60
 Thimphu;40;Capital of Bhutan
@@ -70528,6 +70591,9 @@ truststo;40
 trust the process;60
 trustto;40
 trustus;50
+truth be told;60
+truth of the matter;60
+truth of the matter is;60
 Truth or Consequences;60
 Truth or Consequences New Mexico;60
 truthorconsequencesnm;60
@@ -73538,6 +73604,7 @@ wearer;40
 wearers;40
 we are so back;60
 we are so dead;60
+We Are the Clash;50;1985 song by The Clash
 wearetoast;50
 wearin;40;More commonly "break in"
 wearing a wire;60
