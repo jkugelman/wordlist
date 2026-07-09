@@ -3060,6 +3060,7 @@ ankle braces;50
 ankylosaur;50
 ankylosaurs;50
 Ann;50
+Annalise;40
 annalist;40;Historian who writes annals
 annalists;40
 Annan;40
@@ -3170,6 +3171,7 @@ ant farms;60
 anther;30;Pollen producer
 antheral;30
 anthers;30
+anthesis;40;Event of a flower opening
 anthro;40
 anthropic;60
 anthropogenesis;50
@@ -7285,6 +7287,8 @@ billers;30
 billet;50
 billet-doux;50;Love letter
 billets-doux;50;Love letters
+billfish;40
+billfishes;40
 Bill Hader;60
 Bill Haley;50
 billhaleyandhiscomets;50
@@ -15514,21 +15518,21 @@ das;40
 dashboardgauges;30
 dashcam;50
 dashcams;50
-dashedinto;40
+dashed into;40
 dashedoneshopes;60
-dashedto;40
-dashesinto;40
+dashed to;40
+dashes into;40
 dashesoneshopes;60
-dashesto;40
+dashes to;40
 dashi;40;Japanese soup stock
 Dashiell Hammett;60
-dashinginto;40
+dashing into;40
 dashingoneshopes;60
-dashingto;40
-dashinto;40
+dashing to;40
+dash into;40
 dashit;40
 dashoneshopes;60
-dashto;40
+dash to;40
 Das Kapital;60
 Das Racist;50;Rap group
 dat;40
@@ -17109,10 +17113,10 @@ discussion group;50
 diseasecontrol;50
 diseasetoplease;60
 dishabille;40;State of being partly or scantily clothed
-dishedon;40
-disheson;40
-dishingon;40
-dishon;40
+dished on;40
+dishes on;40
+dishing on;40
+dish on;40
 disinvite;50
 disinvited;50
 disinvites;50
@@ -22734,6 +22738,8 @@ figurestudy;60
 fil;20
 Fila;40;Athleisure brand
 Filas;40
+filefish;40
+filefishes;40
 filene;30;Department store / bank
 file system;50
 file systems;50
@@ -26836,6 +26842,7 @@ gor;20
 Goran;40;Tennis star Ivanisevic Goran
 gorby;40;Nickname for Mikhail Gorbachev
 gordo;40
+Gordon Pinsent;40;Canadian actor and writer (1930–2023)
 Goren;40;Bridge writer Charles Goren
 gorged on;40
 gorge on;40
@@ -37727,6 +37734,7 @@ Lily-Rose;50;Lily-Rose Depp, actress in "The Idol" and "Nosferatu"
 Lily-Rose Depp;50;Lily-Rose Depp, actress in "The Idol" and "Nosferatu"
 Lily Tomlin;50
 Lim;40;Calculus abbreviation
+Limbaugh;50;Rush Limbaugh, among others
 limbo bar;60
 limbo bars;60
 limbocontest;60
@@ -40478,6 +40486,7 @@ mathbook;50
 mathbooks;50
 math class;60
 math classes;60
+Matheson;40;Various
 Mathew;20;Dunno if anyone notable
 mathphd;20;Green paint
 math puzzle;50
@@ -40512,6 +40521,7 @@ mattress pads;50
 mattresstopper;50
 mattresstoppers;50
 Matty;40;Ballplayer Matty Alou
+Matty Matheson;50;Actor on "The Bear"
 maturate;40
 maturated;40
 maturates;40
@@ -48719,21 +48729,21 @@ pasta bar;50
 pasta water;60
 past caring;60
 pastedin;40
-pastedon;40
+pasted on;40
 pastein;40
-pasteon;40
+paste on;40
 paster;40
 pastern;30;Part of a horse's foot
 pasters;40
 pastesin;40
-pasteson;40
+pastes on;40
 past events;20
 pastiche;50
 pastiches;50
 pastil;40;Filipino dish, rice wrapped in banana leaves
 pastils;40
 pastingin;40
-pastingon;40
+pasting on;40
 pastintheliving;0
 pastis;40;Anise-flavored spirit
 past life;50
@@ -50126,6 +50136,7 @@ Pinot Noir;60
 Pinot Noirs;60
 pinrot;40;Broccoli head rot
 pinsamedalon;50
+Pinsent;30;Gordon Pinsent, Canadian actor and writer (1930–2023)
 pint-size;60
 pint-sized;60
 pion;40;Subatomic particle
@@ -55620,6 +55631,7 @@ rices;40
 Rice University;60
 Ric Flair;60
 richarddawkins;60
+Richard Matheson;50;Fantasy/horror/sci-fi author (1926-2013)
 richardroe;50
 Richard Scarry;50;Children's author and illustrator (1919–1994)
 Richard Scarry's Busy, Busy Town;50;Classic children's book
@@ -56981,24 +56993,24 @@ RUR;20
 Rus;20
 rush at;40
 rushed at;40
-rushedheadlonginto;50
+rushed headlong into;50
 rushed into;40
-rushedto;40
+rushed to;40
 rushee;30;Frat rusher
 rusher;30
 rushers;30
 rushes at;40
-rushesheadlonginto;50
+rushes headlong into;50
 rushes into;40
 rushes of blood;60
 rushes of blood to the head;60
 rushes of endorphins;60
-rushesto;40
-rushheadlonginto;50
+rushes to;40
+rush headlong into;50
 rushing at;40
-rushingheadlonginto;50
+rushing headlong into;50
 rushing into;40
-rushingto;40
+rushing to;40
 rush into;40
 Rushmore;60
 rush of blood;60
@@ -57006,7 +57018,7 @@ rush of blood to the head;60
 rush of endorphins;60
 rush order;60
 rush orders;60
-rushto;40
+rush to;40
 rusk;30
 russel;20
 Russell Stover;50;Chocolates
@@ -68987,6 +68999,7 @@ time warp;60
 Tim Gunn;50
 Tim Hortons;60
 timing;50
+Tim Matheson;40;Actor who voiced Jonny Quest
 Timon;40;From "The Lion King"
 Timothee;50
 Timothy Olyphant;50
@@ -70685,6 +70698,8 @@ tsarists;50
 Tsar of all Russia;60;Ivan the Terrible was the first
 tsars;50
 tse;20
+T. S. Eliot;60;Poet
+T S Eliot;0
 Tseng;40;LPGA #1 golfer 2011-2013 Yani Tseng, or tennis's Jason Tseng
 T-Series;40
 tsetse;40
@@ -73408,6 +73423,7 @@ war song;50
 war songs;50
 war stories;60
 war story;60
+War Trash;50;2004 novel by Ha Jin, Pulitzer finalist
 war-weary;50
 warworn;30
 wary of;40
