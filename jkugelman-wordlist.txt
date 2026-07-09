@@ -7343,6 +7343,7 @@ biodata;40
 bioenergy;60
 biofilm;50
 Biogen;20
+Biograph;40;Early motion picture company
 biohacker;60
 biohackers;60
 biohacking;60
@@ -7978,6 +7979,8 @@ board meetings;50
 board of trustees;50
 boards a plane;40
 boards a train;40;Contrived
+boarfish;40
+boarfishes;40
 Boar's Head;50
 boasted of;40
 boasting of;40
@@ -15392,7 +15395,7 @@ Danny Partridge;50
 Danny Pudi;50;Actor Danny Pudi
 Danny Torrance;60;From "The Shining"
 Dano;40
-danpatch;50;Champion horse in the early 1900s
+Dan Patch;40;Champion horse in the early 1900s
 dans;30
 Dan Savage;50
 Danse;40
@@ -16601,6 +16604,8 @@ diaeresis;50
 Diaghilev;20;Russian art critic
 diagon;10;Harry Potter
 diagonalley;10;Harry Potter
+diagraph;20;Misspelling of digraph
+diagraphs;20;Misspelling of digraphs
 dial down;50
 dialed down;50
 dialed in;40
@@ -36931,6 +36936,7 @@ leering;40
 leeringat;40
 leers;40
 leersat;40
+Lee Smith;40;Various
 leet;40;Leetspeak [rare]
 leetch;30;Who???
 leetspeak;60
@@ -54214,7 +54220,10 @@ redeal;40
 redealing;40
 redeals;40
 redealt;40
-redear;30;Fish
+redear;30;Type of sunfish
+redears;30;Type of sunfish
+redear sunfish;50;Species of fish
+red earth;50
 redemand;30
 redemanded;30
 redemanding;30
@@ -61750,6 +61759,8 @@ soap bubble;50
 soap bubbles;50
 soaper;30;Soap opera, informally
 soapers;30
+soapfish;40
+soapfishes;40
 soapnut;40
 soapnuts;40
 soap opera;60
@@ -69176,6 +69187,7 @@ T-nuts;40
 to;50
 toa;20
 Toadette;60
+toadfish;40
 toadied;50
 toadiedto;40
 toadiesto;40
