@@ -18065,6 +18065,7 @@ double bluffs;60
 double eagle;60
 doublel;30
 Double O;20
+double pepperoni;50
 doubler;30
 doubleshot;50
 doubleshots;50
@@ -22433,6 +22434,7 @@ federal law;50
 federal laws;50
 Federal Reserve Board;60;Governing body of the U.S. Federal Reserve System
 Federal Reserve Board of Governors;60;Governing body of the U.S. Federal Reserve System
+Federico Fellini;60;Italian filmmaker (1920–1993)
 FedEx driver;60
 FedEx drivers;60
 fed in;40
@@ -24171,6 +24173,7 @@ Freddy vs Jason;60
 frederickhandel;50
 Frederick Sanger;50
 Frederick the Great;50
+Fredrico Fellini;0
 freds;30
 fredsanford;50
 fredward;50
@@ -25969,6 +25972,7 @@ gio;20
 Gioachino;40;Composer Gioachino Rossini
 Gioachino Rossini;50;Composer Gioachino Rossini
 Giotto;40;Renaissance painter
+Giovanni Cassini;50;Mathematician and astronomer (1625–1712)
 gip;10
 Gipp;30;The Gipper
 gipsies;20
@@ -34099,6 +34103,7 @@ James Earl Jones;60
 James Ensor;50
 James E. Webb;50;James Webb Space Telescope
 James Franco;50;American actor and filmmaker (born 1978)
+James Gandolfini;60
 James Hetfield;60;Metallica's lead singer and rhythm guitarist
 jameshorner;50
 James I;30
@@ -35628,6 +35633,8 @@ Knight of Cups;60;Tarot card
 knightofswords;60;Tarot card
 knightofthesevenkingdoms;60
 knightofwands;60;Tarot card
+Knights Who Say "Ni!";60
+knights who say Ni;0
 knives;50
 Knives Out;60
 knockdown-dragout;60
@@ -44314,6 +44321,7 @@ Nicaea;20;Ancient Greek city
 Nic Cage;40
 Niccolò Machiavelli;60;Writer of "The Prince"
 Niccolo Machiavelli;0
+Niccolo Paganini;60
 niceass;10
 nicebutt;60
 nice catch;60
