@@ -29247,6 +29247,7 @@ herb tea;40;Herbal tea is more common
 herb teas;40
 Herc;20;"The Wire" character is the best result...
 Hercules;50
+Herculius;40;Maximian, nicknamed Herculius, Roman emperor from 286 to 305
 herd;50
 herd cats;60
 herded;50
@@ -40007,11 +40008,18 @@ maranta;30;Plant genus
 mararooney;0
 Marat;40;Jean-Paul Marat, French revolutionary killed in his bathtub (used a lot)
 Marathi;30;Indo-Aryan language
+marble bust;50
+marble busts;50
+marble quarries;50
+marble quarry;50
 marble sculpture;60
 marble sculptures;60
 Marble Slab;50
 marbleslabs;50
+marble statue;50
+marble statues;50
 Marc Anthony;50
+Marc Antony;50;Roman politician and general (83–30 BC) - usually "Mark", but "Marc" is somewhat common
 marcaregistrada;20
 marcasite;40;Mineral known as white iron pyrite
 marcato;40
@@ -40031,6 +40039,10 @@ march on;40
 Marc Jacobs;60
 Marco Polo;50
 marcs;30;Plural name
+Marcus Antonius;60;Roman politician and general (83–30 BC)
+Marcus Aurelius;60;Stoic philosopher, Roman emperor from 161 to 180
+Marcus Aurelius Antoninus;60;Stoic philosopher, Roman emperor from 161 to 180
+Marcus Aurelius Valerius Maximianus;50;Maximian, nicknamed Herculius, Roman emperor from 286 to 305
 Marcus Welby MD;50
 Marcy;50;Marcy Playground, Al Bundy's neighbor
 Marcy Playground;50
@@ -40105,6 +40117,7 @@ Marist;40;Private New York college
 marital status;50
 marital statuses;50
 marjoe;20;Preacher Gortner
+Mark Antony;60;Roman politician and general (83–30 BC)
 markcuban;50
 markergene;50
 markergenes;50
@@ -40474,6 +40487,7 @@ maxie;30;1985 Glenn Close movie
 maxilla;30;Upper jawbone
 maxillae;30;Upper jawbones
 Maxime;30;First name, unsure if notable
+Maximian;40;Maximian, nicknamed Herculius, Roman emperor from 286 to 305
 maximum word count;60
 maximum word counts;60
 maximusdecimusmeridius;60;"Gladiator" protagonist
