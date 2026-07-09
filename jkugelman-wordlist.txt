@@ -27830,6 +27830,7 @@ had a blast;50
 had a conniption;60
 hadacouple;60
 had a cow;50
+had a crush on;60
 hadadrink;50
 had a goat it;50
 had a go at it;50
@@ -27837,6 +27838,7 @@ hadaheart;60
 had a hunch;50
 hadalegupon;60
 hadaline;20
+had a line on;60
 hadalisp;40
 had a look;50
 had a look around;60
@@ -27844,7 +27846,8 @@ hadalookat;40
 hadanair;40
 had a nap;40
 had an axe to grind;60
-hadanedge;50
+had an edge;60
+had an edge on;60
 hadaneyeon;40
 hadanin;50
 hadanip;50
@@ -27870,6 +27873,8 @@ haddibson;50
 hadean;40;Geologic eon
 had enough;60
 hadenoughorareyouthirstyformore;60
+had every intention;60
+had every intention of;50
 hadeyesfor;50
 had fun;50
 hadgame;50
@@ -27880,6 +27885,8 @@ had it bad;60
 had it good;60
 had it in for;50
 had it made;60
+had knowledge;50
+had knowledge of;50
 hadlegs;60
 Hadley;30;???
 had money on;50
@@ -27898,10 +27905,13 @@ hadones;20
 hadonesdruthers;60
 hadonetoomany;60
 hadout;40
+had prior knowledge;50
+had prior knowledge of;50
 hadrosaur;40
 hadrosaurs;40
 had seconds;60
 hadst;40
+had the goods on;60
 had the last laugh;60
 hadthelimelight;30
 hadtimefor;40
@@ -28419,10 +28429,12 @@ has a blast;50
 has a conniption;60
 hasacouple;60
 has a cow;50
+has a crush on;60
 hasadrink;50
 has a go at it;50
 hasaheart;60
 has a hunch;50
+has a line on;60
 hasalisp;40
 has a look;50
 has a look around;50
@@ -28431,7 +28443,8 @@ Hasan;40;Comedian Hasan Minhaj
 hasanair;40
 has a nap;40
 has an axe to grind;60
-hasanedge;50
+has an edge;60
+has an edge on;60
 hasaneyeon;40
 hasanin;50
 hasanip;50
@@ -28452,6 +28465,8 @@ has butterflies;60
 has designs on;50
 hasdibson;50
 hasdone;30
+has every intention;60
+has every intention of;50
 haseyesfor;50
 has fun;40
 hasgame;60
@@ -28464,6 +28479,8 @@ has it bad;60
 has it good;60
 has it in for;50
 has it made;60
+has knowledge;50
+has knowledge of;50
 haslegs;60
 has money on;50
 hasmore;40
@@ -28481,6 +28498,8 @@ has no time for;40
 hasntgottime;50
 has on;40
 hasonetoomany;60
+has prior knowledge;50
+has prior knowledge of;50
 Hass;40;Type of avocado
 Hassan;40
 has seconds;60
@@ -28496,6 +28515,7 @@ hasteningto;40
 hastensto;40
 hastento;40
 hastert;40;Speaker of the House Dennis Haster (1999-2007)
+has the goods on;60
 has the last laugh;60
 hastimefor;40
 has to;40
@@ -28564,18 +28584,21 @@ have a blast;50
 have a conniption;60
 haveacouple;60
 have a cow;60
+have a crush on;60
 haveadrink;50
 have a go at it;50
 have a good trip;50
 have a heart;60
 have a hunch;50
+have a line on;60
 have a look;50
 have a look around;60
 havealookat;40
 haveanair;40
 have a nap;40
 have an axe to grind;60
-haveanedge;50
+have an edge;60
+have an edge on;60
 haveaneyeon;40
 have a nice life;60
 haveanin;50
@@ -28596,6 +28619,8 @@ have been around;40
 have butterflies;60
 have designs on;50
 havedibson;50
+have every intention;60
+have every intention of;50
 haveeyesfor;50
 have fun;60
 have fun with that;60
@@ -28606,6 +28631,8 @@ have it both ways;50
 have it good;60
 have it in for;50
 have it made;60
+have knowledge;50
+have knowledge of;50
 havelegs;60
 have money on;50
 havemore;40
@@ -28622,7 +28649,10 @@ have no time for;40
 haventgottime;50
 have on;40
 haveonetoomany;60
+have prior knowledge;50
+have prior knowledge of;50
 have seconds;60
+have the goods on;60
 have the last laugh;60
 havetimefor;40
 have to;40
@@ -28631,17 +28661,20 @@ having a bite;50
 having a blast;50
 having a conniption;60
 having a cow;50
+having a crush on;60
 havingadrink;50
 having a go at it;50
 havingaheart;60
 having a hunch;60
+having a line on;60
 having a look;50
 having a look around;50
 havingalookat;40
 havinganair;30
 having a nap;50
 having an axe to grind;60
-havinganedge;50
+having an edge;60
+having an edge on;60
 havinganeyeon;40
 havinganip;50
 having a right;50
@@ -28656,6 +28689,8 @@ havingasip;50
 havingayenfor;40
 having butterflies;60
 having designs on;50
+having every intention;60
+having every intention of;50
 havingeyesfor;50
 having fun;50
 havinggame;50
@@ -28664,6 +28699,8 @@ having it bad;60
 having it good;60
 having it in for;50
 having it made;60
+having knowledge;50
+having knowledge of;50
 havinglegs;50
 having money on;50
 havingneedfor;40
@@ -28673,7 +28710,10 @@ havingnoshot;60
 having no time for;40
 having on;40
 havingonetoomany;60
+having prior knowledge;50
+having prior knowledge of;50
 having seconds;60
+having the goods on;60
 having the last laugh;60
 having to;40
 havocs;20;Lays waste to, archaic
@@ -31366,6 +31406,7 @@ igy;20
 Iha;20
 I had a blast;60
 I had a thought;60
+I had every intention;60
 I had no idea;60
 ihamiham;0
 ihateeverythingaboutthis;60
@@ -31377,6 +31418,7 @@ I hate you;60
 ihavealove;50;???
 I have a question;60
 ihaveathought;60
+I have every intention;60
 I have eyes;60
 I have just the thing;60
 I have mixed feelings;60
@@ -60031,6 +60073,7 @@ sicthedogson;50
 Sid;50
 sidearming;30
 side bangs;60
+sideboob;60
 sideburns;60
 side effect;60
 side effects;60
