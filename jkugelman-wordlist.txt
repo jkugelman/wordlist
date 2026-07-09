@@ -4090,6 +4090,7 @@ Artemis II;60;First manned moon mission since 1972
 artemus;20;1800s humorist
 arteriole;30;Capillary
 arterioles;30;Capillaries
+Arterton;40;Gemma Arterton, English actress (born 1986)
 artest;40;Ron Artest aka Metta World Peace
 art exhibit;60
 art exhibits;60
@@ -24815,6 +24816,8 @@ gamesmanship;50
 gamesome;40;Playful and merry
 Games People Play;60
 GameSpot;50;Video game website
+GameStop;60
+GameStops;50
 game-winning shot;60
 game-winning shots;60
 game within a game;60
@@ -25205,6 +25208,7 @@ gemination;40
 geminations;40
 Geminid;50
 Geminids;50
+Gemma Arterton;50;English actress (born 1986)
 gemmiinnii;0
 gemologist;50
 gemologists;50
@@ -27823,6 +27827,7 @@ had;50
 had a baby;50
 had a bite;50
 had a blast;50
+had a conniption;60
 hadacouple;60
 had a cow;50
 hadadrink;50
@@ -27859,6 +27864,7 @@ had at;40
 had at it;40
 hadayenfor;40
 had butterflies;60
+had designs on;50
 had dibs;50
 haddibson;50
 hadean;40;Geologic eon
@@ -27876,6 +27882,7 @@ had it in for;50
 had it made;60
 hadlegs;60
 Hadley;30;???
+had money on;50
 hadmore;40
 hadneedfor;40
 hadneedto;40
@@ -28409,6 +28416,7 @@ has;50
 has a baby;50
 has a bite;50
 has a blast;50
+has a conniption;60
 hasacouple;60
 has a cow;50
 hasadrink;50
@@ -28441,6 +28449,7 @@ has at;40;Attacks, dives into
 has at it;50
 hasayenfor;40
 has butterflies;60
+has designs on;50
 hasdibson;50
 hasdone;30
 haseyesfor;50
@@ -28456,6 +28465,7 @@ has it good;60
 has it in for;50
 has it made;60
 haslegs;60
+has money on;50
 hasmore;40
 hasnard;30;Transcripts of British parliamentary debates
 hasneedfor;40
@@ -28551,6 +28561,7 @@ have a baby;50
 haveabadhairday;60
 have a bite;50
 have a blast;50
+have a conniption;60
 haveacouple;60
 have a cow;60
 haveadrink;50
@@ -28583,6 +28594,7 @@ have at it;60
 haveayenfor;40
 have been around;40
 have butterflies;60
+have designs on;50
 havedibson;50
 haveeyesfor;50
 have fun;60
@@ -28595,6 +28607,7 @@ have it good;60
 have it in for;50
 have it made;60
 havelegs;60
+have money on;50
 havemore;40
 haveneedfor;40
 haveneedto;40
@@ -28607,6 +28620,7 @@ havenoshot;60
 havenotime;50
 have no time for;40
 haventgottime;50
+have on;40
 haveonetoomany;60
 have seconds;60
 have the last laugh;60
@@ -28615,6 +28629,7 @@ have to;40
 having a baby;50
 having a bite;50
 having a blast;50
+having a conniption;60
 having a cow;50
 havingadrink;50
 having a go at it;50
@@ -28640,6 +28655,7 @@ havingashotat;40
 havingasip;50
 havingayenfor;40
 having butterflies;60
+having designs on;50
 havingeyesfor;50
 having fun;50
 havinggame;50
@@ -28649,11 +28665,13 @@ having it good;60
 having it in for;50
 having it made;60
 havinglegs;50
+having money on;50
 havingneedfor;40
 havingneedto;40
 havingnolife;50
 havingnoshot;60
 having no time for;40
+having on;40
 havingonetoomany;60
 having seconds;60
 having the last laugh;60
@@ -42256,6 +42274,8 @@ moreen;20;Fabric
 moreexpensive;50
 more for me;60
 more importantly;60
+Morello;40
+Morellos;40
 moremore;20
 Moreno;40;Actress Rita Moreno
 moreofthisplease;60
@@ -52650,6 +52670,8 @@ quartan;30;Form of malaria
 quarte;40;Fencing position
 quarterback;60
 quarterbacks;60
+quarter tone clarinet;50;Experimental clarinet designed to play music using quarter tone intervals
+quarter tone clarinets;50;Experimental clarinets designed to play music using quarter tone intervals
 quarto;40
 quartos;40
 quasar;60
@@ -52809,6 +52831,8 @@ raceinto;40
 raceme;30;Flower cluster
 racemes;30
 racemose;30;Botany word
+race riot;50
+race riots;50
 races by;40
 racesin;40
 racesinto;40
