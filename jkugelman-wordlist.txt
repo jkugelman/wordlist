@@ -4109,6 +4109,7 @@ art heists;60
 arthorror;60
 arthouse horror;60
 Arthur Dent;60;Protagonist of "The Hitchhiker's Guide to the Galaxy"
+Arthur Sze;50;United States poet laureate (2025-27)
 artichokey;50;"Okey dokey, artichokey"
 artichokie;50;"Okie dokie, artichokie"
 articlevi;40
@@ -27652,6 +27653,7 @@ guffaw;50
 guffawed;50
 guffawing;50
 guffaws;50
+GUI;40;Graphical user interface
 guide animal;50
 guide animals;50
 guide dog;50
@@ -30824,6 +30826,7 @@ hutted;40
 huttwo;40
 Hutu;40
 Hutus;40
+Huy;40;Actor Ke Huy Quan
 HVAC;40
 hw;30
 Hwang;30;"Squid Game" creator Hwang Dong-hyuk
@@ -40712,6 +40715,7 @@ mcxc;20
 mcxi;20
 mcxl;20
 MD;40
+Mda;30;Zakes Mda, South African novelist, poet and playwright (born 1948)
 mdc;20
 mdcc;20
 mdcci;20
@@ -44489,6 +44493,7 @@ nlf;20
 NL MVP;40
 NL MVPs;40
 NL West;50;N.L. West
+NME;20;British music, film, gaming and culture website
 nmi;20
 NNE;30
 Nnedi;40;Hugo/Nebula award winning writer Nnedi Okorafor
@@ -45169,6 +45174,7 @@ noyourotherright;60
 NP;40
 NPC;30;NYT debut
 npg;20
+NPH;30;Neil Patrick Harris
 NPR;40
 NPR News;50
 NRA;40
@@ -51531,6 +51537,7 @@ ppd;20
 PPE;40
 PPG;40;NBA stat [rare]
 PPK;20
+ppl;40;People
 PPM;20
 PPP;30
 PPPPPP;20
@@ -57050,6 +57057,7 @@ Ryman;30;Ryman Auditorium, former home of the Grand Ole Opry (1943-74)
 Ryman Auditorium;50;Former home of the Grand Ole Opry (1943-74)
 Ryn;30;Rembrandt van Ryn
 rys;20
+RZA;40;Leader of the Wu-Tang Clan
 s;40
 SA;40
 saag;40
@@ -57679,6 +57687,7 @@ sasson;30;Jeans
 sassons;30;Jeans
 Sastre;20;Spanish: tailor, or last name
 sat;50
+SAT;50
 satang;30;Thai coin
 Satanic cult;60
 Satanic cults;60
@@ -60225,6 +60234,7 @@ Sierra Club;50
 Sierra Mist;60
 siesta;50
 siete;40
+Sif;30;Norse goddess, wife of Thor
 sig;20
 Sig Ep;20;Fraternity for short
 sighat;40
@@ -65594,6 +65604,7 @@ System of a Down;60
 syzygies;60
 syzygy;60
 SZA;40;R&B singer
+Sze;40;Arthur Sze, United States poet laureate (2025-27)
 Szechuan beef;60
 szechwan;20
 Szyslak;50;Moe Szyslak on "The Simpsons"
@@ -66697,6 +66708,7 @@ tehees;30
 teicher;30;Piano duo Ferrante & Teicher
 Teigen;40
 teixeira;40;MMA fighter Glover Teixeira
+tej;20;Ethiopian honey wine
 tejolote;40;Mexican mortar and pestle
 tejolotes;40
 tek;20
@@ -67033,7 +67045,8 @@ test kits;50
 test pilot;60
 test pilots;60
 tests for;40
-Tet;50
+Tết;40;Vietnamese New Year celebration
+Tet;0
 tetanic;30;Relating to tetanus
 tetany;30;Spasms caused by low calcum
 tete;40
@@ -72692,7 +72705,7 @@ vicuna;30;Alpaca-like animal
 vicunacalf;30
 vicunacalves;30
 vicunas;30
-vid;50
+vid;40
 vida;40
 Vidalia;40;Type of onion
 vide;40;Sous vide cooking technique
@@ -72709,7 +72722,7 @@ videographers;60
 videographies;60
 videography;60
 vidi;40
-vids;50
+vids;40
 vie;50
 viedf;0
 vied for;40
@@ -76257,6 +76270,7 @@ zag;50
 Zagat-rated;50
 Zahn;40
 Zak;40;Ringo's son
+Zakes Mda;40;South African novelist, poet and playwright (born 1948)
 zakk;40;Zakk Wylde?
 Zale;40;Zale Corporation aka Zales
 Zamboni;50
