@@ -17867,6 +17867,8 @@ doorcrashers;60
 DoorDash;60
 DoorDasher;60
 DoorDashers;60
+do or do not;60;Half of a Yoda quote
+do or do not, there is no try;60;Yoda quote
 doormat;60
 doormats;60
 doornumberone;50
@@ -32268,6 +32270,8 @@ Indo-;40
 indogyears;60
 indoor cat;60
 indoor cats;60
+indoor dog;60
+indoor dogs;60
 indoor pool;50
 indoor pools;50
 indorse;20
@@ -47568,6 +47572,8 @@ outbreak;50
 outbreaks;50
 outdoor cat;50
 outdoor cats;50
+outdoor dog;60
+outdoor dogs;60
 outdoorswimming;50
 outeat;40
 outeating;40
