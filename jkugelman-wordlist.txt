@@ -51407,6 +51407,8 @@ Powell's;30;Plural name
 Powerade;50
 power bank;50;Portable charger
 power banks;50
+power bottom;10
+power bottoms;10
 powercreep;60
 powerdive;50
 powerdives;50
@@ -51450,6 +51452,8 @@ power surge;50
 power surges;50
 power tool;50
 power tools;50
+power top;10
+power tops;10
 power vacuum;50
 power vacuums;50
 power walk;50
