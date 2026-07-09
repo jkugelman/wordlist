@@ -19389,10 +19389,12 @@ edginglower;50
 edgings;30
 edgingupto;40
 edh;20
+Edi;20;Edi Gathegi, Kenyan-American actor (born 1979)
 edible arrangement;60
 edible arrangements;60
 edictal;30
 Edie;40
+Edi Gathegi;40;Kenyan-American actor (born 1979)
 edinboro;30;Unnotable Pennsylvania university
 edisonnj;40
 edit down;50
@@ -31721,7 +31723,8 @@ imallgood;60
 imallout;60
 imam;50
 imamac;50
-imamate;40;???
+imamate;40;Office of an imam
+imamates;40;Offices of an imam
 I'm amazed;60
 I'm a mess;50
 I'm a monster;60
@@ -34901,6 +34904,7 @@ katsu;40;Pork katsu
 katsudon;40;Japanese dish
 Katsushika Hokusai;50;"The Great Wave off Kanagawa" painter Katsushika Hokusai
 Kattan;40
+Katy Tur;40;Host of "The Moment" for MS NOW
 katzenjammer;50
 Katzenjammer Kids;50
 katzenjammers;50
@@ -41372,6 +41376,7 @@ Michael Bluth;60;"Arrested Development" character
 Michael Caine;60
 michaeljohnston;50;Actor Michael Johnston from "Obsession" (2026)
 Michael Palin;50
+Michael Sembello;50;Singer of "Maniac" from "Flashdance"
 Michigander;50
 Michiganders;50
 Mickey;50
@@ -58875,6 +58880,7 @@ semana;40
 semanas;40
 semantle;20
 Sematary;50
+Sembello;40;Michael Sembello, Singer of "Maniac" from "Flashdance"
 Semele;30;Mother of Dionysus
 sememe;20
 sememes;20
@@ -70830,6 +70836,7 @@ Tupper;40;Earl Tupper who invented Tupperware
 Tupperware;60
 Tupperware parties;60
 Tupperware party;60
+Tur;30;Katy Tur, host of "The Moment" for MS NOW
 turaco;30;African bird
 turacos;30;African birds
 turbit;30;Breed of pigeon
@@ -72301,6 +72308,7 @@ uvular;40
 uvulas;40
 uvw;20
 Uwe;20
+uwu;30;Emoticon denoting cuteness, smiling or happiness
 UX;40
 UX design;60
 UX designer;60
