@@ -34050,6 +34050,7 @@ jadis;40;The White Witch in Narnia
 Jae;20
 Jaegwon;40;Jaegwon Kim, Korean-American philosopher (1934–2019)
 Jaegwon Kim;50;Korean-American philosopher (1934–2019)
+Jafar Panahi;40;Iranian filmmaker and actor (born 1960)
 Jaffa;30;Israeli port mentioned in the Bible
 jag;50
 Jager;50
@@ -45286,9 +45287,16 @@ nowwheredidipark;60
 nowwheredidwepark;60
 nox;40;Night goddess
 Noyes;40;Poet Alfred Noyes
+no, you;50
+no, you are;50
 no you didn't;60
-no you hang up;60
-noyourotherright;60
+no, you hang up;60
+no you hang up;0
+no, you listen;60
+no you listen;0
+no you're not;40;Context?
+no, your other left;60
+no, your other right;60
 NP;40
 NPC;30;NYT debut
 npg;20
@@ -46179,6 +46187,9 @@ ohnoewheismyex;0
 oh no not again;60
 oh no reason;60
 oh no you didn't;60
+oh no you di'int;60
+oh no you di'nt;60
+oh no you're not;60
 oho;40
 O Holy;20
 O Holy Night;60;Christmas song
@@ -48368,6 +48379,7 @@ Pamina;30;"The Magic Flute" heroine
 Pampas;40;South American grasslands
 pan;50
 panafricanflags;50
+Panahi;30;Jafar Panahi, Iranian filmmaker and actor (born 1960)
 panalleytin;0
 Panama Canal;50
 Panama hat;60
