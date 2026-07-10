@@ -2918,9 +2918,10 @@ andsoitgoes;60
 and so on and so on;60
 andtheawardgoesto;60
 and the like;60
-And Then There Were None;60
+And Then There Were None;60;1939 mystery novel by Agatha Christie
 and the Oscar goes to;60
 andtherewehaveit;60
+andthetherewerenone;0
 and they're off;60
 andtomakemattersworse;60
 andtothink;60
@@ -10355,13 +10356,17 @@ Cape Cod;60
 Cape Cod cottage;60
 Cape Cod cottages;60
 capecods;60
+caped for;40;Fiercely defended, slangily
+cape for;40;Fiercely defend, slangily
 Cape Horn;50
 capelet;40
 capelets;40
 capelin;40;Small fish
 capelins;40
 Capeman;40;"The Capeman", Paul Simon musical flop
+capes for;40;Fiercely defends, slangily
 Capetian;30;Frankish dynasty
+caping for;40;Fiercely defending, slangily
 capital A;40
 capital B;40
 capital C;40
@@ -20146,6 +20151,7 @@ empennage;40;Airplane tail section
 empennages;40
 emperor butterflies;60
 emperor butterfly;60
+Emperor Norton I;50;Self-proclaimed Emperor of the United States (1818–1880)
 emphasis added;60
 emping;30;Indonesian cracker
 empirestatebldg;30
@@ -39372,6 +39378,7 @@ madeauey;40
 madeauie;40
 madeaware;50
 made bail;50
+made big bucks;60
 made biscuits;60
 made by hand;60
 made do with;40
@@ -39405,7 +39412,7 @@ made room;50
 made sense;50
 made sense of;50
 made short work of;60
-madethebigbucks;60
+made the big bucks;60
 madethebuttofthejoke;60
 madethescene;60
 made time;50
@@ -39700,6 +39707,7 @@ Make-A-Wish Foundation;60
 Makeba;40;Miriam Makeba, South African singer a.k.a. Mama Africa
 make bail;50
 make believe;60
+make big bucks;60
 make biscuits;60;Knead, like a cat
 makebyhand;60
 make do;50
@@ -39763,6 +39771,7 @@ makesauey;40
 makesauie;40
 makesaware;50
 makes bail;50
+makes big bucks;60
 makes biscuits;60
 makesbyhand;60
 makes do with;40
@@ -39794,7 +39803,7 @@ makes room;50
 makes sense;50
 makes sense of;50
 makes short work of;60
-makesthebigbucks;60
+makes the big bucks;60
 makesthebuttofthejoke;60
 makesthescene;60
 makes time;50
@@ -39804,7 +39813,7 @@ makes use of;40
 makes war;40
 makeswaron;40
 makes waves;60
-makethebigbucks;60
+make the big bucks;60
 makethebuttofthejoke;60
 makethescene;60
 make time;50
@@ -39853,6 +39862,7 @@ makingauey;40
 makingauie;40
 makingaware;50
 making bail;50
+making big bucks;60
 making biscuits;60
 makingbyhand;60
 making do with;40
@@ -39880,7 +39890,7 @@ making room;50
 making sense;50
 making sense of;50
 making short work of;60
-makingthebigbucks;60
+making the big bucks;60
 makingthebuttofthejoke;60
 makingthescene;60
 making time;50
@@ -46261,6 +46271,7 @@ Oka;20
 okafor;40
 okand;50
 okapi;40;Forest giraffe
+okapia johnstoni;20;Okapi species
 okapicalf;40
 okapicalves;40
 okapis;40;Forest giraffes
@@ -73683,6 +73694,7 @@ water taxis;60
 water vole;50
 water voles;50
 waterwater;0
+water water everywhere;50
 water wheel;60
 water wheels;60
 water wings;50
