@@ -274,6 +274,9 @@ Aardman;30
 aardvarkcub;50
 aardvarkcubs;50
 aari;30;Aari McDonald of the WNBA
+Aaron Burr;60
+Aaron Burr, Sir;60
+Aaron Burr Sir;0
 Aaronite;40;Priestly descendant of Aaron
 Aaronites;40;Priestly descendants of Aaron
 Aaron's;30;Aaron's rod
