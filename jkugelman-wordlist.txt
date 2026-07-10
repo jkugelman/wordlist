@@ -720,6 +720,7 @@ Achilles tendon;60
 Achilles tendons;50
 aching for;40
 achipandachair;60
+a chip on;20
 achs;30
 aci;20
 acidbath;50
@@ -7643,6 +7644,9 @@ black rhino;50
 black rhinoceros;50
 black rhinos;50
 Black Sabbath;60
+black sand;50;Black-colored rock and mineral particles
+black sands;50;Black-colored rock and mineral particles
+Black Santa;60
 black swan event;60;Occurrence that is hard to predict but seems inevitable in hindsight
 black swan events;60
 bladder fiddle;50;Musical instrument
@@ -8602,6 +8606,8 @@ bow;50
 bow and arrow;50
 bowcase;50
 bowcases;50
+bow chicka bow wow;60
+bow chicka wow wow;60
 bowdlerization;60
 bowdlerizations;60
 bowdlerize;60
@@ -11970,6 +11976,8 @@ chip clips;60
 chip leader;60
 chip leaders;60
 Chip 'n Dale;60
+ChIP-on-chip;50;Molecular biology technology used to investigate interactions between proteins and DNA in vivo
+chip on one's shoulder;60
 chipotle;60
 chipped up;50;Gained chips, in a poker tournament
 chippier;50
@@ -24998,6 +25006,8 @@ Gardasil;40;HPV vaccine
 garde;40
 gardenbox;50
 gardenboxes;50
+garden herb;50
+garden herbs;50
 Gardiner;40;Montana town at the entrance to Yellowstone
 Gareth;40
 Garfield and Friends;50
@@ -25159,6 +25169,7 @@ gauzy;30
 gave a hand;50
 gaveairto;40
 gavealift;50
+gave a say to;40
 gaveear;40
 gaveearto;40
 gave ground;50
@@ -25449,7 +25460,8 @@ georgic;30;Poem about rural life
 georgics;30
 Georg Ohm;50
 geos;40
-geoscience;60
+geoscience;50
+geoscientist;50
 ger;40
 Geraint;30
 Geraldo Rivera;50
@@ -26018,6 +26030,7 @@ giveadogabone;60
 give a hand;50
 giveairto;40
 givealift;50
+give a say to;40
 giveear;40
 giveearto;40
 give ground;50
@@ -26031,6 +26044,7 @@ give it to me straight;60
 give me a hand;60
 Give Me One Reason;60
 give me some space;60
+given a say to;40
 given the brush-off;60
 giventhegreenlight;60
 givento;40
@@ -26039,6 +26053,7 @@ give one's best;60
 gives a hand;50
 givesairto;40
 givesalift;50
+gives a say to;40
 givesear;40
 givesearto;40
 gives ground;50
@@ -26065,6 +26080,7 @@ give zero fucks;10
 giving a hand;50
 givingairto;40
 givingalift;50
+giving a say to;40
 givingear;40
 givingearto;40
 giving ground;50
@@ -27187,7 +27203,15 @@ grand final;60
 grand finals;60
 Grandin;20;Animal rights activist Temple ___
 grand jete;50;Ballet movement
+Grand Jubilee;60;Music and comedy variety show in Branson, Missouri
+Grand Jubilees;60
+Grand Junction, Colorado;50
+Grand Junction Colorado;0
+grand juror;60
+grand jurors;60
 grand jury;50
+grand jury indictment;50
+grand jury indictments;50
 Grand Prix;50
 grand prize;50
 grand prizes;50
@@ -29995,6 +30019,7 @@ holdonhearmeout;60
 holdononesecond;60
 hold onto;40
 hold onto your butts;60
+hold please;60
 holds back;50
 holdscoreless;50
 holds dear;60
@@ -38246,6 +38271,8 @@ loadingin;40
 loadings;40;Weird plural
 loadingscreentip;60
 loadingscreentips;60
+load-in time;50;Time during which musicians start carrying all of their gear into a venue for a show
+load-in times;50;Times during which musicians start carrying all of their gear into a venue for a show
 loadsin;40
 loafed on the job;20
 loafing on the job;20
@@ -44866,6 +44893,7 @@ Noonan;40;Columnist Peggy Noonan
 no one asked;60
 no one cares;60
 nooneon;50
+no one panic;60
 nooner;50
 nooners;50
 no one told me;60
@@ -47135,6 +47163,8 @@ Opel;30;European auto brand [common]
 Opels;30
 OpenAI;60
 openairstadiums;50
+open-air street market;60
+open-air street markets;60
 open-and-shut case;60
 open-and-shut cases;60
 open bar;50
@@ -49955,6 +49985,7 @@ pibroch;20;Bagpipe music
 pibrochs;20
 pic;50
 pica;40;Typographical size
+picanha;30;Cut of beef from the top rump
 picapica;20;Magpie species
 Picardy;40
 picaro;40;Rogue
@@ -50720,6 +50751,9 @@ pleased to meet you;60
 please enjoy;60
 please feel free;60
 please forgive me;60
+please have a seat;60
+please hold;60
+please hold the line;50
 pleaseimeating;60;"Gross!"
 pleaseimeatinghere;60;"Gross!"
 pleaseimtryingtoeat;60;"Gross"
@@ -51389,6 +51423,7 @@ pork rind;50
 pork rinds;50
 porksirloin;50
 porn bot;20
+porn groove;20;Music in pornography, don't know that this is a set phrase
 pornime;30
 pornochic;10;Golden age of porn
 porn star;60
@@ -62382,6 +62417,8 @@ sorcerers;50
 sorceress;50
 sorceresses;50
 sorcery;50
+sordid tale;60
+sordid tales;60
 soreat;30
 sore loser;60
 sore losers;60
@@ -64563,8 +64600,14 @@ street interview;60
 street interviews;60
 street magician;60
 street magicians;60
+street map;50
+street maps;50
+street market;60;Market in a public outdoor place
+street markets;60;Markets in a public outdoor place
 street meat;50
-streetmeats;50
+street meats;50
+street mime;60
+street mimes;60
 street musician;60
 street musicians;60
 street name;50
@@ -73433,6 +73476,8 @@ wall sockets;60
 walls of text;60
 wall space;50
 Wall Street;60
+Wall Street: Money Never Sleeps;50;Sequal to "Wall Street" (1987)
+Wall Street Money Never Sleeps;0
 wall-to-wall;60
 wall-to-wall carpet;60
 wall-to-wall carpeting;60
@@ -75066,6 +75111,7 @@ wirerods;40
 wirers;40
 wiresto;30
 wireto;30
+wire-to-wire;60;From start to finish, in sports
 wirewalker;50
 wirewalkers;50
 wiringto;30
