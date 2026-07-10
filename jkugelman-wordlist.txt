@@ -7932,6 +7932,8 @@ blue in the face;60
 blue law;60
 blue laws;60
 blue lips;50
+Blue Meanie;60;Music-hating creature in the film "Yellow Submarine"
+Blue Meanies;60;Music-hating creatures in the film "Yellow Submarine"
 bluemoonodom;50;Pitcher "Blue Moon" Odom (active 1964-76)
 bluemountain;50
 blueness;30
@@ -26458,6 +26460,7 @@ goes pro;50
 goes public;50
 goes rogue;60
 goes round in circles;60
+goes scuba diving;50
 goes soft;50
 goes solo;50
 goes sour;50
@@ -26582,6 +26585,7 @@ going pro;50
 going public;50
 going rogue;60
 going round in circles;60
+going scuba diving;50
 going soft;50
 going solo;50
 going sour;50
@@ -26956,6 +26960,7 @@ go rogue;60
 go round in circles;60
 gorp;40;Trail mix
 gos;20
+go scuba diving;50
 go-see;30
 goshawk;30;Bird
 goshawks;30
@@ -34560,6 +34565,7 @@ Joe Jonas;50
 Joe Keery;50;Actor who plays Steve on "Stranger Things"
 Joel Embiid;50
 Joe Louis;50
+Joe O'Malley;30
 joepa;10;Joe Paterno, disgraced Penn State coach
 Joe Pera;50;Comedian/actor
 Joe Satriani;50
@@ -34834,6 +34840,8 @@ jus;40
 justadrop;50
 just a heads up;60
 justalongfortheride;60
+just an FYI;60
+just an idea;60
 justapinch;60
 justas;40
 just a sec;60
@@ -37982,6 +37990,7 @@ lint roller;60
 lint rollers;60
 linty;40
 Linux kernel;60
+Linx;30;???
 lion cub;50
 lion cubs;50
 lion dance;50
@@ -41701,6 +41710,8 @@ milord;50
 Milos Forman;50
 Milt;30;First name, various people
 Miltie;40;Milton Berle "Uncle ___"
+Mily;30;Mily Balakirev, Russian composer and pianist (1837–1910)
+Mily Balakirev;50;Russian composer and pianist (1837–1910)
 mimeo;40
 mimeoed;40
 mimeograph;40
@@ -58464,11 +58475,12 @@ scry;40
 scrying;40
 sct;20;Scout abbrev. (banned post-Shortz)
 SCTV;40
-scuba dive;50
-scuba diver;50
-scuba divers;50
-scuba dives;50
-scuba diving;50
+scuba dive;60
+scuba diver;60
+scuba divers;60
+scuba dives;60
+scuba diving;60
+scuba diving gear;50
 scuba gear;50
 scuba mask;50
 scuba masks;50
@@ -67621,6 +67633,7 @@ The Blob;50
 The Bluegrass State;40
 thebluegrotto;40
 The Blue Lagoon;50
+The Blue Meanies;50
 The Bob Loblaw Law Blog;60;Tongue twister in "Arrested Development"
 The Body Shop;50;???
 thebolts;40;???
@@ -72969,6 +72982,7 @@ villainoftheweek;60
 villainsoftheweek;60
 Villeneuve;60
 vim;50
+Vimy;20
 vin;40;Vin Diesel, French wine, car VIN
 vin blanc;50
 vinca;30;Periwinkle genus
@@ -74250,6 +74264,7 @@ went pro;50
 went public;50
 went rogue;60
 went round in circles;60
+went scuba diving;50
 went soft;50
 went solo;50
 went sour;50
