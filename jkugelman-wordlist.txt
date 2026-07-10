@@ -30299,16 +30299,16 @@ hop a train;40;Contrived
 hope against hope;60
 hopecore;50;Too trendy?
 hoped against hope;60
-hopedfor;40
+hoped for;40
 hopedforarematch;60
 hopedto;40
-hopefor;40
+hope for;40
 hopeforarematch;60
 hopelessly naive;60
 hoper;30
 hopers;30
 hopes against hope;60
-hopesfor;40
+hopes for;40
 hopesforarematch;60
 hopesto;40
 hope that helps;60
@@ -30320,7 +30320,7 @@ hope you enjoy;60
 hopeyourehappy;60
 hop in;50
 hoping against hope;60
-hopingfor;40
+hoping for;40
 hopingforarematch;60
 hopingto;40
 hopinto;40
