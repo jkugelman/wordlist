@@ -3082,6 +3082,7 @@ anitem;30
 Anitra;30;"Peer Gynt" dancer
 Anka;40
 Anke;40;1990s tennis great Anke Huber
+Anki;40;Free and open-source flashcard program
 ankle biter;60
 ankle biters;60
 ankle brace;50
@@ -5236,6 +5237,8 @@ azul;40
 azur;40
 azureblue;30
 azured;20
+Azzi;30;Azzi Fudd, WNBA player for the Dallas Wings
+Azzi Fudd;40;WNBA player for the Dallas Wings
 b;40
 B+;40
 B-;40
@@ -6907,6 +6910,7 @@ benjamite;40;???
 bennets;40;"Pride and Prejudice" family
 Bennifer;50
 Benoit Blanc;60;"Knives Out" detective
+Ben Okri;50;Nigerian-born British poet and novelist
 benstein;50
 benthos;20
 bentonite;30;Type of clay
@@ -10730,6 +10734,7 @@ carvingstation;60
 carvingstations;60
 caryatid;30;Greek female sculpture serving as a column
 caryatids;30;Greek female sculptures serving as columns
+Cary Joji Fukunaga;50;Director of "True Detective" (2014) and "It" (2017)
 cas;20
 casa;40
 casaba melon;50
@@ -12151,6 +12156,7 @@ christianpop;50
 Christian Pulisic;50;American soccer player (born 1998)
 christianrock;50
 Christina Perri;50;Singer of "A Thousand Years"
+Christina Tosi;50;Chef, author and TV personality (born 1981)
 Christmas;60
 Christmas card;60
 Christmas cards;60
@@ -12391,6 +12397,7 @@ civil union;60
 civil unions;60
 civvy;50
 cix;20
+Cixi;20;Empress Dowager Cixi, regent of China from 1861 to 1908
 cks;20
 claimedto;40
 claimingto;40
@@ -17041,6 +17048,7 @@ Diomedes;40;"Iliad" warrior
 dione;30;Moon of Saturn
 Dionne;40;R&B singer Dionne Warwick
 Dionysia;30;Festival in honor of Dionysus
+Diop;30;Mati Diop, French film director and actress
 diopter;40;Unit of focusing strength for glasses
 diopters;40
 dioptric;40
@@ -20173,6 +20181,7 @@ empirical laws;60
 employee discount;60
 employee discounts;60
 employee turnover;60
+Empress Dowager Cixi;50;Regent of China from 1861 to 1908
 empty-handed;50
 empty net goal;50
 empty net goals;50
@@ -20879,7 +20888,7 @@ erysipelas;30;Skin infection aka St. Anthony's fire
 erythema;30;Skin redness
 esa;40
 esaercnixat;0
-esai;40
+Esai;40;Esai Morales, actor (born 1962)
 esais;20
 esas;40
 Esau;40;Son of Isaac, Jacob's older twin
@@ -27923,6 +27932,8 @@ gyrene;20;Marine, slangily
 gyrenes;20
 gyrfalcon;30
 gyrfalcons;30
+gyri;30;Ridges on the cerebral cortex of the brain
+gyrus;30;Ridge on the cerebral cortex of the brain
 h;40
 ha;50
 Haagen;40;Häagen-Dazs
@@ -29156,6 +29167,8 @@ hedgesin;40
 hedge trimmer;50
 hedge trimmers;50
 hedgingin;40
+Hedi;30;Hedi Slimane, French photographer and fashion designer (born 1968)
+Hedi Slimane;50;French photographer and fashion designer (born 1968)
 hedison;30;Actor David Hedison???
 hedonic treadmill;60
 Hedwig and the Angry Inch;60
@@ -29528,6 +29541,7 @@ heteronormative;60
 heteroptera;20;Bug group
 heterosis;30
 Hetfield;50
+Heti;30;Sheila Heti, Canadian writer (born 1976)
 hew;50
 hewable;30
 hewed to;40
@@ -30199,6 +30213,7 @@ homesteaders;60
 homesteading;60
 home theater;50
 home theaters;50
+Homi;20;Smart home device brand
 homicide;50
 homicides;50
 homie;30
@@ -31227,6 +31242,7 @@ ich;40
 iChat;30;Discontinued in 2012
 ich dien;30;Ich dien, "I serve", motto of the Prince of Wales
 I cheated;50
+ichi;40;Japanese for "one"
 Ichiro;40;Ichiro Suzuki, all time MLB great
 ichneumon;30;???
 ichnite;30;Fossilized footprint
@@ -32944,6 +32960,7 @@ in the wrong place at the wrong time;60
 inthing;60
 in this economy;60
 inthreed;30
+Inti;20;Incan sun god
 intifada;30;Palestinian resistance movement
 intima;20
 intimacychoreographer;60
@@ -34554,6 +34571,7 @@ jock jam;60
 jockstrap;50
 jockstraps;50
 Jodeci;40;'90s R&B duo
+Jodi;40
 Joe;50
 Joe Camel;60
 joedepre;20;Unnotable basketball player
@@ -34629,6 +34647,7 @@ joint statement;50
 joint statements;50
 joint venture;50
 joint ventures;50
+Joji;40;Cory Joji Fukunaga, director of "True Detective" (2014) and "It" (2017)
 Jojo;60
 joke around;50
 jokearoundwith;40
@@ -34676,6 +34695,8 @@ Jormungandr;60;The World Serpent
 jorts;60
 Jos;20
 Jo's Boys;40;Final book in the "Little Women" series
+José Mujica;40;President of Uruguay from 2010 to 2015
+Jose Mujica;0
 Joseph and the Amazing Technicolor Dreamcoat;60
 Joseph Heller;50
 Josey;50;"The Outlaw Josey Wales"
@@ -34915,6 +34936,8 @@ kaiju;30;Japanese giant monster movie genre (Godzilla)
 Kaitlin Olson;50
 kakapo;40;Endangered New Zealand bird, long Wikipedia article
 kakapos;40
+Kaki;30
+Kaki King;50;guitarist and composer (born 1979)
 Kal;40
 kalaazar;30;Black fever
 kalamazoomi;30
@@ -34929,6 +34952,8 @@ kam;20
 Kama;40;Kama sutra
 Kamal;40
 Kamen;40
+kami;30;Divine being in Shinto
+kamis;30;Divine beings in Shinto
 Kamprad;40;IKEA founder Ingvar Kamprad
 kamprads;40;IKEA founders
 Kampuchea;30;Name of Cambodia under Pol Pot
@@ -35255,6 +35280,7 @@ Kerala;30;Indian state
 keratitis;30;Eye inflammation
 keratosis;30;Skin condition
 Kerber;30;Tennis player Angelique
+Keri;40
 Kermit Roosevelt;20
 kerosenes;40
 kerplop;50
@@ -35439,6 +35465,7 @@ kiltie;30;Kilt-wearer
 kilties;30
 Kim;50
 kimchee;50
+Kimi;40;2022 Steven Soderbergh thriller film
 kimmelweck;50
 kimmelweckroll;50
 Kimmy;50
@@ -35599,6 +35626,7 @@ Klaatu;40;"The Day the Earth Stood Still" alien, or his phrase "klaatu barada ni
 Klaebo;40;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
 Klamath;20
 klan;10
+Klaus Nomi;40;German countertenor (1944–1983)
 Klay;40;4x N.B.A. champion Klay Thompson
 Kleban;40;???
 Klee;40;Artist Paul Klee
@@ -35734,6 +35762,8 @@ koala bears;50
 Kobe beef;60
 kobra;40;???
 KO'd;40
+Kodi;40;Kodi Smit-McPhee, actor in "The Road" (2009) and "Let Me In" (2010)
+Kodi Smit-McPhee;50;Actor in "The Road" (2009) and "Let Me In" (2010)
 Kodos;40;Simpsons alien
 koed;40
 Koestler;40;Arthur Koestler, author of "The Sleepwalkers"
@@ -40187,7 +40217,9 @@ manyofmanynames;60
 many times;50
 Manzanar;40;Internment camp location in California
 Mao;40
+MAOI;30;Monoamine oxidase inhibitor, type of medication
 Mao II;30;Don DeLillo novel
+MAOIs;30;Monoamine oxidase inhibitors, type of medication
 maojacket;50
 maojackets;50
 Maoris;40;Maori is preferred
@@ -40628,7 +40660,8 @@ math puzzles;50
 mathsymbol;50
 mathsymbols;50
 mathteam;50
-Mati Diop;40;French directory/actress Mati Diop
+Mati;30;Mati Diop, French film director and actress
+Mati Diop;40;French film director and actress
 matin;30;Morning prayer, or "morning" in French
 matinal;20;Relating to the morning
 matins;30;Early morning Christian prayer
@@ -42566,6 +42599,7 @@ more than likely;60
 Morey;20;Comic Amsterdam
 morgue;50
 morgues;50
+mori;40
 Moria;40;LOTR location
 Moriarty;60
 Morisot;40;French impressionist Berthe Morisot, semi-notable
@@ -43025,6 +43059,7 @@ mu;40
 Muad'Dib;50
 muammar;40;Muammar Gaddafi
 Muay Thai;60
+Mubi;40;Film streaming platform
 muchas;40
 mucho gusto;60
 muchos;40
@@ -43077,6 +43112,8 @@ mugs for the camera;60
 mugsoftea;50
 Muir;40
 mujer;40;Woman, in Spanish
+Muji;30;Japanese retail company
+Mujica;30;José Mujica, president of Uruguay from 2010 to 2015
 mukbang;60
 mukbangs;60
 Mukden;30;Capital of Manchuria, now called Shenyang
@@ -43455,6 +43492,8 @@ naiver;40;It's more naive
 naivest;40;It's most naive
 naivete;50
 naïveté;50
+Naji;30;Naji al-Ali, Palestinian political cartoonist (1938 – 1987)
+Naji al-Ali;50;Palestinian political cartoonist (1938 – 1987)
 naked ape;50;Book
 nakedcall;60
 nakedcalls;60
@@ -44325,6 +44364,7 @@ nfluniform;50
 nfluniforms;50
 NFT;30
 NFTs;30
+Ngai;30;Sianne Ngai, cultural theorist, literary critic, and feminist scholar
 Ngaio;40;Mystery writer Ngaio Marsh, one of the "Queens of Crime" along with Agatha Christie [common]
 Ngerulmud;30;Capital of Palau
 NGL;30;Not used in NYT
@@ -44809,6 +44849,8 @@ no meat;40
 no me gusta;60
 nomen;20;Ancient Roman's middle name
 nomess;40
+Nomi;30;Nomi Malone, main character of "Showgirls" / Klaus Nomi, German countertenor (1944–1983)
+Nomi Malone;50;Main character of "Showgirls"
 nomine;40
 nomo;40;Star pitcher Hideo
 nomogram;40;Type of mathematical diagram
@@ -44968,6 +45010,8 @@ norest;40
 norfolkva;30
 Norgay;40;Edmund Hillary's sherpa, first to summit Everest
 norhymeorreason;60
+nori;50;Dried edible seaweed
+nor I;50
 no right on red;60
 no right turn on red;60
 norite;30;Type of rock
@@ -46370,6 +46414,7 @@ okmistersmartypants;60
 OK Mr. Smarty-pants;60
 oknowwhat;60
 okras;30
+Okri;40;Ben Okri, Nigerian-born British poet and novelist
 OKs;50
 Oksana;40;Figure skater Oksana Baiul
 oksanas;20
@@ -47072,6 +47117,7 @@ on video;50
 on with it;60
 onyx;60
 onyxes;40
+Oobi;30;Children's television show
 oocyte;40
 oocytes;40
 oodlesandoodles;60
@@ -47532,6 +47578,7 @@ or is it;60
 orisitme;20;Follow-up to "Has the world gone crazy..."
 orison;40;Prayer, archaically
 orisons;40
+Orji;30;Yvonne Orji, actress on "Insecure" (2016–2021)
 Ork;40
 Orkan;30;From Ork
 Orkin;40
@@ -47783,6 +47830,8 @@ Otto I;20;H.R.E. emperor
 Otto II;30
 Otto IV;30
 ottovi;30
+Ötzi;30;Europe's oldest known natural human mummy
+Otzi;0
 OUAI;40;Hair care brand
 oui;50
 ouidas;0
@@ -48352,6 +48401,7 @@ palely;30
 paleo;50
 paleo diet;50
 palestra;30;Greek gymnasium
+Pali;30;Indo-European language native to the Indian subcontinent
 Palikir;40;Capital of Micronesia
 palindrome;60
 palindromes;60
@@ -52886,6 +52936,7 @@ putyourbiggirlpantieson;60
 putyourbiggirlpantson;60
 put your heads together;60
 putyourhouseinorder;60
+Puyi;20;Last emperor of China
 puzfile;20
 puzzle box;50
 puzzle boxes;50
@@ -59860,6 +59911,7 @@ sheetsofice;50
 shegetsit;60
 shehasonlyherselftoblame;60
 shehitme;50
+Sheila Heti;50;Canadian writer (born 1976)
 Shel;40
 shelduck;30
 shelducks;30
@@ -60348,6 +60400,7 @@ Siameses;40
 siamesetemple;50;Type of turtle
 siamesetempleturtle;50
 siamesetempleturtles;50
+Sianne Ngai;50;Cultural theorist, literary critic, and feminist scholar
 sib;50
 siberianunicorn;50;Large extinct rhinoceros
 siberianunicorns;50
@@ -62097,6 +62150,7 @@ sofafort;60
 sofaforts;60
 so far so bad;60
 so far so good;60
+SoFi;40
 sofree;20
 softa;30
 softball;50
@@ -65476,6 +65530,7 @@ swageblock;30
 swaged;30
 swages;30
 swaging;30;Metal-forming technique
+swai;20;Species of shark
 SWAK;20
 swale;20;Marshy area
 swales;20;Marshy areas
@@ -65830,6 +65885,8 @@ tabernaclechoir;60
 tabhoarder;60
 tabhoarders;60
 tabhoarding;60
+tabi;20;Traditional Japanese sock with split-toed construction
+tabis;20;Traditional Japanese socks with split-toed construction
 tabla;40;Indian drum
 tablas;40
 tabledecoration;40
@@ -69667,6 +69724,7 @@ tongue ties;60
 tongue twister;60
 tongue twisters;60
 tongue-twisting;60
+Toni;40
 Tonio;30;"Pagliacci" role
 tonite;40
 tonk;40;Honky-tonk
@@ -69975,6 +70033,7 @@ Toscanini;50
 To Serve Man;60
 Toshiro;40;Toshiro Mifune, Kurosawa's go-to actor
 Toshiro Mifune;60;Toshiro Mifune, Kurosawa's go-to actor
+Tosi;30;Christina Tosi, chef, author and TV personality (born 1981)
 to spare;40;Extra
 tossat;40
 tossedanddenrut;0
@@ -70934,6 +70993,7 @@ T-straps;40
 tstrapsandal;50
 tstrapsandals;50
 tsu;40;Texas Southern or Tennessee State
+Tsui;30
 tsukiji;40;Tsukiji fish market, Tokyo tourist attraction
 tsukijimarket;40
 tsuris;20;Yiddish aggravation
@@ -75201,6 +75261,8 @@ withreagan;40;Book
 with the naked eye;50
 with time to spare;60
 withy;30;Willow branch used in basketry
+Witi;30;Witi Ihimaera, New Zealand writer (born 1944)
+Witi Ihimaera;50;New Zealand writer (born 1944)
 Witt;40
 witter;30;Investor Dean
 wive;40
@@ -75575,6 +75637,8 @@ Wyo;40;Wyoming
 Wyomingite;50
 Wyomingites;50
 x;40
+Xabi;30;Xabi Alonso, Spanish football manager and player (born 1981)
+Xabi Alonso;50;Spanish football manager and player (born 1981)
 X-Acto;50
 xAI;40;SpaceX subsidiary that makes Grok and X (Twitter)
 Xanadu;60
@@ -75589,6 +75653,7 @@ xanthoma;30;Fatty deposit
 xanthomas;30
 xanthosis;30;Yellow discoloration of the skin
 xas;20
+Xavi;30
 Xavier;50
 Xaviera;40;???
 X-axes;50
@@ -75801,6 +75866,7 @@ yakcalves;50
 yakcheese;50
 Yakety Sax;60
 Yakety Yak;60
+yaki;40
 Yakima;30;Washington tribe
 yakimas;30;Washington tribe
 yakisoba;60
@@ -76082,6 +76148,7 @@ yip;50
 yipes;50
 yippee-ki-yay motherfucker;10
 yippy;50
+Yi Yi;40;2000 award-winning Taiwanese drama film
 y'know;40
 ylang-ylang;40;Tropical tree
 Yma;20
@@ -76136,6 +76203,8 @@ yomama;60
 yomamma;60
 yon;50
 Yonex;40;Tennis racket brand
+yoni;30
+yonis;30
 yonkersny;30
 Yoo;30;"Yoo-hoo!"
 Yorba;40;Yorba Linda, California
@@ -76474,6 +76543,8 @@ Yuma;40
 yumaaz;30
 yuman;30
 yumans;30;Quechua people
+Yumi;30;Yumi Nu, plus-size model (born 1996)
+Yumi Nu;40;Plus-size model (born 1996)
 Yuna;40;One-named R&B singer
 Yun-fat;40;Martial arts actor Chow Yun Fat
 yup;50
@@ -76492,6 +76563,7 @@ Yuzuru;40;Figure skater Yuzuru Hanyu
 Yuzuru Hanyu;40;Figure skater Yuzuru Hanyu
 yvettes;30
 Yvie;40;Drag queen Yvie Oddly
+Yvonne Orji;50;Actress on "Insecure" (2016–2021)
 yvonnes;30;Plural name
 yyuryyub;0
 z;40
@@ -76515,6 +76587,8 @@ Zale;40;Zale Corporation aka Zales
 Zamboni;50
 Zambonis;50
 Zamfir;50
+Zami;30
+Zami: A New Spelling of My Name;50;Zami: A New Spelling of My Name
 Zanuck;30;Old Hollywood producer
 zap;50
 zapateo;40;Flamenco dance
@@ -76526,6 +76600,7 @@ zappas;40
 Zara;40;Spanish clothing chain (it's huge!)
 zarf;40;Paper cup holder
 zarfs;40
+zari;20;Thread used in traditional Indian, Pakistani and Persian garments
 zas;20
 zax;20
 Zayn;40;One-named One Direction member
@@ -76613,6 +76688,7 @@ Zestas;30
 zesty ranch;60
 Zeta Psi;40;Fraternity
 zetas;40
+Zhang Ziyi;50;Chinese actress and model (born 1979)
 Zhao;40
 Zhou Enlai;50
 zhuzh;60
@@ -76668,6 +76744,8 @@ zip zap zop;60;Zip Zap Zop, improv theater game
 zit;50
 zit cream;50
 Zito;40;All-Star pitcher Barry Zito
+Ziyi;40;Zhang Ziyi, Chinese actress and model (born 1979)
+Ziyi Zhang;50;Chinese actress and model (born 1979)
 zloty;40;Polish coin
 zlotys;40
 Zn;30
