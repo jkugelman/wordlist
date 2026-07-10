@@ -213,8 +213,8 @@
 9-volt battery;60
 9-volts;50;Small batteries
 a;50
-A+;40
-A-;40
+A+;40;Grade / Blood type
+A-;40;Grade / Blood type
 A++;40
 AA;40;Alcoholics Anonymous / Battery size
 AAA;40;American Automobile Association / Small battery size
@@ -304,6 +304,8 @@ AAVE;40;African-American Vernacular English
 A average;50
 A averages;50
 ab;40
+AB+;40;Blood type
+AB-;40;Blood type
 ABA;40;Bar assoc.
 ABAB;30;Rhyme scheme
 Abacab;40;Genesis album
@@ -5243,8 +5245,8 @@ azured;20
 Azzi;30;Azzi Fudd, WNBA player for the Dallas Wings
 Azzi Fudd;40;WNBA player for the Dallas Wings
 b;40
-B+;40
-B-;40
+B+;40;Grade / Blood type
+B-;40;Grade / Blood type
 BA;40
 baa;40
 baa baa;40
@@ -5891,7 +5893,7 @@ barber pole;60
 barber poles;60
 barbi;30;Model Benton married to Hugh Hefner
 Barbiecore;60
-bar-b-q;40;For real???
+bar-b-q;40
 bar-b-qs;40
 barcade;60
 barcades;60
@@ -12513,8 +12515,8 @@ cleanliness is next to godliness;60
 clean living;50
 cleanroom;60
 cleanrooms;60
-cleanroomsuit;60
-cleanroomsuits;60
+cleanroom suit;60
+cleanroom suits;60
 clean sheet;60
 clean sheets;50
 cleans house;60
@@ -28082,6 +28084,7 @@ hadthelimelight;30
 hadtimefor;40
 had to;40
 hadtorun;30;???
+had yet to;40
 hae;20
 haematin;40;Iron pigment from blood
 Haenel;20
@@ -28313,6 +28316,7 @@ hand down;50
 hand dryer;50
 hand dryers;50
 handed down;50
+handed over to;40
 handedto;40
 hand-eye;50
 hand-eye coordination;60
@@ -28321,6 +28325,7 @@ hand grenade;50
 hand grenades;50
 hand heart;60;🫶
 handing down;50
+handing over to;40
 handingto;40
 hand it to;30
 handlebar mustache;50
@@ -28334,6 +28339,7 @@ hand mirrors;50
 hand model;50
 hand models;50
 hand of God;60;Maradona goal
+hand over to;40
 handpass;50
 hand puppet;60
 hand puppets;60
@@ -28342,6 +28348,7 @@ hand soap;50
 handsomer;30
 handsomest;30
 handsome sum;60
+hands over to;40
 handsteam;50
 handsto;40
 hand tat;60
@@ -28688,6 +28695,7 @@ hastimefor;40
 has to;40
 hastodo;20
 has up;40
+has yet to;40
 hat;50
 Hatari;30;John Wayne movie
 hatchet job;60
@@ -28824,6 +28832,7 @@ have the goods on;60
 have the last laugh;60
 havetimefor;40
 have to;40
+have yet to;40
 having a baby;50
 having a bite;50
 having a blast;50
@@ -28885,6 +28894,7 @@ having seconds;60
 having the goods on;60
 having the last laugh;60
 having to;40
+having yet to;40
 havocs;20;Lays waste to, archaic
 haw;50
 Hawaiian;50
@@ -45768,6 +45778,8 @@ nyyank;30
 nyyankee;40
 NY Yankees;40
 o;40
+O+;40;Blood type
+O-;40;Blood type
 oaf;50
 oahuan;50
 oahuans;50
