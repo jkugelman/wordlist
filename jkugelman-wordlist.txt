@@ -89,6 +89,7 @@
 2pm;40
 #2 seed;50
 #2 seeds;50
+2-tier;20
 2 turtledoves;60
 30 for 30;60;ESPN sports documentary film series
 30 Rock;50;NBC Tina Fey sitcom 2006-13
@@ -106,6 +107,7 @@
 3rd Rock from the Sun;60;American television sitcom (1996–2001)
 #3 seed;50
 #3 seeds;50
+3-tier;20
 3 wise monkeys;60
 3XL;40;Triple extra large size
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
@@ -1198,6 +1200,8 @@ adumbrations;40;Vague foreshadowings
 adumbrative;40;Vaguely foreshadowing
 adunit;50
 adunits;50
+Adut;30;Adut Akech, South Sudanese-Australian model (born 1999)
+Adut Akech;50;South Sudanese-Australian model (born 1999)
 adv;40
 advancedformula;50
 advanced search;60
@@ -1806,6 +1810,7 @@ Akan language;50;Language of Ghana
 akas;20
 AKC;30;American Kennel Club
 akebono;30;???
+Akech;30;Adut Akech, South Sudanese-Australian model (born 1999)
 Akeelah;40;"Akeelah and the Bee"
 akeem;30;"Coming to America" prince
 Akela;40;Wolf in "The Jungle Book"
@@ -1975,6 +1980,7 @@ aletter;0
 alewife;30;Herring
 alewives;30;Herrings
 Alexander Skarsgard;50
+Alexander Stubb;50;President of Finland since 2024
 Alexandra Daddario;50;Actress
 Alexandria Egypt;20
 Alex Cross;50;James Patterson character
@@ -4748,7 +4754,7 @@ athread;20;Twitter convention for indicating a thread
 athwart;40;Contrary to, or across
 ati;20
 atidein;0;???
-atier;50
+A-tier;40
 atilde;30
 atilt;40
 atimetodie;40;Forgettable 1982 Rex Harrison movie
@@ -5319,6 +5325,9 @@ babybell;50
 babybells;50
 babybib;60
 babybibs;60
+BabyBjörn;60;Swedish baby products company
+Babybjorn;0
+BabyBjörns;60;Swedish baby products
 baby book;60
 baby books;60
 babybootee;50
@@ -9266,7 +9275,7 @@ B stars;20
 B team;50
 B teams;50
 btes;20
-btier;50
+B-tier;40
 btry;20
 BTS;40
 BTS Army;60
@@ -11522,6 +11531,7 @@ chaplets;20
 Chapman Stick;60;Guitar-like instrument
 Chapman Sticks;60;Guitar-like instruments
 Chappell Roan;60
+chapssal-tteok;50;Korean rice cake variety
 Chapterhouse: Dune;60;1985 novel by Frank Herbert
 Chapterhouse Dune;0
 chapterii;40
@@ -14975,7 +14985,7 @@ CTA;20
 C team;50
 C teams;40
 Cthulhu;60
-ctier;50
+C-tier;40
 ctn;20
 CTO;40
 ctr;30;Center, contractor
@@ -18117,6 +18127,7 @@ dotboms;20
 dotcom bubble;60
 dotcombubbles;40
 dotdash;40
+dot dot dot dash dash dash dot dot dot;50
 doted on;40
 dotedupon;40
 dote on;40
@@ -18813,7 +18824,7 @@ dso;20
 D'Souza;30;Dinesh D'Souza, right-wing conspiracy theorist
 DST;40
 DSW;30;Used in USAT/LAT, but not NYT
-dtier;50
+D-tier;40
 dtrain;40
 DTs;20
 Dua;40
@@ -21312,10 +21323,11 @@ ethnic slurs;10
 ethno-;40
 ethnos;30;Ethnic group
 ethoses;30
+ethyl;40
 ethylene;40
 etic;20
 Etienne;30
-etier;30
+E-tier;30
 Etihad;40;UAE airline Etihad Airways
 Etihad Airways;50;Airline of the United Arab Emirates
 etilde;30
@@ -21349,9 +21361,14 @@ e-Transferred;20
 e-Transferring;20
 e-Transfers;20
 être;40
+etrog;30;Yellow citron used by Jews during the weeklong holiday of Sukkot
+etrogim;30;Yellow citrons used by Jews during the weeklong holiday of Sukkot
+etrogs;30;Yellow citrons used by Jews during the weeklong holiday of Sukkot
 Etruria;30;Ancient region of Italy, home of Etruscans
 Etruscan civilization;50
 ETs;40
+et seq.;40;"And the following"
+et seq;0
 et sic de;0
 et sic de ceteris;50;"And so of the rest"
 Etsy shop;60
@@ -24520,9 +24537,11 @@ friendwhoisagirl;60
 frier;30;Variant spelling of fryer
 friers;30
 fries up;40
+frig;40
 Frigg;40;Wife of Odin
 fright wig;60
 fright wigs;60
+frigs;20
 frijol;40;Variant of frijole (M-W says rarer, but ngram shows frijol > frijole)
 frijole;40;Singular bean
 frio;40
@@ -24655,7 +24674,7 @@ FTD;20
 ftdodge;30;Unremarkable Iowa town
 fterie;40
 f that;40
-ftier;50
+F-tier;40
 ftknox;50
 ftord;20
 ftp;20
@@ -30969,6 +30988,7 @@ hst;40
 Hsu;40;Stephanie Hsu of "Everything Everywhere All At Once"
 hten;20
 HTML;40
+H-Town;40;Houston, Texas
 htraeotnwod;0
 hts;40
 HTTP;40
@@ -32129,7 +32149,7 @@ IMHO;40
 I'm home;50
 I'm honored;60
 imhuntingwabbit;60
-imightjustdothat;60
+I might just do that;60
 I'm in big trouble;60
 imind;60
 IMing;40
@@ -32765,6 +32785,8 @@ Inge;40;Playwright William Inge
 Ingemar;30;Ingemar Johansson, world heavyweight champion boxer in the 1950s
 ingesta;40;Food and drink
 ingle;30;Hearth
+inglenook;40;Recess that adjoins a fireplace
+inglenooks;40;Recesses that adjoin a fireplace
 ingles;40;English: Sp.
 inglese;40;English, in Italian
 Ingmar;40
@@ -33732,6 +33754,7 @@ itallworksoutintheend;60
 Italo;40;Writer Italo Calvino, notable
 itamar;40;Tony-winning playwright Itamar Moses
 itamarmoses;50;Tony-winning playwright Itamar Moses
+Itami;30;Juzo Itami, Japanese actor, screenwriter, and film director (1933–1997)
 itartass;30;Russian news agency
 Itasca;30;Headwater of the Mississippi
 IT band;50
@@ -34172,6 +34195,7 @@ I wonder why;60
 iwoniwon;60
 I won't ask;60
 iwontbelong;60
+I won't do that;50
 I won't lie;60
 iwoodpinefiryew;0
 iwouldeatyoualive;60
@@ -34442,6 +34466,7 @@ jay;50
 Jaycees;40;United States Junior Chamber, leadership training service organization
 jayjg;0
 jaylen;40;Jaylen Brown of the Celtics
+Jay Leno's Garage;50;CNBC television series (2015-22)
 Jayson;40;Jayson Blair in a plagiarism scandal, or the NBA's Jayson Tatum
 jayzdiscography;0
 jayzkanyewest;0
@@ -34851,6 +34876,10 @@ joots;60;AKA pantashoes
 Jordin;40;Singer Jordin Sparks
 Jor-El;40
 Jormungandr;60;The World Serpent
+Jørn;40;Jørn Utzon, Sydney Opera House architect
+Jorn;0
+Jørn Utzon;50;Sydney Opera House architect
+Jorn Utzon;0
 jorts;60
 Jos;20
 Jo's Boys;40;Final book in the "Little Women" series
@@ -35071,6 +35100,8 @@ just try me;60
 jut;50
 Jutes;20
 juvenilia;50
+Juzo;30;Juzo Itami, Japanese actor, screenwriter, and film director (1933–1997)
+Juzo Itami;50;Japanese actor, screenwriter, and film director (1933–1997)
 JV;40
 jvs;20
 Jyn;30;Jyn Erso, main protagonist of "Rogue One"
@@ -35268,7 +35299,7 @@ KC Royals;50
 kcs;20
 K-Cup pod;60
 K-Cup pods;60
-kdot;40;Nickname for Kendrick Lamar
+K.Dot;40;Nickname for Kendrick Lamar
 K-drama;50;"Squid Game", e.g.
 K-dramas;50
 kea;30;Species of bird endemic to New Zealand
@@ -36373,6 +36404,8 @@ laity;40
 lajoconde;50;Mona Lisa
 lak;20
 lakebottom;50
+Lake Charles, Louisiana;50
+Lake Charles Louisiana;0
 lakewobegoneffect;60;Cognitive bias
 lakier;20
 lakiest;20
@@ -37479,6 +37512,7 @@ Lenin's Tomb;50
 lenity;40;Kindness/gentleness, literary
 Lennie;40;Various: "Of Mice and Men", "Law and Order", others
 Lennon-McCartney;60
+Leno;40
 lenoir;20;North Carolina town
 lens cap shot;60
 lens cap shots;60
@@ -38039,6 +38073,8 @@ lil;50
 Lila;40
 lilalee;40;Silent film actress
 liletee;20;1992 Kentucky Derby winner
+Lili St. Cyr;50;Model and burlesque performer (1917–1999)
+Lili St Cyr;0
 Lili'uokalani;60;Last sovereign monarch of the Hawaiian Kingdom (1891-93)
 lilkinz;50
 Lille;40;French city
@@ -39677,10 +39713,12 @@ madrases;30;Indian fabrics
 madre;40
 madrepore;30;Stony coral
 madrilena;40
+madrileña;40;Woman in Madrid
 madrilenas;40
+madrileñas;40;Women in Madrid
 madrilene;40
-madrileno;40;Madrid resident
-madrilenos;40
+madrileño;40;Madrid resident
+madrileños;40;Madrid residents
 madrona;20;Tree, variant spelling
 madronas;20;Trees, variant spelling
 madrone;40;Tree
@@ -43436,6 +43474,7 @@ musicale;20
 musical number;60
 musical numbers;60
 musicals;50
+musical scale notes;20
 musicbiz;60
 music box;60
 music boxes;60
@@ -49963,6 +50002,7 @@ pet doors;60
 PE teacher;50
 PE teachers;50
 Peter Arno;40;New Yorker cartoonist 1925-68
+Peter Bjorn and John;50;Swedish indie pop/rock band formed in 1999
 Peter Cottontail;60
 Peter Gabriel;60
 Peter Gunn;50
@@ -55261,6 +55301,7 @@ Reni;30;Painter Guido
 reniform;40;Kidney-shaped, in botany
 renin;30;Kidney secretion
 renins;20
+Rennae Stubbs;50;Australian tennis player (born 1971)
 Rennes;30;French city
 Rennie;30;"The Day the Earth Stood Still" actor Michael Rennie
 rennin;20
@@ -58383,6 +58424,7 @@ Scacchi;40;Actress Greta Scacchi
 scad;30;Type of fish, bad singular of scads
 Scala;40;La Scala or Teatro alla Scala opera house in Milan
 scalage;30;Weight compensation for allowable loss
+scale note;20
 scalper;60
 scalpers;60
 scam artist;60
@@ -58632,6 +58674,7 @@ Scottish accent;60
 Scottish accents;60
 scotto;30;Soprano Renata Scotto
 scottrudin;50;EGOT-winning producer Scott Rudin
+Scott Stapp;50;Lead vocalist of Creed
 scourer;30
 scourers;30
 scourger;30
@@ -63783,6 +63826,7 @@ stag party;60;Bachelor party in Britain
 stagy;40;Excessively theatrical
 stah;20
 Stahl;40
+stahp;40;Stop, humorously
 staider;30
 staidest;40
 stain;50
@@ -63901,6 +63945,7 @@ stapes;30;???
 staph;30
 staple gun;50
 staple guns;50
+Stapp;40;Scott Stapp, lead vocalist of Creed
 star anise;60
 Star Baker;60
 Star Bakers;60
@@ -64170,6 +64215,8 @@ St Bernard;50
 St Bernards;50
 St Clair;20;Michigan city/river
 St Croix;50;U.S. Virgin Island
+St. Cyr;30;Lili St. Cyr, model and burlesque performer (1917–1999)
+St Cyr;0
 STD;40
 St Denis;40
 STDs;30
@@ -65054,7 +65101,9 @@ sttitus;40
 ST TNG;20
 Stu;50
 Stuart Restoration;50;British era 1660-1714
+Stubb;30
 stubbedthumb;50;Genetic trait with one short, wide thumb
+Stubbs;40
 stubthumb;50;Genetic trait with one short, wide thumb
 stuck it to;40
 stuck it to the man;60
@@ -66973,6 +67022,7 @@ tcrossers;50
 TCU;30;Texas Christian University
 TD;40
 tdk;20;Cassette maker
+T-dot;40;Nickname for Toronto
 TD pass;50
 TD passes;50
 TDs;40
@@ -71245,6 +71295,9 @@ tsukijimarket;40
 tsuris;20;Yiddish aggravation
 Tswana;40;People/language of Botswana
 tswift;60
+tteok;40;Korean rice cakes
+tteokbokki;50;Korean spicy rice cake dish
+tteokguk;50;Korean sliced rice cake soup
 t-test;40
 t-tests;40
 TTFN;20
@@ -71255,6 +71308,8 @@ T-top;40
 T-tops;40
 ttored;0
 ttoy;20
+TTRPG;30;Tabletop role-playing game
+TTRPGs;30;Tabletop role-playing games
 TTs;20
 TTY;20
 TTYL;40;[frequent]
@@ -72827,6 +72882,7 @@ utter rot;50
 utter tripe;60
 U-tube;30;Lab equipment
 Utz;50
+Utzon;40;Jørn Utzon, Sydney Opera House architect
 UVA;40
 uvalde;30
 uvea;40
@@ -75215,6 +75271,7 @@ William IV;30
 William James Durant;50;American historian, philosopher and writer (1885–1981)
 William Safire;60
 Williams Sonoma;50
+William Stubbs;40;British historian and Anglican bishop (1825–1901)
 will-o'-the-wisp;60
 will-o'-the-wisps;60
 willowbarktea;50
