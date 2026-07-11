@@ -1794,6 +1794,8 @@ A J Foyt;40;Four-time Indy 500 winner
 aji;20
 ajo;30;Garlic: Sp. [rare]
 a job's a job;60
+a journey of a thousand miles;60
+a journey of a thousand miles begins with a single step;60
 ajs;20
 AKA;50
 Akan;30;Language of Ghana
@@ -2753,6 +2755,7 @@ am too;40;Playground retort
 amts;40
 Amu;20;Amu Darya river in Central Asia
 amuck;40;Less common variant of amok
+Amun;40
 Amundsen;40;Amundsen-Scott South Pole Station
 amundsenscott;50;South Pole Station
 amundsenscottsouthpolestation;60
@@ -5152,6 +5155,7 @@ awesomeblossom;60
 awesomegamesdonequick;60
 awesomesauce;60
 awfultruth;60
+aw go on;50
 aw hell;60
 awhellnaw;60
 awholelot;50
@@ -5211,6 +5215,7 @@ ayearago;30
 aye aye sir;50
 Ayer;30
 Ayesha;40
+ayin;20
 Aymara;30;Peruvian native/language
 Ayn;40
 Ayo;40;Ayo Edebiri of "The Bear" or Ayọ Tometi, co-founder of Black Lives Matter
@@ -10319,6 +10324,7 @@ cantcook;30;???
 cantdo;40
 canteen;50
 canteens;50
+can't go on;50
 canthelpyouthere;60
 cantholdacandleto;60
 canticleforleibowitz;50
@@ -10560,6 +10566,7 @@ caresto;40
 carestoomuch;60
 careto;40
 caretofillmein;60
+care to go on;50
 caretoomuch;60
 Carew;40;Rod Carew, 1970s MLB hall of famer
 car game;50
@@ -17617,6 +17624,7 @@ dognaps;40;Abducts Fifi
 do good;50
 do-gooder;60
 do-gooders;60
+do go on;50
 dog park;50
 dog parks;50
 dogpile;60
@@ -25400,6 +25408,7 @@ genetical;40
 Gene Tunney;40;Old-time boxer Gene Tunney
 genevariant;50;???
 genevariants;50
+Gene Ween;40
 geniein;20
 genii;30;Genies or geniuses
 genipap;20;Tropical tree
@@ -26318,6 +26327,13 @@ goaltenders;60
 goaltending;60
 goaltends;60
 goaltimate;50;Ultimate frisbee spinoff with a soccer goal instead
+Goan;30;From the Indian state Goa
+go and buy a;0
+go and come;0
+go and it comes;0
+goanna;30
+goannas;30
+Goans;30;Those from the Indian state Goa
 go antiquing;60
 go ape;50
 goapeover;50
@@ -26458,6 +26474,7 @@ goes OK;50
 goes okay;50
 goes on a date;60
 goes on a diet;60
+goes on a journey;60
 goesonaspree;50
 goes on a tear;60
 goesonleave;50
@@ -26523,6 +26540,7 @@ go-go bars;50
 go gold;50
 go green;50
 gogreenorgohome;60
+go gunning for;20
 go ham;60
 go hard;50
 go home;50
@@ -26585,6 +26603,7 @@ going offline;50
 going off without a hitch;60
 going on a date;60
 going on a diet;60
+going on a journey;60
 goingonaspree;50
 going on a tear;60
 goingonleave;50
@@ -26902,8 +26921,11 @@ Goomba;60
 goombah;50
 goombahs;50
 Goombas;60
+goon;50
+go on;50
 go on a date;60
 go on a diet;60
+go on a journey;60
 goonaspree;50
 go on a tear;60
 gooney;20;Black-footed albatross
@@ -26987,6 +27009,7 @@ go sour;50
 Gossage;40;Pitcher Goose Gossage in the MLB Hall of Fame
 gossip sesh;40;Real phrase?
 go stag;50
+go suck an egg;60
 got;50
 gotabumprap;0
 gotabumrap;60
@@ -31057,6 +31080,8 @@ I am too;40;Playground retort
 I Am Woman;60
 Ian;50
 iandj;20
+Iann;30;Iann Dior, singer and rapper (born 1999)
+Iann Dior;40;Singer and rapper (born 1999)
 Iannucci;40;Armando Iannucci, creator of "Veep"
 ians;30
 Ian Woosnam;40;Pro golfer in the '80s
@@ -34730,6 +34755,7 @@ journal articles;60
 journalized;30
 journeyman;50
 journeymen;50
+journey of a thousand miles;60
 Jovi;40
 joy;50
 Joyce Byers;50;"Stranger Things" character played by Winona Ryder
@@ -43721,6 +43747,9 @@ nature hike;50
 nature walk;50
 Naughty by Nature;60
 naughty list;60
+naughty or nice;60
+naughty or nice list;60
+naughty or nice lists;40
 Nauru;40;World's smallest republic
 Nauruan;30
 Nauruans;30
@@ -46219,6 +46248,8 @@ ogo;20
 ogress;30
 ogresses;30
 OGs;40;Rap pioneers [debuted 2024]
+Ogun;20
+Ogunquit;40
 Ogwumike;40;Nneka Ogwumike of the L.A. Sparks (WNBA MVP 2016)
 oh;50
 ohairs;20
@@ -46573,6 +46604,7 @@ olerud;30;"Johnny O" of baseball, won two World Series
 oles;40
 oleson;40;"Little House on the Prairie" family name
 Oleta;40;Soul singer Oleta Adams
+Olga Ravn;50;Danish poet and novelist
 olheaveho;60
 olid;20
 Oligocene;30;Epoch
@@ -49772,6 +49804,7 @@ Peter Piper;60
 Peter Piper picked a peck of pickled peppers;60
 Peter Sellers;60
 petewentz;40
+Pete Yorn;50;Singer-songwriter (born 1974)
 petflap;50
 petflaps;50
 petfluencer;60
@@ -51616,6 +51649,8 @@ potatobuds;50
 potato chip;60
 potato chips;60
 potatoe;20;Dan Quayle's misspelling
+potato gun;60
+potato guns;60
 Potato Head;60
 potatorace;60
 potatoraces;60
@@ -53948,6 +53983,7 @@ raviolicrimper;60
 raviolicrimpers;60
 ravisher;40;Plunderer
 ravishers;40
+Ravn;40;Olga Ravn, Danish poet and novelist
 Ravyn;40;Ravyn Lenae, American singer (born 1999)
 Ravyn Lenae;50;American singer (born 1999)
 raw;50
@@ -60134,6 +60170,8 @@ shoevelssnow;50
 shofar;30;Jewish horn
 shofars;30
 shogi;40;Japanese chess
+shogun warrior;60
+shogun warriors;60
 shoji;40;Japanese translucent door/window/room divider
 shojo;40;???
 sholom;40;Sholom Aleichem who created Tevye from "Fiddler"
@@ -65046,6 +65084,7 @@ succour;30;???
 Suchet;40;Actor David Suchet, Poirot portrayer
 suchsweetsorrow;60
 sucka;40
+suck an egg;60
 suckat;40
 suckedat;40
 sucked into;50
@@ -74115,6 +74154,7 @@ wee lads;50
 wee lass;50
 wee lassie;50
 wee lassies;50
+Ween;30;Experimental alternative rock group
 weeness;30
 weenier;30;Tinier
 weenie roast;50
@@ -74323,6 +74363,7 @@ went offline;50
 went off without a hitch;60
 went on a date;60
 went on a diet;60
+went on a journey;60
 wentonaspree;50
 went on a tear;60
 wentonleave;50
@@ -76222,6 +76263,7 @@ yoni;30
 yonis;30
 yonkersny;30
 Yoo;30;"Yoo-hoo!"
+Yoon;30
 Yorba;40;Yorba Linda, California
 Yorgos;50;Director Yorgos Lanthimos
 Yorgos Lanthimos;50;"Poor Things" director
@@ -76231,6 +76273,7 @@ yorkist;40
 yorkmini;50
 yorkminis;50
 yorknewstimes;60;Paper of record in York, Nebraska
+Yorn;40;Pete Yorn, singer-songwriter (born 1974)
 Yoruba;30;African language/ethnic group
 yos;40
 Yotam;30;Food writer Yotam Ottolenghi
@@ -76548,6 +76591,8 @@ y tu;30
 yuban;40;Coffee brand
 yucca;40;Shrub (not yuca, the food)
 yuchoy;30;Chinese leafy green
+Yuen;40;Yuen Woo-ping, Hong Kong martial arts choreographer
+Yuen Woo-ping;50;Hong Kong martial arts choreographer
 yuk;50
 Yukio;30
 Yukon Gold;50
