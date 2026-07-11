@@ -62386,6 +62386,8 @@ socket sets;30
 socketwrenchset;30
 socking away;50
 socks away;50
+sock tan;60;Uneven lines caused by socks blocking the sun
+sock tans;60;Uneven lines caused by socks blocking the sun
 socle;20
 socles;20
 so close;60
