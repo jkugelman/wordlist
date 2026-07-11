@@ -18343,6 +18343,7 @@ drawagunon;40
 draw ahead;50
 draw and quarter;50
 draw attention to;40
+draw a veil over;50
 draw away;40
 drawawayfrom;40
 drawbridge ahead;60
@@ -18356,6 +18357,7 @@ drawingagunon;40
 drawing ahead;50
 drawing and quartering;50
 drawing attention to;40
+drawing a veil over;50
 drawing away;40
 drawingawayfrom;40
 drawing from;40
@@ -18368,6 +18370,7 @@ draw into;30
 drawn a bead;50
 drawn a bead on;60
 drawn and quartered;50
+drawn a veil over;50
 drawn out;50
 drawn to;50
 draw on;40
@@ -18380,6 +18383,7 @@ drawsagunon;40
 draws ahead;50
 draws and quarters;50
 draws attention to;40
+draws a veil over;20
 draws away;40
 drawsawayfrom;40
 draws from;40
@@ -18485,6 +18489,7 @@ drewadistinction;50
 drewagunon;40
 drew ahead;50
 drew attention to;40
+drew a veil over;50
 drew away;40
 drewawayfrom;40
 Drew Carey Show;60;With "The"
@@ -60306,6 +60311,7 @@ shock collars;10
 shock jock;60
 shock jocks;60
 shock rock;60
+shock wave in ocean;0
 shoeaddict;50
 shoeaddicts;50
 shoegaze;60
@@ -69100,6 +69106,7 @@ threw a curveball;60
 threwascareinto;50
 threw at;40
 threw a tantrum;50
+threw a veil over;50
 threw away;50
 threwdarts;50
 threw for a loop;60
@@ -69126,6 +69133,7 @@ throwapot;50
 throwascareinto;50
 throw at;40
 throw a tantrum;50
+throw a veil over;50
 throw away;50
 throwdarts;50
 thrower;40
@@ -69137,6 +69145,7 @@ throwingapot;50
 throwingascareinto;50
 throwing at;40
 throwing a tantrum;50
+throwing a veil over;50
 throwing away;50
 throwingdarts;50
 throwing for a loop;60
@@ -69150,6 +69159,7 @@ throwing under the bus;60
 throwinthediscardpile;50
 throwitinthediscardpile;60
 thrownat;40
+thrown a veil over;50
 thrown for a loop;60
 throwninthediscardpile;50
 thrown under the bus;60
@@ -69159,6 +69169,7 @@ throwsapot;50
 throwsascareinto;50
 throws at;40
 throws a tantrum;50
+throws a veil over;50
 throws away;50
 throwsdarts;50
 throwsdownadunk;50
@@ -74075,6 +74086,7 @@ wave at;40
 wavedaflag;50
 waved at;40
 wavedto;40
+wave in shape of sine curve;0
 waverer;40
 waverers;40
 waverunner;60;Yamaha personal watercraft
