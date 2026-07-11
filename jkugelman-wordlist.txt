@@ -11906,6 +11906,12 @@ chicanery;50
 chicas;40
 chicha;40;Latin American fermented beverage
 chick;50
+chicken-and-egg;60
+chicken-and-egg problem;60
+chicken-and-egg problems;60
+chicken-and-egg situation;60
+chicken-and-egg situations;60
+chicken and rice;50
 chickendumpling;50
 chickendumplings;50
 chickened out;60
