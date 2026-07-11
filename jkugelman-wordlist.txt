@@ -73491,7 +73491,7 @@ vitae;40
 vital organ;50
 vital organs;50
 vitaminh;50;Biotin or vitamin B7
-vitamini;40;Ibuprofen
+vitamin I;50;Hiker/athlete slang for ibuprofen
 vitamin K;50
 Viterbo;30;Wisconsin college
 vitiate;40
