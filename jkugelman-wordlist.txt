@@ -20297,10 +20297,11 @@ empennages;40
 emperor butterflies;60
 emperor butterfly;60
 Emperor Norton I;50;Self-proclaimed Emperor of the United States (1818–1880)
+Emperor's New Groove;60;2000 animated Disney film, with "The"
 emphasis added;60
 emping;30;Indonesian cracker
 empirestatebldg;30
-empirestrikesback;60
+Empire Strikes Back;60;"Star Wars" sequel, with "The"
 empirical fact;60
 empirical facts;60
 empirical law;60
@@ -39574,6 +39575,8 @@ macaronic language;50
 macaronies;40
 macaroon;60
 macaroons;60
+MacArthur Fellowship;60
+MacArthur Fellowships;60
 macassar;20;1800s hair oil
 macbethwitches;60
 MacBook;60
@@ -67109,6 +67112,8 @@ teacherstudentrelationships;60
 tea chest;60
 tea chests;60
 teach-in;40
+teaching fellowship;50
+teaching fellowships;50
 teach-ins;40
 teacolored;40;Green painty
 tea cozies;60
@@ -68192,8 +68197,9 @@ The Economist;50
 theelegants;40;Doo-wop group
 the elephant in the room;60
 theemmys;40
-theemperor;60;Tarot card
-The Empire Strikes Back;60
+The Emperor;60;Tarot card
+The Emperor's New Groove;60;2000 animated Disney film
+The Empire Strikes Back;60;"Star Wars" sequel
 the end is nigh;60
 The Entertainer;60
 theepa;20
@@ -68406,7 +68412,9 @@ The Lone Star State;50
 thelongcon;30
 The Longest Yard;50
 The Long Goodbye;50
-The Lord of the Rings;50
+The Lord of the Rings;60
+The Lord of the Rings: The Fellowship of the Ring;60
+The Lord of the Rings: The Return of the King;60
 thelostbattalion;40
 thelostgeneration;60
 the lot of you;60
@@ -68677,6 +68685,7 @@ the results are in;60
 there's your problem;60
 thereto;40
 The Return;20;Russian movie
+The Return of the Living Dead;60
 the reviews are in;60
 there was an attempt;60
 therewasnotadryeyeinthehouse;60
@@ -68862,6 +68871,7 @@ thetuba;30
 The Tudors;20
 theturn;50
 The Turtles;50
+The Two Towers;60
 The Tyger;50
 thetymes;50
 theu;30;University of Miami, "The U"
@@ -71870,6 +71880,7 @@ two-timers;60
 two-timing;60
 twotons;40
 twototango;30
+Two Towers;60
 two turtledoves;60
 twoxtwo;20
 twoyear;40
