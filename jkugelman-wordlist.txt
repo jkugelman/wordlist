@@ -2678,6 +2678,7 @@ amilne;0
 am I making that up;60
 Amin;10
 amines;20;Chemicals
+Amini;10;Mahsa Amini, woman killed in 2022 in Tehran, Iran for not wearing a hijab
 amino acid;60
 amino acids;60
 A minor;50
@@ -7416,6 +7417,7 @@ bi men;40;Bisexual men
 bimester;40
 bimesters;40
 Bimini;30;Bahaman islands
+Biminis;30
 bimmer;30;BMW, less commonly
 bimmers;30
 bin;50
@@ -24051,8 +24053,10 @@ for all the marbles;60
 foraloss;40
 foramen;20;Body opening
 foramina;20;Body openings
-foraminifer;30;Phylum
-Foraminifera;30
+foraminifer;30;Amoeboid protist
+foraminifera;30;Phylum of amoeboid protists
+Foraminifera;0
+foraminifers;30;Amoeboid protists
 for better or worse;60
 forborne;40
 forceawakens;60
@@ -35394,6 +35398,7 @@ keeps to;40
 keeptabs;50
 keep tabs on;50
 keep to;40
+keep to a minimum;50
 keep under wraps;60
 keep your shirt on;60
 Keery;40;Joe Keery, actor who plays Steve on "Stranger Things"
@@ -39839,6 +39844,7 @@ mahomet;30;Play by Voltaire?
 mahout;40;Elephant rider
 mahouts;40
 mahres;20
+Mahsa Amini;10;Woman killed in 2022 in Tehran, Iran for not wearing a hijab
 mai;40;___ tai
 maidenaunt;50
 maidenaunts;50
@@ -73492,6 +73498,8 @@ vital organ;50
 vital organs;50
 vitaminh;50;Biotin or vitamin B7
 vitamin I;50;Hiker/athlete slang for ibuprofen
+vitaminize;50
+vitaminizes;50
 vitamin K;50
 Viterbo;30;Wisconsin college
 vitiate;40
@@ -73753,6 +73761,7 @@ Waikiki Beach;50
 Waimea;40;Hawaiian valley
 wait a bit;50
 waitadarnminute;60
+Wait a Minim!;40;1962 musical
 wait around for;40
 wait a sec;60
 wait a second;60
