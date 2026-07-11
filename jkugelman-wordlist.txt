@@ -5874,8 +5874,8 @@ baptistminister;50
 bar;50
 barak;40;Israeli PM Ehud Barak 1999-2001
 bar associations;50
-Baratheon;60;"Game of Thrones" family
-baratheons;60
+Baratheon;50;"Game of Thrones" family
+Baratheons;50
 Barbarella;60
 barbecue;50
 barbecueapron;60
@@ -35645,6 +35645,7 @@ King Crimson;60
 King David;50
 kinginthecastle;60
 King James Version;60
+King Joffrey;50
 King Koopa;60
 kinglouisxiv;40;"The Sun King"
 king me;60
@@ -63875,6 +63876,7 @@ stannedfor;50
 stannic;30;Of tin
 stanningfor;50
 stannis;30
+Stannis Baratheon;50
 stanno;20;Tin: Prefix
 stannous;40;Of tin
 stannum;30;Latin for tin, source of "Sn"
