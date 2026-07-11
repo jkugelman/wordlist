@@ -1138,6 +1138,7 @@ adorners;40
 adoseof;20
 ad out;40;Tennis score
 ADP;30
+Adra;30;Basel Adra, Palestinian journalist and activist (born 1996)
 A Dream of Spring;60;A Song of Ice and Fire book #7
 A Dream Within a Dream;60
 adrenaline;60
@@ -1640,6 +1641,7 @@ aims to;20
 aim to;20
 aimusic;60
 ain;20
+Aina;30;Jackie Aina, beauty YouTuber
 Ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
 ainthay;30;Is of value, slangily
 aintlifegrand;60
@@ -1787,6 +1789,7 @@ AI slop;60
 aislopvideo;60
 aislopvideos;60
 ait;20
+AITA;20
 Aix;20
 Aja;40;WNBA four-time MVP A'ja Wilson, or a Steely Dan album
 ajcook;40;"Criminal Minds" actress A. J. Cook
@@ -1819,6 +1822,7 @@ akvavits;30
 Al;50
 a la;50
 à la;50
+Alaa;30
 Alabama;50
 Alabamian;50
 Alabamians;50
@@ -1876,6 +1880,7 @@ a laugh a minute;60
 Al-Azhar;40;Egypt's oldest degree-granting university, and one of the oldest universities in the world
 Al-Azhar University;50;Egypt's oldest degree-granting university, and one of the oldest universities in the world
 alb;20;Priestly robe
+Alba;40
 Alban Berg;50;Twelve-tone composer of the Second Viennese School
 Albanese;30
 albans;20;Ancient Italians
@@ -2302,6 +2307,8 @@ aloes;40
 aloe vera juice;60
 alohas;40;Questionable plural
 Aloha State;50
+Alok;30;Performance artist and activist (born 1991)
+Alok Vaid-Menon;50;Performance artist and activist (born 1991)
 Alomar;40;Baseball player Roberto Alomar
 alonely;20
 alone time;50
@@ -2485,6 +2492,9 @@ amanita;40;Mushroom genus
 amanoramouse;60
 A Map of the World;50;1994 novel by Jane Hamilton, Oprah's Book Club selection
 Amapola;20;1920 song, poppy in Spanish
+Amar;30;Amar Bose, founder of Bose Corporation
+Amar Akbar Anthony;50;1977 Indian film directed by Manmohan Desai
+Amar Bose;50;Founder of Bose Corporation
 amarelle;30;Sour cherry
 amaretti;40;Cookies made with amaretto
 amaretto;50;Liqueur
@@ -2588,6 +2598,7 @@ amendmentxix;20
 Amenhotep;50
 Amen Ra;40
 amen sister;60
+Ament;30;Jeff Ament, Pearl Jam bassist
 amental;20
 amentia;20
 aments;20
@@ -2684,6 +2695,8 @@ am I wrong;60
 Aml;30;Aml Ameen, British actor and filmmaker (born 1985)
 Aml Ameen;50;British actor and filmmaker (born 1985)
 Amleth;40;Figure in medieval Scandinavian romance, direct inspiration for Hamlet
+Amma;30;Amma Asante, British actor and film director
+Amma Asante;50;British actor and film director
 Amman;40;Capital of Jordan
 ammandine;20;Mispelling of amandine?
 ammeter;40
@@ -2694,6 +2707,8 @@ ammoniac;40;Gum resin (gum ammoniac)
 ammoniate;40
 ammonic;30
 ammonoid;30
+Amna;40;Amna Nawaz, co-anchor of PBS NewsHour
+Amna Nawaz;50;Co-anchor of PBS NewsHour
 amneris;30;"Aida" character
 amnestic;40;Amnesic
 amnio;40;Prenatal test, for short
@@ -2907,6 +2922,8 @@ andloan;20
 and make it snappy;60
 and nothing but the truth;60
 andnotthawedout;0
+Ando;30;First or last name, various
+Ando Hiroshige;50;Japanese ukiyo-e woodblock print artist
 and on and on;60
 and one;50;NBA term
 andosentinelorl;0
@@ -3144,6 +3161,8 @@ anofferyoucantrefuse;60
 Anohni;40;Singer ANOHNI, first openly transgender performer nominated for an Academy Award (2016)
 anointer;40
 anointers;40
+Anok;40;Anok Yai, fashion model (born 1997), one of TIME's 100 most influential people in 2026
+Anok Yai;50;Fashion model (born 1997), one of TIME's 100 most influential people in 2026
 anomie;40;Social instability resulting from a Breakdown of moral values, legit word
 anon;50
 anonpls;40;2022 novel about Instagram, not sure how notable (might be turned into an HBO series)
@@ -3698,6 +3717,9 @@ Aragonese;40;???
 aragonite;30;Mineral
 Aragorn;50
 araitdnomaid;0
+arak;20;Aniseed-flavored liquor
+Araki;30
+araks;20;Aniseed-flavored liquors
 Aral;40;Aral Sea
 Aram;40;Composer Aram Khachaturian, or ancient Syria
 Aramean;30
@@ -5222,6 +5244,8 @@ Ayn;40
 Ayo;40;Ayo Edebiri of "The Bear" or Ayọ Tometi, co-founder of Black Lives Matter
 ayouproblem;60
 ayr;20
+Ayra;30;Ayra Starr, Nigerian singer (born 2002)
+Ayra Starr;50;Nigerian singer (born 2002)
 Ayres;20;Actor Lew
 ays;30;Shakespearean cries
 ayton;40;Deandre Ayton in the NBA, 1st overall draft pick in 2018
@@ -5701,8 +5725,8 @@ balloonflower;60
 balloonflowers;60
 balloongiraffe;60
 balloongiraffes;60
-balloonhat;60
-balloonhats;60
+balloon hat;60
+balloon hats;60
 balloonist;60
 balloonists;60
 balloonpayment;60
@@ -6081,6 +6105,7 @@ base coach;60
 base coaches;60
 based on;40
 Basel;40;Swiss city
+Basel Adra;50;Palestinian journalist and activist (born 1996)
 baseliner;50
 basely;50
 basenji;40;Dog breed
@@ -13843,8 +13868,8 @@ cooney;30
 coons;10
 coonskincap;50
 coonskincaps;50
-coonskinhat;50
-coonskinhats;50
+coonskin hat;60
+coonskin hats;60
 cooper;50
 cooperations;40;Weird plural
 coopered;40
@@ -13978,6 +14003,7 @@ corned beef on rye;50
 Corneille;30;Singer, or 17th century playwright
 Cornel;30;Dogwood
 Cornelia Funke;50;German author of children's fiction (born 1958)
+Cornelius Eady;50;Writer focusing largely on matters of race and society
 cornellu;40
 cornels;30;Dogwoods
 corner pocket;60
@@ -19053,6 +19079,7 @@ dystopic;50
 e;40
 eachcluein;0
 each one teach one;60;African proverb
+Eady;40;Cornelius Eady, writer focusing largely on matters of race and society
 eagerer;40;Valid, but more eager is better
 eagerest;40;Valid, but most eager is better
 eagerto;40
@@ -19593,13 +19620,17 @@ eerie calm;50
 eertylimaf;0
 eery;20;Eerie: Var.
 EEs;40
+EE. UU.;40;Estados Unidos
+EEUU;0
 Eevee;40;Pokeyman
 eew;20
 eewfactor;30
 eff;30
+Effa;30;Effa Manley, Negro leagues team co-owner, first woman inducted into the National Baseball Hall of Fame
 effable;30
 effacer;30
 effacers;30
+Effa Manley;50;Negro leagues team co-owner, first woman inducted into the National Baseball Hall of Fame
 effecter;30
 effecters;30
 effective;50
@@ -19766,6 +19797,10 @@ Eisenhower;60
 Eisenhower era;50
 eiskaffee;40
 eisteddfod;30;Welsh festival
+Eiza;30;Eiza González, Mexican actress and singer (born 1990)
+Eiza González;50;Mexican actress and singer (born 1990)
+Eiza Gonzalez;0
+Ejae;40;Singer in "KPop Demon Hunters"
 ejemplo;40
 ekacnapota;0
 eke;50
@@ -20018,6 +20053,8 @@ elute;20
 eluted;20
 elutes;20
 elution;30;Chemical extraction process
+Elva;30;Elva Hsiao, Taiwanese singer (born 1979), one of the "Four Little Divas" of Mandopop
+Elva Hsiao;50;Taiwanese singer (born 1979), one of the "Four Little Divas" of Mandopop
 elven;50
 elver;40;Baby eel
 elvers;40;Baby eels
@@ -20446,6 +20483,7 @@ enisled;30
 enisles;30
 eniveparg;0
 eniwetok;20
+Enix;40;Japanese video game publisher that merged with Square
 enjoy responsibly;60
 Enkidu;20
 enl;20
@@ -20893,6 +20931,7 @@ errs on the side of caution;60
 ERs;40
 ersatzes;40;Can be a noun, but...?
 Erskine;30
+Erso;30;Jyn Erso, main protagonist of "Rogue One"
 erst;40
 Erte;30;Artist Romain de Tirtoff
 ertegun;30;Ahmet ___, Rock and Roll Hall of Fame chairman
@@ -20904,6 +20943,10 @@ eructing;10;Belching
 eructs;10;Belches
 erupter;40
 erupters;40
+eruv;40;Enclosure allowing activities normally prohibited on Shabbat
+eruvim;40;Enclosures allowing activities normally prohibited on Shabbat
+eruvin;40;Enclosures allowing activities normally prohibited on Shabbat
+eruvs;40;Enclosures allowing activities normally prohibited on Shabbat
 Ervin;40;Senator Sam Ervin who led the Watergate investigation
 Erwin;40;Erwin Schrödinger, Erwin Rommel
 Erwin Schrodinger;60
@@ -21176,7 +21219,7 @@ etchin;40
 etchingin;40
 ETD;40;Estimated time of departure
 ETDs;40
-été;30;French for "summer"
+été;30;French summers
 etee;20
 Etel;30;Etel Adnan, Lebanese-American writer and artist (1925–2021)
 Étel;20;Commune in Brittany, France
@@ -21184,7 +21227,7 @@ Etel Adnan;50;Lebanese-American writer and artist (1925–2021)
 eternal question;60
 eternal questions;60
 eterne;40
-etes;40
+etes;0
 etesian;30;Mediterranean wind
 etext;30
 etgal;0
@@ -21788,8 +21831,16 @@ eyeless;40
 eyelid;50
 eyeliner;50
 eyeliners;50
+ey/em;30;Set of gender-neutral neopronouns
+ey em;0
 eye mask;60
 eye masks;60
+ey/em/eir;40;Set of gender-neutral neopronouns
+ey em eir;0
+ey/em/eir pronouns;50;Set of gender-neutral neopronouns
+ey em eir pronouns;0
+ey/em pronouns;50;Set of gender-neutral neopronouns
+ey em pronouns;0
 eye of newt;60;Witches' brew ingredient in Macbeth
 Eye of Ra;60
 eyepatch;50
@@ -28619,6 +28670,7 @@ harrisburgpa;40
 Harrison Ford;60
 harrymack;60;Freestyle rapper
 harryo;30;Harry O, ABC detective series 1974-76
+Harry Potter and the Order of the Phoenix;10;Harry Potter
 harrypotterandthesorcerersstone;10
 Harry Winston;60;Jeweler
 harsh light of day;60
@@ -30727,6 +30779,7 @@ hotzone;60
 hotzones;60
 Hou;40
 Houdini;60
+Hou Hsiao-hsien;40;Taiwanese director, actor (born 1947)
 Hoult;40;Actor Nicholas Hoult
 hourly rate;50
 hourly rates;50
@@ -30861,6 +30914,7 @@ hrtiversary;60
 HS;40
 HSBC;40;Bank
 hsi;20
+Hsiao;30;Elva Hsiao, Taiwanese singer (born 1979), one of the "Four Little Divas" of Mandopop
 hsinifecalptsal;0
 HSN;40
 hst;40
@@ -33323,8 +33377,8 @@ ironer;40
 ironers;40
 iron grip;60
 irongrips;40
-ironhat;40;???
-ironhats;40
+iron hat;40;???
+iron hats;40;???
 ironical;30
 ironing on;40
 ironings;40
@@ -34117,6 +34171,7 @@ Jack Elam;50
 jacket copy;50
 jackhammer;60
 jackhandey;60
+Jackie Aina;50;Beauty YouTuber
 Jackie Chan;60
 Jack Johnson;50
 Jack Kennedy;50
@@ -34403,6 +34458,7 @@ jeering at;40
 jeers at;40
 jeezaloo;60
 jeezokay;60
+Jeff Ament;50;Pearl Jam bassist
 Jeff Bezos;60
 Jefferson Airplane;60
 jeffersonoregon;30;Barely notable
@@ -34827,6 +34883,7 @@ juice press;50
 juice presses;50
 juillet;40;July: Fr.
 jul;40
+Julie Nixon;50;Richard Nixon's daughter
 julienned;50
 juliusonah;50;Julius Onah, director of Captain America: Brave New World
 julys;20
@@ -34967,6 +35024,8 @@ Jutes;20
 juvenilia;50
 JV;40
 jvs;20
+Jyn;30;Jyn Erso, main protagonist of "Rogue One"
+Jyn Erso;40;Main protagonist of "Rogue One"
 k;40
 Kaa;20
 Kaaba;30;Most sacred site in Islam
@@ -36374,6 +36433,7 @@ landline;50
 landlines;50
 landlockedwater;0
 land management;50
+Lando Calrissian;60
 land on;40
 Land Rover;60
 Land Rovers;60
@@ -40176,6 +40236,10 @@ Mango Tango;60;Cocktail or dessert
 mangrove swamp;60
 mangrove swamps;60
 Manhattan;60
+Manhattan distance;60
+Manhattan distances;60
+Manhattan Island;60
+Manhattan Project;60
 manhole cover;60
 manhole covers;60
 manias;40;Bad plural
@@ -43247,6 +43311,7 @@ muppetbabies;60
 muppetmovie;60
 Muppets;60
 muppetshow;60
+Muppets Take Manhattan;60
 mur;20
 Murad;20
 Murakami;60
@@ -43484,12 +43549,15 @@ Nadja;30;???
 nadu;20;Tamil Nadu, India
 Nadya;40;???
 nae;40
+Nael;20
 Nae Nae;40
 naenaes;40
 naes;40
 naff;40;Tasteless: Br.
 NAFTA;40
 nag;50
+Naga;20
+Nagas;20
 Nagasaki;50
 nag at;40
 nagaviper;50
@@ -43779,6 +43847,7 @@ naughty list;60
 naughty or nice;60
 naughty or nice list;60
 naughty or nice lists;40
+Naur;30
 Nauru;40;World's smallest republic
 Nauruan;30
 Nauruans;30
@@ -43837,6 +43906,7 @@ navy yard;50
 navy yards;50
 naw;50
 nawabs;30;???
+Nawaz;40;Amna Nawaz, co-anchor of PBS NewsHour
 Naxos;30;Greek island
 nay;50
 Naya;40;Naya Rivera from "Glee", or water brand
@@ -44445,6 +44515,7 @@ n-gram;40
 n-grams;40
 ngs;20
 nha;20
+Nhat;30;Thích Nhất Hạnh, Buddhist monk, peace activist
 NHL;50
 NHL All-Star;50
 NHL draft;50
@@ -44586,6 +44657,9 @@ Nile River;50
 nilgai;20;Antelope
 Nilla;40
 nilotic;30
+Nils;40
+nils;40;Zeros
+Nils Lofgren;50;E Street Band guitarist
 Nilsson;40;Harry Nilsson, "Everybody's Talkin'" singer
 Nim;20
 nimbi;40
@@ -44917,6 +44991,8 @@ no ma'am;50
 Nomadland;60;2021 Best Picture
 nomans;30
 no matter;60
+Nome, Alaska;50
+Nome Alaska;0
 no meat;40
 no me gusta;60
 nomen;20;Ancient Roman's middle name
@@ -45823,6 +45899,7 @@ nymet;40
 NY Mets;40
 NY NY;50
 NYPD;50
+NYRB;30;New York Review Books, publishing division of The New York Review of Books
 Nyro;30;Songwriter Laura Nyro in the Rock and Roll Hall of Fame
 nys;20
 NYSE;40
@@ -47544,6 +47621,7 @@ orderaride;20;Green paint
 order around;50
 ordered around;50
 ordering around;50
+Order of the Phoenix;10;Harry Potter
 orders around;50
 orderto;20
 ordinarylife;50
@@ -47663,6 +47741,9 @@ Orkney;40;Orkney Islands in Scotland
 Orkney Islands;50
 ORL;30;Orlando, on scoreboards
 orlandofl;30
+Orlando, Florida;50
+Orlando Florida;0
+Orlando Magic;60
 orle;20
 Orlean;40;Susan Orlean, writer of "The Orchid Thief"
 or less;40
@@ -50013,7 +50094,12 @@ phnumbers;50
 pho;50
 Phobos;60;Martian moon
 phobosanddeimos;20
+Phoenix, Arizona;50
+Phoenix Arizona;0
 phoenixaz;40
+Phoenix Wright;60
+Phoenix Wright: Ace Attorney;60
+Phoenix Wright Ace Attorney;0
 phone case;60
 phone cases;60
 phoned it in;50
@@ -68230,6 +68316,7 @@ themself;40
 them's the rules;60
 themud;20
 themultiverse;50
+The Muppets Take Manhattan;60
 themurderbotdiaries;60;Book series that spawned an Apple TV+ show
 themuses;50
 themushroomkingdom;50
@@ -68711,6 +68798,8 @@ the zoomies;60
 thezooplane;40;???
 thi;20
 thicc;60
+Thích Nhất Hạnh;50;Buddhist monk and peace activist, "father of mindfulness"
+Thich Nhat Hanh;0
 thick as thieves;60
 thicko;40;British idiot
 thickos;40
@@ -75951,6 +76040,7 @@ yahoo;50
 yahoogames;50
 yahoos;50
 Yahya;40;Actor Yahya Abdul-Mateen II
+Yai;40;Anok Yai, fashion model (born 1997), one of TIME's 100 most influential people in 2026
 yair;20
 yak;50
 yak butter;50
