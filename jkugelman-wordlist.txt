@@ -4687,6 +4687,7 @@ ataslant;30
 at a stop;30
 AT-AT;40
 at a trot;40
+AT-ATs;40
 ataxia;40
 ataxy;30
 at bar;40;In court
@@ -29899,6 +29900,7 @@ hijackers;40
 hijinks ensue;60
 hijklmnop;20
 hijo;40
+Hikaru Utada;50;Japanese pop singer and producer (born 1983)
 hike;50;Offensive remark?
 Hilaire;30;Writer Belloc
 Hilary Duff;50
@@ -34010,8 +34012,8 @@ it's too early to tell;60
 it's too late;60
 it's too late now;60
 IT support;50
-itsus;50
-itsusagainsttheworld;60
+it's us;40
+it's us against the world;60
 it's whatever;60
 itswhateveryonesthinking;60
 itswhatwereallthinking;60
@@ -35226,6 +35228,7 @@ Katmai;20;Alaska park
 Kato;40
 katsu;40;Pork katsu
 katsudon;40;Japanese dish
+Katsuhiro Otomo;50;Creator of "Akira"
 Katsushika Hokusai;50;"The Great Wave off Kanagawa" painter Katsushika Hokusai
 Kattan;40
 Katy Tur;40;Host of "The Moment" for MS NOW
@@ -48018,6 +48021,7 @@ otologists;40
 otology;40;Ear medicine
 Otomi;30;Mexican people
 otomis;30;Mexican people
+Otomo;40;Katsuhiro Otomo, creator of "Akira"
 otooles;30;Plural name
 OTP;20;One-time password
 OTPs;20;One-time passwords
@@ -72785,6 +72789,7 @@ USWNT;40;US Women's National Team (soccer)
 usx;20
 ut;40
 Uta;40;Actress Hagen
+Utada;40;Mononymous Japanese pop singer and producer (born 1983)
 Utahan;40;Commonly used by outsiders, Utahn is preferred by Utahns
 Utahans;40
 Utahn;50;One from Utah
