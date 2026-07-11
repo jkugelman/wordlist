@@ -10874,6 +10874,7 @@ castaspellon;60
 castedashadowover;60
 castedaspellon;60
 Castellaneta;60
+Caster Semenya;50;South African middle-distance runner (born 1991)
 caste system;50
 caste systems;50
 castingashadowover;60
@@ -23234,9 +23235,12 @@ firmosses;50
 first aid station;60
 first aid stations;60
 firstalert;50
+first and;20
 first and foremost;60
-firstandinches;60
-firstandlong;60
+first and inches;60
+first and last;60
+first and long;60
+first and ten;60
 first base;50
 firstbasecoach;60
 firstbasecoaches;60
@@ -42628,6 +42632,10 @@ Mo'ne Davis;50
 Monegasque;50;From Monaco
 moneta;30;Juno Moneta, epithet of Juno, Roman goddess, origin of "money"
 money;50
+money-back;60
+money back;0
+Moneyball;60;2003 book by Michael Lewis, or 2011 film adaptation with Brad Pitt
+moneyball;60;Empirical analysis of baseball aka sabermetrics
 moneyer;30
 Money for Nothing;60
 money launderers;50
@@ -43171,6 +43179,7 @@ Mr Know-It-All;60
 Mr Lee;30;From Bobbettes song "I Shot Mr. Lee"
 Mr Mayor;60
 Mr Mime;50;Pokeyman
+Mr. Moneybags;60;Nickname for a rich person
 Mr Moto;50
 Mr. & Mrs. Bridge;50;1990 film by James Ivory
 mrn;20
@@ -46361,6 +46370,7 @@ O'Dowd;40;Comedian Chris O'Dowd
 ods;10
 odson;10
 odu;20
+OECD;30;Organisation for Economic Co-operation and Development
 OED;40
 Oedipal;60
 Oedipus;60
@@ -47448,6 +47458,7 @@ oopsmymistake;60
 oopsy-daisy;60
 oorah;50;Marine Corps battle cry
 Oort;40
+OOTD;40;Outfit of the day, on social media
 oox;20
 ooze;50
 ooze charm;60
@@ -47935,6 +47946,7 @@ orv;20;<Wright Brother nickname? GTFO!>
 orval;20;1950s governor
 Orville Redenbacher;60
 ory;20
+or your money back;60
 OS;40
 osa;20
 Osakan;40
@@ -48107,6 +48119,7 @@ ottovi;30
 Otzi;0
 OUAI;40;Hair care brand
 oui;50
+ouid;40;Filter-avoiding spelling of weed
 ouidas;0
 ouis;40
 oulon;20;Tiny French port
@@ -57611,8 +57624,22 @@ Sabato;20;Actor Antonio, or Saturday: Ital.
 Sabbath's Theater;50;Philip Roth novel
 sabe;30;"¿Quién sabe?" or kemo sabe
 sabena;20;Defunct Belgian airline
+saber;50;Type of backsword with curved blade, designed to cut and slash
+saber dance;50
+sabered;40;Struck or killed with a saber
+sabering;40;Striking or killing with a saber
+sabermetrician;60;Analyst of baseball statistics
+sabermetricians;60;Analysts of baseball statistics
+sabermetrics;60;Analysis of baseball statistics aka moneyball
+saber rattler;60
+saber rattlers;60
+saber rattling;60
+sabers;50;Type of backswords with curved blades, designed to cut and slash
 saber saw;30
 saber saws;30
+saber-toothed;60
+saber-tooth tiger;60;More commonly "toothed"
+saber-tooth tigers;60;More commonly "toothed"
 Sabin;40;Albert Sabin, known for developing the oral polio vaccine
 Sabina;20;Italian region, movie
 Sabine;20;TX/LA river
@@ -57683,7 +57710,8 @@ saddleseat;50
 saddleseats;50
 saddos;20
 Sadducee;20
-Sade;40
+Sade;40;British singer and songwriter (born 1959)
+Sade Adu;40;Sade, British singer and songwriter (born 1959)
 sad ending;60
 sad endings;60
 sad excuse;60
@@ -57868,6 +57896,8 @@ salary caps;50
 salat;30;Muslim prayer
 salata;30;Afghan salad
 saleable;40
+sale day;50
+sale days;50
 Saleh;20;Jets head coach, singer/actor Dua
 salemor;20
 'Salem's;50;Cigarettes
@@ -57985,6 +58015,7 @@ Samarra;40
 sambal;40
 Sam Bankman-Fried;50;Cryptobro
 sambar;40;Indian lentil stew
+same age;40
 Sam Eagle;50;Muppet
 same as;40
 samedis;20;French Saturdays
@@ -59045,7 +59076,7 @@ seckels;20
 seconal;20;Sleep drug [used once in 1970]
 second act;50
 second acts;50
-secondandinches;60
+second and inches;60
 secondandlong;60
 secondary color;50
 secondary colors;50
@@ -59433,6 +59464,7 @@ Sembello;40;Michael Sembello, Singer of "Maniac" from "Flashdance"
 Semele;30;Mother of Dionysus
 sememe;20
 sememes;20
+Semenya;30;Caster Semenya, South African middle-distance runner (born 1991)
 semesters abroad;50
 semestral;40
 semestrial;40
@@ -59887,6 +59919,7 @@ severeweatheralert;50
 severingties;50
 seversties;50
 severties;50
+Severus Snape;10;Harry Potter
 sevier;30
 sew;50
 sewagefarm;50
@@ -60432,6 +60465,7 @@ shootees;30
 shootem;20;Long partial
 shoot 'em up;60
 shoot 'em ups;60
+shoot first and;20
 shoot from the hip;60
 shoot hoops;50
 shootingat;40
@@ -60921,7 +60955,8 @@ silent P's;40
 silent R;40
 silent R's;40
 silents;50;Silent films
-Silent Spring;60
+silent S;40
+Silent Spring;60;1962 book by Rachel Carson about pesticides harming the environment
 silent T;40
 silent treatment;60
 silent T's;40
@@ -62582,6 +62617,9 @@ soldsalttoaslug;60
 soldsnowtoeskimos;60
 sold to;40
 soldup;40
+Soledad;40
+Soledad pine;50;Rarest pine in North America
+Soledad pines;50;Rarest pines in North America
 solemner;40
 solemnest;40
 solemn oath;50
@@ -65013,6 +65051,8 @@ stretch marks;50
 strette;20
 stretti;30;Fugue parts
 stretto;40;Fugue technique
+strewer;40
+strewers;40
 stria;20;Narrow groove
 striae;30;Stretch marks
 striate;40
@@ -66099,6 +66139,7 @@ Sydow;40;Max von Sydow
 sye;20
 syenite;30;Type of rock
 Syfy;40;Sci-Fi Channel
+Sy Hersh;40;Pulitzer-winning journalist who exposed the My Lai massacre
 syl;20
 syllabub;30;British dessert
 syllabubs;30
@@ -68985,7 +69026,7 @@ thin on top;50
 thinset;40;Type of mortar
 thiocyanate;40
 thiouracil;40;???
-thirdandinches;60
+third and inches;60
 thirdandlong;60
 third base;50
 thirdbasecoach;60
@@ -70315,6 +70356,8 @@ Torrance;40;Jack Torrance from "The Shining"
 torrances;40;"The Shining" family
 Torre;40;Yankee manager Joe Torre
 Torrey;40;Torrey Pines
+Torrey pine;50;Rarest pine in North America
+Torrey pines;50;Rarest pines in North America
 torridity;30
 tors;30
 Torshavn;30;Capital of Faroe Islands
@@ -76784,6 +76827,7 @@ Your Friendly Neighborhood Spider-Man;60;2025 Marvel Studios animated series
 your grace;50
 your honor;50
 your loss;60
+your money back;60
 you rock;60
 your point being;60
 yoursalways;60
