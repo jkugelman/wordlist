@@ -2483,6 +2483,7 @@ a man a plan a canal Panama;60
 Amanas;40
 amanita;40;Mushroom genus
 amanoramouse;60
+A Map of the World;50;1994 novel by Jane Hamilton, Oprah's Book Club selection
 Amapola;20;1920 song, poppy in Spanish
 amarelle;30;Sour cherry
 amaretti;40;Cookies made with amaretto
@@ -6313,6 +6314,7 @@ bauds;30;Weird plural
 Bausch;30;Bausch + Lomb contact lenses
 Bautista;60
 bav;20
+bavarois;40;Custard dessert
 B average;40
 B averages;40
 bawled like a baby;20
@@ -6649,6 +6651,7 @@ beeboxes;50
 beedance;50;Plant
 beeemoji;50
 beeemojis;50
+beef adobo;50
 beefalo;60;Hybrid cattle/bison
 beefaloes;60
 beefalos;60
@@ -14537,6 +14540,7 @@ creepinto;40
 creepsinto;40
 Crees;40
 crema;40
+crème bavaroise;50;Custard dessert
 creme brulee;50
 creme brulees;50
 creme caramel;50
@@ -17668,8 +17672,10 @@ dog year;60
 dog years;60
 d'oh;50
 Doha;40;Capital of Qatar
+Do Ho;30;Do Ho Suh, South Korean sculptor (born 1962)
 dohonor;30
 dohonorto;40
+Do Ho Suh;40;South Korean sculptor (born 1962)
 dohs;40
 do I;50
 doicare;60
@@ -19772,6 +19778,8 @@ ekihecirp;0
 ekingby;40
 ekistic;30
 ekistics;30;Science of human settlements
+Ekko;30;Ekko Astral, punk rock band (first album 2024)
+Ekko Astral;50;Punk rock band (first album 2024)
 eku;20
 el;40
 ela;20
@@ -20210,6 +20218,7 @@ empurpled;40
 empurples;40
 empurpling;40
 empyema;20
+Emre;30;Merve Emre, Turkish-American author, academic, and literary critic
 EMS;40
 EMT;40
 EMTs;40
@@ -20660,7 +20669,8 @@ eparch;20
 eparchies;20
 eparchy;20;Eastern Christian equivalent of a diocese
 Epatha;40
-epee;50
+epee;50;Weapon and type of modern fencing
+épée;50;Weapon and type of modern fencing
 epeeist;50
 epeeists;50
 epees;50
@@ -20727,6 +20737,7 @@ epopees;20;Epic poems
 Epping;40;Epping Forest
 Epps;40
 eprint;30
+E-Pro;30;2005 single by Beck
 EPs;40
 Epsom salt;60
 Epsom salts;60
@@ -21167,6 +21178,9 @@ ETD;40;Estimated time of departure
 ETDs;40
 été;30;French for "summer"
 etee;20
+Etel;30;Etel Adnan, Lebanese-American writer and artist (1925–2021)
+Étel;20;Commune in Brittany, France
+Etel Adnan;50;Lebanese-American writer and artist (1925–2021)
 eternal question;60
 eternal questions;60
 eterne;40
@@ -21926,6 +21940,7 @@ Fadiman;30
 fading in;50
 fadinginto;40
 fadings;30
+fado;20;Portuguese music genre
 fae;30;Fairy race, used twice in 2025??? Sus!
 faefaer;30;Fae/faer neopronouns
 faeroe;20
@@ -34125,6 +34140,7 @@ Jack the Giant Slayer;50;Movie
 Jack Torrance;60;From "The Shining"
 Jack Webb;50
 jackwild;50
+Jaco;40
 Jacobean era;50
 jacobian;40
 Jacobin;40
@@ -35137,6 +35153,7 @@ kcal;40
 kcals;40
 K-car;20
 K-cars;20
+KCMO;40;Kansas City, Missouri
 KC Royal;50
 KC Royals;50
 kcs;20
@@ -37858,6 +37875,7 @@ light up sneakers;60
 light verse;50
 lignin;30;Organic polymer in plant cell walls
 lignite;40;Brown coal
+LIGO;30;Laser Interferometer Gravitational-Wave Observatory
 lii;20
 liii;20
 like a bump on a log;60
@@ -40279,8 +40297,12 @@ maplewash;60
 maplewashed;60
 maplewashes;60
 maplewashing;60;2025 Canadian Word of the Year
-mapoftheus;50
+mapo;40;Mapo tofu
+map of Earth features;20
+map of the U.S.;40
+map of the world;40
 map onto;40
+mapo tofu;60
 mapped onto;40
 mapping onto;40
 maps onto;40
@@ -41423,6 +41445,8 @@ Merry Men;60;Robin Hood's band
 merry Xmas;60
 Mersey;30;Liverpool river
 Merton;20;American monk Thomas
+Merve;30;Merve Emre, Turkish-American author, academic, and literary critic
+Merve Emre;50;Turkish-American author, academic, and literary critic
 Merv Griffin;60
 meryls;20;Plural name
 mes;40
@@ -42135,6 +42159,7 @@ mix with;40
 Miz;20
 m'kay;50
 mkt;20
+MKTO;30;Pop and hip hop duo, Malcolm Kelley and Tony Oller
 mL;40
 MLA;20
 MLB;40
@@ -42579,6 +42604,8 @@ moonstones;60
 Moonstruck;60
 moonsuit;60
 moonsuits;60
+Mooo!;40;2018 single by Doja Cat, viral Internet meme
+Mooo;0
 moorage;40
 moorages;40
 Moore's law;60
@@ -43552,6 +43579,8 @@ naked singularities;60
 naked singularity;60
 nal;20
 Nala;40
+Nalo;30;Nalo Hopkinson, Jamaican-born Canadian speculative fiction writer and editor
+Nalo Hopkinson;50;Jamaican-born Canadian speculative fiction writer and editor
 Nam;50
 namable;40;Variant of nameable
 namaskar;30;???
@@ -44875,6 +44904,7 @@ noleads;20
 nolikey;10
 Nolita;30
 nolition;40;Unwillingness, opposite of volition
+no lo;40;Court plea, for short
 no-load;30
 noloads;30
 nolo contendere;60
@@ -55021,6 +55051,7 @@ remasting;30
 remasts;30
 remate;20
 remates;20
+Remedios Varo;50;Spanish Catalan artist (1908–1963)
 remeet;20
 remeeting;20
 remeets;20
@@ -59786,6 +59817,7 @@ shadowboxer;50
 shadowboxers;50
 shadowboxes;50
 shadowboxing;50
+shadow of a doubt;60
 Shadrach;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 shad roe;40
 shagging;30
@@ -61016,6 +61048,8 @@ six irons;50
 sixletterword;50
 sixletterwords;50
 sixofone;50;...Half a dozen of another
+six of one, half a dozen of another;60
+six of one half a dozen of another;0
 six-pack;60
 six-pack abs;60
 sixpast;30
@@ -67035,6 +67069,7 @@ tej;20;Ethiopian honey wine
 tejolote;40;Mexican mortar and pestle
 tejolotes;40
 tek;20
+Tekkonkinkreet;50;Japanese manga series
 tektite;30;Meteorite pebble
 tektites;30;Meteorite pebbles
 TekWar;40
@@ -72785,6 +72820,7 @@ varlet;30;Knight's attendant
 varlets;30;Knight's attendants
 varmint;50
 varmints;50
+Varo;30;Remedios Varo, Spanish Catalan artist (1908–1963)
 varyingdegrees;50
 vas;40;Mil. hospitals, or vas deferens
 Vasco;40
@@ -73242,6 +73278,7 @@ vitiates;40
 vitiating;40
 vitiation;40
 vitiators;40
+Vito;40
 vitro;40;In vitro
 Vitus;30;Patron saint of dancers
 Viv;40
