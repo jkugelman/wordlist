@@ -7531,6 +7531,7 @@ birthing center;50
 birthing centers;50
 bis;40;Biceps
 bisandtris;60;Arm muscles
+Bisan Owda;50;Palestinian journalist and activist
 biscuittortoni;50
 biscuittortonis;50
 bisexual;60
@@ -15390,6 +15391,7 @@ dagobas;20;Buddhist shrines
 Daguerre;50
 dah;40
 dahi;30;Indian yogurt
+Dahl;40;Roald Dahl, children's author
 dahs;30
 dai;20
 daikaiju;50;Surf punk band
@@ -15431,6 +15433,8 @@ dallastx;30
 dallier;40
 dalliers;40
 dal segno;50
+Daly;40
+Dalys;20;Plural name
 dam;50
 Damascene;40;???
 damascened;40
@@ -15618,6 +15622,10 @@ Darwinism;60
 Darwinist;60
 Darwinists;60
 das;40
+Daša;30;Daša Drndić, Croatian writer
+Dasa;0
+Daša Drndić;50
+Dasa Drndic;0
 dashboardgauges;30
 dashcam;50
 dashcams;50
@@ -15638,6 +15646,7 @@ dashoneshopes;60
 dash to;40
 Das Kapital;60
 Das Racist;50;Rap group
+Dass;30;Ram Dass, spiritual teacher, guru of modern yoga, psychologist, and writer
 dat;40
 data analysis;50
 data analyst;50
@@ -15799,6 +15808,10 @@ dddddddddd;0
 DDE;30;Eisenhower
 ddeeaall;0
 ddiippppeerr;0
+DDoS;40;Distributed denial-of-service attack
+DDoSed;40;Distributed denial-of-service attacked
+DDoSes;40;Distributed denial-of-service attacks
+DDoSing;40;Distributed denial-of-service attacking
 DDR;20
 DDs;40
 DDT;40;Insecticide
@@ -16353,6 +16366,9 @@ dementorwasps;10;Harry Potter
 dements;30
 demesne;40;Land attached to a manor
 demesnes;40
+demi;40
+demi-;40
+Demi;40;Demi Moore, actress
 demibra;50
 demibras;50
 demigod;60
@@ -16403,6 +16419,8 @@ demurrage;40;Shipping penalty
 demurrages;40;Awkward plural?
 demurrer;30
 demurrers;30
+Demy;30;Jacques Demy, French New Wave film director
+demy;20;Paper size 17½ inches by 22½ inches
 den;50
 de nada;40
 Denali;50;aka Mount McKinley
@@ -16516,6 +16534,7 @@ derpy;60
 derris;30;???
 derrises;30;???
 Derulo;40;Singer Jason Derulo
+Dery;40;Mark Dery, journalist who coined "Afrofuturism"
 des;40
 desales;30
 desalt;30
@@ -16545,6 +16564,8 @@ desert islands;60
 desert isle;60
 desert isles;60
 desertsun;50
+Desi;40;Desi Arnaz
+desi;30;Member of the South Asian diaspora
 Desi Arnaz Jr;50
 De Sica;30;Director of "The Bicycle Thief"
 designatedproxy;50
@@ -16556,6 +16577,8 @@ desire line;60
 desire lines;60
 desire path;60
 desire paths;60
+desis;30;Members of the South Asian diaspora
+Desis;20;Plural name
 desktop computer;60
 desktop computers;60
 desmoinesia;30
@@ -16636,6 +16659,7 @@ deuce coupes;50
 deucegame;20;???
 deuceset;20
 deucesets;20
+deus;40
 deuteron;40;Nucleus of deuterium
 deuterons;40
 deux;30
@@ -17351,6 +17375,7 @@ Dixie Mafia;60
 DIY;40
 DIY project;50
 DIY projects;50
+DIYs;40
 Diz;20
 Dizzy Gillespie;50
 dizzy spell;50
@@ -17385,6 +17410,7 @@ dlx;20
 DM;40
 D major;50
 DMC;30;Run-DMC
+DMCA;40;Digital Millennium Copyright Act
 DMed;40
 DMing;40
 D minor;50
@@ -17439,6 +17465,8 @@ DNA tests;50
 D natural;50
 dnaturalscale;30
 DNC;40
+DNCE;40;Dance-rock band with Joe Jonas
+DNCs;40
 DnD;20
 dnepr;20;Russian river
 dnf;40;Did not finish
@@ -18039,7 +18067,7 @@ dorati;30
 Dordrecht;40;City and municipality in South Holland, Netherlands
 Doreen;30;Mouseketeer Doreen Tracey
 Doric;40
-dories;30;Fishing boats
+dories;40;Fish / Fishing boats
 Doris Lee;50
 Doris Lessing;50;Nobel Prize in Literature in 2007
 dorma;40;Puccini's "Nessun Dorma"
@@ -18059,6 +18087,8 @@ Dorset;40;English county
 dorsett;40;???
 dorseys;30
 dorsi;40;Latissimus dorsi
+dory;40;Fish / Fishing boat / Hunky dory
+Dory;40;Pixar fish in "Finding Nemo" and "Finding Dory"
 dos;50;Number, or hairdos, or opposite of don'ts
 dosa;40;South Indian pancake
 dos-a-dos;30
@@ -18075,6 +18105,7 @@ dossers;20;Homeless people: Br.
 dossing;20
 dost;40
 dot;50
+Dota;40;Video game series
 dotage;40;State of senility
 dotard;40;Senile person
 dotards;40
@@ -18215,6 +18246,8 @@ dozer;50
 dozers;50
 dozy;30
 DP;40
+D-pad;40
+D-pads;40
 D'Pharaoh;40;D'Pharaoh Woon-A-Tai, actor on "Reservation Dogs" (2021-2023)
 D'Pharaoh Woon-A-Tai;50;Actor on "Reservation Dogs" (2021-2023)
 DPI;40
@@ -18357,6 +18390,8 @@ draws up;40
 drawto;40
 draw to a close;60
 draw up;40
+Drax;40;Dave Bautista's MCU character
+Drax the Destroyer;60
 dray;30;Cart or truck
 drayage;30
 drayed;30
@@ -18476,6 +18511,7 @@ driedprunes;50
 driftages;30
 driftier;30
 driftiest;30
+Dril;30;Pseudonymous Twitter and Bluesky user
 drilledinto;40
 drillinginto;40
 drill instructor;50
@@ -18542,6 +18578,8 @@ Dr Joyce Brothers;50
 drk;20;Baseball nickname
 drlaura;10
 Dr Livingstone I presume;60
+Drndić;30;Daša Drndić, Croatian writer
+Drndic;0
 droctopus;60
 Drogo;40;Game of Thrones's Khal Drogo
 droidapp;50
@@ -34201,6 +34239,7 @@ jacobian;40
 Jacobin;40
 Jacobins;40
 Jacobs;50;Marc Jacobs
+Jacques Demy;50;French New Wave film director
 Jade Rabbit;50
 jadis;40;The White Witch in Narnia
 Jae;20
@@ -40490,6 +40529,7 @@ marital statuses;50
 marjoe;20;Preacher Gortner
 Mark Antony;60;Roman politician and general (83–30 BC)
 markcuban;50
+Mark Dery;50;Journalist who coined "Afrofuturism"
 markergene;50
 markergenes;50
 market cap;60
@@ -46003,6 +46043,7 @@ obesity;50
 obeyer;30
 obeyers;30
 obi;40
+Obie;40
 obirtysh;30;Ob-Irtysh River in Russia
 obis;40
 Obispo;40
@@ -46212,6 +46253,7 @@ Odetta;40;One-named singer praised by Rosa Parks and MLK
 Odette;40;"Swan Lake" heroine
 odeum;30
 odi;20
+Odia;20;Language in India
 odic;30
 Odie;50
 Odile;30;Swan Lake black swan
@@ -46711,6 +46753,7 @@ olerud;30;"Johnny O" of baseball, won two World Series
 oles;40
 oleson;40;"Little House on the Prairie" family name
 Oleta;40;Soul singer Oleta Adams
+Olga;40
 Olga Ravn;50;Danish poet and novelist
 olheaveho;60
 olid;20
@@ -47306,6 +47349,8 @@ oolites;20
 oology;30
 oolong tea;50
 oom;20
+OOMF;20;"One of my followers" on social media
+OOMFs;20;"One of my followers" on social media
 Oompa;30
 oom-pah;40
 oompahband;40
@@ -47772,6 +47817,7 @@ ornotto;20
 OR nurse;40
 OR nurses;40
 oro;40
+O-Rod;40;Nickname for Olivia Rodrigo
 orogenic;30
 orogenies;30
 orogeny;30
@@ -48300,6 +48346,7 @@ ovules;40
 ovum;40
 ow;50
 owasso;20
+Owda;40;Bisan Owda, Palestinian journalist and activist
 owe;50
 oweditto;40
 owedon;40
@@ -53697,7 +53744,7 @@ Rama Lama Ding Dong;60
 Ramapo;30;New York/New Jersey mountains/river
 Ramayana;40;Hindu text
 ramblas;30
-Ram Dass;30;Yoga guru
+Ram Dass;30;Spiritual teacher, guru of modern yoga, psychologist, and writer
 Rameau;40;Baroque composer Jean-Philippe Rameau
 ramekin;40;Souffle dish
 ramekins;40
@@ -69609,6 +69656,7 @@ titrations;40
 titrator;40
 titrators;40
 tits;40
+tits and ass;10
 titties;10
 tittle;40
 tittoo;20
