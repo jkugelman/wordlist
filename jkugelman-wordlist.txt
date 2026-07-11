@@ -20910,6 +20910,8 @@ Eritreans;40
 Erivo;30;Actress Cynthia
 erl;20
 Erle;40
+Erling;40;Erling Haaland, Norwegian footballer (born 2000)
+Erling Haaland;60;Norwegian footballer (born 2000)
 Erl-King;40
 erm;50
 Erma;40
@@ -28075,6 +28077,7 @@ h;40
 ha;50
 Haagen;40;Häagen-Dazs
 Haakon;20;Crown Prince of Norway
+Haaland;40;Erling Haaland, Norwegian footballer (born 2000)
 Haan;40;Cole Haan shoes
 haar;20;Hair: Ger.
 Haarlem;40
