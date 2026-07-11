@@ -5704,6 +5704,9 @@ balky;40
 Ballantrae;20;Scottish town
 ball club;50
 ball clubs;50
+ball drop;60
+ball dropping;60
+ball drops;60
 ballet companies;60
 ballet company;60
 ballet dancer;60
@@ -18303,6 +18306,8 @@ draftnik;50
 draftniks;50
 draftnotice;50
 draftnotices;50
+drag ball;60
+drag balls;60
 drag brunch;60
 drag brunches;60
 dragged in;40
