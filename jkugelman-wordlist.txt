@@ -3821,6 +3821,7 @@ arduino;50
 arduinos;50
 are;50
 area;50
+area below a curve;20
 area code map;40
 area code maps;40
 a real eye opener;60
@@ -6138,6 +6139,7 @@ baseball purist;60
 baseball purists;60
 baseball team;60
 baseball teams;60
+baseball that curves when thrown;20
 baseballtonight;50
 baseball uniform;60
 baseball uniforms;60
@@ -15239,6 +15241,11 @@ curtest;30
 curtesy;30;Law term, see dower
 curveball;50
 curveballs;50
+curved OLED TV;30
+curved OLED TVs;30
+curved opening;20
+curved shape;20
+curved shapes;20
 curvet;30
 curvets;30
 curvetted;30
@@ -15948,6 +15955,7 @@ deadly sin;60
 deadly sins;60
 dead mail;60
 dead man;60
+Dead Man's Curve;60;Curve in a road that has claimed lives because of numerous crashes
 dead meat;60
 dead men;60
 deadname;60
@@ -25768,6 +25776,7 @@ getabumrap;60
 getad;20
 getadate;30
 getafterit;60
+get ahead of the curve;60
 getajumpon;60
 getalegupon;60
 getallbutthurt;60
@@ -25872,6 +25881,7 @@ get roped in;50
 getropedinto;40
 getsabumrap;60
 getsadate;30
+gets ahead of the curve;60
 getsajumpon;60
 getsalegupon;60
 getsallbutthurt;60
@@ -25983,6 +25993,7 @@ get this;60
 gettingabumrap;60
 gettingadate;30
 getting a hard on;10
+getting ahead of the curve;60
 gettingajumpon;60
 gettingalegupon;60
 gettingallbutthurt;60
@@ -27254,6 +27265,7 @@ gotabumprap;0
 gotabumrap;60
 gotadate;30
 gotagal;0
+got ahead of the curve;60
 gotajumpon;60
 gotalegupon;60
 gotallbutthurt;60
@@ -27449,9 +27461,13 @@ gradebegg;30
 gradebeggs;30
 gradebmilk;30
 graded;50
+graded on a curve;60
+grade on a curve;60
 gradeone;40
 grades;50
+grades on a curve;60
 grading;50
+grading on a curve;60
 grad school;50
 graduate school;60
 graduationparty;50
@@ -27923,6 +27939,8 @@ grows in;30
 grows into;40
 grows on;40
 growsupon;40
+growth curve;50
+growth curves;50
 growupon;40
 grp;40
 grr;50
@@ -37325,6 +37343,7 @@ learnin;40;???
 learning about;40
 learning aid;50
 learning aids;50
+learning curves;60
 learning from;40
 learning from one's mistakes;60
 learning to;30
@@ -38451,6 +38470,8 @@ lisle;30;Cotton thread
 lisles;30
 lisper;30
 lispers;30
+Lissajous curve;50;Mathematical curve outputted from a specific pair of parametric equations
+Lissajous curves;50;Mathematical curves outputted from a specific pair of parametric equations
 lissom;20
 listedfor;40
 listee;20;Person on a list
@@ -50880,8 +50901,10 @@ pit bosses;60
 pitbull;50
 pitbulls;50
 pitch;50
+pitch a curve;50
 pitch a fit;50
 pitchanidea;50
+pitched a curve;50
 pitched a fit;50
 pitched woo;50
 pitcher;50
@@ -50891,10 +50914,12 @@ pitcher's mound;60
 pitcher's mounds;60
 pitchers of beer;50
 pitches;50
+pitches a curve;50
 pitches a fit;50
 pitches woo;50
 pitchfork;50
 pitchforks;50
+pitching a curve;50
 pitching a fit;50
 pitching coach;60
 pitching coaches;60
@@ -55824,6 +55849,8 @@ respited;50
 respites;50
 respiting;50
 respoke;20
+response curve;60
+response curves;60
 respun;30
 Ressa;30;Maria Ressa, winner of 2021 Nobel Peace Prize
 restain;20
@@ -60340,6 +60367,8 @@ shark fins;60
 sharkpup;50
 sharkpups;50
 Sharma;40;Various, rock climber Chris Sharma
+sharp curve ahead;60
+sharp curves ahead;60
 Sharpe;40
 sharped;50
 sharpedge;50
@@ -63219,6 +63248,8 @@ space debris;60
 spacedefense;50
 spacedefenses;50
 space exploration;60
+space-filling curve;60
+space-filling curves;60
 space invaders;60
 Space Jam;60
 spacelab;60
@@ -64402,9 +64433,11 @@ stavenin;20;Crushed
 stavesin;40;Crushes
 stavingin;40;Crushing
 Stax;30
+stay ahead of the curve;60
 stay at;40
 stayconnected;50
 staycool;50
+stayed ahead of the curve;60
 stayed at;40
 stayed frosty;60
 stayed in bed;50
@@ -64419,6 +64452,7 @@ stayers;40
 stay frosty;60
 stay in bed;50
 stay in character;60
+staying ahead of the curve;60
 staying alive;60
 staying at;40
 staying frosty;60
@@ -64436,6 +64470,7 @@ stay on track;60
 stayovernight;50
 Stay Puft;60
 stay safe;60
+stays ahead of the curve;60
 stays at;40
 stays frosty;60
 stays in bed;50
@@ -69474,6 +69509,7 @@ throe;40;Usually plural
 throstle;30;Song thrush, or wool spinning machine
 throstles;30
 Through the Looking-Glass;60
+throw a curve;60
 throw a curveball;60
 throwapot;50
 throwascareinto;50
@@ -69486,6 +69522,7 @@ thrower;40
 throwers;40
 throw for a loop;60
 throwgames;20;???
+throwing a curve;60
 throwing a curveball;60
 throwingapot;50
 throwingascareinto;50
@@ -69504,12 +69541,15 @@ throwingto;40
 throwing under the bus;60
 throwinthediscardpile;50
 throwitinthediscardpile;60
+thrown a curve;60
+thrown a curveball;60
 thrownat;40
 thrown a veil over;50
 thrown for a loop;60
 throwninthediscardpile;50
 thrown under the bus;60
 throwpots;50
+throws a curve;60
 throws a curveball;60
 throwsapot;50
 throwsascareinto;50
@@ -72456,6 +72496,8 @@ unctions;30
 unctuous;50
 unctuously;50
 unctuousness;50
+uncurved;40
+uncurving;40
 uncus;20
 und;40
 undamaged;50
@@ -72797,6 +72839,10 @@ UPC;40
 UPC code;50
 UPC codes;50
 UPCs;40
+upcurve;40
+upcurved;40
+upcurves;40
+upcurving;40
 updog;60
 up for;40
 UPI;30
