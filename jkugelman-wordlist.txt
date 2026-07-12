@@ -21532,27 +21532,35 @@ Euclid's theorems;50;Foundational principles from "Elements"
 eucre;20
 eudaemon;40;Greek daemon
 eudaemonia;30;Happiness
+Eudora;40
+Eudoras;30;Plural name
 Eudoxie;30;Ludacris's wife Eudoxie Mbouguiengue
 Eudoxie Mbouguiengue;40;Ludacris's wife
 Eudoxie Mbouguiyengue;40;Ludacris's wife
+Eugene Gladstone O'Neill;50;American playwright (1888–1953)
+Eugene Gladstone O'Neill Sr.;50;American playwright (1888-1953)
 Eugene J. McCarthy;50
 Eugene Joseph McCarthy;50
 Eugene Maleska;60;New York Times crossword editor, Will Shortz's predecessor
-Eugene Onegin;50;Pushkin novel
+Eugene Onegin;50;Novel in verse by Alexander Pushkin
 eugeneor;30
 eugenes;30
 Eugene T. Maleska;60;New York Times crossword editor, Will Shortz's predecessor
 Eugene T Maleska;0
+Eugene Victor Debs;50;American labor and political leader (1855–1926)
+eugenia uniflora;20;Species of flowering plant in the myrtle family
 eugenic;10
 eugenicist;10
 eugenicists;10
 eugenics;10
 Eugenie Clark;50;American ichthyologist, shark researcher and scientific scuba diver
+Eugen Onegin;0
 euglena;30;Algae genus
 eukanuba;30;Pet food brand
 EULA;40
 Eula Biss;40;American non-fiction writer
 EULAs;40
+eulchcaefo;0
 Euler;40
 Euler's;30
 Euler's constant;40;γ = 0.57721...
@@ -21562,22 +21570,43 @@ Euler's number;60;e = 2.71828...
 Euler's totient function;40
 eulogia;30
 eulogy;50;Farewell address
-eunectes murinus;20;Green anaconda, species of snake
+E umlaut;20
+E umlauts;20
+Eunectes murinus;20;Green anaconda, species of snake
 eunices;30
 eunoym;30
 eunoyms;30
 euonym;40;Name that is well-suited to the person, place, or thing named
 euonymous;40
+euonymousalatus;0
 euonyms;40
+Euonymus alatus;20
+Euonymus americanus;20
+Euonymus atropurpureus;20
+Euonymus europaeus;20
+Euonymus fortunei radicans;20
+Euonymus radicans vegetus;20
 eupassports;30
+Eupatorium ayapana;20
+Eupatorium cannabinum;20
+Eupatorium capillifolium;20
+Eupatorium coelestinum;20
+Eupatorium maculatum;20
+Eupatorium perfoliatum;20
+Eupatorium purpureum;20
+Eupatorium rugosum;20
+euphemism treadmill;60;Process by which euphemisms are replaced as the old ones become socially unacceptable over time
 euphemist;30
 euphemists;30
 euphonium;40;Tuba relative
 euphoniums;40
-euphorbia;30;Plant genus
+Euphorbia;30;Plant genus
+Euphorbias;30;Flowering plants
+euphractus sexcinctus;20
 Euphrates;50
 euphuism;30
 euphuistic;30
+euproctis chrysorrhoea;20
 euqip;0
 eur;40
 eurailpass;50
@@ -25746,31 +25775,64 @@ Geraldo Rivera;50
 gerarddepardieu;50
 Gerard Kuiper;50;Astronomer who conjectured the existence of the Kuiper belt
 Gerardo;40
-gerbera;30;Flower genus
+Gerbera;30;Flower genus
+Gerbera daisies;40
+Gerbera daisy;40
+Gerbera jamesonii;20
+gerberas;30
 gerbilpup;50
 gerbilpups;50
 gerfalcon;30
 gerfalcons;30
+Gerhard Berger;50;Formula One driver who won ten Grands Prix from 1984 to 1997
 Geri;40
 Geritol;40;Multivitamin
+Germaine Greer;50;Australian writer and public intellectual (born 1939)
 germanbeer;50
+German capital;0
+German chocolate;60
+German chocolate cake;60
+German chocolate cakes;60
+German chocolates;50
+German citizen;30
 germander;40;Flower
 germanders;40
+Germanic peoples;50
+Germanicus;40;Roman general (15 BC–19 AD)
 germanlit;50
 German wasp;50
 German wasps;50
+Germany and Gabon;0
 German yellowjacket;50
 German yellowjackets;50
+Germany grabs Rhineland;20
 germaphobe;50
 germaphobes;50
+germ of an idea;50
+Germont;30
+germophobe;60
+germophobes;60
+germophobia;60
+germophobic;60
 germx;50
+Gernreich;40
+Gernsback;40
 Geronimo;60
 gerontic;40;Relating to old age
 Gerontion;30;T.S. Eliot poem
-gerran;40;Actor Gerran Howell from "The Pitt"
-gerranhowell;50;Actor Gerran Howell from "The Pitt"
+Gerran;40;Actor Gerran Howell from "The Pitt"
+Gerran Howell;50;Actor Gerran Howell from "The Pitt"
 gerrymander;60
+gerrymandered;60
 gerrymandering;60
+gerrymanders;60
+Gershwin and Will;20
+Gertie Cummings;50;"Oklahoma!" character
+Gertrud;40
+Gertrude Caroline Ederle;50;First woman to swim across the English Channel
+Gertrude Ederle;50;First woman to swim across the English Channel
+Gertrudes;30;Plural name
+Gertrude Stein;60
 gerundial;30
 gerundive;30
 GEs;20
@@ -25783,8 +25845,9 @@ gestes;40
 gestical;30;???
 gests;40;Daring deeds
 gesu;20
+gesundheit;60
 get;50
-getabumrap;60
+get a bum rap;60
 getad;20
 getadate;30
 getafterit;60
@@ -25892,7 +25955,7 @@ get-rich-quick schemes;60
 get right;50
 get roped in;50
 getropedinto;40
-getsabumrap;60
+gets a bum rap;60
 getsadate;30
 gets ahead of the curve;60
 getsajumpon;60
@@ -26004,7 +26067,7 @@ get the ick;60
 get the nod;50
 get the sack;50
 get this;60
-gettingabumrap;60
+getting a bum rap;60
 gettingadate;30
 getting a hard on;10
 getting ahead of the curve;60
@@ -27280,7 +27343,7 @@ go stag;50
 go suck an egg;60
 got;50
 gotabumprap;0
-gotabumrap;60
+got a bum rap;60
 gotadate;30
 gotagal;0
 got ahead of the curve;60
