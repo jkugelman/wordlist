@@ -46239,6 +46239,7 @@ obol;30
 obolus;40
 Obote;30;President of Uganda
 obovate;20;Egg-shaped
+Obra Dinn;50;Return of the Obra Dinn, 2018 adventure and puzzle video game created by Lucas Pope
 obrother;50
 OBs;40;Obstetricians
 obscener;30
@@ -55973,6 +55974,7 @@ returner;40
 returners;40
 returningto;40
 Return of the King;60
+Return of the Obra Dinn;60;2018 adventure and puzzle video game created by Lucas Pope
 returnsto;40
 returnto;40
 return to the fold;60
