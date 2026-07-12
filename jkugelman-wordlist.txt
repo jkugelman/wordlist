@@ -29224,6 +29224,13 @@ head usher;50
 head ushers;50
 headways;30
 head writer;50
+heady atmosphere;50
+heady atmospheres;50
+heady mixture;40
+heady mixtures;40
+heady perfume;40
+heady perfumes;40
+heady stuff;60
 healheal;0
 health bar;60
 health bars;60
