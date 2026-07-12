@@ -36095,6 +36095,7 @@ Kon;40;KonMari or Kon-Tiki
 Kona;40
 konas;30;Coffees
 Kondo;40;Marie Kondo, or Mario/Zelda composer Kojo Kondo
+Kong the Master;50;Alternative name or title for Confucius
 konig;30;Burger king?
 KonMari;60
 Koo;20
@@ -48686,6 +48687,7 @@ paeans;40
 paeon;20
 paeons;20
 paese;40
+Pageant of the Masters;50;Annual arts festival in California
 page break;50
 page breaks;50
 pagehijack;60;https://nordlayer.com/learn/threats/phishing/
@@ -68561,7 +68563,7 @@ The Marvelous Mrs. Maisel;60;Period comedy-drama television series
 The Marvelous Mrs Maisel;0
 themarveloustoy;60
 themasses;60
-themasters;60
+the Masters;60;Golf tournament held in Augusta, Georgia
 the math ain't mathing;60
 themathisnotmathing;60
 the math isn't mathing;60
@@ -68681,6 +68683,7 @@ theozonelayer;40
 thepacers;40
 thepack;30
 thepackers;40
+The Pageant of the Masters;50;Annual arts festival in California
 The Paradox of Choice;60
 theparismetro;30
 theparthenon;40
