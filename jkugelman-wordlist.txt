@@ -1121,6 +1121,7 @@ adolesces;40
 adolescing;40
 Adolf;10
 Adolfo;30
+Adolfo Bioy Casares;50;Argentine novelist (1914–1999)
 Adolph;30
 Adonai;40;God, in Hebrew
 Adonais;40;"Adonais: An Elegy on the Death of John Keats", one of Shelley's best and best-known works
@@ -1330,7 +1331,11 @@ affray;20
 affrays;20
 affrights;30
 affusions;30
-Afghan Girl;60
+Afghan Girl;60;1985 cover photograph on National Geographic magazine
+afghanistangola;0
+Afghanistani;40
+Afghanistanis;40
+Afghan monetary unit;20
 AFI;40
 aficionado;50
 aficionados;50
@@ -5606,6 +5611,8 @@ bag job;60
 bag jobs;60
 bag lunch;50
 Bagnold;30;Playwright
+Bagram, Afghanistan;50
+Bagram Afghanistan;0
 bag tag;50;Golf accessory
 bagtsgs;50
 bah;50
@@ -5697,6 +5704,8 @@ balk at;40
 balked at;40
 balker;30;???
 balkers;30;???
+Balkh, Afghanistan;50
+Balkh Afghanistan;0
 balkiness;40
 balking at;40
 balks at;40
@@ -7492,6 +7501,7 @@ biotope;40;Habitat
 biotopes;40
 biotype;40
 biotypes;40
+Bioy;30;Adolfo Bioy Casares, Argentine novelist (1914–1999)
 Bip;20
 BIPOC;40;Acronym for black, indigenous, and other people of color
 birdapp;20
@@ -10449,6 +10459,7 @@ capital L;40
 capital M;40
 capital N;40
 capital O;40
+capital of Afghanistan;20
 capitalofturkey;0
 capital P;40
 capital Q;40
@@ -27982,6 +27993,7 @@ guitarlele;40;Hybrid instrument
 guitar riff;60
 guitar riffs;60
 Gujarat;30;Indian state
+Gula;40;Sharbat Gula, subject of 1985 Afghan Girl photograph
 gulab;40;Indian dessert gulab jamun
 gulab jamun;50;Indian dessert gulab jamun
 Gulager;30;Actor Clu Gulager
@@ -33475,8 +33487,9 @@ ironings;40
 ironist;40
 ironists;40
 iron law;50
-iron maiden;60
-iron maidens;60
+iron maiden;60;Mythical torture device
+Iron Maiden;60;English heavy metal band
+iron maidens;60;Mythical torture devices
 iron mask;50
 ironmike;60
 iron mine;50
@@ -33596,6 +33609,7 @@ isl;20
 isla;40
 islaer;0
 Islamic art;60
+Islamic State of Afghanistan;50;Afghan state from 1992 to 2002
 islandair;60
 islas;40
 islate;20
@@ -35176,6 +35190,8 @@ kanakas;30;Hawaiian natives
 kanban;40;Engineering project management style
 kanbanboard;60;Planning boards for engineering projects
 kanbanboards;60;Planning boards for engineering projects
+Kandahar, Afghanistan;50
+Kandahar Afghanistan;0
 Kandy;30;Last capital of Ceylon (Sri Lanka)
 Kane Parsons;60;"Backrooms" (2026) director
 kanes;30;Plural name
@@ -45478,6 +45494,8 @@ nothing but net;60
 nothing but the truth;60
 nothing but trouble;60
 nothing could be further from the truth;60
+Nothing Else Matters;60;1992 single by Metallica
+nothing else matters;50
 nothing fancy;60
 nothing in common;50
 nothingissacred;60
@@ -47261,6 +47279,8 @@ one year;40
 onfeed;40
 onfirst;40
 Ong;20;Walter J. Ong, Jesuit priest and historian (1912–2003)
+Ong-Bak;40;2003 Tony Jaa martial arts film
+Ong-Bak: The Thai Warrior;50;2003 Tony Jaa martial arts film
 ongod;50
 On Golden Pond;60
 onhard;0
@@ -57701,6 +57721,8 @@ Sadat;40
 sadats;30
 sad beige;60
 sadbeigebaby;60
+sad but true;60
+Sad But True;50;1993 single by Metallica
 SADD;40
 saddams;20
 saddhu;20
@@ -60136,6 +60158,8 @@ shapelier;50
 shapeliest;50
 shapen;40;Ill-shapen
 Shaquille O'Neal;60
+Sharbat;40;Sharbat Gula, subject of 1985 Afghan Girl photograph
+Sharbat Gula;50;Subject of 1985 Afghan Girl photograph
 shardofglass;50
 shardsofglass;50
 share a cab;50
@@ -63007,7 +63031,9 @@ sov;20
 sovereign state;50
 sovereign states;50
 sovetsk;20;Russian city
+Soviet–Afghan War;50;1979–1989 armed conflict
 Soviet bloc;50
+Soviet war in Afghanistan;20
 sow;50
 sowbug;40;Woodlouse
 sowbugs;40
@@ -68340,6 +68366,7 @@ theironage;40
 theironcross;40
 The Iron Giant;60
 theironhorse;40
+The Iron Maidens;50;All-female tribute to heavy metal band Iron Maiden
 theirs;30
 theisles;40;Nickname for the New York Islanders?
 theiss;30;Actress Brooke Theiss, not super notable
@@ -68881,6 +68908,9 @@ theuk;40
 theun;20
 theundead;50
 theunderworld;40
+The Unforgiven;50;1991 song by Metallica
+The Unforgiven II;50;1998 single by Metallica
+The Unforgiven III;50;2008 song by Metallica
 theunmelancholydane;60;Nickname for pianist Victor Borge
 theupanishads;20
 theupshot;50
