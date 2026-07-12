@@ -6883,6 +6883,7 @@ beignet;50
 beignets;50
 be-in;30;Hippie protest
 beingbad;50
+Being John Malkovich;60;1999 Charlie Kaufman / Spike Jonze film
 Being the Ricardos;50
 beinneedof;30
 be-ins;30;Hippie protests
@@ -32676,7 +32677,7 @@ indelible marks;60
 indelibleoink;0
 indelible pencil;60;Unerasable pencil
 indelible pencils;60;Unerasable pencils
-Inde Navarrette;50;"Obsession" (2026) actress
+Inde Navarrette;60;"Obsession" (2026) actress
 in denial;50
 indenter;40
 indenters;40
