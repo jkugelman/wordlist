@@ -18175,6 +18175,7 @@ dorsi;40;Latissimus dorsi
 dory;40;Fish / Fishing boat / Hunky dory
 Dory;40;Pixar fish in "Finding Nemo" and "Finding Dory"
 dos;50;Number, or hairdos, or opposite of don'ts
+DOS;40;Family of operating systems for IBM PC compatibles
 dosa;40;South Indian pancake
 dos-a-dos;30
 dos and don'ts;60
