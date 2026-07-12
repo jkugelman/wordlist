@@ -3839,6 +3839,9 @@ areolas;50
 areolate;40;Divided into compartments, like a honeycomb
 areole;30
 areoles;30
+areometer;30;Device used to measure density of liquids
+areometers;30;Devices used to measure density of liquids
+areometric;30
 arepa;40;Colombian corncake
 arepas;40
 Arequipa;40;Peruvian city/region of 1 million
@@ -18332,6 +18335,8 @@ drag king;50
 drag kings;50
 dragline;50
 draglines;50
+drag mother;60;Seasoned, experienced drag queen
+drag mothers;60;Seasoned, experienced drag queens
 dragnet;50
 Drago;40;Ivan Drago from "Rocky IV"
 dragoncarp;50
@@ -18744,6 +18749,9 @@ Dr Strangelove;60
 Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb;60
 Dr T;20
 Dru;30;Dru Hill, or Gru's twin
+drug abuse;10
+drug abuser;10
+drug abusers;10
 drug companies;60
 drug company;60
 drug czar;60
@@ -24598,6 +24606,7 @@ frog prince;60
 frogs;50;Rips out knitting
 frogspit;50;Anti-fog brand for helmets
 Frollo;30;Villain of "The Hunchback of Notre-Dame"
+from abroad;40
 fromcentralcasting;60
 from concentrate;50
 Fromm;30;Psychologist Erich (he's notable)
@@ -28930,6 +28939,8 @@ hauling ass;60
 haulingin;40
 hauls ass;60
 haulsin;40
+Haunani-Kay;40;Haunani-Kay Trask, leader of the Hawaiian sovereignty movement
+Haunani-Kay Trask;50;Leader of the Hawaiian sovereignty movement
 haunter;50;Pokeyman
 haunters;40;Ghosts, or frequenters
 Haus;30
@@ -31178,6 +31189,7 @@ Hwang;30;"Squid Game" creator Hwang Dong-hyuk
 hword;30;Hell
 hwy;40
 hyaline;20;Type of joint cartilage
+hyaluronic;40
 hybrid work;60;Employment that's partially in-office and partially remote
 hydatid;20;Tapeworm larva, or cyst
 Hyde;50
@@ -32446,7 +32458,7 @@ in all seriousness;60
 inanition;30;Exhaustion
 Inanna;20;Sumerian goddess
 in another life;50
-in an uproar;50
+in an uproar;60
 in any event;60
 inapan;0
 in a panic;50
@@ -33760,6 +33772,7 @@ isu;20
 I suppose so;60
 isurecant;60
 isuspect;30
+Isuzu Rodeo;40;One-time Isuzu SUV
 isvotedin;30
 iswaterwet;60
 iswearbyit;60
@@ -46021,6 +46034,7 @@ nybble;30;Half a byte
 nybbles;30
 NYC;50
 NYCFC;40;New York City soccer team
+nyctalopia;40;Night blindness
 Nye;40
 NYE parties;40
 NYE party;40
@@ -46587,12 +46601,14 @@ Oh the Places You'll Go;60;Dr. Seuss book
 ohthethinksyoucanthink;60;Dr. Seuss book
 ohwellwhatcanyoudo;60
 ohwerebad;60
+Oh, What a Night;50
+Oh What a Night;0
 oh whatever;60
 oh what the heck;60
 oh what the hell;60
 ohwhynot;60
 oh woe is me;50
-ohyourebad;60
+oh you're bad;60
 ohyousweetsummerchild;60
 -oid;30;Suffix [occasional]
 oie;20
@@ -58365,6 +58381,13 @@ sauropods;40
 saurus;40
 sausagefest;60
 sausagefests;60
+sausage parties;60;Gatherings with many more men than women
+sausage party;60;Gathering with many more men than women
+Sausage Party;50;2016 adult animated black comedy film
+sausage patties;50
+sausage patty;50
+sausage pie;50
+sausage pies;50
 sauteed onions;50
 saute pan;50
 saute pans;50
@@ -63313,6 +63336,10 @@ spending limits;60
 spendy;50;Extravagant
 Spenser;40;One-named fictional detective
 spermaceti;40;Waxy substance from a sperm whale
+sperm donation;60
+sperm donations;60
+sperm donor;60
+sperm donors;60
 spewedup;10
 spewer;30
 spewers;30
@@ -72692,6 +72719,7 @@ upzoning;50
 Ur;40
 uraeus;30;Sacred serpent on Egyptian headdresses
 Ural;40;Ural River/Mountains
+Ural-Altaic;40
 Uralic;30;Languages of the Urals
 Ural River;50
 Urania;40;Muse of astronomy
@@ -74889,6 +74917,7 @@ whatafool;60
 whatafoolivebeen;60
 what a hoot;60
 what a mess;60
+what an idea;60
 what a nightmare;60
 whatapal;60
 whatapieceofjunk;60
@@ -76054,6 +76083,7 @@ Wyo;40;Wyoming
 Wyomingite;50
 Wyomingites;50
 x;40
+X2: X-Men United;50;2003 superhero film
 Xabi;30;Xabi Alonso, Spanish football manager and player (born 1981)
 Xabi Alonso;50;Spanish football manager and player (born 1981)
 X-Acto;50
@@ -76169,6 +76199,7 @@ xmasspirit;50
 Xmas tree;50
 Xmas trees;50
 X-Men;50
+X-Men United;50;"X2: X-Men United", 2003 superhero film
 Xolo;40;Hairless dog
 Xolos;40
 xoo;20
@@ -76805,7 +76836,7 @@ You're a Mean One Mr Grinch;60
 youreamess;60
 youreaskingforit;60
 youreastar;60
-yourebad;60
+you're bad;60
 yourecrampingmystyle;60
 youredamnedifyoudoanddamnedifyoudont;60
 youredamnedifyoudoandyouredamnedifyoudont;60
