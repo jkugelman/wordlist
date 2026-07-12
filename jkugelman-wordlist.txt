@@ -6856,6 +6856,7 @@ begging for;40
 beginandsadat;0
 beginbinge;0
 begladto;50
+be good for goodness sake;60
 begrime;40
 begrimed;40
 begrimes;40
@@ -7136,6 +7137,7 @@ betiding;30
 Beto;40
 bet on;40
 bet on it;50
+be too good for;20
 Betsey;40;Fashion designer Betsey Johnson
 bets on;40
 Betsy Ross;60
@@ -27050,9 +27052,13 @@ good eye;60
 good fairy;60
 good fat;60
 good fats;60
+good for;50
+good-for-naught;50;Good-for-nothing
 good-for-nothing;60
 good-for-nothings;60
-goodforyouiguess;60
+good for the soul;60
+good for what ails you;60
+good for you I guess;60
 goodgood;60
 good gracious;60
 good grief;60
@@ -32908,6 +32914,7 @@ inglese;40;English, in Italian
 Ingmar;40
 in God we trust;60
 ingoing;40
+in good form;50
 ingraft;20;Variant of engraft
 ingrafted;20
 ingrafting;20
@@ -45561,6 +45568,7 @@ notbataneye;60
 notbataneyelash;60
 notbataneyelid;60
 notbeen;0
+not be good for;20
 notbigon;60
 notcare;30
 notcarefor;40
@@ -45613,6 +45621,7 @@ nothing lasts forever;60
 nothingmore;50
 nothing new;50
 nothingssetinstone;60
+Nothing's Too Good For My Baby;50;1956 Louis Prima song / 1966 Stevie Wonder song
 nothingtofuckwith;10
 nothing to see here;60
 nothintofuckwith;10
@@ -62538,6 +62547,7 @@ sobad;50
 soba noodle;60
 soba noodles;60
 SoBe;40
+so be good for goodness sake;60
 so be it;50
 sober as a judge;60
 sobercurious;60
@@ -65282,6 +65292,7 @@ strodein;40
 Stroh;20;Austrian spirit
 Stroh's;40;Beer brand owned by Pabst
 stroke of bad luck;60
+stroke of good fortune;50
 Stroker;30
 strokers;30
 strokes beard;60
@@ -74333,7 +74344,7 @@ wasinstitches;30
 wasintheway;30
 wasinto;40
 was I snoring;60
-wasitgoodforyou;60
+was it good for you?;60
 wasmet;20
 wasntinto;40
 wasntmeanttobe;60
@@ -75157,6 +75168,7 @@ whatscookinggoodlooking;60
 what's cookin' good lookin';60
 what seems to be the issue;60
 what seems to be the problem;60
+what's good for the goose is good for the gander;60
 whatshould;20
 whatshouldistay;50;Cleopatra's dying words in Shakespeare's "Antony and Cleopatra"
 what's in it for me;60
@@ -76964,6 +76976,7 @@ youidiot;60
 youinterested;60
 you jinxed it;60
 youknowbetter;60
+you know I'm good for it;60
 you know me;60
 you know me too well;60
 youknownothing;60
