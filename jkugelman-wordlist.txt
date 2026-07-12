@@ -3663,6 +3663,7 @@ Aprils;20
 a priori;50
 apron string;50
 apron strings;50
+apropos of;40
 apropos of nothing;60
 APRs;40
 APs;20
@@ -6099,10 +6100,14 @@ bar seats;50
 barset;50
 barsets;50
 barsofgold;50
+Barsoom;30;Edgar Rice Burroughs's fictional representation of the planet Mars
 bars the door;50
 barsthedoors;50
 barstool;50
 barstools;50
+Barstow;40
+Barstow, California;50
+Barstow California;0
 bar tab;50
 bar tabs;50
 bartender;50
@@ -6858,6 +6863,7 @@ beguine;30;Rhumba-like dance
 beguines;30
 Behan;30;Irish writer Brendan Behan
 Behar;40;Joy Behar of "The View"
+be hard to please;20
 behead;40
 beheaded;40
 beheading;40
@@ -15196,6 +15202,8 @@ curl bars;50
 curledlip;50
 curling team;50
 curling teams;50
+curl rod;50;Hair curling tool
+curl rods;50;Hair curling tools
 curlsin;20
 curly fries;60
 curly fry;60
@@ -17914,6 +17922,8 @@ dominoprinciple;60
 Domino's Pizza;50
 domino theory;60
 domo;40
+domo arigato Mr. Roboto;60
+domo arigato Mr Roboto;0
 doms;40
 don;50
 dona;30
@@ -18127,6 +18137,8 @@ dopoorly;50
 doppio;30;Double espresso
 doppios;30
 d'Or;20
+dorado;40
+dorados;40
 dorag;20;Misspelled
 dorags;20;Misspelled
 Dora Maar;30;Painter, partner and subject of many Picasso paintings
@@ -21539,6 +21551,7 @@ euphuistic;30
 euqip;0
 eur;40
 eurailpass;50
+Euratom;30;European Atomic Energy Community
 eureka;60
 eurekaca;30
 Euripides;50
@@ -28737,7 +28750,8 @@ hardhitingquestions;0
 hard-hitting question;60
 hard-hitting questions;60
 hard labor;50
-hardlot;50
+hard lot;50
+hard lots;50
 hard luck stories;60
 hard luck story;60
 hard mode;60
@@ -28770,6 +28784,7 @@ hardten;50
 hard to be around;60
 hard to beat;60
 hard to come by;60
+hard to pin down;60
 hard to port;60
 hard to read;60
 hard to say;60
@@ -29724,8 +29739,8 @@ Hermosa;30
 Hernan;40;Conquistador Hernán Cortés
 Hernan Cortes;50
 hernancortez;50
-herocop;50
-herocops;50
+hero cop;50
+hero cops;50
 hero cult;60
 hero cults;60
 herodi;30
@@ -31206,6 +31221,7 @@ hurry around;50
 hurrying along;50
 hurrying around;50
 hurry up;50
+Hurston;40;Zora Neale Hurston, author, anthropologist, filmmaker (1891–1960)
 hurter;20
 hurters;20
 Hurwitz;50;"Arrested Development" creator
@@ -36732,6 +36748,8 @@ large intestines;50
 large language model;60
 large language models;60
 L'Argent;40;NFL player/Rep. Steve Largent
+large OJ;40
+large OJs;40
 larger;50
 largetshirt;20
 largos;40;Slow movements
@@ -40659,6 +40677,9 @@ Marie Callender's;50
 Marie Curie;50
 maries;30
 Mariette;30;Unsure who [never used in NYT]
+Marigot;40;Capital of Saint Martin
+Marigot, Saint Martin;50;Capital of Saint Martin
+Marigot, St. Martin;50;Capital of Saint Martin
 marijuana;60
 marijuanadispensaries;60
 marijuanadispensary;60
@@ -40680,6 +40701,8 @@ Marion Ravenwood;60
 Mario Party;60
 marios;30
 Marisa Tomei;60
+Marisol;40;Venezuelan American sculptor (1930–2016)
+Marisol Escobar;50;Venezuelan American sculptor (1930–2016)
 Marist;40;Private New York college
 marital status;50
 marital statuses;50
@@ -40706,6 +40729,8 @@ market shares;50
 markka;40;Finnish currency pre-euro
 mark of shame;60
 marks of shame;60
+Markus;40
+Markus Persson;50;Creator of Minecraft
 Marky;40
 marlas;30
 Marlboro;50
@@ -42919,6 +42944,7 @@ more for me;60
 more importantly;60
 Morello;40
 Morellos;40
+Morelos;40;State of Mexico
 moremore;20
 Moreno;40;Actress Rita Moreno
 moreofthisplease;60
@@ -42927,6 +42953,7 @@ morepay;30
 more than a little;60
 more than ever;50
 more than likely;60
+Moreton;40
 Morey;20;Comic Amsterdam
 morgue;50
 morgues;50
@@ -43279,7 +43306,10 @@ Mr Pink;60;From "Reservoir Dogs"
 Mr. Red;40;Cincinatti Reds mascot
 mrree;30;Captain Underpants janitor, first name Toilette
 mrroarke;50
-Mr Robot;60
+Mr. Robot;60;Techno-thriller television series (2015-2019)
+Mr Robot;0
+Mr. Roboto;60;1983 single by Styx
+Mr Roboto;0
 mrroper;40
 Mrs.;50
 Mrs;0
@@ -45386,7 +45416,7 @@ North Dakotans;50
 norther;30
 northern giant hornet;50
 northern giant hornets;50
-northof;50;More than
+north of;50;More than
 northpaw;60
 North Reef;50;Various places
 norths;30
@@ -50074,6 +50104,7 @@ persons of interest;60
 personsofsubstance;60
 perspectiveshift;50
 perspectiveshifts;50
+Persson;40;Markus Persson, creator of Minecraft
 perter;30
 Perugia;40;Capital of Umbria, Italy
 perv;10
@@ -50764,6 +50795,7 @@ pipeline;50
 pipelines;50
 pipercub;50
 pipers piping;60
+piper's son;40;"Tom, Tom, the Piper's Son", English nursery rhyme
 pipesmoke;50
 pipe stem;50
 pipe stems;50
@@ -65882,6 +65914,7 @@ sure Jan;60
 sure looks like it;60
 surely not;60
 sureman;60
+sure mom;50
 sure of;40
 sure sign;60
 sure signs;60
@@ -66387,6 +66420,7 @@ tackonto;40
 tacksonto;40
 taco bar;60
 taco bars;60
+taco dorado;50;Golden taco
 tacoemoji;50
 tacoemojis;50
 Tacomas;40;Some Toyotas
@@ -66398,6 +66432,7 @@ taco pie;40
 taco pies;40
 taco sauce;50
 taco sauces;50
+tacos dorados;50;Golden tacos
 taco seasoning;60
 taco stand;60
 taco stands;60
@@ -66874,7 +66909,10 @@ tantrik;20
 tantriks;20
 tanyas;30
 Tao;50;"The ___ of Pooh"
-taoofpooh;60
+Tao of Badass;10;Pickup artist book, with "The"
+Tao of Physics;50;1975 bestseller by Fritjof Capra, with "The"
+Tao of Pooh;60;1982 introduction to Taoism for Westerners, with "The"
+Tao of Steve;20;2000 romantic comedy film, with "The"
 Taormina;30;Expensive Sicilian tourist town
 Taos;50;New Mexico town
 tap;50
@@ -68953,7 +68991,10 @@ thetale;30;Movie
 the talk;60
 thetango;30
 thetank;50;Iconic Cartier watch design
-The Tao of Pooh;60
+The Tao of Badass;10;Pickup artist book
+The Tao of Physics;50;1975 bestseller by Fritjof Capra
+The Tao of Pooh;60;1982 introduction to Taoism for Westerners
+The Tao of Steve;50;2000 romantic comedy film
 thetardis;20
 thetas;40
 thetate;30
@@ -69495,6 +69536,8 @@ thuribles;30
 thurifer;30;Acolyte carrying a censer
 thurifers;30
 Thurs;40
+Thurston;40
+Thurston Howell;50
 thusspakezarathustra;50
 Thutmose;30;Pharaoh
 thutmosei;30
@@ -70224,8 +70267,10 @@ tomoooooooo;0
 tomriddle;60
 Tom Ripley;60
 Tom Sneva;40;Tom Sneva, Indy 500 winner of 1983
+Tom, the Piper's Son;50;"Tom, Tom, the Piper's Son", English nursery rhyme
 tomtit;40;New Zealand bird
 tomtits;40
+Tom Tom the Piper's Son;50;English nursery rhyme
 tomwingo;40;Main character of "The Prince of Tides"
 Tom Wolfe;50
 Tom Wopat;30
@@ -71438,6 +71483,7 @@ tryhard;60
 tryharded;60
 tryharding;60
 tryhards;60
+try hard to please someone;20
 trying for;40
 trying on;40
 trying one's best;60
@@ -74227,7 +74273,7 @@ warranter;30
 warranters;30
 warrior pose;60
 warriorposes;50
-war room;60;From Dr. Strangelove
+war room;50;From Dr. Strangelove
 war rooms;50
 warship;50
 warships;50
@@ -74901,6 +74947,7 @@ werecool;60
 we're done for;60
 we're done here;60
 we're fresh out;60
+were hot;30
 wereinbigtrouble;60
 we're like this;60;"We are *this* close" 🤞
 werenext;50
@@ -75947,27 +75994,40 @@ workcamp;50
 work crew;50
 work crews;50
 workedaroom;50
+worked for;40
 worked for peanuts;60
 worked late;50
 worked like a charm;60
 workedlikeawelloiledmachine;60
+worked like magic;60
+worked magic;60
+worked on;40
+worked one's magic;60
+worked one's magic on;60
 worked up the courage;60
 work environment;50
 worker bee;60
 worker bees;60
 work ethic;50
+work for;40
 work for peanuts;60
 workglove;50
 workgloves;50
 work husband;60
 work husbands;60
 workingaroom;50
+working for;40
 working for peanuts;60
 working hard or hardly working;60
 working hours;50
 working late;50
 working like a charm;60
 workinglikeawelloiledmachine;60
+working like magic;60
+working magic;60
+working on;40
+working one's magic;60
+working one's magic on;60
 working theories;60
 working theory;60
 working up the courage;60
@@ -75976,12 +76036,28 @@ work it;60
 work late;50
 work like a charm;60
 worklikeawelloiledmachine;60
+work like magic;60
+worklikemagic;0
+work magic;60
+workman's compensation;50
+workmen's compensation;50
+work on;40
+work one's magic;60
+work one's magic on;60
 workplace comedy;60
 worksaroom;50
+works for;40
 works for peanuts;60
 works late;50
 works like a charm;60
 workslikeawelloiledmachine;60
+works like magic;60
+works magic;60
+works on;40
+works one's magic;60
+works one's magic on;60
+workstation;50
+workstations;50
 work study program;60
 work study programs;60
 works up the courage;60
@@ -77376,6 +77452,7 @@ zoom zoom;60
 zoonooz;50
 Zoot Sims;50;Jazz saxophonist
 Zora;40;Zora Neale Hurston
+Zora Neale Hurston;60;Author, anthropologist, filmmaker (1891–1960)
 Zorb;40
 zorbing;40;Globe-riding??
 Zorbs;40
