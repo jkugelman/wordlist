@@ -25840,6 +25840,7 @@ getickedout;60
 getickedoutby;50
 get ideas;50
 getinabind;50
+get in a mess;50
 getinapickle;50
 get in here;60;"My office, now!"
 get in line;60
@@ -25930,6 +25931,7 @@ getsickedout;60
 getsickedoutby;50
 gets ideas;50
 getsinabind;50
+gets in a mess;50
 getsinapickle;50
 getsinonadeal;50
 gets into;40
@@ -26040,6 +26042,7 @@ gettingickedout;60
 gettingickedoutby;50
 getting ideas;50
 gettinginabind;50
+getting in a mess;50
 gettinginapickle;50
 gettinginonadeal;50
 getting into;40
@@ -27331,6 +27334,7 @@ gotickedout;60
 gotickedoutby;50
 got ideas;50
 gotinabind;50
+got in a mess;50
 gotinapickle;50
 gotinonadeal;50
 got into;40
@@ -32569,6 +32573,7 @@ in all caps;60
 in all fairness;60
 in all likelihood;60
 in all seriousness;60
+in a mess;50
 inanition;30;Exhaustion
 Inanna;20;Sumerian goddess
 in another life;50
@@ -35421,6 +35426,7 @@ Kasdan;40;Filmmaker Lawrence Kasdan
 Kasem;40
 kasha;30;Buckwheat cereal
 kashas;20
+Kaspar;30
 Kat;40
 katamara;20;???
 Katamari Damacy;60
@@ -35657,6 +35663,7 @@ kerplop;50
 Kerr;40
 Kerri Strug;50;Gymnast who won gold in 1996 with an injured ankle
 kersee;40
+Kershaw;40
 Kes;30;Trinidiadian soca (calypso offshoot) band
 Keshena;20;Tiny Wisconsin town
 Kessler;40;???
@@ -38094,6 +38101,7 @@ lie ahead;50
 lieatanchor;50
 lie awake;50
 Liebestod;40;Final aria from "Tristan und Isolde"
+Liebig;40
 liedahead;50
 lie detector;60
 lie detectors;60
@@ -57806,6 +57814,8 @@ ruthann;40;Various obscure
 Ruth Reeves;50;American painter, Art Deco textile designer and expert on Indian handicrafts (1892-1966)
 Ruth Reichl;40
 rutile;40
+Rutina;40;Rutina Wesley, actress on "True Blood" and "The Last of Us"
+Rutina Wesley;50;Actress on "True Blood" and "The Last of Us"
 Rutles;30;Beatles parody band
 Ruy;20
 RV;40
@@ -59931,6 +59941,7 @@ seriousmood;40;???
 Se-ri Pak;40;LPGA Hall of Famer Se-ri Pak
 Serj;40;Serj Tankian of System of a Down
 Serj Tankian;50;System of a Down singer
+Serkis;40
 sermon;50
 Sermon on the Mount;60
 sermons;50
