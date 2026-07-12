@@ -7049,6 +7049,7 @@ besotting;40
 Bess;40
 Best Actor;60
 Best Actress;60
+best angle to;0
 best boy;50
 best boys;50
 best bud;60
@@ -16965,11 +16966,13 @@ die;50
 dieadeath;50
 Die Another Day;60
 dieaslowdeath;60
-diebartdie;60;Sideshow Bob tattoo
+die back;40
+die Bart, die;60;Sideshow Bob tattoo
 die-cast;50
 die-casting;50
 die-casts;50
 diedadeath;50
+died back;40
 diedon;30;Awkward to clue
 diegan;40;San Diegan
 diehard;60
@@ -16982,6 +16985,7 @@ Die Lorelei;50
 diem;40
 dieon;30
 diesadeath;50
+dies back;40
 Dies Irae;60
 diesnon;30;Day when courts are off
 dieson;30
@@ -19158,6 +19162,7 @@ dye jobs;60
 dyer;40
 dyers;40
 dyingadeath;50
+dying back;40
 dyingon;30
 dyingto;40;"Heck yeah"
 dyke;10;Dick Van Dyke
@@ -64078,8 +64083,10 @@ standup guys;0
 stand up in court;60
 stand up to;40
 stanfor;50
-Stang;40;Ford Mustang, familiarly
-Stangs;40
+'Stang;40;Ford Mustang, familiarly
+Stang;0
+'Stangs;40;Ford Mustangs, familiarly
+Stangs;0
 stanine;40;"Standard nine" test scoring system
 stank at;40
 stankface;60
@@ -65540,6 +65547,7 @@ suffrages;30
 Sufi;30
 Sufis;30
 Sufism;30;Mystic branch of Islam
+Suga;40;Member of the South Korean boy band BTS
 sugar bowls;50
 sugarboy;20
 sugar cone;60
@@ -68479,7 +68487,8 @@ The Last Analysis;50;Saul Bellow's only full-length play, not well known
 The Last Jedi;60
 The Last of Us;60
 The Last Unicorn;60
-thelasvegasstrip;50
+The Las Vegas Story;50;1952 film starring Jane Russell and Victor Mature
+the Las Vegas Strip;40
 The Late Show;60
 thelatest;60
 thelaw;40
@@ -68999,7 +69008,7 @@ theusopen;20
 theva;40
 The Vagina Monologues;60
 The Vatican;40
-thevegasstrip;40
+the Vegas Strip;40
 The Venetian;50
 theverybestthingofall;60
 thevet;20;Old Phillies ballpark
@@ -72882,6 +72891,7 @@ US Cavalry;50
 US census;50
 uscensusbureau;50
 uscensusrecords;50
+USCIS;30;United States Citizenship and Immigration Services
 uscities;30
 uscity;30
 uscoin;40
@@ -73269,7 +73279,9 @@ vegan cheese;60
 vegan diet;60
 vegan diets;60
 vegan mayo;60
-vegasstrip;60
+Vegas showgirl;60
+Vegas showgirls;60
+Vegas Strip;60
 vegasvic;50
 vegetable;50
 vegetable skewer;60
@@ -75023,6 +75035,7 @@ whatdoyouwantamedal;60
 whatelseisleft;60
 whatexactlyisthepoint;60
 what for;60
+what happens in Vegas stays in Vegas;60
 what happens next;60
 what have I become;60
 whathogwash;60
