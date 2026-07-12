@@ -22240,6 +22240,7 @@ fall classic;50
 fall classics;50
 fall color;50
 fall colors;50
+fallen on;40
 fall in;50
 fallingalloveroneself;50
 fallingalloveroneselfapologizing;50
@@ -22256,7 +22257,8 @@ fall in line;60
 fallinto;40
 fall-off-the-bone;60
 fallofthehouseofusher;60
-fall on;50
+Fallon;50
+fall on;40
 fall on one's face;60
 fall out of love;50
 fallout shelter;60
