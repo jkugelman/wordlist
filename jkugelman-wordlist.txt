@@ -2957,6 +2957,8 @@ ands;40
 and so;50
 andsoitgoes;60
 and so on and so on;60
+and that's no lie;50
+and that's not all;60
 andtheawardgoesto;60
 and the like;60
 And Then There Were None;60;1939 mystery novel by Agatha Christie
@@ -9715,6 +9717,7 @@ butteries;40;Aberdeen rolls
 buttermilk;50
 buttermilk biscuit;50
 buttermilk biscuits;50
+but that's not all;60
 butthead;60
 butt heads;60
 buttheadswith;60
@@ -22143,14 +22146,14 @@ Fahy;40;"White Lotus" actress Meghann Fahy
 faience;30;Fine tin-glazed pottery
 failat;40
 failedat;40
-failedtosee;60
+failed to see;50
 failingat;40
-failingtosee;60
+failing to see;50
 fail-safe;50
 fail-safes;50
 failsat;40
-failstosee;60
-failtosee;60
+fails to see;50
+fail to see;50
 failure of imagination;60
 failures of imagination;60
 failure to launch;60
@@ -32724,6 +32727,7 @@ indorsed;20
 indorses;20
 indorsing;20
 Indra;40;Hindu weather god
+indrawn;40;Reserved
 indri;20;Lemur
 in dribs and drabs;60
 indris;20
@@ -46670,8 +46674,8 @@ oilandgasworkers;50
 oil and vinegar;60
 oil baron;60
 oil barons;60
-oilcar;40
-oilcars;40
+oil car;40
+oil cars;40
 oil cartel;50
 oil cartels;50
 oildrill;50
@@ -47535,6 +47539,7 @@ Oona;40
 oons;20
 OOO;40;Out of office [common as tic-tac-toe]
 oooh;30
+Ooouuu;40;2016 single by Young M.A
 oop;40
 oopak;20;Black tea
 Oops All Berries;60;Cap'n Crunch's OOPS! All Berries
@@ -67967,12 +67972,32 @@ that's more like it;60
 that's my next question;60
 that's news to me;60
 that's nice;60
+that's no joke;50
 thatsnolie;60
-thatsnotaddingup;60
+that's no moon;60
+that's not adding up;60
 that's not all;60
-thatsnotatoy;60
+that's not a thing;60
+that's not a toy;60
+that's not bad;60
+that's not cool;60
 thatsnotcorrect;50
-thatsnotmydepartment;60
+that's not fair;60
+that's not funny;60
+that's not good;60
+that's not half bad;60
+that's nothing;60
+that's not how any of this works;60
+that's not how it works;60
+that's not how this works;60
+that's not my department;60
+that's not right;60
+that's not so;50
+that's not what I heard;60
+that's not what I meant;60
+that's not what I'm saying;60
+that's not what I said;60
+that's no way to act;60
 that so;60
 thatsocool;0
 that's odd;60
@@ -73208,6 +73233,7 @@ Vanity Fair;60
 vanityytinav;0
 vanlife;60
 vanmccoy;50
+van Rijn;40;Rembrandt's last name
 Vanya;40;Chekhov's "Uncle Vanya"
 vape hit;50
 vape hits;50
@@ -74744,6 +74770,9 @@ wellsorta;60
 wellthatanswersthat;60
 wellthatjusthappened;60
 wellthatsafinehowdoyoudo;60
+well that's no excuse;60
+well that's not fair;60
+well that's not good;60
 wellthatsthething;60
 well there's your problem;60
 well well well;60
