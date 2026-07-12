@@ -3808,6 +3808,7 @@ arctophile;30;One who collects teddy bears
 arcuate;40;Shaped like a bow, curved
 arcw;0
 ard;20
+Arden;40
 ardency;30
 Ardern;40;New Zealand PM Jacinda Ardern 2017-23
 ardlylion;0
@@ -31303,7 +31304,7 @@ hyraxes;30
 hys;20
 hyssop;20;Shrub
 hyssops;20;Shrubs
-i;50
+I;50
 iact;20
 I admit it;60
 ial;30;Suffix [occasional]
