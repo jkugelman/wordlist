@@ -3370,6 +3370,7 @@ anvil block;50
 anvil blocks;50
 anvils;50
 Anwar;40;Anwar Sadat, assassinated Egyptian president
+any%;50;Speedrunning category
 any;50
 Anya Seton;40;Historical fiction author Anya Seton (1904-1990)
 Anya Taylor-Joy;60
@@ -25623,6 +25624,9 @@ gender pay gap;60
 gender role;60
 gender roles;60
 genderwagegap;60
+Gene and Debbe;40;1960s country music duo
+Gene Barry Gibb;0
+Gene & Debbe;40;1960s country music duo
 gene editing;60
 gene editor;60;Tool that modifies cellular information (CRISPR is the most well-known one)
 gene editors;60
