@@ -5296,9 +5296,9 @@ azureblue;30
 azured;20
 Azzi;30;Azzi Fudd, WNBA player for the Dallas Wings
 Azzi Fudd;40;WNBA player for the Dallas Wings
-b;40
 B+;40;Grade / Blood type
 B-;40;Grade / Blood type
+B;40
 BA;40
 baa;40
 baa baa;40
@@ -9829,9 +9829,9 @@ By the Sea;50
 BYU;40
 Byzantine;50
 Byzantine Empire;50
-c;40
 C+;40
 C-;40
+C;40
 CA;40
 caa;20;Talent agency
 Caan;40;Actor James Caan
@@ -15388,9 +15388,9 @@ cystitis;40
 cysts;50
 cyt;20
 Cy Twombly;50;Painter Cy Twombly
-d;40
 D+;40
 D-;40
+D;40
 da;40
 Daae;40;Christine of Phantom
 dab;50
@@ -19212,7 +19212,7 @@ dystopian novel;60
 dystopian novels;60
 dystopias;50
 dystopic;50
-e;40
+E;40
 eachcluein;0
 each one teach one;60;African proverb
 Eady;40;Cornelius Eady, writer focusing largely on matters of race and society
@@ -22017,7 +22017,7 @@ ezine;30
 ezines;30
 ezpz;50
 ezr;20
-f;40
+F;40
 F-14 Tomcat;60
 fa;40
 FAA;40
@@ -24977,7 +24977,7 @@ F W Murnau;50;"Nosferatu" director F. W. Murnau
 FYI;40
 fylfot;20
 F-Zero;40
-g;40
+G;40
 gab;50
 Gabaldon;40;"Outlander" books author Diana Gabaldon
 gabfest;50
@@ -28186,7 +28186,7 @@ gyrfalcon;30
 gyrfalcons;30
 gyri;30;Ridges on the cerebral cortex of the brain
 gyrus;30;Ridge on the cerebral cortex of the brain
-h;40
+H;40
 ha;50
 Haagen;40;Häagen-Dazs
 Haakon;20;Crown Prince of Norway
@@ -34323,7 +34323,7 @@ Izmir;40;Turkish city
 Izod;40;Clothing company
 izze;40;Sparkling juice brand
 izzo;40;Jay-Z single, or Michigan State coach Tom
-j;40
+J;40
 ja;30
 Jaa;40;Martial arts actor Tony Jaa
 Jaafar;40;Jaafar Jackson, "Michael" (2026) actor
@@ -35221,7 +35221,7 @@ JV;40
 jvs;20
 Jyn;30;Jyn Erso, main protagonist of "Rogue One"
 Jyn Erso;40;Main protagonist of "Rogue One"
-k;40
+K;40
 Kaa;20
 Kaaba;30;Most sacred site in Islam
 kabala;20;Variant spelling of Kabbalah, Jewish mystical discipline
@@ -36345,7 +36345,7 @@ Kyrgyzstanis;50
 kyrsten;40;Arizona senator Kyrsten Sinema
 kyrstensinema;50;Arizona senator Kyrsten Sinema
 Kyser;30;Bandleader Kay Kyser
-l;40
+L;40
 la;40
 laa;30;Los Angeles Angels, on scoreboards [occasional]
 laager;20
@@ -39658,7 +39658,7 @@ lysin;20;Enzyme
 lysins;20;Enzymes
 lyso;20
 lzrracer;50
-m;40
+M;40
 ma;50
 maa;40
 MAACO;40
@@ -43758,7 +43758,7 @@ my spidey senses are tingling;60
 my stars;50
 mysterysciencetheater;60
 mythologicalgod;0
-n;40
+N;40
 Na;40
 NAACP;40
 nab;50
@@ -46154,9 +46154,9 @@ NYY;40;Yankees on scoreboards
 nyyank;30
 nyyankee;40
 NY Yankees;40
-o;40
 O+;40;Blood type
 O-;40;Blood type
+O;40
 oaf;50
 oahuan;50
 oahuans;50
@@ -48655,7 +48655,7 @@ ozones;40;Treats with ozone
 ozoning;40
 ozs;40
 Ozymandias;60
-p;40
+P;40
 pa;50
 Paak;40;Rapper Anderson .Paak
 paar;40
@@ -53405,7 +53405,7 @@ pyrope;30;Type of garnet
 Pyrrhus;40
 Pythia;30;High priestess of the Temple of Apollo at Delphi
 pyx;20
-q;40
+Q;40
 qaeda;10
 Q and A;30
 Q and A period;30
@@ -53598,7 +53598,7 @@ quoters;40
 QVC;40
 qwave;30;Heart wave measured in an ECG
 qxquv;0
-r;40
+R;40
 Ra;40
 rab;20
 Rabat;30;Clerical garment
@@ -57745,7 +57745,7 @@ Ryman Auditorium;50;Former home of the Grand Ole Opry (1943-74)
 Ryn;30;Rembrandt van Ryn
 rys;20
 RZA;40;Leader of the Wu-Tang Clan
-s;40
+S;40
 SA;40
 saag;40
 Saale;30;River in Germany
@@ -66376,7 +66376,7 @@ Sze;40;Arthur Sze, United States poet laureate (2025-27)
 Szechuan beef;60
 szechwan;20
 Szyslak;50;Moe Szyslak on "The Simpsons"
-t;40
+T;40
 TA;40
 tab;50
 tabaret;20;Upholstery fabric
@@ -72167,7 +72167,7 @@ tze;20
 tzimmes;30;Jewish stew
 T-zone;30
 Tzu;40
-u;40
+U;40
 UAE;40
 ual;20
 UAP;20;Unidentified anomalous phenomenon
@@ -73206,7 +73206,7 @@ Uzi;40
 uzielgal;50;Uziel Gal, inventor of the Uzi
 Uzis;40
 Uzo;40;Uzo Aduba, actress on "Orange is the New Black"
-v;40;Vs.
+V;40;Vs.
 VA;40
 vac;40
 vacant seat;50
@@ -73980,7 +73980,7 @@ VWs;50
 vwx;20
 vye;20
 vying for;40
-w;40
+W;40
 WA;40
 waaaaaaaistband;0
 WAAC;30
@@ -76272,7 +76272,7 @@ Wynn;40;Vegas casino
 Wyo;40;Wyoming
 Wyomingite;50
 Wyomingites;50
-x;40
+X;40
 X2: X-Men United;50;2003 superhero film
 Xabi;30;Xabi Alonso, Spanish football manager and player (born 1981)
 Xabi Alonso;50;Spanish football manager and player (born 1981)
@@ -76463,7 +76463,7 @@ xylotheques;40
 xyplane;50
 xyplanes;50
 XYZ;40
-y;40
+Y;40
 ya;40
 Yaa;40;"Homegoing" author Yaa Gyasi
 Yaa Gyasi;40;"Homegoing" author Yaa Gyasi
@@ -77210,7 +77210,7 @@ Yvie;40;Drag queen Yvie Oddly
 Yvonne Orji;50;Actress on "Insecure" (2016–2021)
 yvonnes;30;Plural name
 yyuryyub;0
-z;40
+Z;40
 za;40
 za'atar;40;Za'atar Middle Eastern spice blend
 Zabar's;40;Famous NYC deli
