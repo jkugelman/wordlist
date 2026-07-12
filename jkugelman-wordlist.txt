@@ -1362,6 +1362,8 @@ afreets;20
 africanantelope;50
 africanreligion;20
 africanrepublic;30
+African zebra;50
+African zebras;50
 africola;30;German soda
 africolas;30
 Afrikaner;50
@@ -8491,6 +8493,7 @@ booty shorts;60
 booutlaw;30;Unremarkable NBA player
 booyah;60
 booyakasha;60;Ali G's catchphrase
+booze brands;20
 booze cruise;60
 booze cruised;60
 booze cruises;60
@@ -9068,6 +9071,7 @@ britishacademyfilmawards;60
 britishadcademyoffilmandtelevisionarts;60
 britishfilmacademy;60
 British lit;50
+British Raj;50;1858–1947 Crown colonial rule in India
 britishshilling;50
 Brit lit;50
 Britspeak;50
@@ -14347,6 +14351,12 @@ cover version;60
 cover versions;60
 COVID;50
 COVID-19;50
+COVID-19 booster;60
+COVID-19 boosters;60
+COVID-19 shot;60
+COVID-19 shots;60
+COVID-19 vaccine;60
+COVID-19 vaccines;60
 COVID booster;60
 COVID boosters;60
 COVID shot;60
@@ -26646,7 +26656,7 @@ goes okay;50
 goes on a date;60
 goes on a diet;60
 goes on a journey;60
-goesonaspree;50
+goes on a spree;50
 goes on a tear;60
 goesonleave;50
 goes on record;60
@@ -26775,7 +26785,7 @@ going off without a hitch;60
 going on a date;60
 going on a diet;60
 going on a journey;60
-goingonaspree;50
+going on a spree;50
 going on a tear;60
 goingonleave;50
 going on record;60
@@ -27097,7 +27107,7 @@ go on;50
 go on a date;60
 go on a diet;60
 go on a journey;60
-goonaspree;50
+go on a spree;50
 go on a tear;60
 gooney;20;Black-footed albatross
 gooneybird;30
@@ -29294,6 +29304,7 @@ Heart of the Ocean;60;"Titanic" necklace
 heart rate;50
 heart rates;50
 heart-rending;60
+heart shape;40
 heartsick;60
 heartspecialist;50
 heartspecialists;50
@@ -37305,6 +37316,8 @@ Le Car;30
 Le Cars;30
 lech;10
 leche;40
+leche de pantera;60;Spicy, milky-white citrus marinade used to cure fish in Peruvian ceviche
+leche de tigre;60;Spicy, milky-white citrus marinade used to cure fish in Peruvian ceviche
 lecher;10
 lecherous;10
 lechers;10
@@ -38152,8 +38165,8 @@ limbocontest;60
 limbocontests;60
 limbopole;60
 limbopoles;60
-limbostick;60
-limbosticks;60
+limbo stick;60
+limbo sticks;60
 limerence;60
 limier;30
 limiest;30
@@ -69544,6 +69557,9 @@ tiger sharks;50
 tiger shrimp;50
 tigerslam;60
 tigerslams;50
+Tiger's Milk;50;Nutrition bar
+Tiger's Milk bar;50;Nutrition bar
+Tiger's Milk bars;50;Nutrition bars
 tiger snake;50
 tiger snakes;50
 tiger team;60
@@ -69837,8 +69853,8 @@ title character;60
 title characters;60
 title game;60
 title games;60
-titleshot;60
-titleshots;60
+title shot;60
+title shots;60
 title track;60
 title tracks;60
 titlevii;40
@@ -74752,7 +74768,7 @@ went off without a hitch;60
 went on a date;60
 went on a diet;60
 went on a journey;60
-wentonaspree;50
+went on a spree;50
 went on a tear;60
 wentonleave;50
 went on record;60
@@ -77067,8 +77083,15 @@ zcars;20;British cop drama
 zeb;20
 zebra crossing;60
 zebra crossings;60
+zebrafish;50;Species of fish
 zebrafoal;50
 zebrafoals;50
+zebra mare;50
+zebra mares;50
+zebra shark;50
+zebra sharks;50
+zebra spider;50
+zebra spiders;50
 zebra striping;60;Alternating between alcoholic and non-alcoholic drinks to reduce alcohol consumption
 zebroid;40;Zebra hybrid
 zebroids;40;Zebra hybrids
