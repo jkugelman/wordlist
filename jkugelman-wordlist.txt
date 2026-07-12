@@ -2037,6 +2037,9 @@ alhedison;20;Actor
 Ali;50
 Alia;40
 Ali Baba;50
+Alicante;40;Province and city in Spain
+Alicante, Spain;50
+Alicante Spain;0
 Alice's;40;"Alice's Adventures in Wonderland"
 alickandapromise;60
 alidade;20;Sighting instrument
@@ -5643,6 +5646,9 @@ baht;40;Thai currency
 bahts;40;Thai currency
 Bai;20
 Baikal;40;Siberian lake, largest the world by volume
+Baikonur;40;Kazakh city where all Russian crewed spaceflights are launched from
+Baikonur, Kazakhstan;50
+Baikonur Kazakhstan;0
 bail;50
 bail bond;50
 bail bonds;50
@@ -9936,6 +9942,7 @@ Cahn;40;Lyricist Sammy Cahn with four Oscars
 Cailee;40;Cailee Spaeny, actress in "Civil War" and "Alien: Romulus" last year plus "Wake Up Dead Man" next year
 Cailee Spaeny;40;Cailee Spaeny, actress in "Civil War" and "Alien: Romulus" last year plus "Wake Up Dead Man" next year
 Cairene;40;Resident of Cairo
+Cairenes;40;Residents of Cairo
 cairn;40;Burial mound
 cairned;40
 cairns;40
@@ -19681,7 +19688,7 @@ edictal;30
 Edie;40
 Edi Gathegi;40;Kenyan-American actor (born 1979)
 edinboro;30;Unnotable Pennsylvania university
-edisonnj;40
+Edison, NJ;40
 edit down;50
 edited down;50
 edited in;40
@@ -20900,11 +20907,13 @@ ephus;30;Difficult baseball pitch
 epi-;40
 epical;30;???
 epicene;40
+epicenes;40
 epic fail;60
 Epic Games;60
 epicness;50
 epifauna;40
-epigone;30;Follower, disciple, imitator
+epigone;30;Follower or disciple
+epigones;30;Followers or disciples
 epigonic;30
 epigonism;30
 epigonous;30
@@ -33806,6 +33815,8 @@ isithotinhere;60;Tie-puller's complaint
 is it me;50;"Am I the problem?"
 is it me or;40;Partial?
 is it okay;50
+is it on?;50
+is it on me?;50
 isitso;40;???
 isixteen;20
 isl;20
@@ -35369,6 +35380,7 @@ Kahoot;40;Online learning game site, seems popular
 kahoots;40;Online learning games
 kahuna;50
 Kai;40;Kai Ryssdal of N.P.R.
+Kai Cenat;60;Most-subscribed Twitch streamer in the world, as of 2025
 kaiju;30;Japanese giant monster movie genre (Godzilla)
 Kaitlin Olson;50
 kakapo;40;Endangered New Zealand bird, long Wikipedia article
@@ -39583,6 +39595,10 @@ lugworm;30
 lugworms;30
 lui;20
 Luigi's;40;Luigi's Mansion
+Luiseño;40;Indigenous people of southern California
+Luiseno;0
+Luiseños;40;Indigenous people of southern California
+Luisenos;0
 Luiz;40
 Luka Doncic;50;NBA star player (2018-present)
 Luka Magic;60;Nickname for NBA star player Luka Dončić (2018-present)
@@ -52819,6 +52835,9 @@ privatetweet;50
 privatetweets;50
 privet;50
 privetdrive;50
+Priyanka;40;Priyanka Chopra, India's highest-paid actress
+Priyanka Chopra;50;India's highest-paid actress
+Priyanka Chopra Jonas;50;India's highest-paid actress
 prize pot;50
 prize pots;50
 prize puzzle;50
@@ -58129,7 +58148,7 @@ saidyesto;40
 sail by;40
 sailed by;40
 sailedin;40
-sailedinto;40
+sailed into;40
 sailedon;40
 sailedto;40
 sailer;40;Sailing ship
@@ -58137,17 +58156,17 @@ sailers;40
 sailin;40
 sailing by;40
 sailingin;40
-sailinginto;40
+sailing into;40
 sailingon;40
 sailingto;40
-sailinto;40
+sail into;40
 sailon;40
 sailor hat;60
 sailor hats;60
 Sailor Moon;60
 sails by;40
 sailsin;40
-sailsinto;40
+sails into;40
 sailson;40
 sailsto;40
 sailto;40
@@ -71421,6 +71440,12 @@ trig;50
 trigger warning;60
 trigger warnings;60
 trigon;30;Triangle, Greek instrument
+trigonal;30
+trigonally;30
+trigonal planar;40
+trigonometrical;40
+trigonometries;40
+trigons;30
 trigram;40
 trigrams;40
 trijet;30;Plane with three jet engines
@@ -71469,7 +71494,7 @@ triskelia;40
 triskelion;40;Ancient triple spiral symbol
 triskelions;40
 triste;40
-tritonal;60
+tritonal;50
 tritone;60
 tritones;60
 tritons;40;Spiral seashells
@@ -72440,6 +72465,7 @@ uh;50
 UHD;30;Ultra-high-definition
 UHF;40
 uhh;50
+uh, I dunno;50
 uhnak;0
 uh-oh is right;60
 uh-oh SpaghettiOs;60
