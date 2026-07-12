@@ -218,6 +218,7 @@ a;50
 A+;40;Grade / Blood type
 A-;40;Grade / Blood type
 A++;40
+A;40
 AA;40;Alcoholics Anonymous / Battery size
 AAA;40;American Automobile Association / Small battery size
 AAAA;30;Small battery size
