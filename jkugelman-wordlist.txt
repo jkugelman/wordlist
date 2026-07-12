@@ -12416,9 +12416,18 @@ circulator;40
 circulators;40
 circumlocution;60
 circumlocutions;60
+circus calliope;60;Iconic circus instrument
+circus calliopes;60;Iconic circus instruments
+circus camp;60
+circus camps;60
 circus catch;60;Spectacular acrobatic catch in baseball or football
 circus catches;60
-circuscircus;60
+Circus Circus;60;Last Vegas casino
+circus class;60
+circus classes;60
+circus clown;60
+circus clowns;60
+circus cyaneus;20;Species of bird, hen harrier
 circusshot;50
 circusshots;50
 circusy;30
@@ -16004,9 +16013,15 @@ death of the author;60
 Death Row Records;60
 deathsavingthrow;60
 deathsavingthrows;60
+deathstalker;60;Species of scorpion
+deathstalkers;60;Species of scorpion
+Death Star;60
 death stare;60
 death stares;60
-deathstrike;60
+Death Stars;60
+Death Stranding;60;2019 video game
+Deathstrike;60;Lady Deathstrike, X-Men supervillain
+Deathstroke;60;Supervillain appearing in DC Comics
 death trap;60
 death traps;60
 deathwatch beetle;60
@@ -34895,6 +34910,8 @@ joint project;50
 joint projects;50
 joint return;50
 joint returns;50
+joint snake;60;Mythical creature from American folklore that can be cut into pieces and reassemble itself
+joint snakes;60;Mythical creatures from American folklore that can be cut into pieces and reassemble themselves
 joint statement;50
 joint statements;50
 joint venture;50
@@ -35552,6 +35569,7 @@ Kermit Roosevelt;20
 kerosenes;40
 kerplop;50
 Kerr;40
+Kerri Strug;50;Gymnast who won gold in 1996 with an injured ankle
 kersee;40
 Kes;30;Trinidiadian soca (calypso offshoot) band
 Keshena;20;Tiny Wisconsin town
@@ -36410,6 +36428,7 @@ LaDuke;30;Nader's running mate Winona LaDuke
 lady boner;10
 lady boners;10
 Lady Day;50;Christian holiday (March 25), or nickname for Billie Holiday
+Lady Deathstrike;60;X-Men supervillain
 Lady Di;60
 Lady Diana;60
 ladyeve;40;1941 Stanwyck/Fonda comedy "The Lady Eve"
@@ -56279,8 +56298,10 @@ rides in;40
 ridesinto;40
 rides on;40
 rides the pine;50
+rides the struggle bus;60
 ridesto;40
 ride the pine;50
+ride the struggle bus;60
 rideto;40
 ridgy;30
 ridic;50
@@ -56297,7 +56318,7 @@ ridinginto;40
 riding on;40
 ridings;40;Weird plural
 riding the pine;50
-ridingthestrugglebus;60
+riding the struggle bus;60
 ridingto;40
 rid of;40
 ridonc;20;Ridonculous
@@ -56788,6 +56809,7 @@ Rodeo Drive;60
 rode on;40
 rode out the storm;50
 rode the pine;50
+rode the struggle bus;60
 rodeto;40
 rodino;30;Nixon impeachment chairman Peter Rodino
 rodless;30;Type of cylinder
@@ -65226,6 +65248,7 @@ stroopwafels;50
 strophe;40
 strophes;40
 strs;30
+Strug;40;Kerri Strug, gymnast who won gold in 1996 with an injured ankle
 struggle bus;60
 struma;20;Disease, river, ship
 strumae;20
@@ -68233,6 +68256,7 @@ Thede;40;Robin Thede, creator of "A Black Lady Sketch Show" on HBO
 The Dead;50;Grateful Dead
 thedeadliestcatch;60
 thedeadsea;40
+the Death Star;60
 The Deep;40;1977 adventure movie
 thedeeps;50
 thedell;40
@@ -68872,6 +68896,7 @@ thestoneage;40
 The Stones;50
 thestormsoflife;60;Metaphor for trials and tribulations
 The Strip;60
+the struggle is real;60
 thestuffoflegend;60
 The Substance;60;Demi Moore movie
 thesuezcanal;40
@@ -69910,6 +69935,11 @@ TMC;40
 T-men;30
 tmesis;40;Separation of a word/phrase by another, e.g. un-freaking-believable, whole nother story, any-old-where
 TMI;40
+T-minus;50
+T minus;0
+T-minus ten;60
+T-minus zero;60
+T minus zero;0
 tms;20
 TMZ;40
 TN;40
