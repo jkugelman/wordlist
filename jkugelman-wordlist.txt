@@ -2113,6 +2113,7 @@ all;50
 alla;40
 all aboard;60
 all ages;50
+all along the line;60
 All Along the Watchtower;60
 allamericanmeal;30
 all and sundry;60
@@ -2329,6 +2330,7 @@ Alok Vaid-Menon;50;Performance artist and activist (born 1991)
 Alomar;40;Baseball player Roberto Alomar
 alonely;20
 alone time;50
+along the line;50
 along those lines;50
 a long time ago in a galaxy far far away;60
 Alonso;40;"The Tempest" king, or F1 racer Fernando Alonso
@@ -5455,6 +5457,7 @@ back it up;60
 back-of-the-envelope;60
 back-of-the-envelope calculation;60
 back-of-the-envelope calculations;60
+back of the line;60
 back pocket;50
 back rent;50
 backrest;50
@@ -18471,6 +18474,7 @@ drawingawayfrom;40
 drawing from;40
 drawing into;30
 drawing on;40
+drawing the line at;50
 drawingto;40
 drawing to a close;60
 drawing up;40
@@ -18497,8 +18501,10 @@ drawsawayfrom;40
 draws from;40
 draws into;30
 draws on;40
+draws the line at;50
 draws to a close;60
 draws up;40
+draw the line at;50
 drawto;40
 draw to a close;60
 draw up;40
@@ -18604,6 +18610,7 @@ Drew Carey Show;60;With "The"
 drew from;40
 drew into;30
 drew on;40
+drew the line at;50
 drewto;40
 drew to a close;60
 drew up;40
@@ -24692,6 +24699,7 @@ front desk;50
 Frontera;40;???
 frontlet;40;Forehead band
 frontlets;40
+front of the line;50
 front-page news;50
 front pocket;50
 front-runner;50
@@ -26638,7 +26646,7 @@ God is dead;60
 godlily;30;Weird adverb
 God no;60
 godofmanynames;60
-godowntheline;50
+go down the line;50
 go down to the wire;60
 go dry;40
 God's Acre;50
@@ -26680,7 +26688,7 @@ goes by;40
 goesbythebook;60
 goescondo;50
 goes deaf;50
-goesdowntheline;50
+goes down the line;50
 goes down to the wire;60
 goes dry;50
 goes easy on;50
@@ -26729,6 +26737,7 @@ goesonsale;60
 goes on tour;60
 goes out;50
 goes out with;50
+goes over the line;60
 goespfft;30
 goespitapat;60
 goes pro;50
@@ -26813,7 +26822,7 @@ going by;40
 goingbythebook;60
 goingcondo;50
 going deaf;50
-goingdowntheline;50
+going down the line;50
 going down to the wire;60
 going dry;50
 going flat;50
@@ -26858,6 +26867,7 @@ goingonsale;60
 going on tour;60
 going out;50
 going out with;50
+going over the line;60
 goingpfft;30
 going pro;50
 going public;50
@@ -27020,7 +27030,7 @@ goneoffkilter;50
 goneon;40
 goneout;40
 goneover;40
-goneovertheline;40
+gone over the line;60
 gonepast;40
 gonepro;40
 gonerilandregan;0
@@ -27215,6 +27225,7 @@ go out;50
 go out like a light;60
 gooutonatim;0
 go out with;50
+go over the line;60
 GOP;40
 gopfft;30
 go public;50
@@ -33269,6 +33280,8 @@ in the heat of battle;50
 in the house;50
 inthehunt;50
 in the limelight;60
+in the line of duty;60
+in the line of fire;60
 inthelurch;60
 in the middle of nowhere;60
 in the mix;50
@@ -34306,6 +34319,7 @@ Ivy League school;50
 Ivy League schools;50
 ivysaur;50;Pokeyman
 ivyvine;40
+I Walk the Line;60;1956 single by Johnny Cash
 iwan;40;Iwan Rheon who played Ramsey Bolton on "Game of Thrones"
 I Wanna Dance with Somebody;60;1987 single by Whitney Houston
 I Wanna Dance with Somebody (Who Loves Me);60;1987 single by Whitney Houston
@@ -35148,6 +35162,8 @@ jumpingpopper;60;Rubber children's toy
 jumpingpoppers;60;Rubber children's toys
 jumping through hoops;60
 jumpin' jiminy;60
+Jump in the Line (Shake, Senora);50;1961 song by Harry Belafonte
+Jump in the Line Shake Senora;0
 jump into;40
 jump into the fire;60
 jump jet;50
@@ -36547,10 +36563,13 @@ laid claim to;40
 laidflat;50
 laidin;40
 laid into;40
+laid it all on the line;60
 laiditon;40
+laid it on the line;60
 laid low;50
 laid odds;50
 laid on;40
+laid on the line;60
 laidsiege;50
 laid siege to;50
 laidto;20;Docked
@@ -37143,22 +37162,28 @@ laying claim to;40
 layingflat;50
 layingin;30
 laying into;40
+laying it allon the line;60
 layingiton;40
+laying it on the line;60
 laying low;50
 laying odds;50
 laying on;40
+laying on the line;60
 layingsiege;50
 laying siege to;50
 layingto;20
 laying to rest;50
 lay into;40
+lay it all on the line;60
 layiton;40;Flatter
 lay it on me;60
+lay it on the line;60
 lay low;50
 lay odds;50
 layoff;50
 layoffs;50
 lay on;40
+lay on the line;60
 lays anchor;50
 lays an egg;60
 laysawake;50
@@ -37169,10 +37194,13 @@ laysiege;50
 lay siege to;50
 laysin;30
 lays into;40
+lays it all on the line;60
 laysiton;40
+lays it on the line;60
 lays low;50
 lays odds;50
 lays on;40
+lays on the line;60
 layssiege;50
 lays siege to;50
 laysto;20
@@ -53327,9 +53355,11 @@ putdowntotiming;60
 putdowntoyouth;60
 putdownyourpens;60
 put in a good word for;50
+put it all on the line;60
 putitback;50
 put it down;50
 putiton;50
+put it on the line;60
 putitthere;60
 put it to;40
 put lipstick on a pig;60
@@ -53342,6 +53372,7 @@ put one's feet up;50
 put one's finger on;60
 putoneshouseinorder;60
 put on ice;60
+put on the line;60
 putonto;40
 putonyourbigboypants;60
 putonyourbiggirlpanties;60
@@ -53362,6 +53393,8 @@ putsdowninwriting;50
 putsdownonpaper;50
 puts in;40
 puts in a good word for;50
+puts it all on the line;60
+puts it on the line;60
 puts lipstick on a pig;60
 puts on a brave face;60
 putsoneoutofonesmisery;60
@@ -53370,6 +53403,7 @@ puts one's feet up;50
 puts one's finger on;60
 putsoneshouseinorder;60
 puts on ice;60
+puts on the line;60
 putsoutofonesmisery;60
 putsthefingeron;60
 puts the pedal to the metal;60
@@ -53390,7 +53424,9 @@ puttingdowninwords;50
 puttingdowninwriting;50
 puttingdownonpaper;50
 putting in a good word for;50
+putting it all on the line;60
 puttingitmildly;60
+putting it on the line;60
 putting lipstick on a pig;60
 putting on a brave face;60
 puttingoneoutofonesmisery;60
@@ -53398,6 +53434,7 @@ puttingoneoveron;50
 putting one's feet up;50
 puttingoneshouseinorder;60
 putting on ice;60
+putting on the line;60
 puttingoutofonesmisery;60
 putting the pedal to the metal;60
 puttingthepiecestogether;60
@@ -62903,6 +62940,7 @@ somethingtogoon;60
 Something Wicked This Way Comes;60
 somethingwrong;60
 somewhen;40
+somewhere along the line;60
 Sominex;40;Antihistamine brand
 somm;30;2012 documentary about sommeliers
 Somme;40
@@ -68444,6 +68482,7 @@ The Emperor;60;Tarot card
 The Emperor's New Groove;60;2000 animated Disney film
 The Empire Strikes Back;60;"Star Wars" sequel
 the end is nigh;60
+the end of the line;60
 The Entertainer;60
 theepa;20
 theerastour;60
@@ -74946,7 +74985,7 @@ went by;40
 wentbythebook;60
 wentcondo;50
 went deaf;50
-wentdowntheline;50
+went down the line;50
 went down to the wire;60
 went dry;50
 went flat;50
@@ -74994,6 +75033,7 @@ went on tour;60
 went out;50
 went out like a light;60
 went out with;50
+went over the line;60
 wentpfft;30
 went pro;50
 went public;50
@@ -75310,14 +75350,18 @@ wheredidwepark;60
 wheredidyoupark;60
 where do I begin;60
 where do I sign up;60
-where do you draw the line;60
+where do you draw the line?;60
+where do you draw the line;0
 whereforeartthou;40;Partial
 wherefore art thou Romeo;60
 wherehaveyougonejoedimaggio;60
 whereinto;40
+where is the line?;50
+where is the line;0
 where's the beef?;60
 where's the beef;0
 where's the fire;60
+where's the line?;60
 where's this going;60;"Alright, cut to the chase"
 where there's a will there's a way;60
 wheretherubbermeetstheroad;60
