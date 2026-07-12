@@ -32158,7 +32158,7 @@ imamoron;60;Forehead-slapping exclamation
 imams;50
 Iman;40;Somalian model married to David Bowie
 I manage;60;<Not "I'm an age">
-Imani;40;Imani Perry, race scholar, MacArthur Fellow
+Imani;40;Imani Perry, race scholar, MacArthur Fellow / Seventh of the seven principles of Kwanzaa (faith)
 imanidiot;60
 I'm an open book;60
 imapc;50
@@ -36280,6 +36280,7 @@ Kuiper;50;Kuiper belt
 Kuiper belt;50
 Kuiper belt object;50
 Kuiper belt objects;50
+Kujichagulia;40;Second of the seven principles of Kwanzaa (self-determination)
 Kulik;30;Figure skater Ilia Kulik
 Kum;20
 Kumail;40;"Silicon Valley" actor Kumail Ali Nanjiani
@@ -36307,6 +36308,7 @@ Kurtis;30
 Kurzgesagt;60;Educational YouTube channel
 Kusama;30;Contemporary artist Yayoi Kusama
 Kuti;40;Musician Fela Kuti
+Kuumba;40;Sixth of the seven principles of Kwanzaa (creativity)
 kvass;40;Slavic drink
 kvell;40;Feel happy and proud, from the Yiddish
 kvelled;40
@@ -44764,7 +44766,7 @@ NHL playoffs;50
 NHS;40
 nhu;20
 Ni;40;Monty Python word
-Nia;40
+Nia;40;Actress Nia Vardalos / Fifth of the seven principles of Kwanzaa (purpose)
 Niall;40;Niall Horan of One Direction
 Niall Horan;50;One Direction member
 Niamey;40;Capital of Niger
@@ -72262,6 +72264,8 @@ UI;40
 uie;20
 Uinta;30;Utah mountain range
 Uintas;30
+Ujamaa;40;Fourth of the seven principles of Kwanzaa (cooperative economics)
+Ujima;40;Third of the seven principles of Kwanzaa (collective work and responsibility)
 ukase;20;Imperial decree
 ukases;20;Imperial decrees
 uke;40
@@ -72354,6 +72358,7 @@ umiaks;40
 UMiami;40;University of Miami
 umm;50
 um no;50
+Umoja;40;First of the seven principles of Kwanzaa (unity)
 ump;50
 umpirage;40
 umpire;50
