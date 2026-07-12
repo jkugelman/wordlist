@@ -73207,7 +73207,7 @@ Uzi;40
 uzielgal;50;Uziel Gal, inventor of the Uzi
 Uzis;40
 Uzo;40;Uzo Aduba, actress on "Orange is the New Black"
-V;40;Vs.
+V;40
 VA;40
 vac;40
 vacant seat;50
