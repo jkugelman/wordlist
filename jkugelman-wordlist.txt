@@ -1421,6 +1421,9 @@ agathas;30
 agaze;30
 age;50
 agedcare;50
+age-defying;50
+age-defying cream;50
+age-defying creams;50
 aged like a fine wine;60
 aged like fine wine;60
 aged like milk;60
@@ -16022,6 +16025,8 @@ Dear Theodosia;60;"Hamilton" song
 dearths;30
 dearto;40
 deathanddestruction;50
+death-defying stunt;60
+death-defying stunts;60
 deatheater;60
 deatheaters;60
 death glare;60
@@ -16295,6 +16300,7 @@ defs;40
 defyallodds;60
 defyingallodds;60
 defying gravity;60
+Defying Gravity;60;Song from the Broadway musical "Wicked"
 defying the odds;60
 defy the odds;60
 deg;30;Degree
@@ -27597,6 +27603,7 @@ graveyards;50
 gravida;40;Pregnancy stat
 graving;40
 gravity;50
+gravity-defying;60
 gravy boat;50
 gravy boats;50
 gravytrainwithbiscuitwheels;60
@@ -27879,6 +27886,7 @@ grotesquerie;60
 groton;40
 ground and pound;60;MMA fighting style
 groundbreaking;60
+ground frost;50
 groundhog;60
 Groundhog Day;60
 groundhogs;60
