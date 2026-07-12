@@ -27611,6 +27611,9 @@ Great Red Spot;60
 Great Salt Lake;60
 greatsaltlakedesert;60
 Great Santini;50;1979 Robert Duvall film, with "The"
+Great Schism;60;1054 event that divided the Christian world into the Western Roman Catholic Church and the Eastern Orthodox Church
+great Scott!;60
+great Scott;0
 great shot;50
 great stuff;60
 grebdlogipoohw;0
@@ -68358,6 +68361,7 @@ The Greatest Generation;60
 thegreatlakes;60
 The Great Lakes State;60
 thegreatoldones;60;Cthulhu, etc.
+The Great Schism;60;1054 event that divided the Christian world into the Western Roman Catholic Church and the Eastern Orthodox Church
 the great unknown;60
 thegreenarrow;40
 thegreenfairy;60;Absinthe
