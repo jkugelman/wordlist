@@ -26837,6 +26837,7 @@ goingonrecordas;40
 goingonsafari;60
 goingonsale;60
 going on tour;60
+going out;50
 going out with;50
 goingpfft;30
 going pro;50
@@ -27187,6 +27188,7 @@ goosewing;30
 goosey;40
 goosier;30
 goosiest;30
+go out;50
 go out like a light;60
 gooutonatim;0
 go out with;50
