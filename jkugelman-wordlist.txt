@@ -15275,6 +15275,7 @@ curry puff;60;Pastry with curry filling
 curry puffs;60;Pastries with curry filling
 curse at;40
 cursed at;40
+curse of dimensionality;60;Difficulties arising when analyzing data with many aspects ("dimensions")
 curseofexpertise;60
 curse of knowledge;60
 curser;40
