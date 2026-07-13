@@ -386,12 +386,15 @@ Abdurraqib;50;Poet Hanif Abdurraqib (2021 MacArthur Fellow)
 Abe;50
 abear;40
 Abe Beame;40;Abraham Beame, mayor of NYC 1974-77
-abecedaria;30
-abecedarian;30
-abecedarians;30
-abecedaries;30
-abecedarium;30
-abecedary;30
+abecedaria;40;Books or inscriptions used to teach the alphabet
+abecedarian;40;Someone learning the alphabet / Pertaining to the alphabet
+Abecedarian;40;16th-century German Anabaptist who rejected all human learning
+abecedarians;40;People learning the alphabet
+Abecedarians;40;16th-century German sect of Anabaptists who rejected all human learning
+abecedaries;40;Books or inscriptions used to teach the alphabet
+abecedarium;40;Book or inscription used to teach the alphabet
+abecedarius;40;Acrostic poem in which the lines begin with the letters of the alphabet in sequence
+abecedary;40;Book or inscription used to teach the alphabet
 Abed;40;Various people
 abed;40;In bed
 Abed Nadir;50;Danny Pudi's character on "Community"
