@@ -21848,6 +21848,8 @@ exenemies;30
 exenemy;30
 exercise program;60
 exercise programs;60
+exercise wheel;60;Hamster wheel / Ab roller
+exercise wheels;60;Hamster wheels / Ab rollers
 exercycle;50
 exercycles;50
 exertedon;40
@@ -29106,6 +29108,7 @@ hatha;40;Type of yoga
 hatha yoga;60
 hat in hand;60
 hat on a hat;60;Comedy mistake (something unnecessary)
+Hatsune;30
 Hatteras;40;North Carolina's Cape Hatteras
 hat tip;50
 hat tips;50
@@ -35268,7 +35271,7 @@ jump-starting;60
 jump-starts;60
 jumps through hoops;60
 jump through hoops;60
-jun;40
+Jun;40;June
 June bug;60
 June bugs;60
 junes;30;Plural name
@@ -35923,6 +35926,7 @@ kilties;30
 Kim;50
 kimchee;50
 Kimi;40;2022 Steven Soderbergh thriller film
+Kim Il Sung;50;Leader of North Korea from 1948 to 1994
 kimmelweck;50
 kimmelweckroll;50
 Kimmy;50
@@ -36059,6 +36063,7 @@ kitsch;60
 kitschier;60
 kitschiest;60
 kitschy;60
+kitsune;40;Fox spirits in Japanese folklore
 Kitt;40
 kittenish;50
 kittery;40;"Maine's oldest town"
@@ -71778,6 +71783,8 @@ tsu;40;Texas Southern or Tennessee State
 Tsui;30
 tsukiji;40;Tsukiji fish market, Tokyo tourist attraction
 tsukijimarket;40
+tsundere;40;Japanese term for a cold, hostile character who gradually warms up
+tsundoku;40;Term for buying books but not reading them
 tsuris;20;Yiddish aggravation
 Tswana;40;People/language of Botswana
 tswift;60
@@ -74107,6 +74114,12 @@ volleyballs;50
 volleyball team;50
 volleyball teams;50
 vols;40
+Völsung;30;Figure in Germanic mythology
+Völsunga;30;13th century Icelandic saga
+Volsunga;0
+Völsunga saga;50;13th century Icelandic saga
+Völsungs;30
+Volsungs;0
 voltage;50
 volte-face;50;Abrupt turnaround
 volte-faces;50
@@ -75189,6 +75202,7 @@ we're so back;60
 weresoold;60
 werestuck;50
 werestumped;60
+we're sunk;60
 we're supposed to be a team;60
 we're toast;60
 we're well past that;60
