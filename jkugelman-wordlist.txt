@@ -48875,6 +48875,7 @@ ozone layer;50
 ozones;40;Treats with ozone
 ozoning;40
 ozs;40
+Ozu;20;Yasujirō Ozu, Japanese filmmaker (1903–1963)
 Ozymandias;60
 P;40
 pa;50
@@ -76945,6 +76946,8 @@ yassifies;60
 yassify;60
 yassifying;60
 yassir;40
+Yasujirō Ozu;50;Japanese filmmaker (1903–1963)
+Yasujiro Ozu;0
 yat;20
 yateeh;20
 Yates;30
