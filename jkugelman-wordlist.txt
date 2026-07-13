@@ -9916,6 +9916,13 @@ cafe table;50
 cafe tables;50
 caffeettaables;0
 caffeinic;30
+cage dance;60
+cage dancer;60
+cage dancers;60
+cage dances;60
+cage dancing;60
+caged animal;40
+caged animals;40
 caged in;40
 cagedive;60
 cagediver;60
@@ -17397,6 +17404,7 @@ disputers;40
 diss;50
 dissentient;40
 disses;50
+disseverance;50
 dissonantchord;50
 dissonantchords;50
 diss track;60
@@ -17570,8 +17578,8 @@ DNA sequencing;50
 dnasplicer;50
 dnasplicers;50
 dnasplicing;50
-DNA strand;50
-DNA strands;50
+DNA strand;60
+DNA strands;60
 DNA test;50
 DNA testing;50
 DNA tests;50
@@ -17766,6 +17774,7 @@ dogfooding;60
 dogfoods;60
 dog-friendly;50
 dogged;50
+dogged perseverance;60
 doggo;60
 doggos;60
 dog groomer;60
@@ -19954,6 +19963,7 @@ eightletterword;50
 eightletterwords;50
 eight maids a-milking;60
 eight PM;50
+eight-sided;40
 eightsome;20
 eight-string;60
 eight-string guitar;60
@@ -25576,8 +25586,8 @@ geared;50
 gearedto;40
 gearingto;40
 gearoil;30;Automotive lubricant
-gear ratio;50
-gear ratios;50
+gear ratio;60
+gear ratios;60
 gearshift;50
 gearshifts;50
 gearsto;40
@@ -25946,6 +25956,7 @@ get off my case;60
 get off on a technicality;60
 getoffoneshighhorse;60
 get off on the right foot;60
+get off to a late start;60
 getoffyourhighhorse;60
 get on;40
 get on board;50
@@ -26029,6 +26040,7 @@ gets naked;50
 getsnear;40
 gets off on a technicality;60
 gets off on the right foot;60
+gets off to a late start;60
 gets on;40
 gets on board;50
 getsonesgoat;60
@@ -26138,6 +26150,7 @@ getting naked;50
 gettingnear;40
 getting off on a technicality;60
 getting off on the right foot;60
+getting off to a late start;60
 getting on;40
 getting on board;50
 gettingonesgoat;60
@@ -26572,6 +26585,7 @@ gluing on;40
 gluingto;40
 gluon;40
 gluons;40
+glutathione peroxidase;50
 glutelin;30;Wheat protein
 glutenin;30;Wheat protein
 glycol;40
@@ -27437,6 +27451,7 @@ go to;50
 go toe to toe;60
 got off on a technicality;60
 got off on the right foot;60
+got off to a late start;60
 go together;50
 go to great lengths;60
 go-to guy;60
@@ -30884,6 +30899,7 @@ horseplay;60
 horsepower;50
 horse race;50
 horse races;50
+horseradish peroxidase;50;Enzyme in horseradish
 horses for courses;60
 horseshoe magnet;60
 horseshoe magnets;60
@@ -31263,7 +31279,12 @@ Hugh Hefner;60
 Hughie;40;Hughie Jennings (1869-1928), Baseball Hall of Famer, holds major league record for most hits by pitches
 hughiejennings;50;Hughie Jennings (1869-1928), Baseball Hall of Famer, holds major league record for most hits by pitches
 huh;50
-hula dance;50
+hula dance;60
+hula danced;60
+hula dancer;60
+hula dancers;60
+hula dances;60
+hula dancing;60
 hula hoop;50
 hula hoops;50
 hula skirt;50
@@ -33164,6 +33185,7 @@ inpawn;30
 in pen;50
 in pencil;50
 inpink;30
+in poor taste;60
 inpopulardemand;20
 in practice;50
 in print;50
@@ -33479,6 +33501,7 @@ inverted comma;60
 inverted commas;60
 inverted question mark;60;¿
 inverted question marks;60;¿¿¿
+in very poor taste;50
 invesco;40;Investment management company
 investment banks;50
 investmentvalue;50
@@ -34326,6 +34349,7 @@ itwasmeanttobe;60
 it wasn't me;60
 it wasn't meant to be;60
 itwasntnotmyfinesthour;60
+it was okay;60
 It Welcome to Derry;60;"IT: Welcome to Derry"
 itwillcostyounothing;60
 itwontcostyouadime;60
@@ -37112,7 +37136,11 @@ laterite;40;Soil type
 laterman;60
 latesleeper;60
 latesleepers;60
+late-stage;60
 late-stage capitalism;60
+late-stage capitalist;60
+late-stage capitalists;60
+latest and greatest;60
 latest fad;50
 latest fads;50
 late to;40
@@ -40500,6 +40528,7 @@ malapropism;60
 malaprops;60
 malariafree;50;WHO designation
 malarias;0
+Malatesta;30;Paolo Malatesta, Italian noble portrayed in Dante's "Inferno"
 malathion;40;Pesticide
 Malayalam;30;South Indian language
 Malbec;40;Wine grape
@@ -44147,6 +44176,7 @@ nappuccinos;60
 naptime;60
 nap-trapped;60
 nar;20
+Narayan;30;Indian writer R. K. Narayan (1906–2001)
 narc;50
 narced;50
 narced on;40
@@ -44377,7 +44407,7 @@ NCAA;50
 ncaabasketball;60
 NCAA bracket;60
 NCAA brackets;60
-ncaafinal;60
+NCAA final;60
 NCAA finals;60
 ncaafootball;60
 NCAA game;60
@@ -44744,6 +44774,7 @@ neutrino;50
 neutrinos;50
 neutrois;40;Null gender identity
 Nev;40;Nevada
+Nevada Day;50;Nevada holiday commemorating its admission to the Union
 Nevadan;50
 Nevadans;50
 nevadas;30
@@ -45112,6 +45143,7 @@ Niner;40
 Niners;40
 nines;40
 nineseven;20;WTF
+nine-sided;40
 ninetales;50;Pokeyman
 nineteen;50
 nineteeneighty;30
@@ -45541,6 +45573,8 @@ noparstocks;50
 noparvalue;50
 noparvaluestock;50
 noparvaluestocks;50
+¡No pasarán!;40;"They shall not pass", Spanish Civil War anti-fascist rallying cry
+no pasaran;0
 noped out;60
 nope out;60
 nope rope;60;Snake
@@ -46751,6 +46785,7 @@ off-target;50
 off the beaten path;60
 offthehip;50;Off the cuff
 off to a great start;60
+off to a late start;60
 offtone;40;Off-key, dissonant
 ofiwo;20
 ofo;20
@@ -48927,6 +48962,10 @@ pageofcoins;60;Tarot card
 pageofcups;60;Tarot card
 pageofswords;60;Tarot card
 pageofwands;60;Tarot card
+page range;50
+page ranges;50
+PageRank;60;Algorithm used by Google Search to rank web pages
+PageRanks;50
 page view;50
 page views;50
 paginal;40
@@ -49172,6 +49211,7 @@ panty raids;50
 panzertank;50
 panzertanks;50
 pao;40;Kung pao chicken
+Paolo Malatesta;50;Italian noble portrayed in Dante's "Inferno"
 Paolo Veronese;20
 pap;50
 Papa Bear;60
@@ -50245,10 +50285,14 @@ peroration;40
 perorations;40
 Perot;40;Ross Perot
 perots;20
-peroxideblond;60;Without the "e"?
+peroxidase;40
+peroxidases;40
+peroxide blond;60;Without the "e"?
 peroxide blonde;60
 peroxide blondes;60
-peroxideblonds;60;Without the "e"?
+peroxide blonds;60;Without the "e"?
+peroxided;40
+peroxiding;40
 perpetuum mobile;60
 Perri;40;Christina Perri, "A Thousand Years" singer
 perries;40;Fermented pear drinks
@@ -51939,6 +51983,7 @@ poor soul;60
 poor souls;60
 poor sport;60
 poor sports;60
+poor taste;50
 poor things;50
 poor you;60
 pop;50
@@ -54137,6 +54182,7 @@ raja;40;Indian prince
 rajah;40
 rajahs;40
 rajas;40
+Rajasthan;40;State in northwestern India
 Rajiv;30;Indian P.M. Rajiv Gandhi (1984-89), son of Indira Gandhi
 Rajiv Gandhi;50;Indian P.M. 1984-89, son of Indira Gandhi
 Rajput;30
@@ -56881,6 +56927,8 @@ rizzup;60
 rjr;20
 rkelly;10
 rket;20
+R. K. Narayan;40;Indian writer (1906–2001)
+R K Narayan;0
 RKO;40
 R-less;30
 rls;20
@@ -60245,6 +60293,7 @@ seven seas;60
 sevensegment;60
 sevensegmentdisplay;60
 sevensegmentdisplays;60
+seven-sided;40
 seven-string;60
 seven-stringer;60
 seven-stringers;60
@@ -60264,7 +60313,12 @@ seven-year itch;60
 sevenyearsof;0
 severalties;40
 severalty;40
-severance;60
+Severance;60;2022 Apple TV+ science fiction series
+severance;50
+severance package;60
+severance packages;60
+severance pay;60
+severance pays;40;Plural?
 severedties;50
 severegale;50;9 on the Beaufort wind force scale
 severe weather;50
@@ -60304,10 +60358,10 @@ sexcapade;60
 sexcapades;60
 sexdrives;60
 sex ed;50;Sexed, or sex ed
-sexeditup;60
+sexed it up;60
 sexed up;60
 sexer;30
-sexesitup;60
+sexes it up;60
 sexes up;60
 sex goddess;60
 sex hormone;50
@@ -60317,9 +60371,9 @@ Sexiest Man Alive;60
 sexile;60
 sexiled;60
 sexiles;60
-sexingitup;60
+sexing it up;60
 sexing up;60
-sexitup;60
+sex it up;60
 sexkitten;60
 sexkittens;60
 sex life;60
@@ -61654,6 +61708,7 @@ six-pack abs;60
 sixpast;30
 six PM;50
 six seven;60
+six-sided;50
 six-string;60
 six-string bass;60
 six-string basses;60
@@ -62950,8 +63005,10 @@ solar panel;60
 solar panels;60
 solar plexus;60
 solar power;60
-solarroad;60
-solarroads;60
+solar road;60
+solar roads;60
+solar rover;50
+solar rovers;50
 solar sail;60
 solar sails;60
 solar storm;60
@@ -64765,6 +64822,7 @@ steer clear;60
 steer clear of;60
 steered clear;60
 steered clear of;60
+steered into;40
 steeredto;40
 steerer;40
 steerers;40
@@ -64772,10 +64830,13 @@ steering clear;60
 steering clear of;60
 steering committee;60
 steering committees;60
+steering into;40
 steeringto;40
+steer into;40
 steers;50
 steers clear;60
 steers clear of;60
+steers into;40
 steersman;40
 steersmen;40
 steersto;40
@@ -65353,6 +65414,10 @@ strawy;20
 stray cat;50
 stray dog;50
 stray dogs;50
+strayed from;40
+stray from;40
+straying from;40
+strays from;40
 streaker;50
 streakers;50
 streamer;50
@@ -66064,6 +66129,7 @@ supernovae;50
 supernovas;60
 superorganism;60
 superorganisms;60
+superoxide dismutase;50;Class of enzymes
 super PAC;60
 super PACs;60
 superpurse;0
@@ -67117,7 +67183,8 @@ tangencies;40
 tangency;40
 tangled web;60
 Tania;40
-tanika;20;Entertainment reporter Tanika Ray, not notable enough
+Tanika;30;Tanika Ray, entertainment reporter
+Tanika Ray;40;Entertainment reporter
 tanith;20;First name
 tanka;30;Japanese poem
 tankas;30
@@ -67774,6 +67841,9 @@ teleses;30;???
 telesis;30;???
 telesthesia;40
 telesthetic;40
+Teletubbies;60
+Teletubby;60
+Teletubbyland;60
 television crews;50
 telfy;20;???
 tellafib;40
@@ -67912,6 +67982,7 @@ tenpounder;30;???
 tenrec;30;Madagascar animal
 tenrecs;30;Madagascar animals
 ten seconds;30
+ten-sided;40
 tensity;40;Tension
 tenski;20
 tens of billions;20
@@ -67948,6 +68019,8 @@ Tenzing;40
 Tenzing Norgay;60;Edmund Hillary's sherpa, first to summit Everest
 Teo;20
 tep;20
+tepidaria;40;Warm bathrooms of the Roman baths
+tepidarium;40;Warm bathroom of the Roman baths
 tequila slammer;60
 tequila slammers;60
 tequila sunrise;60
@@ -69655,6 +69728,7 @@ three PM;50
 threeps;30
 threer;30
 three R's;50
+three-sided;40
 threesome;60
 threesomes;60
 threestarrating;60
@@ -72218,12 +72292,15 @@ twelvemonkeys;60
 twelvemos;40
 twelveplusone;0
 twelve PM;50
+twelve-sided;40
 twelve-step program;60
 twelve-step programs;60
 twelve-string;60
 twelve-string guitar;60
 twelve-string guitars;60
 twenty questions;60;Spoken guessing game using yes–no questions
+twenty-sided dice;60
+twenty-sided die;60
 twerent;50
 Twi;20
 twibe;20;Twitter tribe
@@ -72333,6 +72410,7 @@ two-seam fastball;60
 two-seam fastballs;60
 twoset;40;Like some tennis matches
 two shakes of a lamb's tail;60
+two-sided;40
 two sides of the same coin;60
 twostarcrossedlovers;60
 twostarrating;60
@@ -73434,7 +73512,9 @@ Utrillo;30;Parisian painter Maurice Utrillo
 utterbullshit;10
 utterer;50
 utterers;50
-utter fool;50
+utter folly;60
+utter fool;60
+utter fools;60
 utter rot;50
 utter tripe;60
 U-tube;30;Lab equipment
@@ -73759,6 +73839,7 @@ vervet;30;Monkey
 very cool;60
 very crucial question;20
 very good;50
+Very Large Array;60
 very much so;60
 veryodd;50
 very well;60
@@ -75250,7 +75331,7 @@ wereonthesamewavelength;60
 we're open;60
 we're rich;60
 we're so back;60
-weresoold;60
+we're so old;50
 werestuck;50
 werestumped;60
 we're sunk;60
