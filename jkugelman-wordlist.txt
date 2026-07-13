@@ -74561,6 +74561,10 @@ walking-around money;60
 walking distance;50
 walkingonthinice;60
 walking out on;40
+walking sim;60;Adventure game that consists primarily of movement and environmental interaction
+walking sims;60;Adventure games that consists primarily of movement and environmental interaction
+walking simulator;60;Adventure game that consists primarily of movement and environmental interaction
+walking simulators;60;Adventure games that consist primarily of movement and environmental interaction
 walkingto;40
 walkingtrail;50
 walkingtrails;50
