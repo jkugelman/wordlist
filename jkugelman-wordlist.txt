@@ -748,7 +748,7 @@ ackackgun;40
 ackackguns;40
 ackchyually;60
 ackee;40;National fruit of Jamaica
-ackees;40
+ackees;40;National fruits of Jamaica
 Ackroyd;20;Some author
 ACL;40
 A Clash of Kings;60;A Song of Ice and Fire book #2
@@ -12426,6 +12426,7 @@ cinerary;30
 cineration;30
 cinimini;60
 ciniminis;60
+Cinna;30
 Cinnabon;50
 Cinnabons;50
 cinnamon bread;60
@@ -13573,6 +13574,8 @@ common decency;50
 common folk;50
 common good;50
 commonlyknown;50
+common starling;50
+common starlings;50
 common thread;50
 common threads;50
 communication channel;50
@@ -16506,6 +16509,7 @@ demonetized;60
 demonetizes;60
 demonetizing;60
 demonic;60
+de Montcalm;30;Louis-Joseph de Montcalm, French Royal Army officer (1712–1759)
 demonym;30
 demonyms;30
 demo reel;50
@@ -31893,6 +31897,8 @@ idyls;30
 ie;40
 ied;10
 ieds;10
+IEP;20;Individualized Education Program
+IEPs;20;Individualized Education Programs
 -ier;30;Occupational suffix [common]
 -iers;30
 ies;30;Plural suffix [rare]
@@ -35396,6 +35402,8 @@ kalamazoomi;30
 Kalashnikov;50
 kale;50
 kales;40
+kale salad;60
+kale salads;60
 Kaley;40;"The Big Bang Theory" actress Kaley Cuoco
 Kaline;40;Al Kaline, MLB Hall of Famer
 kalkan;30;Brand of dog food? (used four times, don't see it at Petco/PetSmart)
@@ -39339,6 +39347,7 @@ Louis Daguerre;50
 louisdebroglie;60;Physicist
 Louis II;30
 Louis IX;30
+Louis-Joseph de Montcalm;50;French Royal Army officer (1712–1759)
 Louis Leakey;50
 louisnye;40;Old comedian
 Louis Quatorze;50
@@ -41479,6 +41488,7 @@ means of escape;60
 meansomething;50
 meansto;40
 Mean Streets;60
+Mean Team;60;"Space Jam" bad guys
 meanto;40
 meantto;40
 Meara;40;Comedian Anne Meara
@@ -42994,6 +43004,8 @@ monotyping;40
 monroes;30
 monsoon season;60
 monsoon seasons;60
+Monstar;60;"Space Jam" bad guy
+Monstars;60;"Space Jam" bad guys
 monstera;40;Monstera deliciosa plant, "delicious monster"
 monstermanual;60
 monstermanuals;60
@@ -43005,6 +43017,7 @@ Montanan;50
 Montanans;50
 Montand;30;Actor Yves Montand, "one of France's greatest 20th-century artists" per Wikipedia
 montane;30;Growing in elevated regions
+Montcalm;30;Louis-Joseph de Montcalm, French Royal Army officer (1712–1759)
 Montell;40;"This Is How We Do It" singer Montell Jordan
 monteros;40
 montes;20
@@ -44606,6 +44619,8 @@ nerded out;60
 nerdgasm;60
 nerdgasms;60
 nerding out;60
+Nerdluck;50;"Space Jam" bad guy
+Nerdlucks;50;"Space Jam" bad guys
 nerd out;60
 Nerd Prom;60;San Diego Comic-Con, or the White House Correspondents' Dinner
 nerdrap;50
@@ -45080,6 +45095,7 @@ nincom;20
 nincompoop;60
 nine AM;50
 ninebc;20
+Nine Days;50;2020 fantasy drama film
 nineeleven;10
 Nine Inch Nails;60
 nine iron;50
@@ -45088,6 +45104,7 @@ nine ladies dancing;60
 nineletterword;50
 nineletterwords;50
 ninemile;30;Nine Mile Canyon in Utah
+nine-month;40
 nineof;20
 ninepence;30
 nine PM;50
@@ -66725,7 +66742,7 @@ takeabus;30
 take a cab;30
 take action;50
 takeacue;40
-take a cue from;40
+take a cue from;50
 take a cut;50
 take a dislike to;50
 take a dive;50
@@ -66751,8 +66768,10 @@ take a shot at;40
 take a shower;50
 takeasiesta;50
 take a stab;50
+take a step back from;40
 takeaswig;50
 take a train;40;Contrived
+take away from;40
 takebacks;60
 takebacksies;60
 takebaths;50
@@ -66760,6 +66779,8 @@ take credit for;40
 takedecisiveaction;60
 take five;60
 take flak;50
+take from;40
+take heat from;50
 take him away boys;60
 Takei;40;"Star Trek" actor George Takei
 take in;40
@@ -66772,17 +66793,26 @@ take it to the rack;60;Aggressively drive a basketball down court and attempt a 
 take liberties;50
 takemeasiam;60
 take my wife please;60
+taken a cue from;50
 takenadisliketo;50
+taken a step back from;40
+taken away from;40
 takenbystorm;60
+taken from;40
+taken heat from;50
 takeninvain;50
+taken one's cue from;50
+taken orders from;40
 take note;60
 takenthewheel;50
 takento;40
 taken to its logical conclusion;60
 takentothegrave;60
 take on;40
+take one's cue from;50
 Take on Me;60;A-ha song
 take orders;50
+take orders from;40
 takeout;50
 takeoutjoint;60
 takeoutouttake;0
@@ -66795,7 +66825,7 @@ takesabus;30
 takes a cab;30
 takes action;50
 takesacue;40
-takes a cue from;40
+takes a cue from;50
 takes a cut;50
 takes a dislike to;50
 takes a dive;50
@@ -66817,12 +66847,16 @@ takes a shot at;40
 takes a shower;50
 takesasiesta;50
 takes a stab;50
+takes a step back from;40
 takesaswig;50
+takes away from;40
 takes credit for;40
 takesdecisiveaction;60
 takes five;60
 takes flak;50
+takes from;40
 take shape;60
+takes heat from;50
 takeshowers;50
 takesiebacksies;60
 takesiesbacksies;60
@@ -66832,7 +66866,9 @@ takesinvain;50
 takesittothegrave;60
 takes liberties;50
 takes on;40
+takes one's cue from;50
 takes orders;50
+takes orders from;40
 takes out;40
 takes pains;50
 takes shape;60
@@ -66871,12 +66907,13 @@ take to the grave;60
 take to the hills;60
 take under one's wing;60
 take wing;60
+take your cue from;20
 Taki;40
 takingabus;30
 taking a cab;30
 taking action;50
 takingacue;40
-taking a cue from;40
+taking a cue from;50
 taking a cut;50
 taking a dislike to;50
 taking a dive;50
@@ -66896,17 +66933,23 @@ taking a shine to;50
 takingashotat;40
 takingasiesta;50
 taking a stab;50
+taking a step back from;40
 takingaswig;50
+taking away from;40
 taking candy from a baby;60
 taking credit for;40
 takingdecisiveaction;60
 taking five;60
 taking flak;50
+taking from;40
+taking heat from;50
 takinginvain;50
 takingittothegrave;60
 taking liberties;50
 taking on;40
+taking one's cue from;50
 taking orders;50
+taking orders from;40
 taking out;40
 taking pains;50
 taking shape;60
@@ -68841,6 +68884,7 @@ themathisnotmathing;60
 the math isn't mathing;60
 The Matrix;60
 themayor;40;Shortlived TV show
+The Mean Team;60;"Space Jam" bad guys
 themedalofhonor;20
 themedia;40
 The Meg;50;Shark movie
@@ -68870,6 +68914,7 @@ The Mole;50;TV show
 themonalisa;40
 themongols;20
 The Monitor;40;???
+The Monstars;60;"Space Jam" bad guys
 the Moon;50;Tarot card
 themoors;60
 themoptops;40;???
@@ -70552,7 +70597,7 @@ tookabus;30
 took a cab;30
 took action;50
 tookacue;40
-took a cue from;40
+took a cue from;50
 took a cut;50
 took a dislike to;50
 took a dive;50
@@ -70574,18 +70619,24 @@ took a shot at;40
 took a shower;50
 tookasiesta;50
 took a stab;50
+took a step back from;40
 tookaswig;50
+took away from;40
 took credit for;40
 tookdecisiveaction;60
 took five;60
 took flak;50
+took from;40
+took heat from;50
 took in;40
 tookinvain;50
 took it easy;60
 tookittothegrave;60
 took liberties;50
 took on;40
+took one's cue from;50
 took orders;50
+took orders from;40
 took out;40
 took pains;50
 took shape;60
@@ -76775,6 +76826,8 @@ yankon;40
 Yankovic;60
 yanks on;40
 Yann;30;Yann Martel, author of "Life of Pi"
+Yanomami;40;Population of native people living in the Amazon rainforest
+Yanomamö;40;Population of native people living in the Amazon rainforest / Their language
 yanqui;40
 yanquis;40
 Yao;40;Yao Ming
