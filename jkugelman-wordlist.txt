@@ -4226,6 +4226,7 @@ artifact;50
 artificialrock;60;Acme invention
 artiste;50
 artistes;50
+art is the proper task of life;60;Nietzsche quote
 artist-in-residence;60
 artists-in-residence;60
 artist statement;60
@@ -4401,23 +4402,34 @@ as I see it;60
 as I suspected;60
 as I've said;60
 ask;50
+ask a favor of;40
+ask a lot of;50
 ask a silly question;60
 ask a silly question, get a silly answer;60
 ask a stupid question;60
 ask a stupid question, get a stupid answer;60
 askdad;60
+asked a favor of;40
+asked a lot of;50
 asked for;40
+asked for the hand of;60
 asked in;40
-askedof;40
+asked no favors;50
+asked of;40
 askedto;40
 asker;40
 askers;40
 ask for;40
+ask for the hand of;60
 ask in;40
+asking a favor of;40
+asking a lot of;50
 asking for;40
 asking for it;60
+asking for the hand of;60
 asking in;40
-askingof;40
+asking no favors;50
+asking of;40
 asking the real questions;60
 asking the real questions here;60
 askingto;40
@@ -4426,11 +4438,17 @@ askmeificare;60
 askmenoquestions;60
 askmenoquestionsandilltellyounolies;60
 askmom;60
+ask no favors;50
 asknow;20
-askof;40
+ask of;40
+Ask of You;50;1995 single by Raphael Saadiq
+asks a favor of;40
+asks a lot of;50
 asks for;40
+asks for the hand of;60
 asks in;40
-asksof;40
+asks no favors;50
+asks of;40
 asksto;40
 askto;40
 A Sky Full of Stars;50;Coldplay song
@@ -41110,6 +41128,7 @@ maskedidentities;60
 maskedidentity;60
 maskedsuperhero;60
 maskedsuperheroes;60
+Mask of Apollo;50;1966 historical novel by Mary Renault, with "The"
 Maslany;40;Tatiana Maslany of "Orphan Black"
 Maslin;40;NYT's film and book critic Janet Maslin
 masochism;60
@@ -69000,6 +69019,7 @@ The Mars Volta;60
 The Marvelous Mrs. Maisel;60;Period comedy-drama television series
 The Marvelous Mrs Maisel;0
 themarveloustoy;60
+The Mask of Apollo;50;1966 historical novel by Mary Renault
 themasses;60
 the Masters;60;Golf tournament held in Augusta, Georgia
 the math ain't mathing;60
