@@ -201,8 +201,10 @@
 90210;50;Beverly Hills's zip code
 90 Day Fiancé;60;Reality television series on TLC
 98 Degrees;60;Boy band
+99%;50
 99.9%;50
 99.9 percent;60
+99% Invisible;60;Radio program and podcast on design
 99 Luftballons;50;1983 single by Nena
 99 Problems;60;2004 single by Jay-Z
 99 Red Balloons;50;1983 single by Nena ("99 Luftballons")
@@ -10627,6 +10629,7 @@ cardinals;50
 cardiopulmonologist;50
 cardiopulmonologists;50
 cardiopulmonology;50
+cardistry;60
 cardoon;30;Type of thistle
 cardoons;30
 cards;50
