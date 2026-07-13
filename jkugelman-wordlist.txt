@@ -10629,7 +10629,9 @@ cardinals;50
 cardiopulmonologist;50
 cardiopulmonologists;50
 cardiopulmonology;50
-cardistry;60
+cardist;40;Person who engages in cardistry
+cardistry;60;Performance art of card flourishing
+cardists;40;People who engage in cardistry
 cardoon;30;Type of thistle
 cardoons;30
 cards;50
