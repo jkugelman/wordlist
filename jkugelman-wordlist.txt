@@ -19969,6 +19969,15 @@ eight-string;60
 eight-string guitar;60
 eight-string guitars;60
 eight-strings;50
+eighty-eight;50
+eighty-five;40
+eighty-four;40
+eighty-nine;40
+eighty-one;40
+eighty-seven;40
+eighty-six;60
+eighty-three;40
+eighty-two;40
 eik;20;Eat in kitchen, in ads
 ein;40
 Eine;40
@@ -23087,12 +23096,20 @@ fieros;40
 fieryspirit;60
 fifteenfootpole;0
 fiftieth;40
+fifty-eight;40
 fiftyfirstdates;50
+fifty-five;40
+fifty-four;40
 Fifty-four Forty or Fight!;60;Slogan in the 1844 Oregon boundary dispute
 fiftyniftyunitedstates;60
+fifty-nine;40
 fiftyninth;40;???
+fifty-one;40
 fiftypointbonus;30
 fifty-seven;40
+fifty-six;40
+fifty-three;40
+fifty-two;40
 fig;50
 fight against;40
 fight a losing battle;60
@@ -24344,11 +24361,18 @@ fortune teller;60
 fortune tellers;60
 fortune-telling;60
 fortworthtx;30
+forty-eight;40
+forty-five;40
+forty-four;40
 fortylove;30
+forty-nine;40
 forty-niner;50
 forty-niners;50
+forty-one;40
 forty-seven;40
-forty-two;60
+forty-six;40
+forty-three;40
+forty-two;40
 for want of a better word;60
 forwarder;40
 forwarders;40
@@ -45169,11 +45193,15 @@ ninetofivers;60
 ninetoone;20
 ninetosix;20;Work hours
 Ninety Day Fiancé;60;Reality television series on TLC
+ninety-eight;40
 ninety-five;40
+ninety-four;40
 ninety-nine;40
-ninety-one;30
-ninety-six;20
-ninety-two;30
+ninety-one;40
+ninety-seven;40
+ninety-six;40
+ninety-three;40
+ninety-two;40
 Nineveh;30;Ancient cultural center
 nineyards;40
 Ningbo;30;Historic Chinese city, population 8 million
@@ -60309,7 +60337,14 @@ seventh-inning;50
 sevenths;40
 sevento;20
 seventy-eight;40
+seventy-five;40
+seventy-four;40
 seventy-nine;40
+seventy-one;40
+seventy-seven;40
+seventy-six;40
+seventy-three;40
+seventy-two;40
 seven-year itch;60
 sevenyearsof;0
 severalties;40
@@ -61724,6 +61759,15 @@ sixteenth rest;50
 sixteenth rests;50
 sixth man;50;???
 Sixtus;40;Pope name
+sixty-eight;40
+sixty-five;40
+sixty-four;40
+sixty-nine;40
+sixty-one;40
+sixty-seven;40
+sixty-six;40
+sixty-three;40
+sixty-two;40
 sixyear;0
 sizeeight;30
 sizefive;30
@@ -69602,6 +69646,15 @@ Thirsty Thursdays;60
 thirsty work;60
 thirtieth;40
 thirtieths;40
+thirty-eight;40
+thirty-five;40
+thirty-four;40
+thirty-nine;40
+thirty-one;40
+thirty-seven;40
+thirty-six;40
+thirty-three;40
+thirty-two;40
 this again;60
 Thisbe;30;Pyramus and Thisbe, lovers in Ovid's Metamorphoses [rare]
 thiscommentrighthereofficer;60
@@ -72299,9 +72352,18 @@ twelve-step programs;60
 twelve-string;60
 twelve-string guitar;60
 twelve-string guitars;60
+twenty-eight;40
+twenty-five;40
+twenty-four;40
+twenty-nine;40
+twenty-one;50
 twenty questions;60;Spoken guessing game using yes–no questions
+twenty-seven;40
 twenty-sided dice;60
 twenty-sided die;60
+twenty-six;40
+twenty-three;40
+twenty-two;40
 twerent;50
 Twi;20
 twibe;20;Twitter tribe
