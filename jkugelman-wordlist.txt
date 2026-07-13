@@ -69175,6 +69175,7 @@ thepotomac;30
 the powers that be;60
 The Prince;60;Political treatise by Niccolò Machiavelli
 theprom;40;2020 movie with Meryl Streep, Nicole Kidman, and others
+the proper task of life;60;Art, per Nietzsche
 thepru;40;Prudential Tower in Boston
 thepunicwars;40
 thepx;20
