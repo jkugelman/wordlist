@@ -75,6 +75,9 @@
 23andMe;60;Genetic testing company
 24/7;50
 24/7/365;60
+24/7 news cycle;60;Investigation and reporting of news, concomitant with fast-paced lifestyles
+24-hour news cycle;60;Investigation and reporting of news, concomitant with fast-paced lifestyles
+24-hour society;60;Modern society in which people can buy goods, work, go to restaurants, etc. all night and all day
 24: Live Another Day;50;2014 limited event television series
 25 or 6 to 4;60;1970 single by Chicago
 2am;40
