@@ -1216,6 +1216,10 @@ Advent calendar;50
 Advent calendars;50
 adverb;50
 adverbs;50
+advertence;30
+advertency;30
+advertent;30
+advertently;30
 advisee;30
 advisees;30
 advisorycouncil;50
