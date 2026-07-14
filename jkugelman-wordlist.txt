@@ -7675,6 +7675,7 @@ bitroles;50
 bitsof;40
 bitte;40;Thanks: Ger.
 bitted;30
+bitten into;40
 bittern;40;Marsh bird
 bitterns;40
 bittersweet;60
