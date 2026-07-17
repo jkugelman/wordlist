@@ -311,9 +311,9 @@ aaugh;40;Charlie Brown cry
 AAVE;40;African-American Vernacular English
 A average;50
 A averages;50
-ab;40
 AB+;40;Blood type
 AB-;40;Blood type
+ab;40
 ABA;40;Bar assoc.
 ABAB;30;Rhyme scheme
 Abacab;40;Genesis album
@@ -4331,6 +4331,9 @@ aseethe;30
 aseptate;40;Without a separating membrane, in biology
 asflat;20
 as for;40
+as God as my witness;60
+as God intended;60
+as God is my witness;60
 asgood;20
 as good as new;60
 ash;50
@@ -5324,6 +5327,7 @@ Azeris;30;Turk ethnic group in Azerbaijan
 azillion;40
 azimuthal;30
 azingers;20
+A'zion;30;Odessa Azion, actress in "Marty Supreme"
 azo;30;Kind of dye [occasional]
 azo dye;30
 azo dyes;30
@@ -10098,6 +10102,7 @@ calles;30
 call for;40
 callfoulon;50
 Callie;30;???
+Callie Khouri;50;Writer of "Thelma & Louise"
 calligram;50
 call in;40
 calling a truce;60
@@ -10494,6 +10499,10 @@ can you see;50
 can you spare a dime?;50
 canyoutell;50
 canzone;30;Italian ballad
+Cao Dai;30;Vietnamese monotheistic religion
+Caodaism;40;Vietnamese monotheistic religion
+Caodaist;40;Believer in Caodaism, a Vietnamese monotheistic religion
+Caodaists;40;Believers in Caodaism, a Vietnamese monotheistic religion
 caoxuepin;50;Cao Xueqin, author of "Dream of the Red Chamber"
 cap;50
 capacitate;40
@@ -16295,6 +16304,8 @@ Deeres;40
 deerskin;50
 deerskins;50
 Dees;30
+Deesha;30;Deesha Philyaw, author of "The Secret Lives of Church Ladies" (2020)
+Deesha Philyaw;50;Author of "The Secret Lives of Church Ladies" (2020)
 Dee Snider;50
 DEET;40;Most common insect repellent
 deets;60
@@ -16363,8 +16374,8 @@ defriended;50
 defs;40
 defyallodds;60
 defyingallodds;60
-defying gravity;60
 Defying Gravity;60;Song from the Broadway musical "Wicked"
+defying gravity;60
 defying the odds;60
 defy the odds;60
 deg;30;Degree
@@ -16517,9 +16528,9 @@ dementorwasps;10;Harry Potter
 dements;30
 demesne;40;Land attached to a manor
 demesnes;40
+Demi;40;Demi Moore, actress
 demi;40
 demi-;40
-Demi;40;Demi Moore, actress
 demibra;50
 demibras;50
 demigod;60
@@ -20254,6 +20265,7 @@ elopement;30
 elopements;30
 eloper;40
 elopers;40
+Elordi;40;Jacob Elordi, Australian actor (born 1997)
 elosretuo;0
 elote;40;Mexican street corn
 ELP;40
@@ -21182,6 +21194,7 @@ eruvin;40;Enclosures allowing activities normally prohibited on Shabbat
 eruvs;40;Enclosures allowing activities normally prohibited on Shabbat
 Ervin;40;Senator Sam Ervin who led the Watergate investigation
 Erwin;40;Erwin Schrödinger, Erwin Rommel
+Erwin Rommel;50;German field marshal in WWII
 Erwin Schrodinger;60
 -ery;20
 erysipelas;30;Skin infection aka St. Anthony's fire
@@ -21297,6 +21310,7 @@ eSIMs;40;Digital SIM cards
 esiotrot;0
 esk;20
 ESL;40
+Esmail;40;Sam Esmail, creator of "Mr. Robot"
 Esme;30
 eso;40
 Eso Beso;50;Paul Anka song
@@ -21513,7 +21527,7 @@ etiolate;30;Deprive of light, as a plant
 etiolated;30;Deprived of light, as a plant
 etiolates;30;Deprive of light, as a plant
 etiolating;30;Depriving of light, as a plant
-Etna;40
+Etna;40;Active volcano on the east coast of Sicily, Italy
 et noir;20
 ETO;20
 etoile;30;Star: Fr.
@@ -25831,6 +25845,7 @@ geometryclass;50
 geometryii;40
 geometryset;50
 geometrysets;50
+Geordi;40
 Georg;40;Mathematician Cantor, composer Solti, and others
 George Bluth Sr.;60;"Arrested Development" character
 George Harrison;60
@@ -28195,6 +28210,8 @@ Guelphs;20
 guerilla;20;Variant spelling
 guerillas;20
 guerillawarfare;20
+guerra;40;Spanish for war
+guerras;40;Spanish for wars
 guerrilla;50
 guerrilla art;60
 guerrilla artist;60
@@ -28321,6 +28338,7 @@ gun shop;50
 gun shops;50
 Guns N' Roses;60
 gun-totin';50
+Guo Pei;40;Chinese fashion designer (born 1967), one of Time's 100 Most Influential People in 2016
 Gupta;40;Sanjay Gupta
 Gurira;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
 Guru Nanak;40;Founder of Sikhism
@@ -31367,6 +31385,11 @@ human history;60
 humbug;60
 humeral;40;Relating to the humerus
 humeri;30
+Hummel;30;Hummel figurine
+Hummel figurine;50;Porcelain figurine
+Hummel figurines;50;Series of porcelain figurines
+Hummels;30;Hummel figurines
+hummels;20
 hummingbirdchick;50
 hummingbirdchicks;50
 hummock;30;Rounded hill
@@ -33879,6 +33902,7 @@ I see your point;60
 Iselin;20
 Iseult;20;Isolde
 ish;40
+I shall not want;60
 I shall play you the song of my people;60
 I shall sing you the song of my people;60
 ishantmincewords;60
@@ -33924,7 +33948,8 @@ islet;50
 islets;50
 isloyalto;30
 ism;40
-Ismail;40;Ismail Haniyeh, leader of Hamas
+Ismail;30;Various people
+Ismail Haniyeh;50;Leader of Hamas 2007-2017
 ismeanttobe;60
 Ismene;30;Antigone's sister
 ismissing;0
@@ -34519,6 +34544,7 @@ I was like;60
 iwasnthere;60
 I was right;60
 I was thinking;60
+Iweala;30;Uzodinma Iweala, Nigerian-American writer
 iwilleatyoualive;60
 iwilleatyouforbreakfast;60
 iwillnot;50
@@ -34611,6 +34637,7 @@ Jack Webb;50
 jackwild;50
 Jaco;40
 Jacobean era;50
+Jacob Elordi;50;Australian actor (born 1997)
 jacobian;40
 Jacobin;40
 Jacobins;40
@@ -35121,6 +35148,7 @@ Jo Frost;50
 jog;50
 johanneshoesflotklaebo;60;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
 johannesklaebo;60;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
+Johann Nepomuk Hummel;50;Austrian composer and pianist (1778-1837)
 john;50
 johnb;30
 John Bonham;60;Led Zeppelin drummer
@@ -35253,6 +35281,7 @@ journey of a thousand miles;60
 Jovi;40
 joy;50
 Joyce Byers;50;"Stranger Things" character played by Winona Ryder
+Joye Hummel;40;Comic book author (1924–2021)
 Joy Harjo;40;Joy Harjo, U.S. Poet Laureate 2019-2022
 joyofsex;60
 joyride;60
@@ -35933,6 +35962,7 @@ khesanh;30;Vietnamese battle
 Khmer;40
 Khmer Empire;50
 khomeini;40
+Khouri;30;Callie Khouri, writer of "Thelma & Louise"
 Khrushchev;50
 Khufu;40;Pharaoh who commissioned the Great Pyramid of Giza
 Khyber;40
@@ -36528,7 +36558,10 @@ Kumail;40;"Silicon Valley" actor Kumail Ali Nanjiani
 Kumar;40
 Kumbaya;60
 kumis;30;Fermented dairy product
-kummels;30;Kummel's disease
+kümmel;20;German for caraway
+Kümmel;20;Kümmel's disease
+Kummel;0
+kummels;20;German caraway liqueurs
 kummelweck;50
 kummelweck roll;50
 kumyz;30;Fermented dairy product
@@ -38478,6 +38511,7 @@ Lily-Rose;50;Lily-Rose Depp, actress in "The Idol" and "Nosferatu"
 Lily-Rose Depp;50;Lily-Rose Depp, actress in "The Idol" and "Nosferatu"
 Lily Tomlin;50
 Lim;40;Calculus abbreviation
+Limahl;20;Eponymous singer of the theme song to "The NeverEnding Story"
 Limbaugh;50;Rush Limbaugh, among others
 limbo bar;60
 limbo bars;60
@@ -39684,7 +39718,11 @@ lud;20
 Ludacris;50
 ludens;30;Throat drops brand
 lue;40;Champion NBA player and coach Tyronn Lue
-Luella;40;???
+Luella;30;Luella Bartley, British fashion designer and journalist (born 1974)
+Luella Bartley;50;British fashion designer and journalist (born 1974)
+Luellas;20;Plural name
+Luella St. Clair Moss;50;One of the first female college presidents in the United States
+Luella St Clair Moss;0
 luff;30;Steer a yacht nearer the wind
 luffed;30
 luffing;30
@@ -40104,10 +40142,10 @@ Madras;30;Indian fabric
 madrases;30;Indian fabrics
 madre;40
 madrepore;30;Stony coral
-madrilena;40
 madrileña;40;Woman in Madrid
-madrilenas;40
+madrilena;40
 madrileñas;40;Women in Madrid
+madrilenas;40
 madrilene;40
 madrileño;40;Madrid resident
 madrileños;40;Madrid residents
@@ -40934,6 +40972,7 @@ Margrethe II;40;Queen of Denmark from 1972 to 2024
 Maria Callas;50;Soprano Maria Callas
 mariachi;60
 mariachis;60
+Maria Innocentia Hummel;50;Franciscan sister (1909–1946), noted for her paintings which were the basis for Hummel figurines
 Mariama;40;Senegalese author Mariama Bâ
 Mariama Ba;40;Senegalese author Mariama Bâ
 marianaislander;50
@@ -40997,6 +41036,7 @@ market share;50
 market shares;50
 markka;40;Finnish currency pre-euro
 mark of shame;60
+Mark O'Meara;50;Retired professional golfer (born 1957)
 marks of shame;60
 Markus;40
 Markus Persson;50;Creator of Minecraft
@@ -43404,6 +43444,7 @@ mountain state;50
 mountain states;50
 Mountain View;60
 Mount Erebus;60
+Mount Etna;50;Active volcano on the east coast of Sicily, Italy
 Mount Everest;60
 mounthoodoregon;50
 Mount Pinatubo;40;Philippine volcano
@@ -43662,6 +43703,7 @@ MT;40
 MTA;40
 mtcook;40;Highest peak in New Zealand
 mtdana;40
+Mt. Etna;50;Active volcano on the east coast of Sicily, Italy
 mteverest;60
 MTG;20
 mthatha;30;South Africa city formerly known as Umtata where Nelson Mandela comes from
@@ -45168,8 +45210,8 @@ Nile River;50
 nilgai;20;Antelope
 Nilla;40
 nilotic;30
-Nils;40
 nils;40;Zeros
+Nils;40
 Nils Lofgren;50;E Street Band guitarist
 Nilsson;40;Harry Nilsson, "Everybody's Talkin'" singer
 Nim;20
@@ -46731,9 +46773,14 @@ Odense;30;Danish port
 odeon;40
 odeons;40
 Odessa;50;City in Ukraine or Texas
-odessan;40
-odessans;40
-odessatx;40
+Odessa A'zion;50;Actress in "Marty Supreme"
+Odessa File;50;1972 novel by Frederick Forsyth, with "The"
+Odessan;40
+Odessans;40
+Odessa, Texas;50
+Odessa Texas;0
+Odessa, TX;30
+Odessa, Ukraine;50
 Odets;40;Prominent playwright Clifford Odets
 Odetta;40;One-named singer praised by Rosa Parks and MLK
 Odette;40;"Swan Lake" heroine
@@ -46808,6 +46855,7 @@ ofanera;40
 ofbad;20
 of biblical proportions;60
 of course, of course;50
+Ofelia;30
 off;50
 offcut;40;Leftover material (wood, fabric, etc.)
 offcuts;40
@@ -46981,6 +47029,8 @@ Oh What a Night;0
 oh whatever;60
 oh what the heck;60
 oh what the hell;60
+oh, who am I kidding?;60
+oh who am I kidding;0
 ohwhynot;60
 oh woe is me;50
 oh you're bad;60
@@ -47312,7 +47362,8 @@ omasum;30;Third stomach of a ruminant
 OMB;20
 OMD;20
 ome;20
-O'Meara;40;Golfer Mark O'Meara
+O'Meara;40;Mark O'Meara, retired professional golfer (born 1957)
+O'Mearas;20;Plural name
 omegas;40
 omened;30;Only useful as a partial like ill-omened??? Not used post-Shortz
 Omen II;30
@@ -50628,6 +50679,7 @@ Phil Silvers;40;He played Sgt. Bilko
 philter;30;Love potion
 philters;30;Love potions
 philtrum;30;Lip cleft
+Philyaw;30;Deesha Philyaw, author of "The Secret Lives of Church Ladies" (2020)
 phimeson;50
 phimesons;50
 pH indicator;50
@@ -51029,8 +51081,8 @@ Pinkett;50
 pinkflamingo;50
 Pink Flamingos;50
 pink flirtini;60;Raspberry vodka cocktail
-pinkflirtinis;60
 pink flirtinis;60;Raspberry vodka cocktails
+pinkflirtinis;60
 pink gin;50
 pinkiepromise;60
 pinkieswear;60
@@ -53332,8 +53384,9 @@ puckerpies;50
 pud;20
 puddy;40;"Seinfeld" character
 Pudi;40;Actor Danny Pudi
-Puebla;40
+Puebla;40;State of Mexico
 Puebla de Zaragoza;50;Metropolis in Puebla, Mexico
+Puebla, Mexico;50;State of Mexico
 puerperal;20;Medical word
 Puerto;40
 Puerto Rican;60
@@ -55920,6 +55973,7 @@ reptilian;50
 republicanguard;50
 Republican Party;50
 republicans;50
+Republic of Sierra Leone;60
 req;40
 req'd;40
 reqs;40
@@ -56736,8 +56790,8 @@ rightfit;20;Green paint
 rightfromcentralcasting;60
 right-handed pitcher;50
 right-handed pitchers;50
-right hand man;60
 Right Hand Man;60;"Hamilton" song
+right hand man;60
 right hand men;60
 right in the feels;60
 right-justified;50
@@ -57355,6 +57409,7 @@ romatomatosauce;50
 Rome Italy;50
 romeooromeo;50
 romeros;20
+Rommel;40;Erwin Rommel, German field marshal in WWII
 Romo;40
 romper room;50;Old kids' show
 Ron;50
@@ -58478,6 +58533,7 @@ Sam Eagle;50;Muppet
 same as;40
 samedis;20;French Saturdays
 samename;30;Reality show that lasted 4 episodes
+Sam Esmail;50;Creator of "Mr. Robot"
 Same Time Next Year;60
 sametoyoupal;60
 sameyness;60
@@ -59149,6 +59205,7 @@ scoleco;20
 scollop;20;Variant of scallop
 scolloped;20;Variant of scalloped
 scollops;20;Variant of scallops
+Scomberomorus sierra;20;Species of fish
 scooba;20;Discontinued Roomba sibling
 scoobas;20;Discontinued Roomba siblings
 scooch over;60
@@ -61293,8 +61350,11 @@ siemens;30
 Siena;40;Italian city
 Sienese;30;From Siena, Italy / Renaissance school of painting
 siepi;20
-Sierra Club;50
+Sierra Club;60;Environmental organization
+Sierra Leone monetary unit;0
 Sierra Mist;60
+Sierra Nevada;50;Mountain range in the Western United States
+Sierra Nevadas;50;Mountain range in the Western United States
 siesta;50
 siete;40
 Sif;30;Norse goddess, wife of Thor
@@ -61505,7 +61565,10 @@ simbas;20
 Similac;40;Infant formula brand
 simile;50
 simms;40
-simnel;40;British fruitcake
+simnel;30;Layered fruitcake eaten in the UK and Ireland
+simnel cake;40;Layered fruitcake eaten in the UK and Ireland
+simnel cakes;40;Layered fruitcakes eaten in the UK and Ireland
+simnels;30;Layered fruitcakes eaten in the UK and Ireland
 Simona;40;Star tennis player Simona Halep
 Simon and Garfunkel;60;1960s folk duo
 simones;30
@@ -63281,6 +63344,8 @@ sooner rather than later;60
 Sooner State;50
 Soong;20
 soongs;20
+Soon-Yi;40;Soon-Yi Previn, third wife of Woody Allen (born 1970)
+Soon-Yi Previn;50;Third wife of Woody Allen (born 1970)
 sooo;20
 sooth;40;Truth, archaically
 soother;30
@@ -68986,6 +69051,8 @@ thelittledipper;40
 The Little Prince;60
 The Little Rascals;50
 thelittleredbook;30
+Thelma and Louise;60
+Thelma & Louise;60
 The Lobster;60;Oscar-nominated Yorgos Lanthimos film
 thelochnessmonster;20
 thelondoneye;40
@@ -68996,6 +69063,9 @@ The Lone Star State;50
 thelongcon;30
 The Longest Yard;50
 The Long Goodbye;50
+The Lord is my shepherd;60;Psalm 23 of the Book of Psalms
+The Lord is my shepherd, I shall not want;60;Psalm 23:1
+the Lord is my witness;60
 The Lord of the Rings;60
 The Lord of the Rings: The Fellowship of the Ring;60
 The Lord of the Rings: The Return of the King;60
@@ -69127,6 +69197,7 @@ The Nutcracker;60
 The Nutcracker Suite;60
 The Nutty Professor;60
 The Oatmeal;50
+The Odessa File;50;1972 thriller novel by Frederick Forsyth
 theodicy;30
 Theodora;40;???
 Theodore Sturgeon;50
@@ -69346,6 +69417,8 @@ The Shootist;50
 the show must go on;60
 thesiciliandefence;30;???
 thesiciliandefense;50
+the Sierra Club;40
+the Sierra Nevada;40
 thesierras;40
 thesilentgeneration;60
 thesilenttreatment;60
@@ -69447,6 +69520,7 @@ thetowerofhanoi;60
 thetoweroflondon;60
 thetowerofterror;60
 The Traveling Wilburys;60
+The Treasure of the Sierra Madre;60;1927 adventure novel / 1948 film
 thetremeloes;40;1960s beat group (?)
 thetrib;20
 thetribe;50;???
@@ -71489,6 +71563,7 @@ treasure hunts;60
 Treasure Island;60
 treasure map;60
 treasure maps;60
+Treasure of the Sierra Madre;60;1927 adventure novel / 1948 film, with "The"
 treatas;40
 treatedas;40
 treated to;40
@@ -73507,6 +73582,8 @@ using up;50
 usm;20
 USMA;40;West Point
 usmagazine;50
+U.S. Mail;50;Another name for the USPS (United States Postal Service)
+US Mail;0
 US map;30
 US maps;30
 US Marine;50
@@ -73660,6 +73737,8 @@ Uzi;40
 uzielgal;50;Uziel Gal, inventor of the Uzi
 Uzis;40
 Uzo;40;Uzo Aduba, actress on "Orange is the New Black"
+Uzodinma;30;Uzodinma Iweala, Nigerian-American writer
+Uzodinma Iweala;50;Nigerian-American writer
 V;40
 VA;40
 vac;40
@@ -74075,8 +74154,8 @@ viewedas;40
 viewers like you;60
 viewingas;40
 viewsas;40
-Vig;40
 vig;40;Charge taken on bets, as by a bookie or gambling establishment.
+Vig;40
 vigny;20;Alfred de ___
 VII;30
 VIII;30
@@ -75810,8 +75889,18 @@ White Zins;50
 Whitsun;40;British name for the Christian holy day of Pentecost
 Whitsuntide;40;Week following Whitsun
 who;50
-who am I;60
-who am I kidding;60
+who am I?;50
+who am I;0
+who am I kidding?;60
+who am I kidding;0
+who am I to argue?;60
+who am I to argue;0
+who am I to disagree?;50
+who am I to disagree;0
+who am I to judge?;60
+who am I to judge;0
+who am I to say?;60
+who am I to say no?;50
 whoanellie;60
 whoa Nelly;60
 whoa whoa;60
