@@ -3914,6 +3914,7 @@ are you hearing yourself right now;0
 areyouinsane;60
 are you kidding;60
 are you mad;60
+are you me?;60
 areyounuts;60
 areyouopen;60
 areyououtofyourmind;60
