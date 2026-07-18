@@ -35641,6 +35641,7 @@ Kate Mara;60
 katepierson;50;B-52s singer
 Kate Spade;50
 katharsis;30
+Katie Melua;50;British singer (born 1984)
 Katmai;20;Alaska park
 Kato;40
 katsu;40;Pork katsu
@@ -41898,6 +41899,7 @@ meltingface;60;Emoji
 meltingfaceemoji;60
 meltingfaceemojis;60
 Melton;20
+Melua;30;Katie Melua, British singer (born 1984)
 mem;20
 memaine;0
 memberdirectory;50
@@ -46860,6 +46862,7 @@ ofaman;0
 ofanera;40
 ofbad;20
 of biblical proportions;60
+OFC;30;Of course [NYT debut]
 of course, of course;50
 Ofelia;30
 off;50
@@ -73695,6 +73698,7 @@ Utahns;50
 UT Austin;40
 UTC;30
 Ute;40
+Utena;30
 uteri;40
 utero;40
 Utes;40
