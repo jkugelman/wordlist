@@ -589,6 +589,10 @@ abubble;30
 Abu Dhabi;60
 abuela;40
 abuelas;40
+abuelita;40
+abuelitas;40
+abuelito;40
+abuelitos;40
 abuelo;40
 abuelos;40
 Abuja;40;Capital of Nigeria
