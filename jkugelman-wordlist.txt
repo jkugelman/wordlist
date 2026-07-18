@@ -40844,6 +40844,7 @@ Man U;40;Manchester United
 manual labor;50
 manual laborer;50
 manual laborers;50
+manual or technical laborer;0
 manubrium;30
 manuffaacctture;0
 manumission;30
@@ -67836,6 +67837,9 @@ tech bro;60
 tech bros;60
 techceo;60
 techceos;60
+tech debt;60
+tech demo;60
+tech demos;60
 tech industry;50
 techipo;40
 techipos;40
@@ -67843,8 +67847,28 @@ techmogul;50
 techmoguls;50
 Technic;40;Lego line for advanced models
 technic;20;Technique
-technicalissue;50
+technicaladviser;0
+technical advisor;60
+technical advisors;60
+technical consultant;60
+technical consultants;60
+technical debt;60
+technical editing;50
+technical editor;50
+technical editors;50
+technical expert;50
+technical expertise;50
+technical experts;50
+technical foul;60
+technical fouls;60
+technical issue;50
 technical issues;50
+technical knockout;60
+technical knockouts;60
+technical support;60
+technical writer;60
+technical writers;60
+technical writing;60
 technicolor dreamcoat;60
 technics;20;Techniques
 techno beat;50
@@ -73263,6 +73287,7 @@ unsubbing;50
 unsubs;50
 unsweetened;50
 untar;20;Extract a tar archive
+untechnical;50
 untidier;30
 untiedshoelace;60
 untiedshoelaces;60
@@ -76307,9 +76332,11 @@ Winnie-the-Pooh;60
 winninganoscar;50
 winning a prize;50
 winningat;40
+winning on a technicality;60
 winningsilver;50
 wino;10
 Winona Ryder;60
+win on a technicality;60
 winos;10
 winsanoscar;50
 wins a prize;50
@@ -76319,6 +76346,7 @@ winsilver;50
 winsit;20
 winsomer;30
 winsomest;30
+wins on a technicality;60
 winssilver;50
 Winston Churchill;60
 Winston-Salem NC;50
@@ -76495,6 +76523,7 @@ wonderer;30
 wonderers;30
 Wong;40
 wonit;20
+won on a technicality;60
 wonone;0
 wonsilver;50
 wonted;30;Habitual: Literary
