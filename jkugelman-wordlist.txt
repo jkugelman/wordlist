@@ -1531,7 +1531,7 @@ agnates;20
 agnatic;30;???
 Agnes Denes;50;Conceptual artist based in New York City
 Agnes Varda;40;Director Rex loves (see 11/6/24)
-Agni;40;Hindu fire god
+Agni;30;Hindu fire god
 agnolotti;40;Stuffed pasta
 agnomen;20
 agnomens;20
