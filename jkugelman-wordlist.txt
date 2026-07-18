@@ -73687,7 +73687,7 @@ USWNT;40;US Women's National Team (soccer)
 usx;20
 ut;40
 Uta;40;Actress Hagen
-Utada;40;Mononymous Japanese pop singer and producer (born 1983)
+Utada;30;Mononymous Japanese pop singer and producer (born 1983)
 Utahan;40;Commonly used by outsiders, Utahn is preferred by Utahns
 Utahans;40
 Utahn;50;One from Utah
