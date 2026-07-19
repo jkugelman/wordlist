@@ -67325,11 +67325,13 @@ talentsearch;60
 talent show;60
 talent shows;60
 taleof;20
+tale of woe;60
 taler;20;Old coin
 talers;20
 talesman;20;Person added to a jury
 talesmen;20;Persons added to a jury
 Tales of Dune;60;Short story collection by Frank Herbert
+tales of woe;60
 Talia;40
 talias;30
 Talib;30;Name
