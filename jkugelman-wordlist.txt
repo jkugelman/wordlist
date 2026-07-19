@@ -9893,6 +9893,7 @@ byronnelson;40;Legendary golfer
 bys;20
 bysex;30
 Bysshe;30;Poet Percy Bysshe Shelley
+by the same token;60
 By the Sea;50
 BYU;40
 Byzantine;50
@@ -15818,6 +15819,8 @@ data analysts;50
 datable;30
 data breach;60
 data breaches;60
+data compression algorithm;50
+data compression algorithms;50
 data dump;60
 data dumps;60
 datakey;50
@@ -31578,6 +31581,11 @@ I admit it;60
 ial;30;Suffix [occasional]
 ialone;50
 I am;50
+I Am America;60;"I Am America (And So Can You!)", 2007 satirical book by Stephen Colbert
+I Am America (And So Can You!);50;2007 satirical book by Stephen Colbert
+I Am America And So Can You;0
+I am, am I?;40
+I am am I;0
 I am aware of that;60
 iambi;40
 iambic pentameter;60
@@ -33269,6 +33277,7 @@ inner workings;50
 Innes;30;Last name of various
 Inness;20;Painter George
 Innis;20;Black activist Roy
+in no case;50
 in no time;60
 in no time flat;60
 In-N-Out;60
@@ -36248,6 +36257,8 @@ Klaatu;40;"The Day the Earth Stood Still" alien, or his phrase "klaatu barada ni
 Klaebo;40;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
 Klamath;20
 klan;10
+Klara;30
+Klara and the Sun;50;2021 dystopian sci-fi novel by Kazuo Ishiguro
 Klaus Nomi;40;German countertenor (1944–1983)
 Klay;40;4x N.B.A. champion Klay Thompson
 Kleban;40;???
@@ -42395,6 +42406,8 @@ Mike Patton;50
 mikeportnoy;50
 Mike Wheeler;50;"Stranger Things" kid played by Finn Wolfhard
 miking;50
+Mikis;30;Mikis Theodorakis, Greek composer (1925–2021)
+Mikis Theodorakis;50;Greek composer (1925–2021)
 Mikkelsen;40;Actor Mads Mikkelsen
 mil;40
 Mila;40
@@ -54370,6 +54383,8 @@ raked it in;50
 rake it in;50
 rakeoff;30;Cut taken by an operator
 rakes it in;50
+rakhi;20
+rakhis;20
 raking it in;50
 ral;20
 raleighnc;30
@@ -58232,6 +58247,11 @@ Sabre;40;British spelling, or Buffalo hockey player
 sabrinalebeauf;40;Sabrina Le Beauf from "The Cosby Show"
 sabut;0
 sac;50
+Sacagawea;60
+Sacagawea golden dollar;60
+Sacagawea golden dollars;60
+Sacagaweas;50;Certain gold dollar coins
+Sacajawea;50;Alternative form of Sacagawea
 sacajjaawwea;0
 sacamaindevoyage;50;Hermès's Kelly bag, formerly (sac à main de Voyage)
 saccule;30;Inner ear organ
@@ -58492,6 +58512,10 @@ salesdrives;60
 sales force;50
 sales forces;50
 salesian;30;???
+sales lead;50
+sales leader;60
+sales leaders;60
+sales leads;50
 sales quota;50
 sales quotas;50
 sales tax;60
@@ -58602,6 +58626,7 @@ samedis;20;French Saturdays
 samename;30;Reality show that lasted 4 episodes
 Sam Esmail;50;Creator of "Mr. Robot"
 Same Time Next Year;60
+same token;50
 sametoyoupal;60
 sameyness;60
 samgoody;50
@@ -66932,6 +66957,7 @@ tackle box;50
 tackle boxes;50
 tackonto;40
 tacksonto;40
+taco al pastor;60
 taco bar;60
 taco bars;60
 taco dorado;50;Golden taco
@@ -66944,6 +66970,9 @@ taco nights;60
 taconite;20;Iron ore
 taco pie;40
 taco pies;40
+taco salad;60
+taco salads;60
+tacos al pastor;60
 taco sauce;50
 taco sauces;50
 tacos dorados;50;Golden tacos
@@ -67027,6 +67056,7 @@ Tajikistani;50
 Tajikistanis;50
 Tajin;30;Mexican spice
 tak;20
+takatāpui;40;LGBT people in Māori culture
 take a bath;50
 takeabathon;60
 takeabus;30
@@ -67035,6 +67065,7 @@ take action;50
 takeacue;40
 take a cue from;50
 take a cut;50
+take a dip;60
 take a dislike to;50
 take a dive;50
 take after;50
@@ -67076,7 +67107,9 @@ take him away boys;60
 Takei;40;"Star Trek" actor George Takei
 take in;40
 takeinvain;50
+take it all in;60
 take it easy;60
+take it in;50
 take it slow;50
 takeitto;0
 takeittothegrave;60
@@ -67118,6 +67151,7 @@ takes action;50
 takesacue;40
 takes a cue from;50
 takes a cut;50
+takes a dip;60
 takes a dislike to;50
 takes a dive;50
 takes after;50
@@ -67154,6 +67188,8 @@ takesiesbacksies;60
 takesign;50
 takes in;40
 takesinvain;50
+takes it all in;60
+takes it in;50
 takesittothegrave;60
 takes liberties;50
 takes on;40
@@ -67206,6 +67242,7 @@ taking action;50
 takingacue;40
 taking a cue from;50
 taking a cut;50
+taking a dip;60
 taking a dislike to;50
 taking a dive;50
 taking after;50
@@ -67235,6 +67272,8 @@ taking flak;50
 taking from;40
 taking heat from;50
 takinginvain;50
+taking it all in;60
+taking it in;50
 takingittothegrave;60
 taking liberties;50
 taking on;40
@@ -70157,6 +70196,11 @@ Tia Marias;40
 Tiana;40;???
 tiaraed;30
 tias;40
+Tiber;40
+Tiberian;40
+Tiberias;40;City in northern Israel, one of Judaism's Four Holy Cities
+Tiberius Claudius Drusus Nero Germanicus;40
+Tiberius Claudius Nero Caesar Augustus;50;Full name of the Roman emperor Tiberius
 Tibetan monk;50
 Tibetan monks;50
 tibetanox;50
@@ -70941,6 +70985,7 @@ took action;50
 tookacue;40
 took a cue from;50
 took a cut;50
+took a dip;60
 took a dislike to;50
 took a dive;50
 took after;50
@@ -70972,7 +71017,9 @@ took from;40
 took heat from;50
 took in;40
 tookinvain;50
+took it all in;60
 took it easy;60
+took it in;50
 tookittothegrave;60
 took liberties;50
 took on;40
@@ -75789,6 +75836,7 @@ whatishesmoking;60
 whatisshesmoking;60
 what is that supposed to mean;60
 what is this place;60
+what it is is;20
 what just happened;60
 what me worry;60
 whatnotevenathankyou;60
