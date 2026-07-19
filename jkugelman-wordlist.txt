@@ -66993,6 +66993,9 @@ tactual;30
 tactually;30
 tad;50
 ta-das;30
+Tadej;30;Tadej Pogačar, Slovenian cyclist (born 1998) with four Tour de France victories
+Tadej Pogačar;50;Slovenian cyclist (born 1998) with four Tour de France victories
+Tadej Pogacar;0
 Tad Lincoln;50
 tadpole;50
 tadpoles;50
