@@ -1528,13 +1528,15 @@ aglimmer;40
 agn;20
 agnate;20
 agnates;20
-agnatic;30;???
+agnatic;20
+agnation;20
 Agnes Denes;50;Conceptual artist based in New York City
 Agnes Varda;40;Director Rex loves (see 11/6/24)
 Agni;30;Hindu fire god
 agnolotti;40;Stuffed pasta
-agnomen;20
-agnomens;20
+agnomen;30;Optional nickname in the Roman Republic
+agnomens;30;Optional nicknames in the Roman Republic
+agnomina;30;Optional nicknames in the Roman Republic
 agnosia;20;Inability to interpret sensations
 ago;50
 agoner;40;Toast
@@ -1980,6 +1982,10 @@ alegup;40
 Aleichem;40;Hebrew greeting "shalom aleichem"
 Aleister;40
 Aleister Crowley;60
+Alejandro G. Iñárritu;60;Filmmaker (born 1963)
+Alejandro González Iñárritu;60;Filmmaker (born 1963)
+Alejandro Gonzalez Inarritu;0
+Alejandro Iñárritu;50;Alejandro González Iñárritu, filmmaker (born 1963)
 Alek;40
 alekeg;30
 alekegs;30
@@ -18037,6 +18043,8 @@ donated to;40
 donates to;40
 donate to;40
 donating to;40
+donative;30
+donatives;30
 Doncic;40;NBA star player Luka Dončić (2018-present)
 donde esta la biblioteca;60
 donealready;60
@@ -26440,6 +26448,8 @@ gin martini;50
 gin martinis;50
 Ginnie;40
 Ginny;40
+Ginóbili;40;Manu Ginóbili, Hall of Fame San Antonio Spurs player (2002-18) with four NBA championships
+Ginobili;0
 ginos;30
 ginsengs;40
 Ginza;40;Tokyo shopping district
@@ -26898,6 +26908,7 @@ goes IPO;30;Not a real phrase
 goes kaput;60
 goes mad;50
 goesmadfor;40
+goes native;60
 goes numb;50
 goesobsolete;50
 goesoffkilter;50
@@ -27030,6 +27041,7 @@ going IPO;30;Not a real phrase
 going kaput;60
 going mad;50
 goingmadfor;40
+going native;60
 going numb;50
 goingobsolete;50
 goingoffkilter;50
@@ -27183,6 +27195,7 @@ gon;20
 gonad;40
 gonadal;40
 gonads;40
+go native;60
 gondorff;40;Paul Newman's "The Sting" character Henry Gondorff
 gondwanan;50
 goneahead;40
@@ -27207,6 +27220,7 @@ gonein;40
 goneinaninstant;60
 goneinto;40
 goneloco;40
+gone native;60
 goneoffkilter;50
 goneon;40
 goneout;40
@@ -29890,10 +29904,13 @@ hen parties;60
 hen party;60;Bachelorette party in Britain
 Henreid;40;Paul Henreid who played Victor Laszlo in "Casablanca"
 Henriad;40;Series of Shakespeare plays (Richard II, Henry IV Parts 1&2, Henry V)
+Henri II;30
+Henri III;30
 Henri Poincare;50
 henryhyde;40;House rep Henry Hyde (R-IL, 1975-2007)
 Henry I;40
 Henry II;30
+Henry III;30
 Henry James;60;American and British writer (1843–1916)
 Henry Jekyll;60
 Henry Jones Jr;60
@@ -32797,6 +32814,8 @@ inarabic;30
 inarightpickle;60
 in armor;40
 inarms;40
+Iñárritu;50;Alejandro González Iñárritu, filmmaker (born 1963)
+Inarritu;0
 inarug;30;Snug as a bug...
 in a rush;50
 inashell;30
@@ -33226,7 +33245,11 @@ in my day;60
 inmyroom;50;Beach Boys song
 inn;50
 in name only;50
+innaritu;0
 innateness;40
+innatism;50;View that the mind is born with certain ideas or knowledge, as opposed to "blank slate" or tabula rasa
+innatist;50;Supporter of innatism, the view that the mind is born with certain ideas or knowledge, as opposed to "blank slate" or tabula rasa
+innatists;50;Supporters of innatism, the view that the mind is born with certain ideas or knowledge, as opposed to "blank slate" or tabula rasa
 inner circle;50
 inner ear;50
 inner ears;50
@@ -36085,6 +36108,7 @@ King Arthur;50
 King Boo;60
 King Crimson;60
 King David;50
+King Henry III;40
 kinginthecastle;60
 King James Version;60
 King Joffrey;50
@@ -36943,6 +36967,8 @@ lands up;40
 land up;40
 land war;60
 land wars;60
+lane diet;60;Reduction in lane count/width to decrease accidents
+lane diets;60;Reductions in lane count/width to decrease accidents
 lanefive;20
 lane hog;60
 lane hogs;60
@@ -37936,8 +37962,13 @@ Lenexa;20;Kansas city, birthplace of Garmin
 L'Enfant;40
 L'Engle;40;Madeleine L'Engle
 leniencyerror;60;Cognitive bias
+Leninite;50;Supporter of Lenin
+Leninites;50;Supporters of Lenin
 lenins;30;Lenin's tomb
 Lenin's Tomb;50
+lenition;40;Weakening of articulation causing a consonant to become lenis (soft)
+lenitive;30
+lenitives;30
 lenity;40;Kindness/gentleness, literary
 Lennie;40;Various: "Of Mice and Men", "Law and Order", others
 Lennon-McCartney;60
@@ -39813,6 +39844,8 @@ lunar rovers;60
 lunar year;60
 lunar years;60
 lunate;40;Crescent-shaped, or a wrist bone
+lunation;30;Irregular period from one new moon until the next
+lunations;30;Irregular periods from one new moon until the next
 lunchbox;60
 lunchboxes;60
 lunch break;50
@@ -40860,6 +40893,8 @@ manual laborers;50
 manual or technical laborer;0
 manubrium;30
 manuffaacctture;0
+Manu Ginóbili;50;Hall of Fame San Antonio Spurs player (2002-18) with four NBA championships
+Manu Ginobili;0
 manumission;30
 manumissions;30
 manumit;30;Release from slavery
@@ -42567,6 +42602,8 @@ minor in;40
 minoring in;40
 minor injuries;50
 minor injury;50
+Minorite;30;Franciscan, friar of the Order of Friars Minor
+Minorites;30;Franciscans, friars of the Order of Friars Minor
 minority leaders;50
 minor planet;50
 minor planets;50
@@ -45621,6 +45658,8 @@ nonlicit;20
 nonmale;20
 nonmotile;40
 nonoise;40
+nonomino;40;Geometric shape formed from nine squares
+nonominoes;40;Geometric shapes formed from nine squares
 no-nonsense;60
 nonoptional;50
 nonoptionally;50
@@ -54418,6 +54457,7 @@ ranaclosesecondto;50
 ranafoul;50
 ran a light;50
 ran along;50
+ran a mile;50;Fled: UK idiom
 ranascam;50
 ran at;40
 ran a tab;50
@@ -57096,6 +57136,8 @@ roaches;50
 roaching;40
 road;50
 road bike;50
+road diet;60;Reduction in lane count/width to decrease accidents
+road diets;60;Reductions in lane count/width to decrease accidents
 roadends;30
 roadeo;40
 roader;30;Partial
@@ -57901,6 +57943,7 @@ runafoul;50
 run a light;50
 run along;50
 run along now;60
+run a mile;50;Flee: UK idiom
 run as administrator;60
 runascam;50
 run at;40
@@ -57935,6 +57978,7 @@ runneth;40
 running a close second;60
 runningaclosesecondto;50
 running a light;50
+running a mile;50;Fleeing: UK idiom
 runningascam;50
 runningat;40
 running a tab;50
@@ -57990,6 +58034,7 @@ runs a close second;60
 runsaclosesecondto;50
 runs a light;50
 runs along;50
+runs a mile;50;Flees: UK idiom
 runsascam;50
 runs at;40
 runs a tab;50
@@ -58668,6 +58713,8 @@ sangeet;40;Indian wedding celebration
 sangfor;20
 sang like a canary;60
 sangof;40
+sangrita;40;Mexican non-alcoholic drink
+sangritas;40;Mexican non-alcoholic drinks
 sang to;40
 Sanhedrin;40;Supreme legislative and judicial body in ancient Israel
 Sanibel;40;Florida island/city
@@ -64960,6 +65007,8 @@ steel guitar;50
 steel guitars;50
 steelie;40;Type of marble
 steelies;40
+steel magnate;50
+steel magnates;50
 steelman;60
 steelspike;30
 steelspikes;30
@@ -65509,10 +65558,18 @@ straightenyourselfout;60
 straightfromcentralcasting;60
 straight out of central casting;60
 strainat;40
+strain at a gnat;50;Concern oneself with something unimportant
+strain at gnats;50;Concern oneself with something unimportant
 strain credulity;60
 strainedat;40
+strained at a gnat;50;Concerned oneself with something unimportant
+strained at gnats;50;Concerned oneself with something unimportant
 strainingat;40
+straining at a gnat;50;Concerning oneself with something unimportant
+straining at gnats;50;Concerning oneself with something unimportant
 strainsat;40
+strains at a gnat;50;Concerns oneself with something unimportant
+strains at gnats;50;Concerns oneself with something unimportant
 straitartist;0
 straiten;30
 straitened;30
@@ -75493,6 +75550,7 @@ went IPO;30;Not a real phrase
 went kaput;60
 went mad;50
 wentmadfor;40
+went native;60
 went nowhere;60
 went numb;50
 wentobsolete;50
