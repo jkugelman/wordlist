@@ -1825,6 +1825,7 @@ aislopvideo;60
 aislopvideos;60
 ait;20
 AITA;20
+Ai Weiwei;50;Chinese conceptual artist and dissident (born 1957)
 Aix;20
 Aja;40;WNBA four-time MVP A'ja Wilson, or a Steely Dan album
 ajcook;40;"Criminal Minds" actress A. J. Cook
@@ -6025,6 +6026,8 @@ bar-b-q;40
 bar-b-qs;40
 barcade;60
 barcades;60
+bar chord;60
+bar chords;60
 barcode scanner;50
 barcode scanners;50
 barcoding;50
@@ -6140,6 +6143,8 @@ barques;30
 Barr;40
 Barra;20;Scottish island
 barratry;30;Legal term, vexatious litigation
+barre chord;60
+barre chords;60
 barred the door;50
 barredthedoors;50
 barrel-aged;60
@@ -18788,6 +18793,7 @@ Dr Joyce Brothers;50
 drk;20;Baseball nickname
 drlaura;10
 Dr Livingstone I presume;60
+DRM;30;Digital rights management
 Drndić;30;Daša Drndić, Croatian writer
 Drndic;0
 droctopus;60
