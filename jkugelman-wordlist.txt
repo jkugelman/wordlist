@@ -5937,6 +5937,7 @@ bankers;50
 bankersbox;50
 bankersboxes;50
 bankershours;50
+Ban Ki-moon;50;UN Secretary-General from 2007 to 2016
 bankin;40
 bankingin;40
 Bankman-Fried;50;Cryptobro Sam Bankman-Fried
@@ -36102,6 +36103,7 @@ kimmelweckroll;50
 Kimmy;50
 kimng;40;M.L.B. executive Kim Ng
 kimohara;20
+Ki-moon;40;Ban Ki-moon, UN Secretary-General from 2007 to 2016
 kimraver;50
 kimye;40;Kim/Kanye
 kin;50
@@ -50563,6 +50565,7 @@ pesterer;40
 pesterers;40
 pet;50
 PETA;40
+Pétain;30;Philippe Pétain, French general and dictator (1856–1951)
 petaloid;40
 petal pink;60;Shade of pink
 Petaluma;40;California city
@@ -50746,6 +50749,7 @@ pH factor;50
 phfactors;50
 phi;50
 Phidias;30;Greek sculptor
+Philippe Pétain;50;French general and dictator (1856–1951)
 Philip Pirrip;50;AKA Pip, "Great Expectations" narrator
 Phillie Phanatic;60
 Phillips head screwdriver;50
@@ -75464,6 +75468,8 @@ weirdos;60
 weirs;40
 Weiwei;40;Chinese documentarian/activist Ai Weiwei
 Wek;40;Supermodel Alek Wek
+weka;20
+wekas;20
 welcome mat;50
 welcome mats;50
 welcomer;30
@@ -77475,7 +77481,7 @@ yes man;60
 yes master;50
 yes men;60
 yesmlady;50
-yesmom;60
+yes mom;50
 yesmyson;60
 yes-no question;60
 yes no question;0
