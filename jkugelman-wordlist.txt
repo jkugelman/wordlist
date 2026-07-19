@@ -7058,6 +7058,7 @@ Ben Okri;50;Nigerian-born British poet and novelist
 benstein;50
 benthos;20
 bentonite;30;Type of clay
+benvenuti;50;"Welcome" in Italian
 benzoin;20
 beone;20
 bepolite;60
@@ -25803,6 +25804,7 @@ General Tso's;60
 General Tso's chicken;60
 generalusgrant;50
 generative AI;60
+Generica;30;Generic + America: features of the landscape such as fire hydrants, letterboxes, fast-food chains, and streets named Main, etc., that are the same throughout the United States
 generis;40;Sui generis
 Genesee;30;New York river
 genet;40;Playwright Jean Genet
@@ -46958,6 +46960,8 @@ officinal;30
 offings;30
 off-leash dog park;50
 off-leash dog parks;50
+offroad bike;60
+offroad bikes;60
 offshoredriller;50
 offshoredrillers;50
 offshore drilling;50
@@ -57157,7 +57161,8 @@ roached;40
 roaches;50
 roaching;40
 road;50
-road bike;50
+road bike;60
+road bikes;60
 road diet;60;Reduction in lane count/width to decrease accidents
 road diets;60;Reductions in lane count/width to decrease accidents
 roadends;30
@@ -74139,6 +74144,8 @@ venula;30;Tiny vein
 venule;30;Tiny vein
 venules;30;Tiny veins
 Venus;50
+Venutian;50
+Venutians;50
 ver;20
 Vera Drew;30
 verandaed;30
