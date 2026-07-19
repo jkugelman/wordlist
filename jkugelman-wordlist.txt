@@ -3181,7 +3181,7 @@ Anne Boleyn;50
 Anne Heche;50
 annelid;20;Worm phylum
 annelids;20;Worm phylum
-Anne Rice;50
+Anne Rice;60;Author of "Interview with the Vampire" et al.
 Anne Tyler;50
 anni;30
 Annie Hall;60
@@ -37528,6 +37528,14 @@ ldr;20
 LDS;40
 lea;50
 Leacock;40;Early 1900s humorist Stephen Leacock
+lead acetate;40
+lead-acid;50;Rechargeable battery type often used in motor vehicles
+lead-acid batteries;50;Rechargeable battery type often used in motor vehicles
+lead–acid battery;50;Rechargeable battery type often used in motor vehicles
+lead actor;60
+lead actors;60
+lead actress;60
+lead actresses;60
 lead apron;50
 lead aprons;50
 lead by example;60
@@ -39333,6 +39341,8 @@ looming large;60
 loom large;60
 Loompa;40
 looms large;60
+loonie bar;50;Canadian wedding or event bar where guests pay $1 or $2 for drinks
+loonie bars;50;Canadian wedding or event bars where guests pay $1 or $2 for drinks
 loop back;50
 looped back;50
 loopgnimmiws;0
@@ -39524,6 +39534,8 @@ loudreports;50
 loud tie;60
 loud ties;60
 louella;40;Old Hollywood gossip Louella Parsons (1881-1972)
+Lou Henry Hoover;50;First Lady of the United States from 1929 to 1933
+Lou Hoover;50;First Lady of the United States from 1929 to 1933
 louies;40;Lieutenants
 louisan;40;St. Louisan
 louisck;10
