@@ -2746,7 +2746,7 @@ ammoniac;40;Gum resin (gum ammoniac)
 ammoniate;40
 ammonic;30
 ammonoid;30
-Amna;40;Amna Nawaz, co-anchor of PBS NewsHour
+Amna;30;Amna Nawaz, co-anchor of PBS NewsHour
 Amna Nawaz;50;Co-anchor of PBS NewsHour
 amneris;30;"Aida" character
 amnestic;40;Amnesic
@@ -4100,6 +4100,8 @@ armytrunks;50
 army veteran;50
 army veterans;50
 arn;20
+Arna;20;Arna Bontemps, writer in the Harlem Renaissance (1902-1973)
+Arna Bontemps;50;Writer in the Harlem Renaissance (1902-1973)
 Arne;40;Secretary of Education Duncan
 Arness;40;James Arness who played Marshal Matt Dillon in "Gunsmoke"
 arnica;20;Sunflower herb
@@ -4498,6 +4500,7 @@ as one;50
 asoneman;40;In unison
 A Song of Ice and Fire;60
 asonia;20;Tone-deafness, controversial 3/19/23 entry
+Asos;20;Village on Cephalonia, Ionian Islands, Greece
 asosan;20
 asp;50
 asparagine;30;Nonessential amino acid
@@ -27434,6 +27437,8 @@ Gorme;40;Singer Eydie Gormé
 go rogue;60
 go round in circles;60
 gorp;40;Trail mix
+Gorr;30;Gorr the God Butcher, Marvel Comics supervillain
+Gorr the God Butcher;60;Marvel Comics supervillain
 gos;20
 go scuba diving;50
 go-see;30
@@ -28598,6 +28603,7 @@ hahhah;0
 Hahn;40;Violinist Hilary Hahn or "WandaVision" actress Kathryn Hahn
 hahs;30
 hai;40;Yes in Japan, or Bali Hai from "South Pacific"
+Haidt;30;Jonathan Haidt, social psychologist (born 1963)
 Haifa;30;Israeli port
 Haig;30;Alexander Haig, Reagan's Secretary of State
 Haight;30;Haight-Ashbury district in San Francisco
@@ -34416,7 +34422,7 @@ it's you;60
 itsyouandmeagainsttheworld;60
 it's your funeral;60
 it's your lucky day;60
-Itt;40;Coustin Itt
+Itt;40;Cousin Itt from "The Addams Family"
 itta;20
 ittakesrealguts;60
 ittakesseriousguts;60
@@ -35143,7 +35149,7 @@ Joel Embiid;50
 Joe Louis;50
 Joe O'Malley;30
 joepa;10;Joe Paterno, disgraced Penn State coach
-Joe Pera;50;Comedian/actor
+Joe Pera;50;Creator of Adult Swim's "Joe Pera Talks with You"
 Joe Satriani;50
 Joe Sixpack;60
 Joe Walsh;50;Eagles guitarist
@@ -35237,6 +35243,7 @@ Jon;50
 Jon Anderson;60
 Jonathan Banks;50;Mike Ehrmantraut actor
 Jonathan Byers;50;"Stranger Things" character
+Jonathan Haidt;50;Social psychologist (born 1963)
 jonboy;30;Celebrity tattooer
 Jo Nesbo;40;Author Jo Nesbø, most successful Norwegian author of all time
 Joneses;60
@@ -35637,6 +35644,7 @@ Kaspar;30
 Kat;40
 katamara;20;???
 Katamari Damacy;60
+Katelyn Ohashi;50;American gymnast
 Kate Mara;60
 katepierson;50;B-52s singer
 Kate Spade;50
@@ -39740,9 +39748,9 @@ lugworm;30
 lugworms;30
 lui;20
 Luigi's;40;Luigi's Mansion
-Luiseño;40;Indigenous people of southern California
+Luiseño;30;Indigenous people of southern California
 Luiseno;0
-Luiseños;40;Indigenous people of southern California
+Luiseños;30;Indigenous people of southern California
 Luisenos;0
 Luiz;40
 Luka Doncic;50;NBA star player (2018-present)
@@ -46407,6 +46415,7 @@ nut grafs;40
 nutgraph;50
 nutgraphs;50
 Nuthin' but a G Thang;60
+Nutini;30;Paolo Nutini, Scottish singer, songwriter and musician (born 1987)
 nutjob;60
 nutjobs;60
 nutlet;40
@@ -48134,6 +48143,7 @@ opq;20
 opqr;20
 opqrs;20
 opqrstuv;20
+Oprah's;40
 ops;50
 opt;50
 optaro;0
@@ -48197,8 +48207,10 @@ orators;50
 oratrix;30
 orb;50
 Orbach;40
-orbed;30
+or be;20
+orbed;40;Spherical
 orbi;40;Name for the Las Vegas sphere
+orbing;30
 orbitty;40;Little white alien on "The Jetsons"
 orc;50
 orcapod;50
@@ -49337,6 +49349,7 @@ panzertank;50
 panzertanks;50
 pao;40;Kung pao chicken
 Paolo Malatesta;50;Italian noble portrayed in Dante's "Inferno"
+Paolo Nutini;50;Scottish singer, songwriter and musician (born 1987)
 Paolo Veronese;20
 pap;50
 Papa Bear;60
@@ -50320,7 +50333,7 @@ Pepto;40
 Pequot;30;Native Americans
 Pequots;30
 per;50
-Pera;40;Comedian Joe Pera
+Pera;40;Joe Pera, creator of Adult Swim's "Joe Pera Talks with You"
 Peralta;30;???
 perambulation;30
 perambulator;30
