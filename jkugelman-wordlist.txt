@@ -960,7 +960,9 @@ a dab;30
 Adad;20;Babylonian storm god
 ad agencies;50
 ad agency;50
-adai;40;Dosa made with lentils (used several times in USA Today)
+adai;30;Dosa made with lentils (used several times in USA Today)
+adai dosa;40
+adai dosas;40
 Adair;40;Firefighter Red Adair
 adairs;20
 Adaline;40;???
@@ -67824,6 +67826,9 @@ tcrosser;50
 tcrossers;50
 TCU;30;Texas Christian University
 TD;40
+Tdap;30
+T-Day;30;Thanksgiving
+T-day;0
 tdk;20;Cassette maker
 T-dot;40;Nickname for Toronto
 TD pass;50
