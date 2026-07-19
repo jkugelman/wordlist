@@ -3617,7 +3617,8 @@ Apple computers;60
 apple crate;60
 apple crates;60
 Apple Inc;50
-appleiphone;60
+Apple iPhone;60
+Apple iPhones;60
 applelogo;50
 applelogos;40
 apple martini;60
@@ -4302,6 +4303,7 @@ asabell;20
 as a cat;20
 asada;40
 asafetida;30;Indian spice
+as a final resort;50
 asafoetida;30;Indian spice
 asagift;40
 asaguide;20
@@ -4593,6 +4595,7 @@ assez;20;Enough: Fr.
 assfirst;10
 asshat;60
 asshats;60
+Assholes Finish First;10;2010 book by Tucker Max
 assibilate;40
 assibilated;40
 assibilates;40
@@ -5881,6 +5884,7 @@ banana cream pies;60
 Bananagrams;60
 bananalanguage;60;Minion language
 bananamania;50
+Bananaphone;60
 bananapie;60
 bananapies;60
 Bananarama;60
@@ -8125,8 +8129,9 @@ bluetoothconnection;50
 bluetoothconnections;50
 bluetoothdevice;50
 bluetoothdevices;50
-bluetoothheadset;50
-bluetoothheadsets;50
+Bluetooth headphones;60
+Bluetooth headset;60
+Bluetooth headsets;60
 bluetoothreceiver;50
 bluetoothreceivers;50
 blue wall;60
@@ -9894,6 +9899,7 @@ byliner;40;Reporter important enough to earn a byline
 byliners;40
 by night;20
 BYO;30
+by phone;40
 by pure chance;60
 by pure luck;60
 byrail;40
@@ -10115,6 +10121,7 @@ calledbullshiton;10
 called for;40
 calledfoulon;50
 called in;40
+called in sick;60
 called it;60
 calleditawrap;60
 called it in the air;50
@@ -10137,6 +10144,7 @@ callingbullshiton;10
 calling for;40
 callingfoulon;50
 calling in;40
+calling in sick;60
 callingitawrap;60
 calling it in the air;50
 calling on;40
@@ -10144,6 +10152,7 @@ callingstation;60
 callingstations;60
 callingto;40
 calling up;40
+call in sick;60
 calliope;50
 calliopes;50
 call it a day;50
@@ -10170,6 +10179,7 @@ calls for;40
 callsfoulon;50
 callsignals;20
 calls in;40
+calls in sick;60
 callsitawrap;60
 calls it in the air;50
 calls on;40
@@ -10387,7 +10397,7 @@ canibuyyouadrink;60
 can I come;60
 canid;50
 canids;50;Wolves, jackals, etc.
-canifinish;60
+can I finish?;60
 canigeta;20
 canigetinonthat;60
 can I go now;60
@@ -10688,6 +10698,8 @@ Cardin;40
 cardinal;50
 cardinaloconnor;30
 cardinals;50
+cardioid microphone;20
+cardioid microphones;50
 cardiopulmonologist;50
 cardiopulmonologists;50
 cardiopulmonology;50
@@ -11410,8 +11422,8 @@ cello cases;50
 cello solo;50
 cello solos;50
 cellphone;60
-cellphonelot;60
-cellphonelots;60
+cell phone lot;60
+cell phone lots;60
 cellphone number;60
 cellphone numbers;60
 cellphones;60
@@ -11421,6 +11433,8 @@ cell reception;60
 cell service;60
 cell tower;60
 cell towers;60
+cellular phone;50
+cellular phones;50
 cellule;30
 cellulosic;40
 cels;50
@@ -13796,6 +13810,8 @@ concreting;40
 Conde;40
 condemner;40
 condemners;40
+condenser microphone;20
+condenser microphones;50
 condimentsaisle;50
 condoboard;50
 condoboards;50
@@ -17348,10 +17364,13 @@ dir;40
 Dirac;40;Quantum physicist Paul Dirac
 dirae;20
 directdial;50
+directional microphone;60
+directional microphones;60
 director;50
 directorder;50
 directorders;50
 directors;50
+directory of telephone numbers;20
 directrix;30
 direct snap;50
 direct snaps;50
@@ -18957,6 +18976,8 @@ drum major;50
 drum majors;50
 drummed out;50
 drummers drumming;60
+drum microphone;50
+drum microphones;50
 drumming out;50
 drum out;50
 drumroll;60
@@ -19137,6 +19158,7 @@ dull ache;50
 dull aches;50
 dull as dishwater;60
 Dullea;30;Keir Dullea, Dave in "2001"
+dull finish;50
 dum;20
 duma;40
 dumas;50;Alexandre Dumas
@@ -23286,7 +23308,7 @@ final check;50
 final checks;50
 final cut;60
 final cut privilege;60
-finalcutright;60
+final cut right;60
 final decision;60
 final edit;60
 Final Fantasy;60
@@ -23295,7 +23317,10 @@ final offer;50
 final offers;50
 finalout;50
 final reckoning;60
+final resting place;50
+final resting places;50
 final round;50
+final solution;10
 finance minister;50
 financialbacker;50
 financials;50
@@ -23306,6 +23331,7 @@ find God;60
 finding God;60
 findinglacking;50
 findlacking;50
+Find my iPhone;60
 finds God;60
 findslacking;50
 find time;50
@@ -23361,10 +23387,13 @@ Finian's;30;"Finian's Rainbow", 1947 musical
 finical;30;Finicky
 finis;40
 finises;20
-finishedwith;40
-finisheswith;40
-finishingwith;40
-finishwith;40
+finished with;50
+finishes with;40
+finish him;60
+finishing move;60
+finishing moves;60
+finishing with;40
+finish with;40
 finites;20
 finkedon;40
 finkingon;40
@@ -23531,6 +23560,8 @@ first offense;50
 first-order logic;50
 firstout;40
 firstoutofthegate;60
+first place finish;50
+first place finishes;50
 First Punic War;50
 first quarter;50
 firstquarters;50
@@ -28592,6 +28623,7 @@ hadrosaur;40
 hadrosaurs;40
 had seconds;60
 hadst;40
+had the final say;60
 had the goods on;60
 had the last laugh;60
 hadthelimelight;30
@@ -28901,6 +28933,7 @@ hanging on;40
 hanging onto;40
 hangingoutwith;40
 hanging tough;50
+hanging up the phone;60
 hangingwith;40
 hangintheair;60
 hangman;60
@@ -28923,12 +28956,14 @@ hangs on;40
 hangs onto;40
 hangsoutwith;40
 hangs tough;50
+hangs up the phone;60
 hangswith;40
 hangthecost;60
 hang tight;60
 hang time;60
 hang times;60
 hang tough;60
+hang up the phone;60
 hangwith;40
 Hanif;40;Poet Hanif Abdurraqib (2021 MacArthur Fellow)
 Hanif Abdurraqib;60;Poet Hanif Abdurraqib (2021 MacArthur Fellow)
@@ -29207,6 +29242,7 @@ hasteningto;40
 hastensto;40
 hastento;40
 hastert;40;Speaker of the House Dennis Haster (1999-2007)
+has the final say;60
 has the goods on;60
 has the last laugh;60
 hastimefor;40
@@ -29349,6 +29385,7 @@ haveonetoomany;60
 have prior knowledge;50
 have prior knowledge of;50
 have seconds;60
+have the final say;60
 have the goods on;60
 have the last laugh;60
 havetimefor;40
@@ -29412,6 +29449,7 @@ havingonetoomany;60
 having prior knowledge;50
 having prior knowledge of;50
 having seconds;60
+having the final say;60
 having the goods on;60
 having the last laugh;60
 having to;40
@@ -30596,6 +30634,7 @@ holdsscoreless;50
 holdsto;40
 holdsvigil;50
 hold that thought;60
+hold the phone;60
 holdto;40
 hold up;60
 holdupasec;60
@@ -31471,6 +31510,7 @@ hung on;40
 hung onto;40
 hungoutwith;40
 hung tough;50
+hung up the phone;60
 hungwith;40
 hunley;40;???
 hunt around;50
@@ -32570,7 +32610,7 @@ I'm kind of a big deal;60
 I'm lost;60
 Imma;40
 Imma Be;50;Black Eyed Peas hit "Imma Be"
-immaletyoufinish;60
+Imma let you finish;60
 immanence;40;Being completely within something, as opposed to transcendence
 imme;0
 immean;50;Bluto's song
@@ -33735,8 +33775,8 @@ iPhone case;60
 iPhone cases;60
 iPhone charger;60
 iPhone chargers;60
-iphonepro;60
-iphonepromax;60
+IPhone Pro;60
+iPhone Pro Max;60
 iPhones;60
 iPhone X;40
 I pity the fool;60
@@ -34346,8 +34386,8 @@ itservice;40
 itservices;40
 itsfasterifwesplitup;60
 itsfate;60
-itsfinallyhappened;60
-itsfinallyhappening;60
+it's finally happened;60
+it's finally happening;60
 it's fine;50
 itsfire;60
 it's for you;60
@@ -37231,6 +37271,8 @@ lastmove;50
 Last Night in Soho;60
 lastofthemohicans;60
 lastonein;50
+last place finish;50
+last place finishes;50
 lastquartile;50
 last resort;60
 last resorts;50
@@ -37721,9 +37763,11 @@ leaves on;40
 leaves on read;60
 leavesrightaway;30;Green paint
 leavesto;40
+leaves unfinished;50
 leave this to me;60;"I'll take care of the problem"
 leaveto;40
 leavetonguetied;50
+leave unfinished;50
 leavewhileyoustillcan;60
 leaveyouregoatthedoor;60
 leaving a comment;60
@@ -37732,6 +37776,7 @@ leaving on;40
 leaving on read;60
 leavingrightaway;30;Green paint
 leavingto;40
+leaving unfinished;50
 leb;20
 lebeau;40;NFL HOF coach Dick LeBeau
 lebeauf;30;Sabrina Le Beauf from "The Cosby Show"
@@ -37829,6 +37874,7 @@ left-right;50
 leftrightaway;30;Green paint
 leftto;40
 leftturnatalbuquerque;60
+left unfinished;50
 leftwinggroup;50
 leftwinggroups;50
 leftwingparties;50
@@ -40152,6 +40198,7 @@ made a name for oneself;50
 made an appearance;60
 made an offer;50
 madeapass;50
+made a phone call;60
 madeaquickbuck;60
 made a sale;50
 made a statement;50
@@ -40481,6 +40528,7 @@ make an appearance;60
 makeanentrances;0
 make an offer;50
 makeapass;50
+make a phone call;60
 makeaquickbuck;60
 make a sale;50
 make a statement;50
@@ -40548,6 +40596,7 @@ makes a name for oneself;50
 makes an appearance;60
 makes an offer;50
 makesapass;50
+makes a phone call;60
 makesaquickbuck;60
 makes a sale;50
 makes a statement;50
@@ -40639,6 +40688,7 @@ making a name for oneself;50
 making an appearance;60
 making an offer;50
 makingapass;50
+making a phone call;60
 makingaquickbuck;60
 making a sale;50
 making a statement;50
@@ -41702,6 +41752,7 @@ meanness;40
 means of escape;60
 meansomething;50
 meansto;40
+means to an end;60
 Mean Streets;60
 Mean Team;60;"Space Jam" bad guys
 meanto;40
@@ -42350,6 +42401,8 @@ micromanages;60
 micromanaging;60
 micropayment;60
 micropayments;60
+microphone cable;50
+microphone cables;50
 microphone stand;50
 microscale;60
 microscopemount;0
@@ -45032,6 +45085,7 @@ new parent;50
 new parents;50
 newperspective;50
 newperspectives;50
+new phone who dis;60
 New Pornographers;60;Indie rock band
 newportri;30
 new release;60
@@ -47811,6 +47865,7 @@ oneupon;40
 onevolt;40
 onewatt;40
 onewayyaweno;0
+one who finishes second;0
 onewishwillow;60;Central prop in "Obsession" (2026)
 one-woman;30
 onewood;40
@@ -50812,20 +50867,40 @@ phoenixaz;40
 Phoenix Wright;60
 Phoenix Wright: Ace Attorney;60
 Phoenix Wright Ace Attorney;0
+phone app;50
+phone apps;50
 phone case;60
 phone cases;60
+phoned in sick;60
 phoned it in;50
+phone hack;60
+phone hacking;60
+phone hacks;60
+phone-in;50
+phone-ins;50
+phone-in show;60
+phone-in shows;60
+phone in sick;60
 phone interview;50
 phone interviews;50
 phone it in;50
-phone no;40
-phone nos;40
+phone no.;40
+phone no;0
+phone nos.;40
+phone nos;0
+phone sex;60
+phone sex hotline;60
+phone sex hotlines;60
+phone sex line;60
+phone sex lines;60
+phones in sick;60
 phones it in;50
 phonetap;60
 phonetapping;60
 phonetaps;60
 phonetic spelling;60
 phonetic spellings;60
+phoning in sick;60
 phoning it in;50
 phono;40;Prefix
 phony baloney;60
@@ -53788,6 +53863,7 @@ puts on ice;60
 puts on the line;60
 putsoutofonesmisery;60
 putsthefingeron;60
+puts the finisher on;60
 puts the pedal to the metal;60
 putsthepiecestogether;60
 putsunder;50
@@ -53795,6 +53871,7 @@ puttee;30;Legwrap
 puttees;30
 puttering around;60
 putthefingeron;60
+put the finisher on;60
 put the pedal to the metal;60
 putthepiecestogether;60
 putting a brave face on;60
@@ -53818,6 +53895,7 @@ puttingoneshouseinorder;60
 putting on ice;60
 putting on the line;60
 puttingoutofonesmisery;60
+putting the finisher on;60
 putting the pedal to the metal;60
 puttingthepiecestogether;60
 putt-putt;60
@@ -55900,6 +55978,7 @@ remotecontrolmissilebombs;60;Acme invention
 remote controls;50
 remotes;50
 removedfromduty;50
+remove old finish;20
 remsen;30;???
 REM sleep;50
 Ren;40
@@ -58019,6 +58098,8 @@ runlets;40
 run loose;50
 runnel;30;Streamlet
 runnels;30;Streamlets
+runner-up finish;50
+runner-up finishes;50
 runneth;40
 running a close second;60
 runningaclosesecondto;50
@@ -63239,6 +63320,7 @@ soilure;20
 soir;30
 so it goes;60
 so it seems;60
+so it's finally come to this;60
 so I was like;60
 soiwasthinking;60
 so jot that down;60
@@ -63367,7 +63449,7 @@ sombre;20
 sombrely;20
 sombreness;20
 so mean;60
-somebodyfinallysaidit;60
+somebody finally said it;60
 somebody once told me;60
 Somebody That I Used to Know;60;Gotye song
 some friend;60
@@ -63747,6 +63829,7 @@ space shuttle;60
 space shuttles;60
 spacesuit;50
 spacesuits;50
+space: the final frontier;60;Quotation from ''Star Trek''
 SpaceX;60
 spacey;10
 spacings;30
@@ -64071,6 +64154,8 @@ spinal cord;60
 spinal cords;60
 spinaldisc;50
 spinaldiscs;50
+Spinal Tap II: The End Continues;60
+Spinal Tap II The End Continues;0
 spinaweb;60
 spin a yarn;60
 spinbike;60
@@ -64679,6 +64764,8 @@ stankface;60
 Stanky;20;Baseball player Eddie Stanky
 Stan Laurel;60
 Stan Lee;60
+Stanley Cup Final;60
+Stanley Cup Finals;60
 stanleys;30
 Stan Musial;50
 stanne;40
@@ -68654,6 +68741,7 @@ thatslaps;60
 that's me;60
 that's messed up;60
 that's more like it;60
+that's my final answer;60
 that's my next question;60
 that's news to me;60
 that's nice;60
@@ -69350,6 +69438,7 @@ The Natural State;30;Arkansas
 thenavy;30
 thenazcalines;30
 thenba;20
+the NBA finals;50
 then don't;60
 thenea;20
 thenereids;20
@@ -77678,6 +77767,8 @@ you do that;60
 youdothetalking;60
 youdowntoclown;60;Question
 you do you;60
+you finished?;60
+you finished;0
 you game;60
 you get it;60
 you get me;60
@@ -77800,7 +77891,7 @@ youredarnedifyoudoanddarnedifyoudont;60
 youredarnedifyoudoandyouredarnedifyoudont;60
 you're darn right;60
 youredonefor;60
-yourefinished;60
+you're finished;60
 you're fired;60
 youregettingoffeasy;60
 youregettingsleepy;60
