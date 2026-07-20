@@ -3627,7 +3627,6 @@ Apple logo;50
 Apple logos;40
 apple martini;60
 apple martinis;60
-apple martinis;20
 appleof;0
 Apple Park;60;Name for the corporate headquarters of Apple, based in Cupertino CA
 apple picker;50
@@ -8331,13 +8330,17 @@ bogarted;60
 bogarting;60
 bogarts;60
 bog down;50
+bog down with;40
 bogeyman;60
 bogeymen;60
 bogged down;50
+bogged down with;40
 bogging down;50
+bogging down with;40
 BOGO;40
 bog oak;40
 bogs down;50
+bogs down with;40
 bog standard;60
 boho;40
 Bohr;40
@@ -18520,6 +18523,7 @@ down to clown;60
 down to the wire;60
 downvote;50
 downvotes;50
+down with the kids;60
 do wonders;60
 do wonders for;60
 do worse;40
@@ -24439,7 +24443,6 @@ foramen;20;Body opening
 foramina;20;Body openings
 foraminifer;30;Amoeboid protist
 Foraminifera;30;Phylum of amoeboid protists
-Foraminifera;0
 foraminifers;30;Amoeboid protists
 for better or worse;60
 forborne;40
@@ -31579,7 +31582,6 @@ Hummel;30;Hummel figurine
 Hummel figurine;50;Porcelain figurine
 Hummel figurines;50;Series of porcelain figurines
 Hummels;30;Hummel figurines
-Hummels;20
 hummingbird chick;50
 hummingbird chicks;50
 hummock;30;Rounded hill
@@ -32652,7 +32654,10 @@ I'm dead;60
 I'm dead meat;60
 I'm done;50
 I'm done for;60
+I'm down for whatever;60
 I'm down to clown;60
+I'm down with that;60
+I'm down with the kids;60
 I'm dying;60
 I'm dying here;60
 I'm dyin' here;60
@@ -40389,9 +40394,7 @@ madrases;30;Indian fabrics
 madre;40
 madrepore;30;Stony coral
 madrileña;40;Woman in Madrid
-madrileña;40
 madrileñas;40;Women in Madrid
-madrileñas;40
 madrilène;40
 madrileño;40;Madrid resident
 madrileños;40;Madrid residents
@@ -42457,7 +42460,6 @@ mi;40
 Mia;50;Various people
 MIA;40;Missing in action
 M.I.A.;40;British singer, rapper, songwriter, record producer, and activist
-Mia;10;Bulimia
 MIA!;0
 Miamian;40
 Miami, FL;30
@@ -43317,7 +43319,6 @@ money;50
 money-back;60
 money back;0
 Moneyball;60;2003 book by Michael Lewis, or 2011 film adaptation with Brad Pitt
-Moneyball;60;Empirical analysis of baseball aka sabermetrics
 moneyer;30
 Money for Nothing;60
 money launderers;50
@@ -49276,7 +49277,6 @@ Pac Bell;40
 pace car;60
 pace cars;60
 paced off;50
-paced off;20
 pace lap;50
 pace laps;50
 Pacelli;20;Pope last name
@@ -49295,7 +49295,6 @@ pachinko parlors;60
 Pacific blue;50
 Pacific Ring of Fire;60
 pacing off;50
-pacing off;20
 package;50
 packed in;40
 packed in it;40;British
@@ -51383,7 +51382,6 @@ pink flamingo;50
 Pink Flamingos;50
 pink flirtini;60;Raspberry vodka cocktail
 pink flirtinis;60;Raspberry vodka cocktails
-pink flirtinis;60
 pink gin;50
 pinkie promise;60
 pinkie swear;60
@@ -59110,6 +59108,7 @@ Satan's;30
 sat at;40
 satays;40;Bad plural???
 sat by;40
+sat down with;40
 sateen;40;Satin-like cotton fabric
 sateens;30;Bad plural???
 satellite dish;50
@@ -62080,6 +62079,7 @@ sit at;40
 sit by;40
 sitcom;50
 sitcoms;50
+sit down with;40
 sit erect;20;Green paint
 sit idle;50
 sit idly by;60
@@ -62100,6 +62100,7 @@ sit poolside;50
 sit pretty;50
 sits at;40
 sits by;40
+sits down with;40
 sit shiva;60
 sits idle;50
 sits idly by;60
@@ -62125,6 +62126,8 @@ sits upon;40
 sittee;30;???
 sitting at;40
 sitting by;40
+sitting down with;40
+sittingidle;50
 sitting idle;50
 sitting idly by;60
 sitting in;40
@@ -63497,8 +63500,8 @@ solate;20;Turn from a gel into a liquid
 solates;20;Turns from a gel into a liquid
 sold a bill of goods;60
 sold as;40
-sold at;40
 soldat;40;French soldier
+sold at;40
 sold for;40
 sold freezers to Eskimos;60
 sold ice to Eskimos;60
