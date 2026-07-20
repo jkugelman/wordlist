@@ -683,11 +683,11 @@ ace in the hole;60
 ace it;40
 Acela;40
 acentric;30
-ace of clubs;50
-aceofcups;60
-ace of diamonds;50
-ace of hearts;50
-ace of spades;50
+ace of clubs;60
+Ace of Cups;60;Tarot card of the Minor Arcana
+ace of diamonds;60
+ace of hearts;60
+ace of spades;60
 acerb;40;Bitter or sharp, as in taste or speaking tone
 acerbate;40;Make worse or make bitter
 acerbated;40
@@ -720,6 +720,7 @@ aceydeucy;50
 ach;40
 Achaean;30;???
 achance;20
+a change of heart;60
 Achates;30;Companion of Aeneas
 Achebe;40;Chinua Achebe
 ached for;40
@@ -2707,10 +2708,10 @@ amie;40
 amies;40
 am I glad to see you;60
 amigurumi;30;Japanese art of knitting
-amihearingitright;60
-amihearingthatright;60
-amihearingthisright;60
-amihearingyouright;60
+am I hearing it right?;60
+am I hearing that right?;60
+am I hearing this right?;60
+am I hearing you right?;60
 Amiibos;30
 am I late;50
 A Milli;40;Lil Wayne hit
@@ -5618,6 +5619,7 @@ bad habit;60
 bad habits;60
 bad hand;40
 bad hands;40
+bad heart;50
 bad idea;60
 bad impression;50
 bad impressions;50
@@ -7129,6 +7131,7 @@ beseem;30;Blah
 beseems;30
 be serious;60
 Be Sharps;60;Homer's barbershop quartet
+Beshear;40
 beshrew;30
 beshrewed;30
 beshrews;30
@@ -7164,6 +7167,7 @@ Best Director;50
 Best Exotic Marigold Hotel;60;2011 comedy drama film, with "The"
 bestie;60
 besties;60
+be still my heart;60
 bestir;50
 bestirred;50
 bestirring;50
@@ -7396,6 +7400,7 @@ Biggie Smalls;60
 Big Girls Don't Cry;60
 Big Gulp;60
 bighearted;60
+big hearts;50
 bighelp;60
 bight;30
 bights;30
@@ -10538,6 +10543,10 @@ can you dig it;50
 canyoudoanythingright;60
 canyoudothat;60
 canyoufillmein;60
+can you hear me?;50
+can you hear me;0
+can you hear me now?;60
+can you hear me now;0
 can you not;60
 canyoupleasenot;60
 can you repeat that?;60
@@ -11831,6 +11840,7 @@ cheatedin;40
 cheated on;40
 Cheatin';40;Hank Williams "Your Cheatin' Heart", or 2013 movie
 cheating death;60
+cheating heart;50
 cheatingin;40
 cheating on;40
 cheat meal;60
@@ -12121,6 +12131,8 @@ childbirth;60
 childbirths;60
 childhood memories;60
 childhood memory;60
+childhood sweetheart;60
+childhood sweethearts;60
 childlike wonder;60
 childproof;60
 childproof cap;60
@@ -12133,6 +12145,7 @@ childproof lock;60
 childproof locks;60
 childproofs;60
 Children of Dune;60;1976 novel by Frank Herbert
+children should be seen and not heard;60
 children's museum;50
 child star;50
 child stars;50
@@ -12185,7 +12198,9 @@ chinfest;60
 chinfests;60
 chink;10
 chinkapin;40;Type of oak tree
+chink in the armor;60
 chinks;10
+chinks in the armor;60
 chinless;50
 chin music;60
 chinook;50
@@ -13323,12 +13338,15 @@ cold-cock;60
 cold-cocked;60
 cold-cocking;60
 cold-cocks;60
+Cold, Cold Heart;50;1951 song by Hank Williams
 coldcutplatter;50
 coldcutplatters;50
 cold front;50
 cold fronts;50
 cold hard cash;60
 cold-hearted;50
+Cold Heart (Pnau remix);50;2021 single by Elton John and Dua Lipa
+Cold Heart Pnau remix;0
 coldmeal;50
 coldmeals;50
 coldmud;20;???
@@ -13477,8 +13495,11 @@ combatrock;50;The Clash album
 combat zone;50
 combat zones;50
 combedcotton;50;???
+combed the area;60
+combing the area;60
 combo meal;50
 combo meals;50
+combs the area;60
 come and get me;60
 comeas;40
 come at;40;Attack, threaten
@@ -15012,7 +15033,7 @@ crossingpathswith;40
 crossing the picket line;60
 crosslet;40;Small cross in heraldry
 crosslets;40
-crossmyhearthopetodie;60
+cross my heart, hope to die;60
 cross off the list;60
 crossonests;60
 cross over;50
@@ -15046,6 +15067,7 @@ crossword constructor;50
 crossword constructors;60
 crosswords;60
 crosswordtok;20;???
+cross your heart;50
 croton;30;New York reservoir
 crouse;30;Actress Lindsay
 crowded out;50
@@ -16856,6 +16878,8 @@ detention center;50
 detention centers;50
 detention centre;20
 detention centres;20
+detention hearing;50
+detention hearings;50
 detents;20
 deterge;40
 deterged;40
@@ -17077,8 +17101,10 @@ didiask;60
 did I ask you;60
 did I do that;60
 didievertellyouhowluckyyouare;60;Dr. Seuss book
-did I hear that right;60
-did I hear you right;60
+did I hear that right?;60
+did I hear that right;0
+did I hear you right?;60
+did I hear you right;0
 didiloseyou;60
 Didion;40;Journalist Joan Didion
 didistutter;60
@@ -17095,6 +17121,8 @@ didnthaveaprayer;50
 didnthavetime;50
 didn't hold water;60
 didn't see you there;60
+didn't you hear?;60
+didn't you hear;0
 didonesfairshare;50
 didpoorly;50
 did shots;50
@@ -17113,6 +17141,14 @@ didtoo;40;Playground retort
 did up;50
 didwe;30
 did you catch that;60
+did you hear?;60
+did you hear;0
+did you hear that?;60
+did you hear that;0
+did you hear the good news?;60
+did you hear the good news;0
+did you hear the news?;60
+did you hear the news;0
 didyouordidntyou;60
 didyourfairshare;50
 did you see my text;60
@@ -18130,6 +18166,7 @@ don't at me;60
 don't be;60
 don't be a fool;60
 dontbeahog;60
+don't believe everything you hear;60
 don't be rude;60
 don't be so literal;60
 don't be so naive;60
@@ -18464,6 +18501,12 @@ Do Ya;30;ELO song
 doyoudareme;60
 do you even lift bro;60
 doyougetthatalot;60
+do you hear me?;50
+do you hear that?;60
+do you hear that;0
+Do You Hear the People Sing?;60;Song from "Les Misérables"
+Do You Hear the People Sing;0
+Do You Hear What I Hear;60;1962 song by Gloria Shayne and Noël Regney
 do you hear yourself?;60
 do you hear yourself right now?;60
 doyouknowwhatyouvedone;60
@@ -19304,9 +19347,13 @@ Dwan;30
 dwarf;50
 dwarves;50
 dwaynes;30
+dwelled in the heart;50
 dwelled on;40
+dwelling in the heart;50
 dwelling on;40
+dwell in the heart;50
 dwell on;40
+dwells in the heart;50
 dwells on;40
 DWI;10
 Dwight David Eisenhower;60
@@ -19597,7 +19644,7 @@ eat local;60
 eat lunch;30
 eat of;40
 eatoneshat;60
-eatonesheartout;50
+eat one's heart out;60
 eat one's words;60
 eatover;30
 eats alone;40
@@ -21820,7 +21867,10 @@ evensplits;50
 event planner;50
 event planners;50
 Everage;40;Dame Edna Everage
-ever heard of it;60
+ever heard of it?;60
+ever heard of it;0
+ever heard of knocking?;60
+ever heard of knocking;0
 evermore;60
 everready;50
 Evers;40
@@ -22265,6 +22315,7 @@ face-melting;60
 facemeltingguitarsolo;60
 face-melting solo;60
 face-melting solos;60
+face of evil;50
 faceout;40
 face paint;60
 face painting;60
@@ -22380,6 +22431,7 @@ fain;20
 fainer;20
 fainest;20
 faintheart;50
+faint of heart;60
 fairbanksak;30
 Fairbanks Alaska;50
 Fair Deal;50
@@ -22926,13 +22978,13 @@ feeinto;0
 feel for;50
 feelfreetosayno;60
 feel funny;50
-feelheard;60
+feel heard;60
 Feelin';40;"Feelin' Groovy"
 feelingcutemightdeletelater;60
 feeling down;50
 feeling for;50
 feeling funny;50
-feelingheard;50
+feeling heard;60
 feelinginonesbones;60
 feeling left out;50
 feelinglikeafool;50
@@ -22960,7 +23012,7 @@ feel sad;40
 feel seen;60
 feels for;50
 feels funny;50
-feelsheard;60
+feels heard;60
 feelsick;40
 feelsinonesbones;60
 feels left out;50
@@ -23026,7 +23078,7 @@ felosdese;20
 felt cute might delete later;60
 felt for;50
 felt funny;50
-feltheard;60
+felt heard;60
 feltinonesbones;60
 felt left out;50
 feltlikeafool;50
@@ -23342,10 +23394,13 @@ finder's fee;60
 finder's fees;60
 find God;60
 finding God;60
+finding it in one's heart;60
 findinglacking;50
+find it in one's heart;60
 findlacking;50
 Find my iPhone;60
 finds God;60
+finds it in one's heart;60
 findslacking;50
 find time;50
 fine art;60
@@ -24416,7 +24471,7 @@ forget I said that;60
 forget it;60
 forget-me-not;60
 forgetwhatisaid;60
-forgetyouheardthat;60
+forget you heard that;60
 forgiver;40
 forgivers;40
 forints;20;Hungarian money
@@ -24522,6 +24577,7 @@ foulcall;60
 foulcalls;60
 foundation;50
 found God;60
+found it in one's heart;60
 foundlacking;50
 found object;50
 found objects;50
@@ -28558,7 +28614,8 @@ had a crush on;60
 hadadrink;50
 had a goat it;50
 had a go at it;50
-hadaheart;60
+had a heart;60
+had a heart of gold;60
 had a hunch;50
 hadalegupon;60
 hadaline;20
@@ -29170,7 +29227,8 @@ has a cow;50
 has a crush on;60
 hasadrink;50
 has a go at it;50
-hasaheart;60
+has a heart;60
+has a heart of gold;60
 has a hunch;50
 has a line on;60
 hasalisp;40
@@ -29412,7 +29470,7 @@ having a cow;50
 having a crush on;60
 havingadrink;50
 having a go at it;50
-havingaheart;60
+having a heart;60
 having a hunch;60
 having a line on;60
 having a look;50
@@ -30916,6 +30974,7 @@ Hooked on a Feeling;60
 hooked up;50
 Hooker;10
 hookers;10
+hooker with a heart of gold;60
 hooking up;50
 hook shot;60
 hook shots;60
@@ -32137,6 +32196,8 @@ if I'm not mistaken;60
 if I must;60
 ifindoubtdont;60;Popular piece of advice
 If I Only Had a Brain;60
+If I Only Had a Heart;60
+If I Only Had the Nerve;60
 If I Ran the Circus;60;Dr. Seuss book
 If I Ran the Zoo;60;Dr. Seuss book
 if it ain't broke don't fix it;60
@@ -33575,6 +33636,7 @@ in the can;60
 in the catbird seat;60
 in the cloud;60
 in the driver's seat;60
+in the face of;40
 in the fold;50
 In the Ghetto;50;Elvis song
 in the heat of battle;50
@@ -49172,11 +49234,15 @@ pacas;20;Rodents
 pacbell;40
 pace car;60
 pace cars;60
+paced off;50
+pacedoff;20
 pace lap;50
 pace laps;50
 pacelli;20;Pope last name
 pacem;20
-paceofplay;60
+pace off;50
+pace of play;60
+paces off;50
 pace yourself;60
 pachinko;60
 pachinkogame;60
@@ -49186,6 +49252,9 @@ pachinko machines;60
 pachinko parlor;60
 pachinko parlors;60
 pacificblue;50
+Pacific Ring of Fire;60
+pacing off;50
+pacingoff;20
 package;50
 packed in;40
 packedinit;40;British
@@ -60431,7 +60500,7 @@ serin;20
 serine;30
 serines;30
 serins;20
-seriousasaheartattack;60
+serious as a heart attack;60
 seriously dude;60;"Bro, really?"
 seriousmood;40;???
 Se-ri Pak;40;LPGA Hall of Famer Se-ri Pak
@@ -69505,6 +69574,7 @@ theoverlookhotel;60;From "The Shining"
 theozarks;40
 theozonelayer;40
 thepacers;40
+the Pacific Ring of Fire;60
 thepack;30
 thepackers;40
 The Pageant of the Masters;50;Annual arts festival in California
