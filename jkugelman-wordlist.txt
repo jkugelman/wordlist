@@ -5975,10 +5975,13 @@ Baphomet;50;Goat-headed occult deity
 baptismalwaters;60
 baptistminister;50
 bar;50
+bar admission;60
 barak;40;Israeli PM Ehud Barak 1999-2001
 bar associations;50
 Baratheon;50;"Game of Thrones" family
 Baratheons;50
+bar band;50
+bar bands;50
 Barbarella;60
 barbecue;50
 barbecueapron;60
@@ -6030,11 +6033,18 @@ bar-b-q;40
 bar-b-qs;40
 barcade;60
 barcades;60
+bar cart;50
+bar carts;50
+barchan;20
+barchans;20
 bar chord;60
 bar chords;60
 barcode scanner;50
 barcode scanners;50
 barcoding;50
+bar diagram;50
+bar diagrams;50
+barding;30;Body armor for a war horse
 Bardo;40;George Saunders novel "Lincoln in the Bardo"
 Bard of Avon;50
 bardotfilm;0
@@ -6047,6 +6057,7 @@ bare essentials;50
 barefoot;50
 Barefoot Contessa;60
 bare it all;60
+bare king;60;Chess position where one side has only a king
 bare-knuckle;60
 bare-knuckle boxer;60
 bare-knuckle boxers;60
@@ -6062,6 +6073,7 @@ barelygetby;50
 barelygetsby;50
 barelygettingby;50
 barelygotby;50
+barely see;40
 bare necessities;50
 Barents;40;Arctic sea between Norway and Russia
 barer;30
@@ -6150,7 +6162,7 @@ barratry;30;Legal term, vexatious litigation
 barre chord;60
 barre chords;60
 barred the door;50
-barredthedoors;50
+barred the doors;50
 barrel-aged;60
 barrel along;50
 barrel cacti;50
@@ -6167,7 +6179,7 @@ barrenwasteland;50
 barrenwastelands;50
 Barrie;40;Peter Pan author J. M. Barrie
 barring the door;50
-barringthedoors;50
+barring the doors;50
 Barry Bonds;50
 barrymgoldwater;50
 Barry Zuckercorn;60;"Arrested Development" lawyer played by Henry Winkler
@@ -6178,7 +6190,7 @@ barsets;50
 barsofgold;50
 Barsoom;30;Edgar Rice Burroughs's fictional representation of the planet Mars
 bars the door;50
-barsthedoors;50
+bars the doors;50
 barstool;50
 barstools;50
 Barstow;40
@@ -6189,7 +6201,7 @@ bar tabs;50
 bartender;50
 bartenders;50
 bar the door;50
-barthedoors;50
+bar the doors;50
 bartholomewandtheoobleck;60;Dr. Seuss book
 Barts;40;St. Barts
 Bart Starr;50
@@ -9424,6 +9436,7 @@ buckteeth;50
 Bucky;50
 buco;40;Osso ___
 bud;50
+Buda;40;Ancient capital of the Kingdom of Hungary, part of Budapest
 Budapest Hungary;30;???
 Bud Bowl;60
 Buddha Air;60;Nepalese airline
