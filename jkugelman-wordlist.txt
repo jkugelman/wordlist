@@ -4136,6 +4136,7 @@ aromatize;40
 Aron;40;Elvis Aron Presley
 aroo;30;Suffix with buck/switch [common]
 arosefrom;40
+around in circles;40
 aroundnoon;30;Green paint
 around the bend;60
 around the block;60
@@ -12558,8 +12559,32 @@ Cipro;40;Antibiotic brand
 cir;40
 Circe;40;Greek sorceress
 circle-A;50;Anarchist A, written as Ⓐ
+circle back around;50
+circle back to;50
+circled back around;50
+circled back to;50
+circled overhead;50
+circled the block;60
+circled the drain;60
+circled the wagons;60
 circleoftrust;60
+circle overhead;50
+circles back around;50
+circles back to;50
 circlesoftrust;60
+circles overhead;50
+circles the block;60
+circles the drain;60
+circles the wagons;60
+circle the block;60
+circle the drain;60
+circle the wagons;60
+circling back around;50
+circling back to;50
+circling overhead;50
+circling the block;60
+circling the drain;60
+circling the wagons;60
 circuit diagram;60
 circuit diagrams;60
 circular economy;60
@@ -26899,6 +26924,7 @@ go ape;50
 goapeover;50
 go apeshit for;10
 go apeshit over;10
+go around in circles;60
 goas;40
 goaskdad;60
 goaskmom;60
@@ -26982,6 +27008,7 @@ goes ape;50
 goesapeover;50
 goes apeshit for;10
 goes apeshit over;10
+goes around in circles;60
 goesas;40
 goes astray;50
 goes at;40
@@ -27017,6 +27044,7 @@ goes green;50
 goes ham;60
 goes hard;50
 goes in;40
+goes in circles;60
 goes in on;50
 goes insane;50
 goes into;40
@@ -27108,6 +27136,7 @@ go hard;50
 go home;50
 goi;20
 go in;40
+go in circles;60
 going all in;50
 going all out;50
 going antiquing;60
@@ -27118,6 +27147,7 @@ goingape;0
 goingapeover;50
 going apeshit for;10
 going apeshit over;10
+going around in circles;60
 goingas;40
 going astray;50
 going at;40
@@ -27150,6 +27180,7 @@ going green;50
 going ham;60
 going hard;50
 going in;40
+going in circles;60
 going in on;50
 goinginpeace;50
 going insane;50
@@ -27320,6 +27351,7 @@ gonealong;40
 goneape;40
 gone apeshit;10
 gone apeshit for;10
+gone around in circles;60
 goneastray;40
 goneat;30
 goneawol;40
@@ -27335,6 +27367,7 @@ Gone Girl;60
 goneham;60
 gonein;40
 goneinaninstant;60
+gone in circles;60
 goneinto;40
 goneloco;40
 gone native;60
@@ -33015,6 +33048,9 @@ Incheon;40;Korean city
 inchnails;0
 inchoative;40;Type of verb
 inchon;30;Korean War battle site
+incircle;30
+in circles;50
+incircles;30
 incise;30
 incised;30
 incises;30
@@ -54158,6 +54194,7 @@ queer prom;60
 queers;10
 queer studies;60
 queer theory;60
+Quentin circles;0
 Quentin Tarantino;60
 queso;40
 queso dip;50
@@ -57911,6 +57948,7 @@ roundel;30;Circular symbol in heraldry
 roundels;30
 roundfaceshape;60
 roundfaceshapes;60
+round in circles;40
 roundkick;40
 roundkicks;40
 round of drinks;60
@@ -58153,6 +58191,7 @@ run a light;50
 run along;50
 run along now;60
 run a mile;50;Flee: UK idiom
+run around in circles;20
 run as administrator;60
 runascam;50
 run at;40
@@ -75773,6 +75812,7 @@ went ape;50
 wentapeover;50
 went apeshit for;10
 went apeshit over;10
+went around in circles;60
 wentas;40
 went astray;50
 went at;40
@@ -75805,6 +75845,7 @@ went green;50
 went ham;60
 went hard;50
 went in;40
+went in circles;60
 went in on;50
 wentinpeace;50
 went insane;50
@@ -76501,6 +76542,7 @@ William James Durant;50;American historian, philosopher and writer (1885–1981)
 William Safire;60
 Williams Sonoma;50
 William Stubbs;40;British historian and Anglican bishop (1825–1901)
+Will It Go Round in Circles;50;1973 single by Billy Preston
 will-o'-the-wisp;60
 will-o'-the-wisps;60
 willowbarktea;50
