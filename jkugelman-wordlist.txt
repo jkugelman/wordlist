@@ -101,9 +101,12 @@
 3 AM;40;1996 Matchbox Twenty single
 3am;40
 3 Doors Down;60;'90s rock band
+3D print;60
+3D printed;60
 3D printer;60
 3D printers;60
 3D printing;60
+3D prints;60
 3 French hens;60
 3pm;40
 3rd;50
