@@ -47427,7 +47427,8 @@ OK, smarty-pants;60
 OK sure;50
 OK then;50
 Oktober;50
-okurr;20
+okurr;30
+okurrr;30
 ola;40;Greeting or suffix [extremely common]
 Olaf;40
 Olaf Haraldsson;40;Saint Olaf
