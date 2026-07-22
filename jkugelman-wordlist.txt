@@ -11856,6 +11856,8 @@ cheats death;60
 cheats in;40
 cheats on;40
 checkboard square;50
+checked for;40
+checked in on;50
 checked into;40
 checked on;40
 checked one's privilege;60
@@ -11865,16 +11867,22 @@ checkerboard patterned;60
 checkerboard patterns;60
 checkerboard squares;50
 checkers;50
+check for;40
 check-in counters;50
+checking for;40
+checking in on;50
 checking into;40
 checking on;40
 checking one's privilege;60
 checking with;40
+check in on;50
 check into;40
 checkmate;60
 check on;40
 check one's privilege;60
 checkout counter;50
+checks for;40
+checks in on;50
 checks into;40
 checks on;40
 checks one's privilege;60
@@ -32711,6 +32719,7 @@ I'm in no mood;60
 I'm in the money;60
 I miss you;60
 I'm just browsing;60
+I'm just checking;60
 I'm just doing my job;60
 I'm just fucking with you;10
 I'm just fuckin' with ya;10
@@ -34754,6 +34763,7 @@ I was counting on it;60
 I was framed;60
 I was going to say;60
 I was gonna say;60
+I was just checking;60
 I was like;60
 I wasn't here;60
 I was right;60
@@ -35650,6 +35660,7 @@ just a sec;60
 just as I suspected;60
 just a skosh;60
 just browsing;60
+just checking;60
 just cool it;60
 just cool it, would ya?;60
 just cool it would you;60
