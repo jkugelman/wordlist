@@ -227,6 +227,8 @@ A+;40;Grade / Blood type
 A-;40;Grade / Blood type
 A++;40
 A;40
+A24;40;Arthouse film distributor
+A24 Films;50;Arthouse film distributor
 AA;40;Alcoholics Anonymous / Battery size
 AAA;40;American Automobile Association / Small battery size
 AAAA;30;Small battery size
