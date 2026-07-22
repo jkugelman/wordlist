@@ -2960,7 +2960,13 @@ and counting;60
 and for my next trick;60
 and for that reason, I'm out;60
 and Garfunkel;0
+and get;20
+and get a ticket;20
 and go;20
+and God;20
+and God knows what;60
+and groan;20
+and guest;50
 and here's to you, Mrs. Robinson;60
 Andi;30;Partial "and I", or Disney Channel show "Andi Mack"
 and if I don't;60
@@ -44512,6 +44518,10 @@ nances;30;Yellow cherry-sized fruit
 Nancherla;40;Comedian Aparna Nancherla of "Bojack Horseman"
 Nanci;30;Folk singer Nanci Griffith
 Nancy Wheeler;50;"Stranger Things" character played by Natalia Dyer
+NAND circuit;50
+NAND circuits;50
+NAND gate;60
+NAND gates;60
 nandrolone;40;???
 nankeen;20
 nankeens;20
@@ -77390,6 +77400,9 @@ X-Men United;50;"X2: X-Men United", 2003 superhero film
 Xolo;40;Hairless dog
 Xolos;40
 xoo;20
+XOR circuit;50
+XOR circuits;50
+XOR gate;50
 x out;30
 X out of;40
 X-outs;30
