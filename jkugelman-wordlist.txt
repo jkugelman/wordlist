@@ -64687,6 +64687,9 @@ squee;60
 squeezy;30;Cramped
 squib;50
 squibs;50
+Squid Game;60
+squidger;40;Round disk used to play winks in the game of tiddlywinks
+squidgers;40;Round disks used to play winks in the game of tiddlywinks
 squiggy;50
 squill;30;Plant
 squills;30
