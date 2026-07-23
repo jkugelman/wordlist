@@ -13478,6 +13478,8 @@ collude on;40
 colludes on;40
 colluding on;40
 Collyer;30;"Beat the Clock" host Bud Collyer
+colon cleanse;10
+colon cleanses;10
 colonelcy;40
 Colonel Sun;30;Post-Fleming James Bond novel
 colones;30;Costa Rican currency
@@ -43393,6 +43395,10 @@ monometer;40
 monomial;40
 monomials;40
 monomyth;60;The hero's journey
+Mon Oncle;40;1958 film by Jacques Tati
+Mon oncle Antoine;50;1971 film by Claude Jutra
+Mon oncle d'Amérique;50;1980 French film ("My American Uncle")
+Mon Oncle d'Amerique;0
 mononym;60
 mononymic;60
 mononymous;60
@@ -47770,6 +47776,9 @@ once daily;60
 oncee;20
 Once-ler;50
 once you pop, you can't stop;60
+oncle;30;French for uncle
+on clearance;50
+oncles;30;French for uncles
 oncloudthree;0
 oncogene;30;Cancer-causing gene
 oncogenes;30
