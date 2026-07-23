@@ -65331,15 +65331,15 @@ steer;50
 steerable;30
 steerages;40;Bad plural???
 steer clear;60
-steer clear of;60
+steer clear of;50
 steered clear;60
-steered clear of;60
+steered clear of;50
 steered into;40
 steered to;40
 steerer;40
 steerers;40
 steering clear;60
-steering clear of;60
+steering clear of;50
 steering committee;60
 steering committees;60
 steering into;40
@@ -65347,7 +65347,7 @@ steering to;40
 steer into;40
 steers;50
 steers clear;60
-steers clear of;60
+steers clear of;50
 steers into;40
 steersman;40
 steersmen;40
