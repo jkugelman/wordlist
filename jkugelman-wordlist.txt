@@ -22526,6 +22526,7 @@ Fairbanks Alaska;50
 Fair Deal;50
 fair deals;50
 faire;40
+fairer sex;50
 fair game;60
 fairish;30
 fair maiden;50
@@ -53253,6 +53254,10 @@ press time;50
 press times;50
 press-up;50;Push-up
 press-ups;50
+pressure test;60
+pressure tested;60
+pressure testing;60
+pressure tests;60
 prestir;30
 prestirred;30
 prestirring;30
@@ -53277,6 +53282,7 @@ prettied;30
 pretty awesome;60
 pretty cool;60
 pretty fishy;60
+Pretty in Pink;60
 pretty much;60
 pretty pickle;60
 pretty simple;60
@@ -55264,8 +55270,8 @@ reacted to;40
 reacting to;40
 reaction GIF;60
 reaction GIFs;60
-reaction time;50
-reaction times;50
+reaction time;60
+reaction times;60
 reactontime;0
 reactontimes;0
 reacts to;40
@@ -57659,6 +57665,7 @@ rock ptarmigans;40
 rock quarries;50
 rock quarry;50
 rocks out;60
+rock tumbling;50
 Rockula;30;1990 B-movie
 rock wall;50
 rock walls;50
@@ -58839,6 +58846,7 @@ Saint Olav;50
 Saint Olave;40
 Saint Omer;40;French town Saint-Omer, or a 2022 movie set there
 Saint Osmund;40
+Saint Patrick;60
 Saint-Tropez;50
 Saint Vitus;40
 Saipan;30;Marianas island
@@ -61567,6 +61575,7 @@ short u;40
 short U's;40
 short version;50
 short versions;50
+Shostakovich;60
 shot;50
 shot at;40
 shot blanks;50
@@ -62970,6 +62979,8 @@ smart chip;50
 smart chips;50
 smart choice;50
 smart choices;50
+smart cookie;60
+smart cookies;60
 smart drink;50
 smart drinks;50
 smart home;60
@@ -63219,8 +63230,8 @@ sneaking into;40
 sneaking on;40
 sneak into;40
 sneak on;40
-sneak preview;50
-sneak previews;50
+sneak preview;60
+sneak previews;60
 sneaks a peek;50
 sneaks by;40
 sneaks in;40
@@ -64625,6 +64636,7 @@ sportsmen;60
 sports movie;60
 sports movies;60
 sport stacking;60;Cup stacking
+sport utility;50
 SportVU;30;Basketball camera tracking system
 Sporty Spice;60
 sporulate;30;Produce spores
@@ -66899,6 +66911,7 @@ surrogate mothers;60
 surrounding area;50
 surrounding areas;50
 surround sound;60
+surströmming;60;Fermented herring, one of the most putrid smells in the world
 surtitle;30
 surtitles;30
 SurveyMonkey;60
@@ -69302,6 +69315,7 @@ The Chase;50;British game show / 1966 Brando-Redford film
 the chicken or the egg;60
 The Chi-Lites;50;1970s R&B group
 the choice is clear;60
+the chosen few;60
 the CIA;20
 The Circle;30;Movie/TV show???
 the clap;10
@@ -69422,6 +69436,7 @@ the Eye of Ra;40
 the FAA;20
 the Fab Five;50
 the fact is;50
+the fairer sex;50
 The Fall of the House of Usher;60
 the fam;40
 The Fame;50;Lady Gaga's debut album
@@ -69780,6 +69795,7 @@ theory of omission;60;Hemingway's theory on writing
 the O's;40;The Orioles
 the Oscars;40
 The Others;60;"Lost" baddies
+the other side;60
 The Oval;50;Tyler Perry series set in the White House
 the Overlook Hotel;60;From "The Shining"
 the Ozarks;40
@@ -69807,6 +69823,7 @@ The Pirate;40;Walter Scott novel
 The Pit;20
 The Pitt;60
 The Pixies;60
+the place to be;60
 The Play;50;Famous 1982 college football play
 the Po;30;Italian river
 The Poconos;40
@@ -76323,6 +76340,7 @@ what's your question?;60
 whattaappity;0
 what the;60
 what the actual fuck;10
+what the frick;60
 what the fuck;10
 what the hey;60
 what was I thinking;60
