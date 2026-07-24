@@ -2230,6 +2230,8 @@ All I Need;40;Song by various artists: Temptations, Radiohead, Air, Jack Wagner
 all in favor;60
 all-in-one;60
 all into;50
+alliteration;60
+alliterative;60
 All I Want;40;Hit song by Kodaline (1 billion Spotify streams) or Olivia Rodrigo (High School Musical)
 All I Want Is You;50;Song by various artists including U2
 all killer no filler;60
