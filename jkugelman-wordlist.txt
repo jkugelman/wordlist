@@ -4444,6 +4444,8 @@ Asian long-horned beetles;60
 Asian predatory wasp;60
 Asian predatory wasps;60
 as if on cue;60
+a sight for sore eyes;60
+a sight to behold;60
 asimmer;30
 Asimov;50
 Asimovian;50
@@ -54445,10 +54447,12 @@ rac;20
 raccoon cub;50
 raccoon cubs;50
 raccoon fur;50
+race against;40
 race against time;60
 race bib;60
 race bibs;60
 race by;40
+raced against;40
 raced by;40
 raced in;40
 raced into;40
@@ -54456,6 +54460,7 @@ raced off;50
 raced to;40
 race fan;30
 race fans;30
+race for the curio;0
 race in;40
 race into;40
 raceme;30;Flower cluster
@@ -54464,6 +54469,7 @@ racemose;30;Botany word
 race off;50
 race riot;50
 race riots;50
+races against;40
 races by;40
 races in;40
 races into;40
@@ -54482,6 +54488,7 @@ rachitic;30;Afflicted by rickets
 rachitis;30;Rickets
 racial diversity;60
 Racine;40;Jean Racine, 17th century French dramatist, well-regarded
+racing against;40
 racing bikes;50
 racing by;40
 racing in;40
@@ -61828,8 +61835,12 @@ sideswept bangs;60
 sideswipe;50
 sideswiped;50
 sideswipes;50
+Sid Meier's Civilization;60
 Sidney;50
 Sidney Bechet;50
+Sidney Sheldon;40;Writer (1917–2007)
+Sidon, Lebanon;40
+Sidon Lebanon;0
 Sidra;30;Gulf of Sidra
 Sie;40;"Sprechen Sie Deutsch?"
 sieben;30;Seven: German
@@ -61837,12 +61848,22 @@ siècle;30
 Sieg;20
 siege engine;60
 siege engines;60
+siege of;20
+Siege of Orleans;50
+Siege of Syracuse;50
+Siege of Vicksburg;60
+Siege of Yorktown;60
 siege tower;60
 siege towers;60
 siege warfare;60
 siege weapon;60
 siege weapons;60
 Siegfried and Roy;60
+siegheil;10
+siegheiled;10
+siegheiling;10
+siegheils;10
+Sie liebt dich;40;German-language version of the Beatles' "She Loves You"
 siemens;30
 Siena;40;Italian city
 Sienese;30;From Siena, Italy / Renaissance school of painting
@@ -61851,10 +61872,17 @@ Sierra Club;60;Environmental organization
 Sierra Leone monetary unit;0
 Sierra Mist;60
 Sierra Nevada;50;Mountain range in the Western United States
+Sierra Nevada mountains;50
 Sierra Nevadas;50;Mountain range in the Western United States
 siesta;50
 siete;40
+sieve of Eratosthenes;60
 Sif;30;Norse goddess, wife of Thor
+SI for Kids;50;Sports Illustrated for Kids
+sifted through;40
+sifting through;40
+sifts through;40
+sift through;40
 sig;20
 Sig Ep;20;Fraternity for short
 sigh at;40
@@ -61862,7 +61890,11 @@ sighed at;40
 sigher;30
 sighers;30
 sighing at;40
+sigh of boredom;50
+sigh of regret;50
 sighs at;40
+sighs of boredom;50
+sighs of regret;50
 sight for sore eyes;60
 sight gag;60
 sight gags;60
@@ -61877,6 +61909,8 @@ sight rhymes;60
 sightseeing;60
 sightseeing bus;60
 sightseeing buses;60
+sightseeing excursion;60
+sightseeing excursions;60
 sightseeing tour;60
 sightseeing tours;60
 sightseeing trip;60
@@ -61884,6 +61918,7 @@ sightseeing trips;60
 sightseer;60
 sightseers;60
 sightsees;60
+sights for sore eyes;60
 sight unseen;60
 signal fire;60
 signal fires;60
