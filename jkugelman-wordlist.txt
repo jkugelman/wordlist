@@ -43798,6 +43798,7 @@ Moulin;40
 mounded;30
 Mounjaro;60;Diabetes and weight loss drug
 Mountain Cheese Olympics;60
+Mountain King;60
 mountainous area;40
 mountain pose;60
 mountain state;50
@@ -44998,6 +44999,7 @@ needle scratches;60
 needling;50
 needs a hand;50
 needs air;50
+need some help;60
 needs to;40
 need to;40
 need-to-know;60
@@ -46449,6 +46451,7 @@ now look here;60
 now me;60
 now now;60
 no wonder;60
+now streaming;60
 now then;50
 now what do we do;60
 now where did I park?;60
@@ -47026,6 +47029,7 @@ occur to;40
 OCD;40
 oceanaut;40
 oceanauts;40
+ocean breezes;50
 Ocean City;60
 Oceanid;40
 Oceanids;40
@@ -48389,6 +48393,7 @@ opening numbers;50
 opening on;40
 opening Pandora's box;60
 opening up to;40
+open in new tab;60
 open in on;40
 open into;40
 open it;50
@@ -48414,6 +48419,10 @@ open net;50
 open net goal;50
 open net goals;50
 open nets;40
+open note exam;60
+open note exams;60
+open note test;60
+open note tests;60
 open on;40
 open onto;40
 open Pandora's box;60
@@ -48466,6 +48475,7 @@ Opera Man;60
 opera news;50
 operas bouffes;50
 opera soli;30
+operas serias;50
 operated on;40
 operate on;40
 operates on;40
@@ -48629,6 +48639,7 @@ ore miner;30
 Orense;20;City in Galicia, Spain
 Oreo;50;Popular tuxedo cat name
 Oreo balls;40
+Oreo Cakester;60
 Oreo churro;40
 Oreo churros;40
 Oreo Cone;40
@@ -49488,6 +49499,7 @@ paid in;40
 paid into;40
 paid one's fair share;50
 paid retail;50
+paid the price;60
 paid the tab;50
 paid to;40
 paid top dollar;60
@@ -50273,6 +50285,7 @@ paying in;40
 paying into;40
 paying one's fair share;50
 paying retail;50
+paying the price;60
 paying the tab;50
 paying to;40
 paying top dollar;60
@@ -50292,9 +50305,11 @@ pays into;40
 Payson;20;???
 pays one's fair share;50
 pays retail;50
+pays the price;60
 pays the tab;50
 pays to;40
 pays top dollar;60
+pay the price;60
 pay the tab;50
 pay to;40
 pay toilet;60
@@ -51346,6 +51361,7 @@ pierced lips;60
 pierced nose;60
 pierced noses;60
 Pieris;30;Flower genus
+Pierre Renoir;50
 Pierres;30;Plural name
 Pierre, SD;30
 Pierson;40;Kate Pierson of the B-52s
@@ -51486,6 +51502,7 @@ piners;40
 pinery;40;Where pineapples are grown
 pines for;40
 pineta;20
+Pine Tree Riot;60;1772 act of resistance to British royal authority undertaken by American colonists
 piney;40
 pin high;60
 pinier;30
@@ -73239,6 +73256,8 @@ Tyvek;40;Tyvek HomeWrap
 TYVM;30
 Tywin;40;Tywin Lannister from "Game of Thrones"
 Tywin Lannister;60;Tywin Lannister from "Game of Thrones"
+tzarina;30
+tzarinas;30
 tze;20
 tzimmes;30;Jewish stew
 T-zone;30
