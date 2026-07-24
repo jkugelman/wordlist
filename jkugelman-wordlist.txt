@@ -1149,6 +1149,9 @@ Adolfo Bioy Casares;50;Argentine novelist (1914–1999)
 Adolph;30
 Adonai;40;God, in Hebrew
 Adonais;40;"Adonais: An Elegy on the Death of John Keats", one of Shelley's best and best-known works
+Adonis annua;20;Species of flowering plant in the buttercup family
+Adonis belt;60;Shallow grooves in the abdomen running from the iliac crest to the pubis
+Adonis belts;60;Shallow grooves in the abdomen running from the iliac crest to the pubis
 Adonis DNA;40
 adoptee;40
 adoptees;40
