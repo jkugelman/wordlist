@@ -54452,6 +54452,7 @@ race by;40
 raced by;40
 raced in;40
 raced into;40
+raced off;50
 raced to;40
 race fan;30
 race fans;30
@@ -54460,11 +54461,13 @@ race into;40
 raceme;30;Flower cluster
 racemes;30
 racemose;30;Botany word
+race off;50
 race riot;50
 race riots;50
 races by;40
 races in;40
 races into;40
+races off;50
 races to;40
 race theory;60
 race to;40
@@ -54483,6 +54486,7 @@ racing bikes;50
 racing by;40
 racing in;40
 racing into;40
+racing off;50
 racings;20
 racing to;40
 racist;30
@@ -69421,8 +69425,12 @@ the Emmys;40
 The Emperor;60;Tarot card
 The Emperor's New Groove;60;2000 animated Disney film
 The Empire Strikes Back;60;"Star Wars" sequel
+The Enchantment Under the Sea Dance;60
 the end is nigh;60
 the end of the line;60
+The End of the World as We Know It;60
+the ends justify the means;60
+the ends of the earth;60
 The Entertainer;60
 the EPA;20
 the Eras Tour;60
