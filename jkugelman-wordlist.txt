@@ -360,6 +360,7 @@ abator;20;One who abates
 abators;20
 A batteries;50
 A battery;50
+a battle of wits;50
 abaya;30;Muslim robe
 abayas;30;Muslim robes
 abbacies;40
@@ -492,6 +493,8 @@ abounded in;30
 abound in;30
 abounding in;30
 abounds in;30
+about damn time;60
+about darn time;60
 about-face;50
 about-faced;50
 about-faces;50
@@ -2573,6 +2576,7 @@ amative;20
 amativeness;20
 Amato;30;Al D'___
 amatory;40;Amorous
+a matter of time;50
 amaxophile;40
 amaxophiles;40
 amaxophobe;40
@@ -3003,6 +3007,7 @@ ands;40
 and so;50
 and so it goes;60
 and so on and so on;60
+And Still I Rise;60
 and that's no lie;50
 and that's not all;60
 and the award goes to;60
@@ -3923,6 +3928,8 @@ are you blind?;60
 are you buying it?;60
 are you coming;60
 are you crazy?;60
+are you decent?;60
+are you decent;0
 are you done;60
 are you for real;60
 are you game;60
@@ -4687,6 +4694,7 @@ as thick as thieves;60
 Asti;40;Wine region
 as tight;20
 astilbe;30;Flower genus
+a stitch in time;60
 as to;40
 Astolat;30;Castle of Arthurian legends
 as told to;40
@@ -4781,6 +4789,7 @@ atar;20
 ataraxia;30
 Atari Corp;50
 at a slant;30
+at a standstill;60
 at a stop;30
 AT-AT;40
 at a trot;40
@@ -6366,6 +6375,7 @@ bathtub Madonna;60;Lawn shrine with the Virgin Mary
 bathtub Madonnas;60
 bathtub Mary;60;Lawn shrine with the Virgin Mary
 bathtub Marys;60;Lawn shrine with the Virgin Mary
+bathtub racing;60
 bathtub shrine;60;Lawn shrine with the Virgin Mary
 bathtub shrines;60
 bathtub Virgins;60
@@ -7931,6 +7941,7 @@ blew off;50
 blew on;40
 blew one's own horn;50
 blew smoke;50
+blew the joint;60
 blew the lead;60
 blew up one's spot;60
 blind bag;60;Package containing a mystery item from a specific collection
@@ -8057,10 +8068,12 @@ blowing off;50
 blowing on;40
 blowing one's own horn;50
 blowing smoke;50
+blowing the joint;60
 blowing the lead;60
 blowing up one's spot;60
 blow into;40
 blown away;60
+blown the joint;60
 blown tire;50
 blown tires;50
 blow off;50
@@ -8078,8 +8091,10 @@ blows off;50
 blows on;40
 blows one's own horn;50
 blows smoke;50
+blows the joint;60
 blows the lead;60
 blows up one's spot;60
+blow the joint;60
 blow the lead;60
 blow this popsicle stand;60
 blowtorch;50
@@ -8170,6 +8185,7 @@ Bluey;50
 Bluff the Listener;60;NPR show where three panelists tell stories and one's a lie
 blunger;40;Pottery machine
 blungers;40
+blunt question;60
 blunt words;60
 blur my background;60
 blurrier;50
@@ -9074,6 +9090,8 @@ breast implant;60
 breast implants;60
 breast milk;60
 breast of chicken;20
+breathability;60
+breathe easier;60
 breathing room;50
 breath mint;50
 breath mints;50
@@ -10219,6 +10237,7 @@ calls on;40
 calls to;40
 calls to arms;50
 calls up;40
+call the police;60
 call to;40
 call to arms;50
 call toll-free;60
@@ -11815,6 +11834,7 @@ chat rooms;60
 chat show;30
 chat shows;30
 Chatterley;50
+Chatty Cathies;60
 Chatty Cathy;60
 Chatty Cathys;60
 Chaudhry;30;Last name???
@@ -12817,6 +12837,7 @@ clear nail polish;60
 clear soup;50
 clears the board;60;Starts over, or wins everything
 clear the board;60;Start over, or win everything
+clear the room;60
 Cleavon;40;"Blazing Saddles" actor Cleavon Little
 Clefairy;50;Pokeyman
 cleft-chinned;50
@@ -14464,6 +14485,8 @@ counterbalance;50
 counterbalanced;50
 counterbalances;50
 counterbalancing;50
+counterclaim;50
+counterclaims;50
 counterfeit coin;60
 counterfeit coins;60
 counterfeit money;60
@@ -17275,6 +17298,7 @@ digging into;40
 digging up dirt on;50
 dig in one's heels;60
 dig into;40
+digital addict;50
 digital art;60
 digital content;50
 digitalin;30;Drug
@@ -17312,6 +17336,8 @@ Dil;20
 dilatate;30
 dilatation;30
 dilatations;30
+dilated pupil;50
+dilated pupils;50
 dilatorily;40;Intending to cause delay
 dilatory;50
 Dili;30;Capital of East Timor
@@ -20138,6 +20164,7 @@ Egyptian cobras;50
 Egyptian god;50
 Egyptian gods;50
 Egyptian Ratscrew;60;Card game
+Egyptian ruins;60
 eh;50
 eHarmony;50
 eher;20
@@ -20292,6 +20319,8 @@ electrical short;50
 electrical shorts;50
 electrical storm;50
 electrical storms;50
+electric bill;50
+electric bills;50
 electric power;50
 electron;50
 electronic bulletin board;50
@@ -21910,8 +21939,8 @@ evenfall;50;Dusk, literarily
 even I know that;60
 evening stroll;50
 evening strolls;50
-even money bet;50
-even money bets;50
+even money bet;60
+even money bets;60
 even odds;50
 even split;50
 even splits;50
@@ -22083,8 +22112,14 @@ exed;30
 Exene;20;Punk singer Cervenka
 ex-enemies;30
 ex-enemy;30
+exercise ball;60
+exercise balls;60
+exercise bike;60
+exercise bikes;60
 exercise program;60
 exercise programs;60
+exercise room;50
+exercise rooms;50
 exercise wheel;60;Hamster wheel / Ab roller
 exercise wheels;60;Hamster wheels / Ab rollers
 exercycle;50
@@ -22293,6 +22328,7 @@ ey/em pronouns;50;Set of gender-neutral neopronouns
 ey em pronouns;0
 eye of newt;60;Witches' brew ingredient in Macbeth
 Eye of Ra;60
+eye on the ball;60
 eyepatch;50
 eyepatches;50
 eye pit;30;Eye socket, wordlist spam
@@ -22311,6 +22347,8 @@ eyes emojis;60
 eye shadow;50
 eyesore;60
 eyestrains;40
+eyes wide open;60
+Eyes Wide Shut;60
 eye test;50
 eye tests;50
 eyewear;50
@@ -22939,6 +22977,7 @@ feast for the senses;60
 feasting on;40
 feasting upon;50
 feast on;40
+feast or famine;60
 feasts on;40
 feasts upon;50
 feast upon;50
@@ -23019,6 +23058,7 @@ feeds in;40
 feeds into;40
 feeds on;40
 feeds the fire;60
+feeds the fish;50;???
 feeds the kitty;50
 feeds to;40
 feeds upon;50
@@ -23048,6 +23088,7 @@ feeling sick;40
 feeling small;50
 feeling ten feet tall;60
 feeling the burn;60
+feeling the love;60
 feeling under the weather;60
 feeling up to;50
 feeling up to it;60
@@ -23076,6 +23117,7 @@ feels sick;40
 feels small;50
 feels ten feet tall;60
 feels the burn;60
+feels the love;60
 feels under the weather;60
 feels up to;50
 feels up to it;60
@@ -23143,6 +23185,7 @@ felt sick;40
 felt small;50
 felt ten feet tall;60
 felt the burn;60
+felt the love;60
 felt-tipped;50
 felt under the weather;60
 felt up to;50
@@ -23340,6 +23383,7 @@ fighting a losing battle;60
 fighting crime;60
 fighting for;40
 Fighting Illini;60;Athletics teams of the University of Illinois Urbana-Champaign
+Fighting Irish;60
 fighting with;40
 fight or flight;60
 fight or flight response;60
@@ -23639,6 +23683,7 @@ first and ten;60
 first base;50
 first base coach;60
 first base coaches;60
+first base line;50
 first baseman;60
 first basemen;60
 first blush;60
@@ -24847,6 +24892,7 @@ freestyle rappers;60
 freestyle raps;60
 freestyles;60
 freestyling;60
+free-throw line;60
 free time;50
 free to;40
 free toy;50
@@ -25002,6 +25048,7 @@ from the hip;60
 from where I stand;60
 from zero to sixty;60
 frontal cortex;50
+frontal nudity;60
 front desk;50
 Frontera;40;???
 frontlet;40;Forehead band
@@ -25061,6 +25108,7 @@ frug;20;'60s dance
 frugivore;50
 frugivores;50
 frugivorous;50
+fruitarianism;60
 fruit dip;50
 fruiter;50
 fruit hat;60
@@ -25072,6 +25120,8 @@ fruit of one's labor;60
 fruit pie;50
 fruit salad;60
 fruit salads;60
+fruit topping;50
+fruit toppings;50
 Fruity Pebble;30
 frumenty;30;Medieval porridge
 frumpy;50
@@ -25153,6 +25203,7 @@ fuel consumption;50
 fuel efficiency;60
 fuel efficiency standard;60
 fuel efficiency standards;60
+fuel injector;60
 fuel oil;40
 fuel oils;40
 fuel rod;60
@@ -25366,12 +25417,14 @@ gained momentum;60
 gained on;40
 gained steam;60
 gained time;30;???
+gained traction;50
 gaining a day;60
 gaining an hour;60
 gaining momentum;60
 gaining on;40
 gaining steam;60
 gaining time;30;???
+gaining traction;50
 gain momentum;60
 gain on;40
 gains a day;60
@@ -25382,7 +25435,9 @@ gains steam;60
 'gainst;30
 gain steam;60
 gains time;30;???
+gains traction;50
 gain time;30;???
+gain traction;50
 gaiter;50;Neck or boot cover
 gaiters;50
 gal;50
@@ -26333,6 +26388,7 @@ gets to first base;60
 gets to second base;60
 gets to the bottom of;60
 gets to third base;60
+gets tough with;50
 gets ugly;60
 gets up and down;60
 gets used to it;50
@@ -26438,6 +26494,7 @@ getting to first base;60
 getting to second base;60
 getting to the bottom of;60
 getting to third base;60
+getting tough with;50
 getting ugly;60
 getting up and down;60
 getting used to it;50
@@ -26449,6 +26506,7 @@ get to know you games;60
 get to second base;60
 get to the bottom of;60
 get to third base;60
+get tough with;50
 Getty Images;50
 get ugly;60
 get up and down;60;In golf, get in the hole in two strokes
@@ -27073,6 +27131,7 @@ goes into;40
 goes into labor;50
 goes IPO;30;Not a real phrase
 goes kaput;60
+goes like heck;60
 goes mad;50
 goes mad for;40
 goes native;60
@@ -27104,6 +27163,7 @@ goes public;50
 goes rogue;60
 goes round in circles;60
 goes scuba diving;50
+goes sideways;60
 goes soft;50
 goes solo;50
 goes sour;50
@@ -27237,6 +27297,7 @@ going public;50
 going rogue;60
 going round in circles;60
 going scuba diving;50
+going sideways;60
 going soft;50
 going solo;50
 going sour;50
@@ -27633,6 +27694,7 @@ goshawks;30
 gosh dang;60
 gosh darn;60
 gosh darn it;60
+go sideways;60
 go soft;50
 go solo;50
 go sour;50
@@ -27768,6 +27830,7 @@ got to first base;60
 got to second base;60
 got to the bottom of;60
 got to third base;60
+got tough with;50
 got turned around;60
 got ugly;60
 got up and down;60
@@ -27926,6 +27989,7 @@ grantees;40
 granter;40
 granters;40
 granting amnesty;50
+Grantland Rice;50;Sportswriter (1880–1954)
 grantor;30
 grants amnesty;50
 Grape Ape;60
@@ -28063,6 +28127,7 @@ great lie;20
 Great Old One;60;Cthulhu, e.g.
 Great Old Ones;60
 great pains;50
+Great Pyramids;60
 great question;60
 Great Red Spot;60
 Great Salt Lake;60
@@ -28139,6 +28204,7 @@ greens fee;60
 greens fees;60
 green shell;60;Mario Kart powerup
 green shells;60
+Greensleeves;60
 green space;50
 green spaces;50
 greenwash;60
@@ -28152,7 +28218,7 @@ Gregg;40
 Gregor Clegane;50;The Mountain in "Game of Thrones"
 Gregorian chant;50
 Gregorian chants;50
-Gregor Mendel;50
+Gregor Mendel;60
 Gregory I;30
 greisen;30;???
 gremlin;60
@@ -29216,6 +29282,7 @@ hard ten;50
 hard to be around;60
 hard to beat;60
 hard to come by;60
+hard to imagine;60
 hard to pin down;60
 hard to port;60
 hard to read;60
@@ -32788,6 +32855,7 @@ I'm not gonna read all that;60
 I'm not having it;60
 I'm not made of money;60
 I'm not particular;60
+I'm not playing;60
 I'm not playing around;60
 I'm not scared;60
 I'm not scared of you;60
@@ -34198,6 +34266,8 @@ isn't it rich?;60
 isn't meant to be;60
 isn't OK;20
 isn't sure;40
+isn't that wild?;60
+isn't that wild;0
 iso-;40
 isochronal;40
 isocracies;40
@@ -36877,6 +36947,7 @@ label maker;60
 label makers;60
 labelmate;60
 labelmates;60
+La Bête humaine;50;1890 novel by Émile Zola
 labial;30;Lip-related
 labials;30;Certain sounds
 labiate;30;Mint genus
@@ -39171,6 +39242,7 @@ LLCs;40
 LLD;20
 lleewwiiss;0
 Lleyton;40;???
+Lleyton Hewitt;50;Australian professional tennis player (born 1981)
 llihhtiaf;0
 LLM;40;Large language model
 LLMs;40;Large language models
@@ -40290,6 +40362,7 @@ machree;20
 Mach two;40
 Machu;40
 Mac Jr;60;Mini Big Mac
+Mack the Knife;60
 macle;20;Twin crystal
 Maclean;40;Who???
 Maclen;30;Beatles music company (McCartney-Lennon)
@@ -42643,6 +42716,7 @@ military aid;50
 military coup;60
 military coups;60
 military service;60
+military time;60
 military uniform;50
 Milk-Bone;60
 Milk-Bones;60
@@ -43781,6 +43855,7 @@ moves the goalposts;60
 moves to;40
 move the goalposts;60
 move to;40
+move to strike;60
 move your tail;60
 movie agent;60
 movie agents;60
@@ -45842,6 +45917,7 @@ no ma'am;50
 Nomadland;60;2021 Best Picture
 no man's;30
 no matter;60
+no matter which;50
 Nome, Alaska;50
 Nome Alaska;0
 no meat;40
@@ -46165,6 +46241,7 @@ not a sable;20;Green paint
 not as I do;40
 not as I recall;60
 not a sound;60
+not at any price;60
 not a toy;50
 no tax;40
 not bat an eye;60
@@ -46282,6 +46359,7 @@ not so fast;60
 not so hot;60
 not-so-secret menu;60
 not so sure;60
+not speak well of;50
 not sure why;60
 not surprisingly;60
 nottaapproblem;0
@@ -49423,6 +49501,8 @@ pains in the butt;60
 paint chip;50
 paint chips;50
 painted over;50
+painted ponies;60
+painted pony;60
 paint fleck;50
 paint flecks;50
 paint fumes;50
@@ -50461,6 +50541,7 @@ Peet;40;Actress Amanda Peet
 Peeta;40;From "The Hunger Games"
 Peete;40;Various
 peewee;50
+pee-wee league;60
 Pee Wee Reese;50
 peewit;30;Bird
 peewits;30
@@ -50951,8 +51032,11 @@ phantom jams;60
 phantom limb;60
 phantom limbs;60
 Phantom Menace;60
+phantom pains;60
 phantom settlement;60;Copyright trap
 phantom settlements;60
+phantom ship;60
+phantom ships;60
 phantom vibration syndrome;60;Ringxiety
 pharisaical;40
 Phar Lap;30;Phar Lap, Great Depression-era champion racehorse
@@ -51506,6 +51590,8 @@ pirated software;60
 pirate hat;60
 pirate hats;60
 pirate king;60;???
+pirate outfit;60
+pirate outfits;60
 piratic;30
 Pirrip;40;Philip Pirrip, AKA Pip, "Great Expectations" narrator
 pis;40
@@ -52903,6 +52989,8 @@ pqrs;20
 pqrst;20
 practical effect;50
 practical effects;50
+practice swing;60
+practice swings;60
 practice test;50
 practice tests;50
 Prada;50
@@ -54214,9 +54302,11 @@ Queen of Jazz;60
 queen of spades;50
 Queen of Swords;60;Tarot card
 Queen of Wands;60;Tarot card
+queen regent;50
 queen set;40;Bedroom set
 Queensland Heeler;50;Dog breed
 Queensland Heelers;50
+queens regent;50
 queen's rook;50
 queen's rooks;50
 queer as a three-dollar bill;60
@@ -57134,6 +57224,8 @@ right-handed pitchers;50
 Right Hand Man;60;"Hamilton" song
 right hand man;60
 right hand men;60
+right-hand side;50
+right hand side;0
 right in the feels;60
 right-justified;50
 right-justify;50
@@ -57142,6 +57234,7 @@ right of first publication;60
 right of first refusal;60
 right-oh;30;???
 right on;60
+right on point;50
 right on the money;60
 right out of central casting;60
 right pickle;60
@@ -57491,6 +57584,8 @@ robodial;60
 robodials;60
 robotaxi;60
 robotaxis;60
+robotics kit;60
+robotics kits;60
 robotry;30
 robotweet;50
 robotweets;50
@@ -58177,6 +58272,7 @@ ruinated;40
 ruinates;40
 ruin porn;60
 ruins photography;60
+ruin the ending;50
 ruled on;40
 rule maker;50
 rule makers;50
@@ -59654,6 +59750,7 @@ scratch;50
 scratched the surface;60
 scratches the surface;60
 scratching the surface;60
+scratch'n'sniff;60
 scratch the surface;60
 screak;30
 scream at;40
@@ -61265,6 +61362,7 @@ shirsey;30;Shirt jersey
 shirseys;30;Shirt jersey
 shirt stud;50
 shirt studs;50
+shirts vs skins;60
 shisha bar;30
 shisha bars;30
 shiso;30;Sushi garnish
@@ -61450,6 +61548,8 @@ short subjects;50
 short thumb;50;Genetic trait with one short, wide thumb
 short u;40
 short U's;40
+short version;50
+short versions;50
 shot;50
 shot at;40
 shot blanks;50
@@ -62637,6 +62737,7 @@ sleep study;60
 sleep tight;60
 sleep tight, don't let the bedbugs bite;60
 Sleepy's;20
+sleeveless T's;60
 sleever;30
 sleevers;30
 sleeve tat;60
@@ -64101,8 +64202,11 @@ speaks of;40
 speaks on;40
 speaks to;40
 speaks truth to power;60
+speaks well of;50
 speak to;40
 speak truth to power;60
+speak well for;20
+speak well of;50
 spear carrier;60
 spear carriers;60
 spearfish;60
@@ -64410,8 +64514,8 @@ spline;40
 splined;40
 splines;40
 split a cab;60
-split decision;50
-split decisions;50
+split decision;60
+split decisions;60
 split infinitive;50
 split infinitives;50
 split personalities;60
@@ -64444,6 +64548,7 @@ spoke on;40
 spokescow;60
 spoke to;40
 spoke truth to power;60
+spoke well of;50
 spoliation;30;Spoilment, destruction
 spoliator;30
 sponcon;30;Influencer's "sponsored content"
@@ -64591,6 +64696,7 @@ sprint car;50
 sprint cars;50
 sprit;40;Sail extension
 sprits;40
+spritz cookies;50
 Sproing Boots;60;Acme invention
 sprung at;40
 sprung on;40
@@ -66945,6 +67051,7 @@ sweet and sour mix;50
 sweet anise;50
 sweet basil leaf;50
 sweet basil leaves;50
+Sweet Caroline;60
 sweet cheeks;60
 Sweet Child o' Mine;60
 Sweet Chin Music;60
@@ -66960,6 +67067,8 @@ sweet potato pie;50
 sweet potato pies;50
 sweet ride;60
 sweet rides;50
+sweet Riesling;50
+sweet Rieslings;50
 sweet roll;50
 sweet rolls;50
 sweet sorrow;60
@@ -66985,6 +67094,7 @@ Swift Boat;50
 Swift Boats;50
 Swiftie;60
 Swifties;60
+swift justice;60
 swifts;20;Birds like swallows, not used in Shortz era
 swiller;40
 swillers;40
@@ -72335,6 +72445,7 @@ troubleshot;50
 trouser;40;OK as an adjective "trouser pockets"
 trouser role;60
 trouser roles;60
+trout amandine;50
 Troutman;50
 trouvère;30;Medieval poet
 trover;20;Type of lawsuit
@@ -72409,6 +72520,8 @@ trust fall;60
 trust fall exercise;60
 trust fall exercises;60
 trust falls;60
+trust fund kid;60
+trust fund kids;60
 trusties;30;Convict allowed special privileges
 trust in;40
 trusting in;40
@@ -73811,6 +73924,8 @@ UPS driver;60
 UPS drivers;60
 upsee-daisy;60
 upset the applecart;60
+upset victim;40;???
+upset victims;40;???
 upset with;40
 upsi-daisy;60
 upside-down cake;60
@@ -75925,6 +76040,7 @@ went public;50
 went rogue;60
 went round in circles;60
 went scuba diving;50
+went sideways;60
 went soft;50
 went solo;50
 went sour;50
