@@ -16989,6 +16989,7 @@ dev;40;Developer, or Dev Patel
 de Varona;40;???
 developer;50
 developers;50
+device vice;0
 devil;50
 Devil Dog;50
 Devil Dogs;50
