@@ -4155,6 +4155,7 @@ aromatize;40
 Aron;40;Elvis Aron Presley
 aroo;30;Suffix with buck/switch [common]
 arose from;40
+a rose is a rose is a rose;60
 around in circles;40
 around noon;30;Green paint
 around the bend;60
@@ -55100,7 +55101,10 @@ ratatattat;50
 ratatattats;40
 ratatouille;60
 Ratbert;30
+rate a ten;50
+rat-eaten;50
 rated AA;40
+rated a ten;50
 rated TV-G;40
 rated TV-MA;40
 rated TV-PG;40
@@ -55111,6 +55115,7 @@ ratel;20;Honey badger
 ratels;20;Honey badgers
 rater;50
 raters;50
+rates a ten;50
 rat fink;60
 rat finks;60
 rathole;50
@@ -55118,6 +55123,7 @@ ratholed;50
 ratholes;50
 ratholing;50
 ratine;20;Fabric
+rating a ten;50
 ratings;50
 ratiocinate;40;To reason
 ratiocinated;40
