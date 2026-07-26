@@ -20591,6 +20591,8 @@ cyst;50
 cystitis;40
 cysts;50
 cyt;20
+cytologic;40
+cytological;40
 Cy Twombly;50;Painter Cy Twombly
 Czarface;40;Hip-hop supergroup with Inspectah Deck
 Czech;50;Of the Czech Republic
