@@ -29472,6 +29472,7 @@ fastnesses;30;Secure refuges
 fast one;50
 fast seller;20
 fast shipping;60
+fast thinking;50
 fast zombie;50
 fast zombies;50
 fat;50
@@ -35017,6 +35018,7 @@ goes on record as;40
 goes on safari;60
 goes on sale;60
 goes on tour;60
+goes on vacation;50
 goes out;50
 goes out with;50
 goes over the line;60
@@ -35159,6 +35161,7 @@ going on record as;40
 going on safari;60
 going on sale;60
 going on tour;60
+going on vacation;50
 going out;50
 going out with;50
 going over the line;60
@@ -35572,6 +35575,7 @@ goon squads;60
 go on the lam;60
 go on the run;60
 go on tour;60
+go on vacation;50
 go on without me;60
 goos;30
 goosander;30;Sea duck
@@ -60786,7 +60790,7 @@ nounal;30
 Nouri;20;Actor Michael
 nous;30
 Nov;40
-Novacain;20
+Novacain;40;Common alternate spelling of novocaine, and its original German spelling
 no vacancies;60
 novae;40
 Novak;50;Novak Djokovic, tennis champ / Kim Novak, actress
@@ -94335,6 +94339,7 @@ Vegas;50;Las Vegas, familiarly
 Vegas showgirl;60
 Vegas showgirls;60
 Vegas Strip;60
+Vegas Vacation;50;Fourth installment in National Lampoon's Vacation film series
 Vegas Vic;50
 Vegemite;50;Australian yeast spread
 Vegenaise;40;Vegan mayo brand
@@ -96299,6 +96304,8 @@ well-documented;50
 well don't that beat all;60
 well drink;60
 well drinks;60
+well-earned vacation;60
+well-earned vacations;60
 we'll eat you for breakfast;60
 Weller;40;Peter Weller, RoboCop actor / Paul Weller, The Jam frontman
 Wellerism;40;Quotation twisted into a joke, per Dickens's Sam Weller
@@ -96467,6 +96474,7 @@ went on record as;40
 went on safari;60
 went on sale;60
 went on tour;60
+went on vacation;50
 went out;50
 went out like a light;60
 went out with;50
