@@ -13122,6 +13122,7 @@ butteries;40;Aberdeen rolls
 buttermilk;50
 buttermilk biscuit;50
 buttermilk biscuits;50
+butter my butt and call me a biscuit;60
 Butterworth;50;Mrs. Butterworth of the syrup bottle / Jez Butterworth, playwright
 but that's not all;60
 butthead;60
@@ -13557,7 +13558,10 @@ called in sick;60
 called it;60
 called it a wrap;60
 called it in the air;50
+called nine one one;50
 called on;40
+called one's bluff;60
+called out to;50
 called to;40
 called up;40
 Callender;40;Marie Callender, pie chain namesake
@@ -13581,7 +13585,10 @@ calling in;40
 calling in sick;60
 calling it a wrap;60
 calling it in the air;50
+calling nine one one;50
 calling on;40
+calling one's bluff;60
+calling out to;50
 calling station;60
 calling stations;60
 calling to;40
@@ -13597,14 +13604,26 @@ call it a tie;60
 call it a wrap;60
 call it even;60
 call it in the air;60
+Callixtus;40;Name of three popes
+Callixtus I;40;Pope Callixtus I (c. 218-223)
+Callixtus II;40;Pope Callixtus II (1119-1124)
+Callixtus III;40;Pope Callixtus III (1455-1458)
 call log;50
 call logs;50
 call me;50
 call me crazy;60
-call me crazy but;60
+call me crazy, but;60
+Call Me Mr. In-Between;50;1962 song by Burl Ives
+call me old-fashioned;60
+call me old-fashioned, but;60
+call nine one one;50
+call of;20
+Call of Cthulhu;60;1928 H. P. Lovecraft short story, with "The"
 Call of Duty: Black Ops;60
 Call of Duty: Modern Warfare;60
 call on;40
+call one's bluff;60
+call out to;50
 Calloway;50;Cab Calloway, "Minnie the Moocher" bandleader
 calls a truce;60
 calls back to;40
@@ -13617,7 +13636,9 @@ calls in;40
 calls in sick;60
 calls it a wrap;60
 calls it in the air;50
+calls nine one one;50
 calls on;40
+calls one's bluff;60
 calls to;40
 calls to arms;50
 calls up;40
@@ -29395,12 +29416,24 @@ fas;30;Scale notes [occasional]
 fasciae;30
 fascicle;30
 fascicles;30
+fashion accessories;60
+fashion accessory;60
+fashion brand;60
+fashionbrands;60
+fashion do;50
+fashion don't;50
+fashion don'ts;50
+fashion dos;50
+fashion dos and don'ts;60
 fashion mag;60
 fashion magazine;60
 fashion magazines;60
 fashion mags;60
+fashion piece;50;One of the timbers which terminate the transom and define the shape of the stern
 fashion reporter;60
 fashion reporters;60
+fashion shoot;60
+fashion shoots;60
 fashion tip;60
 fashion tips;60
 fashion victim;60
@@ -29428,6 +29461,7 @@ fastens onto;40
 fasten your seatbelt, it's going to be a bumpy ride;60
 fasten your seatbelt, it's gonna be a bumpy ride;60
 faster than greased lightning;60
+fast fashion;60
 Fast Five;50
 fast food;60
 fast-growing;50
@@ -41957,6 +41991,7 @@ Ilona;30;Rugby player Ilona Maher, actress Ilona Massey of old films
 Ilona Massey;40
 Ilonas;20
 I lose;40;Unnatural
+I Love an Old Fashioned Song;40;Song from "The Kid from Brooklyn" (1946 musical film)
 I love it here;60
 I Love Lucy;60
 I love that for you;60
@@ -98303,7 +98338,8 @@ XFs;20;Jaguar models
 X Games;60
 xhibit;20;???
 Xhosa;40;African ethnic group
-xi;40
+xi;40;Greek letter
+XI;30;Roman numeral 11
 Xia;20
 Xia dynasty;50
 Xiamen;40;Chinese port city
@@ -98317,7 +98353,7 @@ Xiaoping;50;Deng Xiaoping, Chinese leader
 Xicanisma;40;Chicana feminist philosophy
 Xicanx;40;Gender-neutral term for Chicano
 xie xie;40;Mandarin "thank you"
-XII;30
+XII;40
 XIII;30
 Ximena;40;Spanish given name, borne by El Cid's wife
 x in;30
