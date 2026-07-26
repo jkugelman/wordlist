@@ -17772,6 +17772,8 @@ cogito ergo sum;60
 cognation;40;Related by blood
 cognitive bias;60
 cognitive biases;60
+cognitive state;50
+cognitive states;50
 cognizable;40
 cognizance;50
 cognizant;50
@@ -30687,8 +30689,13 @@ five o'clock shadow;60
 Five Pillars of Islam;60
 five PM;50
 Fiverr;50;Freelance gig marketplace
+five stages of grief;60
+five-star hotel;60
+five-star hotels;60
 five-star rating;60
 five-star ratings;60
+five-star restaurant;60
+five-star restaurants;60
 five-star review;60
 five-star reviews;60
 five-string;60
@@ -49322,6 +49329,8 @@ Leaves of Grass;60
 leaves on;40
 leaves on read;60
 leaves right away;30;Green paint
+leaves standing;50
+leave standing;50
 leaves to;40
 leaves unfinished;50
 leave this to me;60;"I'll take care of the problem"
@@ -49335,6 +49344,7 @@ leaving in;40
 leaving on;40
 leaving on read;60
 leaving right away;30;Green paint
+leaving standing;40
 leaving to;40
 leaving unfinished;50
 Leavitt;40;Henrietta Swan Leavitt, astronomer
@@ -49453,6 +49463,7 @@ leftover;50
 leftovers;50
 left-right;50
 left right away;30;Green paint
+left standing;50
 left to;40
 left turn at Albuquerque;60
 left unfinished;50
@@ -72046,7 +72057,7 @@ reetches;20
 reetching;20
 Reeve;40;Christopher Reeve
 reeved;20
-Reeve's Tale;20;One of Chaucer's Canterbury Tales
+Reeve's Tale;40;One of Chaucer's Canterbury Tales, with "The"
 reeving;20
 ref;50
 reface;20
@@ -94511,7 +94522,7 @@ Vespas;40;Italian motor scooters
 Vespasian;40;Roman emperor who began the Colosseum
 Vespertine;50;Of the evening, or a Björk album
 Vespucci;50;Amerigo Vespucci, explorer America was named for
-Vesta;50;Roman hearth goddess, and a big asteroid
+Vesta;40;Roman hearth goddess, and a big asteroid
 Vestal;50;Vestal virgin, Roman priestess
 Vestals;40;Roman priestesses of Vesta
 vestee;30;Decorative dress piece, dated
