@@ -18636,6 +18636,7 @@ Conte;40;Conté crayon, or Antonio Conte, soccer manager
 contemn;20;Treat with contempt
 contemned;20;Treated with contempt
 contemns;20;Treats with contempt
+contemporary french cooking;20
 content creator;60
 content creators;60
 content farm;60
@@ -28835,6 +28836,7 @@ eye folds;50
 eye for;20
 eye for an eye;60
 eye for an eye, tooth for a tooth;60
+eye for detail;60
 eye for eye;50
 eye for eye, and tooth for tooth;60
 eyeful;50
@@ -32075,11 +32077,22 @@ Freleng;40;Friz Freleng, Looney Tunes director
 Fremantle;40;Port city near Perth
 Fremont;40;John C. Frémont, explorer / California city
 Fremulon;40;Michael Schur's production company
+French;50
+french;50
+French braid;60
+French braided;60
+French braiding;60
+French braids;60
 French Bulldog;50
 French Bulldogs;50
+French capital;0
 French club;50
 French clubs;50
+French colonial;60
 French Connection;50
+French cooking;50
+French Creole;60
+French creoles;60
 French cuff;50
 French cuffs;50
 French cuisine;50
@@ -32087,8 +32100,13 @@ French dressing;60
 French hens;60
 French horn;50
 French horns;50
-French Lick;50
+French lesson;50
+French lessons;50
+French Lick;60
+French Lick, Indiana;60
+French Lick Indiana;0
 French lit;50
+French literature;60
 French maid;50
 French maids;50
 Frenchman;50;Man from France
@@ -32097,6 +32115,7 @@ French omelet;50
 French omelets;50
 French omelette;50
 French omelettes;50
+French onion;60
 French Open;50
 French Opens;50
 French poodle;50
@@ -32104,14 +32123,21 @@ French poodles;50
 French Quarter;50
 French Revolution;50
 French Riviera;50
-French roast;50
+French roast;60
+French roasts;60
 French's;40;Mustard brand
 French silk;50
+French-speaking;50
 French Sudan;50
+French teacher;60
+French teachers;60
 French twist;50
 French twists;50
 French vanilla;50
 French vanilla ice cream;50
+Frenchwoman;50
+Frenchwomen;50
+Frenchy;50
 Freneau;40;Philip Freneau, poet of the American Revolution
 frenemies;60
 frenemy;60
@@ -39267,6 +39293,7 @@ Hicham;40;Hicham El Guerrouj, world-record miler
 Hicham El Guerrouj;60;Hicham El Guerrouj, mile run world record holder
 Hickam;40;Homer Hickam, "Rocket Boys" author
 Hickenlooper;50;John Hickenlooper, Colorado senator
+Hick from French Lick;60;Nickname for basketball player Larry Bird
 Hickok;40;Wild Bill Hickok, Old West gunfighter
 hick town;50
 hick towns;50
@@ -88397,6 +88424,8 @@ The Foot Book;60;Dr. Seuss book
 The Force Awakens;60
 the Foreign Legion;30
 The Four Aces;50;1950s male pop quartet
+the French Alps;60
+the French Quarter;60
 The Frog Prince;60
 the Frug;40;1960s dance craze
 the fuck;10
@@ -88458,6 +88487,7 @@ The Heiress;40;1949 movie
 the Heisman;30
 the herd;30
 the Hermit;60;Tarot card
+The Hick from French Lick;60;Nickname for basketball player Larry Bird
 the Hierophant;60;Tarot card
 the high life;60
 the High Priestess;60;Tarot card
