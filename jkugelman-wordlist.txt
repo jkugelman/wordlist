@@ -3480,6 +3480,8 @@ Amram;40;Megan Amram, comedy writer / David Amram, composer
 amrita;20;Hindu beverage
 amritas;20;Hindu beverages
 Amritsar;20;Indian city
+Amritsar, India;40
+Amritsar India;0
 AMs;20
 am so;40;Playground retort
 AM station;50
@@ -20595,6 +20597,14 @@ cytologic;40
 cytological;40
 Cy Twombly;50;Painter Cy Twombly
 Czarface;40;Hip-hop supergroup with Inspectah Deck
+czarina;40
+czarinas;40
+czarism;40
+czarist;40
+czaristic;40
+czarists;40
+czaritza;30;Czarina
+czaritzas;30;Czarinas
 Czech;50;Of the Czech Republic
 Czechia;50;The Czech Republic, officially
 Czechoslovak;50;Of the former Czechoslovakia
@@ -92084,11 +92094,14 @@ TSA officers;50
 TSA Pre;50
 tsar;50
 Tsar Alexander II;40
-tsarina;50
-tsarinas;50
+tsarina;40
+tsarinas;40
 tsarism;50
 tsarist;50
 tsarists;50
+tsaritsa;30;Tsarina
+tsaritsas;30;Tsarinas
+Tsar Ivan IV;50;Ivan the Terrible
 Tsar of all Russia;60;Ivan the Terrible was the first
 tsars;50
 Tschabalala;40;Tschabalala Self, American painter
