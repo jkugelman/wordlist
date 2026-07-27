@@ -2176,7 +2176,8 @@ Akelas;40;"Jungle Book" wolf leaders / Cub Scout leaders
 Akerlund;40;Jonas Åkerlund, music video director
 Akerman;40;Malin Akerman, actress / Chantal Akerman, Belgian filmmaker
 Akers;40;Michelle Akers, FIFA Female Player of the Century
-Akhenaten;50;Monotheist pharaoh
+Akhenaten;40;Eighteenth Dynasty Egyptian pharaoh
+akhenaton;40;Eighteenth Dynasty Egyptian pharaoh
 Akhmatova;50;Anna Akhmatova, Russian poet
 Akhnaten;40;Philip Glass opera about the pharaoh Akhenaten
 Akhtar;40;Ayad Akhtar, Pulitzer-winning playwright
@@ -27714,10 +27715,14 @@ Ernsts;20
 ER nurse;40
 ER nurses;40
 ero;20
+erode away;40
+eroded away;40
 erodent;30;Erosive
 eroder;40
 eroders;40
+erodes away;40
 erodible;40
+eroding away;40
 erogenous;60
 Eroica;40;Beethoven symphony
 eroplane;0
@@ -66960,6 +66965,8 @@ pill popping;40
 Pillsbury;50;Doughboy's brand
 pilose;40;Covered with soft hair
 pilotage;40
+pilot episode;60
+pilot episodes;60
 pilot error;50
 pilot errors;50
 pilot studies;50
@@ -81179,6 +81186,7 @@ smooshing;50
 smooshing together;50
 smoosh together;50
 Smoot;40;Smoot-Hawley Tariff Act / MIT unit of length
+Smooth Criminal;60;1988 single by Michael Jackson
 smoothen;40
 smoothened;40
 smoothens;40
@@ -92893,6 +92901,12 @@ two dots;20
 two-drink minimum;60
 two-drink minimums;60
 two-em;20
+two-inch;30
+two-income;50
+two-income families;60
+two-income family;60
+two-income household;60
+two-income households;60
 two iron;50
 two irons;50
 T-Wolf;20;Minnesota basketball player?
