@@ -6422,6 +6422,8 @@ auditory illusions;60
 audit report;50
 audit reports;50
 audits a class;50
+audit season;50
+audit seasons;50
 audit trail;50
 audit trails;50
 Audra;40;Audra McDonald of Broadway
@@ -9790,6 +9792,7 @@ big sleep;60
 Big Slick;60;Ace-king in poker
 big talk;60
 big three-O;60
+Big Thunder Mountain Railroad;60;Roller coaster at multiple Disney parks
 big time;60
 big to-do;60
 big to-dos;50
@@ -15872,6 +15875,7 @@ chaster;50
 chastest;50
 chastiser;40
 chastisers;40
+Chastity Bono;50
 chat area;20
 chat areas;20
 chatbot;60
@@ -19360,6 +19364,8 @@ court reporter;50
 court reporters;50
 court ruling;50
 court rulings;50
+court success;20
+court summons;50
 Courvoisier;50;Cognac brand
 cousinly;30
 Cousteau;50;Jacques Cousteau, undersea explorer
@@ -22901,6 +22907,8 @@ digitalizing;30
 digital libraries;60
 digital library;60
 digital literacy;60
+Digital Short;60
+Digital Shorts;60
 digital SLR;50
 digital SLRs;50
 Diglett;50;Pokeyman
@@ -28520,20 +28528,28 @@ evels;20
 Evelyn;50;Common first name: Evelyn Waugh, Evelyn Nesbit
 even better;60
 even chance;50
+evened the score;60
+evened up the score;50
 evener;40;Correct, but rarely used
 evenest;40;Correct, but rarely used
 evenfall;50;Dusk, literarily
 even I know that;60
 evening stroll;50
 evening strolls;50
+evening the score;60
+evening up the score;50
 even money bet;60
 even money bets;60
 even odds;50
 even split;50
 even splits;50
+evens the score;60
+evens up the score;50
 Eventbrite;50;Event ticketing site
+even the score;60
 event planner;50
 event planners;50
+even up the score;50
 Everage;40;Dame Edna Everage
 Everclear;50;Grain alcohol brand / '90s rock band
 Everdeen;50;Katniss Everdeen, "The Hunger Games" heroine
@@ -42390,6 +42406,7 @@ I'm not even here;60
 I'm not finished;60
 I'm not finished yet;60
 I'm not going to read all that;60
+I'm Not Gonna Let It Bother Me Tonight;50;1978 single by Atlanta Rhythm Section
 I'm not gonna read all that;60
 I'm not having it;60
 I'm not made of money;60
@@ -45715,7 +45732,7 @@ joining forces;50
 joins forces;50
 joint;50
 joint committee;50
-joint custody;50
+joint custody;60
 jointer;40;???
 jointers;40
 joint owner;50
@@ -50079,6 +50096,7 @@ let him cook;60
 lethologica;60;Inability to remember the right word (tip of the tongue)
 let in on;40
 let into;40
+let it be known;60
 let it die;50
 let it drop;50
 let it go;60
@@ -50132,6 +50150,7 @@ let's hear it;60
 let's hope so;60
 lets in on;40
 lets into;40
+lets it be known;60
 let's just move on;60
 let's just move past it;60
 let's just say;60
@@ -50207,6 +50226,7 @@ let this be a lesson to you all;60
 letting back in;40
 letting in on;40
 letting into;40
+letting it be known;60
 letting nature take its course;60
 letting off;40
 letting rip;50
@@ -57750,6 +57770,10 @@ Mountain Cheese Olympics;60
 Mountain King;60
 mountainous area;40
 mountain pose;60
+mountain ridge;50
+mountain ridges;50
+mountain road;50
+mountain roads;50
 mountain state;50
 mountain states;50
 Mountain View;60
@@ -58564,6 +58588,8 @@ Mystery Science Theater;60
 MythBusters;50;Discovery Channel science show
 mythologicalgod;0
 Mytilene;40;Capital of Lesbos, Greece
+my water broke;60
+my water just broke;60
 N;40
 Na;40
 NAACP;40
@@ -64562,16 +64588,24 @@ paint chips;50
 painted over;50
 painted ponies;60
 painted pony;60
+painted the corners;60;Threw precisely onto the outer edges of home plate, as a baseball pitcher
+painted the town;50;Alternative form of painted the town red
 Painter Smurf;60
 paint fleck;50
 paint flecks;50
 paint fumes;50
 paint gun;50
 paint guns;50
+painting the corners;60;Throwing precisely onto the outer edges of home plate, as a baseball pitcher
+painting the town;50;Alternative form of painting the town red
 Paint It Black;60;Rolling Stones song
 paint it red;20;???
 paint mixer;50
 paint mixers;50
+paints the corners;60;Throws precisely onto the outer edges of home plate, as a baseball pitcher
+paints the town;50;Alternative form of paints the town red
+paint the corners;60;Throw precisely onto the outer edges of home plate, as a baseball pitcher
+paint the town;50;Alternative form of paint the town red
 pair-bond;50
 pair-bonded;50
 pair-bonds;50
@@ -81531,6 +81565,8 @@ SNL alum;60
 SNL alumni;60
 SNL alumnus;60
 SNL alums;60
+SNL Digital Short;60
+SNL Digital Shorts;60
 SNL host;60
 SNL hosts;60
 SNL sketch;60
@@ -82043,10 +82079,23 @@ someone once said;60
 Somers;40
 Somerset;50;English county, or W. Somerset Maugham
 Somerville;40;City next door to Cambridge, Massachusetts
+something blue;60
+something borrowed;60
 something doesn't add up;60
+something for nothing;60
+Something in the Way;60;1991 song by Nirvana
+something isn't right;60
+something is rotten in the state of Denmark;60
+something new;60
 something of a character;60
+something old;60
+something or other;60
+some things are better left unsaid;60
+something's bothering me;60
+something's gotta give;60
 some things never change;60
 something's not adding up;60
+some things you never get used to;60
 something to go on;60
 Something Wicked This Way Comes;60
 something wrong;60
@@ -85998,6 +86047,7 @@ sweet tea;60
 sweet tooth;60
 Sweet Valley;50
 Sweet Valley High;60
+Sweet Victory;50
 swell mob;50
 swell mobs;50
 Swenglish;40;Swedish-inflected English
@@ -97263,6 +97313,7 @@ whishes;30
 whishing;30
 whisht;20
 Whiskas;40;Cat food brand
+Whiskey in My Water;60;2013 country song by Tyler Farr
 Whiskey Rebellion;50
 whiskey stone;50
 whiskey stones;50
@@ -98503,6 +98554,10 @@ Wrigley's;40;Gum brand
 Wriothesley;40;Henry Wriothesley, Shakespeare's patron
 wrist pad;50
 wrist pads;50
+wrist rest;60
+wrist rests;60
+wrist support;50
+wrist supports;50
 write in;50
 write on;40
 writer-in-residence;60
