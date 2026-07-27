@@ -922,6 +922,8 @@ acne scars;40
 A Complete Unknown;60;Bob Dylan biopic
 Aconcagua;50;Highest peak in the Americas
 a cool mil;60
+A Cool Million;60
+a cool million;60
 Acosta;40;Jim Acosta, journalist
 a couple;30
 a-courtin';20
@@ -4517,9 +4519,13 @@ Apollo XIII;40;Movie
 Apollyon;40;Destroying angel of Revelation
 Apolo;40;Skater Ohno
 ApologetiX;40;Christian parody rock band
+apologized for;40
 apologized to;40
+apologize for;40
+apologizes for;40
 apologizes to;40
 apologize to;40
+apologizing for;40
 apologizing to;40
 apologue;40;Fable with animals as characters
 apology card;60
@@ -9157,8 +9163,11 @@ Benchley;40;Peter Benchley, "Jaws" author
 bench player;50
 bench players;50
 BenDeLaCreme;50;"RuPaul's Drag Race" queen
+bending the rules;60
 Bendix;40;Brake brand / William Bendix, actor
 Bend Oregon;60
+bends the rules;60
+bend the rules;60
 bene;40;N.B.
 Beneatha;40;Beneatha Younger of "A Raisin in the Sun"
 beneathme;0
@@ -9242,12 +9251,14 @@ Bentleys;40;British luxury cars
 bentonite;30;Type of clay
 Bentonville;40;Arkansas city, Walmart's home
 Bentsen;40;Lloyd Bentsen, "You're no Jack Kennedy" senator
+bent the rules;60
 benvenuti;50;"Welcome" in Italian
 Benvenuto;40;Benvenuto Cellini, Renaissance sculptor
 Benvolio;40;"Romeo and Juliet" character
 Benz;50;Karl Benz, automobile pioneer / Mercedes-Benz
 benzoin;20
 be one;20
+be on the lookout for;50
 Beothuk;40;Extinct Indigenous people of Newfoundland
 Beowulf;50;Old English epic hero
 be polite;60
@@ -14580,6 +14591,8 @@ carped at;40
 Carpentaria;40;Gulf off northern Australia
 carpentry;50
 Carper;40;Tom Carper, Delaware senator
+carpet store;50
+carpet stores;50
 carpet treatment;50
 carpet treatments;50
 carpi;20;Wrist bones
@@ -19004,6 +19017,8 @@ cornels;30;Dogwoods
 corner pocket;60
 corner pockets;60
 Cornershop;40;"Brimful of Asha" band
+corner store;60
+corner stores;60
 cornetist;40
 cornetists;40
 cornfield maze;60
@@ -19020,6 +19035,8 @@ corn pits;40
 corn stunt;50;Corn disease
 corn stunt disease;50
 corn sweat;60
+corn tortilla;60
+corn tortillas;60
 Cornwall;50;English county at Britain's southwest tip
 Cornwallis;50;Charles Cornwallis, British general who surrendered at Yorktown
 Cornwell;40;Patricia Cornwell, crime novelist / Bernard Cornwell, "Sharpe" author
@@ -21646,6 +21663,9 @@ decision maker;60
 decision makers;60
 decisive action;60
 Deckard;50;Rick Deckard, "Blade Runner" hero
+deck the hall;20
+Deck the Halls;60
+deck the halls with boughs of holly;60
 declaim;50;Speak bombastically
 declaimed;50
 declaimer;30
@@ -21731,6 +21751,7 @@ deep fryer;60
 deep fryers;60
 deep frying;60
 deep funk;50
+deep gratitude;50
 deep history;60;Study of the distant past of humanity through arcaheology, linguistics, genetics, anthropology, etc.
 deep hole;50
 deep holes;50
@@ -31187,6 +31208,8 @@ Flosstradamus;50;EDM duo with a punny name
 floured;40
 flour sack dress;60
 flour sack dresses;60
+flour tortilla;60
+flour tortillas;60
 flowage;40
 flowages;40
 flower;50
@@ -35132,6 +35155,7 @@ goes to;40
 goes to great lengths;60
 goes to hell;60
 goes to seed;60
+goes to the polls;60
 goes up to;40
 goes vegan;60
 goes west;40;Green paint???
@@ -35274,6 +35298,7 @@ going to;40
 going to great lengths;60
 going to hell;60
 going to seed;60
+going to the polls;60
 going up to;40
 going vegan;60
 going with;40
@@ -35481,6 +35506,7 @@ gone rogue;60
 gone senile;50
 gone soft;50
 gone to seed;60
+gone to the polls;60
 gone wrong;40
 Gonggong;40;Dwarf planet named for a Chinese water god
 gongongongongon;0
@@ -35876,6 +35902,7 @@ go too far;60
 go-tos;50
 go to seed;60
 go to sleep;50
+go to the polls;60
 got out alive;60
 got out of a jam;60
 got out of sight;60
@@ -47833,6 +47860,7 @@ Krackel;40;Hershey's crisped rice candy bar
 Krackels;40;Nestle Krackel bars
 Kracker;40;Uncle Kracker, "Follow Me" singer
 Kraft;50;Macaroni and cheese brand / Robert Kraft, Patriots owner
+Kraft Singles;60
 Kraftwerk;50;German electronic music pioneers
 krait;30;???
 kraits;30;???
@@ -51501,6 +51529,8 @@ looked fishy;60
 looked forward;50
 looked forward to;50
 looked into;40
+looked out for;40
+looked out for number one;60
 looked the fool;50
 looked to;40
 looked up to;50
@@ -51522,6 +51552,8 @@ looking forward;50
 looking forward to;50
 looking glass;60
 looking into;40
+looking out for;40
+looking out for number one;60
 looking the fool;50
 looking to;40
 looking up to;50
@@ -51531,6 +51563,8 @@ look, Ma;60
 look me in the eye;60
 look me in the eye and say that;60
 look one's best;50
+look out for;40
+look out for number one;60
 lookout man;60
 looks a fool;50
 looks after;50
@@ -51549,6 +51583,8 @@ looksmaxx;60
 looksmaxxer;60
 looksmaxxers;60
 looksmaxxing;60
+looks out for;40
+looks out for number one;60
 looks the fool;50
 looks to;40
 looks up to;50
@@ -56508,6 +56544,10 @@ Miros;40;Joan Miró paintings
 Mirren;50;Helen Mirren, Oscar-winning actor
 mirror image;60
 mirror images;60
+mirror, mirror;60
+mirror mirror;0
+mirror, mirror on the wall;60
+mirror mirror on the wall;0
 mirror of the mind;60
 mirror shades;60
 mirror universes;60
@@ -64161,6 +64201,7 @@ Overstreet;40;Chord Overstreet, actor on "Glee"
 overstuffed chair;60
 overstuffed chairs;60
 overthe;0
+over the falls;60;When a surfer falls off the board and the wave sucks them up in a circular motion along with the lip of the wave
 overtime loss;50
 overtime losses;50
 overtimes;50
@@ -66422,6 +66463,8 @@ PGA Championship;50
 PGA Championships;50
 PGA Tour;50
 PGH;20
+PG-rated film;50
+PG-rated films;50
 PG-rated movie;50
 PG-rated movies;50
 PG rating;50
@@ -82752,6 +82795,8 @@ spilt milk;50
 spinaches;30
 spinach salad;50
 spinach salads;50
+spinach tortilla;60
+spinach tortillas;60
 spinal cord;60
 spinal cords;60
 spinal disc;50
@@ -84404,6 +84449,11 @@ Stone Age;60
 stonechat;30;Small bird
 stonechats;30;Small birds
 stone-cold;60
+stone-cold fox;60
+stone-cold foxes;60
+Stone Cold Steve Austin;60
+stone-cold stunner;60
+stone-cold stunners;60
 stonefish;50
 stonefishes;50
 Stonehenge;50;Salisbury Plain megaliths
@@ -86354,6 +86404,7 @@ take a hard pass;50
 take a header;50
 take a hint;60
 take aim at;40
+take a joy ride;60
 take a knee;60
 take a leap;50
 take all;30
@@ -86440,6 +86491,7 @@ takes a hard pass;50
 takes a header;50
 takes a hint;50
 takes aim at;40
+takes a joy ride;60
 takes a knee;60
 takes a leap;50
 takes a look;50
@@ -86533,6 +86585,7 @@ taking after;50
 taking a hard pass;50
 taking a header;50
 taking aim at;40
+taking a joy ride;60
 taking a knee;60
 taking a leap;50
 taking a look;50
@@ -90838,6 +90891,7 @@ took a hard pass;50
 took a header;50
 took a hint;50
 took aim at;40
+took a joy ride;60
 took a knee;60
 took a leap;50
 took a look;50
@@ -91114,6 +91168,7 @@ torten;20
 tortilla chip;60
 tortilla chips;60
 Tortilla Flat;60
+tortilla soup;60
 tortilla wrap;50
 tortilla wraps;50
 tortoise;50
@@ -92053,6 +92108,8 @@ Tron Ares;50;"Tron: Ares"
 Trondheim;40;Norwegian city
 Troopa;40;Koopa Troopa, Mario turtle
 Troopas;40;Koopa Troopas, Mario's turtles
+troop carrier;50
+troop carriers;50
 trooped in;30
 troop in;30
 trooping in;30
@@ -96715,6 +96772,7 @@ went to;40
 went to great lengths;60
 went to hell;60
 went to seed;60
+went to the polls;60
 went up to;40
 went vegan;60
 went with;40
@@ -97234,8 +97292,18 @@ who does she think she is?;60
 who does that;60
 who do they think they are?;60
 who else;50
-who gives a flip;60
-who gives a shit;10
+who gives a crap?;50
+who gives a crap;0
+who gives a damn?;60
+who gives a damn;0
+who gives a fig?;60
+who gives a flip?;60
+who gives a flip;0
+who gives a fuck?;10
+who gives a fuck;0
+who gives a rip?;60
+who gives a shit?;10
+who gives a shit;0
 who hasn't;60;"We've all been there, right?"
 who is it;60
 who is that;60
