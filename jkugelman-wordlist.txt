@@ -37440,7 +37440,7 @@ Halep;40;Simona Halep, world no. 1 tennis player for 64 weeks in 2017-2018
 haler;50
 halest;50
 Halestorm;40;Grammy-winning hard rock band
-Haley;50;Common name: Alex Haley, Bill Haley
+Haley;40;Common name: Alex Haley, Bill Haley, Haley Joel Osment
 half acre;20
 half an hour;50
 half-Asian;50
