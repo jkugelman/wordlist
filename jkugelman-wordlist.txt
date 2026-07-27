@@ -2894,7 +2894,17 @@ alopecia;40
 alopecias;30
 a lot of;40
 a lotta money;20;???
+a lot to answer for;50
 a lot to ask;60
+a lot to do;50
+a lot to do with;20
+a lot to handle;50
+a lot to learn;50
+a lot to lose;50
+a lot to manage;50
+a lot to offer;50
+a lot to say about;20
+a lot to take in;60
 a lot to unpack;60
 Alou;40
 Alouette;40;French children's song, or a Montreal CFL player
@@ -13525,6 +13535,8 @@ California condors;50
 California Golden Bear;50
 California Golden Bears;50
 California gold rush;60
+California lotto;50
+California lottos;50
 Californian;50
 Californians;50
 California redwood;50
@@ -38217,6 +38229,8 @@ have a line on;60
 have a look;50
 have a look around;60
 have a look at;40
+have a lot to do with;50
+have a lot to say about;50
 have an air;40
 have a nap;40
 have an axe to grind;60
@@ -41633,6 +41647,7 @@ idolism;30
 idol worship;60
 idol worships;30
 Idomeneo;50;Mozart opera
+I done goofed;60
 I do not;50
 I don't ask;60
 I don't believe it;60
@@ -43573,8 +43588,8 @@ iPod Mini;50
 iPod Minis;50
 iPod Nano;50
 iPod Nanos;50
-iPod Shuffle;40
-iPod Shuffles;40
+iPod Shuffle;60
+iPod Shuffles;60
 iPod Touch;40
 iPod Touches;40
 IPOs;40
@@ -44277,6 +44292,7 @@ it's all the rage;60
 it's all the same to me;60
 it's all you;60
 it's a losing battle;60
+it's a lot to take in;60
 it's a lot to unpack;60
 It's Always Sunny in Philadelphia;60
 it's a matter of public record;60
@@ -82892,6 +82908,10 @@ SpongeBob;60
 SpongeBob SquarePants;60
 SpongeBoy;50;SpongeBob's original name
 sponge cake;50
+sponged off of;50
+sponge off of;50
+sponges off of;50
+sponging off of;50
 sponsored ad;50
 sponsored ads;50
 sponsored content;60
@@ -89552,7 +89572,7 @@ Thomas Edison;60
 Thomas Haden Church;50
 Thomasin;40;Thomasin McKenzie, New Zealand actress
 Thomasina;40;Feminine form of Thomas
-Thomas Paine;50
+Thomas Paine;60;Founding Father, inventor, political philosopher, and statesman
 Thomas Pynchon;60;Author of "Gravity's Rainbow"
 Thomism;40;Philosophy of Thomas Aquinas
 Thomist;40;Follower of Thomas Aquinas
