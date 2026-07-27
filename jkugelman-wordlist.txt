@@ -6346,6 +6346,8 @@ at that stage;50
 at that time;50
 at the ass crack of dawn;60
 at the bat;30;Awkward
+at the bottom;40
+at the bottom of;40
 at the drop of a hat;60
 at the end of;40
 at the end of the day;60
@@ -9531,6 +9533,7 @@ Betts;30;???
 Betty;50;Common first name, or a baked apple dessert
 Betty Grable;50
 Betye;40;Betye Saar, assemblage artist
+bet your bottom dollar;60
 Beulah;40;Beulah Land of Scripture / Beulah Bondi, actress
 be unaware of;20
 beurre;30;Butter: French
@@ -11521,9 +11524,14 @@ bottom deal;60
 bottom dealer;60
 bottom dealers;60
 bottom dealing;60
+bottom left corner;40
+bottomless mimosas;60
 bottom line;60
+bottom of the class;60
+bottom of the hour;60
 bottom quark;50
 bottom quarks;50
+bottom right corner;40
 bottom rung;50
 Botts' dots;50
 Botvinnik;40;Mikhail Botvinnik, world chess champion
@@ -35935,6 +35943,7 @@ Gotta Catch 'Em All;60
 gottan;30;Japanese plucked instrument
 gotten emotional;50
 gotten in;40
+gotten to the bottom of;60
 Gotterdammerung;50;Götterdämmerung, Wagner's "Ring" finale
 Gottfried;50;Gilbert Gottfried, comedian / Gottfried Leibniz, mathematician
 got the ax;60
@@ -67378,6 +67387,8 @@ pizza slicers;50
 pizzazz;50
 pizzicato;50
 Pizzolatto;40;Nic Pizzolatto, "True Detective" creator
+PJ bottom;50
+PJ bottoms;50
 PJs;50
 pkg;20
 pkgs;30
@@ -74280,6 +74291,9 @@ Rockapella;50;A cappella group of "Where in the World Is Carmen Sandiego?"
 Rock Around the Clock;60;1954 rock and roll song
 Rockatansky;60;Max Rockatansky, Mad Max's full name
 Rockaway;40;Queens beach neighborhood
+rock-bottom price;60
+rock-bottom prices;60
+rock bottom prices;0
 rock climb;60
 rock climbed;60
 rock climber;60
@@ -77178,10 +77192,14 @@ scrag;30
 scrags;30
 Scrambled Eggs Super;60;Dr. Seuss book
 Scranton;50;Pennsylvania city where "The Office" is set
+scraped the bottom of the barrel;60
 scraped up;40
+scrapes the bottom of the barrel;60
 scrapes up;40
+scrape the bottom of the barrel;60
 scrape up;40
 scrapie;30;Sheep/goat prion disease
+scraping the bottom of the barrel;60
 scraping up;40
 scrap iron;50
 Scrat;40;"Ice Age" squirrel
@@ -77748,6 +77766,7 @@ Seether;40;Post-grunge band
 see things;50
 see-thru;40
 see to;40
+see to the bottom of;20
 see TV;20
 see-um;20
 see-ums;20
@@ -91088,9 +91107,12 @@ Topikachu;40;???
 toping;10;Drinking to excess
 top job;40;Green paint?
 Topkapi;30;1964 movie, or Istanbul palace
+top left corner;40
 top marks;50
 top notch;50
 Topo;40;Topo Chico sparkling water / "El Topo"
+top of the class;60
+top of the hour;60
 topos;30;Literary theme
 to pot;40
 top out at;40
@@ -91102,6 +91124,7 @@ Topps;40;Trading card company
 top quark;50
 top quarks;50
 top-rated;50
+top right corner;40
 top rope;60
 top roped;60
 top ropes;60
@@ -93871,6 +93894,7 @@ UPI;30
 up ice;20;Czech town
 up in arms;60
 up in flames;60
+up in the top and bottom rows;0
 Upjohn;30;Defunct pharmaceutical company
 uploaded questions;0
 UPN;20
@@ -99419,7 +99443,9 @@ you aren't gonna need it;60
 you are what you eat;60
 you awake;60
 you bet;60
+you bet your bottom dollar;60
 you called;60
+you can bet your bottom dollar;60
 you can do it;60
 you can do that;60
 you can only blame yourself;60
