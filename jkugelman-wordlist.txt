@@ -10312,6 +10312,10 @@ blamed on;40
 blame on;40
 blamer;40
 blamers;40
+blame shift;60
+blame shifted;60
+blame shifting;60
+blame shifts;60
 blames on;40
 blaming on;40
 Blanca;40;Spanish for "white," as in Bahía Blanca
@@ -13377,6 +13381,8 @@ Caesarean;50;Surgical delivery
 Caesareans;50;C-sections
 Caesarion;40;Son of Julius Caesar and Cleopatra
 Caesars;50;Caesars Palace, Las Vegas casino
+Caesar shift;60
+Caesar shifts;60
 caesium;40
 caesura;30;Metrical pause
 caesurae;30
@@ -20327,6 +20333,8 @@ cult hits;50
 cultural fabric;60
 cultural icon;50
 cultural icons;50
+cultural shift;50
+cultural shifts;50
 culture vulture;60;Art hound
 culture vultures;60;Art hounds
 culture war;60
@@ -24327,6 +24335,8 @@ Doublemint;50;Wrigley gum
 Double O;20
 double pepperoni;50
 doubler;30
+double shift;50
+double shifts;60
 double shot;50
 double shots;50
 double-slit experiment;60
@@ -32233,6 +32243,8 @@ frenemy;60
 Freon;50;Refrigerant
 frequency band;50
 frequency bands;50
+frequency shift;50
+frequency shifts;50
 frequently overlooked;50
 frère;40
 frères;40
@@ -42922,6 +42934,8 @@ infester;30
 infesters;30
 infielder;50
 infielders;50
+infield shift;50
+infield shifts;50
 in fine fettle;60
 infinite money glitch;60
 infinite money glitches;60
@@ -46019,6 +46033,8 @@ jumps at;40
 jumps bail;50
 jump scare;60
 jump scares;60
+jump shift;50;American football shift maneuver
+jump shifts;50;American football shift maneuvers
 jump shooter;50
 jump shooters;50
 jumps into;40
@@ -51241,6 +51257,8 @@ lobster pots;60
 lobster ravioli;60
 lobster roll;60
 lobster rolls;60
+lobster shift;50;Work shift that covers late evening and early morning hours
+lobster shifts;50;Work shifts that covers late evening and early morning hours
 lobster tail;60
 lobster tails;60
 lobster trap;60
@@ -53264,6 +53282,8 @@ makes faces;50
 makes good;50
 makes good on;50
 makes heads roll;60
+makeshift bomb;10
+makeshift bombs;10
 make short work of;60
 makes it look easy;60
 makes it pop;60
@@ -62010,6 +62030,7 @@ oft;50
 oftener;20
 oftenest;20
 often overlooked;50
+of the night shift;20
 of the past;40
 of yore;40
 OG;40
@@ -78803,6 +78824,12 @@ Shaolin wushu;60
 shapelier;50
 shapeliest;50
 shapen;40;Ill-shapen
+shapeshift;60
+shapeshifted;60
+shapeshifter;60
+shapeshifters;60
+shapeshifting;60
+shapeshifts;60
 Shapiro;40;Josh Shapiro, Pennsylvania governor / Ari Shapiro, NPR host
 Shaq;50;Shaquille O'Neal, NBA great
 Shaqtin';40;"Shaqtin' a Fool," Shaq's blooper reel
@@ -79085,10 +79112,24 @@ shield law;50
 shield laws;50
 shiers;40;Skittish horses
 Shiffrin;50;Mikaela Shiffrin, record-setting skier
+shift about;40
+shift a letter;20
+shift down;40
+shifted about;40
+shifted down;40
 shifted into;40
+shifted the blame;60
+shifting about;40
+shifting down;40
 shifting into;40
+shifting sands;60
+shifting the blame;60
 shift into;40
+shifts about;40
+shifts down;40
 shifts into;40
+shifts the blame;60
+shift the blame;60
 Shigeru;40;Shigeru Miyamoto, Mario's creator
 Shih;40;Shih Tzu
 Shihab;40;Naomi Shihab Nye, poet
@@ -98223,6 +98264,7 @@ worked magic;60
 worked on;40
 worked one's magic;60
 worked one's magic on;60
+worked the night shift;60
 worked up the courage;60
 work environment;50
 worker bee;60
@@ -98247,6 +98289,7 @@ working magic;60
 working on;40
 working one's magic;60
 working one's magic on;60
+working the night shift;60
 working theories;60
 working theory;60
 working up the courage;60
@@ -98277,9 +98320,11 @@ works one's magic;60
 works one's magic on;60
 workstation;50
 workstations;50
+works the night shift;60
 work study program;60
 work study programs;60
 works up the courage;60
+work the night shift;60
 work-to-rule;60;The act of working only according to the strictest interpretation of written requirements and regulations
 work up the courage;60
 work wife;60
