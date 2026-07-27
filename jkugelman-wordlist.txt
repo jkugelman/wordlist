@@ -29902,6 +29902,7 @@ feeling sick;40
 feeling small;50
 feeling ten feet tall;60
 feeling the burn;60
+feeling the heat;60
 feeling the love;60
 feeling under the weather;60
 feeling up to;50
@@ -29931,6 +29932,7 @@ feels sick;40
 feels small;50
 feels ten feet tall;60
 feels the burn;60
+feels the heat;60
 feels the love;60
 feels under the weather;60
 feels up to;50
@@ -29938,6 +29940,7 @@ feels up to it;60
 feel ten feet tall;60
 feel the Bern;60;Bernie Sanders political slogan
 feel the burn;60
+feel the heat;60
 feel the love;60
 feelthenreb;0
 feel thirsty;50
@@ -30021,6 +30024,7 @@ felt sick;40
 felt small;50
 felt ten feet tall;60
 felt the burn;60
+felt the heat;60
 felt the love;60
 felt-tipped;50
 felt under the weather;60
@@ -45228,6 +45232,8 @@ jec;20
 Jed;50
 Jeddah;40;Saudi port city on the Red Sea
 Jedediah;40;Old-fashioned biblical name
+J. Edgar Hoover;60;First director of the FBI
+J Edgar Hoover;0
 Jedi;60;"Star Wars" knight
 Jedi High Council;60
 Jediism;50;"Star Wars"-derived religion
@@ -62798,6 +62804,8 @@ one heart;20
 one-hit;30
 one hits;20
 one hop;30
+one-horse race;60
+one-horse races;60
 one hour;50
 One Hundred and One Dalmatians;60;1961 Disney movie
 One Hundred Years of Solitude;60;1967 novel by Gabriel García Márquez
@@ -80892,6 +80900,7 @@ sleep start;50;Hypnic jerk
 sleep starts;50
 sleep studies;60
 sleep study;60
+sleep therapy;50
 sleep tight;60
 sleep tight, don't let the bedbugs bite;60
 Sleepy's;20
@@ -88473,6 +88482,7 @@ the best of both worlds;60
 the best part of waking up;60
 The Best Years of Our Lives;50;1946 American drama film directed by William Wyler
 The Bible;30
+the Bible Belt;60
 the big 3-0;60
 The Big Apple;60
 the Big Bang;40
@@ -88490,6 +88500,8 @@ the Big Unit;60;Nickname for 6'10" tall pitcher Randy Johnson
 the Bill of Rights;50
 thebingbangtheory;0
 the bit;40
+the bitten end;20
+the bitter end;60
 The Blacklist;60
 The Blob;50
 The Bluegrass State;40
@@ -88781,6 +88793,7 @@ The Hitchhiker's Guide to the Galaxy;60
 The Hobbit;50
 the Home Depot beat;60
 The Honeymooners;60
+the Hoover Dam;50
 the Hopi;20
 the hornet's nest;60
 the hornets' nest;60
@@ -88902,6 +88915,7 @@ the luck o' the Irish;50
 the Luxor;40
 the Lynx;30;Minnesota WNBA team
 the Macarena;40
+the Mad Men era;60;1960s
 the Magi;30
 The Magician;60;Tarot card
 the main act;40
@@ -89286,6 +89300,7 @@ the Son;40;Trinity member
 the Sonics;30
 the Sopwith Camel;30
 the Sox;20
+the Space Race;60
 the Spanish Steps;40
 Thespis;40;Ancient inventor of acting, supposedly
 the splits;30
