@@ -20432,7 +20432,7 @@ Cunard;40;Ocean liner company
 cuneate;20;Wedge-shaped, in botany/anatomy
 cuneiform;50
 Cunha;40;Tristan da Cunha, remote South Atlantic island
-Cunk;40
+Cunk;40;Philomena Cunk of mockumentary fame
 Cunk on Britain;60;2018 British mockumentary television series
 Cunk on Cinema;60;2026 British mockumentary television series
 Cunk on Earth;60;2022 British mockumentary television series
@@ -68898,6 +68898,7 @@ potatoe;20;Dan Quayle's misspelling
 potato gun;60
 potato guns;60
 Potato Head;60
+potato quality;60
 potato race;60
 potato races;60
 potato sack race;60
