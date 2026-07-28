@@ -729,6 +729,7 @@ Accenture;40;Consulting giant
 acceptant;30
 accepter;30
 accepters;30
+accesory after the fact;0
 Accidency;40;"His Accidency," John Tyler's nickname
 accidental comedy;60
 accidental tourist;50
@@ -1647,25 +1648,47 @@ afs;20
 aft;50
 Afta;30;Shaving brand
 Aftab;40;Arooj Aftab, Grammy-winning singer
-after-afterparties;50
-after-afterparty;60
+After 7;40;1990's R&B group
+after-after parties;60
+after-afterparties;0
+after-after party;60
+after-afterparty;0
+after all is said and done;60
 after a sort;50
+after a spell;60
 after a while, crocodile;60
+afterburner;60
+afterburners;60
+After Dark, My Sweet;50;1990 film noir starring Jason Patric
+after deductions;50
+after-dinner drink;50
+after-dinner drinks;50
 after-dinner mint;50
+aftereffect;60
+aftereffects;60
+afterimage;60
+afterimages;60
 afterlife;60
-AfterMASH;40;"M*A*S*H" spinoff series
+afterlifes;50
+AfterMASH;50;"M*A*S*H" spinoff series
 aftermath;50
 aftermaths;50
+afternoon delight;60
+afternoon delights;60
 afternoon nap;50
 afternoon naps;50
 after one's own heart;60
-afterparties;50
-afterparty;50
+afterparties;60
+after-parties;60
+afterparty;60
+after-party;60
 afters;30
 Aftersun;40;2022 Charlotte Wells film, or beach lotion
 After the Gold Rush;50;1970 studio album by Neil Young
 after them;50
 after these;20;???
+after this;50
+After You've Gone;50;Various
 Afton;40;"Sweet Afton," the Burns poem river / Five Nights at Freddy's family
 afts;40
 AG;40
@@ -12985,6 +13008,8 @@ Burmese python;50
 Burmese pythons;50
 Burna;40;Burna Boy, Nigerian Afrobeats star
 Burnaby;40;British Columbia city
+Burn After Reading;60
+burn after reading;60
 burn daylight;60
 Burne;40;Edward Burne-Jones, Pre-Raphaelite painter
 burned daylight;60
@@ -35556,6 +35581,7 @@ Gondry;40;Michel Gondry, "Eternal Sunshine" director
 Gondwana;50;Ancient southern supercontinent
 Gondwanaland;50;Ancient southern supercontinent
 Gondwanan;50
+gone after;50
 gone ahead;40
 gone along;40
 gone ape;40
@@ -37902,6 +37928,7 @@ happens upon;50
 happen upon;50
 happily ever after;60
 happy baby pose;60;Yoga asana that involves lying on the back and grasping your feet, so-called for its resemblance to a baby finding their feet
+happy ever aftering;20
 happy Father's Day;60
 happy Halloween;60
 happy happy joy joy;60;Ren and Stimpy catchphrase
@@ -41180,13 +41207,17 @@ Huron;50;Great Lake
 Hurons;50
 hurricane season;50
 hurricane seasons;50
+hurried after;50
 hurried along;50
 hurried around;50
+hurries after;50
 hurries along;50
 hurries around;50
 hurry;50
+hurry after;50
 hurry along;50
 hurry around;50
+hurrying after;50
 hurrying along;50
 hurrying around;50
 hurry up;50
@@ -41393,6 +41424,7 @@ ibe;20
 I-beam;40
 I-beams;40
 I been had;30
+I before E except after C;60
 I beg of you;60
 I Believe I Can Fly;10
 I believe that;60
@@ -46771,6 +46803,7 @@ Keenen;40;Keenen Ivory Wayans, "In Living Color" creator
 keeners;20
 keen-eyed;50
 keens;30
+keep after;50
 keep alive;50
 keep at;40
 keep at it;50
@@ -46779,6 +46812,7 @@ keep close to;40
 keep digging;60
 keep from;40
 keep in;40
+keeping after;50
 keeping alive;50
 keeping at;40
 keeping close to;40
@@ -46811,6 +46845,7 @@ keep-out sign;60
 keep-out signs;60
 keep pace;50
 keep pace with;50
+keeps after;50
 keepsake;50
 keepsakes;50
 keeps alive;50
@@ -46969,6 +47004,7 @@ Keough;40;Riley Keough, "Daisy Jones & the Six" actress
 kepi;20;French military cap
 kepis;20;French military caps
 Kepler;50;Johannes Kepler, planetary motion astronomer
+kept after;50
 kept alive;50
 kept at;40
 kept close to;40
@@ -49619,6 +49655,7 @@ Leatherstocking;50;Natty Bumppo, hero of Cooper's tales
 Leaud;40;Jean-Pierre Léaud, French New Wave actor
 leave a comment;60
 leave a comment down below;60
+leave a message after the beep;60
 leave go;20
 leave in;40
 leave me;50
@@ -50015,7 +50052,7 @@ Lenovos;40;Laptops from the Chinese brand
 Lenox;40;Harlem avenue, or the china brand
 lens cap shot;60
 lens cap shots;60
-LensCrafters;50;Optician and eyewear retail chain
+LensCrafters;60;Optician and eyewear retail chain
 lens flare;60
 lensman;40;Photographer
 lensmen;40
@@ -51647,6 +51684,7 @@ looie;40;Lieutenant
 looies;40
 look a fool;50
 look after;50
+look after number one;60
 lookalike contest;60
 lookalike contests;60
 look at;40
@@ -51655,6 +51693,7 @@ look at you;60
 look down on;50
 looked a fool;50
 looked after;50
+looked after number one;60
 looked at;40
 looked down on;50
 looked fishy;60
@@ -51677,6 +51716,7 @@ lookie-loo;60
 lookie-loos;60
 looking a fool;50
 looking after;50
+looking after number one;60
 looking at;40
 looking down on;50
 looking fishy;60
@@ -51700,6 +51740,7 @@ look out for number one;60
 lookout man;60
 looks a fool;50
 looks after;50
+looks after number one;60
 looks at;40
 looks down on;50
 look-see;50;Gander
@@ -57253,6 +57294,7 @@ Mondale;50;Walter Mondale, Carter's vice president
 Mondatta;30;Police album "Zenyatta Mondatta"???
 Mondavi;40;???
 Monday;50;Start of the work week
+Monday Afternoon;40
 Monday morning QB;30
 Monday morning quarterback;60
 Monday morning quarterbacks;60
@@ -57581,6 +57623,7 @@ Mordecai;40;Biblical figure in Esther / Mordecai Richler, novelist
 Mordechai;40;Hebrew form of the biblical Mordecai
 Mordor;50;Sauron's realm in "The Lord of the Rings"
 Mordred;40;King Arthur's killer
+more after the jump;60
 Moreau;40;Artist Gustave Moreau
 Morecambe;40;Eric Morecambe, of Morecambe and Wise
 more cowbell;60
@@ -57636,6 +57679,8 @@ Mormon Tabernacle Choir;60
 Mormon tea;50
 Mornay;40;Rebecca De Mornay, actress, or the cheese sauce
 mornin';50
+morning-after pill;60
+morning-after pills;60
 morning routine;60
 morning routines;60
 morning sickness;60
@@ -67864,11 +67909,13 @@ please hold the line;50
 please, I'm eating;60;"Gross!"
 please, I'm eating here;60;"Gross!"
 please, I'm trying to eat;60;"Gross"
+please leave a message after the beep;60
 please let me finish;60
 Pleasence;40;Donald Pleasence, "Halloween" actor
 please no;60
 please note;60
 please rise;50
+please see me after class;60
 please stop;60
 please use other door;60
 plebeian;50
@@ -68126,6 +68173,7 @@ Poincare;50
 Poinciana;40;Tree
 Poinsett;40;Joel Roberts Poinsett, namesake of the poinsettia
 point a finger at;50
+point after;20
 point at;40
 pointe;40
 pointed a finger at;50
@@ -72507,6 +72555,7 @@ refortifying;40
 refractoriness;30
 refractors;30
 refresh my memory;60
+refrigerate after opening;60
 refugee camp;50
 refulgence;30
 refusenik;50
@@ -72972,6 +73021,7 @@ repastes;30
 repasting;30
 repealer;40
 repealers;40
+repeat after me;60
 repeat offender;50
 repeat offenders;50
 repeg;20
@@ -77259,6 +77309,7 @@ scored on;40
 score on;40
 scores big;50
 scores on;40
+scoring attempt after penalty;20
 scoring on;40
 scorner;40
 scorners;40
@@ -77847,7 +77898,10 @@ seeing to;40
 seeing up;40
 seeing with the naked eye;60
 see into;30
+seek after;40
+seeking after;40
 seeking to;40
+seeks after;40
 seeks to;40
 seek to;40
 see land;50
@@ -79730,6 +79784,7 @@ shrank from;40
 Shraya;40;Vivek Shraya, Canadian writer and musician
 Shreddies;40;British and Canadian cereal
 Shrek;50;DreamWorks ogre
+Shrek Forever After;60
 Shreve;40;Anita Shreve, "The Pilot's Wife" novelist
 Shreveport;40;Louisiana city
 Shreveport, LA;30
@@ -84497,6 +84552,7 @@ stilettoes;20
 stilettos;50
 still anyone's game;60
 still at it;50
+Still Crazy After All These Years;60
 Stille;30;German carol "Stille Nacht"
 Stiller;50;Ben Stiller, actor and director
 still got it;60
@@ -86215,15 +86271,18 @@ swinger;60
 swing era;50
 swingers;60
 swing for the fences;60
+swing from the rafters;60
 swinging at;40
 swinging away;50
 swinging for the fences;60
+swinging from the rafters;60
 swing mechanics;60;Golf
 swing music;60
 swing of things;60
 swings at;40
 swings away;50
 swings for the fences;60
+swings from the rafters;60
 swing shift;50
 swing shifts;50
 swing state;50
@@ -86319,6 +86378,7 @@ sws;20
 swung at;40
 swung away;50
 swung for the fences;60
+swung from the rafters;60
 Sy;40;Omar Sy, French actor / Sy Hersh, journalist
 sybarite;40;Sensualist, hedonist
 Sybil;40;"Downton Abbey" daughter
@@ -86693,6 +86753,7 @@ Takemitsu;40;Toru Takemitsu, Japanese composer
 take my wife please;60
 taken a cue from;50
 taken a dislike to;50
+taken after;50
 taken a step back from;40
 taken away from;40
 taken by storm;60
@@ -86706,6 +86767,7 @@ taken the wheel;50
 taken to;40
 taken to its logical conclusion;60
 taken to the grave;60
+take off after;50
 take on;40
 take one's cue from;50
 Take on Me;60;A-ha song
@@ -86769,6 +86831,7 @@ takes it all in;60
 takes it in;50
 takes it to the grave;60
 takes liberties;50
+takes off after;50
 takes on;40
 takes one's cue from;50
 takes orders;50
@@ -86856,6 +86919,7 @@ taking it all in;60
 taking it in;50
 taking it to the grave;60
 taking liberties;50
+taking off after;50
 taking on;40
 taking one's cue from;50
 taking orders;50
@@ -88577,6 +88641,7 @@ the Actors Studio;60
 the ad biz;30
 the Aeneid;20
 the AFI list;20
+the afternoon of;20
 the age;20
 the age of steam;40
 the air;20
@@ -88960,6 +89025,7 @@ the heat;40
 The Heiress;40;1949 movie
 the Heisman;30
 the herd;30
+the hereafter;60
 the Hermit;60;Tarot card
 The Hick from French Lick;60;Nickname for basketball player Larry Bird
 the Hierophant;60;Tarot card
@@ -90005,6 +90071,7 @@ threw away;50
 threw darts;50
 threw for a loop;60
 threw games;20;???
+threw good money after bad;60
 threw in the discard pile;50
 threw to;40
 threw under the bus;60
@@ -90039,6 +90106,7 @@ thrower;40
 throwers;40
 throw for a loop;60
 throw games;20;???
+throw good money after bad;60
 throwing a curve;60
 throwing a curveball;60
 throwing a pot;50
@@ -90050,6 +90118,7 @@ throwing away;50
 throwing darts;50
 throwing for a loop;60
 throwing games;20;???
+throwing good money after bad;60
 throwing in the discard pile;50
 throwing pots;50
 throwing star;60
@@ -90078,6 +90147,7 @@ throws darts;50
 throws down a dunk;50
 throws for a loop;60
 throws games;20;???
+throws good money after bad;60
 throws in the discard pile;50
 throws pots;50
 throws to;40
@@ -91176,6 +91246,7 @@ took it easy;60
 took it in;50
 took it to the grave;60
 took liberties;50
+took off after;50
 took on;40
 took one's cue from;50
 took orders;50
@@ -98756,6 +98827,7 @@ wuxia;40;Genre of Chinese fiction concerning the adventures of martial artists i
 W Va;40
 WVU;40
 WWE;40
+WWE Afterburn;60;WWE weekly recap program
 WWE Raw;60
 WWF;40
 WWI;50
