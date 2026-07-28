@@ -2279,6 +2279,7 @@ Alaskan panhandle;60
 Alaskans;50
 Alastair;30;<Nobody super notable>
 Alastor;30;Trojan War figure, Shelley poem
+Alastor Moody;10;Harry Potter
 à la suisse;30
 Alateen;40;Alanon for teens
 a laugh a minute;60
@@ -5705,6 +5706,7 @@ as I said;60
 as I say;50
 as I see it;60
 as I suspected;60
+as it turns out;60
 as I've said;60
 ask;50
 ask a favor of;40
@@ -6240,6 +6242,8 @@ Atomic Blond;60;Without the "e"?
 Atomic Blonde;60
 atomic blondes;60
 atomic blonds;60;Without the "e"?
+atomic fountain;50;Laser-cooled atoms in flight
+atomic fountains;50;Laser-cooled atoms in flight
 atomicmasmoonit;0
 atomic pile;50
 atomic piles;50
@@ -19324,6 +19328,10 @@ country boy;50
 country boys;50
 country home;50
 country homes;50
+country star;60
+country stars;60
+country store;60
+country stores;60
 counts calories;50
 counts cards;50
 counts on;40
@@ -20940,6 +20948,8 @@ Dance with Dragons;60;A Song of Ice and Fire book #5, with "A"
 dance with the devil;60
 Dancin';40;"I Don't Feel Like Dancin'" by Scissor Sisters
 dancing around;50
+dancing fountain;60;Animated fountain for entertainment purposes
+dancing fountains;60;Animated fountains for entertainment purposes
 Dancing Queen;60
 dancing to the music;50
 dancing up a storm;60
@@ -29228,6 +29238,8 @@ fairways;50
 fairy chimney;60;Tall thin spire of rock
 fairy chimneys;60
 fairy floss;60
+fairy fountain;60;Animated fountain for entertainment purposes
+fairy fountains;60;Animated fountains for entertainment purposes
 fair young maiden;50
 fairy ring;60;Circular mushroom formation
 fairy rings;60
@@ -31858,6 +31870,10 @@ found one;20
 fount;50
 fountain drink;50
 fountain drinks;50
+fountain of youth;60
+fountain soda;50
+fountain sodas;50
+fountains of youth;60
 founts;50
 four-alarm fire;50
 four-alarm fires;50
@@ -38682,6 +38698,7 @@ heart healthy;60
 hearties;50
 heart monitor;50
 heart monitors;50
+heart of gold;60
 heart of stone;60
 Heart of the Ocean;60;"Titanic" necklace
 heart rate;50
@@ -38689,6 +38706,7 @@ heart rates;50
 heart-rending;60
 heart shape;40
 heartsick;60
+hearts of gold;60
 heart specialist;50
 heart specialists;50
 heartstopper;60
@@ -40338,7 +40356,7 @@ Hooked on a Feeling;60
 hooked up;50
 Hooker;10
 hookers;10
-hooker with a heart of gold;60
+hooker with a heart of gold;10
 Hooke's;40;Hooke's law of elasticity
 hooking up;50
 hook shot;60
@@ -42013,6 +42031,7 @@ I know I'm dating myself;60
 I know I'm dating myself but;60
 I know some of these words;60
 I know that's right;60;"Ain't it the truth!"
+I know the score;60
 I know this one;60
 I know what you mean;60
 I know you;60
@@ -47578,6 +47597,7 @@ knelt on;40
 Knesset;40;Israel's legislature
 knew it by heart;60
 knew of;40
+knew the score;60
 knew too much;60
 K'Nex;40
 Knick;40;New York NBA player
@@ -47640,6 +47660,7 @@ knower;40
 knowers;40
 knowing it by heart;60
 knowing of;40
+knowing the score;60
 knowing too much;60
 know it by heart;60
 knowledge is power;60
@@ -47648,7 +47669,9 @@ know-nothing;60
 know of;40
 knows it by heart;60
 knows of;40
+knows the score;60
 knows too much;60
+know the score;60
 know too much;60
 know what I mean;60
 Knox;40;Fort Knox, gold depository / Amanda Knox
@@ -58396,6 +58419,8 @@ musical chords;40;Green paint
 musical comedies;50
 musical comedy;50
 musicale;20
+musical fountain;60;Animated fountain for entertainment purposes
+musical fountains;60;Animated fountains for entertainment purposes
 musical number;60
 musical numbers;60
 musicals;50
@@ -67656,6 +67681,7 @@ played golf;50
 played nice;60
 played on;40
 played second fiddle;60
+played the slots;60
 played to;40
 player one;50
 player trade;60
@@ -67682,6 +67708,7 @@ playing golf;50
 playing nice;60
 playing on;40
 playing second fiddle;60
+playing the slots;60
 playing to;40
 playlet;40
 playlets;40
@@ -67710,6 +67737,7 @@ PlayStation game;60
 PlayStation games;60
 PlayStation Portable;60
 PlayStations;60
+plays the slots;60
 plays to;40
 play stupid games;60
 play stupid games win stupid prizes;60
@@ -67726,6 +67754,7 @@ Playtex bra;50
 Playtex bras;50
 Play That Funky Music;60
 play that funky music white boy;60
+play the slots;60
 play to;40
 play within a play;60
 Plaza Hotel;60
@@ -67772,6 +67801,7 @@ please no;60
 please note;60
 please rise;50
 please stop;60
+please use other door;60
 plebeian;50
 Plecoptera;20;Order of insects
 pled for;40
@@ -69385,6 +69415,8 @@ prised;30;Forced two things apart
 Prisencolinensinainciusol;50;Adriano Celentano's fake-English hit
 prises;30;Forces two things apart
 prising;30;Forcing two things apart
+prismatic fountain;60;Animated fountain for entertainment purposes
+prismatic fountains;60;Animated fountains for entertainment purposes
 prismoid;30
 prismoids;30
 prison break;60
@@ -74616,6 +74648,8 @@ Roman emperor;50
 Roman emperors;50
 Roman era;50
 Romanesque;50;Medieval architectural style
+Roman fountain;50
+Roman fountains;50
 Roman god;50
 Roman goddess;50
 Roman goddesses;50
@@ -79271,6 +79305,8 @@ shirrings;30
 shirrs;30
 shirsey;30;Shirt jersey
 shirseys;30;Shirt jersey
+shirt button;50
+shirt buttons;50
 shirt stud;50
 shirt studs;50
 shirts vs skins;60
@@ -79420,6 +79456,7 @@ shooting ranges;50
 shooting skeet;50
 shooting star;50
 shooting stars;50
+shooting the moon;60
 shooting the shit;10
 shoot off;50
 shoot pool;50
@@ -79432,7 +79469,9 @@ shoot skeet;50
 shoots off;50
 shoots pool;50
 shoots skeet;50
+shoots the moon;60
 shoots the shit;10
+shoot the moon;60
 shoot the shit;10
 shoot your shot;60
 shoot your shot, playa;60
@@ -79525,6 +79564,7 @@ shot skeet;50
 shots of espresso;50
 shots of tequila;50
 shots of whiskey;50
+shot the moon;60
 shot the shit;10
 shot to shit;10
 shoulder brace;50
@@ -83132,6 +83172,8 @@ sports desk;60
 sports desks;60
 sports drink;60
 sports drinks;60
+sports hero;60
+sports heroes;60
 sportsman;60
 sportsmanlike;60
 sportsmanship;60
@@ -88771,6 +88813,8 @@ The Fool;60;Tarot card
 The Foot Book;60;Dr. Seuss book
 The Force Awakens;60
 the Foreign Legion;30
+The Fountainhead;60
+The Fountain of Youth;60
 The Four Aces;50;1950s male pop quartet
 the French Alps;60
 the French Quarter;60
@@ -94230,6 +94274,7 @@ US embassy;50
 Use Me;40
 Usenet;50;Early internet discussion network
 use on;40
+use other door;60
 use pot;30
 user experience;60
 user experience design;50
