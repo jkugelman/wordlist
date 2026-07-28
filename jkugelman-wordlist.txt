@@ -483,6 +483,7 @@ a billion;40
 Abimelech;40;Biblical king in Genesis and Judges
 ab intra;30;From within: Lat.
 a bit;50
+a bit behind;50
 a bit much;50
 a bit of a character;60
 a bit of a stretch;60;Reaching
@@ -9035,7 +9036,10 @@ beheadings;40
 beheads;40
 behests;40
 be him;20
+behindblueeeyes;0
+Behind Blue Eyes;50;1971 single by the Who
 behind it;20
+behind the curtain;60
 Behn;40;Aphra Behn, Restoration playwright
 be honest;60
 bei;20
@@ -17520,6 +17524,7 @@ closes the loop;50
 closes up shop;60
 close talker;60
 close talkers;60
+close the door behind you;60
 close the loop;50
 close to;40
 closet organizer;50
@@ -24568,10 +24573,13 @@ draft notice;50
 draft notices;50
 drag ball;60
 drag balls;60
+drag behind;40
 drag brunch;60
 drag brunches;60
+dragged behind;40
 dragged in;40
 dragged into;40
+dragging behind;40
 dragging in;40
 dragging into;40
 drag in;40
@@ -24604,6 +24612,7 @@ drag racer;60
 drag racers;60
 drag races;60
 drag racing;60
+drags behind;40
 drag show;60
 drag shows;60
 drags in;40
@@ -25224,20 +25233,24 @@ Duchovny;50;David Duchovny, "The X-Files" star
 duck;50
 Duck Amuck;60
 duck and dive;60;UK slang
+duck behind;50
 duck confit;50
 DuckDuckGo;50;Privacy-focused search engine
 ducked and dived;60
+ducked behind;50
 ducked into;40
 duck egg;50
 duck eggs;50
 duck face;60
 ducking and diving;60
+ducking behind;50
 ducking into;40
 ducking out;50
 duck into;40
 duck pond;50
 duck ponds;50
 ducks and dives;60
+ducks behind;50
 ducks into;40
 ducktail;50
 ducktails;50
@@ -30578,9 +30591,13 @@ Finian's;30;"Finian's Rainbow", 1947 musical
 finical;30;Finicky
 finis;40
 finises;20
+finish behind schedule;50
+finished behind schedule;50
 finished with;50
+finishes behind schedule;50
 finishes with;40
 finish him;60
+finishing behind schedule;50
 finishing move;60
 finishing moves;60
 finishing with;40
@@ -32159,6 +32176,7 @@ Fredrico Fellini;0
 freds;30
 Fred Sanford;50
 Fred Ward;50
+free at last;60
 freebase;60;Free climbing + BASE jumping (or a drug term)
 freebased;60
 freebases;60
@@ -32481,6 +32499,7 @@ Frog Spit;50;Anti-fog brand for helmets
 Froissart;40;Jean Froissart, medieval chronicler
 Frollo;30;Villain of "The Hunchback of Notre-Dame"
 from abroad;40
+from behind;40
 from central casting;60
 from concentrate;50
 Frome;40;Ethan Frome, Edith Wharton title character
@@ -35100,6 +35119,7 @@ gobbet;40;Lump of flesh, spit, etc.
 gobbets;40
 Gobbledy;40;Gobbledy Gooker, WWE turkey mascot
 Gob Bluth;60;"Arrested Development" character
+go behind;40
 Gobert;40;Rudy Gobert, NBA Defensive Player of the Year
 Gobi;50;Asian desert / Indian cauliflower dish
 gobidessert;0
@@ -35193,6 +35213,7 @@ goes away;50
 goes awry;50
 goes back to;40
 goes back to the drawing board;60
+goes behind;40
 goes big;50
 goes blank;50
 goes blue in the face;60
@@ -35342,6 +35363,7 @@ going at;40
 going awry;50
 going back to;40
 going back to the drawing board;60
+going behind;40
 going big;50
 going blank;50
 going blue in the face;60
@@ -42352,6 +42374,7 @@ imbed;20
 imbedded;20
 imbedding;20
 imbeds;20
+I'm behind;50
 I'm Blue;40;Ike & Tina Turner song
 I'm bored;60
 imbricate;40;Overlapping
@@ -51451,6 +51474,7 @@ loci;40
 Locka;40;Opa-___, Florida city
 lock and load;60
 lock away;40
+lock behind bars;50
 lock de-icer;50
 lock de-icers;50
 lock down;50
@@ -51459,6 +51483,7 @@ Locke;50;John Locke, Enlightenment philosopher
 Lockean;40;Of philosopher John Locke
 locked and loaded;60
 locked away;40
+locked behind bars;50
 locked grooves;50
 locked into;40
 locked it up;50
@@ -51473,6 +51498,7 @@ Lockheed Martin;50
 lock horns;60
 lock horns with;60
 locking away;40
+locking behind bars;50
 locking it up;50
 locking onto;40
 lock it up;50
@@ -51481,6 +51507,7 @@ locklet;40;Little lock of hair
 locklets;40
 lock onto;40
 locks away;40
+locks behind bars;50
 locks it up;50
 Locksley;40;Robin of Locksley, aka Robin Hood
 locks onto;40
@@ -53760,6 +53787,8 @@ manatee calf;50
 manatee calves;50
 Manaus;40;Brazilian city in the Amazon
 ManBearPig;50;"South Park" hybrid monster
+Man Behind the Curtain;60
+man behind the mask;60
 man bun;60
 man buns;60
 Mancha;40;Man of La Mancha
@@ -60493,6 +60522,7 @@ nocents;20
 noche;40
 Nochebuena;50;Christmas Eve, in Spanish
 Nochevieja;40;New Year's Eve, in Spanish
+No Child Left Behind;60
 Nochlin;40;Linda Nochlin, feminist art historian
 nock;50
 nocked;50
@@ -60618,6 +60648,7 @@ nom;40
 Noma;40;Copenhagen restaurant often ranked the world's best
 no ma'am;50
 Nomadland;60;2021 Best Picture
+no man left behind;60
 no man's;30
 Nomar;40;Nomar Garciaparra, Red Sox shortstop
 no matter;60
@@ -61021,6 +61052,7 @@ not cool;60
 not cricket;60;British idiom: unfair, unsportsmanlike
 not do;40
 not done yet;60
+not dry behind the ears;50
 not easy;40
 notedly;30
 notelet;30
@@ -70326,6 +70358,7 @@ put down to youth;60
 put down your pens;60
 Puth;40;Charlie Puth, pop singer
 put in a good word for;50
+put it all behind you;60
 put it all on the line;60
 put it back;50
 put it down;50
@@ -74009,6 +74042,7 @@ right after this;60
 right back atcha;60
 right back at ya;60
 right back at you;60
+right behind;50
 right face;50
 right fit;20;Green paint
 right from central casting;60
@@ -84566,6 +84600,7 @@ still me;60
 still mooing;60
 stillof;0
 still standing;50
+still wet behind the ears;50
 still works though;60
 Stilton;50;English blue cheese
 stim;50
@@ -89175,6 +89210,9 @@ the majors;30
 the male bag;20;???
 the mambo;30
 the man;60
+The Man Behind the Curtain;60
+the man behind the curtain;0
+the man behind the mask;60
 the Mandela Effect;60
 The Man I Love;50
 The Man in the Iron Mask;60
@@ -96601,6 +96639,7 @@ weaner;30
 weaners;30
 weapons;50
 wear a wire;60
+we are free at last;60
 we are not alone;60
 wearer;40
 wearers;40
@@ -97036,6 +97075,7 @@ went at;40
 went awry;50
 went back to;40
 went back to the drawing board;60
+went behind;40
 went big;50
 went blank;50
 went blue in the face;60
