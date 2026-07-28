@@ -2844,6 +2844,7 @@ all the rage;60
 all there;60
 all the trimmings;60
 all things to all people;60
+All This Love;50;1982 single by DeBarge
 all together now;50
 all too;40
 all too easy;60
@@ -30680,6 +30681,8 @@ Firenze;40;Florence, in Italian
 fire on;40
 fire on all cylinders;60
 fireplug;50
+fireroad;60
+fireroads;60
 fire salamander;50
 fire salamanders;50
 fire sale;50
@@ -44248,6 +44251,8 @@ is this a trick question;0
 is this better;60;"Seem like an improvement?"
 is this good;60
 is this it;60
+Is This Love?;50
+Is This Love;0
 is this your card;60
 isthmi;30
 Isthmian;40;Isthmian Games, ancient Greek festival
@@ -61047,6 +61052,7 @@ nothing beats new Hellmann's Dijonnaise;50
 nothing but net;60
 nothing but the truth;60
 nothing but trouble;60
+Nothing Can Change This Love;50;1962 single by Sam Cooke
 nothing could be further from the truth;60
 Nothing Else Matters;60;1992 single by Metallica
 nothing else matters;50
@@ -97129,6 +97135,7 @@ we're done here;60
 we're fresh out;60
 were hot;30
 we're in big trouble;60
+We're in This Love Together;50;1981 single by Al Jarreau
 we're like this;60;"We are *this* close" 🤞
 we're next;50
 we're no good together;60
@@ -97803,7 +97810,8 @@ wife guys;60
 wife-to-be;50
 Wiffle ball bat;50
 Wiffle ball bats;50
-Wi-Fi code;50
+Wi-Fi code;60
+Wi-Fi codes;60
 Wi-Fi connection;60
 Wi-Fi connections;60
 Wi-Fi hotspot;60
