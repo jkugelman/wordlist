@@ -8659,6 +8659,8 @@ beating a hasty retreat;60
 beating at;40
 beating back;50
 beating in;40
+beating the clock;60
+beating the crowd;60
 Beatle;50;John, Paul, George, or Ringo
 Beatlemania;50;Fab Four frenzy
 Beatles;50;The Fab Four
@@ -8681,10 +8683,14 @@ beats back;50
 Beats by Dre;60
 beats me;60
 beats on;40
+beats the clock;60
+beats the crowd;60
 beats the heck out of me;60
 beats the hell out of me;60
 beatstime;0
 beat that;60
+beat the clock;60
+beat the crowd;60
 beat the heat;60
 Beattie;40;Ann Beattie, short story writer
 Beatty;40;Warren Beatty, actor and director
@@ -10428,6 +10434,7 @@ blew into;40
 blew off;50
 blew on;40
 blew one's own horn;50
+blew one's top;60
 blew smoke;50
 blew the joint;60
 blew the lead;60
@@ -10595,18 +10602,21 @@ blowing into;40
 blowing off;50
 blowing on;40
 blowing one's own horn;50
+blowing one's top;60
 blowing smoke;50
 blowing the joint;60
 blowing the lead;60
 blowing up one's spot;60
 blow into;40
 blown away;60
+blown one's top;60
 blown the joint;60
 blown tire;50
 blown tires;50
 blow off;50
 blow on;40
 blow one's own horn;50
+blow one's top;60
 blowpipe;60
 blowpipes;60
 Blow Pop;60
@@ -10618,6 +10628,7 @@ blow smoke;50
 blows off;50
 blows on;40
 blows one's own horn;50
+blows one's top;60
 blows smoke;50
 blows the joint;60
 blows the lead;60
@@ -11265,6 +11276,10 @@ Boone;50;Daniel Boone, frontiersman / Pat Boone, singer
 Boonmee;40;Uncle Boonmee, Palme d'Or film title character
 Boonoonoonoos;50;Jamaican patois for something wonderful, and a Boney M. album
 boo off stage;60
+booped the snoot;60
+booping the snoot;60
+boops the snoot;60
+boop the snoot;60
 Boorman;40;John Boorman, "Deliverance" director
 Boorstin;40;Daniel Boorstin, historian and Librarian of Congress
 boos at;40
@@ -11272,6 +11287,8 @@ Boosey;40;Boosey & Hawkes, music publisher
 Boosh;40;"The Mighty Boosh," British comedy series
 Boosler;40;70s/80s comedian Elayne Boosler
 boos off stage;60
+booster shot;60
+booster shots;60
 boot camp;60
 boot camps;60
 boot-cut;60
@@ -12000,6 +12017,7 @@ breast milk;60
 breast of chicken;20
 breathability;60
 breathe easier;60
+breathe not a word;60
 breathing room;50
 breath mint;50
 breath mints;50
@@ -19370,6 +19388,7 @@ courtesy light;60
 courtesy lights;60
 court justice;50
 Courtney;50;Common first name: Courtney Love, Courtney B. Vance
+Courtney Love;60
 court reporter;50
 court reporters;50
 court ruling;50
@@ -23672,6 +23691,10 @@ doest;30
 does that change anything?;60
 does that make sense;60
 does that sound right?;60
+does that work?;60
+does that work;0
+does that work for you?;60
+does that work for you;0
 does the conga;60
 does the Lord's work;60
 does the Pope wear a funny hat?;60
@@ -24057,6 +24080,8 @@ don't be so naive;60
 don't be that guy;60
 don't block the box;60
 don't bother;60
+don't breathe a word;60
+don't breathe a word of this;60
 don't bullshit a bullshitter;10
 don't care didn't ask;60
 dontcha think;60
@@ -26457,6 +26482,8 @@ Eiza;30;Eiza González, Mexican actress and singer (born 1990)
 Eiza González;50;Mexican actress and singer (born 1990)
 Eiza Gonzalez;0
 Ejae;40;Singer in "KPop Demon Hunters"
+eject button;60
+eject buttons;60
 ejemplo;40
 Ejiofor;40;Chiwetel Ejiofor, "12 Years a Slave" star
 Ejogo;40;Carmen Ejogo, actress
@@ -43491,6 +43518,7 @@ in too deep;60
 into question;30
 into shape;30
 Into the Spider-Verse;60
+Into the Woods;60
 Into You;50;2016 single by Ariana Grande
 intra-;40
 in transitu;30
@@ -49614,8 +49642,10 @@ leaves on read;60
 leaves right away;30;Green paint
 leaves standing;50
 leave standing;50
+leaves the flock;60
 leaves to;40
 leaves unfinished;50
+leave the flock;60
 leave this to me;60;"I'll take care of the problem"
 leave to;40
 leave tongue-tied;50
@@ -49628,6 +49658,7 @@ leaving on;40
 leaving on read;60
 leaving right away;30;Green paint
 leaving standing;40
+leaving the flock;60
 leaving to;40
 leaving unfinished;50
 Leavitt;40;Henrietta Swan Leavitt, astronomer
@@ -49747,6 +49778,7 @@ leftovers;50
 left-right;50
 left right away;30;Green paint
 left standing;50
+left the flock;60
 left to;40
 left turn at Albuquerque;60
 left unfinished;50
@@ -58582,6 +58614,7 @@ Mylars;40
 Mylene;40;Mylène Farmer, French pop singer
 Myles;40;???
 my lips are sealed;60
+My Little Pony;60
 my mind;20
 myna;40
 mynah;40;More common than myna, according to ngram
@@ -60916,6 +60949,12 @@ not as I recall;60
 not a sound;60
 not at any price;60
 not a toy;50
+not a word;60
+not a word of a lie;50
+not a word of this;60
+not a word of this to anyone;60
+not a word out of you;60
+not a word to anyone;60
 no tax;40
 not bat an eye;60
 not bat an eyelash;60
@@ -63005,6 +63044,11 @@ one-star review;60
 one-star reviews;60
 one-step;30
 one-stop;30
+one stoplight;60
+one stoplight town;60
+one stoplight towns;60
+one-stop shop;60
+one-stop shops;60
 one-stripe;40
 one-striper;40;Army private
 one-stripers;40
@@ -74794,8 +74838,8 @@ rooftop deck;50
 rooftop decks;50
 rooftop garden;60
 rooftop gardens;60
-rooftop pool;50
-rooftop pools;50
+rooftop pool;60
+rooftop pools;60
 rooiboos;0;Type of tea
 rooibos;40;Type of herbal tea
 rooker;40;Swindler
@@ -84692,14 +84736,18 @@ stop-loss;60;Trading policy to limit downside
 Stop Making Sense;60
 Stoppard;50;Tom Stoppard, "Rosencrantz and Guildenstern Are Dead" playwright
 stopped at;40
+stopped the clock;60
 stopping at;40
+stopping the clock;60
 stopple;30;Stopper/plug
 stoppled;30
 stopples;30
 stoppling;30
 stops at;40
 stopsit;0
+stops the clock;60
 stop that;60
+stop the clock;60
 stop the fight;60
 stop yapping;60
 stop your yapping;60
@@ -98204,6 +98252,7 @@ without a net;50
 without a paddle;60
 without a scratch;50
 without a sound;50
+without a word of a lie;50
 without warning;60
 With Reagan;40;Book
 with the naked eye;50
@@ -98400,6 +98449,7 @@ Wordle;60
 WordNet;40;Princeton lexical database
 Wordnik;40;Online dictionary
 wordofadvi;0
+word of a lie;50
 WordPad;40;Bygone Windows text editor
 wordplay;60
 WordPress;50;Blogging platform
