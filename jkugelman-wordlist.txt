@@ -1364,6 +1364,8 @@ Adu;30;One-time soccer phenom Freddy Adu
 Aduba;40;Actress Uzo Aduba
 a due;40;Together, in music
 adult ADHD;50
+adult cartoon;60
+adult cartoons;60
 adult cereal;60
 adult content;60
 adultescent;40
@@ -34187,6 +34189,7 @@ gets the hint;60
 gets the ick;60
 gets the nod;50
 gets the sack;50
+gets the scoop;60
 gets to;40
 gets to first base;60
 gets to second base;60
@@ -34207,6 +34210,7 @@ get the hint;60;Finally notice a subtle cue
 get the ick;60
 get the nod;50
 get the sack;50
+get the scoop;60
 get this;60
 Gettin';40;"Gettin' Jiggy wit It", Will Smith hit
 getting a bum rap;60
@@ -34294,6 +34298,7 @@ getting the hint;60
 getting the ick;60
 getting the nod;50
 getting the sack;50
+getting the scoop;60
 getting to;40
 getting to first base;60
 getting to second base;60
@@ -35989,6 +35994,7 @@ got the hint;60
 got the ick;60
 got the nod;50
 got the sack;50
+got the scoop;60
 Gotthold;40;Gotthold Lessing, German dramatist
 Gotti;50;John Gotti, Teflon Don mob boss
 got to;40
@@ -46470,12 +46476,30 @@ karaoke singers;60
 Kara Sea;40
 Kara Swisher;50;Tech journalist Kara Swisher
 karate;50
-karate dojo;50
-karate dojos;50
+karate class;60
+karate classes;60
+karate dojo;60
+karate dojos;60
+karate gi;60
+karate gis;60
+karate kick;60
 karate kicked;60
+karate kicking;60
+karate kicks;60
+Karate Kid;60
+Karate Kid Part II;50
+Karate Kid Part III;50
+karate lesson;60
+karate lessons;60
+karate master;60
+karate masters;60
+karate move;60
+karate moves;60
+karate school;50
+karate schools;50
 Karate Smurf;60
-karate test;50
-karate tests;50
+karate test;60
+karate tests;60
 Kardashian;50;Reality TV family
 Kardashians;50;Reality TV family
 Kardinal;40;Kardinal Offishall, Canadian rapper
@@ -59825,6 +59849,7 @@ New York Yankees;60
 next-day deliveries;50
 next-day delivery;50
 next-gen;60
+Next Karate Kid;50
 next level;60
 next-level shit;10
 nextone;0
@@ -75512,6 +75537,7 @@ Rushdie;50;Salman Rushdie, "The Satanic Verses" author
 rushed at;40
 rushed headlong into;50
 rushed into;40
+rushed the doors;60
 rushed to;40
 rushee;30;Frat rusher
 rusher;30
@@ -75522,11 +75548,13 @@ rushes into;40
 rushes of blood;60
 rushes of blood to the head;60
 rushes of endorphins;60
+rushes the doors;60
 rushes to;40
 rush headlong into;50
 rushing at;40
 rushing headlong into;50
 rushing into;40
+rushing the doors;60
 rushing to;40
 rush into;40
 Rushmore;60
@@ -75535,6 +75563,7 @@ rush of blood to the head;60
 rush of endorphins;60
 rush order;60
 rush orders;60
+rush the doors;60
 rush to;40
 rusk;30
 Ruskin;40;John Ruskin, Victorian art critic
@@ -77591,6 +77620,7 @@ Seattle Mariner;60
 Seattle Mariners;60
 Seattle Seahawk;60
 Seattle Seahawks;60
+Seattle Storm;60;WNBA team
 Seattle, WA;40
 seat upgrade;50
 seat upgrades;50
@@ -83833,9 +83863,11 @@ start at;40
 start a tab;50
 startattheskull;0
 start at the top;60
+start cold;50
 started all over;50
 started at;40
 started a tab;50
+started cold;50
 started in;40
 started in on;40
 started on;40
@@ -83848,6 +83880,7 @@ start in;40
 starting all over;50
 starting at;40
 starting a tab;50
+starting cold;50
 starting in;40
 starting in on;40
 starting lineup;50
@@ -83870,6 +83903,7 @@ star tours;50
 starts all over;50
 starts at;40
 starts a tab;50
+starts cold;50
 starts in;40
 starts in on;40
 starts on;40
@@ -88927,6 +88961,9 @@ the job;40
 The Joy of Painting;60
 The Joy of Sex;60
 the Juice;40;O.J. Simpson
+The Karate Kid;60
+The Karate Kid Part II;50
+The Karate Kid Part III;50
 the Keebler Elves;40
 the Kennedy Center;50
 thekeyofc;0
@@ -89111,6 +89148,7 @@ the new normal;60
 the New Testament;40
 the New Yorker cartoon;60
 the New Yorker cartoons;60
+The Next Karate Kid;50
 the next round is on me;60
 the next round's on me;60
 the NFL;20
