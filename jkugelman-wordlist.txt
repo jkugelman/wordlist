@@ -36739,7 +36739,7 @@ Grofé;40;Ferde Grofé, "Grand Canyon Suite" composer
 Grofe;0
 Groff;40;Jonathan Groff, actor / Lauren Groff, novelist
 grogram;20;Scratchy fabric
-Grogu;30;Baby Yoda
+Grogu;40;Baby Yoda
 Grohl;50;Dave Grohl, Foo Fighters frontman and Nirvana drummer
 groining;20;Intersection of two vaults
 Grolsch;40;Dutch beer brand
