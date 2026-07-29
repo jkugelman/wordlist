@@ -10116,6 +10116,7 @@ Birmingham;50;City in Alabama and in England
 Birmingham, AL;40
 Birnam;40;Birnam Wood, which comes to Dunsinane in "Macbeth"
 Birobidzhan;40;Capital of Russia's Jewish Autonomous Oblast
+birth control;60
 birthday boy;60
 birthday boys;50
 birthday cake;50
@@ -90309,6 +90310,10 @@ three R's;50
 three-sided;40
 threesome;60
 threesomes;60
+three square meals;60
+three square meals a day;60
+three squares;60
+three squares a day;60
 three-star rating;60
 three-star ratings;60
 three-star review;60
