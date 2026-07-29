@@ -7019,6 +7019,8 @@ baby daddy;60
 Baby Doc Duvalier;50
 Baby Doe;50
 Baby Does;50
+baby elephant seal;60
+baby elephant seals;60
 baby fat;60
 baby fever;60
 baby food;60
@@ -7174,6 +7176,10 @@ Baconator;60
 Baconators;60
 bacon bit;50
 bacon bits;50
+bacon cheeseburger;60
+bacon cheeseburgers;60
+bacon double cheeseburger;60
+bacon double cheeseburgers;60
 Baconian;50;One who believes Shakespeare was Francis Bacon
 Baconians;50
 bacon martini;60
@@ -7235,6 +7241,8 @@ bad eye;30
 bad fat;60
 bad fats;60
 Badfinger;40;Power pop band of "Day After Day"
+bad first impression;60
+bad first impressions;60
 badger cub;50
 badger cubs;50
 Badgley;40;Penn Badgley, star of "You"
@@ -8202,7 +8210,8 @@ basso;40;Operatic bass singer
 bassoon reed;50
 bassoon reeds;50
 bassos;40
-Bass Pale Ale;50
+Bass Pale Ale;60
+Bass Pale Ales;60
 bass player;60
 bass players;60
 bass solo;60
@@ -8477,6 +8486,7 @@ Baywatch;50;Lifeguard show with red swimsuits
 Baz;40
 Bazball;40;Aggressive England cricket style
 Bazin;40;André Bazin, French film critic
+Bazooka bubblegum;60
 bazooms;30
 BB;40
 bba;20
@@ -8598,6 +8608,7 @@ beady-eyed;60
 beady eyes;60
 beady little eye;50
 beady little eyes;60
+be a good sport;60
 Beah;40;Ishmael Beah, "A Long Way Gone" author
 be a hero;50
 beak;50
@@ -10732,6 +10743,7 @@ blue pill;60
 blue plate;60
 blue plate special;60
 blue plate specials;60
+blue raspberry;60
 blue sea;20
 blue shell;60;Mario Kart powerup
 blue shells;60
@@ -10770,6 +10782,8 @@ Blumenthal;40;Heston Blumenthal, chef / Richard Blumenthal, senator
 Blumhouse;50;Horror film studio
 blunger;40;Pottery machine
 blungers;40
+blunt haircut;50
+blunt haircuts;50
 blunt question;60
 blunt words;60
 blur my background;60
@@ -11131,6 +11145,7 @@ bonehead;60
 boneheaded;60
 boneheads;60
 boneless chicken;50
+boneless spare ribs;60
 bonelet;40
 bonelets;40
 bone marrow donation;50
@@ -11752,6 +11767,7 @@ Boyle;40;Danny Boyle, "Slumdog Millionaire" director / Boyle's law
 Boyne;40;Irish river, site of a 1690 battle
 Boynton;30;Boynton Beach, FL (pop. 80,000)
 boy oh boy;60
+boy oh boy oh boy;60
 boyos;30
 boys' choir;50
 boys' choirs;50
@@ -12322,6 +12338,7 @@ bro;50
 broad as;20
 broadband;50
 Broadbent;40;Jim Broadbent, Oscar-winning actor
+broad brushstrokes;60
 Broadchurch;50;British crime drama with David Tennant
 broad jump;50
 broad jumped;50
@@ -13399,8 +13416,12 @@ cable hookup;50
 cable hookups;50
 cable management;60;Tidily securing cables
 cable news;50
+cable railway;50
+cable railways;50
 cable show;50
 cable shows;50
+cable tramway;50
+cable tramways;50
 Cablinasian;50;Tiger Woods' coinage for his mixed heritage
 Cabo;40;Cabo San Lucas, Mexican resort
 Cabos;40;Los Cabos, Mexico, aka Cabo San Lucas
@@ -13610,6 +13631,7 @@ calf tattoos;60
 Calgarian;40;Resident of Alberta's largest city
 Calgarians;50;Stampede city residents
 Calgary;50;Alberta city with a famous Stampede
+Cal Golden Bears;50
 Calgon;40;Bath brand ("take me away!")
 Calhern;30;Old actor Louis Calhern
 Calhoun;40;John C. Calhoun, vice president
@@ -13853,6 +13875,7 @@ camel's hair coat;60
 camel spin;50;Basic figure skating move
 camel spins;50
 Camembert;50;Soft French cheese
+came nowhere near;50
 cameo appearance;50
 cameo appearances;50
 came on to;40
@@ -13882,6 +13905,7 @@ Cameroonians;50;People of Cameroon
 Cameroun;20
 came to bed;40
 came to blows;50
+came to earth;50
 came to mind;50
 came to the rescue;50
 came under attack;50
@@ -14387,6 +14411,7 @@ car ads;50
 Cara Dune;50;Character in "The Mandalorian"
 Caramello;40;Cadbury caramel bar
 Caramellos;40;Cadbury caramel bars
+caramel popcorn;60
 Caramilk;40;Cadbury caramel-filled chocolate bar
 Caramilks;40;Caramel-filled chocolate bars
 Carangi;40;Gia Carangi, supermodel
@@ -14414,6 +14439,7 @@ carboy;30;Large bottle
 carboys;30
 carbuncle;30;Abscess
 carbuncles;30
+car camping;60
 Carcassonne;50;Walled French city, and a board game
 Carchemish;40;Ancient Hittite city and battle site
 carcinogen;30
@@ -16034,6 +16060,7 @@ checkboard square;50
 checked for;40
 checked in on;50
 checked into;40
+checked it out;50
 checked on;40
 checked one's privilege;60
 checked with;40
@@ -16047,11 +16074,13 @@ check-in counters;50
 checking for;40
 checking in on;50
 checking into;40
+checking it out;50
 checking on;40
 checking one's privilege;60
 checking with;40
 check in on;50
 check into;40
+check it out;60
 checkmate;60
 check on;40
 check one's privilege;60
@@ -16059,6 +16088,7 @@ checkout counter;50
 checks for;40
 checks in on;50
 checks into;40
+checks it out;50
 checks on;40
 checks one's privilege;60
 check stub;50
@@ -18272,6 +18302,7 @@ come into being;60
 come into play;50
 comelily;30;Weird adverb
 comemoonderfire;0
+come nowhere near;50
 come on already;60
 come on, do something;60
 come on down;60
@@ -18311,6 +18342,7 @@ comes in threes;20
 comes into;40
 comes into being;60
 comes into play;50
+comes nowhere near;50
 comes on to;40
 comes out ahead;50
 comes out even;50
@@ -18318,6 +18350,7 @@ comes right out and says it;60
 comes right out with it;60
 comes to bed;40
 comes to blows;50
+comes to earth;50
 comes to mind;50
 comes to the rescue;50
 comes under attack;50
@@ -18329,6 +18362,7 @@ cometh;40
 come to a decision;50
 come to bed;50
 come to blows;50
+come to earth;50
 come-to-Jesus talk;60
 come-to-Jesus talks;60
 come to mind;50
@@ -18370,6 +18404,7 @@ comingle;20;Less common spelling
 comingled;20;Less common spelling
 comingles;20;Less common spelling
 comingling;20;Less common spelling
+coming nowhere near;50
 coming-of-age drama;60
 coming-of-age dramas;60
 coming-of-age film;60
@@ -18385,6 +18420,7 @@ coming right out and saying it;60
 coming right out with it;60
 coming to bed;50
 coming to blows;50
+coming to earth;50
 coming to mind;50
 coming to the rescue;50
 coming under attack;50
@@ -19097,6 +19133,8 @@ Cornelius Eady;50;Writer focusing largely on matters of race and society
 Cornell;50;Ivy League university
 Cornell U;40
 cornels;30;Dogwoods
+corner drugstore;60
+corner drugstores;60
 corner pocket;60
 corner pockets;60
 Cornershop;40;"Brimful of Asha" band
@@ -19622,10 +19660,12 @@ crackalackin';60
 crack and peel;50
 cracked and peeled;50
 cracked the case;60
+cracked wide open;60
 Cracker Barrel;60
 Cracker Barrels;60
 cracking and peeling;50
 cracking the case;60
+cracking wide open;60
 Cracklin' Oat Bran;50
 crackpot;60
 crackpot idea;60
@@ -19635,8 +19675,10 @@ crackpottery;60
 cracks;50
 cracks and peels;50
 cracks the case;60
+cracks wide open;60
 cracks wise;60
 crack the case;60
+crack wide open;60
 crack wise;60
 cradle;50
 cradles;50
@@ -19880,10 +19922,12 @@ cricket player;60
 cricket players;60
 cricket team;60
 cricket teams;60
+cried out for;40
 cried out to;40
 cries;50
 cries of derision;50
 cries off;30
+cries out for;40
 cries out to;40
 Crimea;50;Black Sea peninsula
 Crimean;40;Of a Black Sea peninsula
@@ -20224,6 +20268,7 @@ Cryer;40;Jon Cryer, "Two and a Half Men" star
 cry harder;60
 Cryin';40;As in "for cryin' out loud"
 crying on the inside;60
+crying out for;40
 crying out to;40
 crying over spilled milk;60
 crying shame;60
@@ -20233,6 +20278,7 @@ cryofreeze;60
 cryolite;30;Mineral
 cry on the inside;60
 cryosleep;60
+cry out for;40
 cry out to;40
 cryovolcano;60;Fissure that erupts gasses and volatile liquids that's commonly found on deep-space planets
 cryovolcanoes;60
@@ -20550,6 +20596,8 @@ Cusack;50;John Cusack, actor
 Cusco;30;Incan capital
 Cush;40;Cush Jumbo, actress, or the biblical land
 Cushing;40;Peter Cushing, Hammer horror star
+cushioned toilet seat;60
+cushioned toilet seats;60
 Cusk;40;Rachel Cusk, novelist
 cusk-eel;40;Eel-like fish
 cusk-eels;40
@@ -21176,6 +21224,7 @@ dark sides;50
 darksome;40;Gloomy
 Dark Souls;60
 Dark Star;50
+dark sunglasses;50
 dark times;60
 Dark Tower;60
 dark web;60
@@ -21355,6 +21404,7 @@ David Hedison;30;???
 Davidian;40;Branch Davidian sect member
 Davidians;40;Branch Davidians, the Waco sect
 David Oyelowo;50;"Selma" actor
+David Robinson;50;NBA great
 Davids;30
 Davidson;50;Pete Davidson, comedian / Harley-Davidson
 Davies;40;Greg Davies, host of "Taskmaster"
@@ -21864,6 +21914,7 @@ deep state;60
 deep thoughts;60
 Deep Thoughts by Jack Handey;60
 Deep Throat;60
+deep undercover;60
 deep-water solo;60;Free solo climbing above water deep enough to make falling safe
 deep web;60
 deer crossing sign;50
@@ -22809,6 +22860,7 @@ did donuts;60
 Diddy;40;Diddy Kong
 Diderot;50;Denis Diderot, Encyclopédie editor
 did good;50
+did hard time;60
 did honor;30
 did honor to;40
 Didi;40;Didi Conn, Frenchy in "Grease"
@@ -22882,6 +22934,8 @@ die Bart, die;60;Sideshow Bob tattoo
 Diebenkorn;40;Richard Diebenkorn, "Ocean Park" painter
 die-cast;50
 die-casting;50
+die-cast model car;50
+die-cast model cars;50
 die-casts;50
 died a death;50
 died back;40
@@ -23030,6 +23084,8 @@ Diller;40;Comedian Phyllis Diller, or killer diller
 Dillinger;50;John Dillinger, Depression-era bank robber
 Dillingers;20;Plural name
 Dillon;40;Matt Dillon, actor / Marshal Dillon of "Gunsmoke"
+dill pickle spear;60
+dill pickle spears;60
 dill spear;50
 dill spears;50
 Dilly Bar;50
@@ -23709,6 +23765,7 @@ does a vanishing act;60
 does donuts;60
 does for;30
 does good;50
+does hard time;60
 does honor;30
 does honor to;40
 does it by the book;60
@@ -23883,6 +23940,7 @@ dog year;60
 dog years;60
 d'oh;50
 Doha;40;Capital of Qatar
+do hard time;60
 Doherty;40;Shannen Doherty, actress / Pete Doherty, musician
 Do Ho;30;Do Ho Suh, South Korean sculptor (born 1962)
 do honor;30
@@ -23914,6 +23972,7 @@ doing a stretch;50
 doing donuts;60
 doingdyingtying;0
 doing good;50
+doing hard time;60
 doing honor;30
 doing honor to;40
 doing it by the book;60
@@ -24412,6 +24471,8 @@ dotted lines;60
 Dottie;40;Nickname for Dorothy
 Doty;40;Mark Doty, poet
 Double-A;30
+double backflip;60
+double backflips;60
 double bag;50
 double bagged;50
 double bagging;50
@@ -24675,6 +24736,7 @@ draw a veil over;50
 draw away;40
 draw away from;40
 drawbridge ahead;60
+draw first blood;60
 draw from;40
 Drawful;40;Jackbox drawing game
 drawing a bead;50
@@ -24689,6 +24751,7 @@ drawing attention to;40
 drawing a veil over;50
 drawing away;40
 drawing away from;40
+drawing first blood;60
 drawing from;40
 drawing into;30
 drawing on;40
@@ -24716,6 +24779,7 @@ draws attention to;40
 draws a veil over;20
 draws away;40
 draws away from;40
+draws first blood;60
 draws from;40
 draws into;30
 draws on;40
@@ -24836,6 +24900,7 @@ drew a veil over;50
 drew away;40
 drew away from;40
 Drew Carey Show;60;With "The"
+drew first blood;60
 drew from;40
 drew into;30
 drew on;40
@@ -25374,12 +25439,15 @@ dumbass;60
 dumbasses;60
 Dumb Dora;10
 dumb down;60
+dumbed it down;60
+dumbing it down;60
 dumb jock;60
 dumb jocks;60
 Dumbo;50;Big-eared Disney elephant
 dumbphone;60
 dumbphones;60
 dumb question;60
+dumbs it down;60
 Dumfries;40;Scottish town where Robert Burns died
 dummy bag;50
 dummy bags;50
@@ -26675,6 +26743,7 @@ Electrolux;50;Appliance brand
 electron;50
 electronic bulletin board;50
 electronic bulletin boards;50
+electronic dance music;60
 electronic music;60
 electrons;50
 electropop;60
@@ -29696,6 +29765,7 @@ fast one;50
 fast seller;20
 fast shipping;60
 fast thinking;50
+fast times;50
 fast zombie;50
 fast zombies;50
 fat;50
@@ -30436,10 +30506,14 @@ fights with;40
 fight with;40
 Figueroa;40;Los Angeles street, or a common Spanish surname
 figural;30
+figured it out;50
 figure eight;50
 figure eights;50
+figure it out;60
+figures it out;50
 figure studies;60
 figure study;60
+figuring it out;50
 Figwit;40;Fan nickname for Bret McKenzie's elf extra in "The Lord of the Rings"
 Fiji;50;Pacific island nation
 Fijian;50;From the South Pacific island nation
@@ -30810,6 +30884,7 @@ firsthand account;60
 firsthand accounts;60
 first husband;50
 first husbands;50
+first impact;50
 first in first out;60
 first kiss;60
 first kisses;60
@@ -35177,6 +35252,7 @@ Godden;40;Rumer Godden, English novelist
 goddess;60
 goddesses;60
 go deaf;50
+go deep undercover;60
 Gödel;50;Kurt Gödel, logician of the incompleteness theorems
 Godel;0
 Godel Escher Bach;60
@@ -35246,6 +35322,7 @@ goes by;40
 goes by the book;60
 goes condo;50
 goes deaf;50
+goes deep undercover;60
 goes down the line;50
 goes down to the wire;60
 goes dry;50
@@ -35396,6 +35473,7 @@ going by;40
 going by the book;60
 going condo;50
 going deaf;50
+going deep undercover;60
 going down the line;50
 going down to the wire;60
 going dry;50
@@ -61207,6 +61285,7 @@ not surprisingly;60
 nottaapproblem;0
 Nottage;40;Lynn Nottage, Pulitzer-winning playwright
 not that I'm aware of;60
+not that much;50
 not that there's anything wrong with that;60
 not the brightest crayon in the box;60
 not the Onion;60
@@ -88763,6 +88842,7 @@ the AFI list;20
 the afternoon of;20
 the age;20
 the age of steam;40
+Theages;30;Dialogue attributed to Plato
 the air;20
 the aisle;40
 The Alamo;60
@@ -97169,6 +97249,7 @@ went by;40
 went by the book;60
 went condo;50
 went deaf;50
+went deep undercover;60
 went down the line;50
 went down to the wire;60
 went dry;50
