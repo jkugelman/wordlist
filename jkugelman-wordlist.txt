@@ -1978,6 +1978,7 @@ Aiello;40
 AIG;40
 aigrette;20;Feather headdress
 aigrettes;20
+aigu;20
 Aiiieeeee;40;Landmark Asian American writing anthology
 aik;20
 Aiken;40;Clay Aiken, "American Idol" runner-up, or Conrad Aiken, poet
@@ -2013,6 +2014,7 @@ AI music;60
 ain;20
 Aina;30;Jackie Aina, beauty YouTuber
 Ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
+Aino;20
 ain't hay;30;Is of value, slangily
 ain't life grand?;60
 ain't love grand?;60
@@ -4107,6 +4109,7 @@ annus horribilis;60
 año;40
 Anoa'i;40;Samoan pro wrestling family of The Rock and Roman Reigns
 a no-brainer;60
+a nod;20
 anode;50
 anodes;50
 anodyne;50
@@ -27503,6 +27506,7 @@ enote;20
 eNotes;20
 enough;50
 enough is enough;60
+enow;30;Archaic form of enough
 en passant;50
 enplane;50;Get on board
 enplaned;50
@@ -30346,6 +30350,7 @@ Ferrigno;50
 Ferris;50;Ferris Bueller, or the wheel
 ferro-;40;Iron-
 Ferruccio;40;Ferruccio Lamborghini, carmaker / Ferruccio Busoni, composer
+fers;20
 ferule;30;Ruler for slapping children on the hand
 ferules;30
 Fes;20
@@ -43416,6 +43421,7 @@ in one fell swoop;60
 in one fluid motion;50
 in one piece;60
 in one's DNA;60
+in or;20
 inositol;30
 inositols;30
 in OT;40
@@ -59207,6 +59213,7 @@ Narges Mohammadi;50;2023 Nobel Peace Prize laureate Narges Mohammadi
 narghile;30;Hookah
 narghiles;30
 Narita;40;Tokyo airport
+nark;20;Alternate form of narc
 narked;20;British slang
 narking;20;British slang
 Narnia;50;Land beyond the wardrobe
@@ -63376,9 +63383,11 @@ on notice;50
 Ono;40
 onomastic;40
 onomastics;40;Study of proper names
+on on;20
 Onondaga;40;New York tribe / county
 on one knee;50
 on one's high horse;60
+on or;20
 onos;20
 On Our Own;40;One-season '90s sitcom
 on post;40
@@ -64022,6 +64031,7 @@ oroide;20;Fake gold
 oroides;20;Fake gold alloys
 Oromo;40;Ethiopian people and language
 Oromos;40;Largest ethnic group in Ethiopia
+or on;20
 Orono;40;Maine college town
 Orontes;20;Syrian river
 oronym;30;I scream for ice cream, for example
@@ -87295,11 +87305,12 @@ Talos;20;Mythological guardian of Crete
 talus;20
 taluses;20
 tam;40
-Tama;40;Tama Janowitz, "Slaves of New York" author
+Tama;30;Tama Janowitz, "Slaves of New York" author
 tamable;20
 Tamagotchi;50;Handheld digital pet of the '90s
 Tamagotchis;50;Digital pets on a keychain
 Tamahori;40;Lee Tamahori, "Once Were Warriors" director
+Tama Janowitz;50;"Slaves of New York" author
 Tamar;40;Tamar Braxton, singer / biblical figure
 Tamara;40
 Tamarac;20;Florida city
@@ -92074,7 +92085,7 @@ traduces;30
 traducing;30
 tradwife;60
 tradwives;60
-Trae;40;Four-time NBA All-Star Trae Young
+Trae;30;Four-time NBA All-Star Trae Young
 Traeger;40;Grill brand, or Chris Traeger of "Parks and Recreation"
 Trafalgar;50;London square and Nelson's battle
 traffic circle;60
@@ -92293,7 +92304,7 @@ Traylor;40;Bill Traylor, self-taught folk artist
 Traynor;40;"Pie" Traynor, MLB manager in the 1920s, all time great third baseman
 Trayvon;40;Trayvon Martin, whose 2012 killing galvanized Black Lives Matter
 tre;40;Italian three
-Trea;40;Trea Turner, All-Star shortstop
+Trea;30;Trea Turner, All-Star shortstop
 Treacher;40
 Treacy;40;Philip Treacy, Irish hat designer
 treaded on;40
@@ -99845,7 +99856,7 @@ Yma;20
 YMCAs;40;Gyms with a Village People song
 YMHAs;30;Jewish community centers, briefly
 Ymir;20;Giant slain by Odin, from his flesh was fashioned the Earth, from his blood the oceans
-Ynez;40;Santa Ynez, California wine valley
+Ynez;30;Santa Ynez, California wine valley
 Yngwie;50
 Yngwie Malmsteen;50
 ynnepdab;0
@@ -100486,7 +100497,7 @@ Zawinul;40;Joe Zawinul, Weather Report keyboardist
 zax;20
 Zaxby's;40;Chicken fingers chain
 Zaxxon;40;Classic Sega arcade game
-Zaya;40;Zaya Wade, activist daughter of Dwyane Wade
+Zaya;30;Zaya Wade, activist daughter of Dwyane Wade
 Zayn;40;One-named One Direction member
 Zazie;50;Actress Zazie Beetz
 Zazie Beetz;50
