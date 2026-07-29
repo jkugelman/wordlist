@@ -82602,6 +82602,7 @@ souks;20;Bazaars
 Soulcalibur;50;Weapon-based fighting game series
 SoulCycle;40;Indoor cycling studio chain
 Souleymane;40;Souleymane Cissé, Malian filmmaker
+Soul II Soul;50;British musical collective with the 1989 hit "Back to Life"
 Soulja;50;Soulja Boy, pioneering Grammy-nominated rapper
 Soulja Boy;60;Soulja Boy, pioneering Grammy-nominated rapper
 Souljah;40;Sister Souljah, author and activist
@@ -85334,8 +85335,8 @@ stud farm;50
 stud farms;50
 stud fee;50
 stud fees;50
-stud finder;50
-stud finders;50
+stud finder;60
+stud finders;60
 Studi;40;Wes Studi, "Last of the Mohicans" actor
 studied hard;50
 studied up on;50
