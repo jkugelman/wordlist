@@ -24926,6 +24926,8 @@ Dr J;50
 Dr. James Naismith;60;Inventor of basketball (1861–1939)
 Dr Jekyll;60
 Dr Jekyll and Mr Hyde;60
+Dr. John Watson;60;Fictional character, associate and friend of Sherlock Holmes
+Dr John Watson;0
 Dr Joyce Brothers;50
 Dr. K;20;Baseball nickname
 Dr. Laura;10
@@ -26731,6 +26733,7 @@ elicitor;30
 Elie;40;Elie Wiesel
 Eliel;40;Eliel Saarinen, architect and father of Eero
 Eli, Eli;20;Hebrew song
+Elie Wiesel;60
 Eliezer;40;Biblical name, Abraham's servant
 Elif;30;Writer Elif Batuman or Elif Shafak
 Elif Batuman;50;American writer and academic (born 1977)
@@ -38082,6 +38085,8 @@ hard ten;50
 hard to be around;60
 hard to beat;60
 hard to come by;60
+hard to compete with;60
+hard to compete with that;60
 hard to imagine;60
 hard to pin down;60
 hard to port;60
@@ -45854,6 +45859,8 @@ Johnstown;40;Pennsylvania city of the 1889 flood
 John Turturro;50
 John V;20
 John VI;30
+John Waters;60;Cult film director
+John Watson;60;Fictional character, associate and friend of Sherlock Holmes
 John X;20
 John XXII;30
 Johny;30;"Johny Johny Yes Papa," nursery rhyme meme
@@ -54954,6 +54961,7 @@ maypop;30;Flower
 Mayra;40;Mayra Montero, Cuban-Puerto Rican novelist
 Mays;50;Willie Mays, the Say Hey Kid / Billy Mays, pitchman
 Maysles;40;Albert and David Maysles, "Grey Gardens" documentarians
+May Swenson;50;Poet and playwright (1913-1989), much lauded
 Maytag;40;Appliance brand with the lonely repairman
 Maytags;40;Washing machines
 Maytals;40;Toots and the Maytals, reggae group
@@ -66621,6 +66629,7 @@ Petersen;40;Wolfgang Petersen, "Das Boot" director
 Peterson;40;Oscar Peterson, jazz pianist / Cassandra Peterson, Elvira portrayer
 Pete's;40;For Pete's sake, or "Pete's Dragon"
 Pete Wentz;40
+Pete Wilson;40;Governor of California 1991-99
 Petey;40;Petey Pablo, rapper / "The Little Rascals" dog
 Pete Yorn;50;Singer-songwriter (born 1974)
 pet flap;50
@@ -91292,6 +91301,7 @@ Tonys;50
 Tony Snow;40;Press secretary for George W. Bush
 Tony Soprano;60
 Tony Stark;60
+Tony Wilson;40;British impressario and TV presenter (1950–2007)
 too;50
 too big to fail;60
 too careful;50
@@ -96006,6 +96016,7 @@ wader;40;Shorebird
 waders;50;Boots
 wades in;40
 wades into;40
+Wade Wilson;60;Deadpool
 wading in;40
 wading into;40
 Wadjda;40;"Wadjda", first Saudi feature directed by a woman
