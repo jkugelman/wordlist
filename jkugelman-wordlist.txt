@@ -31958,16 +31958,24 @@ forgather;40
 forgathered;40
 forgathering;40
 forgathers;40
+forget about;50
 forget about it;60
+forget her;50
+forget him;50
 forget I asked;60
 forget I even asked;60
 forget I said that;60
 forget it;60
 forget-me-not;60
+forgets about;50
+forget that;60
+forget them;50
 forget what I said;60
 forget you heard that;60
 forgiver;40
 forgivers;40
+forgot about;50
+forgotten about;50
 Forgottonia;50;Tongue-in-cheek breakaway region of western Illinois
 forints;20;Hungarian money
 forked out;50
