@@ -6176,6 +6176,8 @@ atethem;0
 ate up;50
 ATF;40
 at face value;50
+ATF agent;50
+ATF agents;50
 at first blush;60
 ath;20
 Athabasca;40;Canadian lake, river, and oil sands
@@ -23297,6 +23299,10 @@ discussion group;50
 Discworld;60;Terry Pratchett's flat fantasy world
 disease control;50
 disease to please;60
+diseur;20;Male monologist
+diseurs;20;Male monologists
+diseuse;20;Female monologist
+diseuses;20;Female monologists
 dishabille;40;State of being partly or scantily clothed
 dished on;40
 dishes on;40
@@ -25048,7 +25054,12 @@ Dr Phil;50
 Dr Quinn Medicine Woman;50
 Dr. Romano;30;"ER" character
 Drs;40
-Dr Seuss;50
+Dr. Seuss;60
+Dr Seuss;0
+Dr. Seuss' How the Grinch Stole Christmas;60
+Dr. Seuss's ABC;60;1963 book by Dr Seuss
+Dr. Seuss's Sleep Book;60;1962 children's book by Dr. Seuss
+Dr. Seuss stories;20
 Dr Spock;50
 Dr Strangelove;60
 Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb;60
@@ -37415,7 +37426,8 @@ Hadfield;40;Chris Hadfield, guitar-playing Canadian astronaut
 had fun;50
 had game;50
 had heart;50
-Hadid;50;Zaha Hadid, architect / Gigi Hadid, model
+Hadid;40;Zaha Hadid, architect / Gigi Hadid, model
+had ideas;50
 had in;40
 had it;40
 had it bad;60
@@ -38239,6 +38251,7 @@ HaShem;40;Hebrew name for God
 Hashemite;40;Of Jordan's royal dynasty
 Hashemites;40;Jordanian royal dynasty
 Hashimoto;40;Hashimoto's thyroiditis, or Ryutaro Hashimoto, Japanese PM
+has ideas;50
 Hasidic;50;Of an Orthodox Jewish movement
 Hasidism;50;Orthodox Jewish movement
 has in;40
@@ -38438,6 +38451,7 @@ have fun;60
 have fun with that;60
 have game;60
 have heart;50
+have ideas;50
 have it bad;60
 have it both ways;50
 have it good;60
@@ -38512,6 +38526,7 @@ having eyes for;50
 having fun;50
 having game;50
 having heart;40
+having ideas;50
 having it bad;60
 having it good;60
 having it in for;50
@@ -40956,6 +40971,8 @@ howls at;40
 Howl's Moving Castle;60;Studio Ghibli movie
 how many times?;60
 how much do I owe you;60
+how're;50
+how revolting;60
 how RU?;20
 how sad;60
 how's business?;60
@@ -79773,6 +79790,11 @@ showboating;60
 showboats;60
 showed a profit;60
 showed one's best side;60
+showed remorse;50
+showed respect;50
+showed respect for;40
+showed restraint;50
+showed results;60
 showed signs of life;60
 shower;50
 shower beer;60
@@ -79797,6 +79819,11 @@ show ID;50
 show IDs;50
 showing a profit;60
 showing one's best side;60
+showing remorse;50
+showing respect;50
+showing respect for;40
+showing restraint;50
+showing results;60
 showing signs of life;60
 show match;50
 show matches;50
@@ -79804,19 +79831,37 @@ show me;50
 show me what you got;60
 show of force;60
 show of gratitude;60
+show of remorse;60
+show of respect;60
+show of restraint;60
 show of strength;60
 show of support;60
 show one's best side;60
+showreel;60;video portfolio demonstrating the talents of an actor, director, etc.
+showreels;60;Video portfolios demonstrating the talents of an actor, director, etc.
+show remorse;50
+show respect;50
+show respect for;40
+show restraint;50
+show results;60
 showroom;50
 showrooms;50
 shows a profit;60
 show signs of life;60
 shows of force;60
 shows of gratitude;60
+shows of remorse;60
+shows of respect;60
+shows of restraint;60
 shows of strength;60
 shows of support;60
 show some class;60
 shows one's best side;60
+shows remorse;50
+shows respect;50
+shows respect for;40
+shows restraint;50
+shows results;60
 shows signs of life;60
 show to;20
 Showzen;40;"Wonder Showzen," MTV2 sketch series
@@ -89021,6 +89066,7 @@ The Gap;50
 The Gazebo;30;1959 film
 the GE building;30
 the Gem City;40
+the gender gap;50
 The Gift of the Magi;60
 The Girl Next Door;60
 The Girl Who Kicked the Hornet's Nest;60
@@ -89113,6 +89159,7 @@ the jack of clubs;40
 the jack of diamonds;40
 the jack of hearts;40
 the jack of spades;40
+The Jitterbug;60
 the job;40
 The Joy of Painting;60
 The Joy of Sex;60
@@ -89744,6 +89791,7 @@ The West Wing;60
 The Whale;60
 the Whiskey Rebellion;40
 The White Lotus;60
+The White Nile;60
 the whole shooting match;60
 the Wicked Witch of the East;60
 the Wicked Witch of the West;60
@@ -92821,6 +92869,7 @@ Tue;40
 Tues;40
 Tuesday;50;Day of the week
 Tuesdays;50;"Tuesdays with Morrie" / taco Tuesdays
+tufaceous;30;Of the nature or texture of tufa, a variety of limestone
 Tuffy Smurf;60
 Tufnel;40;Nigel Tufnel, "This Is Spinal Tap" guitarist who goes to eleven
 Tufte;40;Edward Tufte, data visualization guru
