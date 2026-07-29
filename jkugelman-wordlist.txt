@@ -4987,6 +4987,7 @@ Arduino;50
 Arduinos;50
 are;50
 area;50
+Area 51;60
 area below a curve;20
 area code map;40
 area code maps;40
@@ -37941,6 +37942,7 @@ Hanes;50;Underwear brand
 Hanff;40;Helene Hanff, author of "84, Charing Cross Road"
 Hanford;40;Washington state nuclear site
 Hanga;40;Hanga Roa, main town of Easter Island
+Hangar 18;50;Conspiracy theory / Megadeth song
 Hanga Roa;30;Main town on Easter Island
 hang around at;20
 hang around with;40
