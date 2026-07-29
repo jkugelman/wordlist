@@ -12600,8 +12600,8 @@ Bruckner;50;Anton Bruckner, Austrian symphonist
 Bruder;20
 Bruegel;30;Renaissasnce artist Pieter Bruegel the Elder
 Bruegels;40;Works by the Flemish painting dynasty
-Brueghel;40;Pieter Brueghel, Flemish painter
-Brueghels;40;The Flemish painting family
+Brueghel;30;Pieter Brueghel, Flemish painter
+Brueghels;30;The Flemish painting family
 Bruford;50;Bill Bruford
 Bruges;50;Belgian canal city
 Bruhl;40;Daniel Brühl, German actor
@@ -20453,6 +20453,7 @@ cuboidal;30
 cuboids;30
 Cubozoa;30;Box jellyfish class
 Cucamonga;50;Rancho ___, California city
+cuchi;30
 cuck;10
 cucurbit;30;???
 cud;50
@@ -36272,6 +36273,8 @@ got used to it;50
 got with the times;60
 Gotye;40;"Somebody That I Used to Know" singer
 got your nose;60
+gouache;40;Type of watercolor paint
+gouaches;40;Type of watercolor paints
 Gouda;50;Dutch cheese
 Gould;40;Glenn Gould, pianist, or Elliott Gould, actor
 Goulding;40;Ellie Goulding, "Lights" singer
@@ -44984,7 +44987,7 @@ I wasn't here;60
 I was right;60
 I was thinking;60
 Iweala;30;Uzodinma Iweala, Nigerian-American writer
-Iwerks;40;Ub Iwerks, Disney animator who drew Mickey
+Iwerks;30;Ub Iwerks, Disney animator who drew Mickey
 I will eat you alive;60
 I will eat you for breakfast;60
 I will not;50
@@ -63869,7 +63872,9 @@ oral health;50
 oralism;30
 oral test;50
 oral tests;50
-Oran;40;Algerian city, setting of Camus's "The Plague"
+Oran;30;Algerian city, setting of Camus's "The Plague"
+Oran, Algeria;40
+Oran Algeria;0
 orang;40;"Rue Morgue" murderer
 orange chicken;60
 Orange County;60
@@ -87859,6 +87864,7 @@ tautogs;30
 tautonym;50;Scientific name in which the same word is used for both genus and species
 tautonyms;50;Scientific names in which the same word is used for both genus and species
 Tautou;40;Audrey Tautou, star of "Amélie"
+taut ship;40
 tav;20
 Tavares;40;John Tavares, NHL center
 Tavener;40;John Tavener, English composer
@@ -97102,6 +97108,7 @@ we come in peace;60
 we cool;60
 wed;50
 wedded bliss;60
+wedded to;40
 Weddell;40;Antarctic sea, or its seal
 wedding albums;50
 wedding arch;50
@@ -97145,6 +97152,7 @@ wedding registry;50
 wedding shower;60
 wedding showers;60
 wedding soup;50
+wedding to;20
 wedding toast;50
 wedding toasts;50
 wedding veil;50
@@ -97170,6 +97178,8 @@ Wednesdays;50;Midweek days
 we do;50
 We Don't Need Another Hero (Thunderdome);50;1985 single by Tina Turner
 we don't need no education;60;Opening line from Pink Floyd's "Another Brick in the Wall"
+weds to;20
+wed to;40
 wee;50
 Weebly;40;Website builder
 Weed Eater;50
