@@ -11062,6 +11062,8 @@ boldly go;60
 bold stroke;50
 bold strokes;50
 bold type;50
+Boléro;50;1928 orchestral composition by Maurice Ravel
+bolero;50
 Boleslaw;40;Bolesław the Brave, first king of Poland
 Bolex;40;Swiss movie camera brand
 Bolexes;40;Swiss movie cameras
@@ -32010,7 +32012,7 @@ forty-six;40
 forty-three;40
 forty-two;40
 Forugh;40;Forugh Farrokhzad, Iranian poet
-Forvo;40;Pronunciation dictionary site
+Forvo;30;Pronunciation dictionary site
 for want of a better word;60
 forwarder;40
 forwarders;40
@@ -65154,6 +65156,7 @@ panic room;60
 panic rooms;60
 Panic Saturday;60;Last Saturday before Christmas, big retail day
 pan in;30;Zoom in, not pan in
+panino;40
 pan in on;30
 Panipat;40;Indian city, site of three historic battles
 pani puri;40;Indian street food
@@ -91148,6 +91151,7 @@ to carry;20
 To Celia;40;Ben Jonson poem "To Celia"
 Tocharian;40;Extinct Indo-European language of the Tarim Basin
 Tocharians;40;Extinct Indo-European people of the Tarim Basin
+tocino;30;Bacon in Spanish
 to come;40;In store
 Tocqueville;50;Alexis de Tocqueville, "Democracy in America" author
 tocsin;20;Alarm bell, archaic
