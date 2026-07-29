@@ -2120,8 +2120,14 @@ Airness;60
 air one's dirty laundry;60
 air out one's dirty laundry;60
 Air-Pillo;40;Dr. Scholl's Air-Pillo Insoles
+airplane cabin;50
+airplane cabins;50
 airplane captain;50
 airplane captains;50
+airplane carrier;30
+airplane carriers;30
+airplane crew;30
+airplane crews;30
 airplane landing;50
 airplane landings;50
 air plant;60
@@ -53046,6 +53052,7 @@ Macquarie;40;Australian university and dictionary
 MacRae;30;Gordon MacRae of "Oklahoma!" or Elizabeth MacRae of "The Conversation"
 macro lens;50
 macro lenses;50
+Macrozamia spiralis;20;Species of cycad
 Macs;40;Apple computers, or Big Macs
 MacTaggert;40;Moira MacTaggert, X-Men geneticist
 Mac Ten;30;Weapon
@@ -56906,6 +56913,8 @@ mirror, mirror;60
 mirror mirror;0
 mirror, mirror on the wall;60
 mirror mirror on the wall;0
+mirror neuron;60
+mirror neurons;60
 mirror of the mind;60
 mirror shades;60
 mirror universes;60
@@ -85231,6 +85240,9 @@ strawberry trees;50
 strawberry wine;50
 straw boss;50
 straw bosses;50
+straw color;20
+straw-colored;50
+straw-coloured;20
 straw hut;50
 straw huts;50
 straw man;60
@@ -90328,6 +90340,7 @@ threnody;40;Hymn for the dead
 threonine;30;Essential amino acid
 threw a curveball;60
 threw a scare into;50
+threw a spiral;60
 threw at;40
 threw a tantrum;50
 threw a veil over;50
@@ -90361,6 +90374,7 @@ throw a curve;60
 throw a curveball;60
 throw a pot;50
 throw a scare into;50
+throw a spiral;60
 throw at;40
 throw a tantrum;50
 throw a veil over;50
@@ -90375,6 +90389,7 @@ throwing a curve;60
 throwing a curveball;60
 throwing a pot;50
 throwing a scare into;50
+throwing a spiral;60
 throwing at;40
 throwing a tantrum;50
 throwing a veil over;50
@@ -90403,6 +90418,7 @@ throws a curve;60
 throws a curveball;60
 throws a pot;50
 throws a scare into;50
+throws a spiral;60
 throws at;40
 throws a tantrum;50
 throws a veil over;50
@@ -92498,6 +92514,7 @@ tricepses;30;Plural of triceps???
 Triceratops;60;Three-horned dinosaur
 trices;30
 trichina;30;Parasitic worm
+Trichinella spiralis;20;Species of roundworm
 Tricia;40;Tricia Helfer, "Battlestar Galactica" actress
 tricing;30
 Trick Bone;60;Acme invention
@@ -95011,6 +95028,7 @@ Vallee;40;Rudy Vallée, crooner / Jean-Marc Vallée, director
 Vallejo;40;California city / César Vallejo, Peruvian poet
 Valletta;40;Capital of Malta
 Valli;40;Frankie Valli of the Four Seasons
+Vallisneria spiralis;20;Species of aquatic plant
 Vallone;30;Raf Vallone of "The Italian Job" (1969)
 Valmiki;40;Sage credited with the Ramayana
 Valois;30;Royal house of France 1328-1589
