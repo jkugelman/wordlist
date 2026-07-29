@@ -129,6 +129,13 @@
 4 colly birds;0
 4-H Club;60;Youth development organization
 4K;40
+4K!DS;40;Former children's entertainment licensing company
+4K!DS Entertainment;50;Former children's entertainment licensing company
+4K!DS Productions;50;Former children's entertainment licensing company
+4Kids;40;Former children's entertainment licensing company
+4Kids Entertainment;50;Former children's entertainment licensing company
+4Kids Productions;50;Former children's entertainment licensing company
+4Kids TV;40;Former children's programming block on Fox
 4K television;60
 4K televisions;60
 4K TV;40
@@ -20649,6 +20656,7 @@ CVII;20
 CVIII;20
 CVs;40
 CVVs;40;Credit card security codes
+CW4Kids;40;Saturday morning cartoon block
 cwm;20
 C.W. Moss;40;???
 C W Post;40;???
@@ -88955,6 +88963,7 @@ the curse of knowledge;60
 the customer is always right;60
 The Cut;40
 The CW;40
+The CW4Kids;50;Saturday morning cartoon block
 Theda;40
 Theda Bara;40;Silent film actress Theda Bara
 The Daily Show;60
@@ -100173,6 +100182,8 @@ Yue;40;Chinese language group that includes Cantonese
 Yuen;40;Yuen Woo-ping, Hong Kong martial arts choreographer
 Yuengling;50;America's oldest brewery
 Yuen Woo-ping;50;Hong Kong martial arts choreographer
+Yu-Gi-Oh!;50;Manga series by Kazuki Takahashi and its franchise
+Yu-Gi-Oh;0
 Yugo;50;Cheap Yugoslav car of the 1980s
 Yugos;40;Cheap Yugoslav cars
 Yugoslav;50;Of the former Balkan federation
