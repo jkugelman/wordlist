@@ -4120,7 +4120,7 @@ anonyme;30;Faceless person
 anonyms;40
 Anoop;40;Anoop Desai, "American Idol" finalist
 Anopheles;30;Malaria mosquito genus
-Anora;50;2025 Best Picture
+Anora;40;2025 Best Picture
 anorak;40
 anoraks;40
 anorectic;30
