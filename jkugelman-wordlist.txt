@@ -15912,6 +15912,8 @@ Charites;40;The Graces of Greek myth
 charity line;60;Free throw line
 charity stripe;60;Free throw line
 Charizard;50;Pokeyman
+charkha;20;Cotton spinning wheel
+charkhas;20;Cotton spinning wheel
 Charl;30;Golfer Charl Schwartzel, 2011 Masters winner
 Charlaine;40;Charlaine Harris, Sookie Stackhouse novelist
 Charlamagne;40;Charlamagne tha God, radio host
