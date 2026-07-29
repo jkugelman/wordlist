@@ -2158,6 +2158,10 @@ airscrews;30
 airs dirty linens;20
 airship;50
 airships;50
+air show;60
+air show maneuver;50
+air show maneuvers;50
+air shows;60
 airsoft;50
 airs one's dirty laundry;60
 airs out one's dirty laundry;60
