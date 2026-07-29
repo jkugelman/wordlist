@@ -11045,6 +11045,7 @@ BoJack;50;BoJack Horseman, animated washed-up horse actor
 Bojangles;60
 bok;40
 bok choi;20
+bokeh;40;Aesthetic quality of blur in the out-of-focus parts of an image
 Bokmal;40;Bokmål, a written form of Norwegian
 Boko;30;Boko Haram
 Boko Haram;40;Jihadist organization in Nigeria
@@ -13221,6 +13222,7 @@ Butkus;40;Dick Butkus, Hall of Fame Bears linebacker
 Butlerian;40;Butlerian Jihad of "Dune"
 but like actually though;60
 butnotreachable;0
+butoh;30;Post-WWII Japanese dance form
 but really;60
 but still;60
 butt dial;60
@@ -20488,7 +20490,7 @@ Cumorah;40;Hill Cumorah, Book of Mormon site
 Cunard;40;Ocean liner company
 cuneate;20;Wedge-shaped, in botany/anatomy
 cuneiform;50
-Cunha;40;Tristan da Cunha, remote South Atlantic island
+Cunha;30;Tristan da Cunha, remote South Atlantic island
 Cunk;40;Philomena Cunk of mockumentary fame
 Cunk on Britain;60;2018 British mockumentary television series
 Cunk on Cinema;60;2026 British mockumentary television series
@@ -26205,6 +26207,7 @@ Edens;40;Paradises
 Edentata;20;Mammal order
 edentate;30;Mammal lacking teeth (anteater, sloth, armadillo)
 edentates;30
+Eder;30;German river / Critic Richard Eder
 Ederle;30;Swimmer Gertrude, first woman to cross the English Channel [common]
 Ederle's;20
 Edessa;40;Ancient Mesopotamian city, and a Crusader county
@@ -26832,6 +26835,7 @@ Eliot Ness;60
 Elis;40;Yale students
 Elisa;30;"Clueless" actress Elisa Donovan
 Elisabeth;50;Common first name
+Elisa Donovan;40;Actress in "Clueless" and "Sabrina the Teenage Witch"
 Elise;40
 Elisha;40;Biblical prophet / Elisha Cuthbert, actress
 Elissa;40;Various: Michigan senator, queen Dido of Carthage
@@ -26904,8 +26908,11 @@ Elmo's;40;St Elmo's fire, or ticklish dolls
 Elmo's Song;60
 Elm St;40
 Elm Street;60
-El Nino;50
-El Niños;50
+El Niño;50;Global climate phenomenon
+El Nino;0
+El Niños;50;Global climate phenomena
+El Niño–Southern Oscillation;50
+El Nino Southern Oscillation;0
 El Norte;40
 Elo;40
 Elohim;40;God, in the Old Testament
@@ -28134,6 +28141,7 @@ eSIM card;50;Digital SIM card
 eSIM cards;50;Digital SIM cards
 eSIMs;40;Digital SIM cards
 esiotrot;0
+es ist;20;It is, in German
 esk;20
 ESL;40
 Esmail;40;Sam Esmail, creator of "Mr. Robot"
@@ -28315,7 +28323,8 @@ etatist;20;Statist
 etavilas;0
 etc.;50
 etceteras;40;Plural???
-etchant;30;Corrosive acid
+etchant;30;Corrosive acid used in etching
+etchants;30;Corrosive acids used in etching
 etched in;40
 etcher;40
 etchers;40
@@ -29605,6 +29614,7 @@ Fantano;40;Anthony Fantano, music critic
 Fantas;40;Orange sodas
 fantasia;60
 Fantasticks;40;"The Fantasticks", long-running musical
+fantastictechnikahlo;0
 fantasticthree;0
 fantastique;60;Literary genre, or Berlioz's "Symphonie fantastique"
 fantasying;40
@@ -42419,6 +42429,8 @@ I'm;50
 Ima;20;I'm a partial
 I'm a big fan;60
 I'm a catch;60
+iMac Pro;50
+iMac Pros;50
 I'm Adam;20
 I made it up;60
 I'm afraid;50
@@ -44318,6 +44330,7 @@ is she buying it?;60
 is shot;20
 is sick;20
 is silly;20
+-issimo;40
 is sober;20
 issued to;40
 issueless;30
@@ -45646,7 +45659,7 @@ jeté;40;Ballet jump
 jet engine;50
 Jeter;50;Derek Jeter, Yankees shortstop
 jetés;40
-Jethro;50;Jethro Tull band / Jethro Bodine of "The Beverly Hillbillies"
+Jethro;40;Jethro Tull band / Jethro Bodine of "The Beverly Hillbillies"
 jet-propelled pogo stick;60;Acme invention
 jet-propelled skis;60;Acme invention
 jet-propelled unicycle;60;Acme invention
@@ -46256,6 +46269,7 @@ Julio;50;Julio Iglesias, singer, or a common Spanish name
 Julius;50;Julius Caesar, Roman general and dictator
 Julius Onah;50;Julius Onah, director of Captain America: Brave New World
 Jully;40;Jully Black, Canadian R&B singer
+Jul Maroh;50;"Blue Is the Warmest Color" cartoonist
 July;50;Seventh month
 Julys;20
 Jumanji;50;Board game movie franchise
@@ -46513,7 +46527,9 @@ kakapos;40
 Kaki;30
 Kaki King;50;guitarist and composer (born 1979)
 Kaku;40;Michio Kaku, physicist and TV science popularizer
-Kakuro;50;Number puzzle also called cross sums
+kakuro;40;Number puzzle also called cross sums
+Kakuro;0
+kakuros;40;Number puzzles also called cross sums
 Kakutani;40;Michiko Kakutani, longtime New York Times book critic
 Kal;40
 Kalaallit;40;Kalaallit Nunaat, Greenlandic name for Greenland
@@ -47128,6 +47144,7 @@ Kenosha;40;Wisconsin city
 Kenough;60
 Kens;50;"Barbie" characters
 Kenshin;40;"Rurouni Kenshin" swordsman
+kenshō;30;Buddhist term for seeing one's "true nature" as inherently empty of a personal self
 Kensington;50;London district with the palace
 Kensit;30;Patsy Kensit of "Lethal Weapon 2"
 Kent;50;Clark Kent, Superman's alter ego
@@ -48750,7 +48767,7 @@ Lakshadweep;40;Indian island territory
 Lakshmi;50;Hindu goddess of wealth / Padma Lakshmi, TV host
 laky;20
 lal;20
-Lalah;40;Lalah Hathaway, R&B singer
+Lalah;30;Lalah Hathaway, R&B singer
 la la la;30
 la-la land;60
 Lalami;40;Laila Lalami, Moroccan-American novelist
@@ -53014,7 +53031,8 @@ Macon, GA;30;???
 Mac OS X;30
 Macphail;40;Agnes Macphail, first woman in Canada's Parliament
 MacPherson;40;Elle Macpherson, supermodel / James Macpherson, Ossian poet
-MacPro;40;Apple desktop computer
+Mac Pro;50;Apple desktop computer
+Mac Pros;50;Apple desktop computers
 Macquarie;40;Australian university and dictionary
 MacRae;30;Gordon MacRae of "Oklahoma!" or Elizabeth MacRae of "The Conversation"
 macro lens;50
@@ -54475,7 +54493,7 @@ Marni;40;Marni Nixon, dubbing singer for movie musicals
 Marnie;40;"Marnie," Hitchcock film / Marnie Stern, guitarist
 Marnier;40;Grand Marnier, orange liqueur
 marocain;20;Fabric
-Maroh;40;Jul Maroh, "Blue Is the Warmest Color" cartoonist
+Maroh;30;Jul Maroh, "Blue Is the Warmest Color" cartoonist
 Maron;40;Marc Maron
 Maroney;40;Jenna Maroney, "30 Rock" diva / McKayla Maroney, gymnast
 Maronite;40;Eastern Catholic church of Lebanon
@@ -57291,6 +57309,7 @@ Moesha;40;1990s sitcom starring Brandy
 Moe's Tavern;60
 Moe Szyslak;50;Springfield bartender
 Moet;40;Champagne
+Mo Farah;40;Most successful British track athlete in Olympic Games history
 Moff;40;Star Wars rank, as in Grand Moff Tarkin
 Moffat;40;Steven Moffat, "Doctor Who" showrunner
 mofongo;40;Puerto Rican plantain dish
@@ -60340,6 +60359,10 @@ Niihau;40;Hawaiian island
 Nijinsky;50;Vaslav Nijinsky, legendary ballet dancer
 Nijmegen;40;Oldest city in the Netherlands
 Nik;30;Suffix
+nikah;30;Muslim wedding
+nikahceremonies;50;Muslim weddings
+nikah ceremony;50;Muslim wedding
+nikahs;30;Muslim weddings
 Nike;50;Sneaker brand, or Greek goddess of victory
 Nike ad;20
 Nike ads;20
@@ -62508,6 +62531,7 @@ oh, who am I kidding?;60
 oh who am I kidding;0
 oh, why not?;60
 oh woe is me;50
+Oh Yoko!;40;1971 song by John Lennon
 oh you're bad;60
 oh, you sweet summer child;60
 -oid;30;Suffix [occasional]
@@ -64920,6 +64944,8 @@ pajama bottom;50
 pajama bottoms;50
 pajama rich;60;So rich you don't care how you dress in public
 Pajanimals;40;Jim Henson preschool TV series
+pájaro;20
+pájaros;20
 Pajitnov;40;Alexey Pajitnov, creator of Tetris
 Pak;40
 Pakeezah;40;Classic Bollywood film (1972)
@@ -68247,6 +68273,8 @@ pneumonic;40
 PNGs;40;Image files
 Pnin;40;Nabokov novel
 Pnina;40;Pnina Tornai, bridal gown designer
+Pnom;20
+Pnom Penh;20
 Po;40;Italian river
 Poa;30;Bluegrass genus
 Poarch;40;Bella Poarch, TikTok star
@@ -73085,6 +73113,8 @@ rendezvous;50
 Rene;50;Various: Rene Descartes, Rene Russo
 Rene Descartes;60
 Renee;50;Renee Zellweger, actress / common first name
+Renée Elise Goldsberry;50;Original Angelica in "Hamilton"
+Renee Elise Goldsberry;0
 Reneé Rapp;50;Singer/actress
 Renee Rapp;0
 Renées;30;Plural name
@@ -78250,7 +78280,7 @@ selenates;30
 Selenator;50;Fan of Selena Gomez
 Selenators;50;Fans of Selena Gomez
 Selene;40;Greek moon goddess
-selenic;40;???
+selenic;40;Moon-related / Containing selenium
 selenide;40;Selenium compound
 selenides;40
 selenite;30;Gypsum mineral
@@ -82754,6 +82784,8 @@ sounds like a skill issue;60
 sounds like a you problem;60
 sounds perfect;60
 sounds reasonable;60
+sounds right;60
+sounds right to me;60
 sounds risky;60
 sounds risky, I'm in;60
 sounds simple;60
@@ -84784,6 +84816,7 @@ stink at;40
 stink bomb;60
 stink bombs;60
 stinking at;40
+stinko;40
 stinks at;40
 Stinky Smurf;60;a.k.a. Sloppy Smurf
 stinted;30
@@ -87283,6 +87316,7 @@ Tami;40;Romance/thriller novelist Tami Hoag (22 million books sold)
 Tamia;30;Canadian singer
 Tamiami;40;Miami suburb, "Tampa to Miami"
 Tamiflu;50;Flu drug
+Tamiko;30
 Tamil;40
 Tamils;40
 Tamimi;40;Ahed Tamimi, Palestinian activist
@@ -88769,6 +88803,8 @@ that sounds interesting;60
 that sounds like a you problem;60
 that sounds perfect;60
 that sounds reasonable;60
+that sounds right;60
+that sounds right to me;60
 that's personal;60
 that's private;60
 that's quite a pickle;60
@@ -91099,6 +91135,7 @@ Tobey;40;Tobey Maguire, Spider-Man actor
 Tobias;40;Various: Tobias Wolff, Tobias Funke
 Tobias Fünke;60;"Arrested Development" character
 Tobias Funke;0
+tobiko;40;Flying fish roe in sushi
 Tobin;40;Actor Tobin Bell among others
 Tobit;40;Deuterocanonical book of the Bible
 Toblerone;50;Triangular Swiss chocolate bar
@@ -95175,6 +95212,8 @@ veggie trays;60
 veh;20
 Veidt;40;Conrad Veidt, "Casablanca" actor / Adrian Veidt, "Watchmen" villain
 veinal;40
+veinlet;40
+veinlets;40
 veinte;40
 Veirs;40;Laura Veirs, indie folk singer
 vel;20
