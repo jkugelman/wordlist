@@ -10499,6 +10499,7 @@ blew in;40
 blew into;40
 blew off;50
 blew on;40
+blew one's mind;60
 blew one's own horn;50
 blew one's top;60
 blew smoke;50
@@ -10667,6 +10668,7 @@ blowing in;40
 blowing into;40
 blowing off;50
 blowing on;40
+blowing one's mind;60
 blowing one's own horn;50
 blowing one's top;60
 blowing smoke;50
@@ -10681,6 +10683,7 @@ blown tire;50
 blown tires;50
 blow off;50
 blow on;40
+blow one's mind;60
 blow one's own horn;50
 blow one's top;60
 blowpipe;60
@@ -10693,6 +10696,7 @@ blows into;40
 blow smoke;50
 blows off;50
 blows on;40
+blows one's mind;60
 blows one's own horn;50
 blows one's top;60
 blows smoke;50
@@ -11021,6 +11025,10 @@ bogged down;50
 bogged down with;40
 bogging down;50
 bogging down with;40
+boggled one's mind;60
+boggle one's mind;60
+boggles one's mind;60
+boggling one's mind;60
 Boggs;40;Wade Boggs, Hall of Fame third baseman / Grace Lee Boggs, activist
 BOGO;40
 bog oak;40
@@ -11458,6 +11466,7 @@ Bored Ape;60
 Bored Apes;60
 bored in on;30
 Boredoms;40;Japanese experimental rock band
+bored out of one's mind;60
 bore fruit;60
 bore in on;30
 bore on;40
@@ -12360,6 +12369,10 @@ broadband;50
 Broadbent;40;Jim Broadbent, Oscar-winning actor
 broad brushstrokes;60
 Broadchurch;50;British crime drama with David Tennant
+broadened one's mind;60
+broadening one's mind;60
+broaden one's mind;60
+broadens one's mind;60
 broad jump;50
 broad jumped;50
 broad jumper;50
@@ -15785,6 +15798,7 @@ changed the channel;60
 changed to;40
 change of perspective;50
 change of state;50
+change one's mind;50
 changer;40
 changers;40
 changesare;0
@@ -15794,6 +15808,7 @@ changes back into;40
 changes of perspective;50
 changes of state;50
 Changesonebowie;40;"ChangesOneBowie," David Bowie compilation
+changes one's mind;50
 changes the channel;60
 changes to;40
 change the channel;60
@@ -15801,6 +15816,7 @@ change to;40
 changing around;50
 changing back;50
 changing back into;40
+changing one's mind;50
 changing the channel;60
 changing to;40
 chango;40;Presto chango
@@ -17382,12 +17398,16 @@ clear as crystal;60
 clear as day;60
 Clearasil;40;Acne treatment brand
 Clearblue;40;Pregnancy test brand
+cleared one's mind;60
 cleared the board;60;Started over, or won everything
 clear idea;60
+clearing one's mind;60
 clearing the board;60;Starting over, or winning everything
 clearish;40;Somewhat clear
 clearly visible;60
 clear nail polish;60
+clear one's mind;60
+clears one's mind;60
 clear soup;50
 clears the board;60;Starts over, or wins everything
 Clearstream;40;Luxembourg financial clearing house
@@ -20125,6 +20145,7 @@ cross-country team;60
 cross-country teams;60
 crosse;30;La crosse stick
 crossed off the list;60
+crossed one's mind;50
 crossed party lines;60
 crossed paths;60
 crossed paths with;40
@@ -20133,6 +20154,7 @@ crossed the picket line;60
 crossed T's;50
 crosser;50
 crossers;40
+crosses one's mind;50
 crosses party lines;60
 crosses paths;60
 crosses paths with;40
@@ -20162,6 +20184,7 @@ crosshatch;50
 crosshatched;50
 crosshatches;50
 crosshatching;50
+crossing one's mind;50
 crossing party lines;60
 crossing paths;60
 crossing paths with;40
@@ -20170,6 +20193,7 @@ crosslet;40;Small cross in heraldry
 crosslets;40
 cross my heart, hope to die;60
 cross off the list;60
+cross one's mind;50
 cross ones T's;60
 cross over;50
 crossover episode;60
@@ -27610,6 +27634,7 @@ enteral;30
 entered in;40
 entered into;40
 entered on;40
+entered one's mind;50
 entered the picture;60
 entered upon;40
 enterer;30
@@ -27619,17 +27644,20 @@ enter in;40
 entering in;40
 entering into;40
 entering on;40
+entering one's mind;50
 entering the picture;60
 entering upon;40
 enter into;40
 enteritis;40;Inflammation of the small intestine
 enteron;40
+enter one's mind;50
 enterprise zone;50
 enterprise zones;50
 Enter Sandman;60
 enters in;40
 enters into;40
 enters on;40
+enters one's mind;50
 enters the picture;60
 enters upon;40
 Enter the Dragon;60
@@ -33685,6 +33713,7 @@ gauzy;30
 gave a hand;50
 gave air to;40
 gave a lift;50
+gave a piece of one's mind;60
 gave a say to;40
 gave ear;40
 gave ear to;40
@@ -34879,6 +34908,7 @@ give a dog a bone;60
 give a hand;50
 give air to;40
 give a lift;50
+give a piece of one's mind;60
 give a say to;40
 give ear;40
 give ear to;40
@@ -34904,6 +34934,7 @@ Giverny;40;French village of Monet's garden
 gives a hand;50
 gives air to;40
 gives a lift;50
+gives a piece of one's mind;60
 gives a say to;40
 gives ear;40
 gives ear to;40
@@ -34931,6 +34962,7 @@ give zero fucks;10
 giving a hand;50
 giving air to;40
 giving a lift;50
+giving a piece of one's mind;60
 giving a say to;40
 giving ear;40
 giving ear to;40
@@ -53159,6 +53191,7 @@ made off;30
 madeofhonor;0
 made oneself miserable;50
 made one's mark;60
+made one's mind up;60
 made plans;50
 made possible by viewers like you;60
 made proud;50
@@ -53173,6 +53206,7 @@ made the scene;60
 made time;50
 made time for;50
 made up of;40
+made up one's mind;60
 made use;40
 made use of;40
 made war;40
@@ -53599,6 +53633,7 @@ make noises;50
 make off;30
 make oneself miserable;50
 make one's mark;60
+make one's mind up;60
 makeover montage;60
 makeover montages;60
 make plans;50
@@ -53659,6 +53694,7 @@ makes of;20;???
 makes off;30
 makes oneself miserable;50
 makes one's mark;60
+makes one's mind up;60
 makes plans;50
 makes proud;50
 makes room;50
@@ -53670,6 +53706,7 @@ makes the butt of the joke;60
 makes the scene;60
 makes time;50
 makes time for;50
+makes up one's mind;60
 makes use;40
 makes use of;40
 makes war;40
@@ -53691,6 +53728,7 @@ makeup kit;60
 makeup kits;60
 makeup lesson;60
 makeup lessons;60
+make up one's mind;60
 makeup tutorial;60
 makeup tutorials;60
 make use;40
@@ -53748,6 +53786,7 @@ making noises;50
 making off;40
 making oneself miserable;50
 making one's mark;60
+making one's mind up;60
 making plans;50
 making proud;50
 making room;50
@@ -53759,6 +53798,7 @@ making the butt of the joke;60
 making the scene;60
 making time;50
 making time for;50
+making up one's mind;60
 making use;40
 making use of;40
 making war;40
@@ -63414,6 +63454,7 @@ on on;20
 Onondaga;40;New York tribe / county
 on one knee;50
 on one's high horse;60
+on one's mind;50
 on or;20
 onos;20
 On Our Own;40;One-season '90s sitcom
@@ -64471,6 +64512,7 @@ out of mind;50
 out of nothing;50
 out of obligation;50
 out of one's hands;50
+out of one's mind;60
 out of our hands;20
 out of school;50
 outofseas;0
@@ -67318,6 +67360,7 @@ pie;50
 pie a la mode;50
 piecaken;60;"The Turducken of Cakes"
 piecakens;60
+piece of one's mind;60
 piece of the puzzle;60
 piecer;30
 pieces of the puzzle;60
@@ -70570,6 +70613,7 @@ put one over on;50
 put one's feet up;50
 put one's finger on;60
 put one's house in order;60
+put one's mind to;50
 put on ice;60
 put on the line;60
 put onto;40
@@ -70601,6 +70645,7 @@ puts one over on;50
 puts one's feet up;50
 puts one's finger on;60
 puts one's house in order;60
+puts one's mind to;50
 puts on ice;60
 puts on the line;60
 puts out of one's misery;60
@@ -70635,6 +70680,7 @@ putting one out of one's misery;60
 putting one over on;50
 putting one's feet up;50
 putting one's house in order;60
+putting one's mind to;50
 putting on ice;60
 putting on the line;60
 putting out of one's misery;60
@@ -78861,6 +78907,7 @@ setoffs;40;Amounts set off against others in the settlement of accounts
 set on;40
 set one's;20
 set one's house in order;60
+set one's mind to;50
 Setons;30;Family name
 setose;20;Bristly
 set out for;40
@@ -78881,6 +78928,7 @@ set shot;50
 set shots;50
 sets on;40
 sets one's house in order;60
+sets one's mind to;50
 sets out for;40
 sets the clock back;60
 sets the tone;50
@@ -78902,6 +78950,7 @@ setting boundaries;60
 setting eyes on;50
 setting fire to;40
 setting one's house in order;60
+setting one's mind to;50
 setting out for;40
 setting the clock back;60
 setting the tone;50
@@ -81450,15 +81499,19 @@ slipcovers;50
 slip in;40
 slip into;40
 slip on;40
+slip one's mind;60
 slipped in;40
 slipped into;40
 slipped on;40
+slipped one's mind;60
 slipping in;40
 slipping into;40
 slipping on;40
+slipping one's mind;60
 slips in;40
 slips into;40
 slips on;40
+slips one's mind;60
 slit skirt;50
 slit skirts;50
 slivered;30
@@ -83105,14 +83158,17 @@ speak ill of;50
 speaking ill of;50
 speaking of;60
 speaking on;40
+speaking one's mind;60
 speaking to;40
 speaking truth to power;60
 speak no evil;60
 speak of;40
 speak on;40
+speak one's mind;60
 speaks ill of;50
 speaks of;40
 speaks on;40
+speaks one's mind;60
 speaks to;40
 speaks truth to power;60
 speaks well of;50
@@ -83511,6 +83567,7 @@ Spokane;50;Washington state city
 spoke ill of;50
 spoke of;40
 spoke on;40
+spoke one's mind;60
 spokescow;60
 spoke to;40
 spoke truth to power;60
@@ -87065,6 +87122,7 @@ taken to the grave;60
 take off after;50
 take on;40
 take one's cue from;50
+take one's mind off;50
 Take on Me;60;A-ha song
 take orders;50
 take orders from;40
@@ -87129,6 +87187,7 @@ takes liberties;50
 takes off after;50
 takes on;40
 takes one's cue from;50
+takes one's mind off;50
 takes orders;50
 takes orders from;40
 takes out;40
@@ -87217,6 +87276,7 @@ taking liberties;50
 taking off after;50
 taking on;40
 taking one's cue from;50
+taking one's mind off;50
 taking orders;50
 taking orders from;40
 taking out;40
@@ -91569,6 +91629,7 @@ took liberties;50
 took off after;50
 took on;40
 took one's cue from;50
+took one's mind off;50
 took orders;50
 took orders from;40
 took out;40
@@ -99075,6 +99136,10 @@ wrangle;50
 wrangled;50
 wrangles;50
 wrangling;50
+wrap one's mind around;60
+wrapped one's mind around;60
+wrapping one's mind around;60
+wraps one's mind around;60
 wrasse;20;Aquarium fish
 wrasses;20
 wrathy;30
