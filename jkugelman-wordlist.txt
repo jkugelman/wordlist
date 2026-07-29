@@ -303,6 +303,7 @@ Aarons;30;Plural name
 Aaron Sorkin;60;American screenwriter, playwright, and filmmaker (born 1961)
 Aaron's rod;50;Biblical stick carried by Moses's brother
 Aaron's Rod;50;D. H. Lawrence novel
+Aaron Swartz;60;Computer programmer and activist (1986–2013)
 Aaron Taylor-Johnson;50;English actor (born 1990)
 AARP;40
 AARP card;40
@@ -25983,6 +25984,8 @@ Ebro;40;Longest river entirely in Spain
 ebs;20
 Ebsen;40
 EBT;20
+ebullition;40;Act of boiling, or a sudden emotional outburst
+ebullitions;40;Acts of boiling, or sudden emotional outbursts
 ebw;20
 EC;30
 eca;20
@@ -45819,6 +45822,7 @@ john;50
 John B;30
 John Bonham;60;Led Zeppelin drummer
 John Cage;60
+John Cameron Swayze;50;News commentator and game show panelist (1906–1995)
 John Cena;60
 John Cheever;50;Novelist John Cheever (1912-82)
 Johnetta;40;Johnetta Elzie, activist
@@ -74930,6 +74934,7 @@ Ron Santo;40;Cubs hall-of-famer 1960-1973
 Ronsard;40;Pierre de Ronsard, French Renaissance poet
 Ronson;40
 Ronstadt;50;Linda Ronstadt, singer
+Ron Swanson;60;Parks and Recreation character
 Ron Ziegler;40;Nixon's Press Secretary
 Ronzoni;40;Pasta brand
 roo;40
@@ -77579,6 +77584,10 @@ Scunthorpe;50;English town behind the profanity-filter problem
 scurfier;30
 scurfiest;30
 scurfy;30
+scurrility;40
+scurrilous;50
+scurrilously;50
+scurrilousness;50
 'scuse;50
 scutum;30;???
 Scylla;50;Sea monster opposite Charybdis
