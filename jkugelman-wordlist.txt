@@ -32615,7 +32615,7 @@ Fruitvale;40;"Fruitvale Station" (2013), or an Oakland district
 Fruity Pebble;30
 frumenty;30;Medieval porridge
 frumpy;50
-Frusciante;40;John Frusciante, Red Hot Chili Peppers guitarist
+Frusciante;50;John Frusciante, Red Hot Chili Peppers guitarist
 frusta;30;Pieces of a geometric cone
 frustum;30;Piece of a geometric cone
 frustums;30;Pieces of a geometric cone
@@ -45801,6 +45801,10 @@ JoePa;10;Joe Paterno, disgraced Penn State coach
 Joe Pera;50;Creator of Adult Swim's "Joe Pera Talks with You"
 Joe's;40;Trader Joe's grocery chain, or "Joe's Garage"
 Joe Satriani;50
+Joe Schmo;60
+Joe Schmoe;60
+Joe Schmoes;60
+Joe Schmos;60
 Joe Sixpack;60
 Joe Walsh;50;Eagles guitarist
 Joey Chestnut;60
@@ -45832,6 +45836,7 @@ John Cena;60
 John Cheever;50;Novelist John Cheever (1912-82)
 Johnetta;40;Johnetta Elzie, activist
 John Fred;50
+John Frusciante;50;Red Hot Chili Peppers guitarist
 John Hughes;60
 John I;30
 John II;30
@@ -89180,6 +89185,7 @@ the jack of hearts;40
 the jack of spades;40
 The Jitterbug;60
 the job;40
+The Joe Schmo Show;50;Reality television series (2003-2004, 2013, 2025)
 The Joy of Painting;60
 The Joy of Sex;60
 the Juice;40;O.J. Simpson
