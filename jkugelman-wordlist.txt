@@ -1802,7 +1802,7 @@ age two;50
 ageusia;20;Loss of sense of taste
 age verification system;60
 age verification systems;60
-Agfa;40;Photographic film brand
+Agfa;30;Photographic film brand
 Agfacolor;40;Early German color film process
 Aggadah;40;Non-legal rabbinic lore of the Talmud
 agglutinin;40;Blood coagulant
