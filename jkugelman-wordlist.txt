@@ -2203,6 +2203,7 @@ ajo;30;Garlic: Sp. [rare]
 a job's a job;60
 a journey of a thousand miles;60
 a journey of a thousand miles begins with a single step;60
+AJR;30;Pop band founded in 2005 by brothers Adam, Jack, and Ryan
 ajs;20
 AKA;50
 Akan;30;Language of Ghana
@@ -5703,7 +5704,8 @@ Ashmolean;40;British museum
 Ashmore;40;???
 Ashnikko;40;Blue-haired pop rapper
 Ashok;40;Ashok Kumar, Bollywood star
-Ashoka;40;Mauryan emperor of ancient India
+Ashoka;30;Mauryan emperor of ancient India
+Ashoka the Great;50;Mauryan emperor of ancient India
 ash pan;40
 ash pans;40
 ash pit;40;???
@@ -20202,6 +20204,9 @@ Crouchin';30;Hunkering down, casually
 Crouse;30;Actress Lindsay
 crowded out;50
 Crowder;40;Jae Crowder, NBA forward / Boyd Crowder, "Justified" villain
+crowdfunding;60
+crowdfundings;60
+crowdfunds;60
 crowding out;50
 crowd out;50
 crowds out;50
@@ -22947,6 +22952,7 @@ die a slow death;60
 die back;40
 die Bart, die;60;Sideshow Bob tattoo
 Diebenkorn;40;Richard Diebenkorn, "Ocean Park" painter
+die by the sword;60
 die-cast;50
 die-casting;50
 die-cast model car;50
@@ -50282,6 +50288,8 @@ Leontyne;40;Soprano Leontyne Price at the Met
 leopard cub;50
 leopard cubs;50
 Leopardi;30;1800s Italian poet Giacomo Leopardi
+leopard skin;60
+leopard skins;60
 Leopold;50;Belgian kings / Leopold Bloom of "Ulysses"
 Leopold II;30
 Leopoldstadt;50;Vienna district, and Tom Stoppard's Tony-winning play
@@ -51388,6 +51396,9 @@ live-action remake;60
 live-action remakes;60
 live at;40
 live by;40
+live by the sword;60
+live by the sword, die by the sword;60
+live by the sword die by the sword;0
 live cam;50
 live cams;50
 live coal;50
@@ -74377,6 +74388,7 @@ rinsers;40
 Rinso;30;Soap brand
 Rin Tin Tin;50
 Rio;50
+Rio de Janeiro;60
 Rioja;40
 Riojas;40;Spanish red wines
 Rio Muni;30;Region of Equatorial Guinea
@@ -79864,6 +79876,9 @@ short I;40
 short I's;40
 short king;60
 shortlist;60
+shortlisted;60
+shortlisting;60
+shortlists;60
 short O;40
 short of;40
 short on time;50
@@ -83535,6 +83550,14 @@ sport climbers;60
 sport climbing;60;Competitive rock climbing, Olympic event '20/'24/'28
 sport coupe;50
 sport coupes;50
+sport fish;60
+sport fished;60
+sport fisherman;60
+sport fishermen;60
+sport fishes;60
+sport fishing;60
+sportful;40
+sportfully;40
 Sportin';40;Sportin' Life, "Porgy and Bess" dealer
 sportive;30
 sporto;20
@@ -85017,6 +85040,7 @@ stone tablet;50
 stone tablets;50
 stone tool;50
 stone tools;50
+Stonewall Inn;60
 Stonewall Jackson;50
 Stoney;40;Post Malone's debut album, variant spelling of stony
 stoney lonesome;60
@@ -86619,6 +86643,10 @@ sword and sorcery;60
 sword balloon;60
 sword balloons;60
 sword dance;60
+sword dancer;60
+sword dancers;60
+sword dances;60
+sword dancing;60
 swordfish;50
 swordfishes;50
 Swordfishtrombones;50;Tom Waits album (1983)
@@ -89838,6 +89866,7 @@ the sticks;60
 the Stilt;50;Wilt Chamberlain's nickname
 the Stone Age;40
 The Stones;50
+the Stonewall Inn;50
 the storms of life;60;Metaphor for trials and tribulations
 The Strip;60
 the struggle is real;60
