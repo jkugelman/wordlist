@@ -70147,6 +70147,8 @@ PSAs;40
 PSAT;40
 PSATs;40
 PSC;20;Public Service Commission
+pset;40;Problem set, list of problems given as homework
+psets;40;Problem sets, lists of problems given as homework
 pseudocode;50
 pseudocodes;40
 pseudointellectual;60
@@ -71192,7 +71194,7 @@ Radnor;40;Josh Radnor of "How I Met Your Mother"
 radome;30;Radar dome
 radomes;30;Radar domes
 rads;40
-Radu;40;Radu Jude, Romanian director
+Radu;30;Radu Jude, Romanian director
 Raducanu;40;Rising tennis player Emma Raducanu
 Radwanska;40;Agnieszka Radwańska, Polish tennis star
 Rae;40;Issa Rae
