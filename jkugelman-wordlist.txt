@@ -93632,6 +93632,11 @@ two-seam fastballs;60
 two-set;40;Like some tennis matches
 two shakes of a lamb's tail;60
 two-sided;40
+two-sided copies;50
+two-sided copy;50
+two-sided copying;50
+two-sided hit;40
+two-sided hits;40
 two sides of the same coin;60
 two star-crossed lovers;60
 two-star rating;60
