@@ -2533,7 +2533,7 @@ Alfa;40
 alfalfas;30
 Alfas;40;Alfa Romeos
 Al Fatah;20;Militant Palestinian organization
-Alfie;50;Michael Caine film / Alfie Allen, "Game of Thrones" actor
+Alfie;40;Michael Caine film / Alfie Allen, "Game of Thrones" actor
 Alfieri;40;1700s playwright Vittorio Alfieri, "founder of Italian tragedy"
 Alfonsina;40;Alfonsina Storni, Argentine poet
 Alfonso;40;Alfonso Cuarón, "Roma" director
@@ -2918,6 +2918,7 @@ almoners;30
 Almoravid;40;Medieval Berber dynasty
 Almoravids;40;Medieval Berber dynasty
 Almost Famous;60
+almost out;30;???
 almost there;60
 AL MVP;40
 AL MVPs;40
@@ -23009,6 +23010,7 @@ did you hear the good news?;60
 did you hear the good news;0
 did you hear the news?;60
 did you hear the news;0
+did you lose a bet?;60
 did you or didn't you?;60
 did your fair share;50
 did you see my text;60
@@ -28046,6 +28048,7 @@ erogenous;60
 Eroica;40;Beethoven symphony
 eroplane;0
 Eros;40;Greek god of love
+erosional;40
 eroteme;30;Rhetorical question
 erotic;50
 erotica;60
@@ -29880,6 +29883,7 @@ fatal flaws;60
 fatalities;40
 fatality;40
 fat as a cow;50
+fat as a pig;10
 Fat Bottomed Girls;60
 Fatboy;40;Fatboy Slim, big-beat DJ
 fat camp;40
@@ -41222,6 +41226,7 @@ Hoyt;30;Archery company, folk singer Hoyt Axton (Joy to the World)
 Hozier;40;Irish singer of "Take Me to Church"
 HP;40
 HPs;40
+HPV;30
 HQ;40
 HQs;40;Headquarters
 HQ Trivia;30;Defunct trivia app
@@ -51013,6 +51018,7 @@ like a fine wine;60
 like a glove;60
 like a kid in a candy store;60
 like a lawn chair;60
+like a lot;50
 like a million bucks;60
 like and subscribe;60;YouTuber's request
 like as not;60
@@ -51024,6 +51030,7 @@ like button;60
 like buttons;60
 like clockwork;60
 like comment and subscribe;60
+liked a lot;50
 like drinking from a firehose;60
 liked to;40
 like fine wine;60
@@ -51040,6 +51047,7 @@ likens to;40
 liken to;40
 likeoras;0
 Likert;40;Likert scale, survey rating device
+likes a lot;50
 like share and subscribe;60
 likes to;40
 like subscribe and hit that bell;60
@@ -51049,6 +51057,7 @@ like this;60
 like to;40
 Like Water for Chocolate;60
 like you wouldn't believe;60
+liking a lot;50
 Likud;30;Israeli right-wing political party
 lil;50
 Lila;40
@@ -52160,6 +52169,7 @@ los;40
 Los Alamos;60
 Los Angeles;50
 Los Angeles Laker;50
+lose a bet;50
 lose an hour;60
 lose a step;50
 lose at;40
@@ -52173,6 +52183,7 @@ lose out on;40
 lose out to;40
 Loser Smurf;60
 losers weepers;60
+loses a bet;50
 loses an hour;60
 loses a step;50
 loses at;40
@@ -52193,6 +52204,7 @@ lose the plot;60
 lose to;40
 lose touch with;40
 Losey;40;Joseph Losey, director of "The Servant"
+losing a bet;50
 losing an hour;60
 losing a step;50
 losing at;40
@@ -52214,6 +52226,7 @@ loss leader;60
 loss leaders;60
 loss of down;60
 loss of motor function;50
+lost a bet;50
 lost an hour;60
 lost art;60
 lost arts;60
@@ -80869,6 +80882,7 @@ sisal;30;Rope fiber
 sisals;30;Rope fibers
 si se puede;60
 Sisi;40
+si si señor;40
 sisisi;40
 Siskel;50;Gene Siskel, of Siskel and Ebert
 siskin;20;Type of finch
