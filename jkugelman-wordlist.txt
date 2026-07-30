@@ -26307,19 +26307,23 @@ Edgard;40;Edgard Varèse, avant-garde composer
 Edgar Degas;50
 edge case;60
 edge cases;60
+edged in;40
 edged lower;50
 edged up to;40
 edgehog;0
+edge in;40
 edgelord;60
 edgelords;60
 edge lower;50
 Edgerton;40;Joel Edgerton, Australian actor
+edges in;40
 edges lower;50
 edges up to;40
 edge up to;40
 EdgeWalk;40;Hands-free ledge walk atop the CN Tower
 Edgeworth;40;Maria Edgeworth, Irish novelist
 edgily;50
+edging in;40
 edging lower;50
 edgings;30
 edging up to;40
@@ -37021,6 +37025,8 @@ groundsel;30;Flower
 group chat;60
 group chats;60
 Grouplove;40;Indie rock band
+group nine element;20
+group nine elements;20
 Groupon;50;Daily deals site
 Groupons;40;Discount deal vouchers
 group shot;60
@@ -68429,8 +68435,9 @@ pneumata;30;Pneuma plural
 pneumo-;30;Lung prefix
 pneumonic;40
 PNGs;40;Image files
-Pnin;40;Nabokov novel
-Pnina;40;Pnina Tornai, bridal gown designer
+Pnin;30;Nabokov novel
+Pnina;30;Pnina Tornai, bridal gown designer
+Pnina Tornai;40;Israeli wedding dress designer and reality television personality
 Pnom;20
 Pnom Penh;20
 Po;40;Italian river
