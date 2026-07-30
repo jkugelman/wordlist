@@ -6776,8 +6776,12 @@ avocets;40;Shorebirds
 Avogadro;50;Amedeo Avogadro, of the constant
 Avogadro's;40;___ number, 6.022 x 10^23
 avoidances;40;Weird plural
+avoid at all costs;60
+avoided at all costs;60
 avoider;30
 avoiders;30
+avoiding at all costs;60
+avoids at all costs;60
 Avon;50;Cosmetics company, or Shakespeare's river
 Avonlea;40;"Anne of Green Gables" village
 Avon rep;40
@@ -15513,6 +15517,7 @@ cell reception;60
 cell service;60
 cell tower;60
 cell towers;60
+cellular data;60
 cellular phone;50
 cellular phones;50
 cellule;30
@@ -20301,6 +20306,10 @@ cruising into;40
 Crum;20
 Crumbl;40;Cookie chain
 crump;30;Crunching sound?
+crunched the data;60
+crunches the data;60
+crunching the data;60
+crunch the data;60
 Crunchwrap;50;Taco Bell menu item
 Crunchwraps;40;Taco Bell menu items
 Crunchwrap Supreme;60
@@ -21421,6 +21430,9 @@ dat;40
 data analysis;50
 data analyst;50
 data analysts;50
+database schema;50
+databaseschemas;60
+database schemas;50
 datable;30
 data breach;60
 data breaches;60
@@ -21428,6 +21440,8 @@ data compression algorithm;50
 data compression algorithms;50
 data dump;60
 data dumps;60
+data-flow diagram;60
+data-flow diagrams;60
 data key;50
 data keys;50
 data management;60
@@ -21450,6 +21464,7 @@ data scientists;60
 data scraper;50
 data scrapers;50
 data scraping;50
+data storage medium;20
 dat dere;60
 date bread;60
 datedesignation;0
@@ -21479,6 +21494,7 @@ daughters-in-law;50
 Daughtry;40;Chris Daughtry, "American Idol" rocker
 Daumier;40;Honoré Daumier, French caricaturist
 Dav;30;Dav Pilkey, creator of "Captain Underpants"
+Davallia pyxidata;20;Species of fern
 Davao;40;Largest city in the southern Philippines
 Dave;50;Common first name
 Dave Barry;50
@@ -23326,6 +23342,7 @@ dip-dyed;50
 dip-dyeing;50
 dip-dyes;50
 dip dying;20
+Diphylla ecaudata;20;Species of mammals belonging to the New World leaf-nosed bat family
 dip into;40
 Diplo;40;DJ and record producer
 Diplodocus;50;Long-necked dinosaur
@@ -24502,6 +24519,7 @@ dorsi;40;Latissimus dorsi
 Dortmund;50;German city and its Borussia football club
 dory;40;Fish / Fishing boat / Hunky dory
 Dory;40;Pixar fish in "Finding Nemo" and "Finding Dory"
+Doryopteris pedata;20;Species of evergreen fern
 Doryphoros;40;Polykleitos's "Spear Bearer"
 dos;50;Number, or hairdos, or opposite of don'ts
 DOS;40;Family of operating systems for IBM PC compatibles
@@ -30737,6 +30755,7 @@ final solution;10
 finance minister;50
 Finance Smurf;60
 financial backer;50
+financial data;60
 financials;50
 financial sector;50
 Fincher;40;David Fincher, "Zodiac" director
@@ -31399,6 +31418,8 @@ flies over;40
 flies the coop;60
 flies to;40
 flies under the radar;60
+flight data recorder;60
+flight data recorders;60
 flight delay;50
 flight delays;50
 flight recorder;50
@@ -32369,6 +32390,7 @@ Frau;40
 Frauen;40;German women
 Fraunhofer;40;Joseph von Fraunhofer, of the solar spectrum's dark lines
 Frawley;40;William Frawley, Fred Mertz on "I Love Lucy"
+Fraxinus cuspidata;20;Species of ash
 Frayn;40;Michael Frayn, playwright of "Noises Off"
 Frazee;40;Harry Frazee, Red Sox owner who sold Babe Ruth
 Frazer;40;James George Frazer, author of "The Golden Bough"
@@ -39232,6 +39254,7 @@ Hekate;40
 Hel;30;Norse god
 Hela;40;HeLa cells, or Marvel's goddess of death
 Helberg;40;Simon Helberg, actor on "The Big Bang Theory"
+held at arms length;60
 held back;50
 held dear;60
 held firm;60
@@ -40336,10 +40359,12 @@ hol;20
 hola;40
 Holbein;40;Renaissance painter Hans Holbein the Younger
 Holbrook;40
+hold at arms length;60
 hold back;50
 hold dear;60
 Holden;50;Holden Caulfield, "Catcher in the Rye" narrator / William Holden, actor
 hold firm;60
+holding at arms length;60
 holding back;50
 holding dear;60
 holding firm;60
@@ -40358,6 +40383,7 @@ hold on one second;60
 hold onto;40
 hold onto your butts;60
 hold please;60
+holds at arms length;60
 holds back;50
 hold scoreless;50
 holds dear;60
@@ -40794,6 +40820,7 @@ hopsacks;40
 hops a train;40;Contrived
 hops in;40
 hops into;40
+hop, skip, and a jump;60
 hops on;40
 hops on board;50
 hops onto;40
@@ -65292,12 +65319,13 @@ Panchali;40;"Pather Panchali," Satyajit Ray film
 Panchatantra;40;Ancient Indian fable collection
 Panchen;40;Panchen Lama, Tibetan Buddhist leader
 Pancho;50;Pancho Villa, Mexican revolutionary
-panda car;40;British slang for a police car
-panda cars;40;British slang for police cars
+panda car;50;British slang for a police car
+panda cars;50;British slang for police cars
 panda cub;50
 panda cubs;50
 Panda Express;60
 Pandanus;30;Screw palm genus
+Pandanus tectorius;20;Species of plant
 panda porn;60
 panda reserve;50
 panda reserves;50
@@ -68812,6 +68840,7 @@ pons;20;Bridge of tissue: Br.
 Ponselle;40;???
 pont;40
 Pontchartrain;50;Lake north of New Orleans
+Pontederia cordata;20;Species of aquatic plant
 pontes;20;Pons plural
 Pontevedra;40;Spanish city in Galicia
 Ponti;40;"Doctor Zhivago" producer Carlo Ponti, husband of Sophia Loren
@@ -72770,6 +72799,7 @@ red-osier;30;Type of dogwood tree
 redosing;20
 redox;40;Oxidation-reduction reaction
 red panda;60
+red panda cub;50
 red panda cubs;50
 red pandas;60
 red pen;50
@@ -74242,6 +74272,7 @@ Richard Scarry's Busytown;50;1993 educational video game and its 1999 remake
 Richard Schiff;50;Actor who played Toby Ziegler on "The West Wing"
 Richardson;40;Samuel Richardson, "Pamela" novelist / Heather Cox Richardson, historian
 riche;40
+Richea pandanifolia;20;Species of tree
 Richelieu;50;Cardinal Richelieu, Louis XIII's minister
 Richie;50;Lionel Richie, singer / Richie Cunningham of "Happy Days"
 Richler;40;Mordecai Richler, Canadian novelist
@@ -83931,6 +83962,8 @@ spy thriller;60
 spy thrillers;60
 sq;40
 sq ft;30
+SQL database;60
+SQL databases;60
 sq. mi.;40
 sq mi;0
 sqr;20
@@ -87502,6 +87535,7 @@ talks shit;10
 talks shop;60
 talks to;40
 talks up a storm;60
+talk, text, and data;60
 talk to;40
 talk up a storm;60
 Talladega;50;NASCAR superspeedway, and a Will Ferrell "Nights"
@@ -89820,6 +89854,7 @@ the Pacific Ring of Fire;60
 the pack;30
 the Packers;40
 The Pageant of the Masters;50;Annual arts festival in California
+The Panda's Friend;50
 The Paradox of Choice;60
 the Paris Metro;30
 the Parthenon;40
@@ -90952,6 +90987,7 @@ tiler;40
 tilers;40
 tilery;30
 Tilex;40;Mildew remover brand
+Tilia cordata;20;Species of tree
 Tilikum;40;Orca at the center of "Blackfish"
 tillages;40;Plural?
 Tillamook;40;Oregon city/tribe
@@ -94654,6 +94690,7 @@ up;50
 upa;20
 up against it;60
 Upamanyu;40;Upamanyu Chatterjee, Indian novelist
+up and at;20
 up-and-coming;60
 up and down;60;In golf, ability to get in the hole in two strokes
 up and to the right;60;Business mantra
@@ -95185,6 +95222,7 @@ vac;40
 vacant seat;50
 vacant seats;50
 Vacationland;50;Maine's nickname
+Vaccaria pyramidata;20;Species of flowering plant
 Vachel;40;Vachel Lindsay, American poet
 Vaclav;40;Vaclav Havel, Czech president
 vacuities;40
@@ -95905,6 +95943,7 @@ Vilsack;40;Tom Vilsack, agriculture secretary
 vim;50
 Vimeo;40;Video hosting site
 Viminal;40;One of Rome's seven hills
+Viminaria denudata;20;Species of plant
 Vimy;20
 vin;40;Vin Diesel, French wine, car VIN
 Vinatieri;40;Adam Vinatieri, clutch NFL kicker
@@ -100330,6 +100369,8 @@ you have;20
 you have fun with that;60
 you have my full attention;60
 you have no choice;60
+you haven't changed at all;60
+you haven't changed one bit;60
 you have only yourself to blame;60
 you have some nerve;60
 you have the wrong idea;60
