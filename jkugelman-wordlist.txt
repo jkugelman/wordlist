@@ -37777,7 +37777,8 @@ hafta;40
 hafted;30
 hafts;50
 hag;50
-Hagar;50;Sammy Hagar, rocker / Hagar the Horrible
+Hagar;40;Sammy Hagar, rocker / Hagar the Horrible
+Hagar the Horrible;60
 Hagatna;30;Capital of Guam
 Hagel;40;Secretary of Defense Chuck Hagel (2013-15)
 Hagen;40;Tom Hagen in "The Godfather" (Robert Duvall), or actress Uta Hagen
@@ -37998,7 +37999,7 @@ hamburger menus;60;Triple-line menu
 Hamburglar;50;McDonaldland hamburger thief
 Hamelin;50;Pied Piper's town
 Hamels;40;Cole Hamels, World Series MVP pitcher
-Hamer;40;Civil rights activist Fannie Lou Hamer, or Frank Hamer who tracked down Bonnie and Clyde
+Hamer;30;Civil rights activist Fannie Lou Hamer, or Frank Hamer who tracked down Bonnie and Clyde
 Hamid;40;Hamid Karzai, Afghan president
 Hamid Karzai;50
 Hamill;50;Mark Hamill, Luke Skywalker
@@ -39589,6 +39590,7 @@ Herbie;50;Herbie Hancock, jazz pianist / the Love Bug
 herb stuffing;60
 herb tea;40;Herbal tea is more common
 herb teas;40
+herby;40
 Herc;20;"The Wire" character is the best result...
 Hercule;40;Hercule Poirot, Agatha Christie's Belgian detective
 Herculean;50;Requiring enormous strength
@@ -40003,6 +40005,7 @@ high traffic;50
 highway hypnosis;60
 Highwomen;40;Country supergroup with Brandi Carlile
 hi-ho;40
+hi hon;50
 hi honey I'm home;60
 Hi Hos;20
 Hi How Are You;50
