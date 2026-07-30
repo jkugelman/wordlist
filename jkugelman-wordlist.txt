@@ -7271,7 +7271,7 @@ bad egg;60
 bad eggs;60
 BA degree;40
 BA degrees;40
-Baden;40;Baden-Baden, German spa town / Robert Baden-Powell, Scouting founder
+Baden;30;Baden-Baden, German spa town / Robert Baden-Powell, Scouting founder
 Baden-Baden;40;German resort town Baden-Baden
 Badenov;50;Boris Badenov, "Rocky and Bullwinkle" villain
 Bader;30
@@ -20960,6 +20960,7 @@ Daddy's Home;50
 Dade;40;Miami-Dade County
 dadgum;60
 dadgum it;60
+Da' Dip;30;1996 hip hop single by Freak Nasty
 dad joke;60
 dad jokes;60
 dad movie;60
@@ -23028,7 +23029,7 @@ didn't you hear;0
 Dido;50;Queen of Carthage, or the singer
 DiDonato;40;Joyce DiDonato, opera mezzo-soprano
 did one's fair share;50
-Dido's;40;Dido's Lament, Purcell aria
+Dido's;30;Dido's Lament, Purcell aria
 did poorly;50
 Didrikson;40;Babe Didrikson Zaharias, all-around athlete
 did shots;50
@@ -26995,7 +26996,7 @@ elk calf;50
 elk calves;50
 Elke;40;Elke Sommer, actress
 Elkhart;40;???
-Elkin;40;Stanley Elkin, American novelist
+Elkin;30;Stanley Elkin, American novelist
 Elko;30;Nevada city
 elkormoose;0
 Elks lodge;50
@@ -37704,6 +37705,7 @@ had dibs on;50
 Haddish;40;Tiffany Haddish, comedian
 Haddon;40;Mark Haddon, "The Curious Incident of the Dog in the Night-Time" author
 Hadean;40;Geologic eon
+Haden;40;Actor Thomas Haden Church
 had enough;60
 had enough, or are you thirsty for more?;60
 Hader;40;Bill Hader, "SNL" alum and "Barry" star
@@ -45499,6 +45501,7 @@ janitors;50
 Jan Kodeš;50
 Jankovic;40;Jelena Jankovic, former world No. 1 in tennis
 Janmashtami;40;Hindu festival of Krishna's birth
+Jan-Michael Vincent;50;Star of TV's "Airwolf" (1984-87)
 Jann;40;Jann Wenner, Rolling Stone founder / Jann Arden, singer
 Janney;40;Allison Janney, "The West Wing" actress
 Jannik;40;Jannik Sinner, tennis star
@@ -48818,12 +48821,12 @@ lacunar;30
 lacunas;40;Lacunae is more common
 lacustrine;30;Lake-related
 lad;50
-Lada;40;Russian car brand
+Lada;20;Russian car brand
 Lad a Dog;30;Albert Payson Terhune novel
 Ladakh;40;Himalayan region of India
 ladanum;30;Herbal resin
 ladarmorc;0
-Ladas;40;Soviet-era Russian cars
+Ladas;20;Soviet-era Russian cars
 LadBaby;30;British novelty act with a run of Christmas No 1s
 Ladbrokes;40;British betting chain
 Ladd;40
@@ -52219,6 +52222,7 @@ Lorde;50;Lorde, "Royals" singer / Audre Lorde, poet
 Lordi;40;Finnish metal band, 2006 Eurovision winners
 lord it;20
 Lord Jim;50;Joseph Conrad novel
+Lord Kelvin;60
 lordlily;30;Weird adverb
 lords a-leaping;60
 Lord's Day;50
@@ -56039,6 +56043,7 @@ Melua;30;Katie Melua, British singer (born 1984)
 Melvil;40;Melvil Dewey, decimal-system librarian
 Melville;50;Herman Melville, "Moby-Dick" author
 Melvin;50;Common first name: Melvin Van Peebles, filmmaker
+Melvin and Howard;50;1980 film by Jonathan Demme
 Melvyn;40;Melvyn Douglas, actor / Melvyn Bragg, British broadcaster
 mem;20
 memaine;0
@@ -65075,6 +65080,8 @@ Pac-Ten;20;Defunct athletic conference, now it's 12
 Pacuła;30;Model/actress Joanna Pacuła
 pad;50
 Padalecki;40;Jared Padalecki, "Supernatural" star
+Padam;20
+Padam Padam;40;Edith Piaf or Kylie Minogue song
 padauk;20;African hardwood
 Padawan;50
 Padawans;50;Jedi apprentices
@@ -81594,6 +81601,7 @@ sleep divorces;60
 sleeper sofa;60
 sleeper sofas;60
 sleep in;50
+sleep inertia;60;Impaired physiological state after awaking
 sleeping around;50
 sleeping around on;50
 sleeping bag;50
@@ -84358,6 +84366,7 @@ Stan Lee;60
 Stanley;50;Common first name, or the hockey cup
 Stanley Cup Final;60
 Stanley Cup Finals;60
+Stanley Elkin;40;Novelist, short story writer, and essayist
 Stanleys;30
 Stan Musial;50
 St. Anne;40
@@ -89600,6 +89609,7 @@ the gun;30;Partial
 The Hague;50
 The Hand of God;60;Maradona goal
 The Hanged Man;60;Tarot card
+The Happening;60
 the hat;20
 the have-nots;60
 the haves;60
@@ -100986,6 +100996,7 @@ zero-carbon;60
 zero dark thirty;60;Military slang for an ungodly early time
 Zero Dark Thirty;60;2012 film about the hunt for bin Laden
 zerodarkthirty;0
+zero degrees kelvin;60;Absolute zero
 zeroed in;50
 zeroed in on;50
 zeroes in;50
@@ -100996,6 +101007,7 @@ zero in;50
 zeroing in;50
 zeroing in on;50
 zero in on;50
+zero kelvin;60;Absolute zero
 zeros in on;50
 zero-star;60
 zero-star review;60
