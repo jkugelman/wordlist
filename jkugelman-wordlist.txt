@@ -1418,6 +1418,7 @@ advertence;30
 advertency;30
 advertent;30
 advertently;30
+advertising department;60
 Advil;50;Ibuprofen brand
 Advils;40;Ibuprofen tablets
 advisee;30
@@ -2241,7 +2242,7 @@ Akio;30;Sony founder Akio Morita
 Akira;50;Landmark 1988 anime, or Akira Kurosawa, "Rashomon" director
 Akita;50;Dog breed
 Akitas;50;Japanese dog breed
-Akiva;40;Akiva Schaffer, Lonely Island member / Rabbi Akiva, Talmudic sage
+Akiva;30;Akiva Schaffer, Lonely Island member / Rabbi Akiva, Talmudic sage
 Akkad;40;Ancient Mesopotamian empire
 Akkadian;40;Ancient Mesopotamian language
 Akkadians;40;Ancient Mesopotamian empire builders
@@ -2305,6 +2306,7 @@ Alan Seeger;20;Poet uncle of folk singer Pete
 Alan Smithee;50;Directorial pseudonym
 Alan Sues;40;Comedian on Rowan & Martin's Laugh-In
 Alan Tudyk;50;Alan Tudyk, actor known for notable voice roles over the years
+Alan White;40
 alapa;20
 Alapalooza;50;"Weird Al" Yankovic album
 Alaqua;40;Alaqua Cox, Marvel's Echo
@@ -2767,6 +2769,7 @@ alligators;50
 Alliluyeva;20;Stalin's wife
 all in a;20
 all in a row;50
+all-inclusive;60
 all-inclusive resort;50
 all-inclusive resorts;50
 all-inclusive vacation;50
@@ -3810,6 +3813,8 @@ Android apps;60
 Android device;60
 Android devices;60
 androids;60
+Android tablet;60
+Android tablets;60
 Andromache;50;Hector's wife in the Iliad
 Andromaque;40;Racine tragedy
 Andromeda;50;Neighboring galaxy, and a chained princess of myth
@@ -5751,7 +5756,7 @@ Asian long-horned beetles;60
 Asian predatory wasp;60
 Asian predatory wasps;60
 Asians;50;People from the largest continent
-Asia's;40;As in "Asia's Got Talent"
+Asia's;30;As in "Asia's Got Talent"
 Asiatic;40;Of Asia
 Asics;40;Athletic shoe brand
 as if on cue;60
@@ -9003,6 +9008,10 @@ beer koozie;60
 beer koozies;60
 beer league;60
 beer leagues;60
+beer making kit;60
+beer making kits;60
+beer mat;50
+beer mats;50
 beermosa;60
 beermosas;60
 beer on tap;60
@@ -13653,9 +13662,9 @@ calculator;50
 calculators;50
 Calcutta;50;Indian city now called Kolkata
 Caldecott;50;Medal for children's picture books
-Calder;50;Alexander Calder, mobile sculptor
+Calder;40;Alexander Calder, mobile sculptor
 Calderon;40;Pedro Calderón de la Barca, Spanish playwright / Felipe Calderón, Mexican president
-Calders;40;Alexander Calder's mobiles
+Calders;30;Alexander Calder's mobiles
 caldron;30;Alternate spelling of cauldron
 caldrons;30
 Caldwell;40;Erskine Caldwell, "Tobacco Road" author
@@ -14810,6 +14819,7 @@ car service;50
 car services;50
 Carson;50;Johnny Carson, "Tonight Show" host / Nevada's capital
 Carson City, NV;30
+Carsons;30;Plural or possessive name
 Carsten;40;German masculine name
 Carstensen;40;Margit Carstensen, Fassbinder regular
 Carta;50
@@ -17755,6 +17765,7 @@ c'mon let's be real;60
 c'mon live a little;60
 c'mon man;60
 cms;40;Centimeters
+CMU;40;Carnegie Mellon University
 CMV;20
 CMVI;20
 CMX;20
@@ -23447,7 +23458,7 @@ discases;20
 discasing;20
 disc golf;50
 Disch;40;Thomas M. Disch, science fiction author
-disci;40;Discuses
+disci;30;Discuses
 disc jockey;60
 disc jockeys;60
 Discman;50;Sony portable CD player
@@ -26814,6 +26825,7 @@ El Capitan;60
 El Centro;40;???
 El Chapo;40;Mexican drug lord
 el cheapo;60
+el cupid;20;???
 eld;20
 Elden;40;"Elden Ring," video game
 Elden Ring;60
@@ -32360,6 +32372,7 @@ Frankie;50;Common nickname: Frankie Valli / Frankie Avalon
 Frankish;40;Of Charlemagne's people
 Frankl;40;Viktor Frankl, author of "Man's Search for Meaning"
 Franklin;50;Ben Franklin, or Aretha Franklin
+Frank Robinson;50;Baseball player and manager (1935–2019)
 Franny;40;"___ and Zooey," Salinger book
 Fran Ryan;50
 Frans;40;Frans Hals, Dutch portraitist
@@ -33189,6 +33202,7 @@ Gabriel Garcia Marquez;0
 Gabriella;40;Common first name / Gabriella Montez of "High School Musical"
 Gabrielle;50;Gabrielle Union, actress / common given name
 Gabriel's;40;"Gabriel's Oboe," Morricone theme
+gab sesh;50
 Gaby;40
 gacha game;60
 gacha games;60
@@ -41542,6 +41556,8 @@ hush, the grown-ups are talking;60
 huskings;30;???
 Husqvarna;50;Chainsaw brand
 Hussain;40;Nadiya Hussain, "Bake Off" winner / Zakir Hussain, tabla master
+hussar;30;Member of the light cavalry of any of several European armies
+hussars;30;Members of the light cavalry of any of several European armies
 Hussein;50;Saddam Hussein, Iraqi dictator / Obama's middle name
 Husserl;40;Edmund Husserl, founder of phenomenology
 Hussey;40;Olivia Hussey, "Romeo and Juliet" actress
@@ -56225,7 +56241,7 @@ Merseybeat;50;Liverpool's 1960s pop sound
 Merseyside;40;English county around Liverpool
 Merton;20;American monk Thomas
 Mertz;40;Ethel Mertz, "I Love Lucy" neighbor
-Meru;40;Sacred mountain of Hindu cosmology
+Meru;30;Sacred mountain of Hindu cosmology
 Merv;40;Merv Griffin, talk show host who created "Jeopardy!"
 Merve;30;Merve Emre, Turkish-American author, academic, and literary critic
 Merve Emre;50;Turkish-American author, academic, and literary critic
@@ -70196,6 +70212,7 @@ pro shop;50
 pro shops;50
 prosier;40
 prosiest;40
+prosily;40
 prosing;40
 prosit;30;German toast
 pro soccer;50
@@ -98155,6 +98172,8 @@ white tie evenings;60
 white tie event;60
 white tie events;60
 white ties;60
+White Walker;60
+White Walkers;60
 Whitey;40;Whitey Bulger, Boston mobster / Whitey Ford, Yankees pitcher
 White Zin;50
 White Zinfandels;50
@@ -99712,7 +99731,7 @@ XYZ;40
 Xzibit;50;Rapper and "Pimp My Ride" host
 Y;40
 ya;40
-Yaa;40;"Homegoing" author Yaa Gyasi
+Yaa;30;"Homegoing" author Yaa Gyasi
 Yaa Gyasi;40;"Homegoing" author Yaa Gyasi
 ya'at'eeh;30;Navajo "hello"
 yabber;30;Australian "yammer"
