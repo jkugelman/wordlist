@@ -1101,6 +1101,7 @@ adamance;40
 adamants;30
 Adamite;40;Member of a nudity-practicing Christian sect
 Adamites;40;Nudist early Christian sect
+a damn sight;60
 Adam Ondra;60
 Adams;50;Various: John, Abigail, Ansel
 Adam's apple;60
@@ -2617,6 +2618,7 @@ alien world;60
 alien worlds;60
 AliExpress;50;Chinese online marketplace
 Alifa;40;Alifa Rifaat, Egyptian short-story writer
+Ali Fazal;40;Indian actor (born 1986)
 Ali G;40
 Aligarh;40;City in Uttar Pradesh, India
 Alighieri;50;Dante Alighieri, "Inferno" poet
@@ -10427,10 +10429,13 @@ Blart;40;Paul Blart, "Mall Cop" character
 Blas;20;1715 Lesage novel "Gil Blas", or San Blas islands
 Blaseball;40;Absurdist online baseball sim
 Blass;40
+blast beat;60;Extreme metal drumming
+blast beats;60;Extreme metal drumming
 blast chiller;50
 blast chillers;50
 blaster;50
 blasters;50
+blast fishing;60;Dynamite fishing
 blasting cap;50
 blasting caps;50
 blast it;60
@@ -12831,6 +12836,7 @@ buggaabboo;0
 bugged;50
 bugged off;50
 bugged out;60
+bugger all;60;Nothing, in the UK
 bugging;50
 bugging out;60
 Buggles;40;"Video Killed the Radio Star" band
@@ -17199,6 +17205,7 @@ city hall;50
 city halls;50
 city line;50
 city lines;50
+City of Azaleas;60;Nickname for Taipei
 city police;50
 city square;60
 city squares;60
@@ -21066,10 +21073,14 @@ damned if you do;60
 damned if you do and damned if you don't;60
 damned if you do damned if you don't;60
 damned if you don't;60
+damned lies;60
 damning evidence;50
 damn interesting;60
+damn it all;60
 damn near perfect;60
 damn right;60
+damn sight;60
+damn straight;60
 damn the torpedoes;60
 Damocles;50;Sword hanger of legend
 Damon;50;Matt Damon, actor, or Damon Runyon, writer
@@ -21347,25 +21358,49 @@ Dasani;50;Bottled water brand
 Dasanis;40;Bottles of Coke's water brand
 Daschle;40;Tom Daschle, former Senate majority leader
 Dasein;40;Heidegger's term for being-there
+dash away all;50
+dashboard cam;60
+dashboard cams;60
 dashboard gauges;30
 dashcam;50
+dashcam footage;60
 dashcams;50
+dashcam video;60
+dashcam videos;60
 DashCon;40;Failed 2014 Tumblr convention
+dash dash dash;30
+dash dot dot dot;30
 dashed into;40
+dashed off a letter;50
+dashed off a note;60
 dashed one's hopes;60
 dashed to;40
 Dasher;50;Santa's reindeer
+Dasher Prancer;20
 dashes into;40
+dashes off a letter;50
+dashes off a note;60
+dashes of pepper;50
 dashes one's hopes;60
 dashes to;40
 dashi;40;Japanese soup stock
 Dashiell;50;Dashiell Hammett, "The Maltese Falcon" author
 Dashiell Hammett;60
 dashing into;40
+dashing off a letter;50
+dashing off a note;60
 dashing one's hopes;60
 dashing to;40
+dashing young man;60
+dashing young men;60
 dash into;40
+dashi powder;50;Miso soup base
+dashi powders;50;Miso soup bases
 dash it;40
+dash off a letter;50
+dash off a note;60
+dash of pepper;50
+dash of the pen;60
 dash one's hopes;60
 dash to;40
 Dashwood;40;Elinor and Marianne Dashwood, "Sense and Sensibility" sisters
@@ -25761,6 +25796,7 @@ Dynamic Island;60;Pill-shaped iPhone notification hub
 Dynamic Islands;60;Pill-shaped iPhone notification hubs
 dynamic pricing;60
 dynamic range;50
+dynamite fishing;60
 dys-;20
 Dysart;40;Richard Dysart, "L.A. Law" actor
 Dyson;50;Vacuum brand, or Freeman Dyson of the sphere
@@ -28232,7 +28268,7 @@ ESPNews;40;ESPN's news channel
 ESPN Radio;50
 ESPN The Magazine;50
 ESPNU;40
-Espo;40;Phil Esposito, hockey Hall of Famer, by nickname
+Espo;30;Phil Esposito, hockey Hall of Famer, by nickname
 Espoo;40;Finnish city next to Helsinki
 Espookys;40;"Los Espookys," HBO comedy
 esport;50
@@ -29949,7 +29985,7 @@ Faye Dunaway;60
 Fayetteville;50;City in North Carolina and Arkansas
 Faygo;50;Detroit soda brand
 Faygos;40;Detroit sodas
-Fazal;40;Ali Fazal, Indian actor
+Fazal;30;Ali Fazal, Indian actor
 Fazbear;40;Freddy Fazbear, "Five Nights at Freddy's" animatronic
 FB account;40
 FB accounts;40
@@ -30208,7 +30244,7 @@ feely;50
 Feeny;40;George Feeny, "Boy Meets World" teacher
 feet don't fail me now;60
 feet on the ground;60
-Fefe;40;Fefe Dobson, Canadian singer
+Fefe;30;Fefe Dobson, Canadian singer
 feh;40
 Feiffer;40;Jules Feiffer, Pulitzer-winning cartoonist
 Feig;40;Director Paul Feig, frequent Melissa McCarthy collaborator
@@ -30874,6 +30910,8 @@ fires at;40
 fires away;40
 fire season;50
 fireside cat;20
+fire siren;50
+fire sirens;50
 fires on;40
 fires on all cylinders;60
 Firestone;50;Tire brand / Shulamith Firestone, feminist author
@@ -30989,6 +31027,7 @@ Fischer;50;Bobby Fischer, chess champion, or Jenna Fischer, "The Office" actress
 Fischerspooner;40;Electroclash duo
 Fischler;40;Patrick Fischler, character actor
 Fishback;40;Dominique Fishback, actress
+fish bombing;60
 Fishburne;50;Laurence Fishburne, "The Matrix" actor
 Fish Called Wanda;50
 fish drum;50;Percussion instrument
@@ -36767,6 +36806,7 @@ gremolata;40;Italian condiment
 Grenache;50;Red wine grape
 Grenaches;40;Red wine grapes
 Grenada;50;Caribbean island nation
+grenade fishing;60
 Grenadian;40;From Grenada
 Grenadians;40;Caribbean islanders
 grenadilla;40;African blackwood
@@ -44364,6 +44404,7 @@ Isolde;50;Tristan's beloved
 isomeric;40
 isomorph;40
 isomorphs;40
+is on the blink;20
 is on to;40
 isopod;40
 isopods;40
@@ -59512,9 +59553,12 @@ Naypyidaw;40;Capital of Myanmar
 Nayyar;40;Kunal Nayyar, "The Big Bang Theory" actor
 Nayyirah;40;Nayyirah Waheed, poet
 Naz;40;Naz Reid, NBA Sixth Man of the Year
-Nazarene;50;Jesus, by another name
+nazar;30;Eye-shaped amulet supposed to protect against the evil eye in certain cultures
+Nazarene;40;Jesus, by another name
 Nazarenes;40;People of Nazareth
 Nazareth;50;Jesus's hometown
+Nazareth, Israel;50
+nazars;30;Eye-shaped amulets supposed to protect against the evil eye in certain cultures
 Nazca;30;Pre-Incan culture
 Nazca lines;50;Peruvian desert phenomenon
 Nazgul;50;"Lord of the Rings" ringwraith
@@ -70122,12 +70166,15 @@ Proulx;40;Annie Proulx, "The Shipping News" author
 Proust;50;Marcel Proust, "In Search of Lost Time" author
 Proustian;50;Evocative in the way of involuntary memory
 prov;40;Province
+proved a point;60
 Provencal;40;Language of southern France (Provençal)
 Provence;40;Southern French region
 prover;40
 provers;40
+proves a point;60
 Provigil;40;Medication
 Provincetown;50;Cape Cod resort town
+proving a point;60
 Provo;50;Home of Brigham Young University
 Provo, UT;30;Provo, UT
 Provo Utah;50
@@ -77613,6 +77660,9 @@ scorner;40
 scorners;40
 S corp;40
 Scorpio;50;Zodiac sign
+scorpion kick;60;Reverse bicycle kick in soccer
+scorpion kicks;60;Reverse bicycle kicks in soccer
+Scorpion King;60
 scorpion pose;50
 Scorpios;40;November-born folks
 Scorpius;40;Zodiac constellation
@@ -88224,6 +88274,8 @@ teentsy;20
 teeny-tiny;60
 tee off;50
 tee off on;50
+tee shot;60
+tee shots;60
 tees off;50
 tees off on;50
 teetered on;40
@@ -89884,6 +89936,7 @@ the sarge;40
 The Satanic Verses;50
 The Scales;20
 the scenic route;20
+The Scorpion King;60
 The Scottish Play;50
 The Sea;20
 these are trying times;60
