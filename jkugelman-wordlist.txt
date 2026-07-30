@@ -2641,6 +2641,7 @@ A-line;50;Type of skirt
 Alinea;40;Chicago restaurant with three Michelin stars
 alinement;20;Variant of alignment
 A-lines;50
+alining;20
 Alinsky;40;Saul Alinsky, "Rules for Radicals" author
 Alioth;20;Big Dipper star
 Ali Pasha;30;Ottoman ruler
@@ -6426,6 +6427,7 @@ at the end of the day;60
 at the half;50
 At the Mountains of Madness;60;H. P. Lovecraft novella
 at the net;30
+at the seams;50
 at this rate;50
 Attiah;40;Karen Attiah, Washington Post columnist
 Attica;50;New York prison, or the Greek region
