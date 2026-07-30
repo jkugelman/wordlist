@@ -35988,6 +35988,7 @@ good doggie;60
 good doggies;60
 good doggy;60
 Goode;40
+Good Earth;60;1931 novel by Pearl S. Buck, with "The"
 Goodell;40;Roger Goodell, NFL commissioner
 Gooden;40;Dwight Gooden, Mets pitcher
 good eye;60
@@ -42362,6 +42363,8 @@ I have mixed feelings;60
 I have my reasons;60
 I have no choice;60
 I have no idea;60
+I have no issue;60
+I have no issue with that;60
 I Have No Mouth and I Must Scream;60
 I haven't got all day;60
 I haven't the foggiest;60
@@ -44360,6 +44363,10 @@ I see;50
 I see it;50
 I see it now;50
 I see London I see France;50
+I see no issue;60
+I see no issue here;60
+I see no issue with that;60
+I see no reason;60
 I see that;50
 I see the vision;60;"Okay, your plan makes sense now"
 I see what you did;60
@@ -62714,6 +62721,7 @@ O'Higgins;50;Bernardo O'Higgins, liberator of Chile
 Ohio;50;Buckeye State
 Ohioan;50
 Ohioans;50
+oh I see now;60
 oh it's you;60
 oh, I went there;60
 oh, I will;60
@@ -84778,11 +84786,20 @@ steel magnates;50
 steelman;60
 steel spike;30
 steel spikes;30
-steel-toe boot;50
-steel-toe boots;50
-steel-toed;50
-steel-toed boot;50
-steel-toed boots;50
+steel-toe;60
+steel-toe boot;60
+steel-toe boots;60
+steel-toed;60
+steel-toed boot;60
+steel-toed boots;60
+steel-toed shoe;60
+steel-toed shoes;60
+steel-toed work shoe;60
+steel-toed work shoes;60
+steel-toe shoe;60
+steel-toe shoes;60
+steel-toe work shoe;60
+steel-toe work shoes;60
 steel town;50
 steel towns;50
 steel trap;60
@@ -84872,6 +84889,7 @@ Stellas;40;Stella Artois beers
 stellate;40;Arranged in a radiating pattern like a star
 stem cell research;60
 Stempel;40;Herb Stempel, "Twenty-One" quiz show whistleblower
+STEM pipeline;60;Educational pathway for STEM students
 stem turn;40;Skiing maneuver
 stem turns;40
 Sten;40;Sten gun, British submachine gun
@@ -89553,6 +89571,7 @@ the Golden Arches;20
 the Golden Arm;60;Nickname for Johnny Unitas
 the Golden Hind;40
 The Gold Rush;60;1925 Charlie Chaplin film
+The Good Earth;60;1931 novel by Pearl S. Buck
 the goods;60
 the GOP;20
 the Gospels;40
