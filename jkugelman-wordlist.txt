@@ -5467,6 +5467,8 @@ arse;50
 arsed;50
 Arsenal FC;50
 Arsene;30;Detective Lupin
+Arsène Wenger;40;Manager of Arsenal from 1996 to 2018
+Arsene Wenger;0
 arsenical;40
 arsenide;40;Arsenic compound
 arsenides;40
@@ -6469,6 +6471,9 @@ AuDHD;40;Autism + ADHD
 Audi;50;German car brand
 Audiard;40;Jacques Audiard, French director
 Audie;40;NPR's Audie Cornish
+audio equalisation;30
+audio equaliser;30
+audio equalisers;30
 audio feed;50
 audio feeds;50
 audio format;50
@@ -11132,6 +11137,8 @@ Bolshevik;50;Russian revolutionary
 Bolsheviks;50;Lenin's revolutionaries
 Bolshevism;50;Lenin's brand of communism
 Bolshoi;50;Moscow ballet company
+bolter;40
+bolters;40
 Bolton;40;Michael Bolton, singer / Ramsay Bolton of "Game of Thrones"
 Boltzmann;40;Ludwig Boltzmann, physicist of the constant
 Bolu;40;Bolu Babalola, British-Nigerian novelist
@@ -19874,13 +19881,13 @@ Creamsicles;50;Orange-and-vanilla frozen treats
 cream soda;50
 cream sodas;50
 creamy skin;20;???
-create an opening;50
+create an opening;60
 create a stir;60
-created an opening;50
+created an opening;60
 created a stir;60
-creates an opening;50
+creates an opening;60
 creates a stir;60
-creating an opening;50
+creating an opening;60
 creating a stir;60
 Creative Commons;60
 creative mode;60;Sandbox video game option
@@ -20409,6 +20416,7 @@ CS major;50
 CS majors;50
 CSNY;40
 Csonka;30;???
+CSS;20;Cascading Style Sheets
 CST;40
 C star;20
 C stars;20
@@ -21552,6 +21560,7 @@ dawn to dusk;50
 daws;30
 Dawson;50;"Dawson's Creek" / Rosario Dawson, actress
 Dawson's;40;___ Creek, teen drama
+d'aww;40
 Dax;40
 day;50
 Dayan;30
@@ -27937,6 +27946,13 @@ Epstein;40;Brian Epstein, Beatles manager, or Theo Epstein, baseball exec
 EPT;20
 EQ;40
 EQs;40
+equalisation;30
+equalise;30
+equalised;30
+equaliser;30
+equalisers;30
+equalises;30
+equalising;30
 equated to;40
 equates to;40
 equate to;40
@@ -43348,6 +43364,7 @@ in English please;60;"Can you explain that without the big words"
 inert gas;50
 inerts;20
 Ines;40
+Ines Rau;40;French transgender model
 Ines Sastre;40;Spanish actress Inés Sastre
 in esse;40;Actually existing
 in Europe;30
@@ -55317,6 +55334,7 @@ MBE;20
 Mbeki;40;Mandela's successor Thabo Mbeki
 Mbembe;40;Achille Mbembe, Cameroonian philosopher
 MBMBaM;20;"My Brother, My Brother and Me" podcast
+MBTA;30;Massachusetts Bay Transportation Authority
 Mbube;40;Zulu song that became "The Lion Sleeps Tonight"
 M. Butterfly;50;1988 play by David Henry Hwang
 M Butterfly;0
@@ -62802,7 +62820,7 @@ Oingo;40;Oingo Boingo, Danny Elfman's band
 oir;20
 Oireachtas;50;Ireland's parliament
 ois;20
-Oise;40;French river and department
+Oise;30;French river and department
 oiseau;30;Bird: Fr.
 Oistrakh;40;David Oistrakh, Soviet violinist
 Ojai;40;California town in Ventura County
@@ -76470,7 +76488,7 @@ Sag season;50;Sagittarius season
 saguaro cacti;50
 saguaro cactus;60
 saguaro cactuses;60
-Sagwa;40;"Sagwa, the Chinese Siamese Cat," PBS cartoon
+Sagwa;20;"Sagwa, the Chinese Siamese Cat," PBS cartoon
 Sahara;50;World's largest hot desert
 Saharan;50;Of the great desert
 Saharan cheetah;50
@@ -77304,6 +77322,7 @@ saw a friend;20
 saw after;30
 saw a ghost;60
 Sawai;40;Anna Sawai, "Shogun" actor
+saw an opening;60
 saw as;30
 Sawatch;40;Colorado mountain range
 Sawayama;40;Rina Sawayama, British Japanese pop singer
@@ -77446,7 +77465,7 @@ scantlings;40
 scantly;30;Scarcely
 Scantron;50;Bubble-sheet test forms
 Scantrons;40;Bubble-in test sheets
-Scapa;40;Scapa Flow, Orkney naval anchorage
+Scapa;20;Scapa Flow, Orkney naval anchorage
 scape;40;Suffix
 scapegoat;50
 scapegoats;50
@@ -78309,6 +78328,7 @@ see;50
 seeable;30
 see after;30
 see a ghost;60
+see an opening;60
 see as;40
 seedage;30
 seed bank;60
@@ -78335,6 +78355,7 @@ Seehorn;40;Actress Rhea Seehorn
 see I;20
 see in;40
 seeing after;30
+seeing an opening;60
 seeing dollar signs;60
 seeing eye to eye;60
 seeing eye to eye with;50
@@ -78399,6 +78420,7 @@ see reason;50
 seeress;40;Cassandra, e.g.
 seeresses;40
 sees after;30
+sees an opening;60
 sees as;40
 sees dollar signs;60
 see sense;60
@@ -84099,6 +84121,7 @@ S-shaped;30
 S shapes;30
 SSI;20
 ssiinnggllee;0
+S. S. Kresge;40;Founder of Kmart
 SSN;40
 SSNs;40
 ssorctfel;0
@@ -84269,7 +84292,7 @@ standing O's;60
 standing ovation;60
 standing over;40
 standing splits;60;Gymnastic split done while standing on one leg
-standing to;40
+standing to;30
 standing trial;60
 standing trial for;50
 standing up in court;60
@@ -84285,12 +84308,12 @@ stands at ease;50
 stands next to;40
 stands on;40
 stands over;40
-stands to;40
+stands to;30
 stands trial;60
 stands trial for;50
 stands up in court;60
 stands up to;40
-stand to;40
+stand to;30
 stand trial;60
 stand trial for;50
 standup comedian;60
@@ -84370,6 +84393,7 @@ StarCraft;50;Blizzard strategy game
 star-cross'd;60
 star-crossed;60
 star-crossed lovers;60
+Star Cup;40;Mario Kart trophy
 stardate;60
 Star Destroyer;60
 Star Destroyers;60
@@ -85282,7 +85306,7 @@ stood at ease;50
 stood next to;40
 stood on;40
 stood over;20
-stood to;40
+stood to;30
 stood trial;60
 stood trial for;50
 stood up in court;60
@@ -97593,7 +97617,7 @@ Wendy's burger;60
 Wendy's burgers;60
 Wendy Torrance;60;From "The Shining"
 Weng;40;Will Weng
-Wenger;40;Arsene Wenger, longtime Arsenal manager
+Wenger;30;Arsène Wenger, manager of Arsenal from 1996 to 2018
 Wen Jiabao;40
 Wenjun;40;Ju Wenjun, women's world chess champion
 Wenner;40;Jann Wenner, Rolling Stone founder
