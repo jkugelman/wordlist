@@ -13439,6 +13439,8 @@ cabalist;40
 cabalists;40
 caballed;40
 caballing;40
+cabana shirt;60
+cabana shirts;60
 cabbage rose;60;Type of rose grown for rose oil
 Cabbagetown;40;Toronto or Atlanta neighborhood
 cab driver;50
@@ -33174,7 +33176,9 @@ Gadsden;40;???
 gadwall;40
 gae;20
 Gaea;40;Greek earth goddess
-Gael;50;Scottish or Irish Celt / Gael Garcia Bernal, actor
+Gael;40;Scottish or Irish Celt / Gael Garcia Bernal, actor
+Gael García Bernal;50;Mexican actor and filmmaker (born 1978)
+Gael Garcia Bernal;0
 Gaelic;50;Irish or Scottish language
 Gaels;40;Irish and Scottish Celts
 Gaeltacht;40;Irish-speaking region
@@ -47008,7 +47012,7 @@ Kazakhs;40;People of Kazakhstan
 Kazakhstan;50;Central Asian country
 Kazakhstani;40;From Astana, say
 Kazakhstanis;40;Astana residents
-Kazan;50;Elia Kazan, "On the Waterfront" director
+Kazan;40;Elia Kazan, "On the Waterfront" director
 Kazantzakis;50;Nikos Kazantzakis, "Zorba the Greek" author
 Kazimir;40;Kazimir Malevich, Russian painter
 Kazimir Malevich;50;Russian artist and painter (1879–1935)
@@ -59381,8 +59385,9 @@ Nascimento;40;Milton Nascimento, Brazilian singer / Pele's surname
 Nash;50;John Nash, "A Beautiful Mind" mathematician / Graham Nash, singer
 Nash equilibria;60
 Nash equilibrium;60
+nashi;30;Asian pear
 nashi pear;30;Asian pear
-nashi pears;30
+nashi pears;30;Asian pears
 Nashua;40;New Hampshire city
 Nashville;50;Tennessee capital, Music City
 Nasim;30;S.N.L. alum Nasim Pedrad
@@ -77643,6 +77648,10 @@ scoop seat;50
 scoop seats;50
 Scoopula;40;Lab spatula for powders
 Scoopulas;40;Lab scoop-spatulas
+scooted in;50
+scoot in;50
+scooting in;50
+scoots in;50
 scope creep;60
 Scopes Trial;60
 scorched earth;60
