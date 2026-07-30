@@ -699,7 +699,7 @@ Abyssinia;50;Ethiopia of old
 Abyssinian;50;Cat breed, or an Ethiopian of old
 Abyssinians;50;Old-time Ethiopians, or a cat breed
 Abyuja;0;Capital of Nigeria (not Lagos)
-Abzug;40;Bella Abzug, congresswoman and feminist
+Abzug;30;Bella Abzug, congresswoman and feminist
 AC;40;Alternating current / Air conditioning
 A/C;40;Air conditioning
 ACA;40
@@ -2540,6 +2540,7 @@ Alfonso;40;Alfonso Cuarón, "Roma" director
 Alford;20
 Alfre;40;Actress Woodard
 Alfred;50;Given name, or Batman's butler
+Alfred Kazin;40;Literary critic
 Alfredo;50;Fettuccine sauce
 Alfredson;40;Tomas Alfredson, "Let the Right One In" director
 Alfred U.;20;NY state university
@@ -3782,6 +3783,8 @@ Andrade;40;Rebeca Andrade, Brazilian Olympic gymnast
 Andre;50;Andre Agassi, tennis champion, among others
 Andrea;40;Andrea Bocelli, tenor / common first name
 Andreas;40;Andreas Gursky, photographer / San Andreas Fault
+André Bazin;40;French film critic (1918-1958)
+Andre Bazin;0
 Andree;40;French feminine form of Andre
 Andreescu;40;Bianca Andreescu, US Open champion
 Andreessen;40;Marc Andreessen, Netscape cofounder turned VC
@@ -3841,6 +3844,7 @@ Andy Kim;50
 Andy Kirk;50
 and you are;60
 and your little dog too;60
+Andy Razaf;40;"Ain't Misbehavin'" lyricist
 Ane;30;Suffix
 a needle;20
 an elephant in the room;50;"An"?
@@ -8505,7 +8509,7 @@ Bay Staters;60
 Baywatch;50;Lifeguard show with red swimsuits
 Baz;40
 Bazball;40;Aggressive England cricket style
-Bazin;40;André Bazin, French film critic
+Bazin;30;André Bazin, French film critic
 Bazooka bubblegum;60
 bazooms;30
 BB;40
@@ -29861,8 +29865,10 @@ fasten seatbelts;50
 fasten seatbelts sign;60
 fasten seatbelts signs;60
 fastens onto;40
+fasten your seatbelt;60
 fasten your seatbelt, it's going to be a bumpy ride;60
 fasten your seatbelt, it's gonna be a bumpy ride;60
+fasten your seatbelts, it's going to be a bumpy night;60
 faster than greased lightning;60
 fast fashion;60
 Fast Five;50
@@ -47030,7 +47036,7 @@ Kazan;40;Elia Kazan, "On the Waterfront" director
 Kazantzakis;50;Nikos Kazantzakis, "Zorba the Greek" author
 Kazimir;40;Kazimir Malevich, Russian painter
 Kazimir Malevich;50;Russian artist and painter (1879–1935)
-Kazin;40;Alfred Kazin, literary critic
+Kazin;30;Alfred Kazin, literary critic
 kazoo;50
 Kazooie;40;Banjo-Kazooie's video game bird
 kazoos;50
@@ -51412,6 +51418,7 @@ listens in on;40
 listens to;40
 listen to;40
 listen to me;60
+listen you;60
 Lister;40;Joseph Lister, antiseptic pioneer / Anne Lister, diarist
 Listerine;50;Mouthwash brand
 list for;40
@@ -58371,6 +58378,7 @@ Mozambique;50;Southeast African nation
 Mozart;50;Wolfgang Amadeus Mozart, composer
 Mozartean;40;Like a certain composer's work
 Mozilla;50;Firefox maker
+mozza;40
 mozzarella cheese;50
 MP;40
 MPA;40;Motion Picture Association, formerly MPAA
@@ -61584,6 +61592,8 @@ now then;50
 now what do we do;60
 now where did I park?;60
 now where did we park?;60
+now you listen;60
+now you listen to me;60
 Nox;40;Night goddess
 Noxzema;50;Skin cream brand
 Noyes;40;Poet Alfred Noyes
@@ -72144,7 +72154,7 @@ Rayquaza;40;Legendary Pokeyman
 Rayssa;40;Rayssa Leal, Brazilian skateboarder
 Raytheon;50;Defense contractor
 Ray Wise;50
-Razaf;40;Andy Razaf, "Ain't Misbehavin'" lyricist
+Razaf;30;Andy Razaf, "Ain't Misbehavin'" lyricist
 raze a building;20
 razor burn;50
 Razorlight;40;British indie rock band
@@ -88029,6 +88039,9 @@ Tay Tay;50;Taylor Swift nickname
 Taz;40
 Tazewell;40;"Wicked" costume designer, first black man to win an Oscar for costume design
 Tazo;40;Tea brand
+tazza;30;Saucer-like drinking dish
+tazzas;30;Saucer-like drinking dishes
+tazze;30;Saucer-like drinking dishes
 TBA;40
 T-ball game;50
 T-ball games;50
@@ -100339,6 +100352,7 @@ you know what;60
 you know what I mean;60
 you know what I'm saying;60
 you know who you are;60
+you know you like it;60
 you live like this?;60
 you live like this;0
 you'll be fine;60
