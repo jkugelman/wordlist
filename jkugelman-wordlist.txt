@@ -21560,7 +21560,7 @@ day trader;50
 day traders;50
 day-trades;50
 day trading;50
-Dazai;40;Osamu Dazai, author of "No Longer Human"
+Dazai;30;Osamu Dazai, author of "No Longer Human"
 Dazs;40;Haagen-Dazs half
 dazzle camouflage;60
 DB;40
@@ -27082,7 +27082,7 @@ Elysian;50;Blissful, as fields
 Elysium;50;Greek paradise for heroes
 elytron;20;Beetle part
 elytrons;20;Beetle parts
-Elzie;40;Elzie Segar, "Popeye" creator / Johnetta Elzie, activist
+Elzie;30;Elzie Segar, "Popeye" creator / Johnetta Elzie, activist
 em;40
 ema;20
 eMac;20;Old Macintosh
@@ -33125,6 +33125,7 @@ futzed around;50
 futzes around;50
 futzing around;50
 Fuze;40;Iced tea brand
+fuzes;30
 Fuzhou;40;Chinese port city
 fuzzball;60;What Han calls Chewie
 Fvck;10;Demi Lovato's "Holy Fvck"
@@ -33835,8 +33836,8 @@ Gay Twitter;40
 gaz;20
 Gaza;50;Strip on the Mediterranean
 Gaza City;50
-Gazan;40;Resident of Gaza
-Gazans;40;People of Gaza
+Gazan;50;Resident of Gaza
+Gazans;50;People of Gaza
 Gaza Strip;60
 gaze at;40
 gazed at;40
@@ -33854,7 +33855,7 @@ gazes out;40
 gazing at;40
 gazing into;40
 gazing out;40
-Gazoo;50;The Great Gazoo, "The Flintstones" alien
+Gazoo;30;The Great Gazoo, "The Flintstones" alien
 gazpachos;30
 Gazprom;40;Russian gas giant
 Gazzara;40;Ben Gazzara, actor
@@ -45924,6 +45925,7 @@ jitney;30;Small bus, or old slang for a nickel
 jitneys;30
 jiujitsu dojo;60
 jiujitsu dojos;60
+jizya;30;Islamic tax on non-Muslims
 J.J. Evans;50
 J. Jonah Jameson;60
 J Jonah Jameson;0
@@ -51291,6 +51293,10 @@ lionets;40
 lionfish;40;Venomous fish
 lionfishes;40;Venomous fish
 lionhearted;60
+Lion of Flanders;50;Nickname for Robert III of Flanders (1249-1322)
+Lion of the Desert;50;1981 epic historical war film starring Anthony Quinn
+Lion of the North;50
+Lion of Venice;60;Sculpture in the Piazzetta di San Marco
 Lions Clubs;50
 Lions Clubs International;50
 lion's dens;50
@@ -55238,7 +55244,7 @@ mazel;40
 Mazepa;40;Ivan Mazepa, Ukrainian hetman and Tchaikovsky opera subject
 Mazeppa;40;Ivan Mazeppa, Cossack hetman of Byron and Liszt works
 Mazeroski;40;Bill Mazeroski, hit the 1960 World Series walk-off homer
-Mazie;40;Mazie Hirono, Hawaii senator
+Mazie;30;Mazie Hirono, Hawaii senator
 mazier;30
 maziest;30
 Mazola;40;Cooking oil brand
@@ -58490,6 +58496,8 @@ Mr. Warmth;50
 Mr White;50;From "Reservoir Dogs" or "Breaking Bad"
 Mr. Wilson;50
 Mr. X;20
+Mr. ZIP;40;Mascot of the United States Post Office Department
+Mr Zip;0
 Ms;40
 MS degree;30
 MS degrees;30
@@ -64248,6 +64256,7 @@ Osakan;40
 Osakans;40
 Osama;10
 Osamu;40;Osamu Tezuka, manga pioneer / Osamu Dazai, novelist
+Osamu Dazai;40;Japanese author (1909–1948)
 Osborn;40;Norman Osborn, the Green Goblin
 Osborne;40;Joan Osborne, "One of Us" singer / John Osborne, playwright
 Osbourne;50;Ozzy Osbourne, rock singer
@@ -68422,7 +68431,7 @@ plutos;20
 Pluto TV;50;Free ad-supported streaming service
 ply;50
 Plymouth;50;Pilgrims' landing place
-Plzen;40;Czech city, home of pilsner
+Plzen;30;Czech city, home of pilsner
 PM;40
 PM Dawn;40;'90s hip hop group P.M. Dawn
 PMS;40;Prime ministers
@@ -86484,7 +86493,7 @@ SUV;50
 Suva;40;Capital of Fiji
 Suvari;40;Mena Suvari, "American Beauty" actress
 SUVs;50
-Suzan;40;Suzan Shown Harjo, Native rights advocate / variant of Susan
+Suzan;30;Suzan Shown Harjo, Native rights advocate / variant of Susan
 Suzanne;50;Suzanne Collins, "The Hunger Games" author / Leonard Cohen song
 Suze;40;Suze Orman, personal finance guru
 Suzette;40;Crêpes Suzette
@@ -87116,8 +87125,8 @@ tails;50;Quarter backs
 tailspins;50
 Taine;40;Hippolyte Taine, French critic and historian
 TAing;40;Serving as a teaching assistant
-Taino;40;Indigenous Caribbean people
-Tainos;40;Indigenous Caribbean people
+Taino;30;Indigenous Caribbean people
+Tainos;30;Indigenous Caribbean people
 Taio;40;Singer/rapper Taio Cruz
 taipan;30;Snake
 taipans;30
@@ -89586,6 +89595,8 @@ the Liberty Bell;50
 the Linc;50
 the Lincoln Memorial;20
 The Lion;40;???
+The Lion of Flanders;50;Nickname for Robert III of Flanders (1249-1322)
+The Lion of Judah;40;2011 American film
 the lions;40
 The Lip;20
 the lists;20
@@ -95103,7 +95114,7 @@ utter rot;50
 utter tripe;60
 U-tube;30;Lab equipment
 Utz;50
-Utzon;40;Jørn Utzon, Sydney Opera House architect
+Utzon;30;Jørn Utzon, Sydney Opera House architect
 UVA;40
 Uvalde;30
 uvea;40
@@ -99841,7 +99852,7 @@ Yaz;40;Red Sox hall of famer
 Yazidi;40;Kurdish religious minority
 Yazidis;40;Kurdish-speaking religious minority
 Yazidism;40;Kurdish religion
-Yazoo;40;Mississippi river
+Yazoo;30;Mississippi river
 Ybor;20
 yclept;20;By the name of, archaic
 yds;40
@@ -100737,7 +100748,7 @@ Zaxby's;40;Chicken fingers chain
 Zaxxon;40;Classic Sega arcade game
 Zaya;30;Zaya Wade, activist daughter of Dwyane Wade
 Zayn;40;One-named One Direction member
-Zazie;50;Actress Zazie Beetz
+Zazie;40;Actress Zazie Beetz
 Zazie Beetz;50
 Zazu;50;"The Lion King" hornbill
 Zazzle;40;Custom print-on-demand site
@@ -100872,6 +100883,7 @@ Zetterling;40;Mai Zetterling, Swedish actress and director
 Zeus;50;King of the Greek gods
 Zeuxis;40;Ancient Greek painter whose grapes fooled the birds
 Zevon;40;Warren Zevon, "Werewolves of London" singer
+ze zir;40
 Zhane;40;1990s R&B duo
 Zhang;40;Zhang Yimou, director / Zhang Ziyi, actress
 Zhang Ziyi;50;Chinese actress and model (born 1979)
