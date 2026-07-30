@@ -2617,7 +2617,8 @@ Alienware;50;Gaming PC brand
 alien world;60
 alien worlds;60
 AliExpress;50;Chinese online marketplace
-Alifa;40;Alifa Rifaat, Egyptian short-story writer
+Alifa;30;Alifa Rifaat, Egyptian short-story writer
+Alifa Rifaat;40;Egyptian short story writer
 Ali Fazal;40;Indian actor (born 1986)
 Ali G;40
 Aligarh;40;City in Uttar Pradesh, India
@@ -72170,6 +72171,8 @@ RC trucks;50
 rd;40
 RDA;40
 RDAs;40;Recommended Dietary Allowances
+R. D. Laing;40;Unorthodox Scottish psychiatrist (1927–1989)
+R D Laing;0
 rds;40
 re;40
 Rea;40;Mens rea, or Stephen Rea
