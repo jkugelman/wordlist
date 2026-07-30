@@ -60279,6 +60279,7 @@ ney;20
 Ne-Yo;40;Ne-Yo, three-time Grammy winning singer [occasional]
 Neytiri;40;Na'vi heroine of "Avatar"
 nez;20
+Ne Zha;20
 NFC;40
 NFC East;40
 NFC North;40
@@ -100617,8 +100618,22 @@ Yutang;40;Author Lin Yutang (1895-1976)
 Yuval;40;Yuval Noah Harari, "Sapiens" author
 yuvarlakia;40;Greek meatball soup
 yuzu;30;Yellow citrus
+yuzu aioli;40
+yuzu bath;40
+yuzu baths;40
+yuzu fruit;40
+yuzu fruits;40
+yuzu juice;40
+yuzu kosho;40
+yuzu ponzu;40
 Yuzuru;40;Figure skater Yuzuru Hanyu
 Yuzuru Hanyu;40;Figure skater Yuzuru Hanyu
+yuzus;30;Yellow citruses
+yuzu sauce;40
+yuzu sour;40
+yuzu sours;40
+yuzu vinegar;40
+yuzu zest;40
 Yves;50;Yves Saint Laurent, fashion designer / Yves Montand, actor
 Yvette;50;Common first name
 Yvettes;30
@@ -100748,6 +100763,7 @@ Zaxby's;40;Chicken fingers chain
 Zaxxon;40;Classic Sega arcade game
 Zaya;30;Zaya Wade, activist daughter of Dwyane Wade
 Zayn;40;One-named One Direction member
+zazen;30;Meditative discipline in Zen Buddhism
 Zazie;40;Actress Zazie Beetz
 Zazie Beetz;50
 Zazu;50;"The Lion King" hornbill
