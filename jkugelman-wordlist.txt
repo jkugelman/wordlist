@@ -25565,6 +25565,7 @@ Dulles;50;John Foster Dulles, secretary of state / DC-area airport
 dull finish;50
 Dullsville;50;Boring place
 Duloc;40;Lord Farquaad's kingdom in "Shrek"
+dulse;20
 Duluth;50;Minnesota port city
 Dulux;40;Paint brand
 dum;20
