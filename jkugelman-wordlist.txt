@@ -70158,8 +70158,10 @@ prosy;40
 Protactile;40;DeafBlind touch language
 Protea;30;Sugarbush genus
 protease;30
+protégé;50
 protégée;40
 protégées;40
+protégés;50
 protei;20
 proteinaceous;40
 Proterozoic;50;Eon before the Cambrian
@@ -93767,6 +93769,8 @@ two dashes;30
 two dots;20
 two-drink minimum;60
 two-drink minimums;60
+two-edged;40
+two-edged sword;40
 two-em;20
 two-inch;30
 two-income;50
