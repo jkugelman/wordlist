@@ -5016,8 +5016,8 @@ are;50
 area;50
 Area 51;60
 area below a curve;20
-area code map;40
-area code maps;40
+area code map;50
+area code maps;50
 a real eye opener;60
 A Real Pain;60;2025 Oscar wining film
 Area Man;60;Frequent The Onion interviewee
@@ -10535,6 +10535,7 @@ blew smoke;50
 blew the joint;60
 blew the lead;60
 blew up one's spot;60
+blew wide open;60
 Bley;40;Carla Bley, jazz composer / Paul Bley, pianist
 Blige;50;Mary J. Blige, R&B singer
 Bligh;50;William Bligh, captain of the Bounty
@@ -10704,12 +10705,14 @@ blowing smoke;50
 blowing the joint;60
 blowing the lead;60
 blowing up one's spot;60
+blowing wide open;60
 blow into;40
 blown away;60
 blown one's top;60
 blown the joint;60
 blown tire;50
 blown tires;50
+blown wide open;60
 blow off;50
 blow on;40
 blow one's mind;60
@@ -10732,6 +10735,7 @@ blows smoke;50
 blows the joint;60
 blows the lead;60
 blows up one's spot;60
+blows wide open;60
 blow the joint;60
 blow the lead;60
 blow this popsicle stand;60
