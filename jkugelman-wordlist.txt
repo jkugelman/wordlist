@@ -3425,6 +3425,8 @@ amie;40
 Amiel;40;Henri-Frédéric Amiel, Swiss diarist
 Amiens;40;French city with a famous cathedral
 amies;40
+am I forgetting something?;60
+am I forgetting something;0
 am I glad to see you;60
 amigurumi;30;Japanese art of knitting
 am I hearing it right?;60
@@ -24341,6 +24343,9 @@ don't do that;60
 don't drink and drive;60
 don't eat that;60
 don't erase;60
+Don't Forget I Still Love You;50;1964 song/album by Bobby Martin
+Don't Forget Me;50
+Don't Forget Me (When I'm Gone);50;1986 single by Glass Tiger
 don't forget to smack that bell;60
 don't freak out;60
 don't fret;60
@@ -30913,6 +30918,9 @@ fire alarm;60
 fire alarms;60
 Fire and Ash;60;Avatar 3
 fire and brimstone;60
+fire-and-forget;60
+fire-and-forget missile;50
+fire-and-forget missiles;50
 fire and ice;60
 fire ant;60
 fire ants;60
@@ -32074,8 +32082,22 @@ forgather;40
 forgathered;40
 forgathering;40
 forgathers;40
-forget about;50
+forge a check;60
+forge alliances;60
+forge an alliance;60
+forged a check;60
+Forged Alliances;60
+forged an alliance;60
+forged check;60
+forged checks;60
+forged signature;60
+forged steel;60
+forges a check;60
+forges alliances;60
+forges an alliance;60
+forget about;40
 forget about it;60
+forget about me;50
 forget her;50
 forget him;50
 forget I asked;60
@@ -32083,15 +32105,23 @@ forget I even asked;60
 forget I said that;60
 forget it;60
 forget-me-not;60
-forgets about;50
+forget-me-nots;60
+forget oneself;50
+forgets about;40
+forgets oneself;50
 forget that;60
 forget them;50
+forgetting oneself;50
 forget what I said;60
 forget you heard that;60
+forging a check;60
+forging alliances;60
+forging an alliance;60
 forgiver;40
 forgivers;40
-forgot about;50
-forgotten about;50
+forgot about;40
+forgot oneself;50
+forgotten about;40
 Forgottonia;50;Tongue-in-cheek breakaway region of western Illinois
 forints;20;Hungarian money
 forked out;50
@@ -41246,9 +41276,11 @@ how can I delete someone else's post?;60
 how cool;60
 how could I be so naive?;60
 how could I be so naive;0
-how could I forget;60
+how could I forget?;60
+how could I forget;0
 how could I not;60
-how could you forget;60
+how could you forget?;60
+how could you forget;0
 howdah;20
 howdahs;20
 how delicious;60
@@ -42443,6 +42475,7 @@ Ikea catalog;60
 Ikea catalogs;60
 Ikea effect;60
 Ikeas;40;Swedish furniture stores
+I Keep Forgettin' (Every Time You're Near);50;1982 single by Michael McDonald
 Ikette;30
 Ikettes;40;Ike and Tina Turner's backup singers
 I kill me;60
@@ -43395,6 +43428,7 @@ in Europe;30
 I never;50
 I never can tell;60
 I never do anything right;60
+I never forget a face;60
 I never said that;60
 inexistent;40
 Inez;40;Woman's name / Inez Foxx, soul singer
@@ -44880,6 +44914,7 @@ it's getting late;50
 it's giving;60;Gen Z slang
 it's going to be a bumpy ride;60
 it's gonna be a bumpy ride;60
+it's hard to forget;50
 it's high time;60
 it's in;40;Usually a partial
 it's in God's hands;60
@@ -51019,6 +51054,7 @@ lies under;30
 lie test;30;Made up
 lie tests;30
 lie to;40
+Lieutenant Commander Geordi La Forge;50
 lieuts;20
 Liev;40;Liev Schreiber, actor
 lie with;40
@@ -79124,6 +79160,7 @@ Seths;30
 SETI;40
 set in stone;50
 set into;40
+set it and forget it;60
 Set It Up;0
 setoffs;40;Amounts set off against others in the settlement of accounts
 set on;40
@@ -89696,6 +89733,7 @@ thekeyofc;0
 the Keystone Kops;40
 The Kid;50
 The Killer;60;David Fincher / Michael Fassbender movie
+The Kind of Boy You Can't Forget;50;1963 song by The Raindrops
 The King James Bible;40
 the king of clubs;40
 the king of diamonds;40
@@ -97610,6 +97648,7 @@ well, let's just say;60
 well, let's see now;60
 well, let this slide;60
 Wellman;40;William Wellman, "Wings" director
+we'll never forget;40
 well, now what?;60
 well now what do we do?;60
 well-read;60
@@ -97956,6 +97995,7 @@ what a fool;60
 what a fool I've been;60
 what a hoot;60
 what a mess;60
+what am I forgetting?;60
 what an idea;60
 what a nightmare;60
 what a pal;60
