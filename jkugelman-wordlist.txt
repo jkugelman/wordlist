@@ -49872,7 +49872,8 @@ lazy Susan;50
 lazy Susans;50
 LazyTown;40;Icelandic children's TV show
 lb;40
-LBDs;40;Little black dresses
+LBD;20;Little black dress
+LBDs;20;Little black dresses
 L-beam;30
 L-beams;30
 LBJ;50
@@ -66791,6 +66792,7 @@ perambulator;30
 perambulators;30
 PE ratio;50
 P/E ratios;50
+perc;20
 Percabeth;40;Percy Jackson fandom couple name
 percale;40;Bed cover fabric
 percales;40
