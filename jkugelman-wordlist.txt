@@ -100416,6 +100416,7 @@ you did it;50
 you didn't hear it from me;60
 you didn't hear that;60
 you didn't say the magic word;60
+you died;60
 you dig?;60
 you don't have to tell me twice;60
 you don't know how it feels;60
