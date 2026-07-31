@@ -6455,7 +6455,8 @@ ATVs;40
 Atwell;40;Hayley Atwell, Agent Carter actress
 Atwood;50;Margaret Atwood, author of "The Handmaid's Tale"
 Au;40;Gold, on the periodic table
-aubades;30
+aubade;30;Morning love song
+aubades;30;Morning love songs
 aube;20
 Auberjonois;40;Rene Auberjonois, Odo on "Deep Space Nine"
 Aubrey;50;Given name, as in Aubrey Plaza
