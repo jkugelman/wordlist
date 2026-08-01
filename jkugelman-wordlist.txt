@@ -18675,6 +18675,8 @@ CompuServe;50;Early online service
 computer experts;50
 computer icon;50
 computer icons;50
+computer key;50
+computer keys;50
 computer model;60
 computer models;60
 computer network;50
@@ -18934,6 +18936,8 @@ contrails;60
 ContraPoints;40;Natalie Wynn's YouTube channel
 contrarieties;30
 contrariety;30
+Control key;50
+Control keys;50
 control room;50
 control rooms;50
 control system;50
@@ -22263,6 +22267,10 @@ delead;30
 deleaded;30
 delecto;30
 de León;40;Conquistador Juan Ponce de León (3-word last name)
+Delete key;50
+delete key;0
+Delete keys;50
+delete keys;0
 deleter;30
 Deleuze;40;Gilles Deleuze, French philosopher
 Delevingne;50;Cara Delevingne, model and actress
@@ -22649,6 +22657,8 @@ desire paths;60
 desis;30;Members of the South Asian diaspora
 Desis;20;Plural name
 desistere;20
+desk jockey;60
+desk jockeys;60
 desktop computer;60
 desktop computers;60
 Des Moines, IA;30
@@ -23541,6 +23551,8 @@ disk drive;50
 disk drives;50
 disked;30
 disking;30
+disk jockey;30
+disk jockeys;30
 Dismaland;50;Banksy's dystopian theme park
 dismast;40;Break off a ship's masts
 dismasted;40
@@ -27473,6 +27485,10 @@ ending on;40
 ending up at;40
 ending up on top;50
 ending with;40
+End key;50
+end key;0
+End keys;50
+end keys;0
 endo;40
 endocarp;40;Seed layer
 endodontic;40
@@ -27768,6 +27784,10 @@ entering the picture;60
 entering upon;40
 enter into;40
 enteritis;40;Inflammation of the small intestine
+Enter key;50
+enter key;0
+Enter keys;50
+enter keys;0
 enteron;40
 enter one's mind;50
 enterprise zone;50
@@ -28236,6 +28256,10 @@ escape from;40
 Escape from L.A.;60
 Escape from LA;0
 Escape from New York;60
+Escape key;50
+escape key;0
+Escape keys;50
+escape keys;0
 escape notice;50
 escape punishment;50
 escaper;30
@@ -28280,6 +28304,7 @@ Eschers;40;M.C. Escher works
 eschewer;40
 eschewers;40
 Esc key;50
+Esc keys;50
 Escobar;50;Pablo Escobar, Colombian drug lord
 Escobedo;40;Escobedo v. Illinois, Supreme Court case
 Escoffier;30;???
@@ -29377,7 +29402,43 @@ ezr;20
 Ezra;50;Book of the Bible, or Ezra Pound
 Ezzard;40;Ezzard Charles, heavyweight champion
 F;40
+F1;40
+F10;40
+F10 key;50
+F10 keys;40
+F11;40
+F11 key;50
+F11 keys;40
+F12;40
+F12 key;50
+F12 keys;40
 F-14 Tomcat;60
+F1 key;50
+F1 keys;40
+F2;40
+F2 key;50
+F2 keys;40
+F3;40
+F3 key;50
+F3 keys;40
+F4;40
+F4 key;50
+F4 keys;40
+F5;40
+F5 key;50
+F5 keys;40
+F6;40
+F6 key;50
+F6 keys;40
+F7;40
+F7 key;50
+F7 keys;40
+F8;40
+F8 key;50
+F8 keys;40
+F9;40
+F9 key;50
+F9 keys;40
 fa;40
 FAA;40
 fab;50
