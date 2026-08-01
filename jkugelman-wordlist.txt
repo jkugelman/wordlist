@@ -29013,6 +29013,7 @@ every single time;60
 everything bagel;60
 everything bagels;60
 Everything Everywhere All at Once;60
+(Everything I Do) I Do It for You;50;1991 single by Bryan Adams
 every Tom, Dick, and Harry;60
 Evgeni;40;Evgeni Malkin, Penguins hockey star
 Evian;50;French bottled water brand
@@ -42510,6 +42511,8 @@ I do believe;60
 I do, do I?;50
 I do do I;0
 I do do that;60
+I do, I do;50
+I Do! I Do!;40;Tom Jones musical
 I Do I Do I Do I Do I Do;50;ABBA song
 I do indeed;50
 Idoism;20;Esperanto phrase
