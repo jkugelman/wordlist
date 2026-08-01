@@ -12563,7 +12563,7 @@ broking;40
 Brolin;40;Josh Brolin, actor, or his father James
 brollies;40;Umbrellas: Brit.
 brolly;40;Umbrella: Brit.
-Brom;30;Brom Bones, "Sleepy Hollow" rival
+Brom;40;Brom Bones, "Sleepy Hollow" rival
 bromance;60
 bromances;60
 Brom Bones;50;"Sleepy Hollow" rival
