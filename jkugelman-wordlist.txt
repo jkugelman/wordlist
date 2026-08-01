@@ -96815,7 +96815,7 @@ walkabout;50
 walk and talk;60
 walked and talked;60
 walked on thin ice;60
-walked out on;40
+walked out on;50
 walked to;40
 walked with purpose;60
 Walken;50;Christopher Walken, actor
@@ -96825,7 +96825,7 @@ walking and talking;50
 walking-around money;60
 walking distance;50
 walking on thin ice;60
-walking out on;40
+walking out on;50
 walking sim;60;Adventure game that consists primarily of movement and environmental interaction
 walking sims;60;Adventure games that consists primarily of movement and environmental interaction
 walking simulator;60;Adventure game that consists primarily of movement and environmental interaction
@@ -96839,10 +96839,10 @@ Walkmans;40;Sony's portable cassette players
 walk-off HR;40
 walk on thin ice;60
 walk out;50
-walk out on;40
+walk out on;50
 walks and talks;50
 walks on thin ice;60
-walks out on;40
+walks out on;50
 walks to;40
 walks with purpose;60
 walk to;40
