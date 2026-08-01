@@ -53651,7 +53651,7 @@ Madoka;40;"Puella Magi Madoka Magica" heroine
 Madonna;60
 Madonna Mia;50;Song by Al Capone
 Madonnas;40;Depictions of the Virgin Mary
-Madox;40;Ford Madox Ford, author of "The Good Soldier"
+Madox;30;Ford Madox Ford, author of "The Good Soldier"
 Madras;30;Indian fabric
 madrases;30;Indian fabrics
 madre;40
@@ -55991,12 +55991,12 @@ meddled with;40
 meddles with;40
 meddle with;40
 meddling with;40
-Mede;40;Ancient inhabitant of Media
+Mede;20;Ancient inhabitant of Media
 Medea;40
 Medeas;20;2013 movie
 Medeiros;40;Maria de Medeiros, Portuguese actress / Glenn Medeiros, singer
 Medellin;40;Colombian city, properly Medellín
-Medes;40;Ancient Iranian people, paired with the Persians
+Medes;20;Ancient Iranian people, paired with the Persians
 medevac;60
 medevac chopper;60
 medevac choppers;60
@@ -57789,7 +57789,7 @@ Modigliani;40;Italian artist Amedeo Modigliani (1884-1920)
 Modiglianis;40;Works by Amedeo Modigliani
 Modine;40;Matthew Modine, "Full Metal Jacket" actor
 Modjeska;40;Helena Modjeska, Polish stage actress
-Modoc;40;Native American nation of Oregon and California
+Modoc;30;Native American nation of Oregon and California
 Modotti;40;Tina Modotti, photographer
 Modred;30;King Arthur's killer, more popularly spelled Mordred
 Modrich;30;2015 Nobel Prize in Chemistry
@@ -60850,7 +60850,7 @@ nightwear;50
 Nightwing;50;Grown-up Robin's superhero identity
 Nightwish;40;Finnish symphonic metal band
 Nighy;50;Bill Nighy, "Love Actually" actor
-Nigro;40;Dan Nigro, pop producer
+Nigro;30;Dan Nigro, pop producer
 NIH;40
 ni hao;40
 ni hao ma?;30
