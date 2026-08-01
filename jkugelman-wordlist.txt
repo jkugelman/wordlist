@@ -7202,6 +7202,8 @@ backseating;60;Giving unwanted advice in a livestream chat
 backs into;40
 backs into a corner;60
 backslang;60
+back so soon?;50
+back so soon;0
 backspins;40
 back tat;60
 back tats;60
@@ -36679,7 +36681,7 @@ grad school;50
 graduate school;60
 graduation party;50
 Grady;40;Common Irish surname and first name
-Grae;40;Jean Grae, rapper
+Grae;30;Jean Grae, rapper
 Graeber;40;David Graeber, "Bullshit Jobs" anthropologist
 Graecia;40;Magna Graecia, Greek southern Italy
 Graecize;20;Make Greek in form or character
@@ -37790,7 +37792,7 @@ Guns N' Roses;60
 Gunter;40;Günter Grass, "The Tin Drum" author
 Gunther;40;Gunther, "Friends" barista / Gunther Schuller, composer
 gun-totin';50
-Guo;40;Common Chinese surname
+Guo;30;Common Chinese surname
 Guofeng;40;Hua Guofeng, Mao's successor
 Guo Pei;40;Chinese fashion designer (born 1967), one of Time's 100 Most Influential People in 2016
 Gupta;40;Sanjay Gupta
@@ -38342,6 +38344,7 @@ Hamiltonians;40;Followers of Alexander Hamilton
 Hamilton Ti-Cat;50;Hamilton Tiger-Cats, Canadian Football League team
 Hamilton Ti-Cats;50;Hamilton Tiger-Cats, Canadian Football League team
 Hamiltrash;50;Obsessive "Hamilton" fan
+haminados;40;Sephardic Jewish braised eggs
 Hamish;40;Hamish Linklater, actor / Scottish form of James
 Hamite;20
 Hamites;20
@@ -46084,6 +46087,7 @@ JDs;20
 Jean;50;Common given name, as in Billie Jean King
 Jeane;40;Jeane Dixon, psychic / Norma Jeane, Marilyn Monroe's birth name
 Jeanette;40;Jeanette MacDonald, singer and actress
+Jean Grae;40;Rapper
 Jeanine;40;Jeanine Tesori, Broadway composer
 Jeanine Tesori;50
 Jean-Michel Basquiat;50
@@ -50533,6 +50537,8 @@ leaving in;40
 leaving on;40
 leaving on read;60
 leaving right away;30;Green paint
+leaving so soon?;60
+leaving so soon;0
 leaving standing;40
 leaving the flock;60
 leaving to;40
@@ -58080,6 +58086,8 @@ mojo;60
 Mojo Dojo Casa House;60;Ken's house
 Mojo Jojo;60
 Mok;40;Karen Mok, Hong Kong singer and actress
+moka;40;Coffee moka pot
+mokatine;40;Little French coffee cake
 mokatines;40;Little French coffee cakes
 Mol;20
 molcajete;40;Mexican mortar and pestle
@@ -71007,6 +71015,7 @@ pugrees;30;???
 Pugsley;50;Pugsley Addams, Wednesday's brother
 Puig;40;Yasiel Puig, MLB outfielder / Manuel Puig, Argentine novelist
 Pujols;40;Albert Pujols of MLB
+puka;20
 Pulaski;40;Casimir Pulaski, Revolutionary War general
 Pulcinella;50;Commedia dell'arte clown, ancestor of Punch
 pule;40;Whine
@@ -83521,7 +83530,8 @@ Soseki;40;Natsume Soseki, "Kokoro" novelist
 SOSes;40;Distress calls
 so sick;60
 so simple;60
-so soon;50
+so soon?;50
+so soon;0
 so sorry;60
 SOS pad;40
 SOS pads;40
@@ -92263,6 +92273,7 @@ Tom Riddle;60
 Tom Ripley;60
 Tomsk;40;Siberian city
 Tom Sneva;40;Tom Sneva, Indy 500 winner of 1983
+Tom Snyder;50;"The Late Late Show" host in the 1990s
 Tom, the Piper's Son;50;"Tom, Tom, the Piper's Son", English nursery rhyme
 tomtit;40;New Zealand bird
 tomtits;40
@@ -97165,11 +97176,14 @@ waits on;40
 wait your turn;60
 waiver wire;50
 Wajda;40;Andrzej Wajda, Polish film director
+Waka;40;Waka Flocka Flame, rapper
+waka;30;Maori canoe / Japanese poem
 Waka Flocka Flame;60
 Wakaliwood;40;Ugandan action film scene
 Wakanda;60;"Black Panther" nation
 Wakandan;50;Of "Black Panther's" nation
 Wakandans;50;"Black Panther" people
+wakas;30;Maori canoes / Japanese poems
 wake and bake;60
 Wakefield;50;Yorkshire city / "The Vicar of Wakefield"
 Wakeman;50
