@@ -12563,9 +12563,10 @@ broking;40
 Brolin;40;Josh Brolin, actor, or his father James
 brollies;40;Umbrellas: Brit.
 brolly;40;Umbrella: Brit.
-Brom;40;Brom Bones, "Sleepy Hollow" rival
+Brom;30;Brom Bones, "Sleepy Hollow" rival
 bromance;60
 bromances;60
+Brom Bones;50;"Sleepy Hollow" rival
 Bron;40;LeBron James, NBA star's nickname
 bronchi;40;Lung tubes
 Broncho;40;Indie rock band, notable???
@@ -19270,12 +19271,13 @@ Corgan;40;Billy Corgan, Smashing Pumpkins frontman
 Cori;40;Congresswoman Cori Bush
 Corian;30;DuPont countertop material
 Corigliano;40;John Corigliano, "The Red Violin" composer
-Corin;40;Corin Tucker, Sleater-Kinney singer
+Corin;30;Corin Tucker, Sleater-Kinney singer
 Corinna;20
 Corinne;40;???
 Corinth;50;Ancient Greek city
 Corinthian;50;Ornate column order
 Corinthians;50;Pair of Pauline epistles
+Corin Tucker;40;Sleater-Kinney singer
 Coriolanus;50;Shakespeare tragedy
 Coriolis;50;Effect that deflects winds
 Corita;40;Corita Kent, pop-art nun
@@ -27098,6 +27100,7 @@ Elif Batuman;50;American writer and academic (born 1977)
 Elif Shafak;50;Turkish novelist, essayist and women's rights activist (born 1971)
 eligible receiver;60
 eligible receivers;60
+Eli Goree;40;Canadian actor (born 1994)
 Elihu;40;Critic of Job, statesman Elihu Root
 Elihu Root;40;Statesman under McKinley and Teddy Roosevelt
 Elijah;50;Biblical prophet, or a common first name
@@ -28549,7 +28552,10 @@ estated;40
 est'd;40
 este;40
 Esteban;40;Spanish form of Stephen
-Estee;40
+Estée;40
+Estee;0
+Estée Lauder;50
+Estee Lauder;0
 Estefan;50;Gloria Estefan, "Conga" singer
 Estefans;30;Plural name
 Estella;40;Estella Havisham, "Great Expectations" character
@@ -34395,6 +34401,16 @@ geocentrism;50
 geocentrist;50
 geocentrists;50
 GeoCities;50;1990s free web host
+geodesical;50
+geodesic grid;50
+geodesic grids;50
+geodesic line;50
+geodesic lines;50
+geodesist;40
+geodesists;40
+geodesy;40
+geodetic;40
+geodetics;40
 Geodude;50;Rock Pokemon
 geoengineering;60
 Geoff;50;Common first name
@@ -34438,6 +34454,7 @@ George M.;30;1968 musical "George M!" about songwriter George M. Cohan
 George Michael;50
 George Michael Bluth;60;"Arrested Development" character
 Georges;40;Georges Braque, painter / Georges Bizet, composer
+George Soros;50;Billionaire investor and philanthropist
 George Takei;60
 Georgetown;50;D.C. university
 Georgette;40;Georgette Heyer, Regency romance novelist / sheer fabric
@@ -34640,6 +34657,7 @@ get credit;50
 get cute;60
 get dark;30
 get dirt on;50
+get done;50
 get down to brass tacks;60
 get 'em;50
 get emotional;60
@@ -34738,6 +34756,7 @@ gets credit;50
 gets cute;60
 gets dark;30
 gets dirt on;50
+gets done;50
 gets down to brass tacks;60
 gets emotional;60
 gets fat;10
@@ -36463,7 +36482,7 @@ Gordon's;40;Gin brand
 Gord's;30;"Gord's Gold", Gordon Lightfoot compilation
 Gordy;40;Berry Gordy, Motown founder
 Gorecki;40;Henryk Górecki, Polish composer
-Goree;40;Eli Goree, actor / Goree Island, Senegal
+Goree;30;Eli Goree, actor / Goree Island, Senegal
 Goren;40;Bridge writer Charles Goren
 Gorey;40;Edward Gorey, macabre illustrator
 gorged on;40
@@ -36646,6 +36665,7 @@ got spooked;50
 Gott;40;God, in German
 Gotta Catch 'Em All;60
 gottan;30;Japanese plucked instrument
+gotten done;50
 gotten emotional;50
 gottenhomesafe;50
 gotten in;40
@@ -41815,6 +41835,9 @@ howzit;40
 hoy;40
 Hoya;40;Georgetown athlete, or a wax plant
 Hoyas;40;Georgetown athletes
+hoydenish;30
+hoydenism;30
+hoydens;30
 Ho-yeon;40;"Squid Game" actress Jung Ho-yeon
 Hoyle;50;Edmond Hoyle, card-game authority behind "according to Hoyle"
 Hoyt;30;Archery company, folk singer Hoyt Axton (Joy to the World)
@@ -44550,6 +44573,7 @@ in want of;50
 inweave;30
 inweaves;30
 inweaving;30
+in wet cement;20
 INXS;40;Australian rock band (1977–2012)
 Io;40
 Ioannina;40;Greek city in Epirus
@@ -45402,6 +45426,7 @@ it's been a minute;60
 it's been fun;60
 it's classified;60
 it's crazy;60
+it's dope;50
 it's early days;60
 IT service;40
 IT services;40
@@ -54204,6 +54229,7 @@ Mahavishnu;40;Mahavishnu Orchestra, jazz fusion band
 Mahayana;40;Largest branch of Buddhism
 Mahayanist;30;Type of Buddhist
 Mahdi;40;Prophesied redeemer in Islam
+Maher;40;Comedian Bill Maher
 Mahershala;50;Mahershala Ali, two-time Oscar winner
 Mahesh;40;Maharishi Mahesh Yogi, Transcendental Meditation founder
 Mahfouz;40;Naguib Mahfouz, Nobel-winning Egyptian novelist
@@ -58554,6 +58580,7 @@ Monza;40;Italian city with a famous F1 circuit
 moo;50
 moo-cow;60
 MOOCs;40;Massive open online courses
+Moo Deng;60;Viral Thai pygmy hippopotamus (born 2024)
 Moody's;40;Credit rating agency
 Moodysson;40;Lukas Moodysson, Swedish director
 mooer;30
@@ -59251,6 +59278,7 @@ MSU;30
 Mswati;30;King Mswati of Eswatini
 MT;40
 MTA;40
+Mt. Adams;40;Southern Washington stratovolcano
 Mt. Cook;40;Highest peak in New Zealand
 Mt. Dana;40
 Mt. Etna;50;Active volcano on the east coast of Sicily, Italy
@@ -68656,6 +68684,7 @@ Pius VIII;20
 Pius X;20
 Pius XI;20
 Pius XII;20
+Piven;40;Jeremy Piven, actor
 pivot table;50;Excel data visualization option
 pivot tables;50
 pix;40
@@ -69261,7 +69290,7 @@ podcasting;60
 podcasts;60
 Podesta;40
 Podgorica;40;Capital of Montenegro
-podia;40
+podia;50
 pod people;60
 pod person;60
 Podrace;60
@@ -78901,10 +78930,10 @@ seatback tray;50
 seatback trays;50
 seatbelt sign;60
 seatbelt signs;60
-seatedon;40
+seated on;40
 seated twist;50
 seated twists;50
-seatingon;40
+seating on;30
 sea toad;40
 sea toads;40
 seat on;40
@@ -81166,8 +81195,10 @@ sibilation;40
 sic;50
 Sica;40;Vittorio De Sica, Italian neorealist director
 Sicario;40;"Sicario" (2015), or Spanish for hitman
+sicced on;40
 sicced the dog on;50
 sicced the dogs on;50
+siccing on;40
 siccing the dog on;50
 siccing the dogs on;50
 sic 'em;50
@@ -81186,6 +81217,7 @@ sicko;60
 Sicko Mode;60
 sickos;60
 sic on;40
+sics on;40
 sics the dog on;50
 sics the dogs on;50
 sic the dog on;50
@@ -83199,6 +83231,8 @@ Socceroo;50;Australian national soccer player
 Socceroos;50;Australia's national soccer team
 soccer ref;50
 soccer refs;50
+socdem;40;Social democrat
+socdems;40;Social democrats
 Sochi;40
 sochichichi;0
 Sochi, Russia;50
@@ -83714,7 +83748,7 @@ soror;30;Sorority sister
 sororal;40
 sorority pin;50
 sorority pins;50
-Soros;50;George Soros, billionaire investor and philanthropist
+Soros;40;George Soros, billionaire investor and philanthropist
 sorosis;20
 sorrel;50;Herb
 sorrels;40;Herbs
@@ -84299,6 +84333,8 @@ spiced ale;60
 spiced ales;60
 spiced rum;60
 spiced rums;60
+spiced tea;50
+spiced teas;50
 spiced wine;60
 spiced wines;60
 Spice Girl;60
@@ -84308,6 +84344,12 @@ spice rack;60
 spice racks;60
 spice rub;60
 spice rubs;60
+spice tea;50
+spice teas;50
+spice tolerance;60
+spice trader;60
+spice traders;60
+spice trading;50
 spick;10
 spick and span;60
 spicular;30;Needle-like
@@ -84643,6 +84685,7 @@ spot welder;60
 spot welders;60
 spot welding;60
 spot welds;60
+spox;30;Spokesperson
 spr;20
 Sprachgefuhl;50;Sprachgefühl, an intuitive feel for a language
 sprag;30;Chock of wood
@@ -86776,18 +86819,26 @@ sucka;40
 suck an egg;60
 suck at;40
 sucked at;40
+sucked in one's gut;60
 sucked into;50
+sucked on;40
 sucked out;60
 sucked out on;40
 suckiness;60
 sucking at;40
+sucking in one's gut;60
+sucking on;40
 sucking out;50
 sucking out on;40
+suck in one's gut;60
 suckitude;60
+suck on;40
 suck out;60
 suck out on;40
 suckouts;60
 sucks at;40
+sucks in one's gut;60
+sucks on;40
 sucks out;60
 sucks out on;40
 sucks to be you;60
@@ -88702,7 +88753,9 @@ tartlets;50
 tartrate;30;Wine crystal
 tartrates;30
 Tartt;40;Donna Tartt, author of "The Goldfinch"
-Tartu;40;Estonian university city
+Tartu;30;Estonian university city
+Tartu, Estonia;40
+Tartu Estonia;0
 tartufe;20;Hypocrite
 Tartuffe;30;Moliere play
 tartuffes;20;Hypocrites
@@ -89234,6 +89287,7 @@ Tegnér;20
 Tegrin;20;Discontinued shampoo
 Tegucigalpa;50;Honduran capital
 tegument;20;Medical thing
+teh;30;Deliberate misspelling of the
 Tehachapi;40;California city
 Tehachapi Loop;50;California railroad track landmark
 te-hee;30
@@ -90958,6 +91012,7 @@ the Sopwith Camel;30
 the Sox;20
 the Space Race;60
 the Spanish Steps;40
+the spice trade;40
 Thespis;40;Ancient inventor of acting, supposedly
 the splits;30
 Thessalonian;50;Of Thessalonica, as in Paul's epistles
@@ -92894,6 +92949,7 @@ Torontonian;50;Ontario capital native
 Torontonians;50;Ontario capital residents
 Toronto Raptor;50
 Toronto Raptors;50
+toros;40
 torpedo bat;60
 torpedo bats;60
 torpedos;20
@@ -98697,6 +98753,9 @@ Westworld;50;HBO sci-fi western, from the 1973 Crichton film
 wet;50
 wet cell;50
 wet cells;50
+wet cement;50
+wet compress;50
+wet compresses;50
 wet concrete;50
 wet dog;50
 wet/dry vac;50
