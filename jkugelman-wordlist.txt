@@ -230,10 +230,10 @@
 9-volt battery;60
 9-volts;50;Small batteries
 a;50
-A+;40;Grade / Blood type
-A-;40;Grade / Blood type
-A++;40
 A;40
+A-;40;Grade / Blood type
+A+;40;Grade / Blood type
+A++;40
 A24;40;Arthouse film distributor
 A24 Films;50;Arthouse film distributor
 AA;40;Alcoholics Anonymous / Battery size
@@ -330,9 +330,9 @@ aaugh;40;Charlie Brown cry
 AAVE;40;African-American Vernacular English
 A average;50
 A averages;50
-AB+;40;Blood type
-AB-;40;Blood type
 ab;40
+AB-;40;Blood type
+AB+;40;Blood type
 ABA;40;Bar assoc.
 ABAB;30;Rhyme scheme
 Ababa;40;Addis Ababa's second half
@@ -437,8 +437,8 @@ abecedaries;40;Books or inscriptions used to teach the alphabet
 abecedarium;40;Book or inscription used to teach the alphabet
 abecedarius;40;Acrostic poem in which the lines begin with the letters of the alphabet in sequence
 abecedary;40;Book or inscription used to teach the alphabet
-Abed;40;Various people
 abed;40;In bed
+Abed;40;Various people
 Abedin;40;Huma Abedin, longtime Hillary Clinton aide
 Abed Nadir;50;Danny Pudi's character on "Community"
 Abednego;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
@@ -700,8 +700,8 @@ Abyssinian;50;Cat breed, or an Ethiopian of old
 Abyssinians;50;Old-time Ethiopians, or a cat breed
 Abyuja;0;Capital of Nigeria (not Lagos)
 Abzug;30;Bella Abzug, congresswoman and feminist
-AC;40;Alternating current / Air conditioning
 A/C;40;Air conditioning
+AC;40;Alternating current / Air conditioning
 ACA;40
 academic robes;60
 academic year;50
@@ -932,8 +932,8 @@ acne scars;40
 A Complete Unknown;60;Bob Dylan biopic
 Aconcagua;50;Highest peak in the Americas
 a cool mil;60
-A Cool Million;60
 a cool million;60
+A Cool Million;60
 Acosta;40;Jim Acosta, journalist
 a couple;30
 a-courtin';20
@@ -1689,10 +1689,10 @@ afternoon delights;60
 afternoon nap;50
 afternoon naps;50
 after one's own heart;60
-afterparties;60
 after-parties;60
-afterparty;60
+afterparties;60
 after-party;60
+afterparty;60
 afters;30
 Aftersun;40;2022 Charlotte Wells film, or beach lotion
 After the Gold Rush;50;1970 studio album by Neil Young
@@ -3052,8 +3052,8 @@ alternate jurors;60
 alternative cut;20;???
 alternative cuts;20
 alternative metal;60
-Alt+F4;50;Close window keyboard shortcut
 Alt-F4;50;Close window keyboard shortcut
+Alt+F4;50;Close window keyboard shortcut
 alt-folk;50
 Altgeld;40;John Peter Altgeld, reformist Illinois governor
 Althea;40;Althea Gibson, first African American to win a tennis Grand Slam title
@@ -4402,8 +4402,8 @@ anvil block;50
 anvil blocks;50
 anvils;50
 Anwar;40;Anwar Sadat, assassinated Egyptian president
-any%;50;Speedrunning category
 any;50
+any%;50;Speedrunning category
 Anya;40;Anya Taylor-Joy, actress
 Anyang;40;Chinese city, ancient Shang capital
 Anya Seton;40;Historical fiction author Anya Seton (1904-1990)
@@ -6984,9 +6984,9 @@ Azz;40;"Back That Azz Up," Juvenile hit
 Azzedine;40;Azzedine Alaïa, fashion designer
 Azzi;30;Azzi Fudd, WNBA player for the Dallas Wings
 Azzi Fudd;40;WNBA player for the Dallas Wings
-B+;40;Grade / Blood type
-B-;40;Grade / Blood type
 B;40
+B-;40;Grade / Blood type
+B+;40;Grade / Blood type
 BA;40
 baa;40
 baa baa;40
@@ -10765,9 +10765,9 @@ blue-balled;10
 blueballed;10
 blue-balling;10
 blueballing;10
+blue balls;10
 blue-balls;10
 blueballs;10
-blue balls;10
 Bluebeard;50
 Blue Beetle;50;D.C. superhero movie
 bluebells;50
@@ -11128,8 +11128,8 @@ boldly go;60
 bold stroke;50
 bold strokes;50
 bold type;50
-Boléro;50;1928 orchestral composition by Maurice Ravel
 bolero;50
+Boléro;50;1928 orchestral composition by Maurice Ravel
 Boleslaw;40;Bolesław the Brave, first king of Poland
 Bolex;40;Swiss movie camera brand
 Bolexes;40;Swiss movie cameras
@@ -11451,8 +11451,8 @@ booty call;60
 booty called;60
 booty calling;60
 booty calls;60
-Bootylicious;60;2001 single by Destiny's Child
 bootylicious;60;Callipygous or otherwise appealingly voluptuous
+Bootylicious;60;2001 single by Destiny's Child
 booty shorts;60
 Bo Outlaw;30;Unremarkable NBA player
 booyah;60
@@ -12594,8 +12594,8 @@ brown dwarf;60
 brown dwarfs;60
 Browne;40;Jackson Browne, "Running on Empty" singer
 brown gravy;50
-Brown Hornet;50
 brown hornet;50
+Brown Hornet;50
 brown hornets;50
 Brownian;50;Brownian motion, of jittering particles
 brownie mix;60
@@ -13118,8 +13118,8 @@ Burmese python;50
 Burmese pythons;50
 Burna;40;Burna Boy, Nigerian Afrobeats star
 Burnaby;40;British Columbia city
-Burn After Reading;60
 burn after reading;60
+Burn After Reading;60
 burn daylight;60
 Burne;40;Edward Burne-Jones, Pre-Raphaelite painter
 burned daylight;60
@@ -13464,9 +13464,9 @@ Byzantine;50
 Byzantine Empire;50
 Byzantines;50;People of the Eastern Roman Empire
 Byzantium;50;Old name for Constantinople
-C+;40
-C-;40
 C;40
+C-;40
+C+;40
 CA;40
 CAA;20;Talent agency
 Caan;40;Actor James Caan
@@ -20466,19 +20466,19 @@ ctr;30;Center, contractor
 Ctrl;50;Keyboard key, or the SZA album
 Ctrl-A;40
 Ctrl+A;40
-Ctrl+Alt+Del;60;Computer keyboard shortcut that triggers a reboot or system security function
 Ctrl-Alt-Del;60;Computer keyboard shortcut that triggers a reboot or system security function
-Ctrl+Alt+Delete;60;Computer keyboard shortcut that triggers a reboot or system security function
+Ctrl+Alt+Del;60;Computer keyboard shortcut that triggers a reboot or system security function
 Ctrl-Alt-Delete;60;Computer keyboard shortcut that triggers a reboot or system security function
-Ctrl+C;40
+Ctrl+Alt+Delete;60;Computer keyboard shortcut that triggers a reboot or system security function
 Ctrl-C;40
+Ctrl+C;40
 Ctrl-F;40
 Ctrl+F;40
 Ctrl key;50
 Ctrl keys;50
 Ctrl-Left;30
-Ctrl+P;40
 Ctrl-P;40
+Ctrl+P;40
 Ctrl-S;40
 Ctrl+S;40
 Ctrl-V;40
@@ -20931,9 +20931,9 @@ Czechs;50;People of Prague
 Czerny;40;Carl Czerny, composer of piano etudes
 Czeslaw;40;Czesław Miłosz, Nobel-winning Polish poet
 Czolgosz;40;Leon Czolgosz, McKinley's assassin
-D+;40
-D-;40
 D;40
+D-;40
+D+;40
 da;40
 Daae;40;Christine of Phantom
 dab;50
@@ -22168,8 +22168,8 @@ Deftones;40;Alt-metal band
 Defunctland;40;YouTube channel on dead theme park attractions
 defy all odds;60
 defying all odds;60
-Defying Gravity;60;Song from the Broadway musical "Wicked"
 defying gravity;60
+Defying Gravity;60;Song from the Broadway musical "Wicked"
 defying the odds;60
 defy the odds;60
 deg;30;Degree
@@ -22386,8 +22386,8 @@ demesne;40;Land attached to a manor
 demesnes;40
 Demeter;50;Greek harvest goddess
 Demeulemeester;40;Ann Demeulemeester, Belgian fashion designer
-Demi;40;Demi Moore, actress
 demi;40
+Demi;40;Demi Moore, actress
 demi-;40
 demi bra;50
 demi bras;50
@@ -27261,12 +27261,12 @@ EMF;20
 Emhoff;30;Second gentleman Doug (Kamala Harris's husband)
 EMI;40
 emigre;50
-émigré;50
 emigré;50
+émigré;50
 émigrée;30;Variant spelling?
 emigres;50
-émigrés;50
 emigrés;50
+émigrés;50
 Emil;40;1920s actor Emil Jannings, Soviet pianist Emil Gilels
 Emile;40
 Emiles;20;Plural name
@@ -27768,8 +27768,8 @@ ensteeling;30
 ensteels;30
 ensurer;40
 ensurers;40
-ENT;40;Ear, nose, and throat
 Ent;40;Tolkien tree creature
+ENT;40;Ear, nose, and throat
 Entebbe;40;Ugandan city of the 1976 raid
 Entenmann;40;Entenmann's baked goods
 Entenmann's;50;Bakery brand
@@ -27847,8 +27847,8 @@ entry code;50
 entry codes;50
 entry visa;50
 entry visas;50
-ENTs;40;Ear, nose, and throat doctors
 Ents;40;Tolkien tree creatures
+ENTs;40;Ear, nose, and throat doctors
 Entwistle;40;John Entwistle, the Who's bassist
 enuf;30
 enuff;30
@@ -28435,8 +28435,8 @@ Essie;40;Top nail polish brand, actress Essie Davis (decently notable)
 Essman;30;???
 Esso;40;Canadian gas
 Essy;20;Singer
-EST;40;Eastern standard time
 -est;40;Suffix
+EST;40;Eastern standard time
 Est.;40;Estimate
 esta;40
 establishing shot;60
@@ -32700,8 +32700,8 @@ Freleng;40;Friz Freleng, Looney Tunes director
 Fremantle;40;Port city near Perth
 Fremont;40;John C. Frémont, explorer / California city
 Fremulon;40;Michael Schur's production company
-French;50
 french;50
+French;50
 French braid;60
 French braided;60
 French braiding;60
@@ -35765,10 +35765,10 @@ go in circles;60
 going all in;50
 going all out;50
 going antiquing;60
-Going Ape!;50;1981 Tony Danza / Danny DeVito comedy film
 going ape;50
-GOINGAPE!;0
+Going Ape!;50;1981 Tony Danza / Danny DeVito comedy film
 goingape;0
+GOINGAPE!;0
 going ape over;50
 going apeshit for;10
 going apeshit over;10
@@ -36231,8 +36231,8 @@ Goomba;60
 goombah;50
 goombahs;50
 Goombas;60
-goon;50
 go on;50
+goon;50
 go on a date;60
 go on a diet;60
 go on a journey;60
@@ -37779,8 +37779,8 @@ had a couple;60
 had a cow;50
 had a crush on;60
 had a drink;50
-had a goat it;50
 had a go at it;50
+had a goat it;50
 had a heart;60
 had a heart of gold;60
 had a hunch;50
@@ -41021,8 +41021,8 @@ Horner's;20;Eye syndrome
 hornet larva;50
 hornet larvae;50
 hornet larvas;50
-hornets' nest;60
 hornet's nest;60
+hornets' nest;60
 hornets' nests;60
 hornet sting;50
 hornet stings;50
@@ -46172,8 +46172,8 @@ Joaquin;40;Joaquin Phoenix, actor, among others
 Joaquina;40;Joaquina Kalukango, Tony-winning actor
 Joaquin Castro;50;Texas representative since 2013
 Joaquin Phoenix;60
-Job;50;Biblical figure
 job;50
+Job;50;Biblical figure
 job agencies;50
 job agency;50
 job applications;50
@@ -56643,8 +56643,8 @@ mho;20;Conductance unit
 MHz;40
 mi;40
 Mia;50;Various people
-MIA;40;Missing in action
 M.I.A.;40;British singer, rapper, songwriter, record producer, and activist
+MIA;40;Missing in action
 MIA!;0
 Miami;50;Florida city
 Miamian;40
@@ -59413,8 +59413,8 @@ Nairobi;50;Capital of Kenya
 Naismith;40;James Naismith, inventor of basketball (1861–1939)
 Naismith Award;50;Basketball award
 Naismith Awards;50;Basketball awards
-naïve;50
 naive;50
+naïve;50
 naiver;40;It's more naive
 naivest;40;It's most naive
 naivete;50
@@ -61376,8 +61376,8 @@ Norfolk, VA;30
 Norgay;40;Edmund Hillary's sherpa, first to summit Everest
 Norge;40;Norway, in Norwegian
 no rhyme or reason;60
-nori;50;Dried edible seaweed
 nor I;50
+nori;50;Dried edible seaweed
 no right on red;60
 no right turn on red;60
 norite;30;Type of rock
@@ -62275,9 +62275,9 @@ NY Yank;30
 NY Yankee;40
 NY Yankees;40
 Nzinga;40;Queen Nzinga, 17th-century Angolan ruler
-O+;40;Blood type
-O-;40;Blood type
 O;40
+O-;40;Blood type
+O+;40;Blood type
 oaf;50
 Oahu;50;Hawaiian island home to Honolulu
 Oahuan;50
@@ -66153,8 +66153,8 @@ patch testing;60
 patch tests;60
 patch up;50
 patdowndownpat;0
-pâté;50
 pate;50
+pâté;50
 pated;40;Addle-pated?
 Patek;40;Patek Philippe, luxury watchmaker
 Patel;40
@@ -72214,8 +72214,8 @@ Ratbert;30
 Ratboys;40;Chicago indie rock band
 Ratburn;40;Mr. Ratburn, teacher on "Arthur"
 Ratched;50;Nurse Ratched, "One Flew Over the Cuckoo's Nest" villain
-rate a ten;50
 rat-eaten;50
+rate a ten;50
 rated AA;40
 rated a ten;50
 rated TV-G;40
@@ -73954,11 +73954,11 @@ rests upon;40
 rest upon;40
 results suggest;60
 resume;50
-résumé;50
 resumé;50
+résumé;50
 resumes;50
-résumés;50
 resumés;50
+résumés;50
 resveratrol;50
 reswam;20
 reswim;20
@@ -74628,8 +74628,8 @@ right fit;20;Green paint
 right from central casting;60
 right-handed pitcher;50
 right-handed pitchers;50
-Right Hand Man;60;"Hamilton" song
 right hand man;60
+Right Hand Man;60;"Hamilton" song
 right hand men;60
 right-hand side;50
 right hand side;0
@@ -80765,8 +80765,8 @@ signing one's life away;60
 signing onto;40
 sign language;50
 sign of affection;60
-sign-off;50
 sign off;50
+sign-off;50
 sign off on;40
 sign-offs;50
 sign of life;60
@@ -81242,8 +81242,8 @@ Sittin';40;"(Sittin' On) The Dock of the Bay"
 sitting at;40
 sitting by;40
 sitting down with;40
-sittingidle;50
 sitting idle;50
+sittingidle;50
 sitting idly by;60
 sitting in;40
 sitting in for;40
@@ -82684,8 +82684,8 @@ soever;30
 so extra;60
 sofa;50
 sofa bed;60
-sofabed;60
 sofa-bed;60
+sofabed;60
 sofa beds;60
 sofa-beds;60
 sofabeds;60
@@ -82824,8 +82824,8 @@ solate;20;Turn from a gel into a liquid
 solates;20;Turns from a gel into a liquid
 sold a bill of goods;60
 sold as;40
-soldat;40;French soldier
 sold at;40
+soldat;40;French soldier
 sold for;40
 sold freezers to Eskimos;60
 sold ice to Eskimos;60
@@ -89516,8 +89516,8 @@ The Butterfly Effect;60;2004 Ashton Kutcher science fiction thriller
 the cab;20
 the California gold rush;40
 the calm before the storm;60
-the Candyman;50
 the Candy Man;50
+the Candyman;50
 The Capeman;40;Paul Simon musical flop
 the Capitol;40
 The Car;20
@@ -92961,8 +92961,8 @@ Trevino;40;Golfer Lee Trevino
 Trevithick;40;Richard Trevithick, steam locomotive pioneer
 Trevor;50;Common first name
 Trevorrow;40;Colin Trevorrow, "Jurassic World" director
-T. rex;50
 T-Rex;50
+T. rex;50
 T rex;0
 T-Rex arms;60
 T rexes;50
@@ -98149,8 +98149,8 @@ what in blazes;60
 what in tarnation;60
 what in the Sam Hill;60
 what I said was;60
-What Is Art?;50;1898 book by Leo Tolstoy
 what is art?;50
+What Is Art?;50;1898 book by Leo Tolstoy
 what is art;0
 what I say goes;60
 What Is Dead May Never Die;60
