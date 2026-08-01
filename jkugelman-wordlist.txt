@@ -5424,7 +5424,8 @@ arousers;40
 a rousing success;60
 Arozarena;40;Randy Arozarena, MLB outfielder
 Arp;40;Dadaist Jean Arp
-Arpad;40;Arpad Elo, creator of the chess rating system
+Arpad;30;Arpad Elo, creator of the Elo rating system
+Arpad Elo;40;Creator of the Elo rating system
 arpeggio;60;Cool word
 arpeggios;60
 Arpels;20;Van Cleef & ___ jewelry company
@@ -5882,6 +5883,8 @@ asparagus beetle;60
 asparagus beetles;60
 Aspasia;40;Aspasia of Miletus, Pericles' partner
 ASPCA;40
+a-spec;30;Aromantic and asexual spectra
+aspec;30;Aromantic and asexual spectra
 as per;40;As per
 aspera;40
 Asperger;50;Hans Asperger, namesake of the syndrome
@@ -17630,9 +17633,13 @@ cloaca;40
 cloacal;40
 cloche;30;Bell-shaped glass cover, or hat
 cloches;30
+clocked out early;60
 Clockers;40;Richard Price novel and Spike Lee film
+clocking out early;60
 clockmaker;50
 clockmakers;50
+clock out early;60
+clocks out early;60
 clock's ticking;60;"Hurry up!"
 Clockwork Smurf;60
 Clockwork Smurfette;60
@@ -48530,11 +48537,14 @@ knockdown-dragout fights;60
 knocked for a loop;60
 knocked in;40
 knocked it out of the park;60
+knocked off early;60
 knock for a loop;60
 Knockin';40
 knocking for a loop;60
 knocking it out of the park;60
+knocking off early;60
 knock it out of the park;60
+knock off early;60
 knockout;60
 knockout punch;60
 knockout punches;60
@@ -48544,6 +48554,7 @@ knockouts;60
 knocks for a loop;60
 knocks in;40
 knocks it out of the park;60
+knocks off early;60
 knock yourself out;60
 Knope;50;Leslie Knope, "Parks and Recreation" heroine
 Knopf;40;Publishing company Alfred A. Knopf
@@ -48972,6 +48983,8 @@ K-T extinction;40;It killed the dinosaurs
 K-T extinction event;40
 K-Town;40;Koreatown
 kts;20
+K-turn;40;Three-point turn
+K-turns;40;Three-point turns
 Kuala;40;Kuala Lumpur half
 Kuang;40;R.F. Kuang, author of "Babel"
 Kubernetes;50;Container orchestration system
@@ -57180,6 +57193,7 @@ Mike Ehrmantraut;50;Mike Ehrmantraut from "Breaking Bad" / "Better Caul Saul"
 Mike Patton;50
 Mike Portnoy;50
 Mike's;40;Mike's Hard Lemonade, or Jersey Mike's
+Mike Tyson's Punch-Out!!;10
 Mike Wheeler;50;"Stranger Things" kid played by Finn Wolfhard
 Mikey;50;Common nickname / Mikey Madison, Oscar-winning actor
 Mikhail;50;Mikhail Gorbachev, Soviet leader / Mikhail Baryshnikov, dancer
@@ -62054,6 +62068,7 @@ novate;30;Replace with a new contract
 Novato;20;California city
 Novavax;40;COVID vaccine maker
 Novaya;40;Novaya Zemlya, Arctic archipelago
+Novaya Zemlya;40;Archipelago in northern Russia
 Novello;40;Don Novello who played Father Guido Sarducci on SNL, or Welsh actor Ivor Novello
 novelty check;60
 novelty checks;60
@@ -71080,10 +71095,18 @@ punch buggy;60
 punch buggy, no punch-backs;60
 punch card;50
 punch cards;50
+punched out early;60
+punches out early;60
 Punchinello;50;Commedia dell'arte clown
 punching bag;50
+punching out early;60
 punch list;50
 punch lists;50
+punch-out;50;Capable of being punched out, like paper
+Punch-Out!!;50;Nintendo boxing video game series
+punchout;40;Baseball strikeout
+punch out early;60
+punchouts;40;Baseball strikeouts
 Pune;40;Indian city
 Punic;50;As in the Punic Wars
 Punic War;50
@@ -86883,6 +86906,7 @@ superorganisms;60
 superoxide dismutase;50;Class of enzymes
 super PAC;60
 super PACs;60
+Super Punch-Out!!;60;SNES boxing game
 superpurse;0
 super-responder;60
 super-responders;60
@@ -94550,7 +94574,10 @@ Tyrrhenian;40;Sea west of Italy
 tys;20
 TYSM;40
 Tyson;50;Mike Tyson, boxer / Neil deGrasse Tyson, astrophysicist
-Tysons;40;Tyson's Corner
+Tysons;40;Tyson's Corner, Northern Virginia place
+Tysons Corner;50
+Tysons Corner, Virginia;50
+Tysons Corner Virginia;0
 Tyvek;40;Tyvek HomeWrap
 TYVM;30
 Tywin;40;Tywin Lannister from "Game of Thrones"
@@ -101499,7 +101526,7 @@ Zelle;50;Bank-to-bank money transfer app
 Zellweger;50;Renée Zellweger, Oscar-winning actress
 Zelmerlow;40;Måns Zelmerlöw, Eurovision-winning Swedish singer
 Zemeckis;50;Robert Zemeckis, "Back to the Future" director
-Zemlya;40;Novaya Zemlya, Russian Arctic archipelago
+Zemlya;30;Novaya Zemlya, Russian Arctic archipelago
 zemstvo;20
 Zen;50
 zenana;30;Part of a house belonging to a Muslim family in the Indian subcontinent
