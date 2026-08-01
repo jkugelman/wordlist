@@ -4173,6 +4173,7 @@ anorexics;10
 anorthic;30
 años;40
 anosmia;20;Loss of sense of smell
+Another Roadside Attraction;50;1971 novel by Tom Robbins
 Another Saturday Night;60
 another thing;60
 Anouilh;40;Jean Anouilh, French playwright of "Antigone"
@@ -4180,6 +4181,7 @@ Anouk;30;French actress Anouk Aimée of "La Dolce Vita" and "8 1/2"
 Anouk Aimee;50;French actress
 an ounce;20
 Anoushka;40;Anoushka Shankar, sitarist
+ANOVA;30;Analysis of variance
 ANOVAs;40;Statistical variance tests
 Anozie;40;Nonso Anozie, British actor
 Anqing;40;Chinese city
@@ -4473,6 +4475,8 @@ a parade;20
 Aparajito;40;Satyajit Ray film in the Apu Trilogy
 Aparicio;40;Yalitza Aparicio, Best Actress nominee from "Roma" in 2018
 Aparna;40;Aparna Nancherla, comedian, or Aparna Sen, filmmaker
+Aparna Nancherla;40
+Aparna Sen;40
 Apartheid;50;South African segregation regime
 AP Art History;50
 apartotel;20;Apartment hotel
@@ -4513,6 +4517,7 @@ apery;40
 apeshit;10
 ape suit;50
 ape suits;50
+AP Euro;40;AP European History
 ape-woman;50
 ape-women;50
 Apfel;40;Iris Apfel, big-glasses fashion icon
@@ -4776,6 +4781,8 @@ apropos of nothing;60
 APRs;40
 APs;20
 Apsaalooke;40;The Crow Nation's name for itself
+apsara;20
+apsaras;20
 AP score;40
 AP scores;40
 apse;40
@@ -5860,6 +5867,7 @@ Asner;40;Ed Asner
 Aso;30;Japan's largest volcano [rare]
 as of;50
 as often as not;60
+ASOIAF;30;A Song of Ice and Fire
 a solo;20
 asonant;30
 as one;50
@@ -5920,7 +5928,7 @@ Assante;40;Armand Assante, actor
 assassin;50
 assassins;50
 Assassin's Creed;60
-Assata;40;Assata Shakur, Black Liberation Army figure
+Assata;30;Assata Shakur, Black Liberation Army figure
 assault course;50
 assault courses;50
 assaulter;40
@@ -6118,8 +6126,8 @@ Astyanax;40;Hector's doomed son in the "Iliad"
 ASU;20
 a summer;20
 Asuncion;40;Capital of Paraguay
-Asura;40;Demigod of Hindu and Buddhist myth
-Asuras;40;Power-seeking beings of Hindu myth
+Asura;30;Demigod of Hindu and Buddhist myth
+Asuras;30;Power-seeking beings of Hindu myth
 a sure bet;40
 Asus;40;Laptop brand, never used in NYT for some unknown reason
 as useless as a screen door on a submarine;60
@@ -27143,6 +27151,7 @@ Elroy;40;Elroy Jetson, cartoon kid / Elroy "Crazylegs" Hirsch, NFL back
 els;40
 Elsa;40;From "Frozen"
 Elsagate;40;YouTube children's-video scandal
+Elsa Pataky;40
 El Segundo;40
 Elsevier;40;Dutch academic publishing company
 Elsie;40;Actor Elsie Fisher
@@ -39597,7 +39606,7 @@ heists;50
 Heitor;40;Heitor Villa-Lobos, Brazilian composer
 Heizer;40;Michael Heizer, land artist
 hej;40;Swedish "hello", as seen at Ikea
-Hejaz;40;Western region of Saudi Arabia
+Hejaz;30;Western region of Saudi Arabia
 Hejinian;40;Lyn Hejinian, Language poet
 Hejira;20;Joni Mitchell album
 Hekate;40
@@ -40322,8 +40331,10 @@ Hi Hos;20
 Hi How Are You;50
 hi hungry I'm dad;60
 hij;20
+hija;30;Daughter, in Spanish / Arabic poetry
 hijacker;40
 hijackers;40
+hijas;30;Daughters, in Spanish / Arabic poetry
 hijinks ensue;60
 hijklmnop;20
 hijo;40
@@ -42373,6 +42384,7 @@ I couldn't care less;60
 I couldn't possibly;60
 I could take it or leave it;60
 I could use a drink;60
+ICP;20;Insane Clown Posse
 I cried;30;Song title
 I Cry;30;Song title
 ics;20
@@ -42408,10 +42420,10 @@ ideal gas law;50
 idealities;30
 ideality;30
 ideas;50
-ideate;40
-ideated;40
-ideates;40
-ideating;40
+ideate;50
+ideated;50
+ideates;50
+ideating;50
 ideation;50
 ideational;40
 ideative;40
@@ -44887,7 +44899,7 @@ ISP;40
 I s'pose;50
 ISPs;40
 isr;40
-Isra;40;Isra and Mi'raj, Muhammad's Night Journey
+Isra;20;Isra and Mi'raj, Muhammad's Night Journey
 Israel;50;Middle Eastern country
 Israeli;50;From Israel
 Israeli passport;30;Green paint
@@ -45013,7 +45025,8 @@ it ain't me;60
 it ain't over till it's over;60
 it ain't over until;20
 it ain't so;50;Stilted???
-Itaipu;40;Huge Brazil-Paraguay dam
+Itaipu;30;Huge Brazil-Paraguay dam
+Itaipu Dam;40
 I take it back;60
 Italia;40;Italy, to Italians
 Italian;50;Language of Rome
@@ -66428,7 +66441,7 @@ Patagonia;50;South American region / outdoor gear brand
 Patagonian;50;Of Patagonia
 Patagonians;40;South American far southerners
 Patagonian toothfish;50;AKA Chilean sea bass
-Pataky;40;Elsa Pataky, Spanish actress
+Pataky;30;Elsa Pataky, Spanish actress
 Pataliputra;40;Ancient capital of the Mauryan Empire
 patched up;50
 patcher;40
@@ -67666,6 +67679,7 @@ Philip Pirrip;50;AKA Pip, "Great Expectations" narrator
 Philippopolis;40;Ancient name for Plovdiv, Bulgaria
 Philippou;40;Danny and Michael Philippou, "Talk to Me" directors
 Philips;40;Dutch electronics brand / Emo Philips, comedian
+Philip Treacy;40;Irish haute couture hat designer
 Phill;30;Phill Jupitus, British comedian
 Phillie;40;Philadelphia ballplayer, or the Phanatic
 Phillie Phanatic;60
@@ -74125,10 +74139,14 @@ reshows;40
 reshut;20
 reshuts;20
 reshutting;20
+reside at;40
+resided at;40
 resided in;40
 reside in;40
 resider;30
+resides at;40
 resides in;40
+residing at;40
 residing in;40
 residuary;30
 resift;20
@@ -74802,6 +74820,7 @@ rictuses;30
 rid;50
 Rida;40;Flo Rida, rapper
 ridable;30
+ridden at;20
 ridder;40
 ridders;40
 Riddick;40;Vin Diesel sci-fi antihero / Riddick Bowe, boxer
@@ -74812,7 +74831,11 @@ Riddley;40;Riddley Walker, Russell Hoban's postapocalyptic narrator
 ride a broomstick;50
 ride-along;50
 ride-alongs;50
+ride at;20
+ride atop;40
 ride a train;40;Contrived
+ride a treadmill;20
+ride a tricycle;20
 Rideau;20
 ride a wave;50
 ride away;30
@@ -74825,6 +74848,8 @@ ride or die;60
 ride-or-die chick;60
 ride-or-die chicks;60
 rides a broomstick;50
+rides at;20
+rides atop;40
 rides a train;40;Contrived
 rides a wave;50
 rides by;40
@@ -74850,6 +74875,8 @@ ridgy;30
 ridic;50
 Ridin';40;2005 Chamillionaire song
 riding a broomstick;50
+riding at;20
+riding atop;40
 riding a train;40;Contrived
 riding a wave;50
 riding by;40
@@ -75474,6 +75501,8 @@ rodders;40
 Roddick;50;Andy Roddick, US Open winner
 Roddy;40;Actor Roddy McDowall (1928-98), or wrestler "Rowdy" Roddy Piper
 rode a broomstick;50
+rode at;20
+rode atop;40
 rode a train;40;Contrived
 rode a wave;50
 rode away;30
@@ -88557,6 +88586,7 @@ tax holiday;60
 tax ID;30
 taxi dancer;50
 taxi dancers;50
+Taxidea taxus;20;North American badger species
 tax law;50
 tax laws;50
 tax liabilities;50
@@ -93113,7 +93143,7 @@ Trayvon;40;Trayvon Martin, whose 2012 killing galvanized Black Lives Matter
 tre;40;Italian three
 Trea;30;Trea Turner, All-Star shortstop
 Treacher;40
-Treacy;40;Philip Treacy, Irish hat designer
+Treacy;30;Philip Treacy, Irish hat designer
 treaded on;40
 treaded on thin ice;60
 Treader;40;???
