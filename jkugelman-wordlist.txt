@@ -14450,7 +14450,7 @@ capsid;30;Protein shell of a virus
 caps lock;50
 Caps Lock key;50
 caps lock key;0
-Caps Lock keys;50
+Caps Lock keys;40
 caps lock keys;0
 caps lock on;50
 capstan;40;Multi-person rotating wheel on a ship used to haul ropes
@@ -22272,7 +22272,7 @@ delecto;30
 de León;40;Conquistador Juan Ponce de León (3-word last name)
 Delete key;50
 delete key;0
-Delete keys;50
+Delete keys;40
 delete keys;0
 deleter;30
 Deleuze;40;Gilles Deleuze, French philosopher
@@ -27497,7 +27497,7 @@ ending up on top;50
 ending with;40
 End key;50
 end key;0
-End keys;50
+End keys;40
 end keys;0
 endo;40
 endocarp;40;Seed layer
@@ -27796,7 +27796,7 @@ enter into;40
 enteritis;40;Inflammation of the small intestine
 Enter key;50
 enter key;0
-Enter keys;50
+Enter keys;40
 enter keys;0
 enteron;40
 enter one's mind;50
@@ -28268,7 +28268,7 @@ Escape from LA;0
 Escape from New York;60
 Escape key;50
 escape key;0
-Escape keys;50
+Escape keys;40
 escape keys;0
 escape notice;50
 escape punishment;50
@@ -28314,7 +28314,7 @@ Eschers;40;M.C. Escher works
 eschewer;40
 eschewers;40
 Esc key;50
-Esc keys;50
+Esc keys;40
 Escobar;50;Pablo Escobar, Colombian drug lord
 Escobedo;40;Escobedo v. Illinois, Supreme Court case
 Escoffier;30;???
@@ -30902,6 +30902,8 @@ Find my iPhone;60
 finds God;60
 finds it in one's heart;60
 finds lacking;50
+find the key of;20
+find the key to;20
 find time;50
 fine art;60
 fine art dealer;60
@@ -33956,6 +33958,7 @@ gauze pad;50
 gauze pads;50
 gauzes;30
 gauzy;30
+gave a black eye;60
 gave a hand;50
 gave air to;40
 gave a lift;50
@@ -33972,6 +33975,7 @@ gave the brush-off;60
 gave the green light;60
 gave the runaround;60
 gave the silent treatment;60
+gave the stink eye;60
 gave way;50
 gave way to;40
 gave zero fucks;10
@@ -34677,6 +34681,7 @@ gets the ick;60
 gets the nod;50
 gets the sack;50
 gets the scoop;60
+gets the stink eye;60
 gets to;40
 gets to first base;60
 gets to second base;60
@@ -34698,6 +34703,7 @@ get the ick;60
 get the nod;50
 get the sack;50
 get the scoop;60
+get the stink eye;60
 get this;60
 Gettin';40;"Gettin' Jiggy wit It", Will Smith hit
 getting a bum rap;60
@@ -34786,6 +34792,7 @@ getting the ick;60
 getting the nod;50
 getting the sack;50
 getting the scoop;60
+getting the stink eye;60
 getting to;40
 getting to first base;60
 getting to second base;60
@@ -35151,6 +35158,7 @@ Giuliano;40;Salvatore Giuliano, Sicilian bandit / Giuliano de' Medici
 Giulio;40;Italian first name
 Giuseppe;50;Giuseppe Garibaldi, Italian unifier / common Italian name
 Givaudan;40;Swiss flavors and fragrances giant
+give a black eye;60
 give a dog a bone;60
 give a hand;50
 give air to;40
@@ -35176,8 +35184,10 @@ given the brush-off;60
 given the green light;60
 given to;40
 given zero fucks;10
+give one a black eye;20
 give one's best;60
 Giverny;40;French village of Monet's garden
+gives a black eye;60
 gives a hand;50
 gives air to;40
 gives a lift;50
@@ -35194,6 +35204,7 @@ gives the brush-off;60
 gives the green light;60
 gives the runaround;60
 gives the silent treatment;60
+gives the stink eye;60
 gives way;50
 gives way to;40
 gives zero fucks;10
@@ -35201,11 +35212,13 @@ give the brush-off;60
 give the green light;60
 give the runaround;60
 give the silent treatment;60
+give the stink eye;60
 give up, or are you thirsty for more?;60
 give way;50
 give way to;40
 give you one guess;60
 give zero fucks;10
+giving a black eye;60
 giving a hand;50
 giving air to;40
 giving a lift;50
@@ -35222,6 +35235,7 @@ giving the brush-off;60
 giving the green light;60
 giving the runaround;60
 giving the silent treatment;60
+giving the stink eye;60
 GivingTuesday;50;Charitable day after Cyber Monday
 giving way;50
 giving way to;40
@@ -36493,6 +36507,7 @@ got the ick;60
 got the nod;50
 got the sack;50
 got the scoop;60
+got the stink eye;60
 Gotthold;40;Gotthold Lessing, German dramatist
 Gotti;50;John Gotti, Teflon Don mob boss
 got to;40
@@ -36634,6 +36649,8 @@ Grahame;40;Kenneth Grahame, author of "The Wind in the Willows", or Gloria Graha
 Graham flour;50
 Grahams;40;Crackers, or Teddy and Golden snacks
 Grainger;40;Percy Grainger, "Country Gardens" composer
+grain whiskey;50
+grain whiskeys;50
 Grameen;40;Grameen Bank, microfinance pioneer
 Gramercy;40;Gramercy Park, Manhattan neighborhood
 Gramm;40;Phil Gramm, Texas senator / Lou Gramm, Foreigner singer
@@ -39334,6 +39351,7 @@ Hedi Slimane;50;French photographer and fashion designer (born 1968)
 Hedison;30;Actor David Hedison???
 Hedley;40;Hedley Lamarr, "Blazing Saddles" villain / "King Hedley II"
 hedonic treadmill;60
+H E double hockey sticks;60
 Hedren;40;Tippi Hedren, star of "The Birds"
 Hedwig;50;Harry Potter's owl, or "Hedwig and the Angry Inch"
 Hedwig and the Angry Inch;60
@@ -39422,6 +39440,8 @@ held firm;60
 held onto;40
 held responsible;50
 held scoreless;50
+held thekey;50
+held the key to;50
 held to;40
 held vigil;50
 Helen;50;Common first name, or Helen of Troy
@@ -40450,9 +40470,25 @@ hoc;40
 Hoch;40;Hannah Höch, Dada collage artist
 Ho Chi Minh City;60;Saigon
 Hochul;40;Kathy Hochul, New York governor
+hockey dad;50
+hockey dads;50
+hockey fan;50
+hockey fans;50
+hockey goalie;50
+hockey goalies;50
+hockey hair;60
+hockey parent;50
+hockey parents;50
+hockey practice;50
+hockey practices;50
+hockey puck;60
+hockey pucks;60
+hockey stick;60
 hockey team;60
 hockey teams;60
 Hockeytown;50;Detroit's nickname
+hockey uniform;50
+hockey uniforms;50
 Hockney;40;Pop artist David Hockney
 hocus;40;Hocus pocus
 hocusses;20
@@ -40534,6 +40570,8 @@ holding back;50
 holding dear;60
 holding firm;60
 holding onto;40
+holding the key;50
+holding the key to;50
 holding to;40
 holding vigil;50
 hold it a sec;50
@@ -40556,9 +40594,13 @@ holds firm;60
 holds on;50
 holds onto;40
 holds scoreless;50
+holds the key;50
+holds the key to;50
 holds to;40
 holds vigil;50
 hold that thought;60
+hold the key;50
+hold the key to;50
 hold the phone;60
 hold to;40
 hold up;60
@@ -40691,6 +40733,8 @@ Homegoing;40;Yaa Gyasi novel
 home gym;50
 home gyms;50
 home in on;40
+Home key;50
+Home keys;40
 home kitchen;50
 homelab;30
 homelabs;30
@@ -40734,6 +40778,8 @@ Homeric;50;Of Homer, or epic in scale
 homeroom;60
 homerooms;60
 home row;60
+home row key;50
+home row keys;60
 home run trot;60
 home run trots;60
 homeschool;60
@@ -41375,8 +41421,11 @@ how'd it go;60
 how does he do it;60;"What's that man's secret?!"
 how does it feel;60
 how does that even happen;60
+how does that make you feel?;60
+how does that make you feel;0
 how do I delete someone else's comment?;60
 how do I delete someone else's post?;60
+How Do I Make You;50;1980 single by Linda Ronstadt
 how do you like that;60
 how do you like them apples;60
 how'd you miss that?;60
@@ -41975,6 +42024,7 @@ I can't do anything;60
 I can't do anything right;60
 I can't do it;60
 I can't do that;60
+I can't find my keys;50
 I can't go now;60
 I can't go on;60
 I can't imagine why;60
@@ -41985,6 +42035,7 @@ I can't see;60
 I can't stand it;60
 I can't stop;60
 I can't take it;60
+I can't take you anywhere;60
 I can't wait;60
 I can't win;60
 I can't win with you;60
@@ -42046,6 +42097,8 @@ icefish;50
 ice fishing;50
 ice fog;50
 ice fogs;40
+ice hockey arena;60
+ice hockey arenas;60
 ice hotel;60
 ice hotels;60
 ice ice;20
@@ -42439,6 +42492,8 @@ Ignaz;40;Ignaz Semmelweis, handwashing pioneer
 ignes fatui;40
 ignis fatuus;40;Will-o-the-wisp
 ignition;50
+ignition key;50
+ignition keys;50
 ignitions;50
 ignitors;30
 ignorantness;30
@@ -42616,6 +42671,7 @@ Ilich;30;Carlos the Jackal
 Ilie;40;Ilie Nastase, tennis champion
 Ilie Nastase;40;Tennis player Ilie Năstase
 I like you;60
+I like your style;60
 I literally died;60
 ilium;40;Pelvis bone
 Iliza;40;Iliza Shlesinger, comedian
@@ -42708,6 +42764,7 @@ I'll sue the pants off of him;60
 I'll sue the pants off of them;60
 I'll sue the pants off them;60
 I'll take it;60
+I'll take your word for it;60
 I'll tell;60
 I'll tell you no lies;60
 I'll try redialing;20
@@ -42797,6 +42854,7 @@ imamate;40;Office of an imam
 imamates;40;Offices of an imam
 I'm amazed;60
 I'm a mess;50
+I'm a Monkey's Uncle;50;The Three Stooges short
 I'm a monster;60
 I'm a moron;60;Forehead-slapping exclamation
 imams;50
@@ -43398,6 +43456,7 @@ Indians;50;People of India
 Indic;40;Indo-European language branch
 indicant;40
 indicants;40
+indication of musical key;20
 indicator lights;50
 indicator strip;50
 indicator strips;50
@@ -43667,7 +43726,7 @@ ink;50
 Inkatha;20;Right wing political party in South Africa
 inked in;40
 inked up;40
-in key;30
+in key;50
 Inkheart;40;Cornelia Funke fantasy novel
 ink in;40
 inking in;40
@@ -43803,6 +43862,9 @@ insentience;30
 insert coin;60
 inserter;40
 inserters;40
+Insert key;50
+insert key;0
+Insert keys;40
 in shambles;60
 inside fastball;60
 inside fastballs;60
@@ -44003,6 +44065,7 @@ in the middle of nowhere;60
 in the mix;50
 in the nude;60
 in the penalty box;50
+in the pokey;60
 in the rain;30;Green paint, themer from a "Green Eggs and Ham" puzzle
 in the right place at the right time;60
 in the right place at the wrong time;60
@@ -44890,6 +44953,7 @@ it'll cost ya;60
 it'll cost you;60
 it'll cost you nothing;60
 it'll grow on you;60
+it'll make your head spin;60
 it'll pay for itself;60
 it'll pay for itself in no time;60
 it'll turn up;60
@@ -46218,6 +46282,10 @@ Joburg;50;Nickname for Johannesburg, South Africa
 Jocasta;40;Oedipus's mother and wife
 Jocelyn;40;Jocelyn Bell Burnell, pulsar discoverer
 Jochebed;40;Moses' mother in the Bible
+jockeyed for;40
+jockey for;40
+jockeying for;40
+jockeys for;40
 jock jam;60
 Jocko;40;Jocko Willink, Navy SEAL turned author and podcaster
 jockstrap;50
@@ -47322,6 +47390,7 @@ keep at it;50
 Keep Austin Weird;60
 keep close to;40
 keep digging;60
+Keeper of the Keys;50;Charlie Chan mystery novel
 keep from;40
 keep in;40
 keeping after;50
@@ -47609,37 +47678,60 @@ kewl;30
 Kewpie;50;Doll, or the Japanese mayo
 Kewpies;40;Big-eyed dolls
 key;50
+key advantage;50
+key advantages;50
 Key and Peele;60
 KeyBank;40;Cleveland-based bank
 Keybase;40;Encryption and identity app
+keyboard cat;60
 keyboard macro;50
 keyboard macros;50
+keyboard-operated;50
 keyboard players;50
 keyboard shortcut;60
 keyboard shortcuts;60
+keyboard smashed;50
+keyboard smashing;50
 keyboard warrior;60
 keyboard warriors;60
 key change;60
 key changes;60
+key club;50
+key clubs;50
+key concept;50
+key concepts;50
 key decision;50
 key decisions;50
 Keydet;30;VMI athlete
 Keydets;30;VMI athletes
+keyed into;40
 keyed on;30
 Keyes;40;"Flowers for Algernon" author Daniel Keyes
+key factor;50
+key factors;50
 key figure;60
 key figures;60
 key fob;50
 key fobs;50
+keyhole arch;50
+keyhole arches;50
+Keyhole Kate;40;1930s British comic strip series in The Dandy
 keyhole saw;50
 keyhole saws;50
+keying into;40
+key into;40
+key issue;50
+key issues;50
 Key Largo;50
+Key Largo, Florida;50
+Key Largo Florida;0
 keyless;50
 Key lime pie;60
 Keynes;50;John Maynard Keynes, economist
 Keynesian;50;Of the economist's demand-side theory
 Keynesianism;50;Economic school of John Maynard Keynes
 Keynesians;40;Followers of John Maynard Keynes
+key next to page up;0
 key of A;40
 key of B;40
 key of C;40
@@ -47647,22 +47739,39 @@ key of D;40
 key of E;40
 key of F;40
 key of G;40
+key of the city;40
 key on;30
+key on a keyboard;0
 key party;60
 key player;60
 key players;60
 key point;50
 key points;50
+keypuncher;50
+keypunchers;50
+key question;50
+key questions;50
 Keyser;40;Keyser Soze, "The Usual Suspects" phantom
-Keyser Soze;60
+Keyser Soze;60;"The Usual Suspects" phantom
 Keyshia;40;R&B singer Keyshia Cole (early 2000s)
 key signature;50
 key signatures;50
+keys into;40
+keys of the;20
+keys of the city;40
 keys on;30
 Key Stage;20;British school division
 Key Stages;20
+Keystone Kop;50
+Keystone, South Dakota;50
+Keystone State;60
+keys to success;60
+keys to the kingdom;60
+keystroke logger;60
+keystroke loggers;60
 keytar;60
 keytars;60
+key to success;60
 Key West, FL;40
 key witness;50
 key witnesses;50
@@ -88348,6 +88457,8 @@ TDK;20;Cassette maker
 T-dot;40;Nickname for Toronto
 TD pass;50
 TD passes;50
+TD run;40
+TD runs;40
 TDs;40
 tea;50
 Tea Act;50
@@ -89826,6 +89937,7 @@ the Keebler Elves;40
 the Kennedy Center;50
 thekeyofc;0
 the Keystone Kops;40
+The Keystone State;60
 The Kid;50
 The Killer;60;David Fincher / Michael Fassbender movie
 The Kind of Boy You Can't Forget;50;1963 song by The Raindrops
@@ -93669,7 +93781,7 @@ Ture;20
 turfed;30;Laid turf, or kicked out (British)
 Turgenev;40;Russian novelist Ivan Turgenev
 turgor;30;State of turgidity, in botany
-Turin;50;Italian city with a famous shroud
+Turin;40;Italian city with a famous shroud
 Turing;50;Alan Turing, computing pioneer
 Turing test;60
 Turing tests;50
@@ -98303,6 +98415,8 @@ when the shoe fits, wear it;60
 when will you learn;60
 when you get a chance;50
 where;50
+where are my keys?;60
+where are my keys;0
 where did I park;60
 where did we park?;60
 where did you park?;60
