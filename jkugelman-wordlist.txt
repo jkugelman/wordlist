@@ -1343,6 +1343,7 @@ Adrian I;40
 Adrian II;30;Pope
 Adrian III;30
 Adrian IV;30
+Adrian Lyne;40;Director of "Fatal Attraction"
 Adrianne;40;Adrianne Lenker, Big Thief singer-songwriter
 Adriano;40
 Adrianople;40;Old name of Edirne, Turkey
@@ -7866,7 +7867,7 @@ Baptist minister;50
 Baptists;50;Protestant denomination members
 Baquero;40;Ivana Baquero, "Pan's Labyrinth" star
 bar;50
-Bara;40;Theda Bara, silent film vamp
+Bara;30;Theda Bara, silent film vamp
 Barabajagal;40;Donovan song
 Barabbas;40;Prisoner freed instead of Jesus
 Barack;50;Barack Obama, 44th president
@@ -8694,6 +8695,7 @@ beadings;40;Weird plural
 beadle;40;Minor church official
 beadles;40
 bead of sweat;60
+be a doll;60
 beads of sweat;60
 beady eye;50
 beady-eyed;60
@@ -24953,6 +24955,9 @@ drainer;40;Kitchen device
 drainers;40
 drain filter;50
 drain filters;50
+Drake "Drake Maye" Maye;50;Funny nickname given to the Patriots quarterback
+Drake Drake Maye Maye;0
+Drake Maye;40;NFL quarterback
 Drakensberg;50;South Africa's great mountain range
 Drake U;40;???
 Drakkar;40;Drakkar Noir cologne, or a Viking longship
@@ -34587,6 +34592,7 @@ Gesù;20
 Gesualdo;40;Carlo Gesualdo, madrigal composer and murderer
 gesundheit;60
 get;50
+get a bead on;60
 get a bum rap;60
 get a D;20
 get a date;30
@@ -34697,6 +34703,7 @@ get-rich-quick schemes;60
 get right;50
 get roped in;50
 get roped into;40
+gets a bead on;60
 gets a bum rap;60
 gets a date;30
 gets ahead of the curve;60
@@ -34820,6 +34827,7 @@ get the scoop;60
 get the stink eye;60
 get this;60
 Gettin';40;"Gettin' Jiggy wit It", Will Smith hit
+getting a bead on;60
 getting a bum rap;60
 getting a date;30
 getting a hard on;10
@@ -35262,6 +35270,7 @@ gitanos;30
 Gitche;40;Gitche Gumee, Lake Superior in song and verse
 Gitega;40;Capital of Burundi
 git-go;30
+git gud;60
 GitHub;40;Code hosting site
 Gitmo;50;Guantanamo Bay, informally
 GI tract;50
@@ -36511,6 +36520,7 @@ gossip sesh;40;Real phrase?
 go stag;50
 go suck an egg;60
 got;50
+got a bead on;60
 gotabumprap;0
 got a bum rap;60
 got a date;30
@@ -37687,6 +37697,7 @@ Gucci;50;Fashion house, or Gucci Mane, rapper
 Guccio;40;Guccio Gucci, fashion house founder
 Guccione;40;Bob Guccione, Penthouse founder
 Guccis;40;Designer bags
+gud;20
 Gudrun;40;Norse saga heroine
 Guelph;40;Ontario city / medieval Italian papal faction
 Guelphs;20
@@ -50724,7 +50735,7 @@ lecture tour;50
 lecture tours;50
 Lecuona;30;"Jungle Drums" composer Ernesto Lecuona
 led;50
-Leda;50;Swan-visited mother of Helen in Greek myth
+Leda;40;Swan-visited mother of Helen in Greek myth
 Ledbetter;40;Lilly Ledbetter, equal pay advocate
 led by example;60
 LED display;50
@@ -53689,7 +53700,7 @@ Lynda;40
 Lynde;40;Paul Lynde, "Hollywood Squares" center square
 Lyndon;50;Lyndon B. Johnson, 36th president
 Lyndon Johnson;50
-Lyne;40;Adrian Lyne, "Fatal Attraction" director
+Lyne;30;Adrian Lyne, "Fatal Attraction" director
 Lynette;40;Lynette Fromme, Manson follower
 Lyngstad;40;Anni-Frid Lyngstad, ABBA's Frida
 Lynley;30;The Inspector Lynley Mysteries, British detective series
@@ -53731,7 +53742,7 @@ MAACO;40
 Maalox;40;Antacid brand
 ma'ams;40;Weird plural
 Maangchi;40;Korean cooking YouTuber
-Maar;40;Volcanic crater, or Dora Maar, photographer and Picasso muse
+Maar;30;Volcanic crater, or Dora Maar, photographer and Picasso muse
 Maas;40
 Maasai;40;Correct spelling of Masai
 Maastricht;40;City in the Netherlands
@@ -60770,7 +60781,7 @@ network security;60
 net wt;40
 Neu;20
 Neuchatel;40;Neuchâtel, Swiss city and lake
-Neue;40;Helvetica Neue font
+Neue;30;Helvetica Neue font
 Neuman;40;Alfred E. Neuman, Mad magazine mascot
 Neumann;50;John von Neumann, computing and game theory pioneer
 neun;20
@@ -65666,6 +65677,8 @@ PAC;40
 paca;20;Rodent
 pacas;20;Rodents
 Pac Bell;40
+Pac-Dot;40;What Pac-Man eats
+Pac-Dots;40;What Pac-Man eats
 pace car;60
 pace cars;60
 paced off;50
@@ -66898,6 +66911,7 @@ PBR;40;Pabst Blue Ribbon
 PBRs;40;Pabst Blue Ribbons
 PBS;50;Public Broadcasting Service
 PBS Kids;50
+PBUH;20;Initialism of peace be upon him/her, Islamic phrase
 PC;40
 PCB;20
 PC board;30
@@ -71082,7 +71096,7 @@ psywar;50
 psywars;50
 PT;40
 PTA;40
-Ptah;40;Egyptian creator god of Memphis
+Ptah;30;Egyptian creator god of Memphis
 ptarmigan;40;Game bird
 ptarmigans;40
 PTAs;40
@@ -88829,8 +88843,10 @@ Tavernes;40;French commune
 Tavi;40;Tavi Gevinson, "Rookie" founder / Rikki-Tikki-Tavi
 Tavis Smiley;50
 taw;30;Marble, or Tweety Bird word
+tawa;20
 Tawada;40;Yoko Tawada, Japanese-German novelist
 Tawana;20
+tawas;20
 tawdry;50
 Tawfiq;40;Tawfiq al-Hakim, Egyptian playwright
 Tawney;30;Historian R. H. Tawney
@@ -90184,8 +90200,9 @@ the customer is always right;60
 The Cut;40
 The CW;40
 The CW4Kids;50;Saturday morning cartoon block
-Theda;40
-Theda Bara;40;Silent film actress Theda Bara
+the DA;40
+Theda;30;Theda Bara, silent film actress
+Theda Bara;40;Silent film actress
 The Daily Show;60
 the damage is done;60
 The Dance;60;Garth Brooks signature song
@@ -93068,7 +93085,8 @@ Tovah;30
 to varying degrees;50
 Tove;30;Singer ___ Lo
 tow;50
-Towa;40;Towa Bird, guitarist and singer
+Towa;30;Towa Bird, guitarist and singer
+Towa Bird;40;British singer-songwriter (born 1999)
 towed in;40
 tower crane;50
 tower cranes;50
@@ -101689,7 +101707,8 @@ Zagnuts;40;Zagnut candy bars
 Zagora;40;Stara Zagora, Bulgarian city
 Zagreb;50;Capital of Croatia
 Zagros;40;Iranian mountain range
-Zaha;40;Zaha Hadid, groundbreaking architect
+Zaha;30;Zaha Hadid, groundbreaking architect
+Zaha Hadid;40;Iraqi and British architect (1950–2016)
 Zaharias;40;Babe Didrikson Zaharias, all-around athlete
 Zahn;40
 Zaiba;40;???
@@ -101854,7 +101873,7 @@ Zen monk;60
 Zen monks;60
 Zennial;40;Gen Z-millennial cusper
 Zennials;40;Those between Gen Z and the millennials
-Zeno;50;Zeno of Elea, philosopher of the paradoxes
+Zeno;40;Zeno of Elea, philosopher of the paradoxes
 Zenobia;40;Queen of Palmyra
 Zen state;60
 Zen temple;60
