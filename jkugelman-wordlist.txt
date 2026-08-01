@@ -3067,7 +3067,10 @@ Altima;40;Nissan sedan
 Altimas;40;Some Nissans
 Altiplano;50;Andean high plateau
 Alt-J;30;English indie rock band
-alt key;30
+Alt key;50
+alt key;0
+Alt keys;50
+alt keys;0
 Altman;40;Robert Altman, film director / Sam Altman, OpenAI CEO
 Altmanesque;40;Like a Robert Altman film
 alt-metal;50
@@ -14445,6 +14448,10 @@ Capshaw;40;Kate Capshaw, "Temple of Doom" actress
 Capsicum;40;Pepper genus, and the Aussie word for a bell pepper
 capsid;30;Protein shell of a virus
 caps lock;50
+Caps Lock key;50
+caps lock key;0
+Caps Lock keys;50
+caps lock keys;0
 caps lock on;50
 capstan;40;Multi-person rotating wheel on a ship used to haul ropes
 capstans;40
@@ -15840,8 +15847,12 @@ change back into;40
 changed around;50
 changed back;50
 changed back into;40
+changed key;60
+changed keys;60
 changed the channel;60
 changed to;40
+change key;60
+change keys;60
 change of perspective;50
 change of state;50
 change one's mind;50
@@ -15851,6 +15862,8 @@ changesare;0
 changes around;50
 changes back;50
 changes back into;40
+changes key;60
+changes keys;60
 changes of perspective;50
 changes of state;50
 Changesonebowie;40;"ChangesOneBowie," David Bowie compilation
@@ -15862,6 +15875,8 @@ change to;40
 changing around;50
 changing back;50
 changing back into;40
+changing key;60
+changing keys;60
 changing one's mind;50
 changing the channel;60
 changing to;40
@@ -20454,8 +20469,8 @@ Ctrl+C;40
 Ctrl-C;40
 Ctrl-F;40
 Ctrl+F;40
-Ctrl key;40
-Ctrl keys;30
+Ctrl key;50
+Ctrl keys;50
 Ctrl-Left;30
 Ctrl+P;40
 Ctrl-P;40
@@ -47532,6 +47547,8 @@ keyboard shortcut;60
 keyboard shortcuts;60
 keyboard warrior;60
 keyboard warriors;60
+key change;60
+key changes;60
 key decision;50
 key decisions;50
 Keydet;30;VMI athlete
@@ -79901,6 +79918,10 @@ shifting into;40
 shifting sands;60
 shifting the blame;60
 shift into;40
+Shift key;50
+shift key;0
+Shift keys;50
+shift keys;0
 shifts about;40
 shifts down;40
 shifts into;40
@@ -93183,6 +93204,8 @@ tru;40
 truancies;30
 truck driver;50
 truck drivers;50
+truck driver's gear change;60;Sudden key change
+truck driver's gear shift;60;Sudden key change
 Truckee;30;???
 Truckee River;40
 trucker;50
