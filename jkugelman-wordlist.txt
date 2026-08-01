@@ -23491,6 +23491,8 @@ dirs;30
 dirt and worms;60;Chocolate pudding + gummy worms
 dirt clod;50
 dirt clods;50
+dirt nap;60;Death
+dirt nappie;20
 dirt poor;60
 dirt pudding;60;Chocolate pudding + gummy worms
 dirt stain;50
@@ -87787,6 +87789,7 @@ take a cue;40
 take a cue from;50
 take a cut;50
 take a dip;60
+take a dirt nap;60
 take a dislike to;50
 take a dive;50
 take after;50
@@ -87879,6 +87882,7 @@ takes a cue;40
 takes a cue from;50
 takes a cut;50
 takes a dip;60
+takes a dirt nap;60
 takes a dislike to;50
 takes a dive;50
 takes after;50
@@ -87976,6 +87980,7 @@ taking a cue;40
 taking a cue from;50
 taking a cut;50
 taking a dip;60
+taking a dirt nap;60
 taking a dislike to;50
 taking a dive;50
 taking after;50
@@ -92346,6 +92351,7 @@ took a cue;40
 took a cue from;50
 took a cut;50
 took a dip;60
+took a dirt nap;60
 took a dislike to;50
 took a dive;50
 took after;50
