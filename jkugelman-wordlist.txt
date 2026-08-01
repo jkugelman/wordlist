@@ -21325,6 +21325,8 @@ dark breads;50
 dark chocolate;50
 dark data;60;Information collected by a business that they don't end up using
 darkest timeline;60
+darkey;10
+darkeys;10
 dark fantasy;60
 darkish;30
 dark kitchen;60;Virtual restaurant
