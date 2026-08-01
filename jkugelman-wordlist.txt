@@ -24294,6 +24294,8 @@ Domino's Pizza;50
 domino theory;60
 Domitian;40;Roman emperor
 Dommaraju;40;Gukesh Dommaraju, world chess champion
+domme;40;female dominant in a sadomasochistic relationship
+dommes;40;Female dominants in a sadomasochistic relationship
 domo;40
 domo arigato Mr. Roboto;60
 domo arigato Mr Roboto;0
