@@ -11915,7 +11915,7 @@ Braganza;40;Portuguese royal house
 Braganzas;40;Portuguese royal house
 Bragg;40;Trump prosecutor Alvin Bragg
 braggart;60
-Brahe;50;Tycho Brahe, Danish astronomer
+Brahe;40;Tycho Brahe, Danish astronomer
 Brahma;50;Hindu creator god
 Brahmacharya;50;Hindu vow of celibate study
 Brahmagupta;40;Indian mathematician who gave zero its rules
@@ -17344,11 +17344,11 @@ claps to;40
 clap to;40
 claptrap;60
 Clara;50;Common given name / Clara Barton, Red Cross founder
-Clare;50;Given name, or Irish county
+Clare;40;Given name, or Irish county
 Claremont;40;California college town
 Clarence;50;Man's name, as the angel in "It's a Wonderful Life"
 Clarendon;40;Layshia Clarendon, WNBA player / slab serif font
-Clares;40;Poor Clares, Franciscan order of nuns
+Clares;30;Poor Clares, Franciscan order of nuns
 Clarice;50
 Clarice Starling;50
 Clarissa;50;Common first name, as in "Clarissa Explains It All"
@@ -25826,6 +25826,7 @@ DVR;40
 DVRed;40;Recorded for later viewing
 DVRing;40;Recording for later
 DVRs;30
+D-Wade;40
 Dwan;30
 dwarf;50
 dwarves;50
@@ -42188,6 +42189,7 @@ I can't wait;60
 I can't win;60
 I can't win with you;60
 I can wait;60
+I care;40
 icarizonarepubl;0
 iCarly;50
 Icarus;50;Greek myth figure who flew too close to the sun
@@ -94395,6 +94397,7 @@ Ty;40;Ty Cobb, or Ty Burrell
 Tybalt;40;"Romeo and Juliet" hothead
 Tyche;40;Greek goddess of fortune
 Tycho;40;Astronomer Tycho Brahe
+Tycho Brahe;60
 Tyco;40;Legacy Mattel brand
 tyd;20
 Tye;20
