@@ -839,6 +839,7 @@ Achewood;40;Cult webcomic by Chris Onstad
 Achieva;30;'90s Oldsmobile
 Achille;20
 achillea;30
+Achille Lauro;40
 Achilles;50
 Achilles heel;60
 Achilles heels;60
@@ -5619,7 +5620,7 @@ asafoetida;30;Indian spice
 as a gift;40
 as a guide;20
 Asahara;20;Japanese cult leader/terrorist
-Asahd;40;DJ Khaled's son and album namesake
+Asahd;30;DJ Khaled's son and album namesake
 Asahi;40;Japanese beer
 Asahis;40;Japanese beers
 as all get out;60
@@ -28537,6 +28538,7 @@ estoppels;40
 estopping;40
 estops;40
 estos;40
+estoy;40
 Estrada;40
 estradiol;40;Hormone
 Estragon;50;"Waiting for Godot" tramp
@@ -30099,6 +30101,7 @@ Fatha;30;Jazz nickname
 father figure;50
 father figures;50
 father-in-law;50
+Father of Asahd;50;2019 studio album by DJ Khaled
 father of geometry;50
 Father of Our Country;50
 Father's Day card;50
@@ -50105,7 +50108,7 @@ Laurent;40;Yves Saint Laurent, designer, or Melanie Laurent, actor
 Laurentian;40;Of the St. Lawrence region
 Laurie;50;Hugh Laurie, "House" star / common first name
 Laurier;30
-Lauro;40;Achille Lauro, hijacked Italian cruise ship
+Lauro;30;Achille Lauro, hijacked Italian cruise ship
 Lauryn;40;Lauryn Hill, "The Miseducation of" singer
 Lausanne;40;Swiss city
 Lautner;40;Taylor Lautner, "Twilight" actor
@@ -70843,6 +70846,7 @@ prunellas;20
 pruner;40
 pruners;50
 Prunus;30;Fruit tree genus
+Prunus laurocerasus;20;Species of plant
 Prussia;50;Historical German kingdom
 Prussian;50;Like a certain blue, or an old German
 Prussians;50;People of the old German kingdom
