@@ -21712,6 +21712,7 @@ dddddddddd;0
 DDE;30;Eisenhower
 ddeeaall;0
 ddiippppeerr;0
+DDLJ;20;Initialism of Dilwale Dulhania Le Jayenge (a 1995 Hindi film)
 DDoS;40;Distributed denial-of-service attack
 DDoSed;40;Distributed denial-of-service attacked
 DDoSes;40;Distributed denial-of-service attacks
@@ -25255,6 +25256,8 @@ dronish;40
 Drood;40;Dickens's Edwin Drood
 droodle;40;Visual puzzle
 droodles;40
+droog;40;"A Clockwork Orange" slang
+droogs;40;"A Clockwork Orange" slang
 drooled on;40
 drooling on;40
 drool on;40
@@ -33709,6 +33712,7 @@ gangster rap;60
 gangsters;50
 gangs up on;50
 gang up on;50
+ganj;40
 gannet;20;Seabird
 gannets;20;Seabirds
 Gannett;40;Newspaper chain that publishes USA Today
@@ -35204,6 +35208,7 @@ give air to;40
 give a lift;50
 give a piece of one's mind;60
 give a say to;40
+give a wrong idea;20
 give ear;40
 give ear to;40
 give ground;50
@@ -36535,6 +36540,7 @@ Gotta Catch 'Em All;60
 gottan;30;Japanese plucked instrument
 gotten emotional;50
 gotten in;40
+gotten the wrong idea;60
 gotten to the bottom of;60
 Gotterdammerung;50;Götterdämmerung, Wagner's "Ring" finale
 Gottfried;50;Gilbert Gottfried, comedian / Gottfried Leibniz, mathematician
@@ -42640,6 +42646,7 @@ if it ain't broke don't fix it;60
 if it works, it works;60
 if I've said it once;60
 if I've told you once;60
+(If Loving You Is Wrong) I Don't Want to Be Right;60;Much covered 1972 song
 if memory serves;60
 if need be;60
 if only you knew;60
@@ -52040,6 +52047,8 @@ Litvak;40;Anatole Litvak, film director, or a Lithuanian Jew
 Litvaks;40;Lithuanian Jews
 Litvinov;40;Maxim Litvinov, Soviet foreign minister
 Liu;40;Lucy Liu, figure skater Alysa Liu
+Liu Bang;30;Founder and Emperor of Han Dynasty of China from 202 to 195 BC
+Liu Bei;30;Emperor of Shu Han from 221 to 223
 Liudmila;40;Slavic woman's name
 Liukin;40;Gymnast Nastia Liukin, 2008 Olympic all-around champion
 Liu Wen;40;China's first supermodel
@@ -54593,6 +54602,7 @@ Mamet;40;David Mamet, "Glengarry Glen Ross" playwright
 Mamie;40;Mamie Eisenhower, first lady
 Mamie Eisenhower;60
 Mamies;20;Plural name
+Mami Wata;40;African water spirit
 Mamluk;40;Egyptian warrior-slave dynasty member
 Mamluks;40;Egyptian warrior-slave dynasty
 Mammalia;40;Class of mammals
@@ -59768,7 +59778,7 @@ naked puts;50
 naked singularities;60
 naked singularity;60
 nal;20
-Nala;40
+Nala;40;"The Lion King" character
 Naldi;30;Nita Naldi, silent film actress
 Nalgene;40;Water bottle brand
 Nalgenes;40;Sturdy water bottles
@@ -61000,7 +61010,7 @@ nictitating;30
 nictitation;30
 NICU;40
 NICUs;40;Neonatal intensive care units
-Nidre;40;Kol Nidre, Yom Kippur prayer
+Nidre;30;Kol Nidre, Yom Kippur prayer
 nie;20
 Niebuhr;40;Theologian Reinhold Niebuhr, quite notable
 Niecy;40;Actress Niecy Nash, semi-notable
@@ -78719,7 +78729,7 @@ seaweedoralgae;0
 seaweeds;40
 SeaWorld;50
 seay;20
-Seb;40;Nickname for Sebastian
+Seb;30;Nickname for Sebastian
 Sebadoh;40;Lou Barlow's indie rock band
 Sebald;40;W G Sebald, "Austerlitz" author
 Sebastian;50;Common first name
@@ -97538,7 +97548,7 @@ wastewater treatment plants;60
 wasting no time;60
 wastrel;30
 wat;40;Angkor Wat
-Wata;40;Mami Wata, African water spirit
+Wata;30;Mami Wata, African water spirit
 Watanabe;40;Ken Watanabe, Japanese actor
 watch;50
 watchdog group;60
@@ -99999,6 +100009,7 @@ written in the stars;60
 Wrld;40;Juice Wrld, rapper
 Wroclaw;40;Polish city
 wrong answers only;60
+wrong idea;50
 wrong place at the right time;60
 wrong place at the wrong time;60
 wrong place right time;60
@@ -100819,6 +100830,7 @@ Yodaspeak;60
 yo dawg;60
 yodeller;50
 yodellers;50
+yo dog;50
 yo dude;60
 Yoenis;40;Yoenis Céspedes, MLB slugger
 yoga ball;60
