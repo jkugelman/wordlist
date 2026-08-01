@@ -15963,6 +15963,7 @@ charged to;40
 charged up;50
 charge into;40
 charge it;20;???
+charge on what is owned;20
 charger;50
 charges at;40
 charges into;40
@@ -23078,6 +23079,7 @@ did to a tee;40
 did too;40;Playground retort
 did up;50
 did we?;30
+did what was right;60
 did you catch that;60
 did you hear?;60
 did you hear;0
@@ -23982,6 +23984,7 @@ does to a T;40
 does to a tee;40
 does too;40;Playground retort
 does up;50
+does what is right;60
 doeth;40
 doffed one's cap;60
 doffing one's cap;60
@@ -24163,6 +24166,7 @@ doing to;30;Inflicting upon
 doing to a T;40
 doing to a tee;40
 doing up;40
+doing what is right;60
 doing your fair share;50
 doink;30
 do I smell?;60
@@ -24714,6 +24718,8 @@ Dowd;40;Maureen Dowd, Times columnist / Ann Dowd, actress
 dowdy;50
 doweling;30
 dower;30;Law term, see curtesy
+do what is expected;20
+do what is right;60
 do what now?;60
 Dowland;40;John Dowland, Renaissance lute composer
 down and dirty;60
@@ -24770,6 +24776,8 @@ do you mind? I'm eating here;60;"Gross!"
 do you mind? I'm trying to eat;60;"Gross"
 do your fair share;50
 do you see;60
+do you see what I see?;60
+do you see what I see;0
 do you think I'm playing?;60
 do you think it's a game?;60
 do you think this is a game?;60
@@ -42570,6 +42578,7 @@ I know some of these words;60
 I know that's right;60;"Ain't it the truth!"
 I know the score;60
 I know this one;60
+I know what I saw;60
 I know what you mean;60
 I know you;60
 I know you are but what am I;60
@@ -44460,6 +44469,7 @@ is ahead;20
 Isaiah;50;Book of the Bible, or a given name
 I said good day, sir;60
 I said stop;60
+I said what I said;60
 Isak;40;Isak Dinesen, "Out of Africa" author
 Isambard;40;Isambard Kingdom Brunel, Victorian engineer
 Isamu;20
@@ -98138,11 +98148,51 @@ what hogwash;60
 what in blazes;60
 what in tarnation;60
 what in the Sam Hill;60
+what I said was;60
+What Is Art?;50;1898 book by Leo Tolstoy
+what is art?;50
+what is art;0
+what I say goes;60
 What Is Dead May Never Die;60
+what is dead will never die;60;"Game of Thrones" catchphrase
+what is happening?;60
+what is happening;0
 what is he smoking?;60
+what is in the books;20
+what is it?;60
+what is it;0
+What Is It Like to Be a Bat?;50;1974 philosophy paper by Thomas Nagel
+What Is It Like to Be a Bat;0
+what is it now?;60
+what is it now;0
+what is it this time?;60
+what is it this time;0
+what is it with you?;60
+what is it with you;0
+What Is Love;60;1993 song by Haddaway
+what is more;50
+what is owing;20
 what is she smoking?;60
 what is that supposed to mean;60
+what is the holdup?;60
+what is the name of;20
+what is the point?;60
+what is this, a center for ants?;50;"Zoolander" quote
+what is this a center for ants;0
+what is this nonsense?;60
+what is this nonsense;0
 what is this place;60
+what is this shit?;10
+what is this shit;0
+what is this sorcery?;60
+what is this sorcery;0
+what is wrong with you?;60
+what is wrong with you;0
+what is your major malfunction?;60
+what is your major malfunction;0
+what is your point?;60
+what is your problem?;60
+what is your problem;0
 what it is is;20
 what just happened;60
 what me worry;60
@@ -98170,11 +98220,13 @@ what's that;60
 what's that supposed to mean;60
 what's the game plan;60
 what's the good word;60
+what's the holdup?;60
 what's the latest?;60
 what's the magic word;60
 what's the move;60;"So our plan is...?"
 what's the plan;60
-what's the point;60
+what's the point?;60
+what's the point;0
 what's the question?;60
 what's there to get?;60
 what's there to lose?;60
@@ -98191,7 +98243,9 @@ what's with that;60
 what's your beef?;60
 what's your excuse;60
 what's your malfunction?;60
-what's your problem;60
+what's your point?;60
+what's your problem?;60
+what's your problem;0
 what's your question?;60
 whattaappity;0
 Whattaman;40;"Whatta Man," Salt-N-Pepa and En Vogue hit
