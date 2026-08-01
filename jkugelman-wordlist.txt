@@ -25444,6 +25444,7 @@ dry suits;60
 dry texting;60
 Dr Zaius;50
 D's;40;Maccy D's, or bad grades
+DSA;20
 dsc;20
 D scale;30
 D sharp;50
@@ -28525,7 +28526,7 @@ esurient;30;Greedy
 Eswatini;50;African kingdom once called Swaziland
 Eszterhas;40;Joe Eszterhas, "Basic Instinct" screenwriter
 ET;40
-Eta;50;Greek letter Η or η
+eta;50;Greek letter Η or η
 ETA;40;Estimated time of arrival
 étagère;40;Display case
 étagères;40
@@ -88600,6 +88601,7 @@ T-balls;50
 T-bar;40
 T-bars;40
 TBD;40
+TBF;40
 TBH;40
 Tbilisi;30;Capital of Georgia
 Tbilisi Georgia;50
