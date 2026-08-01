@@ -288,6 +288,7 @@ Aamir;30;Indian actor Aamir Khan
 Aamir Khan;50;Indian actor
 aand;20
 aande;30
+A and P;20;Defunct grocery store chain
 aandw;30
 Aang;40;"Avatar: The Last Airbender" protagonist
 AA online;40;Alcoholics Anonymous online
@@ -3790,6 +3791,13 @@ Andorran;40;Pyrenees microstate resident
 Andorrans;40;Pyrenean principality residents
 andosentinelorl;0
 Andover;40;Massachusetts town, home of Phillips Academy
+and pa;20
+and peace from God on high;20
+and pie;20
+and pop;20
+and potatoes;20
+and proud;20
+and proud of it;60
 Andra;30;Singer Andra Day???
 Andrade;40;Rebeca Andrade, Brazilian Olympic gymnast
 Andre;50;Andre Agassi, tennis champion, among others
@@ -3980,6 +3988,7 @@ Anguillan;40;Person from Anguilla
 Anguillans;40;Caribbean island residents
 Angus;50;Cattle breed / Angus Young, AC/DC guitarist
 Anguses;40;Angus cattle, pluralized
+Angus, Thongs and Perfect Snogging;40;2008 film
 anhedonia;50
 Anheuser;40;Anheuser-Busch brewer
 an honest mistake;60
@@ -4710,6 +4719,7 @@ apple pies à la mode;50
 apple press;50
 apple presses;50
 apple pressing;50
+apples and pears;60;Cockney rhyming slang for stairs
 apple slicer;50
 apple slicers;50
 apple soda;50
@@ -6971,7 +6981,9 @@ azimuthal;30
 Azingers;20
 A'zion;30;Odessa Azion, actress in "Marty Supreme"
 Aziz;40;Aziz Ansari, comedian
+AZN;20
 Aznavour;40;Charles Aznavour, French chanson singer
+AZN pride;40;Asian pride
 azo;30;Kind of dye [occasional]
 azo dye;30
 azo dyes;30
@@ -24468,6 +24480,7 @@ don't try it;60
 don't try me;60
 don't wait up;60
 don't wait up for us;50
+don't wake me up;50
 don't worry about it;60
 don't worry I can take it;60
 don't worry I'm a trained professional;60
@@ -28777,6 +28790,8 @@ Eugenes;30
 Eugene T. Maleska;60;New York Times crossword editor, Will Shortz's predecessor
 Eugene T Maleska;0
 Eugene Victor Debs;50;American labor and political leader (1855–1926)
+Eugène Ysaÿe;40;Belgian violinist and composer (1858–1931)
+Eugene Ysaye;0
 Eugenia;40;Feminine name, or a myrtle genus
 eugenia uniflora;20;Species of flowering plant in the myrtle family
 eugenic;10
@@ -36243,17 +36258,23 @@ goofball;60
 goofballs;60
 goofed around;50
 goofed on;50
+goofed up;50
 go off-kilter;50
 go offline;50
 go off without a hitch;60
 goofiness;50
 goofing around;50
 goofing on;50
+goofing up;50
 goof off;60
 goof-offs;60
 goof on;50
 goofs around;50
 goofs on;50
+goofs up;50
+goof up;50
+goof-up;50
+goof-ups;50
 Goofus;50;Goofus and Gallant, "Highlights" comic pair
 Googie;50;Space-age 1950s architectural style
 Google Ads;60
@@ -36483,6 +36504,7 @@ Gothenburg;50;Sweden's second-largest city
 Gothic;50;Architectural style, or "American ___"
 Gothic art;60
 Gothic horror;60
+got him;50
 got hitched;60
 got icked out;60
 got icked out by;50
@@ -37922,6 +37944,7 @@ gyrfalcon;30
 gyrfalcons;30
 gyri;30;Ridges on the cerebral cortex of the brain
 gyrus;30;Ridge on the cerebral cortex of the brain
+GZA;40;Founding member of the Wu-Tang Clan
 H;40
 ha;50
 Haag;40;Den Haag, Dutch name for The Hague
@@ -38396,6 +38419,8 @@ hamstring injuries;50
 hamstring injury;50
 Hamtaro;40;Anime hamster
 Hamtramck;50;Michigan city inside Detroit
+hamza;30;Mark used in Arabic-based orthographies
+hamzas;30;Marks used in Arabic-based orthographies
 Han;50
 Hana;30;Hana Mandlíková, 1980s tennis champion
 Hana Mandlikova;40;Hana Mandlíková, #3 women's tennis player in the '80s
@@ -38585,7 +38610,8 @@ Hanyu;40;Figure skater Yuzuru Hanyu
 hao;30;Ni hao
 haole;20;Non-native Hawaiian
 haoles;20;Non-native Hawaiians
-Hap;50
+hap;40
+Hap;40
 hapa;40;Mixed-race Hawaiian
 Hapag;40;Hapag-Lloyd, German shipping line
 hapax;20;Hapax legomenon
@@ -38593,12 +38619,14 @@ ha'pennies;40
 ha'penny;40
 haploid;30;Like sex cells
 ha'p'orth;20;Ha'p'orth, halfpennyworth
+happed;40
 happened on;50
 happened upon;50
 happening upon;50
 happens upon;50
 happen upon;50
 happily ever after;60
+happing;40
 happy baby pose;60;Yoga asana that involves lying on the back and grasping your feet, so-called for its resemblance to a baby finding their feet
 happy ever aftering;20
 happy Father's Day;60
@@ -38608,7 +38636,7 @@ happy juice;60
 happy little trees;60
 happy Mother's Day;60
 Happyness;40;"The Pursuit of Happyness" film
-haps;30
+haps;40
 Hapsburg;40;European royal house, aka Habsburg
 Hapsburgs;40;European royal dynasty, aka the Habsburgs
 har;40
@@ -40614,6 +40642,7 @@ Hittite;30;Ancient Turkish empire
 Hittites;30
 hit to;30
 HIV;40
+Hive BC;30;Basketball team in Miami, Florida
 HIV-positive;40
 hi-yo;40
 hm;50
@@ -40968,6 +40997,8 @@ homepage hijack;60;Type of attack
 homepage hijacker;60
 homepage hijackers;60
 homepage hijacking;60
+home PC;50
+home PCs;50
 home perm;50
 home permanent;50
 home permanents;50
@@ -41680,6 +41711,7 @@ how the turntables;60
 How to Be an Antiracist;60
 how was it;50
 how weird;60
+howzit;40
 hoy;40
 Hoya;40;Georgetown athlete, or a wax plant
 Hoyas;40;Georgetown athletes
@@ -49233,6 +49265,7 @@ Lacanianism;40;Jacques Lacan's school of psychoanalysis
 Lacanians;40;Followers of psychoanalyst Jacques Lacan
 lacarte;0
 la casa;40
+La Cava;40
 Laccadive;40;Indian Ocean island group
 lace;50
 laced;50
@@ -50707,6 +50740,9 @@ leg curl;50
 leg curls;50
 leg day;60
 leg days;60
+Legend of Zelda;60
+Legend of Zenda;0
+Legend of Zorro;50;2005 film, with "The"
 Legendre;40;Adrien-Marie Legendre, mathematician
 Leger;30;Fernand Léger, cubist painter
 legerdemain;50
@@ -60246,6 +60282,7 @@ Ndegeocello;50;Meshell Ndegeocello, bassist and singer
 N'Diaye;40;Marie NDiaye, French novelist
 N'Djamena;40;N'Djamena, capital of Chad
 N'Dour;40;Youssou N'Dour, Senegalese singer
+NDP;20
 NE;40
 NEA;40
 Neal;40
@@ -65565,6 +65602,8 @@ PACs;50;Campaign finance groups
 PacSun;40;Clothing brand
 Pac-Ten;20;Defunct athletic conference, now it's 12
 Pacuła;30;Model/actress Joanna Pacuła
+pączek;30;Polish filled doughnut
+pączki;30;Polish filled doughnuts
 pad;50
 Padalecki;40;Jared Padalecki, "Supernatural" star
 Padam;20
@@ -65699,6 +65738,7 @@ pájaros;20
 Pajitnov;40;Alexey Pajitnov, creator of Tetris
 Pak;40
 Pakeezah;40;Classic Bollywood film (1972)
+pākehā;30;Māori term for non-Māori or White New Zealanders
 Pakistan;50;South Asian country
 Pakistani;50;Of Pakistan
 Pakistanis;50;Karachi residents, e.g.
@@ -67753,6 +67793,7 @@ pH indicators;50
 Phineas;50;"Phineas and Ferb," or Phineas Gage
 Phineas Flynn;50;From "Phineas and Ferb"
 Phiona;40;Phiona Mutesi, "Queen of Katwe" chess prodigy
+Phiona Mutesi;40;Ugandan chess player (born 1996)
 Phipps;30;Business partner of Andrew Carnegie
 phishing scam;60
 phishing scams;60
@@ -67850,6 +67891,7 @@ Photoshopping;50
 photoshopping out;60
 Photoshops;50
 photoshops out;60
+PHP;30
 phr;20
 phreak;50
 phreaked;50
@@ -72753,8 +72795,10 @@ Razumovsky;40;Beethoven's Razumovsky Quartets
 razz;60
 razzed;60
 razzes;60
-Razzie;50;Award for the year's worst movies
-Razzies;50;Awards for the year's worst films
+Razzie;60;Award for the year's worst films
+Razzie Award;60;Award for the year's worst films
+Razzie Awards;60;Awards for the year's worst films
+Razzies;60;Awards for the year's worst films
 razzing;60
 razzle;50
 razzmatazz;60
@@ -75043,6 +75087,8 @@ Rih;20;Rihanna nickname, never used in NYT
 Rihanna;60
 Riis;20;Muckraking 1800s journalist Jacob
 Rijeka;40;Croatian port city
+Rijeka, Croatia;40
+Rijeka Croatia;0
 Rijksmuseum;50;Amsterdam art museum
 Rijn;40;Rembrandt van Rijn, Dutch master
 Rik;20
@@ -77867,6 +77913,7 @@ Sawatch;40;Colorado mountain range
 Sawayama;40;Rina Sawayama, British Japanese pop singer
 saw dollar signs;60
 Sawe;40;Sebastian Sawe, First person to run a sub-two-hour marathon in 2026
+sawed up;40
 Saweetie;40
 saw eye to eye;60
 saw eye to eye with;50
@@ -77876,17 +77923,20 @@ sawfly;30
 sawhorse;50
 sawhorses;50
 saw in;40
+sawing up;40
 saw into;30
 saw land;50
 sawmill;50
 sawmills;50
 sawn;30
+sawn up;40
 saw over;30
 saw reason;50
 saw sense;60
 saw set;30
 saw sets;30
 saw stars;50
+saws up;40
 saw things;50
 saw to;40
 saw up;40
@@ -79972,6 +80022,7 @@ Shaivists;40;Worshippers of Shiva
 shaka;40
 shakeglasstooth;0
 shake it off;60;Taylor Swift song
+Shake Me, Wake Me (When It's Over);50;1966 single by Four Tops
 shaken not stirred;60
 shake on;40
 Shakermaker;40;Oasis song
@@ -80170,6 +80221,8 @@ Shawshank;50;Prison of the Stephen King redemption story
 Shawwal;40;Islamic month after Ramadan
 shay;40;Carriage
 Shayk;40;Irina Shayk, model
+shayla;40;Islamic headcovering
+shaylas;40;Islamic headcoverings
 Shayne;40
 shays;40
 Shazamed;40;Identified a song by app
@@ -80442,7 +80495,9 @@ shipping to;40
 ship's prow;50
 ships to;40
 ship to;40
-Shiraz;50;Iranian city, or red wine grape
+Shiraz;40;Iranian city, or red wine grape
+Shiraz, Iran;50
+Shiraz Iran;0
 Shirelle;40;???
 Shirelles;40;"Will You Love Me Tomorrow" girl group
 Shirer;40;William Shirer, author of "The Rise and Fall of the Third Reich"
@@ -87595,6 +87650,7 @@ Szeged;40;Hungarian city
 Szell;40;George Szell, Cleveland Orchestra conductor
 Szentkuthy;40;Miklós Szentkuthy, Hungarian novelist
 Szilard;40;Leo Szilard, physicist behind the nuclear chain reaction
+szn;20;Season, in texts
 Szymanowski;40;Karol Szymanowski, Polish composer
 Szymborska;40;Wisława Szymborska, Nobel-winning Polish poet
 Szyslak;50;Moe Szyslak on "The Simpsons"
@@ -88653,6 +88709,8 @@ taxman;50
 Taxol;30;Chemotherapy drug
 taxon;40;Kingdom, phylum, etc.
 taxpayer dollars;60
+tax pro;50
+tax pros;50
 tax revenue;50
 tax revenues;50
 tax scam;50
@@ -88835,6 +88893,7 @@ Tears for Fears;60
 tears into;40
 tears of joy emoji;60
 tears of joy emojis;60
+Tears of the Kingdom;60
 tear strip;50
 tear strips;50
 tear to pieces;60
@@ -90244,6 +90303,43 @@ the lead;20
 the left;30
 The Leftorium;60;Ned Flanders's left-handed store
 The Legend of Billie Jean;50;1985 drama film by Matthew Robbins
+The Legend of Zelda;60
+The Legend of Zelda: A Link Between Worlds;60
+The Legend of Zelda A Link Between Worlds;0
+The Legend of Zelda: A Link to the Past;60
+The Legend of Zelda A Link to the Past;0
+The Legend of Zelda: Breath of the Wild;60
+The Legend of Zelda Breath of the Wild;0
+The Legend of Zelda: Four Swords;60
+The Legend of Zelda: Four Swords Adventures;60
+The Legend of Zelda Four Swords Adventures;0
+The Legend of Zelda: Link's Awakening;60
+The Legend of Zelda Link's Awakening;0
+The Legend of Zelda: Majora's Mask;60
+The Legend of Zelda Majora's Mask;0
+The Legend of Zelda: Ocarina of Time;60
+The Legend of Zelda Ocarina of Time;0
+The Legend of Zelda: Oracle of Ages;60
+The Legend of Zelda Oracle of Ages;0
+The Legend of Zelda: Oracle of Seasons;60
+The Legend of Zelda Oracle of Seasons;0
+The Legend of Zelda: Phantom Hourglass;60
+The Legend of Zelda Phantom Hourglass;0
+The Legend of Zelda: Skyward Sword;60
+The Legend of Zelda Skyward Sword;0
+The Legend of Zelda: Spirit Tracks;60
+The Legend of Zelda Spirit Tracks;0
+The Legend of Zelda: Tears of the Kingdom;60
+The Legend of Zelda Tears of the Kingdom;0
+The Legend of Zelda: The Minish Cap;60
+The Legend of Zelda The Minish Cap;0
+The Legend of Zelda: The Wind Waker;60
+The Legend of Zelda The Wind Waker;0
+The Legend of Zelda: Tri Force Heroes;60
+The Legend of Zelda Tri Force Heroes;0
+The Legend of Zelda: Twilight Princess;60
+The Legend of Zelda Twilight Princess;0
+The Legend of Zorro;50;2005 film
 The Lego Movie;60
 the Leonids;40
 The Less I Know the Better;60
@@ -90530,6 +90626,7 @@ therapy sessions;50
 the rat race;20
 Theravada;40;Branch of Buddhism
 The Ray Charles Singers;50;Group that accompanied Perry Como on TV for 35 years
+The Razzies;60;Awards for the year's worst films
 there;50
 thereal;0
 The Real Housewives;60
@@ -93283,6 +93380,7 @@ tree topper;50
 tree toppers;50
 treinta;40
 Treisman;40;Deborah Treisman, New Yorker fiction editor / Anne Treisman, psychologist
+treize;30;Thirteen in French
 Trejo;40;Danny Trejo, "Machete" actor
 Trekker;40;"Star Trek" fan
 Trekkers;50;"Star Trek" fans
@@ -95116,6 +95214,7 @@ unit rule;40
 unit test;30
 unit tests;30
 univ;40
+UNIVAC;40;Universal Automatic Computer
 universal design;60;The process of creating products to be accessible to as many people as possible
 Universal Uclick;30
 Universite;40;University, in French
@@ -97184,6 +97283,7 @@ Waka;40;Waka Flocka Flame, rapper
 waka;30;Maori canoe / Japanese poem
 Waka Flocka Flame;60
 Wakaliwood;40;Ugandan action film scene
+wakame;40;Species of seaweed
 Wakanda;60;"Black Panther" nation
 Wakandan;50;Of "Black Panther's" nation
 Wakandans;50;"Black Panther" people
@@ -97191,6 +97291,8 @@ wakas;30;Maori canoes / Japanese poems
 wake and bake;60
 Wakefield;50;Yorkshire city / "The Vicar of Wakefield"
 Wakeman;50
+wake me;40
+Wake Me Up Before You Go-Go;60
 waken;30
 wakened;30
 wakener;30
@@ -97199,6 +97301,7 @@ wakening;30
 wakenings;30
 wakens;30
 Waker;40;"The Legend of Zelda: The Wind Waker"
+wakers;40
 wakes the dead;60
 wake the dead;60
 wake-up call;60
@@ -99961,7 +100064,7 @@ wound to a close;60
 wove in;40
 wove into;40
 woven fabric;50
-Wovoka;40;Paiute prophet who founded the Ghost Dance
+Wovoka;30;Paiute prophet who founded the Ghost Dance
 wow;50
 wowed 'em;50
 Wowee;40;Exclamation of amazement
@@ -101283,7 +101386,7 @@ Ypsilanti;60;Cool name
 Yreka;20;California town with a palindromic bakery
 yrs;40
 Y's;40;Letter plurals
-Ysaye;40;Eugène Ysaÿe, Belgian violinist and composer
+Ysaye;30;Eugène Ysaÿe, Belgian violinist and composer
 Yser;40;Yser River, WWI battle site in Belgium
 Y shape;30
 Y-shaped;30
