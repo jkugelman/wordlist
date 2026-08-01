@@ -37227,16 +37227,164 @@ ground ovens;60
 ground score;60;Something that fell out of someone's pocket, say at a carnival
 ground scores;60
 groundsel;30;Flower
+Ground Zero Mosque;50;Park51, proposed Islamic community center in Manhattan, New York
+grouon;0
+group 1;40
+group 10;40
+group 10 element;40
+group 10 elements;40
+group 11;40
+group 11 element;40
+group 11 elements;40
+group 12;40
+group 12 element;40
+group 12 elements;40
+group 13;40
+group 13 element;40
+group 13 elements;40
+group 14;40
+group 14 element;40
+group 14 elements;40
+group 15;40
+group 15 element;40
+group 15 elements;40
+group 16;40
+group 16 element;40
+group 16 elements;40
+group 17;40
+group 17 element;40
+group 17 elements;40
+group 18;40
+group 18 element;40
+group 18 elements;40
+group 1 element;40
+group 1 elements;40
+group 2;40
+group 2 element;40
+group 2 elements;40
+group 3;40
+group 3 element;40
+group 3 elements;40
+group 4;40
+group 4 element;40
+group 4 elements;40
+group 5;40
+group 5 element;40
+group 5 elements;40
+group 6;40
+group 6 element;40
+group 6 elements;40
+group 7;40
+group 7 element;40
+group 7 elements;40
+group 8;40
+group 8 element;40
+group 8 elements;40
+group 9;40
+group 9 element;40
+group 9 elements;40
+group Amentiferae;20
+group Centrospermae;20
 group chat;60
 group chats;60
+group class;50
+group classes;50
+group deal;50
+group deals;50
+group eight;40
+group eighteen;40
+group eighteen element;40
+group eighteen elements;40
+group eight element;40
+group eight elements;40
+group eleven;40
+group eleven element;40
+group eleven elements;40
+group excursion;50
+group excursions;50
+group fifteen;40
+group fifteen element;40
+group fifteen elements;40
+group five;40
+group five element;40
+group five elements;40
+group four;40
+group four element;40
+group four elements;40
+group fourteen;40
+group fourteen element;40
+group fourteen elements;40
+group health plan;50
+group health plans;50
+group insurance;50
+group interview;50
+group interviews;50
 Grouplove;40;Indie rock band
-group nine element;20
-group nine elements;20
+group medical insurance;50
+group mentality;50
+group nine;40
+group nine element;40
+group nine elements;40
+group of chemical elements;20
+Group of Eight;50;G8, intergovernmental political forum (1997–2014)
 Groupon;50;Daily deals site
-Groupons;40;Discount deal vouchers
+group one;40
+group one element;40
+group one elements;40
+Groupons;50;Discount deal vouchers
+group other than principals;0
+group participation;50
+group pic;50
+group pics;50
+group pressure;50
+group providing support to members;0
+group psychology;60
+group Pteridospermae;20
+group Pteridospermaphyta;20
+group pursuing an interest or issue;0
+group pushing an issue;0
+group seven;40
+group seven element;40
+group seven elements;40
+group seventeen;40
+group seventeen element;40
+group seventeen elements;40
 group shot;60
 group shots;60
-group text;50
+group six;40
+group six element;40
+group six elements;40
+group sixteen;40
+group sixteen element;40
+group sixteen elements;40
+groups of six;20
+group spirit;40
+group telephone meeting;20
+group ten;40
+group ten element;40
+group ten elements;40
+group text;60
+group texts;60
+group therapy;60
+group therapy session;60
+group therapy sessions;60
+group thirteen;40
+group thirteen element;40
+group thirteen elements;40
+group three;40
+group three element;40
+group three elements;40
+group twelve;40
+group twelve element;40
+group twelve elements;40
+group two;40
+group two element;40
+group two elements;40
+group with one cause or activity;0
+grouse about;40
+groused about;40
+grouses about;40
+grousing about;40
 Grover;50;Grover Cleveland, president / Sesame Street monster
 Grovers;40;Grover's Corner, "Our Town" setting
 grow dim;30;Green paint
