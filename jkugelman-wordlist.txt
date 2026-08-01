@@ -37780,7 +37780,6 @@ had a cow;50
 had a crush on;60
 had a drink;50
 had a go at it;50
-had a goat it;50
 had a heart;60
 had a heart of gold;60
 had a hunch;50
