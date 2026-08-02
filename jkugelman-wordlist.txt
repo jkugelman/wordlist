@@ -391,6 +391,7 @@ abbacies;40
 abbacy;40
 Abbado;40;Claudio Abbado, Italian conductor
 Abbas;40;Arafat's successor
+ABBA's hit single;0
 Abbasid;40;Medieval Islamic caliphate
 Abbasids;40;Baghdad-based caliphal dynasty
 Abbass;40;Hiam Abbass, "Succession" actress
@@ -5683,6 +5684,7 @@ asana;40;Yoga position
 asanas;30
 Asante;40;Ghanaian empire and people, also "thanks" in Swahili
 ASAP;40
+as a pig in shit;10
 as a rail;30
 as a rule;50
 as a set;40
@@ -5777,6 +5779,7 @@ Ashikaga;40;Period in Japanese history (1336-1573)
 Ashikaga era;40
 Ashikaga period;40;Period in Japanese history (1336-1573)
 a shipboard;40
+a shit;10
 Ashkelon;40;Ancient Philistine and modern Israeli city
 Ashkenaz;40;Biblical figure behind "Ashkenazi"
 Ashkenazi;50;Of Central and Eastern European Jewry
@@ -6021,6 +6024,7 @@ assez;20;Enough: Fr.
 ass-first;10
 asshat;60
 asshats;60
+as shit;10
 Assholes Finish First;10;2010 book by Tucker Max
 assibilate;40
 assibilated;40
@@ -8473,6 +8477,7 @@ Batropes;40;Batman's climbing lines
 bats an eyelash;60
 bats a thousand;60
 bats cleanup;60
+batshit crazy;10
 bats in;40
 bats next;50
 bats one's eyes;60
@@ -8494,6 +8499,7 @@ batters;50
 Battersea;40;London district with the landmark power station
 Battersea Park;60
 Battersea Power Station;60
+batter's hitting average;20
 battery;50
 battery charge;50
 battery life;50
@@ -8839,6 +8845,7 @@ beating the crowd;60
 Beatle;50;John, Paul, George, or Ringo
 Beatlemania;50;Fab Four frenzy
 Beatles;50;The Fab Four
+Beatles hits;20
 Beatles song;20
 Beatles songs;20
 beatnik;60
@@ -9637,6 +9644,7 @@ bestir;50
 bestirred;50
 bestirring;50
 bestirs;50
+Best Little Whorehouse in Texas;60
 best man;60
 best of both worlds;60
 best of five;60
@@ -10211,6 +10219,7 @@ BIPOC;40;Acronym for black, indigenous, and other people of color
 Birbiglia;40;Mike Birbiglia, comedian
 bird app;20
 Birdemic;40;Notoriously bad 2010 horror film
+birdhouse in your;0
 bird in hand;20
 Birdland;50;???
 Birdman;50
@@ -10308,6 +10317,7 @@ bit;50
 bit at;40
 bit cell;50
 bit cells;50
+Bitches Ain't Shit;10;1992 song by Dr. Dre
 Bitdefender;40;Antivirus software maker
 bit down;50
 bite at;40
@@ -12099,6 +12109,8 @@ Brasiliense;40;Of Brasília
 Brassai;40;Brassaï, Hungarian-French night photographer
 brassard;40;Decorative armband
 brassards;40
+brass hit;50
+brass hits;50
 Brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
 Brassica rapa;20;Species of flowering plant
 Brassica rapa chinensis;20;Bok choy
@@ -12347,6 +12359,7 @@ brick oven pizzas;50
 brick ovens;50
 Brickowski;60;Emmet Brickowski, "The Lego Movie" main character
 brick road;50
+brick shithouse;10
 brick wall;60
 brick walls;60
 bride and groom;50
@@ -12479,6 +12492,7 @@ British Academy of Film and Television Arts;60
 Britisher;40;A Brit, old-style
 Britishers;40;Brits, old-fashioned
 British Film Academy;60
+British Italians;40
 British lit;50
 British Raj;50;1858–1947 Crown colonial rule in India
 British shilling;50
@@ -13083,7 +13097,9 @@ bull sessions;60
 bullshit;10
 bullshit artist;10
 bullshit artists;10
+bullshit degree;10
 bullshit detector;10
+bullshiting;0
 bullshitter;10
 bullshitters;10
 Bullwinkle;50;Rocky's moose pal
@@ -16223,6 +16239,7 @@ cheap money;50
 cheap rug;50;Lie like a cheap rug
 cheap seat;50
 cheap seats;50
+cheap shit;10
 cheap shot;60
 cheap shots;60
 Cheapside;40;London street of medieval markets
@@ -23141,6 +23158,7 @@ diddler;10
 diddles;10
 Diddley;50;Bo Diddley, rock and roll pioneer
 diddling;10
+diddly shit;10
 did donuts;60
 Diddy;40;Diddy Kong
 Diderot;50;Denis Diderot, Encyclopédie editor
@@ -23661,9 +23679,13 @@ diseurs;20;Male monologists
 diseuse;20;Female monologist
 diseuses;20;Female monologists
 dishabille;40;State of being partly or scantily clothed
+dished it;40
 dished on;40
+dishes it;40
 dishes on;40
+dishing it;40
 dishing on;40
+dish it;40
 dish on;40
 Disick;40;Scott Disick, Kardashian reality regular
 disinvite;50
@@ -24544,6 +24566,8 @@ Don't Play That Song (You Lied);50;1962 single by Ben E. King
 don't poke the bear;60
 don't push it;60
 don't round your back;60
+don't shit in your own backyard;10
+don't shit where you eat;10
 Don't Speak;60
 don't stare;60
 don't start;60
@@ -26332,6 +26356,7 @@ eats from;40
 eats healthy;50
 eats high off the hog;60
 eats high on the hog;60
+eat shit and die;10
 eats into;40
 eats it up;50
 eats kosher;50
@@ -27772,6 +27797,7 @@ English class;60
 English classes;60
 English horn reed;50
 English horn reeds;50
+English-Italian;40
 Englishman;50;Briton
 Englishmen;50;Londoners, say
 English-speaking;50
@@ -29408,6 +29434,7 @@ Expedia;50;Travel booking site
 expediacom;0
 expedients;30
 Expendables;50;Stallone action franchise
+Expensive Shit;10;1975 studio album by Fela Ransome Kuti & Africa 70
 experience point;60
 experience points;60
 experimental film;60
@@ -31936,6 +31963,7 @@ fluorescein;40;Diagnostic contrast agent
 fluoro;40
 flush draw;50
 flush draws;50
+flush it;20
 flu shot;50
 flu shots;50
 flu strain;50
@@ -34411,6 +34439,7 @@ General Tso;60
 General Tso's;60
 General Tso's chicken;60
 General U.S. Grant;50
+General Yamashita;40;Japanese officer and war criminal (1885–1946)
 generative AI;60
 Generica;30;Generic + America: features of the landscape such as fire hydrants, letterboxes, fast-food chains, and streets named Main, etc., that are the same throughout the United States
 generis;40;Sui generis
@@ -34832,6 +34861,7 @@ gets emotional;60
 gets fat;10
 gets fired;60
 gets hitched;50
+get shitfaced;10
 gets home safe;50
 gets icked out;60
 gets icked out by;50
@@ -34878,6 +34908,7 @@ gets rest;30
 gets revenge;50
 gets roped in;50
 gets roped into;40
+gets shitfaced;10
 gets sloshed;50
 gets smart;50
 gets sore;40
@@ -34993,6 +35024,7 @@ getting rest;30
 getting revenge;50
 getting roped in;50
 getting roped into;40
+getting shitfaced;10
 getting sloshed;50
 getting smart;50
 getting spooked;50
@@ -36730,6 +36762,7 @@ got rest;40
 got revenge;50
 got roped in;50
 got roped into;40
+got shitfaced;10
 got sloshed;50
 got smart;50
 got sore;40
@@ -36741,6 +36774,7 @@ gotten done;50
 gotten emotional;50
 gottenhomesafe;50
 gotten in;40
+gotten one's shit together;10
 gotten the wrong idea;60
 gotten to the bottom of;60
 Gotterdammerung;50;Götterdämmerung, Wagner's "Ring" finale
@@ -39096,10 +39130,14 @@ Hashanah;40;Rosh Hashanah second word
 hash brown;50
 hash browns;50
 has heart;50
+hashed it out;50
 HaShem;40;Hebrew name for God
 Hashemite;40;Of Jordan's royal dynasty
 Hashemites;40;Jordanian royal dynasty
+hashes it out;50
 Hashimoto;40;Hashimoto's thyroiditis, or Ryutaro Hashimoto, Japanese PM
+hashing it out;50
+hash it out;50
 has ideas;50
 Hasidic;50;Of an Orthodox Jewish movement
 Hasidism;50;Orthodox Jewish movement
@@ -41716,6 +41754,7 @@ hot pursuit;60
 hot sake;50
 hot sauce;50
 hot sauces;50
+(Hot Shit) Country Grammar;10;2000 single by Nelly
 hotshot;60
 hotshots;60
 Hot Shots Part Deux;60
@@ -45815,6 +45854,7 @@ I win;50
 I wish I could;60
 I wish I could say the same;60
 I wish I had;50
+I wish it were so;50
 I wish you the best;60
 Iwo;40
 Iwo Jima;50
@@ -48798,6 +48838,7 @@ knelt on;40
 Knesset;40;Israel's legislature
 knew it by heart;60
 knew of;40
+knew one's shit;10
 knew the score;60
 knew too much;60
 K'Nex;40
@@ -48865,6 +48906,7 @@ knower;40
 knowers;40
 knowing it by heart;60
 knowing of;40
+knowing one's shit;10
 knowing the score;60
 knowing too much;60
 know it by heart;60
@@ -48872,8 +48914,10 @@ knowledge is power;60
 Knowles;40;Beyoncé Knowles, singer
 know-nothing;60
 know of;40
+know one's shit;10
 knows it by heart;60
 knows of;40
+knows one's shit;10
 knows the score;60
 knows too much;60
 know the score;60
@@ -51862,6 +51906,7 @@ Ligurian;40;Of Liguria, Italian coastal region
 Ligurians;40;People of the Italian Riviera region
 LII;20
 LIII;20
+like a brick shithouse;10
 like a bump on a log;60
 like a cheap rug;60
 like a cheap suit;60
@@ -51875,6 +51920,7 @@ like a lawn chair;60
 like a lot;50
 like a million bucks;60
 like and subscribe;60;YouTuber's request
+like a pig in shit;10
 like as not;60
 like a ticking time bomb;60
 like bumps on a log;60
@@ -52911,6 +52957,7 @@ looks forward;50
 looks forward to;50
 looks great;60
 looks into;40
+looks like shit;10
 looksmax;60
 looksmaxing;60
 looksmaxx;60
@@ -53042,6 +53089,7 @@ lose-lose;60
 lose momentum;60
 lose my number;60
 lose one's marbles;60
+lose one's shit;10
 lose out on;40
 lose out to;40
 Loser Smurf;60
@@ -53054,6 +53102,7 @@ loses face;50
 loses it;60
 loses momentum;60
 loses one's marbles;60
+loses one's shit;10
 loses out on;40
 loses out to;40
 loses steam;60
@@ -53077,6 +53126,7 @@ losing face;50
 losing it;60
 losing momentum;60
 losing one's marbles;60
+losing one's shit;10
 losing out on;40
 losing out to;40
 losing steam;60
@@ -53085,6 +53135,7 @@ losing streaks;50
 losing the plot;60
 losing to;40
 losing touch with;40
+losing your shit;10
 loss leader;60
 loss leaders;60
 loss of down;60
@@ -53108,6 +53159,7 @@ lost momentum;60
 lost my touch;20
 lost one's footing;50
 lost one's marbles;60
+lost one's shit;10
 lost out on;40
 lost out to;40
 Lostprophets;40;Welsh rock band
@@ -57669,6 +57721,7 @@ Mina;40;Mina Harker, "Dracula" character / Mina Kimes, ESPN analyst
 minable;30
 Minaj;50;Nicki Minaj, rapper
 Minamoto;40;Japanese clan of the first shoguns
+Minamoto no Yoshitsune;40;12th-century Japanese samurai
 Minari;40;2020 Netflix movie
 Minas;40;Minas Gerais, Brazilian state, or Minas Tirith of "LOTR"
 minatory;40;Menacing
@@ -58077,6 +58130,7 @@ mitring;30
 Mitski;40;Indie rock singer-songwriter
 Mitsubishi;50;Japanese carmaker
 Mitsubishis;40;Japanese cars, pluralized
+Mitsubishi TVs;20
 Mitteleuropa;50;Central Europe, in German
 Mitterrand;50;François Mitterrand, French president
 Mitty;40
@@ -62269,6 +62323,7 @@ not exactly;60
 not fair;50
 not for;40
 not for a moment;60
+not give a shit;10
 notgnihsawallaw;0
 not guilty;50
 Noth;40;Chris Noth
@@ -63537,6 +63592,7 @@ oh I see now;60
 oh it's you;60
 oh, I went there;60
 oh, I will;60
+oh I wish it were so;40
 oh jeez;60
 Oh Kay;30;Gershwin musical
 Oh L'Amour;40;1986 Erasure song
@@ -63835,6 +63891,7 @@ old sayings;50
 old-school hip hop;60
 old score;50
 old scores;50
+oldshit;10;Transgender person who began transitioning at a relatively late age (after puberty is fully complete)
 old silk hat;60
 Oldsmobile;50;Defunct GM brand
 Oldsmobiles;40;Discontinued GM cars
@@ -68437,6 +68494,7 @@ pigged out on;60
 pigging out on;60
 piggy bank;60
 piggy banks;60
+pig in shit;10
 pig iron;60
 pig on the rocks;60;Bacon martini
 pig out on;60
@@ -71577,8 +71635,12 @@ push;50
 Pusha;40;Pusha T, rapper
 push day;50
 push days;50
+pushed it to the limit;60
 Pusheen;40;Chubby cartoon cat
+pushes it to the limit;60
 pushful;40;Self-assertive, pushy
+pushing it to the limit;60
+push it to the limit;60
 Pushkin;50;Alexander Pushkin, Russian poet
 push mower;50
 push mowers;50
@@ -77429,6 +77491,8 @@ sail on;40
 sailor hat;60
 sailor hats;60
 Sailor Moon;60
+sailor's hitch;50
+sailor's hitches;50
 sails by;40
 sails in;40
 sails into;40
@@ -78390,6 +78454,8 @@ Scaredy Smurf;60
 scare quotes;60
 scarer;50
 scarers;50
+scare shitless;10
+scares shitless;10
 scares up;60
 scare tactic;60
 scare tactics;60
@@ -78407,6 +78473,7 @@ scarifies;40
 scarify;40;Scar-ify, or frighten
 scarifying;50
 scarifyingly;50
+scaring shitless;10
 ScarJo;50;Scarlett Johansson, familiarly
 scarlatina;30;Scarlet fever
 Scarlatti;50;Domenico Scarlatti, Baroque composer
@@ -80858,25 +80925,50 @@ Shishkin;40;Ivan Shishkin, Russian landscape painter
 shiso;30;Sushi garnish
 shitbag;10
 shitbox;10
+shit bricks;10
 shitcanned;10
 shitcanning;10
 shitcans;10
+shit disturber;10
+shited;10
+shites;10
+shit fit;10
+shit fits;10
+shit forebrains;0
+shitheap;10
+shitheaps;10
+shitheel;10
+shitheels;10
+shiting;10
 shit just got real;10
 shit list;10
+shit on a stick;10
+shitpile;10
+shitpiles;10
 shitpost;10
 shitposting;10
 shitposts;10
+shits bricks;10
+shit scared;10
 shitshow;10
 shitshows;10
+shit stain;10
+shit stains;10
 shits the bed;10
 shit-talk;10
 shit-talked;10
 shit-talking;10
 shit-talks;10
 shit the bed;10
+shittily;10
 shittiness;10
+shitting bricks;10
 shitting the bed;10
 Shitto;20;Glup Shitto, meme name for a nobody "Star Wars" extra
+shitty diaper;10
+shitty diapers;10
+shitwork;10
+shitworks;10
 shiv;50
 Shiva;50;Hindu god of destruction, or the Jewish mourning period
 Shivaji;40;Chhatrapati Shivaji, founder of the Maratha empire
@@ -81759,6 +81851,7 @@ simply the worst;60
 simps;10
 Simpson;50;Bart Simpson, cartoon brat / O. J. Simpson, football star
 Simpsons;50;"The Simpsons," long-running cartoon family
+Simpsons Hit 'n' Run;20
 Sims;50;"The Sims" game series
 Simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
 simul-climb;60
@@ -86115,11 +86208,13 @@ stirps;20
 stirred in;40
 stirred the pot;60
 stirred up a hornet's nest;60
+stirred up shit;10
 stirrer;40
 stirrers;40
 stirring in;40
 stirring the pot;60
 stirring up a hornet's nest;60
+stirring up shit;10
 stirrup;50
 stirrup cup;40;Foxhunting drink
 stirrup cups;40
@@ -86127,8 +86222,10 @@ stirrups;50
 stirs in;40
 stirs the pot;60
 stirs up a hornet's nest;60
+stirs up shit;10
 stir the pot;60
 stir up a hornet's nest;60
+stir up shit;10
 STIs;20
 Stitcher;40;Podcast app
 stiver;20
@@ -90162,6 +90259,7 @@ that's strange;60
 that's stretching it;60
 that's surprising;60
 that's that;60
+That's That Shit;10
 that's the basic idea;60
 that's the basic idea anyways;60
 that's the eternal question;60
@@ -90298,6 +90396,7 @@ The Bends;50
 Thebes;50;Ancient Greek or Egyptian city
 the Be Sharps;60;Homer's barbershop quartet
 The Best Exotic Marigold Hotel;60;2011 comedy drama film
+The Best Little Whorehouse in Texas;60
 the best of;50
 the best of both worlds;60
 The Best of Me;50;Various
@@ -91160,6 +91259,7 @@ The Shining;60
 the Ship of Theseus;60
 The Shire;60
 the shit;10
+the shits;10
 The Shootist;50
 the show must go on;60
 the Sicilian Defence;30;???
@@ -91170,6 +91270,7 @@ the Sierras;40
 the Silent Generation;60
 the silent treatment;60
 the Silk Road;30
+The Simpsons Hit 'n' Run;20
 the Sinai;20
 the Sixers;50
 the sixties;50
@@ -91355,6 +91456,7 @@ the wool;40
 the WTA Tour;30
 the X Games;40
 the X-Men;40
+the Yamashita treasure;40
 the Yanks;40;???
 the Yard;50
 they can only blame themselves;60
@@ -92771,6 +92873,7 @@ Tommy Roe;50
 Tommy Wiseau;60;"The Room" creator
 tomoooooooo;0
 Tomorrowland;50;Disney park section
+Tomoyuki Yamashita;40;Japanese WWII officer and war criminal (1885–1946)
 Tompkins;40;Daniel Tompkins, Monroe's vice president / Paul F. Tompkins, comedian
 Tom Riddle;60
 Tom Ripley;60
@@ -93226,6 +93329,7 @@ totalities;30
 total loss;50
 total mess;60
 total nightmare;60
+total piece of shit;10
 Total Recall;60
 total smokeshow;60
 total smokeshows;60
@@ -94985,6 +95089,7 @@ two-seam fastball;60
 two-seam fastballs;60
 two-set;40;Like some tennis matches
 two shakes of a lamb's tail;60
+two shits;10
 two-sided;40
 two-sided copies;50
 two-sided copy;50
@@ -98198,7 +98303,9 @@ wave a flag;50
 wave at;40
 waved a flag;50
 waved at;40
+waved hi to;40
 waved to;40
+wave hi to;40
 wave in shape of sine curve;0
 waverer;40
 waverers;40
@@ -98208,6 +98315,7 @@ WaveRunner;60;Yamaha personal watercraft
 WaveRunners;60
 waves a flag;50
 waves at;40
+waves hi to;40
 waveski;50
 waveskis;50
 waves to;40
@@ -98215,6 +98323,7 @@ wave to;40
 Wavin';40;"Wavin' Flag," K'naan World Cup anthem
 waving a flag;50
 waving at;40
+waving hi to;40
 waving to;40
 WAVs;40;Audio files
 wavy wall;60
@@ -98349,6 +98458,8 @@ weave in;40
 weave into;40
 weaver;50
 weavers;50
+weaver's hitch;50
+weaver's hitches;50
 weaves in;40
 weaves into;40
 weaving in;40
@@ -101018,6 +101129,9 @@ Yamaha WaveRunners;60
 Yamal;40;Lamine Yamal, Barcelona soccer prodigy / Siberian peninsula
 Yamamoto;40;WWII admiral Isoroku Yamamoto
 Yamasaki;40;Minoru Yamasaki, World Trade Center architect
+Yamashita;40
+Yamashita's gold;50;Purported WWII treasure hidden in the Philippines
+Yamashita treasure;50;Purported WWII gold hidden in the Philippines
 Yamato;40;Japanese battleship or province
 yamen;20
 yamens;20
@@ -101690,6 +101804,7 @@ you're darn right;60
 you're done for;60
 you're finished;60
 you're fired;60
+you're full of shit;10
 you're getting off easy;60
 you're getting sleepy;60
 you're good;60
