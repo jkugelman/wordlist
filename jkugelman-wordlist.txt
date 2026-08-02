@@ -1707,6 +1707,7 @@ after-party;60
 afterparty;60
 afters;30
 Aftersun;40;2022 Charlotte Wells film, or beach lotion
+after Thanksgiving;50
 After the Gold Rush;50;1970 studio album by Neil Young
 after them;50
 after these;20;???
@@ -3407,6 +3408,7 @@ American Red Cross;50
 Americans;50;US citizens, or the FX spy drama
 American society;60
 American Spanish;50
+American Thanksgiving;60
 American voters;60
 Americas;50;New World
 AmeriCorps;50
@@ -14152,6 +14154,7 @@ Canadianism;50;"Eh," e.g.
 Canadianisms;50;"Eh" and "toque," e.g.
 Canadians;50;Our northern neighbors
 Canadian Shield;50;Geologic region
+Canadian Thanksgiving;60
 Canadian tuxedo;60;Denim jacket, shirt, and jeans
 Canadian tuxedos;60;Denim jackets, shirts, and jeans
 Canadien;40;Montreal hockey player
@@ -31331,6 +31334,7 @@ first serve;50
 first snow;50
 first snows;50
 First State;50
+First Thanksgiving;60
 first-time caller;60
 first Tuesday;50;???
 first violin;50
@@ -38778,6 +38782,7 @@ happy juice;60
 happy little trees;60
 happy Mother's Day;60
 Happyness;40;"The Pursuit of Happyness" film
+happy Thanksgiving;50
 haps;40
 Hapsburg;40;European royal house, aka Habsburg
 Hapsburgs;40;European royal dynasty, aka the Habsburgs
@@ -43208,6 +43213,7 @@ I lose;40;Unnatural
 I Love an Old Fashioned Song;40;Song from "The Kid from Brooklyn" (1946 musical film)
 I love it here;60
 I Love Lucy;60
+I love Thanksgiving;20
 I love that for you;60
 I love this part;60
 ilovetogoto;0
@@ -53982,6 +53988,8 @@ maculation;40
 maculations;40
 Macy;50;William H. Macy, actor / Macy's department store
 Macy's;50;Department store chain
+Macy's Thanksgiving Day Parade;60
+Macy's Thanksgiving Day Parades;60
 mad;50
 mad about;50
 Madagascar;50;Island nation, or the DreamWorks movie
@@ -89914,7 +89922,23 @@ thanks a million;60
 thanks a ton;60
 thanks for asking;60
 Thanksgiving;50;Turkey day
+Thanksgiving cacti;60;Popular tropical houseplants
+Thanksgiving cactus;60;Popular tropical houseplant
+Thanksgiving card;50
+Thanksgiving cards;50
+Thanksgiving Day parade;60
+Thanksgiving Day parades;60
+Thanksgiving dinner;60
+Thanksgiving dinners;60
+Thanksgiving feast;60
+Thanksgiving feasts;60
+Thanksgiving leftovers;60
+Thanksgiving Parade;60
+Thanksgiving Parades;60
 Thanksgivings;50;Turkey days
+Thanksgiving turkey;60
+Thanksgiving turkeys;60
+Thanksgiving veterans;20
 Thanksgivukkah;50;2013 Thanksgiving-Hanukkah mashup
 thanks I hate it;60
 thanks, it means a lot;60
@@ -89980,6 +90004,7 @@ that's a thought;60
 that's a toughie;60
 that's a whole nother story;60
 that's a whole other story;60
+that says a lot;60
 that's bizarre;60
 that's classified;60
 that's cool;60
@@ -90435,6 +90460,7 @@ The Fighting Illini;50;Athletics teams of the University of Illinois Urbana-Cham
 the fine print;50
 the fins;20;???
 thefirstletters;0
+The First Thanksgiving;60
 the five W's;50
 The Flea;40;John Donne poem
 the floor is lava;60
