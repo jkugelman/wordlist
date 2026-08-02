@@ -29041,14 +29041,18 @@ Evelina;40;Frances Burney's first novel
 Eveline;40;James Joyce "Dubliners" story
 evels;20
 Evelyn;50;Common first name: Evelyn Waugh, Evelyn Nesbit
+even as;40
+even a score;50
 even better;60
 even chance;50
+evened a score;50
 evened the score;60
 evened up the score;50
 evener;40;Correct, but rarely used
 evenest;40;Correct, but rarely used
 evenfall;50;Dusk, literarily
 even I know that;60
+evening a score;50
 evening stroll;50
 evening strolls;50
 evening the score;60
@@ -29056,6 +29060,7 @@ evening up the score;50
 even money bet;60
 even money bets;60
 even odds;50
+evens a score;50
 even split;50
 even splits;50
 evens the score;60
