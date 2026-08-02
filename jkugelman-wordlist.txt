@@ -720,6 +720,7 @@ acai puree;20
 acai purees;20
 a cake;20
 a canal;20
+a can a week, that's all we ask;50;1980s advertising slogan for Blue Diamond Almonds
 acanthus;20;Plant genus
 A Canticle for Leibowitz;50
 Acapulco;50;Mexican resort city
@@ -1946,6 +1947,8 @@ Aherne;30;1930s actor Brian Aherne
 ah gotcha;60
 ahh;50
 ahhs;50
+ahh that's the spot;60
+ahh that's the stuff;60
 ahi;50
 ah I gotcha;60
 a hill of beans;60
@@ -1966,6 +1969,8 @@ AHS;40
 ah so;10
 Ahsoka;50;Ahsoka Tano, "Star Wars" Jedi
 ahtawaih;0
+ah that's the spot;60
+ah that's the stuff;60
 a hundred pounds soaking wet;60
 Ahura;40;Ahura Mazda, Zoroastrian god
 a hush fell over the crowd;60
@@ -2046,6 +2051,7 @@ ain't that a crying shame;60
 ain't that a cryin' shame;60
 ain't that a shame;60
 ain't that some shit;10
+ain't that sweet;60
 ain't that the truth;60
 Ainu;40;Indigenous people of northern Japan
 AI overview;60
@@ -2335,6 +2341,7 @@ alarmer;30
 alarmism;40
 alarm system;50
 alarm systems;50
+alarm that senses smoke or fire;0
 alarum;20
 alarums;20
 Alasdair;40;Alasdair MacIntyre, moral philosopher / Alasdair Gray, novelist
@@ -3866,8 +3873,14 @@ and so;50
 and so it goes;60
 and so on and so on;60
 And Still I Rise;60
+and that's about it;60
+and that's all she wrote;60
+and that's an order;60
+and that's a wrap;60
 and that's no lie;50
 and that's not all;60
+and that's saying a lot;60
+and that's what its all about;60
 and the award goes to;60
 and the like;60
 And Then There Were None;60;1939 mystery novel by Agatha Christie
@@ -4460,6 +4473,7 @@ any port in a storm;60
 any reason in particular?;60
 any second now;60
 any suggestions;60
+Anything That's Part of You;50;1962 single by Elvis Presley
 anything wrong;60
 any time soon;60
 any Tom, Dick or Harry;60
@@ -4946,8 +4960,11 @@ araneids;20;Spider order
 Aranjuez;40;Spanish town of Rodrigo's concierto
 a rank;20
 Arantxa;40;Arantxa Sanchez Vicario, tennis champion
+Ara Pacis;40;Ancient Roman religious monument in Rome, Italy
 Arapaho;40;Plains Native nation and language
+Arapaho Nation;60
 Arapahos;40;Plains tribe members
+Ara Parseghian;50;University of Notre Dame football coach in the 1960s-70s
 Ararat;40
 a rare;20
 Araucania;40;Mapuche region of Chile
@@ -6062,6 +6079,7 @@ assumably;30
 assumed ownership;50
 assume ownership;50
 assuming ownership;50
+assuming that's true;60
 assured of;40
 as sweet;30
 asswipe;10
@@ -7644,6 +7662,7 @@ ball marker;60;Golf
 ball markers;60
 ball marks;60
 Ballmer;40;Steve Ballmer, former Microsoft CEO and Clippers owner
+Ball of Confusion (That's What the World Is Today);50;1970 song by The Temptations
 Ballon;40;Ballon d'Or half
 Ballon d'Or;60
 Ballons;40;Ballons d'Or, soccer's top awards
@@ -12081,6 +12100,11 @@ Brassai;40;Brassaï, Hungarian-French night photographer
 brassard;40;Decorative armband
 brassards;40
 Brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
+Brassica rapa;20;Species of flowering plant
+Brassica rapa chinensis;20;Bok choy
+Brassica rapa pekinensis;20;Napa cabbage
+Brassica rapa perviridis;20;Japanese mustard spinach
+Brassica rapa ruvo;20;Broccoli rabe
 brassie;30;2-wood
 brass nameplate;50
 brass nameplates;50
@@ -14378,6 +14402,7 @@ can't stick around;50
 can't win;50
 Canty;40;Tom Canty, the pauper in "The Prince and the Pauper"
 can't you see;60
+Can't You See That She's Mine;50;1964 single by The Dave Clark Five
 Canuck;50;Canadian, informally
 Canuckistan;50;Jocular name for Canada
 Canucks;50;Vancouver NHL team, or Canadians
@@ -17534,19 +17559,23 @@ clean spoons;60;Ice cream shop jar
 clean up on aisle six;60
 clean up this pigsty;60
 clean water;50
+clear a path;50
 clear as crystal;60
 clear as day;60
 Clearasil;40;Acne treatment brand
 Clearblue;40;Pregnancy test brand
+cleared a path;50
 cleared one's mind;60
 cleared the board;60;Started over, or won everything
 clear idea;60
+clearing a path;50
 clearing one's mind;60
 clearing the board;60;Starting over, or winning everything
 clearish;40;Somewhat clear
 clearly visible;60
 clear nail polish;60
 clear one's mind;60
+clears a path;50
 clears one's mind;60
 clear soup;50
 clears the board;60;Starts over, or wins everything
@@ -24511,6 +24540,7 @@ don't mind if I do;60
 don't overdo it;60
 don't panic;60
 Don't Pass;50;???
+Don't Play That Song (You Lied);50;1962 single by Ben E. King
 don't poke the bear;60
 don't push it;60
 don't round your back;60
@@ -30548,6 +30578,7 @@ feel up to;50
 feel up to it;60
 feely;50
 Feeny;40;George Feeny, "Boy Meets World" teacher
+feet but dad that's;0
 feet don't fail me now;60
 feet on the ground;60
 Fefe;30;Fefe Dobson, Canadian singer
@@ -32461,6 +32492,7 @@ Forvo;30;Pronunciation dictionary site
 for want of a better word;60
 forwarder;40
 forwarders;40
+For What It's Worth (Stop, Hey What's That Sound);50;1966 Buffalo Springfield song
 Forza;40;Racing game series, or a musical direction
 Fosbury;40;Dick Fosbury, high jumper of Fosbury flop fame
 Fosdick;40;Fearless Fosdick, parody of Dick Tracy
@@ -35438,6 +35470,7 @@ GLaDOS;40;"Portal" AI antagonist
 glads;30;Flowers
 gladsome;40
 Gladstone;50
+glad that's over;60
 glad to do it;60
 Gladwell;40;Malcolm Gladwell, author of "Outliers"
 Gladys;50;Gladys Knight, Pips frontwoman
@@ -40354,6 +40387,7 @@ hey it's a start;60
 Heynderickx;40;Haley Heynderickx, indie folk singer
 Hey Paula;50
 hey Siri;60
+hey that's not fair;60
 hey wait;60
 Heyward;40;DuBose Heyward, "Porgy" author
 Hezekiah;50;Biblical king of Judah
@@ -42723,6 +42757,7 @@ idle threat;60
 idle threats;60
 Idlewild;50;JFK Airport's former name
 idli;40;Indian rice cake
+I'd Lie for You (And That's the Truth);50;1995 single by Meat Loaf
 I'd like to but;60
 idling away;30
 I'd never;60
@@ -42850,6 +42885,7 @@ If I Only Had the Nerve;60
 If I Ran the Circus;60;Dr. Seuss book
 If I Ran the Zoo;60;Dr. Seuss book
 if it ain't broke don't fix it;60
+If It Ain't Got That Swing;50;2000 non-fiction book by Mark Gauvreau Judge
 if it works, it works;60
 if I've said it once;60
 if I've told you once;60
@@ -42866,6 +42902,8 @@ ifs;50
 if statement;60
 if statements;60
 iftar;40;Ramadan meal
+if that's all right with you;60
+if that's alright with you;60
 ifthis;0
 if truth be told;60
 if worst comes to worst;60
@@ -45093,6 +45131,12 @@ isn't it rich?;60
 isn't meant to be;60
 isn't OK;20
 isn't sure;40
+isn't that so?;50
+isn't that something?;60
+isn't that something;0
+isn't that special?;60
+isn't that special;0
+isn't that swell?;60
 isn't that wild?;60
 isn't that wild;0
 iso-;40
@@ -45209,7 +45253,12 @@ is that a yes or a no?;60
 is that a yes or a no;0
 is that clear;60
 is that it;60
-is that so;60
+is that sad or what?;60
+is that sad or what;0
+is that so?;60
+is that so;0
+is that so wrong?;60
+is that so wrong;0
 is that the best you can do?;60
 is that the best you can do;0
 is that you;60
@@ -45497,6 +45546,7 @@ it's just a prank;60
 it's just a prank, bro;60
 it's just a thought;60
 it's just one of those days;60
+it's just that simple;60
 it's just the tip of the iceberg;60
 it's magic;60
 it's meant to be;60
@@ -45576,6 +45626,7 @@ it's starting;50
 it's stretching it;60
 it's taking forever;60
 it's taking me forever;50
+it's that simple;60
 it's the best of both worlds;60
 it's the eternal question;60
 it's the law;60
@@ -46149,6 +46200,7 @@ Jap;10
 Japan;50
 Japandroids;50;Canadian garage rock duo
 Japanese;50;Language of Japan
+Japanese mustard spinach;50
 japanned;40
 japanning;40;Type of finish
 Japanoise;40;Japanese noise music
@@ -59724,6 +59776,7 @@ musta;40
 Mustafa;40;Mustafa Kemal Atatürk, founder of modern Turkey
 Mustafar;40;"Star Wars" lava planet
 Mustaine;40;Dave Mustaine, Megadeth frontman
+mustard spinach;50
 must-have;60
 must I spell it out?;60
 must-see;60
@@ -62214,6 +62267,7 @@ not guilty;50
 Noth;40;Chris Noth
 no thanks;60
 not hard;30
+no that's okay;60
 not having it;60
 not here;50;"Let's discuss this later"
 nothing beats new Hellmann's Dijonnaise;50
@@ -62302,6 +62356,7 @@ nottaapproblem;0
 Nottage;40;Lynn Nottage, Pulitzer-winning playwright
 not that I'm aware of;60
 not that much;50
+not that simple;50
 not that there's anything wrong with that;60
 not the brightest crayon in the box;60
 not the Onion;60
@@ -62407,6 +62462,8 @@ now now;60
 no wonder;60
 Nowruz;40;Persian New Year
 now streaming;60
+now that's an idea;60
+now that's the spirit;60
 now then;50
 now what do we do;60
 now where did I park?;60
@@ -63514,6 +63571,8 @@ oh sure;60
 oh sure blame me;60
 oh, sweet summer child;60
 Ohtani;50;Shohei Ohtani, two-way baseball superstar
+oh that's OK;50
+oh that's okay;50
 Oh the Places You'll Go;60;Dr. Seuss book
 Oh, the Thinks You Can Think;60;Dr. Seuss book
 oh well, what can you do?;60
@@ -64481,6 +64540,7 @@ oohing at;40
 oohs;50
 oohs at;40
 ooh shiny;60
+ooh that's gotta hurt;60
 oo la la;40
 oolite;20
 oolites;20
@@ -77887,6 +77947,7 @@ Saran;50;Saran Wrap, plastic cling film
 Saranac;30;New York river / lakes
 Sarandon;50;Susan Sarandon, "Thelma & Louise" star
 sarans;20
+Sara Paretsky;40;Author of detective fiction
 Sarasate;40;Pablo de Sarasate, Spanish violin virtuoso
 Sara Smile;50;???
 Sarasota;50;Florida Gulf Coast city
@@ -83473,6 +83534,7 @@ soi;20
 so I gather;60
 soigné;20;Well-groomed
 soignée;20;Well-groomed
+so I guess that's a thing now;50
 so I hear;50
 so I lied;60
 soilure;20
@@ -83872,6 +83934,7 @@ so sweet;50
 sot;10
 so tell me;60
 so that happened;60
+so that's how it comes out;50
 so that's it;60
 so that's it then;60
 Sotheby;40;Sotheby's auction house
@@ -89967,6 +90030,8 @@ that doesn't add up;60
 that doesn't count;60
 that dog don't hunt;60
 that dog won't hunt;60
+that feeling when;60
+that feels so good;50
 that good;60
 that I can relate to;60
 that is a dilly of a pickle;60
@@ -90010,6 +90075,7 @@ that's classified;60
 that's cool;60
 that's easy;60
 that's easy for you to say;60
+that seems about right;60
 that's enough;50
 that's fair;60
 that's final;60
@@ -90020,6 +90086,8 @@ that's him;40;Green paint?
 that ship has sailed;60
 that ship's sailed;60
 that's huge;60
+that's ill;50
+that's illogical;50
 that simply won't do;60
 that's ironic;60
 that's it;50
@@ -98013,6 +98081,8 @@ wastewater;50
 wastewater treatment;60
 wastewater treatment plant;60
 wastewater treatment plants;60
+was that so hard?;60
+was that so hard;0
 wasting no time;60
 wastrel;30
 wat;40;Angkor Wat
