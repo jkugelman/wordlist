@@ -1964,6 +1964,7 @@ Ahmedabad;40;Largest city in Gujarat, India
 Ahn;20
 Ahnold;60
 ahora;40
+a horse of a different color;60
 a house divided;60
 Ahriman;40;Zoroastrian spirit of evil
 AHS;40
@@ -3901,6 +3902,7 @@ Andy Gibb;50
 Andy Kim;50
 Andy Kirk;50
 and you are;60
+and you call yourself a detective;60
 and your little dog too;60
 Andy Razaf;40;"Ain't Misbehavin'" lyricist
 Ane;30;Suffix
@@ -5212,6 +5214,7 @@ argued with;40
 arguer;40
 arguers;40
 argues with;40
+argue the hindlegs off a donkey;60
 argue with;40
 arguing with;40
 A. R. Gurney;40;Playwright A. R. Gurney
@@ -11148,6 +11151,7 @@ Boeotians;40;Ancient Greeks of Thebes, proverbially dull
 Boer;40
 Boers;40
 Boethius;40;Roman author of "The Consolation of Philosophy"
+bofa deez nuts;10
 boff;30
 boffed;30
 boffos;30
@@ -16666,6 +16670,8 @@ childhood memory;60
 childhood sweetheart;60
 childhood sweethearts;60
 childlike wonder;60
+childofdeafadult;0
+child of deaf adults;60
 childproof;60
 childproof cap;60
 childproof caps;60
@@ -16676,6 +16682,7 @@ childproof lids;60
 childproof lock;60
 childproof locks;60
 childproofs;60
+children of deaf adults;60
 Children of Dune;60;1976 novel by Frank Herbert
 children should be seen and not heard;60
 children's museum;50
@@ -17088,6 +17095,7 @@ ChromeOS;50;Google's laptop operating system
 chromo;40
 chromos;20;Colored pictures, last used 1966
 chronically online;60
+Chronicle of a Death Foretold;60;1981 novella by Gabriel García Márquez
 chronics;40;Weird plural
 chrono-;40
 Chronos;40;Greek personification of time
@@ -18019,6 +18027,7 @@ cobwebs;60
 Coca-Cola;60
 Coca-Cola Classic;50
 Coca-Cola formula;60
+cocaine is a hell of a drug;60
 coca paste;50
 coca plant;50
 coca plants;50
@@ -20051,6 +20060,7 @@ creates an opening;60
 creates a stir;60
 creating an opening;60
 creating a stir;60
+Creation of Adam;60;Fresco by Michelangelo on the Sistine Chapel ceiling
 Creative Commons;60
 creative mode;60;Sandbox video game option
 creature feature;60
@@ -29773,14 +29783,22 @@ faculty/staff;50
 fad;50
 fadeaway jump shot;60
 fadeaway jump shots;60
+faded from memory;60
+faded from view;60
 faded in;50
 faded into;40
+fade from memory;60
+fade from view;60
 fade in;50
 fade into;40
+fades from memory;60
+fades from view;60
 fades in;50
 fades into;40
 fade to black;60
 Fadiman;30
+fading from memory;60
+fading from view;60
 fading in;50
 fading into;40
 fadings;30
@@ -40032,6 +40050,9 @@ Hello Dolly;0
 hell of a guy;60
 HelloFresh;60
 hello hello;50
+Hello Muddah, Hello Fadduh;60;1963 novelty song by Allan Sherman
+Hello Muddah, Hello Fadduh (A Letter from Camp);60;1963 novelty song by Allan Sherman
+hellomudduhhellofadduhaletterfromcamp;0
 hello sailor;50
 hello stranger;60
 Helloween;40;German power metal band
@@ -90568,6 +90589,7 @@ the cosmos;40
 The Count;50;Muppet
 the cow;20
 The Crab;40;???
+The Creation of Adam;60;Fresco by Michelangelo on the Sistine Chapel ceiling
 the Crimea;30
 the Criterion Collection;60
 The Critic;60
