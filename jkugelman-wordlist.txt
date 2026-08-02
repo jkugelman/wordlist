@@ -350,12 +350,16 @@ abaft;40
 Abagnale;50;Frank Abagnale, "Catch Me If You Can" con man
 Abakanowicz;40;Magdalena Abakanowicz, Polish sculptor
 a ball;20
+abandoned one's post;60
 abandoned ship;50
 abandonee;40
 abandonees;40
 abandon hope all ye who enter here;60
+abandoning one's post;60
 abandoning ship;50
+abandon one's post;60
 abandon ship;60
+abandons one's post;60
 abandons ship;50
 abandonware;60
 a bargain;30;Cheap
