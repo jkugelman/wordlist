@@ -1490,6 +1490,8 @@ Aerocar;40;Flying car of 1949
 Aeroflot;30;Russia's largest airline
 aerogel;60
 aerogram;40;Air letter
+aérogramme;40
+aérogrammes;40
 aerograms;40
 Aerolineas;40;Aerolíneas Argentinas, flag carrier
 aerolite;30;Type of meteorite
@@ -1712,6 +1714,8 @@ AG;40
 Aga;20
 Agadir;40;Moroccan port city
 Agag;20;Biblical king
+Against Me!;40;Pink rock band
+Against Me;0
 a galaxy far, far away;60
 Agalloch;40;American folk metal band
 agallop;30
@@ -2692,6 +2696,8 @@ alkyls;20;Chemicals
 all;50
 alla;40
 all aboard;60
+all about;50
+All About Me;40
 all ages;50
 Allah;50;God, in Islam
 Allahabad;40;Indian city now called Prayagraj
@@ -2957,6 +2963,7 @@ alone time;50
 along the line;50
 along those lines;50
 a long time ago in a galaxy far far away;60
+Along With Me;40;???
 Alonso;40;"The Tempest" king, or F1 racer Fernando Alonso
 Alonzo;40;Alonzo Mourning, NBA center / Alonzo Church, logician
 aloo;40
@@ -4070,7 +4077,7 @@ Animorphs;50;YA sci-fi book series
 anion;50
 anionic;50
 anions;50
-Anis;40;???
+Anis;40;Anise-flavored liqueur
 aniseeds;30
 anise oil;30
 anises;40
@@ -5132,7 +5139,10 @@ are you hearing yourself right now?;60
 are you hearing yourself right now;0
 are you home?;50
 are you insane?;60
-are you kidding;60
+are you kidding?;60
+are you kidding;0
+are you kidding me?;60
+are you kidding me;0
 are you mad;60
 are you me?;60
 are you nuts?;60
@@ -9296,6 +9306,7 @@ Belushis;40;John and Jim, comic brothers
 Bely;30;Andrei Bely, Russian Symbolist novelist (1880-1934)
 Belzer;40;Richard Belzer, "Law & Order: SVU" actor
 be mad at;20
+be merry;50
 Bemidji;40;Minnesota city on the lake of the same name
 bemire;40
 bemired;40;Covered or stuck in mud
@@ -10476,6 +10487,7 @@ Blakely;40;Sara Blakely, Spanx founder
 Blakey;40;Art Blakey, jazz drummer
 Blakley;40;Ronee Blakley, Oscar-nominated for "Nashville"
 blamed on;40
+blame me;50
 blame on;40
 blamer;40
 blamers;40
@@ -10585,6 +10597,7 @@ bleus;20
 blew a kiss;50
 blew in;40
 blew into;40
+blew me away;40;???
 blew off;50
 blew on;40
 blew one's mind;60
@@ -10766,6 +10779,7 @@ blowing the lead;60
 blowing up one's spot;60
 blowing wide open;60
 blow into;40
+blow me away;60
 blown away;60
 blown one's top;60
 blown the joint;60
@@ -15846,6 +15860,8 @@ challis;30;Soft fabric
 Chalmers;40;Superintendent Chalmers of "The Simpsons" / David Chalmers, philosopher
 Chalons;40;Châlons, French city near Attila's defeat
 Chalotra;40;Anya Chalotra, "The Witcher" actor
+chalumeau;40;Predecessor of the modern clarinet
+chalumeaux;40;Predecessors of the modern clarinet
 Cham;40;Jorge Cham, "PhD Comics" creator / nuoc cham dipping sauce
 chamberlain;60
 Chambord;40;Raspberry liqueur, or a Loire château
@@ -16234,6 +16250,7 @@ check in on;50
 check into;40
 check it out;60
 checkmate;60
+check me out;50
 check on;40
 check one's privilege;60
 checkout counter;50
@@ -19587,6 +19604,7 @@ counting on;40
 counting the days;50
 Count Olaf;60;"A Series of Unfortunate Events" villain
 count on;40
+Count On Me;50;Various
 Count Orlok;60;From "Nosferatu"
 count palatine;30;Feudal lord
 country album;50
@@ -25239,6 +25257,7 @@ drive at;40
 drive belt;50
 drive belts;50
 drive-in;40
+Drive Me Crazy;40;1999 American teen romantic comedy film
 driver ed;30
 driver's ed;50
 drives at;40
@@ -29601,6 +29620,7 @@ face it;60
 face mask;60;Football penalty
 face mask penalties;60
 face mask penalty;60
+face me;50
 face-melting;60
 face-melting guitar solo;60
 face-melting solo;60
@@ -31007,6 +31027,7 @@ finding a home;50
 finding God;60
 finding it in one's heart;60
 finding lacking;50
+Finding Me;40;2009 drama film
 find it in one's heart;60
 find lacking;50
 Findlay;40;Ohio city, or Maude Findlay of "Maude"
@@ -31475,6 +31496,7 @@ flak towers;50
 flam;40
 Flamborough;40;Yorkshire headland
 flamed out;50
+flamen;20;Ancient Roman priest
 flamenco dance;60
 flamenco dancer;60
 flamenco dancers;60
@@ -31483,6 +31505,7 @@ flamenco dancing;60
 flamenco guitar;60
 flamenco guitars;60
 flamenco music;60
+flamens;20;Ancient Roman priests
 Flame on;60;Human Torch's catchphrase
 flame out;50
 flame retardant;50
@@ -34089,6 +34112,7 @@ gave ground;50
 gave it a go;50
 gave it the old college try;60
 gave it to;40
+gave me the nod;20
 gave one's best;60
 gave the brush-off;60
 gave the green light;60
@@ -35321,6 +35345,7 @@ give it time;60
 give it to;40
 give it to me straight;60
 give me a hand;60
+give me a ring;60
 Give Me One Reason;60
 give me some space;60
 given a say to;40
@@ -36779,6 +36804,7 @@ Graceland;50;Elvis's Memphis mansion
 Gracie;40;Gracie Allen, comedian / Gracie Abrams, singer
 Gracies;40;Brazilian jiu-jitsu family
 gracile;30;Slender
+gracious me;60
 grackle;30;Kind of bird
 grackles;30
 Graco;30;Baby products company
@@ -39236,6 +39262,7 @@ have knowledge;50
 have knowledge of;50
 Havel;50;Vaclav Havel, Czech president and playwright
 have legs;60
+have mercy on me;60
 have money on;50
 have more;40
 have need for;40
@@ -40934,6 +40961,7 @@ hold on before you say anything;60
 hold on, hear me out;60
 hold on one second;60
 hold onto;40
+hold on to me;50
 hold onto your butts;60
 hold please;60
 holds at arms length;60
@@ -45531,6 +45559,7 @@ it's so true;60
 it's starting;50
 it's stretching it;60
 it's taking forever;60
+it's taking me forever;50
 it's the best of both worlds;60
 it's the eternal question;60
 it's the law;60
@@ -49798,6 +49827,7 @@ Lange;40;Jessica Lange, actress / Dorothea Lange, Depression-era photographer
 Langella;40;Frank Langella, actor who played both Nixon and Dracula
 Langenkamp;40;Heather Langenkamp, "A Nightmare on Elm Street" star
 Langerhans;50;Paul Langerhans, whose islets are in the pancreas
+langes;20
 Langhorne;40;Samuel Langhorne Clemens' middle name
 Langland;40;William Langland, "Piers Plowman" poet
 Langlands;40;Robert Langlands, mathematician of the Langlands program
@@ -50185,6 +50215,7 @@ Latifah;50;Queen Latifah, rapper and actress
 latigo;20;Horse whip
 latigos;20;Horse whips
 Latimer;30;Hugh Latimer (martyr) or Lewis Latimer (inventor), neither super notable
+Latimeria chalumnae;20
 Latin;50;Language of ancient Rome
 Latina;50;Woman of Latin American descent
 Latinas;50;Hispanic American women
@@ -50241,6 +50272,7 @@ Lauers;10
 Laufey;40;Laufey, Icelandic jazz-pop singer / Loki's mother in Norse myth
 laugh-a-minute;60
 laugh at;40
+Laugh at Me;40;1965 single by Sonny Bono
 laughed at;40
 laughed with;40
 laughing at;40
@@ -50666,6 +50698,7 @@ least expensive;50
 least important;50
 Leatherface;50;"The Texas Chain Saw Massacre" villain
 Leatherman;50;Multi-tool company
+leathern;40
 leather pants;60
 leather pump;50
 leather pumps;50
@@ -51252,6 +51285,7 @@ let it rip;60
 let live;50
 let me ask you something;60
 let me ask you this;60
+Let Me Down;50;2018 single by Jorja Smith featuring Stormzy
 let me finish;60
 let me go;60
 let me have it;60
@@ -51261,6 +51295,7 @@ let me in;60
 let me play you the song of my people;60
 let me see that;60
 let me sing you the song of my people;60
+let me up;50
 let nature run its course;60
 let nature take its course;60
 let not;20
@@ -52995,6 +53030,7 @@ Lost in Yonkers;50
 lost it;50
 lost lamb;50
 lost momentum;60
+lost my touch;20
 lost one's footing;50
 lost one's marbles;60
 lost out on;40
@@ -54793,6 +54829,9 @@ Mambety;40;Djibril Diop Mambéty, Senegalese filmmaker
 Mamdani;40;NYC mayor Zohran Mamdani
 Mame;40;Musical
 Mamet;40;David Mamet, "Glengarry Glen Ross" playwright
+mamey;20;Tropical tree
+mameyes;20;Tropical trees
+mameys;20;Tropical tree
 Mamie;40;Mamie Eisenhower, first lady
 Mamie Eisenhower;60
 Mamies;20;Plural name
@@ -56539,6 +56578,7 @@ meeting payroll;50
 meeting with;40
 meetly;20;Fittingly
 meet me;20
+meet me halfway;60
 meet one's maker;60
 meet payroll;50
 meets at;40
@@ -56856,6 +56896,8 @@ Mephistopheles;60
 Mephisto Waltz;60
 Mephisto Waltzes;60
 mephitis;30;Skunk genus
+me problem;60
+me problems;60
 mer;40
 Merapi;40;Javanese volcano
 merc;40
@@ -57043,6 +57085,7 @@ Metalunans;30
 metameric;30;Zoology thing
 metamerism;30;Zoology thing
 Metamucil;50;Fiber supplement
+me Tarzan;60
 met at;40
 metatall skyscraper;60
 metatall skyscrapers;60
@@ -58260,6 +58303,7 @@ moin moin;40;Nigerian bean pudding
 Moir;40;Scott Moir, Canadian Olympic ice dancer
 Moira;40
 Moirai;40;Greek Fates
+moiré;50;Interference pattern
 moire pattern;50
 moire patterns;50
 moires;40;Awkward plural
@@ -60521,6 +60565,7 @@ need air;50
 need a lift;60
 needed a hand;50
 needed air;50
+Needed Me;50;2016 single by Rihanna
 needed to;40
 need for speed;60
 Needful Things;60
@@ -62144,6 +62189,7 @@ not even a thank you;60
 not even once;60
 not exactly;60
 not fair;50
+not for;40
 not for a moment;60
 notgnihsawallaw;0
 not guilty;50
@@ -66901,6 +66947,7 @@ paying the tab;50
 paying to;40
 paying top dollar;60
 pay into;40
+pay me a visit;50
 Payne;40;Max Payne, video game hero / Payne Stewart, golfer
 Paynes;30;Plural last name
 paynim;20;Heathen, archaic
@@ -68522,6 +68569,8 @@ Pinteresque;50;Like Harold Pinter's plays
 Pinterest;50;Image-pinning social network
 pint-size;60
 pint-sized;60
+pintxo;40;Basque snack resembling tapas
+pintxos;40;Basque snack resembling tapas
 Pinza;40;Ezio Pinza, opera bass and "South Pacific" star
 pion;40;Subatomic particle
 pioneer species;60;First trees to come back after logging or a forest fire
@@ -71508,6 +71557,7 @@ put it there;60
 put it to;40
 put lipstick on a pig;60
 put me in coach;60
+put me to the test;20
 Putnam;40
 put on a brave face;60
 put one out of one's misery;60
@@ -78045,6 +78095,8 @@ save all;50
 saved by the bell;60
 saved face;60
 saved for;40
+saved game;60
+saved games;60
 saved gas;50
 saved on;40
 saved to;40
@@ -78103,6 +78155,7 @@ sawn;30
 sawn up;40
 saw over;30
 saw reason;50
+saw right through me;20
 saw sense;60
 saw set;30
 saw sets;30
@@ -79629,6 +79682,7 @@ sent flowers;60
 sent for;40
 sentimentalizer;50
 sentimental lady;50
+Sentimental Me;40;1949 song
 sent in;40
 Sentinelese;40;Isolated people of North Sentinel Island
 sent money;30;???
@@ -79870,6 +79924,7 @@ set in stone;50
 set into;40
 set it and forget it;60
 Set It Up;0
+set me free;50
 setoffs;40;Amounts set off against others in the settlement of accounts
 set on;40
 set one's;20
@@ -81043,6 +81098,7 @@ showing signs of life;60
 show match;50
 show matches;50
 show me;50
+show me the way;60
 show me what you got;60
 show of force;60
 show of gratitude;60
@@ -84164,6 +84220,8 @@ speaks to;40
 speaks truth to power;60
 speaks well of;50
 speak to;40
+speak to me;50
+Speak to Me;50;First track on Pink Floyd's "Dark Side of the Moon"
 speak truth to power;60
 speak well for;20
 speak well of;50
@@ -84468,6 +84526,8 @@ spiral arms;50
 spirant;20
 spirea;30;Shrub
 spireas;20;Shrubs
+spireme;40
+spiremes;40
 spirit duplicator;60;Old relative of the mimeograph
 spirit duplicators;60
 spirited away;60;Studio Ghibli movie
@@ -90127,7 +90187,9 @@ The Bends;50
 Thebes;50;Ancient Greek or Egyptian city
 the Be Sharps;60;Homer's barbershop quartet
 The Best Exotic Marigold Hotel;60;2011 comedy drama film
+the best of;50
 the best of both worlds;60
+The Best of Me;50;Various
 the best part of waking up;60
 The Best Years of Our Lives;50;1946 American drama film directed by William Wyler
 The Bible;30
@@ -91747,6 +91809,7 @@ Ticketmaster;50;Concert ticket seller
 ticking time bomb;60
 ticking time bombs;60
 tickled the ivories;60
+tickle me pink;60;Crayola color
 tickles the ivories;60
 tickle the ivories;60
 tickling the ivories;60
@@ -94484,6 +94547,7 @@ Turnitin;40;Plagiarism-detection service
 turn it into a whole thing;60
 turn lane;50
 turn lanes;50
+turn me loose;50
 turn-on;50
 turn-ons;50
 turn on the waterworks;60
@@ -97486,6 +97550,7 @@ waited a bit;50
 waited around for;40
 waited for;40
 waited on;40
+waited up for;40
 waiters;50
 wait for;40
 Waithe;40;Actress/producer Lena Waithe
@@ -97494,6 +97559,7 @@ waiting around for;40
 waiting for;40
 waiting on;40
 Waiting on a War;50;2021 single by Foo Fighters
+waiting up for;40
 Waititi;50;Taika Waititi, "Jojo Rabbit" director
 wait just a minute;60
 wait just a moment;60
@@ -97512,6 +97578,9 @@ waits a bit;50
 waits around for;40
 waits for;40
 waits on;40
+waits up for;40
+wait up for;40
+wait up for me;60
 wait your turn;60
 waiver wire;50
 Wajda;40;Andrzej Wajda, Polish film director
@@ -99616,6 +99685,7 @@ window planter;50
 window planters;50
 window seat;60
 window seats;60
+Windows Me;60;2000 Microsoft operating system version
 Windows Mobile;50
 wind power;50
 Windrush;40;Windrush generation of Caribbean migrants to Britain
@@ -100364,6 +100434,7 @@ wrist rests;60
 wrist support;50
 wrist supports;50
 write in;50
+write me;50
 write on;40
 writer-in-residence;60
 writers-in-residence;60
@@ -100775,6 +100846,9 @@ Yaeji;40;Korean American DJ and singer
 Yael;40;Yael Naim, "New Soul" singer
 ya got me;60
 yah;40
+ya hear?;50
+ya heard me;50
+ya hear me?;50
 yahoo;50
 Yahoo Games;50
 Yahooligans;40;Yahoo's old kids' search site
