@@ -2785,6 +2785,7 @@ all forms;60
 all for one;60
 all for one and one for all;60;"The Three Musketeers" motto
 all fours;60
+all fucked up;10
 all-girl;40
 all good;60
 all good things must come to an end;60
@@ -7393,6 +7394,7 @@ bad loan;30
 bad loans;30
 badminton;50
 Bad Moon Rising;60
+bad motherfucker;10
 Badmotorfinger;40;Soundgarden album
 bad movie;40
 bad movies;40
@@ -20748,6 +20750,8 @@ Cunk on Britain;60;2018 British mockumentary television series
 Cunk on Cinema;60;2026 British mockumentary television series
 Cunk on Earth;60;2022 British mockumentary television series
 Cunningham;50;Merce Cunningham, choreographer / Richie and Joanie of "Happy Days"
+cuntface;10
+cunts;10
 Cuoco;40;"The Big Bang Theory" actress Kaley Cuoco
 Cuomo;50;Andrew Cuomo, New York governor / Rivers Cuomo of Weezer
 Cuomos;40;Political family
@@ -21138,6 +21142,7 @@ Daewoo;40;South Korean carmaker
 dafe;20
 Dafne;40;Dafne Keen, "Logan" actress
 Dafoe;50;Willem Dafoe, actor
+da fuck?;10
 dafuq;50
 Dafydd;40;Welsh form of David
 Dag;30;U.N.'s Dag Hammarskjöld
@@ -29539,6 +29544,10 @@ eye for an eye, tooth for a tooth;60
 eye for detail;60
 eye for eye;50
 eye for eye, and tooth for tooth;60
+eyefuck;10
+eyefucked;10
+eyefucking;10
+eyefucks;10
 eyeful;50
 eyefuls;50
 eye gel;50
@@ -33001,6 +33010,7 @@ fresh mozzarella;50
 Fresh Off the Boat;60
 fresh out;60
 fresh out, I'm afraid;60
+fresh out of fucks;10
 fresh pasta;60
 Fresnel;50;Augustin Fresnel, lens namesake
 Fresno;40;California city
@@ -33262,32 +33272,51 @@ Fuchs;40;Klaus Fuchs, Manhattan Project atomic spy
 Fucik;30;Julius Fučík, composer of "Entrance of the Gladiators"
 fuckable;10
 fuck all;10
+fuck all else;10
 fuckboi;10
 fuckbois;10
 fuckboy;10
 fuckboys;10
 fuck buddies;10
 fuck buddy;10
+fuck cancer;10
+fucked about;10
 fucked over;10
+fucked the dog;10
 fucked up;10
 fucked with;10
+fuckface;10
+fucking around;10
+fuckingest;10
 fucking over;10
+fuckings;10
+fucking the dog;10
 fucking up;10
 fucking with;10
+Fuck It (I Don't Want You Back);10
+fuck it up royally;10
 fuck marry kill;10
+fuck me boot;10
 fuck-me boots;10
+fuck me shoe;10
 fuck-me shoes;10
 fuck over;10
+fucks around;10
 fucks over;10
+fucks the dog;10
 fucks up;10
 fucks with;10
 fuck that;10
 fuck that guy;10
+fuck the dog;10
+fuck the world;10
 fuck this;10
 fuckton;10
 fucktons;10
 fuck up;10
+fuckwit;10
 fuck with;10
+fuckwits;10
 Fudd;50;Elmer Fudd, Bugs Bunny's foe
 Fuddruckers;50;Burger chain
 fuddy;40;Fuddy duddy
@@ -34763,6 +34792,7 @@ get emotional;60
 get 'er done;50
 get fat;10
 get fired;60
+get fucked up;10
 Gethard;20
 get hitched;50
 get home safe;50
@@ -34860,6 +34890,8 @@ gets down to brass tacks;60
 gets emotional;60
 gets fat;10
 gets fired;60
+gets fucked;10
+gets fucked up;10
 gets hitched;50
 get shitfaced;10
 gets home safe;50
@@ -34985,6 +35017,8 @@ getting emotional;60
 getting fat;10
 getting fired;60
 getting for a song;60
+getting fucked;10
+getting fucked up;10
 getting hitched;50
 getting home safe;50
 getting icked out;60
@@ -36692,6 +36726,8 @@ go team go;60
 got emotional;60
 got fat;10
 got fired;60
+got fucked;10
+got fucked up;10
 got game;50
 Gotham;50;Batman's city
 Gothamist;40;New York City news site
@@ -39211,6 +39247,8 @@ Hatebreed;40;Hardcore metal band
 hate crime;10
 hate crimes;10
 hated to;40
+hatefuck;10
+hatefucking;10
 hate it;50
 hate it or love it;30
 hate mail;60
@@ -42834,6 +42872,7 @@ I don't even care;60
 I don't feel like it;60
 I don't feel so good;60
 I don't feel up to it;60
+I Don't Fuck with You;10;2014 single by Big Sean featuring E-40
 I don't get it;60
 I don't give a damn;60
 I don't give a flip;60
@@ -43455,6 +43494,8 @@ I'm having a blast;60
 I'm here;50
 I'm here for it;60
 I'm here if you need me;60
+I'm high as fuck;10
+I'm high as fuck right now;10
 I'm hit;50
 IMHO;40
 Imhof;40;Anne Imhof, German performance artist
@@ -47350,6 +47391,8 @@ just don't;60
 Juster;40;Norton Juster, "The Phantom Tollbooth" author
 just for funsies;60
 Just for Men;60
+just fuckin' with ya;10
+just fuckin' with you;10
 just give it time;60
 just goes to show;60
 justice system;60
@@ -49657,6 +49700,7 @@ Ladyhawke;40;1985 fantasy film, and a New Zealand pop act
 Lady in the Lake;60
 ladyish;30
 ladylike;50
+Lady Love Your Cunt;10
 Lady Luck;60
 Lady of the Dunes;50;Murder victim Ruth Marie Terry
 Ladysmith;50;Ladysmith Black Mambazo, South African choral group
@@ -57265,6 +57309,7 @@ metopes;20
 Met payroll;50
 metre;40
 metres;40
+metric fuckload;10
 metrist;30;Student of meter/verse
 metrists;30;Students of meter/verse
 Metro Boomin;60;Metro Boomin, influential hip-hop & trap music producer
@@ -62274,6 +62319,7 @@ notarized statements;50
 Notaro;40;Comedian Tig Notaro
 not a sable;20;Green paint
 not as I do;40
+not a single fuck;10
 not as I recall;60
 not a sound;60
 not at any price;60
@@ -68859,6 +68905,7 @@ Pittsburgher;50;Steel City resident
 Pittsburghers;50;Steel City residents
 pit viper;60
 pit vipers;60
+pity fuck;10
 pity-like;60
 pity-liked;60
 pity-likes;60
@@ -72075,6 +72122,8 @@ quick bite to eat;60
 QuickBooks;60;Budgeting software
 QuickCam;50
 Quicker Picker-Upper;60
+quick fuck;10
+quick fucks;10
 quick question;60
 QuickTime;50;Apple media player
 Quidditch player;50
@@ -72999,6 +73048,7 @@ raters;50
 rates a ten;50
 rat fink;60
 rat finks;60
+ratfucking;10
 Rathbone;40;Basil Rathbone, screen Sherlock Holmes
 rathole;50
 ratholed;50
@@ -78822,6 +78872,7 @@ scowling at;40
 scowls at;40
 scr;20
 Scrabble;50;Word game
+scrabblefucking;10
 Scrabble tourney;50
 Scrabble tourneys;50
 scrag;30
@@ -87813,6 +87864,7 @@ sweet cheeks;60
 Sweet Child o' Mine;60
 Sweet Chin Music;60
 Sweet Emotion;60
+sweet fuck all;10
 sweet gig;60
 Sweetgreen;50;Salad chain
 sweetie pie;60
@@ -95547,6 +95599,7 @@ uncharted waters;60
 uncial;20;4th-8th century script
 Uncle Ben's;50
 Uncle Fester;60
+Uncle Fucka;10
 Uncle Sam;50
 Uncola;50;7 Up, in old ads
 unconcern;30
@@ -99128,6 +99181,7 @@ Whataburger;50;Texas burger chain
 Whataburgers;40;Texas chain burgers
 what a card;50
 what a coincidence;60
+what a cunt;10
 what a dick move;60
 what a disaster;60
 what a disgrace;60
@@ -101770,6 +101824,7 @@ young guns;60
 Youngkin;40;Glenn Youngkin, Virginia governor
 young lion;50;???
 young lions;50;???
+Young People Fucking;10
 Youngstown;50;Ohio steel city
 younker;30
 younkers;30
