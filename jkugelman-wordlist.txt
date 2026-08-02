@@ -41791,6 +41791,13 @@ housedress;50
 housedresses;50
 house dressing;60
 House Harkonnen;60
+household budget;50
+household chore;50
+household chores;50
+household cleaner;50
+household cleaners;50
+household item;50
+household items;50
 House Judiciary;50
 House majority;60
 Houseman;40;John Houseman, "The Paper Chase" actor
@@ -76554,6 +76561,7 @@ Roy;50
 royal ball;50
 royal balls;50
 royale;60
+royal household;50
 Royal Mint;50
 Royal Navy;50
 royal subject;60
@@ -100191,6 +100199,7 @@ Wolsey;40;Thomas Wolsey, cardinal under Henry VIII
 Wolverhampton;50;English city, home of the Wolves
 wolverine;60
 Womack;40;Bobby Womack, soul singer / Lee Ann Womack, country singer
+woman head of household;20
 Woman in the Dunes;50;1964 Japanese New Wave avant-garde arthouse psychological thriller film
 womanlike;40
 woman's;40
