@@ -14431,6 +14431,7 @@ capelet;40
 capelets;40
 capelin;40;Small fish
 capelins;40
+Capella;40;Sixth-brightest star in the night sky
 Capeman;40;"The Capeman", Paul Simon musical flop
 Capernaum;40;Biblical town on the Sea of Galilee
 capes for;40;Fiercely defends, slangily
