@@ -29806,6 +29806,8 @@ Fafnir;40;Dragon of Norse legend
 fag;10
 Fagbenle;40;O-T Fagbenle, "The Handmaid's Tale" actor
 Fagen;40;Donald Fagen, Steely Dan co-founder
+fagged;10
+fagging;10
 Fagin;40;"Oliver Twist" antagonist
 fagoted;20
 Fahd;30;Saudi king
