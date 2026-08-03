@@ -34863,6 +34863,7 @@ get off your high horse;60
 get on;40
 get on board;50
 get one's goat;60
+get one's hackles up;60
 get one's house in order;60
 get one's shit together;10
 get onto;40
@@ -34955,6 +34956,7 @@ gets off to a late start;60
 gets on;40
 gets on board;50
 gets one's goat;60
+gets one's hackles up;60
 gets one's house in order;60
 gets one's mitts on;60
 gets one's shit together;10
@@ -35079,6 +35081,7 @@ getting off to a late start;60
 getting on;40
 getting on board;50
 getting one's goat;60
+getting one's hackles up;60
 getting one's house in order;60
 getting one's shit together;10
 getting onto;40
@@ -36816,6 +36819,7 @@ go to jail;60;Monopoly square
 got on;40
 got on board;50
 got one's goat;60
+got one's hackles up;60
 got one's shit together;10
 got onto;40
 go too far;60
@@ -36848,6 +36852,7 @@ gotten emotional;50
 gotten even with;50
 gottenhomesafe;50
 gotten in;40
+gotten one's hackles up;60
 gotten one's shit together;10
 gotten the wrong idea;60
 gotten to the bottom of;60
@@ -69229,6 +69234,11 @@ played on;40
 played second fiddle;60
 played the slots;60
 played to;40
+played to the balcony;60
+played to the camera;60
+played to the cheap seats;60
+played to the crowd;60
+played to the gallery;60
 player one;50
 player trade;60
 player trades;60
@@ -69257,6 +69267,11 @@ playing on;40
 playing second fiddle;60
 playing the slots;60
 playing to;40
+playing to the balcony;60
+playing to the camera;60
+playing to the cheap seats;60
+playing to the crowd;60
+playing to the gallery;60
 play it smart;60
 playlet;40
 playlets;40
@@ -69288,6 +69303,11 @@ PlayStation Portable;60
 PlayStations;60
 plays the slots;60
 plays to;40
+plays to the balcony;60
+plays to the camera;60
+plays to the cheap seats;60
+plays to the crowd;60
+plays to the gallery;60
 play stupid games;60
 play stupid games win stupid prizes;60
 play style;60
@@ -69305,6 +69325,11 @@ Play That Funky Music;60
 play that funky music white boy;60
 play the slots;60
 play to;40
+play to the balcony;60
+play to the camera;60
+play to the cheap seats;60
+play to the crowd;60
+play to the gallery;60
 play within a play;60
 Plaza Hotel;60
 Plaza Suite;50
@@ -72601,30 +72626,42 @@ rainy day fund;60
 rainy day funds;60
 Raisa;30;Mrs. Gorbachev
 raise a glass;60
+raise a hand;50
 raise a red flag;60
 raise awareness;50
 raise awareness of;50
 raised a glass;60
+raised a hand;50
 raised a red flag;60
 raised awareness;50
 raised awareness of;50
 raised eyebrow;50
+raised havoc;60
 raised hell;60
+raised one's hackles;60
+raised one's hat;40
 raised red flags;60
 raised the curtain;50
 raised the roof;50
 raised the subject;50
 raised the subject of;50
+raise havoc;60
 raise hell;60
+raise one's hackles;60
+raise one's hat;40
 raiser;40
 raise red flags;60
 raisers;40
 raises a glass;60
+raises a hand;50
 raises a red flag;60
 raises awareness;50
 raises awareness of;50
+raises havoc;60
 raise sheep;50
 raises hell;60
+raises one's hackles;60
+raises one's hat;40
 raises red flags;60
 raises the curtain;50
 raises the roof;50
@@ -72641,10 +72678,14 @@ raisin bread;60
 Raisinet;40;One chocolate-covered raisin candy
 Raisinets;50;Chocolate-covered raisins at the movies
 raising a glass;60
+raising a hand;50
 raising a red flag;60
 raising awareness;50
 raising awareness of;50
+raising havoc;60
 raising hell;60
+raising one's hackles;60
+raising one's hat;40
 raising red flags;60
 raising the curtain;50
 raising the roof;50
