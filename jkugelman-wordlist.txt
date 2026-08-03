@@ -29781,26 +29781,32 @@ faculty member;50
 faculty members;50
 faculty/staff;50
 fad;50
+fadeaway jumper;60
+fadeaway jumpers;60
 fadeaway jump shot;60
 fadeaway jump shots;60
 faded from memory;60
 faded from view;60
 faded in;50
 faded into;40
+faded into the background;60
 fade from memory;60
 fade from view;60
 fade in;50
 fade into;40
+fade into the background;60
 fades from memory;60
 fades from view;60
 fades in;50
 fades into;40
+fades into the background;60
 fade to black;60
 Fadiman;30
 fading from memory;60
 fading from view;60
 fading in;50
 fading into;40
+fading into the background;60
 fadings;30
 fado;20;Portuguese music genre
 fae;30;Fairy race, used twice in 2025??? Sus!
