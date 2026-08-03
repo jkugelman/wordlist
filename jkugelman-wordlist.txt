@@ -99349,6 +99349,7 @@ what a drag;60
 what a fool;60
 what a fool I've been;60
 what a hoot;60
+what a joke;60
 what a mess;60
 what am I forgetting?;60
 what an idea;60
@@ -99358,8 +99359,11 @@ what a piece of junk;60
 what are my choices?;60
 what are my options?;60
 what are they smoking?;60
-what are we;60
+what are we?;60
+what are we;0
 what are we even talking about?;60
+what are we waiting for?;60
+what are we waiting for;0
 what are you doing;60
 what are you, nuts?;60
 what are you on;60
