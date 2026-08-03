@@ -964,6 +964,7 @@ ACs;40
 act;50
 Actaeon;30;Greek hero
 act as;40
+act as if;50
 act big;40
 ActBlue;40;Democratic fundraising platform
 act break;60
@@ -971,6 +972,7 @@ act breaks;60
 act casual;60
 acte;40
 acted as;40
+acted as if;50
 acted for;40
 acted in;40
 acted in concert;60
@@ -990,6 +992,7 @@ Act III;40
 actin;40
 act in concert;60
 acting as;40
+acting as if;50
 acting class;60
 acting classes;60
 acting exercise;50
@@ -1056,6 +1059,7 @@ Act One;50
 Actor Smurf;60
 ACT prep;50
 acts as;40
+acts as if;50
 acts for;40
 acts in;40
 acts naive;40
@@ -2623,6 +2627,7 @@ Alicante;40;Province and city in Spain
 Alicante, Spain;50
 Alicante Spain;0
 Alice;50;Common first name, or the girl in Wonderland
+Alice Neel;40;Portrait painter (1900-1984)
 Alice's;40;"Alice's Adventures in Wonderland"
 Alicia;50;Common first name: Alicia Keys
 a lick and a promise;60
@@ -5703,7 +5708,7 @@ as a mule;20
 asana;40;Yoga position
 asanas;30
 Asante;40;Ghanaian empire and people, also "thanks" in Swahili
-ASAP;40
+ASAP;50
 as a pig in shit;10
 as a rail;30
 as a rule;50
@@ -8847,7 +8852,7 @@ beast within;50
 beat a dead horse;60
 beat a hasty retreat;60
 beat all;40
-Beatallica;40;Beatles-Metallica mashup band
+Beatallica;50;Beatles-Metallica mashup band
 beat a standstill;20
 beat at;40
 beat at the mercy of;20
@@ -8864,6 +8869,10 @@ beating back;50
 beating in;40
 beating the clock;60
 beating the crowd;60
+beating the heat;60
+beating the rap;60
+beating the rush;60
+beating to the punch;60
 Beatle;50;John, Paul, George, or Ringo
 Beatlemania;50;Fab Four frenzy
 Beatles;50;The Fab Four
@@ -8889,14 +8898,19 @@ beats me;60
 beats on;40
 beats the clock;60
 beats the crowd;60
+beats the heat;60
 beats the heck out of me;60
 beats the hell out of me;60
+beats the rap;60
 beatstime;0
+beats to the punch;60
 beat that;60
 beat the clock;60
 beat the crowd;60
 beat the heat;60
+beat the rap;60
 Beattie;40;Ann Beattie, short story writer
+beat to the punch;60
 Beatty;40;Warren Beatty, actor and director
 Beatz;40;Swizz Beatz, hip-hop producer
 Beaufort;50;Wind scale, or Arctic sea
@@ -15614,6 +15628,7 @@ Cebuano;40;Philippine language
 Cecco;40;De Cecco, Italian pasta brand
 CeCe;40
 Cecelia;30
+ceci;30
 Cecil;40;Cecil B. DeMille, film director, among other Cecils
 Cecile;30;Jazz vocalist Cécile McLorin Salvant
 Cecilia;50;Simon and Garfunkel song, or the patron saint of music
@@ -15628,6 +15643,7 @@ cedarwood;40
 ceded to;40
 cedes to;40
 cede to;40
+cedi;30;Currency of Ghana
 ceding to;40
 Cedric;50;Cedric the Entertainer, comedian
 Cedric Diggory;50;Harry Potter character
@@ -22179,7 +22195,7 @@ declassed;30
 declasses;30
 declassing;30
 decline in status;50
-Deco;40;As in Art Deco
+Deco;50;As in Art Deco
 decon;40;Radiation cleanup, briefly
 decorator;50
 decorators;50
@@ -28676,6 +28692,7 @@ ESPYs;40;ESPN's sports awards
 Esq.;40
 Esqs.;30
 Esquivel;40;Laura Esquivel, "Like Water for Chocolate" author
+ESRB;40;Entertainment Software Rating Board
 esruoceudni;0
 ess;30
 essais;20
@@ -30932,7 +30949,7 @@ fetishizes;60
 fetishizing;60
 fetlock;30;???
 fetlocks;30;???
-Fett;50;Boba Fett, "Star Wars" bounty hunter
+Fett;40;Boba Fett, "Star Wars" bounty hunter
 fetter;30
 fettered;30
 fettering;30
@@ -30964,6 +30981,7 @@ fff;30
 F-flat;50
 F-flat scale;30
 Fforde;40;Jasper Fforde, "Thursday Next" novelist
+FFS;30
 FG;40
 fgh;20
 fghi;20
@@ -36089,6 +36107,7 @@ goes OK;50
 goes okay;50
 goes on a date;60
 goes on a diet;60
+goes on a jag;50
 goes on a journey;60
 goes on a spree;50
 goes on a tear;60
@@ -36235,6 +36254,7 @@ going offline;50
 going off without a hitch;60
 going on a date;60
 going on a diet;60
+going on a jag;50
 going on a journey;60
 going on a spree;50
 going on a tear;60
@@ -36668,6 +36688,7 @@ go on;50
 goon;50
 go on a date;60
 go on a diet;60
+go on a jag;50
 go on a journey;60
 go on a spree;50
 go on a tear;60
@@ -37879,7 +37900,7 @@ Gryffindors;60
 Grylls;50;Bear Grylls, survival TV host
 G's;40;Grands, in slang
 GSA;20
-GSAs;40;Gay-straight alliances, or the General Services Administration
+GSAs;30;Gay-straight alliances, or the General Services Administration
 G scale;30
 G Seven;30;Ugly numeral
 G shape;30
@@ -43175,7 +43196,10 @@ igo;30
 Igor;50;Igor Stravinsky, composer, or Frankenstein's lab assistant
 Igorot;20;Filipino headhunter
 Igorots;20;Filipino headhunters
+I got a;20
 igotac;0
+I got a feeling;60
+I got a job;40;???
 I Got a Name;60
 I gotcha;60
 I gotchu;60
@@ -45229,8 +45253,9 @@ Isao;40;Isao Aoki, golfer / Isao Takahata, anime director
 is apt to;40
 Isar;30;River through Munich
 is at one's leisure;20
-I saw;40
+I saw;50
 I saw it;40
+I Saw Mommy Kissing Santa Claus;60
 I saw that;60
 I say do it;60
 I say go for it;60
@@ -45285,6 +45310,7 @@ Ishmaelite;40;Biblical descendant of Abraham's son Ishmael
 Ishmaelites;40;Biblical descendants of Ishmael
 I Shot the Sheriff;60
 I should say something;60
+ishq;20;Arabic word meaning 'love' or 'passion'
 Ishtar;50;Mesopotamian goddess, and a legendary flop
 I shudder to think;60
 isi;20;Partial [occasional]
@@ -49682,6 +49708,7 @@ Kyzylkum;40;Central Asian desert
 L;40
 la;40
 LAA;30;Los Angeles Angels, on scoreboards [occasional]
+laab;40
 laager;20
 Laa-Laa;40;Yellow teletubby
 Laayoune;40;Capital of Western Sahara
@@ -50292,10 +50319,11 @@ Laroi;40;The Kid Laroi, Australian rapper
 La Rosa;20
 LaRosa's;20
 Larousse;40;French dictionary publisher
+LARP;40
 LARPed;40;Did some live-action role-playing
-LARPer;50;Live-action role-player
-LARPers;50;Live-action role players
-LARPing;50;Live-action role-playing
+LARPer;40;Live-action role-player
+LARPers;40;Live-action role players
+LARPing;40;Live-action role-playing
 LARPs;40;Live-action role-playing games
 larr;0
 Larroquette;50;John Larroquette, "Night Court" actor
@@ -53633,7 +53661,7 @@ L shapes;30
 L-sit;30;Ab exercise
 L-sits;30
 LST;20;WWII carrier, "Landing Ship, Tank"
-LSTs;40;WWII landing ships
+LSTs;20;WWII landing ships
 LSU;40
 Lt.;40
 LTA;20
@@ -60460,6 +60488,7 @@ Nantes;40;French port
 Nantucket;50;Massachusetts island of limerick fame
 Nantz;50;Sports broadcaster Jim
 Nanu;30;Half of Mork's catchphrase
+Naoero;40;Official name of Nauru, as of 2026
 NaOH;30;Sodium hydroxide (lye)
 Naomi;50;Common first name: Campbell, Watts, Osaka
 Naomie;40;Actress Naomie Harris from modern Bond films
@@ -60934,7 +60963,7 @@ need some help;60
 needs to;40
 need to;40
 need-to-know;60
-Neel;40;Alice Neel, American portrait painter
+Neel;30;Alice Neel, portrait painter
 Neely;40;Hockey player Cam Neely
 Neenah;20
 neener;50
@@ -61641,8 +61670,14 @@ night and day;60
 Nightbitch;40;Novel and film about a mother turning canine
 Nightbreed;50;Clive Barker horror film
 Nightcall;40;Kavinsky song from "Drive"
+night course;50
+night courses;50
 nightcrawler;60
 nightcrawlers;60
+night crew;60
+night crews;60
+night depositories;50
+night depository;50
 Night Fever;60;Bee Gees song
 night game;50
 night games;50
@@ -64332,7 +64367,7 @@ on a log;40
 on a map;30
 on a march;30
 on a mission;60
-Onan;40;Biblical figure behind "onanism"
+Onan;30;Biblical figure behind "onanism"
 onanist;30;???
 onanists;30;???
 on a number of occasions;50
@@ -65487,7 +65522,8 @@ osier;20;Willow
 osiered;20;Covered with osiers
 osiers;20;Willows
 osies;0
-Osip;40;Osip Mandelstam, Russian poet
+Osip;30;Osip Mandelstam, Russian and Soviet poet (1891–1938)
+Osip Mandelstam;40;Russian and Soviet poet (1891–1938)
 Osiris;50;Egyptian god of the underworld
 Oskar;40;Oskar Schindler, or the "Tin Drum" boy
 Oskars;30;Plural name
@@ -68772,6 +68808,7 @@ piles into;40
 piles on;40
 piles onto;40
 pileus;30;Mushroom cap
+pili;20
 piling in;40
 piling into;40
 piling on;40
@@ -69491,6 +69528,7 @@ plead with;40
 Pleasance;40;Pleasure garden, or the Edinburgh venue
 pleasanter;40
 pleasantest;40
+Pleasant Island;60;Former name of Naoero / Nauru
 Pleasantville;50;1998 Tobey Maguire film
 please be patient;60
 please be right;60
@@ -73295,6 +73333,7 @@ ratlike;30
 ratlin;20;Nautical rope: Var.
 ratline;40;Rope ladder on a ship, or Nazi escape route
 ratlines;40
+RATM;30
 Ratnam;40;Mani Ratnam, Indian film director
 rat on;40
 ratoon;20
@@ -75339,7 +75378,9 @@ Reynaud;40
 Reynolds;50;Ryan Reynolds, actor / Burt Reynolds, actor
 Reynosa;40;Mexican border city
 rez;20
-Reza;40;Reza Shah, Iranian monarch / Yasmina Reza, "Art" playwright
+Reza;30;Reza Shah, Iranian monarch / Yasmina Reza, "Art" playwright
+Reza Shah;40
+Reza Shah Pahlavi;40
 rezip;40
 rezipped;40
 rezipping;40
@@ -77789,8 +77830,10 @@ saisons;40
 saith;30
 Saito;40;Common Japanese surname / "Inception" businessman
 Saiyan;50;"Dragon Ball" warrior race
+saj;20
 Saja;40;Saja Boys, "KPop Demon Hunters" group
 Sajak;50
+saj bread;40
 sak;20
 Sakall;30;Actor S. Z. Sakall, head waiter in "Casablanca"
 Sakamoto;40;Ryuichi Sakamoto, composer / Kyu Sakamoto, "Sukiyaki" singer
@@ -85477,7 +85520,7 @@ Sssssss;20;1973 snake horror film
 SST;30;Concorde [extremely common]
 sstar;20
 sstars;20
-SSTs;40;Supersonic transports
+SSTs;30;Supersonic transports
 SSW;30
 st;40
 sta;30;Station: Abbr. (common)
@@ -92864,7 +92907,8 @@ TLC;40
 TLDR;40
 Tlingit;20;Alaskan natives
 Tlon;30;Borges story "Tlön, Uqbar, Orbis Tertius"
-TLs;40;???
+TLs;20;???
+TLS;20;Transport Layer Security
 TM;40
 T-man;30
 TMC;40
@@ -96591,7 +96635,8 @@ US One;30
 Usonia;40;Frank Lloyd Wright's name for America
 Usonian;40;Frank Lloyd Wright house style
 US Opens;30
-Usos;40;The Usos, WWE tag team
+Usos;20;The Usos, WWE tag team
+USOs;20;USO shows
 USP;20
 US passport;50
 US passports;50
@@ -99219,6 +99264,7 @@ went offline;50
 went off without a hitch;60
 went on a date;60
 went on a diet;60
+went on a jag;50
 went on a journey;60
 went on a spree;50
 went on a tear;60
@@ -101076,6 +101122,7 @@ Wycherley;40;William Wycherley, Restoration playwright
 Wyclef;50
 Wyclef Jean;50
 Wycliffe;40;John Wycliffe, early Bible translator
+WYD;30;"What you doing?"
 Wye;20
 Wyeth;30
 Wyeths;40;Andrew Wyeth and his painter family
@@ -101520,6 +101567,7 @@ Yasiel;40;Yasiel Puig, MLB outfielder
 Yasiin;40;Yasiin Bey, rapper formerly known as Mos Def
 Yasir;40
 Yasmina;40;Yasmina Reza, "God of Carnage" playwright
+Yasmina Reza;40
 Yasmine;40;Yasmine Bleeth, "Baywatch" actor
 yas queen;60
 Yasser;40
