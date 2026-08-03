@@ -67481,6 +67481,7 @@ pees;10
 Peet;40;Actress Amanda Peet
 Peeta;40;From "The Hunger Games"
 Peete;40;Various
+Peet's;40;Coffee chain
 peewee;50
 pee-wee league;60
 Pee Wee Reese;50
