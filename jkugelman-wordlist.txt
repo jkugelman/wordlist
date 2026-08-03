@@ -2611,6 +2611,7 @@ Alhambra;50;Moorish palace in Granada
 Alhambresque;40;In the style of the Alhambra
 Alhamdulillah;50;"Praise be to God" in Arabic
 Al Hedison;20;Actor
+Al Hirt;40;Trumpeter and bandleader (1922–1999)
 Ali;50
 Alia;40
 Ali Baba;50
@@ -42475,6 +42476,7 @@ I am am I;0
 I am aware of that;60
 iambi;40
 iambic pentameter;60
+I am! I am!;50
 I am Kenough;60
 I am led to believe;60
 I Am Malala;40;Book "I Am Malala: The Story of the Girl Who Stood Up for Education and was Shot by the Taliban"
@@ -45120,7 +45122,7 @@ Isadora;40;???
 isadoras;0
 Isadore;40;???
 is ahead;20
-Isaiah;50;Book of the Bible, or a given name
+Isaiah;40;Book of the Bible, or a given name
 I said good day, sir;60
 I said stop;60
 I said what I said;60
@@ -47208,6 +47210,7 @@ J's;40;Capital J's
 J shape;30
 J-shaped;30
 J shapes;30
+JSON;30
 Jswipe;40;Jewish dating app
 J tile;30
 J tiles;30
@@ -49929,6 +49932,7 @@ LaMelo Ball;50;LaMelo Ball, NBA Rookie of the Year in 2021
 lames;30
 La Mesa;40;San Diego suburb
 Lamia;40;Child-devouring monster of Greek myth, and a Keats poem
+lamias;40
 lamina;40;Thin layer
 laminae;40
 laminas;40
@@ -62590,6 +62594,8 @@ novenas;40
 noventa;40
 Novgorod;40
 Novi;40;Novi Sad, Serbia's second city, or a Detroit suburb
+novia;30
+novias;30
 Novik;40;Naomi Novik, "Temeraire" fantasy author
 NoViolet;40;NoViolet Bulawayo, Zimbabwean novelist
 Novi Sad;20;Serbian city
@@ -62807,7 +62813,9 @@ nueve;40
 nuevo;40
 nuevo tango;60;Evolution of tango dance that began in the 1980s
 'nuff;30
+nug;30
 nugatory;30;???
+nugs;30
 Nui;20
 Nujabes;40;Japanese hip-hop producer
 Nukem;50;Duke Nukem, video game action hero
@@ -92794,6 +92802,7 @@ to be is to do;60;Quote often attributed to Sartre
 to be safe;50
 to be sure;50
 Tobey;40;Tobey Maguire, Spider-Man actor
+Tobiah;30
 Tobias;40;Various: Tobias Wolff, Tobias Funke
 Tobias Fünke;60;"Arrested Development" character
 Tobias Funke;0
@@ -101103,6 +101112,7 @@ Xmas tree;50
 Xmas trees;50
 X-Men;50
 X-Men United;50;"X2: X-Men United", 2003 superhero film
+XML;40
 Xochimilco;40;Mexico City canal district
 Xochitl;40;Xochitl Gomez, "Doctor Strange" actor
 Xolo;40;Hairless dog
@@ -101298,6 +101308,7 @@ Yamashita treasure;50;Purported WWII gold hidden in the Philippines
 Yamato;40;Japanese battleship or province
 yamen;20
 yamens;20
+YAML;30
 Yamoussoukro;50;Capital of Ivory Coast
 Yamuna;40;Indian river flowing past the Taj Mahal
 Yan;20
