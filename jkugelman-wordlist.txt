@@ -64682,6 +64682,7 @@ Oogie;40;Oogie Boogie, "The Nightmare Before Christmas" villain
 ooh;50
 ooh-aah point;60
 ooh at;40
+ooh baby;60
 oohed;40
 oohed at;40
 ooh I'm scared;60
