@@ -31034,6 +31034,7 @@ Fijians;40;Suva natives
 Fike;40;Dominic Fike, singer and "Euphoria" actor
 fil;20
 Fila;40;Athleisure brand
+Fil-Am;30;Filipino Americans
 Filas;40
 filefish;40
 filefishes;40
@@ -38937,7 +38938,7 @@ haps;40
 Hapsburg;40;European royal house, aka Habsburg
 Hapsburgs;40;European royal dynasty, aka the Habsburgs
 har;40
-Hara;40;Setsuko Hara, Ozu film star / hara-kiri
+Hara;30;Setsuko Hara, Japanese actress (1920–2015) / hara-kiri
 Harajuku;40;Tokyo fashion district
 Harald;40;Harald Bluetooth, Danish king behind the tech name
 Haralds;20
@@ -39059,7 +39060,7 @@ Haredi;40;Ultra-Orthodox Jew
 Haredim;40;Ultra-Orthodox Jews
 Hareem;20;Harem variant
 hareems;20
-harem;40;Harem pants
+harem;50;Harem pants
 harem pants;50
 harems;10
 Hargeisa;40;Capital of Somaliland
@@ -50161,7 +50162,7 @@ Lar;30;Choreographer Lar Lubovitch [occasional]
 Lara;50;Lara Croft, Tomb Raider heroine
 Lara Croft;60
 Laraine;40;Laraine Newman, original "SNL" cast member
-LA Ram;40
+LA Ram;50
 Laramie;40;Wyoming city, or "The Laramie Project"
 LA Rams;50
 Lara's;40;"Lara's Theme" from "Doctor Zhivago"
@@ -66685,6 +66686,7 @@ Parkersburg;40;West Virginia city
 Parkinson;50;James Parkinson, namesake of the disease
 Parkinson's;50;Parkinson's disease
 Parklife;40;Blur album
+Park So-dam;40;South Korean actress (born 1991)
 Parkwood;40;Beyoncé's entertainment company
 parle;40
 parliamentary term;50
@@ -73069,7 +73071,7 @@ Raritan;40;New Jersey river
 rarite;20
 RAs;40
 rasa;40
-rasam;40;Indian soup
+rasam;30;Indian soup
 Rashad;40;Phylicia Rashad, actress / Ahmad Rashad, sportscaster
 Rasheed;40;Rasheed Wallace, NBA big man
 rasher;30
@@ -80256,6 +80258,7 @@ sets the tone;50
 sets to;40
 Setsubun;40;Japanese bean-throwing festival
 Setsuko;40;Setsuko Hara, Ozu film star
+Setsuko Hara;40;Japanese actress (1920–2015)
 sets upon;40
 sets up shop;60
 Setswana;40;Language of Botswana
@@ -83676,6 +83679,7 @@ soda fountain;60
 soda fountains;60
 sodalities;40
 sodality;40;Fellowship
+So-dam;30;Park So-dam, South Korean actress (born 1991)
 soda machine;50
 soda machines;50
 so darn cute;60
