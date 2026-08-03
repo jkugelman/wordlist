@@ -1231,8 +1231,9 @@ ad fee;40
 ad fees;40
 ad-free experience;60
 ad-free experiences;60
-Adha;40;Eid al-Adha, Muslim festival of sacrifice
-adhan;40;Islamic call to prayer
+Adha;30;Eid al-Adha, Muslim festival of sacrifice
+adhan;30;Islamic call to prayer
+adhans;30;Islamic calls to prayer
 ADHD;50
 adhered to;40
 adherer;40
@@ -23375,6 +23376,7 @@ dihedral;30
 dihydrogen monoxide;50;Water, cheekily
 D-II;20
 D-III;20
+DIIV;30;Rock band
 Dijkstra;40;Edsger Dijkstra, shortest-path algorithm namesake
 Dijon;50;French city known for mustard
 Dijon mustard;50
@@ -26921,6 +26923,7 @@ Ehud Barak;50
 Ehud Olmert;40;Israeli PM 2006-09
 Eichner;40;Billy Eichner, comedian
 Eid;50
+Eid al-Adha;40;Muslim festival of sacrifice
 eider;40
 eiders;40
 Eidgah;20;Open space outside a mosque
@@ -54291,6 +54294,7 @@ made war on;40
 made waves;60
 Madge;40;Nickname for Madonna, or Madge Sinclair, actor
 Madhabi;40;Madhabi Mukherjee, Bengali actress
+Mad Hatter;60
 madhouse;60
 madhouses;60
 Madhuri;40;Madhuri Dixit, Bollywood star
@@ -57062,6 +57066,7 @@ men on;40;Men on, as in baseball
 men on the inside;60
 Menorca;40;Balearic island
 menorrhea;20;Menstrual flow
+menos;40
 Menotti;40;Opera composer Gian Carlo Menotti (1911-2007)
 Menounos;40;Maria Menounos, TV host
 Mensa;50;High-IQ society
@@ -65274,6 +65279,8 @@ Orsini;20;Old Italian noble family
 Orsino;40;Duke in "Twelfth Night" [occasional]
 Orsinos;20
 or so help me;60
+or so it seems;60
+or so it's said;60
 Orson;50;Orson Welles, director of "Citizen Kane"
 Orsons;30
 ort;20
@@ -83775,8 +83782,10 @@ so I lied;60
 soilure;20
 soir;30
 so it goes;60
+so it's come to this;60
 so it seems;60
 so it's finally come to this;60
+so it's said;60
 so I was like;60
 so I was thinking;60
 so jot that down;60
