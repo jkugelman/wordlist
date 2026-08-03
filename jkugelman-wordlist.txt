@@ -1361,6 +1361,9 @@ Adrienne;50;Common first name
 A drive;20
 adroiter;30
 adroitest;30
+a drop in the bucket;60
+a drop in the ocean;60
+a drop of;20
 ads;50
 ad sale;50
 ad sales;50
@@ -2487,6 +2490,7 @@ Alejandro G. Iñárritu;60;Filmmaker (born 1963)
 Alejandro González Iñárritu;60;Filmmaker (born 1963)
 Alejandro Gonzalez Inarritu;0
 Alejandro Iñárritu;50;Alejandro González Iñárritu, filmmaker (born 1963)
+Alejandro Peña;40;Dominican baseball player (born 1959)
 Alejo;40;Alejo Carpentier, Cuban novelist
 Alek;40
 ale keg;30
@@ -3873,6 +3877,11 @@ Andromache;50;Hector's wife in the Iliad
 Andromaque;40;Racine tragedy
 Andromeda;50;Neighboring galaxy, and a chained princess of myth
 Andronicus;40;"Titus Andronicus," Shakespeare tragedy
+Andropogon furcatus;20;Species of grass
+Andropogon gerardi;20;Species of grass
+Andropogon gerardii;20;Species of grass
+Andropogon scoparius;20;Species of grass
+Andropogon virginicus;20;Species of grass
 Andropov;40;Yuri Andropov, Soviet leader
 Andruw;40;Andruw Jones, Braves center fielder
 Andrzej;40;Andrzej Wajda, Polish director
@@ -6399,6 +6408,7 @@ Atomic Blond;60;Without the "e"?
 Atomic Blonde;60
 atomic blondes;60
 atomic blonds;60;Without the "e"?
+atomic bomb dropped;20
 atomic fountain;50;Laser-cooled atoms in flight
 atomic fountains;50;Laser-cooled atoms in flight
 atomicmasmoonit;0
@@ -9174,6 +9184,7 @@ befools;30
 be for;20
 before common era;60
 before I go;60
+Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
 before you rush to judgment;60
 before you say anything;60
@@ -13147,6 +13158,8 @@ bumbling sidekicks;60
 bumboat;40;Small boat used to ferry supplies to ships
 bumboats;40
 bumdebutal;0
+bum drop;40;Trampoline skill?
+bum drops;60;Trampoline skills?
 Bumgarner;40;Madison Bumgarner, World Series MVP pitcher
 bum knee;50
 bum knees;50
@@ -16743,6 +16756,8 @@ chimeras;50
 chimers;30
 chimes in on;40
 chiming in on;40
+Chimonanthus;20;Genus of flowering plants
+Chimonanthus praecox;20;Species of flowering plant
 Chimpsky;40;Nim Chimpsky, sign-language chimp
 china;50;Porcelain tableware / kind of drum cymbal
 China;50;Country in East Asia
@@ -25447,52 +25462,69 @@ drool rash;50;Baby's affliction
 drool rashes;50
 drools on;40
 drop a beat;50
+drop a bombshell;60
 drop acid;60
 drop a comment;60
 drop a comment down below;60
 drop a hint;50
+drop a truth bomb;60
+drop A tuning;40
 drop bars;60;Rap well
 drop behind;50
+drop B tuning;40
 drop by drop;50
 drop cap;60
 drop caps;60
+drop C tuning;40
 drop dead;60
 drop-dead date;60
 drop-dead dates;60
 drop dead gorgeous;60
+drop D tuning;60
+drop E tuning;40
+drop F tuning;40
+drop G tuning;40
 drop it;60
 drop-leaf table;50
 drop-leaf tables;50
 drop like flies;60
 drop one's aitches;30
 dropped a beat;50
+dropped a bombshell;60
 dropped acid;60
 dropped a comment;60
 dropped a hint;50
+dropped a truth bomb;60
 dropped bars;60
 dropped like flies;60
 dropped the ax;50
 dropped the axe;50
 dropped the ban hammer;60
 dropped the ban hammer on;60
+dropped the mic;60
 dropped trou;60
 dropping a beat;50
+dropping a bombshell;60
 dropping acid;60
 dropping a comment;60
 dropping a hint;50
+dropping a truth bomb;60
 dropping bars;60
 dropping like flies;60
 dropping the ax;50
 dropping the axe;50
 dropping the ban hammer;60
 dropping the ban hammer on;60
+dropping the mic;60
 dropping trou;60
 drop point;60
 drop points;60
 drops a beat;50
+drops a bombshell;60
 drops acid;60
 drops a comment;60
 drops a hint;50
+drops a truth bomb;60
 drops bars;60
 drops bombs;50
 drop set;60
@@ -25506,12 +25538,14 @@ drops the ax;50
 drops the axe;50
 drops the ban hammer;60
 drops the ban hammer on;60
+drops the mic;60
 drops trou;60
 dropsy;20;Old term for swelling (edema)
 drop the ax;50
 drop the axe;50
 drop the ban hammer;60
 drop the ban hammer on;60
+drop the mic;60
 drop trou;60
 Drosera;30;Sundew genus
 Drosophila;30;Fruit fly genus
@@ -28588,6 +28622,7 @@ ESL;40
 Esmail;40;Sam Esmail, creator of "Mr. Robot"
 Esme;30
 Esmeralda;50;"The Hunchback of Notre-Dame" heroine
+Esmé Stuart Lennox Robinson;50;Irish dramatist and poet (1886–1958)
 eso;40
 Eso Beso;50;Paul Anka song
 esophagitis;40
@@ -28736,6 +28771,9 @@ estrins;30
 estrous;30;Being in heat
 estrus;30;When an animal is in heat
 Ests.;40;Estimates
+estuarial;50
+estuarine;40
+Estuary English;50;Accent of the southeast of England
 Esurance;30;Insurance company
 esurience;30;Greed
 esurient;30;Greedy
@@ -43691,6 +43729,11 @@ I'm off;60
 Imogen;40
 Imogene;40;Imogene Coca, "Your Show of Shows" comic
 I'm on;50
+I'm on a;20
+I'm on a Boat;60
+I'm on a call;60
+I'm on a diet;60
+I'm on a roll;60
 I'm on board;60
 I'm on duty;60
 I'm on it;60
@@ -47489,6 +47532,7 @@ just cool it would you;60
 just doing my job;60
 just doin' my job;60
 just don't;60
+just drop it;60
 Juster;40;Norton Juster, "The Phantom Tollbooth" author
 just for funsies;60
 Just for Men;60
@@ -51581,6 +51625,7 @@ let's call it a tie;60
 let's call it a wrap;60
 let's do the thing;60
 let's do this;60
+let's drop it;60
 letsee;20
 letsfree;0
 let's get cracking;60
@@ -52180,6 +52225,8 @@ limo drivers;50
 Limoges;40;French city known for porcelain
 Limón;40;Ada Limón, US Poet Laureate
 Limon;0
+limonata;40
+limonatas;40
 limonite;20;Iron ore
 limo ride;50
 limo rides;50
@@ -55810,6 +55857,7 @@ martini glass;50
 martini glasses;50
 Martinique;50;French Caribbean island
 Martinmas;40;St. Martin's feast day
+Martin Ritt;40;"Norma Rae" director
 Martin Scorsese;60
 Martinu;40;Bohuslav Martinů, Czech composer
 martlet;30;Mythical bird without feet
@@ -56350,6 +56398,8 @@ MCATs;40
 McAuliffe;50;Christa McAuliffe, Challenger teacher / Terry McAuliffe, Virginia governor
 McAvoy;40;James McAvoy, actor
 McBain;40;Ed McBain, crime novelist
+MC battle;60
+MC battles;60
 McBeal;50;Ally McBeal, TV lawyer
 McBeam;40;Steely McBeam, Steelers mascot
 McBrayer;40;Jack McBrayer, Kenneth on "30 Rock"
@@ -65929,6 +65979,10 @@ Owamni;40;Indigenous restaurant in Minneapolis
 Owasso;20
 Owda;40;Bisan Owda, Palestinian journalist and activist
 owe;50
+owe a debt;50
+owe a debt to;50
+owed a debt;50
+owed a debt to;50
 owed it to;40
 owed on;40
 owed to;40
@@ -65936,12 +65990,16 @@ owe it to;40
 Owen;50;Common first name
 Owens;50;Jesse Owens, four-gold sprinter at the 1936 Olympics
 Owensboro;40;Kentucky city
+owes a debt;50
+owes a debt to;50
 owes it to;40
 owes to;40
 owe to;40
 OWI;20
 owie;50
 owies;50
+owing a debt;50
+owing a debt to;50
 owing it to;40
 owing to;40
 o with tilde;50
@@ -75889,7 +75947,7 @@ risk-taker;50
 risk-takers;50
 Risky Business;60
 Risorgimento;50;Italian unification movement
-Rist;40;Pipilotti Rist, Swiss video artist
+Rist;30;Pipilotti Rist, Swiss video artist
 ristretto;40;Espresso shot
 ristrettos;40
 RIT;40
@@ -75900,7 +75958,7 @@ Rita Mae;40;"Rubyfruit Jungle" author Rita Mae Brown
 Ritchie;40;Guy Ritchie, director, or Ritchie Valens, rocker
 Rit dye;30;Fabric dye brand
 ritenuto;40;Music term
-Ritt;40;Martin Ritt, "Norma Rae" director
+Ritt;30;Martin Ritt, "Norma Rae" director
 Ritter;40;John Ritter, or Krysten Ritter, actors
 Ritz-Carlton;60
 Ritzes;40;Ritz hotels, or the crackers
@@ -82033,6 +82091,8 @@ simnels;30;Layered fruitcakes eaten in the UK and Ireland
 Simon;50;Paul Simon, singer, among many others
 Simona;40;Star tennis player Simona Halep
 Simon and Garfunkel;60;1960s folk duo
+Simon and Schuster;50
+Simon and Simon;40;CBS crime drama television series (1981–1988)
 Simone;50;Nina Simone, singer, or Simone Biles
 Simones;30
 Simon & Garfunkel;60;1960s folk duo
@@ -82043,6 +82103,7 @@ Simoniz;40;Car wax brand
 Simon Legree;50
 Simonon;40;Paul Simonon, the Clash's bassist
 Simons;30;Plural name
+Simon & Simon;40;CBS crime drama television series (1981–1988)
 simony;30
 simoom;30;???
 simoon;20
@@ -86753,6 +86814,7 @@ straitening;30
 straitens;30
 strake;20;Boat planking
 strakes;20
+Stranded (Haiti Mon Amour);50;Song by Jay-Z, Bono, The Edge and Rihanna
 strange, isn't it?;60
 Strangelove;50;Dr. Strangelove, Kubrick title character
 strange ordeal;60
@@ -92544,6 +92606,7 @@ Timmy;50;Timmy Turner, "The Fairly OddParents" hero
 Timmy's;40;Tim Hortons, familiarly
 Timnit;40;Timnit Gebru, AI ethics researcher
 Timon;40;From "The Lion King"
+Timon and Puumba;0
 Timor;40;East Timor, or the Timor Sea
 Timorese;40;Of Timor
 Timothee;50
