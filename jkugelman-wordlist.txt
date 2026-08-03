@@ -5450,6 +5450,7 @@ Arnold's;40;Happy Days diner
 aro;40
 aro ace;60
 aroar;50
+A-Rod;40
 aroint;20;Shakespearean "Begone!"
 arointed;20
 arointing;20
@@ -29251,7 +29252,7 @@ Ewa;20
 e-wallet;40
 e-wallets;40
 Ewan;40;Ewan McGregor, actor
-Ewart;40;William Ewart Gladstone, British PM
+Ewart;30;William Ewart Gladstone, British PM
 e-waste;50
 Ewbank;40;Weeb Ewbank, Jets' Super Bowl III coach
 ewe;50
@@ -39981,6 +39982,8 @@ held at arms length;60
 held back;50
 held dear;60
 held firm;60
+held forth about;40
+held one's hand out;50
 held onto;40
 held responsible;50
 held scoreless;50
@@ -41119,10 +41122,13 @@ hold back;50
 hold dear;60
 Holden;50;Holden Caulfield, "Catcher in the Rye" narrator / William Holden, actor
 hold firm;60
+hold forth about;40
 holding at arms length;60
 holding back;50
 holding dear;60
 holding firm;60
+holding forth about;40
+holding one's hand out;50
 holding onto;40
 holding the key;50
 holding the key to;50
@@ -41135,6 +41141,7 @@ hold on;60
 hold on before you answer;60
 hold on before you rush to judgment;60
 hold on before you say anything;60
+hold one's hand out;50
 hold on, hear me out;60
 hold on one second;60
 hold onto;40
@@ -41146,7 +41153,9 @@ holds back;50
 hold scoreless;50
 holds dear;60
 holds firm;60
+holds forth about;40
 holds on;50
+holds one's hand out;50
 holds onto;40
 holds scoreless;50
 holds the key;50
@@ -41166,15 +41175,19 @@ hole;50
 hole a;20
 hole card;60
 hole cards;60
+holed out;50
 hole in one;50
+hole out;50
 holes;50
 hole saw;50
 hole saws;50
 holes in one;50
+holes out;50
 Holi;40;Hindu festival of colors
 holiday shopping;60
 Holies;40;Holy of Holies
 holily;30;Weird adverb
+holing out;50
 Holinshed;40;Raphael Holinshed, chronicler Shakespeare drew on
 holist;40
 holists;40
@@ -41187,9 +41200,13 @@ Hollanders;50;Dutchmen, old-fashioned
 Hollands;30
 holler at;40
 hollered at;40
+hollered out;50
 hollering at;40
+hollering out;50
 Hollerith;30;Punch card inventor
+holler out;50
 hollers at;40
+hollers out;50
 Holley;40;Lonnie Holley, self-taught artist and musician
 Holliday;40;Doc Holliday, O.K. Corral gunfighter / Judy Holliday, actress
 Hollies;40;The Hollies, "He Ain't Heavy" band
@@ -45137,7 +45154,7 @@ is anyone home?;60
 is anyone home;0
 Isao;40;Isao Aoki, golfer / Isao Takahata, anime director
 is apt to;40
-Isar;40;River through Munich
+Isar;30;River through Munich
 is at one's leisure;20
 I saw;40
 I saw it;40
@@ -50113,7 +50130,7 @@ LaPaglia;40;Anthony LaPaglia, actor
 lap at;40
 lap cat;60
 lap cats;60
-LAPD;50
+LAPD;40
 lap dance;60
 lap dances;60
 lapdog;60
@@ -52924,6 +52941,8 @@ London Eye;60
 London Times;50
 Londres;40;London, in French and Spanish
 Lone Gunmen;60
+lone holdout;60
+lone holdouts;60
 lonelily;30;Weird adverb
 loneness;30
 Lonergan;40;Kenneth Lonergan, "Manchester by the Sea" director
@@ -54027,6 +54046,7 @@ M;40
 ma;50
 maa;40
 MAACO;40
+MAAD;30
 Maalox;40;Antacid brand
 ma'ams;40;Weird plural
 Maangchi;40;Korean cooking YouTuber
@@ -58297,6 +58317,7 @@ MLB umpire;50
 MLB umpires;50
 MLB umps;40
 M. L. Carr;30;NBA player/coach M. L. Carr
+mlem;20
 MLI;20
 MLII;20
 MLIII;20
@@ -99994,6 +100015,7 @@ Willems;40;Mo Willems, children's author
 Willemstad;40;Capital of Curacao
 Will Forte;50
 William;50;Extremely common first name
+William Ewart Gladstone;40;Four-time UK Prime Minister (1809-1898)
 William Hung;40
 William I;30
 William II;30
@@ -100920,7 +100942,7 @@ WWII vet;50
 WWII vets;50
 WWI vet;50
 WWI vets;50
-WWJD;60;What would Jesus do?
+WWJD;40;What would Jesus do?
 WWW;40
 wxy;20
 wxyz;20
