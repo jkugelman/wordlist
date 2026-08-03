@@ -3703,6 +3703,7 @@ Anamese;20
 anamorphic;50
 Anand;40
 Ananda;40
+Ana Ng;20;1988 single by They Might Be Giants
 Anania;20;Biblical liar
 Ananias;20;Biblical liar
 Anansi;40
@@ -13573,6 +13574,7 @@ Byng;40;Julian Byng, British general and Canadian governor general
 by night;20
 Bynum;40;Andrew Bynum, NBA center
 BYO;30
+BYOB;40
 by phone;40
 by pure chance;60
 by pure luck;60
@@ -23179,6 +23181,7 @@ did a jig;50
 did all the talking;50
 did a set;50
 did a shot;50
+did a solid;60
 did a stretch;50
 did a vanishing act;60
 did business;40
@@ -23228,6 +23231,7 @@ didn't you hear?;60
 didn't you hear;0
 Dido;50;Queen of Carthage, or the singer
 DiDonato;40;Joyce DiDonato, opera mezzo-soprano
+did one a solid;40
 did one's fair share;50
 did one's homework;60
 Dido's;30;Dido's Lament, Purcell aria
@@ -24023,6 +24027,7 @@ do all the talking;50
 do a set;50
 do a shot;50
 do as I say;60
+do a solid;60
 do a stretch;50
 do a take on;20
 do a vanishing act;60
@@ -24110,6 +24115,7 @@ does a jig;50
 does all the talking;50
 does a set;50
 does a shot;50
+does a solid;60
 does a stretch;50
 does a vanishing act;60
 does donuts;60
@@ -24136,6 +24142,7 @@ doesn't have a prayer;50
 doesn't have time;50
 doesn't hold water;60
 doesn't hurt;60
+does one a solid;40
 does one's fair share;50
 does one's homework;60
 does poorly;50
@@ -24331,6 +24338,7 @@ doing it by the book;60
 doing it for the gram;60
 doing laps;50
 doing lunch;50
+doing one a solid;40
 doing one's fair share;50
 doing one's homework;60
 doing poorly;50
@@ -24480,6 +24488,7 @@ Donder;40;Reindeer in "The Night Before Christmas"
 done already;60
 done and done;60
 done and dusted;60
+done a solid;60
 done deal;60
 done deals;60
 donee;40
@@ -24671,6 +24680,7 @@ doom to;40
 Doomtree;40;Minneapolis hip-hop collective
 Doona;40;Bae Doona, Korean actress
 Doone;40
+do one a solid;40
 do one in;40
 Doonesbury;50;Garry Trudeau comic strip
 do one's fair share;50
@@ -27535,6 +27545,7 @@ e-money;30
 emono;20
 emo rap;60
 Emory;40;Emory University, in Atlanta
+emos;40
 emoter;50
 emoters;50
 emoticon;50
@@ -39989,7 +40000,9 @@ Hejinian;40;Lyn Hejinian, Language poet
 Hejira;20;Joni Mitchell album
 Hekate;40
 Hel;30;Norse god
-Hela;40;HeLa cells, or Marvel's goddess of death
+Hela;30;HeLa cells, or Marvel's goddess of death
+HeLa cell;40
+HeLa cells;40
 Helberg;40;Simon Helberg, actor on "The Big Bang Theory"
 held at arms length;60
 held back;50
@@ -47883,6 +47896,7 @@ Kate;50;Common first name
 Katee;40;Katee Sackhoff, "Battlestar Galactica" actress
 Katelyn;40;Katelyn Ohashi, viral perfect-10 gymnast
 Katelyn Ohashi;50;American gymnast
+Kate Manne;40;Professor of philosophy
 Kate Mara;60
 Kate Pierson;50;B-52s singer
 Kate Spade;50
@@ -55261,7 +55275,7 @@ manly men;60
 Manmohan;40;Manmohan Singh, Indian prime minister
 Mann;40;Singer Aimee Mann, director Michael Mann
 mannas;20
-Manne;40;Kate Manne, philosopher / Shelly Manne, jazz drummer
+Manne;30;Kate Manne, philosopher / Shelly Manne, jazz drummer
 Manneken;40;Manneken Pis, peeing Brussels statue
 Mannenberg;40;Abdullah Ibrahim jazz anthem
 Mannerheim;40;Carl Gustaf Mannerheim, Finnish marshal and president
@@ -60013,6 +60027,8 @@ MVP;50
 MVPs;50
 Mvskoke;40;Muscogee (Creek) name for their language
 Mvula;40;Laura Mvula, British singer-songwriter
+M. Ward;30;Singer-songwriter, Grammy nominated producer and guitarist (born 1973)
+M Ward;0
 MXC;20
 MXI;20
 MXII;20
@@ -60416,7 +60432,10 @@ naptime;60
 nap-trapped;60
 Naqoyqatsi;40;Third film in the "Qatsi" trilogy
 nar;20
-Nara;40;Ancient capital of Japan
+Nara;30;Ancient capital of Japan
+Nara, Japan;40;Ancient capital of Japan
+Nara Japan;0
+Nara Smith;40;South African and German influencer and model (born 2001)
 Narayan;30;Indian writer R. K. Narayan (1906–2001)
 narc;50
 Narcan;50;Opioid overdose antidote
@@ -64789,7 +64808,7 @@ oops, my mistake;60
 oopsy-daisy;60
 oorah;50;Marine Corps battle cry
 Oort;40
-OOTD;40;Outfit of the day, on social media
+OOTD;30;Outfit of the day, on social media
 oox;20
 ooze;50
 ooze charm;60
@@ -90565,6 +90584,7 @@ theatres;40
 the audacity;60
 The Auk;40;Ornithology journal (birds)
 the Aussie Open;40
+The AV Club;60
 The Avengers;60
 The Aviator;60
 The Awful Truth;60
@@ -102564,7 +102584,7 @@ Zillennials;50;Those on the millennial-Gen Z cusp
 zillions;50
 Zillow;50;Real estate site
 Zim;40;"Invader Zim" alien
-Zima;50;'90s clear malt beverage
+Zima;40;'90s clear malt beverage
 Zimas;40;Zima malt beverages
 Zimbabwe;50;Southern African country
 Zimbabwean;40;Person from Zimbabwe
