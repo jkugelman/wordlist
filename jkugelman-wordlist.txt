@@ -20777,6 +20777,7 @@ Cupids;40;Valentine's Day cherubs
 cup noodles;60
 cup of cocoa;50
 cup of milk;50
+cup of mud;60
 cup o' joe;60
 cup one's hands;50
 Cup o' Noodles;60
@@ -20785,6 +20786,7 @@ cupping one's hands;50
 cuprite;30;Copper ore
 cuprous;30;Relating to, or containing, or of copper
 cups of cocoa;50
+cups of mud;60
 cups o' joe;50
 cups one's hands;50
 cup stacking;60
@@ -30188,6 +30190,8 @@ far side;60
 farsighted;60
 farsightedness;60
 fart;20;Air offensive?
+fart joke;60
+fart jokes;60
 Fartlek;50;Running workout of alternating speeds
 Fartleks;40;Speed-play running workouts
 far worse;50
@@ -30296,6 +30300,8 @@ Fatimah;30
 Fatimas;30;Cigarettes popular in the early 1900s
 Fatimid;40;Medieval Egyptian caliphate
 Fatimids;40;Medieval Islamic caliphate dynasty
+fat joke;10
+fat jokes;10
 fat lot;50
 fat lot of good;60
 fatly;50
@@ -34816,6 +34822,7 @@ get down to brass tacks;60
 get 'em;50
 get emotional;60
 get 'er done;50
+get even with;50
 get fat;10
 get fired;60
 get fucked up;10
@@ -34914,6 +34921,7 @@ gets dirt on;50
 gets done;50
 gets down to brass tacks;60
 gets emotional;60
+gets even with;50
 gets fat;10
 gets fired;60
 gets fucked;10
@@ -35040,6 +35048,8 @@ getting dark;30
 getting dirt on;50
 getting down to brass tacks;60
 getting emotional;60
+gettingevenwith;60
+getting even with;50
 getting fat;10
 getting fired;60
 getting for a song;60
@@ -36750,6 +36760,7 @@ got dirt on;50
 got down to brass tacks;60
 go team go;60
 got emotional;60
+got even with;50
 got fat;10
 got fired;60
 got fucked;10
@@ -36834,6 +36845,7 @@ Gotta Catch 'Em All;60
 gottan;30;Japanese plucked instrument
 gotten done;50
 gotten emotional;50
+gotten even with;50
 gottenhomesafe;50
 gotten in;40
 gotten one's shit together;10
@@ -82384,13 +82396,13 @@ skiing lessons;60
 skiings;20
 ski jacket;50
 ski jackets;50
-skijor;60
-skijore;60
-skijored;60
-skijorer;60
-skijorers;60
-skijores;60
-skijoring;60;Winter sport where a skier is pulled by a horse, dog, or motor vehicle
+skijor;40
+skijore;40
+skijored;40
+skijorer;40
+skijorers;40
+skijores;40
+skijoring;40;Winter sport where a skier is pulled by a horse, dog, or motor vehicle
 ski jump;60
 ski jumped;60
 ski jumper;60
@@ -94354,10 +94366,12 @@ Troyes;30;French commune
 trs;20
 tru;40
 truancies;30
+truck away;40
 truck driver;50
 truck drivers;50
 truck driver's gear change;60;Sudden key change
 truck driver's gear shift;60;Sudden key change
+trucked away;40
 Truckee;30;???
 Truckee River;40
 trucker;50
@@ -94368,12 +94382,14 @@ Truckers Against Trafficking;50
 truckie;20;Trucker
 truckies;20;Truckers
 Truckin';40;Grateful Dead song
+trucking away;40
 truckle;30
 truckled;30
 truckler;30;Bootlicker
 trucklers;30
 truckles;30
 truckling;30
+trucks away;40
 Trudeau;50;Justin Trudeau, Canadian PM / Garry Trudeau, "Doonesbury" cartoonist
 Trudeaumania;50;1968 Pierre Trudeau craze
 Trudi;40
