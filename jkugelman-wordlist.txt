@@ -82481,16 +82481,23 @@ skibobbing;50
 skibobs;40
 ski chalet;60
 ski chalets;60
+skidded out;40
+skidding out;40
 skiddy;40
 skid lid;50
 skid lids;50
 Skidmore;40;Saratoga Springs college
 skidoo;40
+skid out;40
 skid row bum;20
+skids out;40
+skied out;30
+skies out;30
 SkiFree;40;Windows game with the abominable snowman
 skiing lesson;60
 skiing lessons;60
 skiings;20
+ski in ski out;50
 ski jacket;50
 ski jackets;50
 skijor;40
@@ -82633,6 +82640,7 @@ skydiving;50
 SkyDome;40;Toronto's former ballpark name
 Skye;50
 Skyfall;50;Bond film and Adele theme
+skying out;30
 skyjack;10
 skyjacked;10
 skyjacker;10
@@ -82649,6 +82657,7 @@ sky marshals;50
 SkyMiles;50
 Skynet;60
 Skynyrd;50;Lynyrd Skynyrd, "Free Bird" band
+sky out;30
 Skype;50;Video calling service
 Skyped;40;Video-called, once upon a time
 Skypes;40;Video-calls, in brand terms
