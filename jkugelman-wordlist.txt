@@ -21192,7 +21192,7 @@ dah;40
 dahi;30;Indian yogurt
 Dahl;40;Roald Dahl, children's author
 Dahomey;40;West African kingdom, now Benin
-dahs;30
+dahs;40
 Dahvana;40;Maria Dahvana Headley, author and "Beowulf" translator
 dai;20
 Daikaiju;50;Surf punk band
@@ -23826,6 +23826,7 @@ Ditka;50;Mike Ditka, Bears coach and "Da Bears" icon
 Ditko;20;Spider-Man creator Steve
 Ditlevsen;40;Tove Ditlevsen, Danish memoirist
 Ditmars;40;Queens neighborhood
+dits;40
 ditsier;40;Alternative spelling of ditzier
 ditsiest;40;Alternative spelling of ditziest
 ditsy;40;Alternative spelling of ditzy, or a repeating pattern in fashion
