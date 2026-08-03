@@ -10610,9 +10610,13 @@ blearing;40
 blears;40
 bleary;50
 Bledel;40;Alexis Bledel, "Gilmore Girls" actress
+bled off;40
 Bledsoe;40;Drew Bledsoe, NFL quarterback
 Bleecker;40;Greenwich Village street
+bleeding off;40
 bleedings;30
+bleed off;40
+bleeds off;40
 bleep censors;60
 bleeped out;60
 bleeping out;60
@@ -10649,6 +10653,8 @@ blew one's top;60
 blew smoke;50
 blew the joint;60
 blew the lead;60
+blew the lid off;60
+blew the lid off of;60
 blew up one's spot;60
 blew wide open;60
 Bley;40;Carla Bley, jazz composer / Paul Bley, pianist
@@ -10819,6 +10825,8 @@ blowing one's top;60
 blowing smoke;50
 blowing the joint;60
 blowing the lead;60
+blowing the lid off;60
+blowing the lid off of;60
 blowing up one's spot;60
 blowing wide open;60
 blow into;40
@@ -10850,10 +10858,14 @@ blows one's top;60
 blows smoke;50
 blows the joint;60
 blows the lead;60
+blows the lid off;60
+blows the lid off of;60
 blows up one's spot;60
 blows wide open;60
 blow the joint;60
 blow the lead;60
+blow the lid off;60
+blow the lid off of;60
 blow this popsicle stand;60
 blowtorch;50
 blowtorches;50
