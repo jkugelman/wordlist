@@ -9729,6 +9729,7 @@ be that as it may;60
 Bethe;20;Partial
 be the ball;60;Caddyshack advice
 be the bigger man;60
+be the change you wish to see in the world;60
 Bethel;40;Biblical site, and Woodstock's town
 Bethenny;40;Bethenny Frankel, "Real Housewives" star and Skinnygirl founder
 Bethesda;50;Maryland home of the NIH
@@ -14349,7 +14350,12 @@ can I help you;60
 canine teeth;50
 canine tooth;50
 Canis;40
-can I see;60
+can I see?;60
+can I see;0
+can I see it?;50
+can I see it;0
+can I see some ID?;60
+can I see some ID;0
 Canis familiaris;50
 can I steal you for a second;60
 can it;50;"Shut up"
@@ -14470,7 +14476,10 @@ can't see straight;60
 can't stick around;50
 can't win;50
 Canty;40;Tom Canty, the pauper in "The Prince and the Pauper"
-can't you see;60
+can't you see?;60
+can't you see;0
+can't you see I'm busy?;60
+can't you see I'm busy;0
 Can't You See That She's Mine;50;1964 single by The Dave Clark Five
 Canuck;50;Canadian, informally
 Canuckistan;50;Jocular name for Canada
@@ -14496,7 +14505,12 @@ can you not;60
 can you please not?;60
 can you repeat that?;60
 can you repeat that;0
-can you see;50
+can you see?;60
+can you see;0
+can you see me now?;50
+can you see me now;0
+can you see my screen?;60
+can you see my screen;0
 can you spare a dime?;50
 can you tell?;50
 canzone;30;Italian ballad
@@ -23300,8 +23314,10 @@ did you hear the news;0
 did you lose a bet?;60
 did you or didn't you?;60
 did your fair share;50
-did you see my text;60
-did you see that;60
+did you see my text?;60
+did you see my text;0
+did you see that?;60
+did you see that;0
 die;50
 die a death;50
 Die Another Day;60
@@ -24672,7 +24688,8 @@ don't yell;60
 don't you believe it;60
 don't you like it;60
 don't you remember;60
-don't you see;60
+don't you see?;60
+don't you see;0
 don't you think;60
 donut hole;60
 donut holes;60
@@ -25012,6 +25029,10 @@ do you mind? I'm eating here;60;"Gross!"
 do you mind? I'm trying to eat;60;"Gross"
 do your fair share;50
 do you see;60
+do you see my point?;60
+do you see my point;0
+do you see that?;50
+do you see that;0
 do you see what I see?;60
 do you see what I see;0
 do you think I'm playing?;60
@@ -45508,6 +45529,8 @@ is that a yes;0
 is that a yes or a no?;60
 is that a yes or a no;0
 is that clear;60
+is that how you see me?;60
+is that how you see me;0
 is that it;60
 is that sad or what?;60
 is that sad or what;0
@@ -99328,12 +99351,14 @@ we're not even here;60
 we're not worthy, we're not worthy;60;"Wayne's World" catchphrase
 we're not worthy we're not worthy;0
 weren't meant to be;60
+We're Off to See the Wizard;60
 we're on;40
 we're on the same wavelength;60
 we're open;60
 we're rich;60
 we're so back;60
 we're so old;50
+we're sorry to see you go;60
 we're stuck;50
 we're stumped;60
 we're sunk;60
