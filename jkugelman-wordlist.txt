@@ -24540,6 +24540,7 @@ don't despair;60
 don't dilly-dally;60
 don't do that;60
 don't drink and drive;60
+don't eat me;50
 don't eat that;60
 don't erase;60
 Don't Forget I Still Love You;50;1964 song/album by Bobby Martin
@@ -58017,11 +58018,13 @@ minters;30
 Mintz;40;Christopher Mintz-Plasse, McLovin in "Superbad"
 Minuit;20;Peter who bought Manhattan in the 1600s
 minuscule amount;50
+minuted;40
 Minuteman;50;Revolutionary War militiaman
 Minutemen;50;Revolutionary War militia
 Minute Rice;60
 Minutewoman;40;UMass Minutewomen, singularly
 Minutewomen;40;UMass women's teams
+minuting;40
 minyan;20;Quorum for Jewish worship
 minyanim;20
 minyans;20
@@ -95703,6 +95706,10 @@ Uncola;50;7 Up, in old ads
 unconcern;30
 uncordial;30
 uncousinly;30
+uncreate;30
+uncreates;30
+uncreating;30
+uncreativeness;50
 uncrewed;50
 Uncrustable;50;Smucker's crustless PB&J
 Uncrustables;50;Smucker's crustless PB&J
