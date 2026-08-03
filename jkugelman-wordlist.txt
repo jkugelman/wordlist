@@ -2687,6 +2687,8 @@ alit;50
 Alita;30
 Alitalia;40;Defunct Italian airline
 a literal who's who;60
+Alito;40
+Alitos;20
 a little;40
 a little bit of both;50
 a little help;60
@@ -3222,6 +3224,7 @@ Amalie;40;Charlotte Amalie, capital of the Virgin Islands
 Amalienborg;40;Copenhagen royal palace
 Amalric;40;Mathieu Amalric, French actor
 Amana;40;Kitchen appliance brand
+A Man Alone;40;1955 Western film
 a man apart;50
 a man a plan;30
 a man a plan a canal;40
@@ -23115,6 +23118,7 @@ diamonds;50
 Dian;40;Dian Fossey, gorilla expert
 Diana;50;Princess Diana, or the Roman goddess
 Diana Gabaldon;50;Author of the "Outlander" books
+Diana Ross;60
 Dianas;30;Plural name
 Diane;50;Diane Keaton, actor, among others
 Diane Morgan;50;She plays Philomena Cunk
@@ -56886,6 +56890,7 @@ Mega Man;60
 mega meta;50;???
 Megamind;50;Animated supervillain movie
 Megan;50;Common first name
+Megan's Law;50;Law requiring police to make information available to the public regarding registered sex offenders
 Megan Thee Stallion;60
 megastar;50
 megastars;50
@@ -86177,6 +86182,7 @@ stentor;30;Loud speaker
 stentors;30;Loud speakers
 Steny;40;Steny Hoyer, longtime House Democratic leader
 Stepanakert;40;Capital of Nagorno-Karabakh
+step aside;60
 stepaunt;50
 stepaunts;40
 step by step;60
@@ -88545,12 +88551,13 @@ take a cut;50
 take a dip;60
 take a dirt nap;60
 take a dislike to;50
-take a dive;50
+take a dive;60
 take after;50
 take a gander;60
 take a good look;60
 take a hard pass;50
 take a header;50
+take a hike;60
 take a hint;60
 take aim at;40
 take a joy ride;60
@@ -88599,7 +88606,9 @@ Takemitsu;40;Toru Takemitsu, Japanese composer
 take my wife please;60
 taken a cue from;50
 taken a dislike to;50
+taken a dive;60
 taken after;50
+taken a hike;60
 taken a step back from;40
 taken away from;40
 taken by storm;60
@@ -88638,10 +88647,11 @@ takes a cut;50
 takes a dip;60
 takes a dirt nap;60
 takes a dislike to;50
-takes a dive;50
+takes a dive;60
 takes after;50
 takes a hard pass;50
 takes a header;50
+takes a hike;60
 takes a hint;50
 takes aim at;40
 takes a joy ride;60
@@ -88736,10 +88746,11 @@ taking a cut;50
 taking a dip;60
 taking a dirt nap;60
 taking a dislike to;50
-taking a dive;50
+taking a dive;60
 taking after;50
 taking a hard pass;50
 taking a header;50
+taking a hike;60
 taking aim at;40
 taking a joy ride;60
 taking a knee;60
@@ -93195,10 +93206,11 @@ took a cut;50
 took a dip;60
 took a dirt nap;60
 took a dislike to;50
-took a dive;50
+took a dive;60
 took after;50
 took a hard pass;50
 took a header;50
+took a hike;60
 took a hint;50
 took aim at;40
 took a joy ride;60
@@ -99818,7 +99830,8 @@ who's a good girl;60
 who said that;60
 WhoSampled;40;Music-sampling database site
 who's asking;60
-who says;60
+who says?;60
+who says;0
 whose idea was this;60
 Whose Line;60
 Whose Line Is It Anyway;60
