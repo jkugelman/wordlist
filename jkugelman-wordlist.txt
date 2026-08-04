@@ -25206,6 +25206,8 @@ Drake Maye;40;NFL quarterback
 Drakensberg;50;South Africa's great mountain range
 Drake U;40;???
 Drakkar;40;Drakkar Noir cologne, or a Viking longship
+drama lesson;50
+drama lessons;50
 drama llama;60
 drama llamas;60
 Dramamine;50
@@ -29859,6 +29861,7 @@ Facebook;50;Social network
 Facebook account;60
 Facebook accounts;60
 Facebook buttons;50
+Facebook creeping;60
 Facebook group;60
 Facebook groups;60
 Facebook like;60
@@ -30453,6 +30456,7 @@ fateful day;60
 Fatehi;40;Nora Fatehi, Bollywood dancer and actor
 Fatehpur;40;Fatehpur Sikri, Mughal capital in India
 Fate of the Furious;60
+fate will find a way;50
 fat farm;40
 fat farms;40
 Fatha;30;Jazz nickname
@@ -36096,6 +36100,7 @@ godlily;30;Weird adverb
 God no;60
 god of many names;60
 Godot;50;Beckett's famous no-show
+go downhill fast;60
 go down the line;50
 go down to the wire;60
 Godowsky;40;Leopold Godowsky, virtuoso pianist and composer
@@ -36149,6 +36154,7 @@ goes by the book;60
 goes condo;50
 goes deaf;50
 goes deep undercover;60
+goes downhill fast;60
 goes down the line;50
 goes down to the wire;60
 goes dry;50
@@ -39151,6 +39157,8 @@ hard cider;60
 hard ciders;60
 hard contact lens;50
 hard contact lenses;50
+hardcore punk band;60
+hardcore punk bands;60
 hard cut;60
 hard cuts;60
 hard disagree;60
@@ -49952,6 +49960,8 @@ Lady Day;50;Christian holiday (March 25), or nickname for Billie Holiday
 Lady Deathstrike;60;X-Men supervillain
 Lady Di;60
 Lady Diana;60
+Lady Dior handbag;50
+Lady Dior handbags;50
 Lady Eve;40;1941 Stanwyck/Fonda comedy "The Lady Eve"
 Lady Godiva;50
 Ladyhawke;40;1985 fantasy film, and a New Zealand pop act
@@ -50589,6 +50599,8 @@ late April;20
 late bet;50
 late bets;50
 late dates;40
+late edition;50
+late editions;50
 Lateef;40;Hip hop artist
 lateen;30;Triangular sail
 lateens;30;Triangular sails
@@ -51669,6 +51681,7 @@ lessoned;30;Taught, archaic
 lessons;50
 lessor;40
 lessors;40
+Less Talk, More Rock;50
 less tar;40
 less than stellar;60
 Lestat;50;Anne Rice's vampire
@@ -53207,11 +53220,15 @@ look at;40
 look at that;60
 look at you;60
 look down on;50
+look down one's nose;60
+look down one's nose at;60
 looked a fool;50
 looked after;50
 looked after number one;60
 looked at;40
 looked down on;50
+looked down one's nose;60
+looked down one's nose at;60
 looked fishy;60
 looked forward;50
 looked forward to;50
@@ -53235,6 +53252,8 @@ looking after;50
 looking after number one;60
 looking at;40
 looking down on;50
+looking down one's nose;60
+looking down one's nose at;60
 looking fishy;60
 looking forward;50
 looking forward to;50
@@ -53259,6 +53278,8 @@ looks after;50
 looks after number one;60
 looks at;40
 looks down on;50
+looks down one's nose;60
+looks down one's nose at;60
 look-see;50;Gander
 look-sees;30
 looks fishy;60
@@ -60823,6 +60844,8 @@ navy man;50
 navy men;50
 Navy SEAL;50
 Navy SEALs;50
+Navy SEAL team;60
+Navy SEAL teams;60
 navy sub;50
 navy subs;50
 Navy veteran;50
@@ -66035,6 +66058,7 @@ Overlook Hotel;60;From "The Shining"
 overlying;50
 overman;30
 overnight bags;50
+over one's dead body;50
 over par;50
 overperforming;50
 overpromise;60
@@ -69498,6 +69522,7 @@ played to the camera;60
 played to the cheap seats;60
 played to the crowd;60
 played to the gallery;60
+played with one's food;60
 player one;50
 player trade;60
 player trades;60
@@ -69531,6 +69556,7 @@ playing to the camera;60
 playing to the cheap seats;60
 playing to the crowd;60
 playing to the gallery;60
+playing with one's food;60
 play it smart;60
 playlet;40
 playlets;40
@@ -69571,6 +69597,7 @@ play stupid games;60
 play stupid games win stupid prizes;60
 play style;60
 play styles;60
+plays with one's food;60
 playtest;60
 playtested;60
 playtester;60
@@ -69590,6 +69617,7 @@ play to the cheap seats;60
 play to the crowd;60
 play to the gallery;60
 play within a play;60
+play with one's food;60
 Plaza Hotel;60
 Plaza Suite;50
 pleach;30;Entwine branches to form a hedge
@@ -74716,8 +74744,12 @@ renest;20
 renested;20
 renesting;20
 renests;20
+renewed one's vows;60
 renewer;30
 renewers;30
+renewing one's vows;60
+renew one's vows;60
+renews one's vows;60
 ren faire;60
 ren faires;60
 Renfield;40;Dracula's bug-eating servant
@@ -75923,6 +75955,8 @@ ringing true;60
 Ringling;50;Ringling Bros. circus
 ringmaster;60
 ringmasters;60
+ringneck dove;50
+ringneck doves;50
 Ringo;50;Ringo Starr, Beatles drummer
 ringos;0
 Ringo Starr;60
@@ -76181,6 +76215,8 @@ roadshow;50
 roadshows;50
 roadside diner;60
 roadside diners;60
+roadside inn;50
+roadside inns;50
 road to hell;60
 road to ruin;60
 road trip;50
@@ -76492,6 +76528,7 @@ rolled a cigar;50
 rolled by;40
 rolled into;40
 rolled on;40
+rolled one's eyes;50
 rolled over an IRA;20
 rolled R;50
 rolled R's;50
@@ -76516,6 +76553,7 @@ rolling a cigar;50
 rolling by;40
 rolling into;40
 rolling on;40
+rolling one's eyes;50
 rolling pin;50
 rolling pins;50
 rollings;30;Weird plural
@@ -76527,6 +76565,7 @@ roll into;40
 Rollo;40;"Nancy" character
 roll of tape;50
 roll-on;50;Roll-on deodorant
+roll one's eyes;50
 roll over a CD;30;Green paint
 roll over and play dead;60
 roll over an IRA;30;Green paint
@@ -76535,6 +76574,7 @@ rolls by;40
 rolls into;40
 rolls of tape;50
 rolls on;40
+rolls one's eyes;50
 Rolls-Royce;50
 Rolls-Royces;50
 rolls up into a ball;30
@@ -85747,6 +85787,7 @@ stand apart;50
 stand aside;60
 stand at;40
 stand at ease;50
+stand atop;40
 Stand by Me;60
 standee;30
 standees;30
@@ -85754,6 +85795,7 @@ stander;30
 standers;30
 stand in;50
 standing at ease;50
+standing atop;40
 standing next to;40
 standing O;60
 standing on;40
@@ -85774,6 +85816,7 @@ stand over;40
 stands apart;50
 stands at;40
 stands at ease;50
+stands atop;40
 stands next to;40
 stands on;40
 stands over;40
@@ -86788,6 +86831,7 @@ Stoney;40;Post Malone's debut album, variant spelling of stony
 stoney lonesome;60
 stood at;20
 stood at ease;50
+stood atop;40
 stood next to;40
 stood on;40
 stood over;20
@@ -98235,6 +98279,7 @@ waits around for;40
 waits for;40
 waits on;40
 waits up for;40
+Wait Till Next Year;50
 wait up for;40
 wait up for me;60
 wait your turn;60
@@ -99311,6 +99356,7 @@ went by the book;60
 went condo;50
 went deaf;50
 went deep undercover;60
+went downhill fast;60
 went down the line;50
 went down to the wire;60
 went dry;50
@@ -100212,6 +100258,8 @@ Wilburys;40;Traveling Wilburys, Dylan and Harrison's supergroup
 Wilcox;40;Ella Wheeler Wilcox, "Solitude" poet
 wild boar;50
 wild boars;50
+wild card playoff;60
+wild card playoffs;60
 wildcatted;50
 wildcatter;60;Oil prospector
 wildcatters;60
