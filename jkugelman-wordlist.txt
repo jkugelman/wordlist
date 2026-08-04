@@ -14508,6 +14508,8 @@ Cantrell;40;Jerry Cantrell, Alice in Chains guitarist
 cants;40
 can't see straight;60
 can't stick around;50
+can't stop won't stop;60
+can't turn that down;50
 can't win;50
 Canty;40;Tom Canty, the pauper in "The Prince and the Pauper"
 can't you see?;60
@@ -15281,6 +15283,7 @@ casts a shadow over;60
 casts a spell on;60
 casts lots;50
 casts on;30
+cast your mind back;60
 casu;20
 casuals;60
 casual sex;60
@@ -18632,6 +18635,7 @@ come at me;60
 come at me bro;60
 come back empty-handed;50
 come bet;50
+Come Blow Your Horn;50;1961 Neil Simon play
 come by;40
 come clean;50
 come, come;50
@@ -23326,6 +23330,7 @@ did it for the gram;60
 didja;50
 did laps;50
 did lunch;50
+did more with less;60
 did not;40;Playground retort
 didn't click;60
 didn't give a fuck;10
@@ -24246,6 +24251,7 @@ does it matter;60
 does it spark joy?;60;Marie Kondo-ism
 does laps;50
 does lunch;50
+does more with less;60
 does not;40;Playground retort
 doesn't give a flip;60
 doesn't give a fuck;10
@@ -24273,6 +24279,8 @@ does the Pope wear a funny hat?;60
 does the splits;50
 does the thing;60
 does the trick;60
+does this look good?;60
+does this look good;0
 does this spark joy?;60;Marie Kondo-ism
 does time;50
 does to;30;Inflicts upon ("what my boss does to me...")
@@ -24451,6 +24459,7 @@ doing it by the book;60
 doing it for the gram;60
 doing laps;50
 doing lunch;50
+doing more with less;60
 doing one a solid;40
 doing one's fair share;50
 doing one's homework;60
@@ -24570,6 +24579,7 @@ dommes;40;Female dominants in a sadomasochistic relationship
 domo;40
 domo arigato Mr. Roboto;60
 domo arigato Mr Roboto;0
+do more with less;60
 doms;40
 Domus;40;Latin for "house," as in the Domus Aurea
 don;50
@@ -43093,6 +43103,7 @@ Idlewild;50;JFK Airport's former name
 idli;40;Indian rice cake
 I'd Lie for You (And That's the Truth);50;1995 single by Meat Loaf
 I'd like to but;60
+I'd like to see you try;60
 idling away;30
 I'd never;60
 ID number;50
@@ -46385,6 +46396,8 @@ Jamaican;50;From Kingston's island
 Jamaicans;50;People of Kingston's island
 Jamal;40;Ahmad Jamal, jazz pianist
 Jamba;40;Jamba Juice, smoothie chain
+jam band;60
+jam bands;60
 Jameela;40;Jameela Jamil, "The Good Place" actress
 Jameis;40;Jameis Winston, NFL quarterback
 Jamelle;40;Jamelle Bouie, New York Times columnist
@@ -46798,6 +46811,7 @@ jelly doughnuts;60
 jellyfish bloom;60
 jellyfish blooms;60
 Jelly's;30;"Jelly's Last Jam", Jelly Roll Morton musical
+Jelly's Last Jam;60;1991 musical about Jelly Roll Morton
 Jellystone;50;Yogi Bear's park
 Jem;40
 Jemaine;40;Jemaine Clement, "Flight of the Conchords" star
@@ -47875,6 +47889,7 @@ Kangols;40;Hats from a British brand
 Kangxi;40;Kangxi Emperor, long-reigning Qing ruler
 Kanienkeha;40;The Mohawk language
 Kanienkehaka;40;The Mohawk people's name for themselves
+Kan Jam;40;Flying disc game
 Kankakee;40;Illinois city name-checked in "City of New Orleans"
 Kannada;30;South Indian language
 Kanopy;40;Library streaming service
@@ -48394,7 +48409,8 @@ Kenobi;50;Obi-Wan Kenobi, Jedi master
 Kenojuak;40;Kenojuak Ashevak, Inuit artist
 Kenosha;40;Wisconsin city
 Kenough;60
-Kens;50;"Barbie" characters
+kens;50
+Kens;40;"Barbie" characters
 Kenshin;40;"Rurouni Kenshin" swordsman
 kenshō;30;Buddhist term for seeing one's "true nature" as inherently empty of a personal self
 Kensington;50;London district with the palace
@@ -70553,6 +70569,8 @@ possets;20
 POSSLQ;20;Census designation: person of opposite sex sharing living quarters
 POSSLQs;20;Census designation: persons of opposite sex sharing living quarters
 postages;30
+postage stamp lot;50
+postage stamp lots;50
 post-bac;30
 post-bacs;30
 post bags;50
@@ -84705,6 +84723,8 @@ space-filling curves;60
 SpaceGhostPurrp;40;Miami underground rapper
 space invaders;60
 Space Jam;60
+Space Jam: A New Legacy;50
+Space Jam A New Legacy;0
 Spacek;40;Sissy Spacek, "Carrie" star
 Spacelab;60
 Spacely;40;Mr. Spacely, George Jetson's sprocket-making boss
