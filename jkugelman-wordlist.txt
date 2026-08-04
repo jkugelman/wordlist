@@ -3936,6 +3936,7 @@ anemometers;40
 anemometry;40
 an enigma;20
 aneroid;40;Type of barometer
+a new ball game;60
 A New Hope;60
 A New Leaf;50
 an eye for;20
@@ -5416,6 +5417,7 @@ arms races;60
 arms sale;40
 arms sales;40
 Armstrong;50;Neil Armstrong, moonwalker / Louis Armstrong, jazz great
+arms wide open;60
 army ant;50
 army ants;50
 army base;50
@@ -5431,6 +5433,8 @@ army creole;50
 army doctors;50
 army general;50
 army generals;50
+army haircut;50
+army haircuts;50
 army knife;50
 army knives;50
 army life;50
@@ -7321,6 +7325,8 @@ Backus;40;Jim Backus, voice of Mr. Magoo / John Backus, FORTRAN creator
 backwards day;60
 Backxwash;40;Zambian-Canadian rapper
 Backyardigans;50;Nick Jr. cartoon
+backyard pool;60
+backyard pools;60
 baco;30
 Baconator;60
 Baconators;60
@@ -8075,6 +8081,7 @@ barely gets by;50
 barely getting by;50
 barely got by;50
 barely see;40
+bare minimums;50
 Barenboim;40;Daniel Barenboim, pianist and conductor
 bare necessities;50
 Barents;40;Arctic sea between Norway and Russia
@@ -8272,6 +8279,8 @@ baseball cap;60
 baseball caps;60
 baseball hat;60
 baseball hats;60
+baseball park;60
+baseball parks;60
 baseball player;60
 baseball players;60
 baseball purist;60
@@ -8398,6 +8407,7 @@ Bastogne;30;WWII battle site
 basts;30
 Basutoland;40;Colonial name for Lesotho
 bat;50
+bata;20
 Bataan;40;Philippine peninsula of Death March infamy
 Bataille;40;Georges Bataille, French writer and philosopher
 Batali;10;Sexual assault
@@ -8867,6 +8877,7 @@ beating a hasty retreat;60
 beating at;40
 beating back;50
 beating in;40
+beating one's gums;50
 beating the clock;60
 beating the crowd;60
 beating the heat;60
@@ -8882,6 +8893,7 @@ Beatles songs;20
 beatnik;60
 beatniks;60
 beat on;40
+beat one's gums;50
 Beat poet;60
 Beat poetry;60
 Beat poets;60
@@ -8896,6 +8908,7 @@ beats back;50
 Beats by Dre;60
 beats me;60
 beats on;40
+beats one's gums;50
 beats the clock;60
 beats the crowd;60
 beats the heat;60
@@ -10266,6 +10279,7 @@ bird nests;50
 Birdo;40;Mario series character
 bird sanctuaries;50
 bird sanctuary;50
+birds and bees;60
 birdsong;50
 birdsongs;50
 birdwatch;60
@@ -10677,6 +10691,7 @@ blew into;40
 blew me away;40;???
 blew off;50
 blew on;40
+blew one's cool;60
 blew one's mind;60
 blew one's own horn;50
 blew one's top;60
@@ -10849,6 +10864,7 @@ blowing in;40
 blowing into;40
 blowing off;50
 blowing on;40
+blowing one's cool;60
 blowing one's mind;60
 blowing one's own horn;50
 blowing one's top;60
@@ -10869,6 +10885,7 @@ blown tires;50
 blown wide open;60
 blow off;50
 blow on;40
+blow one's cool;60
 blow one's mind;60
 blow one's own horn;50
 blow one's top;60
@@ -10882,6 +10899,7 @@ blows into;40
 blow smoke;50
 blows off;50
 blows on;40
+blows one's cool;60
 blows one's mind;60
 blows one's own horn;50
 blows one's top;60
@@ -11061,8 +11079,12 @@ boarding a plane;40
 boarding a train;40;Contrived
 boarding parties;50
 boarding pass;50
+boarding ramp;50
+boarding ramps;50
 boarding school;60
 boarding schools;60
+boarding time;50
+boarding times;50
 board meeting;50
 board meetings;50
 board of trustees;50
@@ -11188,6 +11210,10 @@ body shops;50
 body shot;50
 body shots;50
 body spray;60
+body swap;60
+body swapped;60
+body swapping;60
+body swaps;60
 Boeing;50;Aircraft maker
 Boeings;40;Jets from a Seattle maker
 Boeotia;20;Region of Greece
@@ -12012,6 +12038,7 @@ boys' dorm;50
 boys' dorms;50
 boys in blue;60
 Boys' Life;50
+boys' night out;60
 Boystown;40;Chicago's historic gay neighborhood
 boys will be boys;60
 boy, that's a toughie;60
@@ -13413,6 +13440,7 @@ busted a gut;60
 busted a rib;60
 busted in on;40
 busted on;40
+busted ones butt;60
 busted one's chops;60
 busted taillight;60
 busted taillights;60
@@ -13423,6 +13451,7 @@ busting a gut;60
 busting a rib;60
 busting in on;40
 busting on;40
+busting one's butt;60
 busting one's chops;60
 busting one's hump;60
 busting up;50
@@ -13431,12 +13460,14 @@ bust into;40
 bustline;50
 bustlines;50
 bust on;40
+bust one's butt;60
 bust one's chops;60
 Bustopher;40;Bustopher Jones, "Cats" character
 busts a gut;60
 busts a rib;60
 busts in on;40
 busts on;40
+busts one's butt;60
 busts one's chops;60
 busts up;50
 bust up;50
@@ -13444,6 +13475,7 @@ busy bee;60
 busy bees;60
 busybodies;60
 busybody;60
+busy busy busy;50
 Busy, Busy Town;50;Children's book by Richard Scarry
 busy season;60
 busy seasons;60
@@ -13754,6 +13786,8 @@ cage fighter;60
 cage fighters;60
 cage fighting;60
 cage fights;60
+cage-free hen;60
+cage-free hens;60
 cage in;40
 cager;40
 cagers;40
@@ -14765,6 +14799,7 @@ Cardozo;40;Benjamin Cardozo, Supreme Court justice
 cards;50
 card skimmer;60
 card skimmers;60
+card skimming;60
 card stunt;60;Synchronized actions by a stadium audience
 card stunts;60
 care a lot;40
@@ -15224,6 +15259,8 @@ Castilla;40;Castile, in Spanish
 Castillo;40;Ana Castillo, Chicana novelist / Kate del Castillo, actress
 casting a shadow over;60
 casting a spell on;60
+cast-iron pot;50
+cast-iron pots;50
 cast-iron skillet;50
 cast-iron skillets;50
 Castle in the Sky;60;Studio Ghibli movie
@@ -16286,8 +16323,10 @@ Chaucerian;50;Like "The Canterbury Tales"
 Chaudhry;30;Last name???
 Chauncey;40;Chauncey Billups, NBA Finals MVP
 Chautauqua;60
+chav;40
 Chavez;50;Cesar Chavez, labor leader / Hugo Chávez, Venezuelan president
 Chavo;40;El Chavo del Ocho, Mexican sitcom kid / Chavo Guerrero, wrestler
+chavs;40
 chaw;40;Chew of tobacco
 chawed;40
 chawing;40
@@ -16628,6 +16667,8 @@ Chiantis;40;Tuscan reds
 Chiantishire;50;Nickname for the Chianti region of Tuscany
 Chiapas;40;Mexican state
 Chiara;40;Chiara Mastroianni, actress
+chia seed egg;50
+chia seed eggs;50
 chiasma;30;Genetics term
 Chiba;40;Sonny Chiba, martial arts film star / Japanese prefecture
 chica;40
@@ -16676,6 +16717,8 @@ chicken out;60
 chicken skewer;50
 chicken skewers;50
 chickens out;60
+chicken strip;60
+chicken strips;60
 chicken tendies;60
 chickenveik;0
 chick magnet;60
@@ -16860,6 +16903,7 @@ chipping up;50;Gaining chips, in a poker tournament
 chippy;50
 Chips Ahoy;60
 chips and dip;60
+chips and dips;50
 chips up;50;Gains chips, in a poker tournament
 chip up;50;Gain chips, in a poker tournament
 Chiquita;50;Banana brand
@@ -18298,11 +18342,14 @@ Coi;40;Coi Leray, rapper
 coibot;20;???
 Coimbatore;40;Large city in Tamil Nadu
 Coimbra;40;Portuguese city with an ancient university
+coin a new word;50
 Coinbase;40;Cryptocurrency exchange
+coined a new word;50
 coiner;50
 coiners;50
 coin flip;60
 coin flips;60
+coining a new word;50
 coin-op;60
 coin-operated;60
 coin-op game;60
@@ -18314,6 +18361,7 @@ coin purse;50
 coin purses;50
 coin return;50
 coin returns;50
+coins a new word;50
 coin slots;50
 coin sorter;50
 coin sorters;50
@@ -18605,6 +18653,7 @@ come full circle;60
 come get me;50
 come get some;60
 come here often;60
+come home soon;60
 come in first;50
 come in last;50
 come in threes;50
@@ -19411,6 +19460,8 @@ corespondents;40
 Coretta;40;Coretta Scott King, activist and MLK's widow
 core value;50
 core values;50
+core workout;60
+core workouts;60
 Corey;40;Corey Haim, "The Lost Boys" actor / Giles Corey of Salem
 Corey Pavin;50;PGA golfer
 Corfu;40;Greek island
@@ -20084,6 +20135,8 @@ craton;40;Geology word
 cratons;40
 Cravalho;40;Auli'i Cravalho, voice of Moana
 cravens;40;Weird noun/plural
+crawfish boil;60
+crawfish boils;60
 Crawford;50;Cindy Crawford, supermodel / Joan Crawford, actress
 crawled in;40
 Crawley;40;Violet Crawley, "Downton Abbey" dowager countess
@@ -20224,6 +20277,8 @@ crewels;20
 crewelwork;30
 crew member;50
 crew members;50
+crewneck tee;60
+crewneck tees;60
 cri;20
 cria;20;Baby alpaca
 crib;50
@@ -22530,6 +22585,8 @@ delivers a blow;50
 delivers by hand;50
 deliver the goods;50
 deliver the mail;50
+delivery cost;50
+delivery costs;50
 deli wrap;50
 deli wraps;50
 Della;40;Actress Della Reese
@@ -23246,6 +23303,7 @@ diddly shit;10
 did donuts;60
 Diddy;40;Diddy Kong
 Diderot;50;Denis Diderot, Encyclopédie editor
+did God's work;60
 did good;50
 did hard time;60
 did honor;30
@@ -23547,6 +23605,7 @@ dingbats;60
 ding ding ding;60
 ding ding ding went the trolley;60
 ding dong;60
+ding dong ding;50
 Ding Dongs;60
 Dinglehopper;60
 Dinh;40;Common Vietnamese surname
@@ -24171,6 +24230,7 @@ does a stretch;50
 does a vanishing act;60
 does donuts;60
 does for;30
+does God's work;60
 does good;50
 does hard time;60
 does honor;30
@@ -24298,6 +24358,7 @@ dognap;40;Abduct Fifi
 dognapped;40;Abducted Fifi
 dognapping;40;Abducting Fifi
 dognaps;40;Abducts Fifi
+do God's work;60
 Dogon;40;Ethnic group of Mali
 do good;50
 do-gooder;60
@@ -24381,6 +24442,7 @@ doing a solid;60
 doing a stretch;50
 doing donuts;60
 doingdyingtying;0
+doing God's work;60
 doing good;50
 doing hard time;60
 doing honor;30
