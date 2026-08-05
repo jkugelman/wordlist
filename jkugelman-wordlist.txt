@@ -8663,6 +8663,7 @@ Bazin;30;André Bazin, French film critic
 Bazooka bubblegum;60
 bazooms;30
 BB;40
+BB-8;40;Robot character from Star Wars
 bba;20
 b-baller;50
 BBB;40
@@ -11007,6 +11008,7 @@ blue wall;60
 blue wall state;60
 blue wall states;60
 Bluey;50
+BLUF;40;Bottom line up front
 Bluff the Listener;60;NPR show where three panelists tell stories and one's a lie
 Blum;40;Léon Blum, French premier
 Blume;50;Judy Blume, "Are You There God? It's Me, Margaret" author
@@ -13668,6 +13670,7 @@ Byzantium;50;Old name for Constantinople
 C;40
 C-;40
 C+;40
+C-3PO;40;Robot character from Star Wars
 CA;40
 CAA;20;Talent agency
 Caan;40;Actor James Caan
@@ -69302,6 +69305,7 @@ Pitts;30;Early actress ZaSu Pitts
 Pittsburgh;50;Steel City
 Pittsburgher;50;Steel City resident
 Pittsburghers;50;Steel City residents
+Pittsburghese;60
 pit viper;60
 pit vipers;60
 pity fuck;10
@@ -72648,6 +72652,7 @@ Qwest;40;Defunct telecom company
 Qwirkle;40;Tile-matching board game
 qxquv;0
 R;40
+R2-D2;40;Robot character from Star Wars
 Ra;40
 Raab;40;Dominic Raab, British deputy prime minister
 rab;20
@@ -99885,6 +99890,7 @@ what was your question?;60
 what would Jesus do;60
 what would you do for a Klondike Bar?;60
 what would you like;60
+what year is it?;60
 wheals;30;Hives
 Wheat Chex;50
 wheaten;30;Containing wheat
