@@ -2432,6 +2432,7 @@ Alceste;30;Gluck opera
 Alcestis;30;Euripides play
 Alchemax;40;Marvel Comics megacorporation
 alchemist;60
+Alchemist Cookbook;50;2016 American horror film, with "The"
 alchemists;60
 Alchemist Smurf;60
 alchemy;60
@@ -2808,6 +2809,7 @@ all good things must come to an end;60
 Allhallowtide;40;Halloween through All Souls' Day
 all-hands meeting;50
 all-hands meetings;50
+all het up;30
 Allie;40
 allied with;40
 allies with;40
@@ -3728,6 +3730,8 @@ anaphora;30;Rhetorical device
 Anápolis;20;Brazilian city
 an apple a day keeps the doctor away;60
 anarch;30
+Anarchist Cookbook;60;1971 book by William Powell, with "The"
+anarchistcookbook;20
 anarchs;30
 Anas;40;Arabic given name, or the duck genus
 Anasazi;40;https://indianpueblo.org/what-does-anasazi-mean-and-why-is-it-controversial/
@@ -14747,6 +14751,10 @@ carbon capture;60
 Carbone;40;???
 carbon emissions;50
 carbon fiber;60
+carbon fibers;60
+carbon fibre;30
+carbon fibres;30
+carbon fixation;50;Any process, such as photosynthesis, whereby atmospheric carbon dioxide is converted into organic compounds
 Carboniferous;50;Coal-forming geologic period
 carbon paper;50
 car boot;40
@@ -19247,7 +19255,11 @@ cooers;40
 Coogan;40;Steve Coogan, British comic actor / Jackie Coogan, Uncle Fester
 Coogan's;40;"Coogan's Bluff", Clint Eastwood film
 Coogler;40;Director Ryan Coogler
+cookbook author;40
+cookbook authors;40
 Cooke;50;Sam Cooke, "A Change Is Gonna Come" singer / Alistair Cooke, "Masterpiece Theatre" host
+cooked books;50
+cooked the books;60
 cooked up a scheme;60
 cooked up a storm;60
 cookie butter;60
@@ -19255,13 +19267,16 @@ cookie tin;60
 cookie tins;60
 cooking pit;60;Simple, ancient cooking structure
 cooking pits;60
+cooking the books;60
 cooking up a scheme;60
 cooking up a storm;60
 cooking wine;50
 cooking wines;50
 Cook Smurf;60
+cooks the books;60
 cooks up a scheme;60
 cooks up a storm;60
+cook the books;60
 cook up a scheme;60
 cook up a storm;60
 cool as a cucumber;60
@@ -22821,6 +22836,7 @@ deorbited;50
 deorbiting;50
 deorbits;50
 dep;20
+dePaola;40;Tomie dePaola, children's book illustrator and writer
 departed from;40
 depart from;40
 departing from;40
@@ -27107,7 +27123,7 @@ eh;50
 eHarmony;50
 eher;20
 ehh;50
-Ehle;40;Jennifer Ehle, actress
+Ehle;30;Jennifer Ehle, actress
 eHow;30;Learning web site
 Ehrenburg;40;Ilya Ehrenburg, Soviet writer
 Ehrlich;40;Paul Ehrlich, author of "The Population Bomb"
@@ -34997,6 +35013,8 @@ Gesù;20
 Gesualdo;40;Carlo Gesualdo, madrigal composer and murderer
 gesundheit;60
 get;50
+get a;20
+geta;20
 get a bead on;60
 get a bum rap;60
 get a D;20
@@ -40699,6 +40717,7 @@ heterosis;30
 Hetfield;50
 Heti;30;Sheila Heti, Canadian writer (born 1976)
 Hetty;40;Hetty Green, the "Witch of Wall Street"
+het up;30
 Heughan;40;Sam Heughan, "Outlander" star
 Heumann;40;Judith Heumann, disability rights activist
 hew;50
@@ -43497,6 +43516,7 @@ Ilaiyaraaja;40;Ilaiyaraaja, prolific Indian film composer
 Ilana;30;Actress Ilana Glazer
 Il Divo;40;Vocal quartet
 Ile;40
+ilea;40;Parts of the small intestine
 I learned from the best;60
 I leave;20
 Ile de France;50
@@ -43509,6 +43529,7 @@ Ilenes;20
 ileostomy;30
 Iler;40;Robert Iler, who played A.J. on "The Sopranos"
 îles;40
+ileum;40;Last division of the small intestine
 Ilex;20;Holly
 Ilhan;40
 Ilhan Omar;50
@@ -45273,7 +45294,8 @@ irkers;30
 Irkutsk;40;Siberian city
 IRL;40
 Irma;40;Irma Rombauer, "Joy of Cooking" author / Hurricane Irma
-Irna;40;Irna Phillips, soap opera pioneer
+Irna;30;Irna Phillips, soap opera pioneer
+Irna Phillips;40;Soap opera pioneer
 I Robot;60
 IROC;40;Chevy Camaro IROC-Z
 IROCs;40
@@ -57307,6 +57329,8 @@ memento;60
 mementoes;50
 memento mori;60
 mementos;50
+memer;40
+memers;40
 memery;50
 memes;50
 meme-worthy;60
@@ -59260,6 +59284,8 @@ moose calls;50
 moose calves;50
 Moosehead;40;Canadian beer brand
 Moosewood;50;Ithaca restaurant and vegetarian cookbook
+Moosewood Cookbook;50
+moosewoodcookbook;20
 mooting;30
 Mootoo;40;Shani Mootoo, Trinidadian Canadian novelist
 moot point;60
@@ -64160,6 +64186,8 @@ Oise;30;French river and department
 oiseau;30;Bird: Fr.
 Oistrakh;40;David Oistrakh, Soviet violinist
 Ojai;40;California town in Ventura County
+Ojai, California;40
+Ojai California;0
 O'Jays;40
 Ojibwa;40;Great Lakes tribe
 Ojibwas;40
@@ -78657,6 +78685,7 @@ Satantango;40;Béla Tarr's seven-hour film
 sat at;40
 satays;40;Bad plural???
 sat by;40
+SATC;30;Sex and the City
 Satch;40;Satchel Paige, Hall of Fame pitcher
 Satchmo;50;Louis Armstrong's nickname
 sat down with;40
@@ -80788,7 +80817,7 @@ sewing;50
 sewing in;40
 sewing on;40
 sewist;50;Preferred modern term for someone who sews
-sewists;50
+sewists;50;Preferred modern term for people who sew
 sewn in;40
 sewn on;40
 sew on;40
@@ -90907,12 +90936,14 @@ the air;20
 the aisle;40
 The Alamo;60
 The Alchemist;60
+The Alchemist Cookbook;50;2016 American horror film
 the algorithm;60
 the Alps;40
 the AM;30
 The Amazing Randi;60
 The American Dream;60
 the Amish;20
+The Anarchist Cookbook;60
 the Angry Inch;50;"Hedwig and the Angry Inch"
 The Animals;50
 the animal within;50
@@ -93443,6 +93474,7 @@ Tom Harkin;30;Iowa senator 1985-2015
 Tomi;40;Tomi Adeyeme, Nigerian-American novelist (born 1993)
 Tomi Adeyemi;50;Nigerian-American novelist (born 1993)
 Tomie;40;Tomie dePaola, children's book author
+Tomie dePaola;50;Children's book illustrator and writer
 Tomine;40;Adrian Tomine, cartoonist
 Tom Izzo;40;Tom Izzo, Michigan State basketball coach in the Hall of Fame
 Tom Kenny;60;Voice of SpongeBob
@@ -96692,6 +96724,8 @@ Urban VI;20
 Urban VII;20
 Urbi;40;___ et Orbi, papal blessing
 Urbino;40;Italian city, Raphael's birthplace
+Urbino, Italy;40;Birthplace of Raphael
+Urbino Italy;0
 Urdu;50;Pakistan's national language
 ure;20
 uremia;20
