@@ -17578,6 +17578,8 @@ CIX;20
 Cixi;20;Empress Dowager Cixi, regent of China from 1861 to 1908
 Cixin;40;Liu Cixin, "The Three-Body Problem" author
 Cixous;40;Helene Cixous, French feminist theorist
+C. J. Cherryh;40;Speculative fiction author (born 1942)
+C J Cherryh;0
 cks;20
 Cl;40;Chlorine's symbol / 150 in Roman numerals
 Clabbers;40;Curdles, as milk
@@ -31717,18 +31719,27 @@ fish bombing;60
 Fishburne;50;Laurence Fishburne, "The Matrix" actor
 Fish Called Wanda;50
 fish drum;50;Percussion instrument
+fished for compliments;60
 fish egg;50
 fish eggs;50
 Fishel;40;Danielle Fishel, Topanga on "Boy Meets World"
 Fisher Ames;40;Early American politician
 Fisher Smurf;60
-fish farm;50
-fish farms;50
+fishes for compliments;60
+fish farm;60
+fish farmed;20
+fish farmer;60
+fish farmers;60
+fish farming;60
+fish farms;60
 fish fin;20
 fish fins;20
+fish food;60
+fish for compliments;60
 fish hook;50
 fishhooked;50
 fish hooks;50
+fishing for compliments;60
 fishing industry;50
 fishing license;60
 fishing licenses;60
@@ -61972,6 +61983,7 @@ Nights in White Satin;60
 nightstick;50
 Nightswimming;50;R.E.M. song
 night thing;20;???
+Night Trap;40;1992 Sega CD game
 nightwear;50
 Nightwing;50;Grown-up Robin's superhero identity
 Nightwish;40;Finnish symphonic metal band
@@ -78541,7 +78553,8 @@ sang of;40
 sangrita;40;Mexican non-alcoholic drink
 sangritas;40;Mexican non-alcoholic drinks
 sang to;40
-Sanhedrin;40;Supreme legislative and judicial body in ancient Israel
+Sanhedrin;30;Supreme legislative and judicial body in ancient Israel
+Sanhedrins;30;Supreme legislative and judicial bodies in ancient Israel
 Sania;40;Sania Mirza, Indian tennis star
 Sanibel;40;Florida island/city
 sanicle;20;Plant
