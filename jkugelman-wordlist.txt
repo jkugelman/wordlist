@@ -9707,6 +9707,8 @@ bestir;50
 bestirred;50
 bestirring;50
 bestirs;50
+best kept secret;60
+best kept secrets;60
 Best Little Whorehouse in Texas;60
 best man;60
 best of both worlds;60
@@ -14520,6 +14522,7 @@ Canticle for Leibowitz;50
 can't imagine why;60
 Cantinflas;50;Beloved Mexican comic actor
 Cantique de Noël;60;Original title of "O Holy Night"
+can't keep a secret;60
 cantle;30
 cantles;30
 can't make any guarantees;60
@@ -14566,6 +14569,8 @@ can you hear me?;50
 can you hear me;0
 can you hear me now?;60
 can you hear me now;0
+can you keep a secret?;60
+can you keep a secret;0
 can you not;60
 can you please not?;60
 can you repeat that?;60
@@ -19801,6 +19806,7 @@ could have fooled me;60
 could he be the one?;60
 could it be true?;60
 couldn't hold a candle to;60
+couldn't keep a secret;60
 couldn't stick around;50
 could she be the one?;60
 could've fooled me;60
@@ -42880,12 +42886,15 @@ I call bullshit;10
 I call shotgun;60
 I call the shots;50
 I came;40
+I came, I saw, I conquered;60
+I came I saw I conquered;0
 I can;50
 I Can Add;30;They Might Be Giants song for kids
 I can do it;60
 I can do this all day;60
 I can feel it;60
 I can feel it in my bones;60
+I can keep a secret;60
 I can leave;60
 I can live with that;60
 ICANN;30
@@ -48345,6 +48354,7 @@ keen-eyed;50
 keens;30
 keep after;50
 keep alive;50
+keep a secret;60
 keep at;40
 keep at it;50
 Keep Austin Weird;60
@@ -48355,6 +48365,7 @@ keep from;40
 keep in;40
 keeping after;50
 keeping alive;50
+keeping a secret;60
 keeping at;40
 keeping close to;40
 keeping from;40
@@ -48368,12 +48379,16 @@ keeping one's cool;50
 keeping one's eyes peeled;60
 keeping pace;50
 keeping pace with;50
+keeping secret;60
+keeping secrets;50
 keeping tabs;50
 keeping tabs on;50
 keeping to;40
 keep in line;50
+keep it a secret;50
 keep it light;60;"Woah, positive vibes only here!"
 keep it PG;60
+keep it secret;50
 keep it short;60
 keep it to yourself;60
 keep kosher;50
@@ -48390,8 +48405,11 @@ keeps after;50
 keepsake;50
 keepsakes;50
 keeps alive;50
+keeps a secret;60
 keeps at;40
 keeps close to;40
+keep secret;60
+keep secrets;50
 keeps from;40
 keeps in;40
 keeps in line;50
@@ -48403,6 +48421,8 @@ keeps one's cool;50
 keeps one's eyes peeled;60
 keeps pace;50
 keeps pace with;50
+keeps secret;60
+keeps secrets;50
 keeps tabs;50
 keeps tabs on;50
 keeps to;40
@@ -48411,6 +48431,7 @@ keep tabs on;50
 keep to;40
 keep to a minimum;50
 keep under wraps;60
+keep your secrets;60
 keep your shirt on;60
 Keery;40;Joe Keery, actor who plays Steve on "Stranger Things"
 Keeshan;30;Bob Keeshan aka Captain Kangaroo
@@ -48549,6 +48570,7 @@ kepis;20;French military caps
 Kepler;50;Johannes Kepler, planetary motion astronomer
 kept after;50
 kept alive;50
+kept a secret;60
 kept at;40
 kept close to;40
 kept from;40
@@ -48562,6 +48584,8 @@ kept one's cool;50
 kept one's eyes peeled;60
 kept pace;50
 kept pace with;50
+kept secret;60
+kept secrets;50
 kept tabs;50
 kept tabs on;50
 kept to;40
@@ -78901,9 +78925,12 @@ sawflies;30
 sawfly;30
 sawhorse;50
 sawhorses;50
+Saw II;30
+Saw III;30
 saw in;40
 sawing up;40
 saw into;30
+Saw IV;30
 saw land;50
 sawmill;50
 sawmills;50
@@ -78920,6 +78947,8 @@ saws up;40
 saw things;50
 saw to;40
 saw up;40
+Saw V;30
+Saw VI;30
 saw with the naked eye;60
 Sawzall;50;Reciprocating saw brand
 sax;50
@@ -97541,6 +97570,9 @@ veni;40
 Venice;50;Italian canal city
 venire;30;Panel from which a jury is drawn
 venires;30
+veni, vidi;20
+veni, vidi, vici;60
+veni vidi vici;0
 Venkatesh;40;Sudhir Venkatesh, "Gang Leader for a Day" sociologist
 Venkman;50;Peter Venkman, Bill Murray's "Ghostbusters" role
 Venmo;50;Payment app
