@@ -2187,6 +2187,16 @@ air quality index;50
 air quality indexes;50
 air race;50
 air races;50
+air raid;60
+air raid alarm;40;Legit?
+air raid alarms;40;Legit?
+air raid drill;60
+air raid drills;60
+air raids;60
+air raid shelter;60
+air raid shelters;60
+air raid siren;60
+air raid sirens;60
 air raid warden;50
 air raid wardens;50
 air safety;50
@@ -85221,6 +85231,8 @@ spending freeze;60
 spending freezes;60
 spending limit;60
 spending limits;60
+spendthrift;60
+spendthrifts;60
 spendy;50;Extravagant
 Spengler;50;Egon Spengler of "Ghostbusters" / Oswald Spengler, historian
 Spenser;40;One-named fictional detective
@@ -92580,6 +92592,15 @@ threw good money after bad;60
 threw in the discard pile;50
 threw to;40
 threw under the bus;60
+thrift shop;60
+thrift shopped;60
+thrift shopper;60
+thrift shoppers;60
+thrift shopping;60
+thrift shops;60
+thrift store;60
+thrift store chic;60
+thrift stores;60
 Thrilla;40;Thrilla in Manila, the 1975 Ali-Frazier bout
 thriller;50
 thrillers;50
@@ -97689,6 +97710,7 @@ veriest;30
 verismo;40;Operatic genre meaning "true"
 Veritasium;40;Science YouTube channel
 Verizon;50;Telecom giant
+Verizon Wireless;50
 verklempt;60
 Verlaine;40;Paul Verlaine, French symbolist poet
 Verlander;50;Justin Verlander, Cy Young-winning pitcher
@@ -100942,10 +100964,30 @@ Winwood;50;Steve Winwood, "Higher Love" singer
 WinZip;40;File compression software
 wired to;30
 wire fu;60
-wireless charger;50
-wireless earbuds;50
-wireless network;50
-wireless networks;50
+wireless access point;60
+wireless access points;60
+wireless bra;60
+wireless bras;60
+wireless charger;60
+wireless chargers;60
+wireless charging;60
+wireless earbuds;60
+wireless earphones;60
+wireless headset;60
+wireless headsets;60
+wireless hotspot;60
+wireless hotspots;60
+wireless keyboard;60
+wireless keyboards;60
+wireless mice;60
+wireless mouse;60
+wireless network;60
+wireless networks;60
+wireless printer;60
+wireless printers;60
+wireless security;60
+wireless speaker;60
+wireless speakers;60
 wirer;40
 wire rod;40
 wire rods;40
