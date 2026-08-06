@@ -22397,8 +22397,9 @@ Deep Ones;50;From Lovecraft
 Deep Purple;50
 deeps;40
 DeepSeek;40;Chinese AI company
-deep sleeper;50
-deep sleepers;50
+deep sleep;60
+deep sleeper;60
+deep sleepers;60
 deep state;60
 deep thoughts;60
 Deep Thoughts by Jack Handey;60
@@ -48327,6 +48328,7 @@ kedgers;20
 Kedrova;30;"Zorba the Greek" Best Supporting Actress
 Keds;40;Sneaker brand
 Keebler;50;Cookie brand with elves
+Keebler elf;60
 Keebler elves;60
 Keef;40;Chief Keef, Chicago drill rapper
 Keegan;40;Keegan-Michael Key, comedian / Kevin Keegan, soccer great
