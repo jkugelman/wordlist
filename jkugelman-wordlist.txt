@@ -62038,6 +62038,8 @@ Nimoy;40
 Nimzowitsch;50;Aron Nimzowitsch, chess grandmaster
 Nin;40
 Nina;50;Common first name, or Columbus's ship
+niñas;40
+Ninas;30;Plural name
 nincom;20
 nincompoop;60
 nine AM;50
