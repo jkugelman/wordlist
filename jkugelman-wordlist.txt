@@ -42353,7 +42353,10 @@ how the heck;60
 how the hell;60
 how the turntables;60
 How to Be an Antiracist;60
-how was it;50
+how was it?;50
+how was it;0
+how was I to know?;60
+how was I to know;0
 how weird;60
 howzit;40
 hoy;40
@@ -45864,6 +45867,7 @@ I think I can;60
 I think I'd remember;60
 I think I'll manage;60
 I think I'll pass;60
+I think that was it;20
 I think you'll manage;60
 I Think You Should Leave;60
 Ithkuil;40;Constructed language
@@ -98915,7 +98919,10 @@ was in stitches;30
 was in the way;30
 was into;40
 was I snoring;60
+was it?;50
 was it good for you?;60
+was it not?;50
+was I too harsh?;20
 was met;20
 wasn't into;40
 wasn't meant to be;60
@@ -100064,7 +100071,8 @@ what the actual fuck;10
 what the frick;60
 what the fuck;10
 what the hey;60
-what was I thinking;60
+what was I thinking?;60
+what was I thinking;0
 what was that for;60
 what was the question?;60
 what was your question?;60
@@ -100347,6 +100355,7 @@ WhoSampled;40;Music-sampling database site
 who's asking;60
 who says?;60
 who says;0
+whose idea was it?;60
 whose idea was this;60
 Whose Line;60
 Whose Line Is It Anyway;60
@@ -100371,7 +100380,8 @@ who's who;60
 Whovian;50;"Doctor Who" fan
 Whovians;50;"Doctor Who" fans
 Whoville;50;Dr. Seuss town
-who was it;60
+who was it?;50
+who was it;0
 who woulda thought?;60
 who woulda thought it?;60
 who woulda thunk it?;60
