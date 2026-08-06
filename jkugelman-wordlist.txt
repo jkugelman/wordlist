@@ -9493,6 +9493,7 @@ Benjamin Button;60
 Benjamins;50;Hundred-dollar bills
 Benjamite;40;???
 Benji;50;Movie dog / nickname for Benjamin
+Benj Pasek;40;"Dear Evan Hansen" lyricist
 Benjy;40;Benjy Compson, "The Sound and the Fury" narrator
 Bennet;40;Elizabeth Bennet, "Pride and Prejudice" heroine
 Bennets;40;"Pride and Prejudice" family
@@ -37063,6 +37064,8 @@ Gothard;20
 goth band;50
 goth bands;50
 Gothenburg;50;Sweden's second-largest city
+goth girl;60
+goth girls;60
 Gothic;50;Architectural style, or "American ___"
 Gothic art;60
 Gothic horror;60
@@ -67279,7 +67282,7 @@ Parvati;40;Hindu goddess, Shiva's consort
 pas;40
 Pasadena;50;Rose Bowl city
 Pascha;40;Easter, in Orthodox usage
-Pasek;40;Benj Pasek, "Dear Evan Hansen" lyricist
+Pasek;30;Benj Pasek, "Dear Evan Hansen" lyricist
 paseo;40
 paseos;30
 pasha;40;Turkish title
@@ -73718,7 +73721,7 @@ ravisher;40;Plunderer
 ravishers;40
 Ravn;40;Olga Ravn, Danish poet and novelist
 Ravyn;40;Ravyn Lenae, American singer (born 1999)
-Ravyn Lenae;50;American singer (born 1999)
+Ravyn Lenae;40;American singer (born 1999)
 raw;50
 Rawalpindi;40;Pakistani city near Islamabad
 raw batter;50
@@ -78234,7 +78237,8 @@ salifies;30
 salify;30
 salifying;30
 Salih;40;Tayeb Salih, Sudanese novelist
-Salim;40;Arabic given name
+Salim;30;Arabic given name
+Salim Khan;40;Indian actor and screenwriter (born 1935)
 Salina;30;Kansas city
 Salinas;40;California city in Steinbeck country
 salines;30;Weird plural
@@ -91455,6 +91459,7 @@ the Hoover Dam;50
 the Hopi;20
 the hornet's nest;60
 the hornets' nest;60
+the horror;60
 the hot corner;50;???
 the hots;60
 the hound;60
