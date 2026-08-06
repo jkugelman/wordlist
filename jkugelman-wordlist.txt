@@ -3480,6 +3480,7 @@ amie;40
 Amiel;40;Henri-Frédéric Amiel, Swiss diarist
 Amiens;40;French city with a famous cathedral
 amies;40
+am I ever!;50
 am I forgetting something?;60
 am I forgetting something;0
 am I glad to see you;60
@@ -4532,7 +4533,8 @@ A'Ones;40;Top-notch ones
 Aoraki;40;Aoraki/Mount Cook, New Zealand's highest peak
 aortae;40
 aortas;40
-Aosta;40;Italian alpine valley and city
+Aosta;30;Italian alpine valley and city
+Aosta Valley;40
 Aotearoa;40;Maori for New Zealand
 aoudads;20
 Aoxomoxoa;50;Grateful Dead album with a palindromic title
@@ -6256,6 +6258,7 @@ at a dead run;50
 at a desk;20
 a tad off;20
 at a fever pitch;60
+at a halt;40
 Atahualpa;50
 Atalanta;20
 a tale as old as time;60
@@ -10990,6 +10993,8 @@ blue plate;60
 blue plate special;60
 blue plate specials;60
 blue raspberry;60
+blue rinse;60;Hair coloring
+blue rinses;60;Hair colorings
 blue sea;20
 blue shell;60;Mario Kart powerup
 blue shells;60
@@ -25092,7 +25097,8 @@ do up;50
 dourer;50
 dourest;50
 Dourif;40;Brad Dourif, voice of Chucky
-Douro;40;Portuguese river and wine region
+Douro;30;Portuguese river and wine region
+Douro River;40;River in Portugal and Spain
 doux;30
 dove into;40
 dovekie;20;Little auk bird
@@ -32513,7 +32519,7 @@ Fomalhaut;50;Bright star in Piscis Austrinus
 FOMO;40;Fear of missing out
 Fomorian;40;Monstrous race of Irish myth
 Fomorians;40;Irish mythological race
-Fon;40;Language of Benin
+Fon;20;Language of Benin and Togo
 Fonda;50;Jane Fonda / Henry Fonda / Peter Fonda, acting family
 Fondas;40
 fondle;50
@@ -67575,6 +67581,7 @@ Paulo;40;Paulo Coelho, "The Alchemist" author / Sao Paulo, Brazil
 Paulownia;40;Empress tree
 Paul's;40;St Paul's Cathedral, or "Paul's Boutique"
 paulsaul;20
+Paul Scholes;40;English footballer (born 1974)
 Paulsen;40;Axel Paulsen, skating jump namesake / Pat Paulsen, comedian
 Paulson;40;Sarah Paulson, actor / Henry Paulson, Treasury secretary
 Paul V;20
@@ -83860,6 +83867,7 @@ snatch victory from the jaws of defeat;60
 Snausage;60
 Snausages;60;Dog treats
 snax;40
+SNCC;30;Student Nonviolent Coordinating Committee
 Snead;40
 Sneads;30
 sneak a peek;50
@@ -93328,6 +93336,7 @@ T minus;0
 T-minus ten;60
 T-minus zero;60
 T minus zero;0
+TMNT;40;Teenage Mutant Ninja Turtles
 tms;20
 TMZ;40
 TN;40
@@ -94165,7 +94174,7 @@ tourist map;50
 tourist maps;50
 tournedos;40;French steak dish tournedos Rossini
 Tourneur;40;Jacques Tourneur, "Cat People" director
-Touro;40;Touro Synagogue, oldest in the US
+Touro;30;Touro Synagogue, oldest in the US
 tour of duty;50
 tours of duty;50
 Tous pour un, un pour tous;60;"The Three Musketeers" motto
@@ -97299,6 +97308,7 @@ Valladolid;50;Spanish city
 Vallarta;40;Puerto Vallarta, Mexican resort city
 vallate;40;???
 Valle;40;Valle d'Aosta, Italian alpine region
+Valle d'Aosta;40
 Vallee;40;Rudy Vallée, crooner / Jean-Marc Vallée, director
 Vallejo;40;California city / César Vallejo, Peruvian poet
 Valletta;40;Capital of Malta
@@ -101274,6 +101284,8 @@ work husbands;60
 working a room;50
 working for;40
 working for peanuts;60
+Working Girl;50;1988 romcom
+working girls;10
 working hard or hardly working;60
 working hours;50
 working late;50
