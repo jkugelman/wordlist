@@ -13973,6 +13973,7 @@ Calixa;40;Calixa Lavallée, composer of "O Canada"
 calla;30;Type of lily
 Callaghan;40;James Callaghan, British prime minister
 Callahan;40;Harry Callahan, Dirty Harry / Bill Callahan, singer-songwriter
+call all the shots;60
 callaloo;40;Caribbean stew
 callaloos;40
 Callao;40;Peruvian port city near Lima
@@ -13983,6 +13984,7 @@ call back to;40
 call bullshit;10
 call bullshit on;10
 calle;30
+called all the shots;60
 called a truce;60
 called back to;40
 called bullshit;10
@@ -13998,6 +14000,7 @@ called nine one one;50
 called on;40
 called one's bluff;60
 called out to;50
+called the shots;60
 called to;40
 called up;40
 Callender;40;Marie Callender, pie chain namesake
@@ -14010,6 +14013,7 @@ Callie;30;???
 Callie Khouri;50;Writer of "Thelma & Louise"
 calligram;50
 call in;40
+calling all the shots;60
 calling a truce;60
 calling back to;40
 calling birds;60
@@ -14027,6 +14031,7 @@ calling one's bluff;60
 calling out to;50
 calling station;60
 calling stations;60
+calling the shots;60
 calling to;40
 calling up;40
 call in sick;60
@@ -14061,6 +14066,7 @@ call on;40
 call one's bluff;60
 call out to;50
 Calloway;50;Cab Calloway, "Minnie the Moocher" bandleader
+calls all the shots;60
 calls a truce;60
 calls back to;40
 calls bullshit;10
@@ -14075,10 +14081,12 @@ calls it in the air;50
 calls nine one one;50
 calls on;40
 calls one's bluff;60
+calls the shots;60
 calls to;40
 calls to arms;50
 calls up;40
 call the police;60
+call the shots;60
 call to;40
 call to arms;50
 call toll-free;60
@@ -14409,7 +14417,10 @@ can I see it;0
 can I see some ID?;60
 can I see some ID;0
 Canis familiaris;50
-can I steal you for a second;60
+can I steal you for a sec?;60
+can I steal you for a sec;0
+can I steal you for a second?;60
+can I steal you for a second;0
 can it;50;"Shut up"
 can I talk;60
 can it be true?;60
@@ -16178,10 +16189,18 @@ Chappie;40;Neill Blomkamp robot movie
 chapssal-tteok;50;Korean rice cake variety
 ChapStick;50;Lip balm brand
 ChapSticks;40;Lip balm tubes
+chapter and verse;60
+chapter book;60
+chapter books;60
 Chapterhouse: Dune;60;1985 novel by Frank Herbert
 Chapterhouse Dune;0
-Chapter II;40
+chapter I;20
+Chapter II;20
 chapter one;50
+chapter seven;20
+chapter thirteen;20
+chapter two;20
+chapter XI;20
 Chapultepec;50;Mexico City castle and park
 Chara;40;Zdeno Chara, towering NHL defenseman
 character actor;60
@@ -31191,6 +31210,10 @@ field guns;40
 field manual;60
 field manuals;60
 Field of Dreams;60
+Fields Medal;60
+Fields Medalist;60
+Fields Medalists;60
+Fields Medals;60
 field test;50
 field tester;50
 field testing;50
@@ -33270,6 +33293,7 @@ frères;40
 Fresca;40;Grapefruit soda / agua fresca
 Frescas;40;Aguas frescas, Mexican drinks
 fresh breeze;50;10 on the Beaufort wind force scale
+fresh chapter;60
 freshet;40;Flood from heavy rain or melted snow
 freshets;40
 fresh food;50
@@ -35953,6 +35977,8 @@ glossae;30
 glossal;30
 glossarial;40
 glossitis;30;Tongue inflammation
+glottal stop;60
+glottal stops;60
 glottides;30;Plural of glottis
 Gloucester;50;English city, or the "King Lear" earl
 Gloucestershire;50;English county
@@ -42851,6 +42877,7 @@ Icahn;30;Billionaire Carl
 I call BS;60
 I call bullshit;10
 I call shotgun;60
+I call the shots;50
 I came;40
 I can;50
 I Can Add;30;They Might Be Giants song for kids
@@ -44213,6 +44240,7 @@ inceptive;30
 incest;10
 incestuous;30
 incestuously;30
+in chapter eleven;20
 in charge;50
 Inchbald;40;Elizabeth Inchbald, English playwright and novelist
 Incheon;40;Korean city
@@ -48299,6 +48327,7 @@ kedgers;20
 Kedrova;30;"Zorba the Greek" Best Supporting Actress
 Keds;40;Sneaker brand
 Keebler;50;Cookie brand with elves
+Keebler elves;60
 Keef;40;Chief Keef, Chicago drill rapper
 Keegan;40;Keegan-Michael Key, comedian / Kevin Keegan, soccer great
 keelage;40;Ship toll
@@ -65245,6 +65274,8 @@ open note test;60
 open note tests;60
 open on;40
 open onto;40
+open other end;50
+open other side;50
 open Pandora's box;60
 open secret;60
 open secrets;60
@@ -69057,6 +69088,8 @@ pill popping;40
 Pillsbury;50;Doughboy's brand
 pilose;40;Covered with soft hair
 pilotage;40
+pilot balloon;60;Balloon observed to determine the height of the base of clouds
+pilot balloons;60;Balloons observed to determine the height of the base of clouds
 pilot episode;60
 pilot episodes;60
 pilot error;50
@@ -77002,6 +77035,8 @@ rose topazes;50
 rose to the top;50
 rosets;30;???
 Rosetta;50;Rosetta Stone / Sister Rosetta Tharpe, gospel guitarist
+Rosetta, Egypt;50
+Rosetta Stone;60
 Rosetti;40;Handbag brand
 Rosey;30;Rosey Grier in the NFL
 Rosh;40
@@ -85369,6 +85404,10 @@ split decision;60
 split decisions;60
 split infinitive;50
 split infinitives;50
+split pea and ham;60
+split pea and ham soup;60
+split pea soup;60
+split pea with ham;50
 split personalities;60
 split personality;60
 split run;40
@@ -85377,12 +85416,15 @@ splits a cab;60
 split second;50
 split seconds;50
 splits the check;50
+splits the vote;60
 Splitsville;60;Where a breaking-up couple heads
 splitter;50
 splitters;50
 split the check;50
+split the vote;60
 splitting a cab;60
 splitting the check;50
+splitting the vote;60
 splodge;40;Blob: British
 splodged;40
 splodges;40
@@ -86352,21 +86394,36 @@ steal a look;50
 steal a peek;20;"Not a thing", per Rex
 stealer;40
 stealers;40
+steal first;60
 steal in;40
 stealing;50
 stealing a kiss;60
 stealing a peek;20;"Not a thing", per Rex
+stealing first;60
 stealing in;40
 stealing on;20
+stealing second;50
+stealing second base;50
+stealing third;50
+stealing third base;50
 stealing upon;40
 steal on;20
 steals;50
 steals a kiss;60
 steals a peek;20;"Not a thing", per Rex
+steal second;50
+steal second base;50
+steals first;60
 steals in;40
 steals on;20
+steals second;50
+steals second base;50
+steals third;50
+steals third base;50
 steals upon;40
 stealth camping;60;Secretly sleeping overnight in a location where it's not allowed
+steal third;50
+steal third base;50
 stealth mode;60
 steal upon;40
 steam age;50
@@ -86525,8 +86582,12 @@ Stellantis;40;Automaker that owns Jeep and Chrysler
 Stellas;40;Stella Artois beers
 stellate;40;Arranged in a radiating pattern like a star
 stem cell research;60
+stemmed the tide;60
+stemming the tide;60
 Stempel;40;Herb Stempel, "Twenty-One" quiz show whistleblower
 STEM pipeline;60;Educational pathway for STEM students
+stems the tide;60
+stem the tide;60
 stem turn;40;Skiing maneuver
 stem turns;40
 Sten;40;Sten gun, British submachine gun
@@ -86663,6 +86724,7 @@ Steve Howe;50;Yes guitarist
 Steve Miller Band;50
 Steven;50;Common first name
 Stevens;50;Cat Stevens, singer / John Paul Stevens, justice
+Steven Seagal;60
 Stevenson;50;Robert Louis Stevenson, "Treasure Island" author
 Steven Wilson;60
 Steve Rogers;50
@@ -86894,6 +86956,7 @@ stole;50
 stole a kiss;60
 stole a look;50
 stole a peek;20;"Not a thing", per Rex
+stole first;60
 stole in;40
 stole money;20
 stolen;50
@@ -86905,6 +86968,10 @@ stolen cars;60
 stolen kiss;60
 stolen valor;60
 stole on;20
+stole second;50
+stole second base;50
+stole third;50
+stole third base;50
 stole upon;40
 stolga;40
 Stoli;40;Vodka
@@ -88399,7 +88466,15 @@ sweep picks;60
 sweeps out;40
 sweep the leg;60
 Sweepy Smurf;60
+sweet and;20
+Sweet and Low;50
+Sweet and Lowdown;50;1999 Woody Allen film
+sweet and sour;60
+sweet and sour chicken;60
 sweet and sour mix;50
+sweet and sour pork;60
+sweet and sour sauce;60
+sweet and wour pork;0
 sweet anise;50
 SweeTarts;50;Tangy candies
 Sweetback;40;Sweet Sweetback, blaxploitation film hero
@@ -89074,6 +89149,7 @@ takes shape;60
 takes the A train;20;Contrived
 takes the bait;60
 takes the cake;60
+takes the cloth;60;Becomes a priest
 takes the fall;60
 takes the field;60
 takes the heat;60
@@ -89093,6 +89169,7 @@ takesy backsy;60
 Take the "A" Train;60;Jazz standard
 Take the A Train;0
 take the bait;60
+take the cloth;60;Become a priest
 take the fall;60
 take the field;60
 take the heat;60
@@ -89163,6 +89240,7 @@ taking out;40
 taking pains;50
 taking shape;60
 taking the bait;60
+taking the cloth;60;Becoming a priest
 taking the fall;60
 taking the field;60
 taking the heat;60
@@ -91760,6 +91838,7 @@ there goes the neighborhood;60
 thereisa;0
 there I said it;60
 there is no choice;60
+There Is No Christmas Like a Home Christmas;50
 there is no escape;60
 there is no question;60
 there is no silver bullet;60
@@ -91837,6 +91916,7 @@ the roost;40
 theropod;40;Dinosaur clade
 theropods;40
 The Rose;40;Bette Midler film/song
+the Rosetta Stone;50
 the round table;50
 Theroux;50;Actor Justin Theroux
 the royal family;20
@@ -93634,6 +93714,7 @@ took out;40
 took pains;50
 took shape;60
 took the bait;60
+took the cloth;60;Became a priest
 took the fall;60
 took the field;60
 took the heat;60
