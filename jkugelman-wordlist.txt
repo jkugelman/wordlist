@@ -345,7 +345,7 @@ abacus;50
 abacuses;50
 Abad;40;Suffix in Islamabad and Hyderabad
 Abaddon;50;Biblical angel of the abyss
-a bad egg;30;Trouble
+a bad egg;40;Trouble
 abaft;40
 Abagnale;50;Frank Abagnale, "Catch Me If You Can" con man
 Abakanowicz;40;Magdalena Abakanowicz, Polish sculptor
@@ -1880,6 +1880,7 @@ agonists;40
 agonyof;0
 a good book;50;???
 a good cause;50
+a good egg;40
 a good scare;50
 a good time;40
 agora;40;Ancient Greek market
@@ -4676,6 +4677,7 @@ apologize to;40
 apologizing for;40
 apologizing to;40
 apologue;40;Fable with animals as characters
+apologues;40;Fables with animals as characters
 apology card;60
 apology cards;60
 apology tour;60
@@ -5963,6 +5965,7 @@ as one;50
 as one man;40;In unison
 A Song of Ice and Fire;60
 asonia;20;Tone-deafness, controversial 3/19/23 entry
+a sore;20
 Asos;20;Village on Cephalonia, Ionian Islands, Greece
 Asosan;20
 asp;50
@@ -9073,8 +9076,9 @@ beefcake;60
 beefcakes;60
 beef chow fun;60
 beef chow mein;60
-Beefeater;50;Tower of London guard
-Beefeaters;60
+Beefeater;60;Tower of London guard
+Beefeater Gin;60
+Beefeaters;60;Tower of London guards
 beefed it up;50;???
 beef heart;50
 beef hearts;50
@@ -9118,6 +9122,7 @@ been there;50
 bee orchid;50
 bee orchids;50
 beep at;40
+beep baseball;60;Sport for visually impaired people
 beep beep;60
 beep beep back the truck up;60
 beep beeps;20
@@ -12222,6 +12227,8 @@ Brat summer;60
 Bratt;40
 Brattleboro;40;Vermont town
 Bratton;40;Creed Bratton, "The Office" actor / William Bratton, NYPD commissioner
+bratwurst;60
+bratwursts;60
 Bratz;40;Doll line
 Bratzooka;40;???
 Brau;40;???
@@ -15413,6 +15420,8 @@ cathect;30;Invest emotional energy
 cathected;30
 cathecting;30
 cathects;30
+cathedra;40;Bishop's throne in a cathedral
+cathedrae;30;Bishops' thrones in a cathedral
 Cather;50;Willa Cather, "O Pioneers!" author
 Catherine;50;Common first name: Catherine Deneuve, Catherine the Great
 Catherine Howard;50
@@ -27261,6 +27270,7 @@ Elberta;20
 elbowed in;50
 elbow in;50
 elbowing in;50
+elbow pasta;50
 elbows in;50
 elbramsculpture;0
 Elbridge;40;Elbridge Gerry, namesake of the gerrymander
@@ -27516,6 +27526,7 @@ els;40
 Elsa;40;From "Frozen"
 Elsagate;40;YouTube children's-video scandal
 Elsa Pataky;40
+Elsas;30;Plural name (commonly clued as "Frozen" costumes)
 El Segundo;40
 Elsevier;40;Dutch academic publishing company
 Elsie;40;Actor Elsie Fisher
@@ -27679,6 +27690,7 @@ Emmanuel;40;Emmanuel Macron, French president / Emmanuel Goldstein of "1984"
 Emmanuelle;40;Emmanuelle Riva, "Amour" star / Emmanuelle Béart, actress
 Emma Samms;40;Actress Emma Samms from "General Hospital" and "Dynasty"
 Emmaus;40;Biblical village near Jerusalem
+Emma Watson;60
 Emme;30;One-named supermodel
 Emmeline;40;Emmeline Pankhurst, British suffragette
 Emmental;50;Cheese
@@ -34648,6 +34660,8 @@ Geller;40
 Gellhorn;40;Martha Gellhorn, war correspondent
 Gelsenkirchen;40;German city in the Ruhr
 gelt;40;Hanukkah money
+gel toothpaste;50
+gel toothpastes;50
 Gelula;30;Dylan Gelula, actress
 gem;50
 Gemara;40;Talmud component
@@ -36682,6 +36696,8 @@ good doggies;60
 good doggy;60
 Goode;40
 Good Earth;60;1931 novel by Pearl S. Buck, with "The"
+good egg;60
+good eggs;60
 Goodell;40;Roger Goodell, NFL commissioner
 Gooden;40;Dwight Gooden, Mets pitcher
 good eye;60
@@ -38519,6 +38535,9 @@ hacktivism;60
 hacktivist;60
 hacktivists;60
 Hackus Smurf;60
+Hack Wilson;50;Accomplished 1920s/30s baseball power hitter
+hack writer;60
+hack writers;60
 hacky;50
 had;50
 had a baby;50
@@ -40608,6 +40627,7 @@ heron chicks;50
 heros;50;Plural sandwiches, not brave people
 hero's journey;60
 hero's quest;60
+herp;20
 herpes;30
 herpetic;20
 Herr;40
@@ -56310,6 +56330,8 @@ Mathewson;40;Christy Mathewson, Hall of Fame pitcher
 Mathias;40;Mathias Rust, teen pilot who landed in Red Square
 Mathieu;40;Tyrann Mathieu, NFL safety / French form of Matthew
 Mathis;50;Johnny Mathis, "Chances Are" crooner
+math nerd;40
+math nerds;40
 Math PhD;20;Green paint
 math puzzle;50
 math puzzles;50
@@ -61748,8 +61770,8 @@ nice try;60
 nice try, FBI;60;Meme response
 nice try FBI;0
 nice try, guy;60
-niche area;40
-niche areas;40
+niche area;50
+niche areas;50
 Nichelle;40;Nichelle Nichols, Uhura on "Star Trek"
 Nichiren;40;School of Japanese Buddhism
 Nicholas;50;Boy's name, and Santa's saint
@@ -66207,6 +66229,7 @@ owe it to;40
 Owen;50;Common first name
 Owens;50;Jesse Owens, four-gold sprinter at the 1936 Olympics
 Owensboro;40;Kentucky city
+Owen Wilson;60
 owes a debt;50
 owes a debt to;50
 owes it to;40
@@ -78595,6 +78618,7 @@ Sasebo;20;Japanese port
 SASEs;40;Self-addressed stamped envelopes
 Sasha;40
 Sasha Fierce;60
+Sasha Grey;10;Porn star
 sashay;50
 sashayed;50
 sashaying;50
@@ -89961,6 +89985,8 @@ tech IPO;40
 tech IPOs;40
 tech mogul;50
 tech moguls;50
+tech nerd;40
+tech nerds;40
 Technic;40;Lego line for advanced models
 technic;20;Technique
 Technica;40;Ars Technica, tech news site
@@ -90199,6 +90225,7 @@ tels;30
 Telstar;40;Pioneering communications satellite
 Telugu;30;South Indian language
 tem;40
+temaki;40;Type of sushi in the form of a cone
 temblor;20;Earthquake
 temblors;20;Earthquakes
 tembo;20
@@ -93622,6 +93649,8 @@ tooter;30
 tooters;30
 toothfish;50;AKA Chilean sea bass
 tooth for a tooth;60
+tooth gel;50
+tooth gels;50
 toot his own horn;50
 Tootie;30;"The Facts of Life" character
 tooting at;30
@@ -98744,6 +98773,9 @@ wasn't meant to be;60
 wasn't that fun;60
 was on;40
 was on a date;30;Green paint???
+wasp waist;60;Very slim waist resembling that of a wasp, especially one attained by tightlacing (corseting)
+wasp-waisted;60;Having a very slim waist, especially as a result of tightly-laced clothing
+wasp waists;60;Very slim waists resembling that of a wasp, especially ones attained by tightlacing (corseting)
 waspy;50
 was run;30
 wassail;30
