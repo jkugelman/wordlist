@@ -9409,6 +9409,8 @@ Belova;40;Yelena Belova, Marvel's second Black Widow
 Belphegor;40;Demon of sloth
 Belshazzar;50;Babylonian king of the writing on the wall
 Belsnickel;50;German folkloric Christmas gift-bringer
+belt and braces;60
+belt and suspenders;60
 Beltane;40;Gaelic May Day festival
 belt drive;50
 belt it out;50
@@ -13265,10 +13267,12 @@ bumper crops;50
 bump heads;50
 bumping heads;50
 bumping into;50
+bump in the road;60
 bump into;50
 bump on a log;60
 Bumppo;50;Natty Bumppo, Cooper's frontier hero
 bumps heads;50
+bumps in the road;60
 bumps into;50
 bumps on a log;60
 bum rap;60
@@ -24772,6 +24776,7 @@ don't believe everything you hear;60
 don't be rude;60
 don't be so literal;60
 don't be so naive;60
+don't be such a wimp;60
 don't be that guy;60
 don't block the box;60
 don't bother;60
@@ -25468,6 +25473,7 @@ Dre Day;50;Dr. Dre song
 Dredd;50;Judge Dredd, comics lawman
 Dredg;30;Obscure California alt-rock band
 dreg;40
+dregs of humanity;60
 Dreijer;40;Karin Dreijer, The Knife singer
 Dreiser;40;"Sister Carrie" novelist Theodore Dreiser (1871-1945)
 Drescher;40;Fran Drescher, "The Nanny" star
@@ -36048,6 +36054,11 @@ glottal stops;60
 glottides;30;Plural of glottis
 Gloucester;50;English city, or the "King Lear" earl
 Gloucestershire;50;English county
+glowed in the dark;60
+glowing in the dark;60
+glow in the dark;60
+glow-in-the-dark;60
+glows in the dark;60
 glow up;60
 glow-ups;60
 Gloxinia;30;Flower genus
@@ -47836,6 +47847,7 @@ jury rooms;50
 jus;40
 Jussie;40;Jussie Smollett, actor
 just a drop;50
+Just a Friend 2002;40;2002 single by Mario
 just a heads up;60
 just along for the ride;60
 just an FYI;60
@@ -75789,6 +75801,7 @@ RGT;20
 Rh;40;Blood group factor
 Rhames;40;Ving Rhames, "Pulp Fiction" actor
 rhapsody;50
+Rhapsody in Blue;60
 rhe;20
 Rhea;40;Rhea Perlman or Seehorn
 rheas;30;Cousins of emus
@@ -81263,6 +81276,7 @@ shards of glass;50
 share a cab;50
 sharecrop;50
 shared a cab;50
+shared computing;50
 shared in;40
 shared with;40
 share in;40
