@@ -23432,6 +23432,7 @@ did laps;50
 did lunch;50
 did more with less;60
 did not;40;Playground retort
+did not sit right with;40
 didn't click;60
 didn't give a fuck;10
 didn't have;20
@@ -23439,6 +23440,7 @@ didn't have a prayer;50
 didn't have time;50
 didn't hold water;60
 didn't see you there;60
+didn't sit right with;40
 didn't you hear?;60
 didn't you hear;0
 Dido;50;Queen of Carthage, or the singer
@@ -24357,12 +24359,15 @@ does laps;50
 does lunch;50
 does more with less;60
 does not;40;Playground retort
+does not sit right with;40
 doesn't give a flip;60
 doesn't give a fuck;10
 doesn't have a prayer;50
 doesn't have time;50
 doesn't hold water;60
 doesn't hurt;60
+doesn't sit right with;40
+doesntsitrightwith;20
 does one a solid;40
 does one's fair share;50
 does one's homework;60
@@ -24762,6 +24767,7 @@ Donoso;40;José Donoso, Chilean novelist
 do not bend;40
 do not engage;60
 do not erase;60
+do not sit right with;40
 do not touch glass;60;Sign at an aquarium
 do not try this at home;60
 Donovan;50;Donovan, "Mellow Yellow" singer / Donovan McNabb, NFL quarterback
@@ -24840,6 +24846,7 @@ don't push it;60
 don't round your back;60
 don't shit in your own backyard;10
 don't shit where you eat;10
+don't sit right with;40
 Don't Speak;60
 don't stare;60
 don't start;60
@@ -58647,6 +58654,7 @@ Mississauga;50;Ontario city
 Mississippi;50;State, river, and counting word
 Mississippian;50
 Mississippians;50
+Mississippi Rising;50
 Miss M;30
 Miss Marple;60
 miss me;60
@@ -83476,14 +83484,18 @@ slipped in;40
 slipped into;40
 slipped on;40
 slipped one's mind;60
+slipped through the cracks;60
 slipping in;40
 slipping into;40
 slipping on;40
 slipping one's mind;60
+slipping through the cracks;60
 slips in;40
 slips into;40
 slips on;40
 slips one's mind;60
+slips through the cracks;60
+slip through the cracks;60
 slit skirt;50
 slit skirts;50
 slivered;30
