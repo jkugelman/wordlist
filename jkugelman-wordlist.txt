@@ -100,6 +100,7 @@
 .38 Special;50;Smith & Wesson revolver cartridge
 3 AM;40;1996 Matchbox Twenty single
 3am;40
+3D chess;60
 3 Doors Down;60;'90s rock band
 3D print;60
 3D printed;60
@@ -127,6 +128,7 @@
 4am;40
 4 calling birds;60
 4 colly birds;0
+4D chess;60
 4-H Club;60;Youth development organization
 4K;40
 4K!DS;40;Former children's entertainment licensing company
@@ -5132,6 +5134,7 @@ A Real Pain;60;2025 Oscar wining film
 Area Man;60;Frequent The Onion interviewee
 area map;30
 area maps;30
+area of a square;20
 a reason;20
 are blue;20
 areca palm;40
@@ -7329,6 +7332,7 @@ back the truck up;60
 back tire;50
 back tires;50
 back to life;50
+back to square one;60
 Back to the Future;60
 Back to the Hotel;50;1992 rap song by N2Deep
 back up;50
@@ -9774,6 +9778,7 @@ be the bigger man;60
 be the change you wish to see in the world;60
 Bethel;40;Biblical site, and Woodstock's town
 Bethenny;40;Bethenny Frankel, "Real Housewives" star and Skinnygirl founder
+be there or be square;60
 Bethesda;50;Maryland home of the NIH
 bethink;40
 bethinks;40
@@ -12955,6 +12960,7 @@ B stars;20
 B team;50
 B teams;50
 btes;20
+B there or B square;20
 B-tier;40
 btry;20
 BTS;40
@@ -16432,6 +16438,8 @@ cheat death;60
 cheated death;60
 cheated in;40
 cheated on;40
+cheater square;20
+cheater squares;20
 Cheatin';40;Hank Williams "Your Cheatin' Heart", or 2013 movie
 cheating death;60
 cheating heart;50
@@ -23639,6 +23647,10 @@ dim bulb;60
 dim bulbs;60
 dimed;50
 dímelo;20;Spanish "give me that"
+dimensionless number;60
+dimensionless numbers;60
+dimensionless quantities;60
+dimensionless quantity;60
 Dimetapp;40;Children's cold medicine
 Dimetrodon;50;Sail-backed prehistoric predator
 diming;50
@@ -27192,6 +27204,7 @@ E-I-E-I-O;40
 Eiffel;50;Gustave Eiffel, tower engineer
 Eigengrau;60;Shade of gray people see in pitch black
 eigenlicht;60;Shade of gray people see in pitch black
+eigenvalue of a square matrix;0
 Eiger;40;Swiss Alps peak with a fearsome north face
 eight A.D.;20
 eight AM;50
@@ -27684,6 +27697,8 @@ embrocating;40
 embrocation;40
 embrocations;40
 emc;20
+E = mc²;60
+E=mc²;60
 eme;20
 Emecheta;40;Buchi Emecheta, Nigerian novelist
 e-meet;30
@@ -30139,6 +30154,7 @@ fainer;20
 fainest;20
 faint heart;50
 faint of heart;60
+fair and square;60
 Fairbanks;50;Douglas Fairbanks, silent film star, or the Alaska city
 Fairbanks, AK;30
 Fairbanks Alaska;50
@@ -32915,6 +32931,7 @@ four-cycle;50
 four-cycle engine;50
 four-cycle engines;50
 four-day workweek;60
+four-dimensional chess;60
 FourFiveSeconds;40;Rihanna, Kanye, and McCartney single
 four-footed butterflies;50
 four-footed butterfly;50
@@ -32934,6 +32951,7 @@ four-letter words;50
 four on the floor;60
 Fourplay;40;Jazz supergroup
 four PM;50
+four square;60
 four-star review;60
 four-star reviews;60
 four-string banjo;60
@@ -35274,6 +35292,7 @@ gets out of sight;60
 gets out the vote;60
 gets plowed;50;Gets drunk / Vulgar
 get spooked;50
+get squared away;50
 gets quiet;50
 gets ready;50
 gets real;60
@@ -35286,6 +35305,7 @@ gets sloshed;50
 gets smart;50
 gets sore;40
 gets spooked;50
+gets squared away;50
 gets tan;40
 gets the ax;60
 gets the axe;60
@@ -35406,6 +35426,7 @@ getting shitfaced;10
 getting sloshed;50
 getting smart;50
 getting spooked;50
+getting squared away;50
 getting tan;40
 getting the ax;60
 getting the axe;60
@@ -36172,6 +36193,7 @@ gob;50
 G.O.B.;40;"Arrested Development" character
 go back to;40
 go back to sleep;50
+go back to square one;60
 go back to the drawing board;60
 go bag;50
 gobbet;40;Lump of flesh, spit, etc.
@@ -36273,6 +36295,7 @@ goes at;40
 goes away;50
 goes awry;50
 goes back to;40
+goes back to square one;60
 goes back to the drawing board;60
 goes behind;40
 goes big;50
@@ -36426,6 +36449,7 @@ going astray;50
 going at;40
 going awry;50
 going back to;40
+going back to square one;60
 going back to the drawing board;60
 going behind;40
 going big;50
@@ -37160,6 +37184,7 @@ got sloshed;50
 got smart;50
 got sore;40
 got spooked;50
+got squared away;50
 Gott;40;God, in German
 Gotta Catch 'Em All;60
 gottan;30;Japanese plucked instrument
@@ -77009,6 +77034,7 @@ rooting for the underdog;60
 rooting on;50
 rootlet;40
 rootlets;40
+root mean square;50
 root on;50
 roots around;50
 roots for;50
@@ -77230,6 +77256,7 @@ round in circles;40
 round kick;40
 round kicks;40
 round of drinks;60
+round peg in a square hole;60
 rounds of drinks;60
 'round these parts;60
 Roundtree;40;Richard Roundtree, star of "Shaft"
@@ -92531,6 +92558,7 @@ three-car;50
 three-cent piece;50
 three-cent pieces;50
 three-D;30
+three-dimensional chess;60
 three-D movie;30
 three-D movies;30
 three-dollar bill;60;Reclaimed by the LGBTQ+ community
@@ -99677,6 +99705,7 @@ went astray;50
 went at;40
 went awry;50
 went back to;40
+went back to square one;60
 went back to the drawing board;60
 went behind;40
 went big;50
