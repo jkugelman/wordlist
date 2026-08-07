@@ -28631,6 +28631,8 @@ Ernie;50;"Sesame Street" roommate of Bert / Ernie Banks, Cubs great
 Ernie Ford;50
 Erno;40;Erno Rubik, cube inventor
 Ernst;40
+Ernst Heinrich Haeckel;40;German zoologist (1834–1919)
+Ernst Heinrich Weber;40;One of the founders of experimental psychology
 Ernst Mach;50
 Ernsts;20
 ER nurse;40
@@ -40301,6 +40303,8 @@ Heineken;50;Dutch beer
 Heinekens;40;Dutch beers
 Heinlein;50;Robert A. Heinlein, "Stranger in a Strange Land" author
 Heinrich;40;German given name: Heine, Hertz, Böll
+Heinrich Himmler;10;Nazi leader of the SS (1900–1945)
+Heinrich Rudolph Hertz;50;Physicist who proved the existence of electromagnetic waves
 Heinz;50;Ketchup brand, or Heinz Doofenshmirtz of "Phineas and Ferb"
 Heinz Doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 heir apparent;60
@@ -44819,6 +44823,7 @@ in reason;20
 in recent years;50
 in record time;50
 in repair;40
+INRI;40;Letters on a crucifix
 in right;40;As in baseball
 in Rome;30;Awkward to clue, partial of "When in Rome..."
 in-room;40
@@ -57206,6 +57211,7 @@ Mediterranean;50;Sea between Europe and Africa
 Mediterranean diet;60
 Mediterraneans;40;Southern Europeans, loosely
 Mediterranean Sea;60
+medium-grain rice;50
 medium heat;50
 medium high;50
 medium low;50
@@ -62955,6 +62961,7 @@ no time to explain;60
 not in;40
 not in my backyard;60
 not in one's wheelhouse;50
+not in right now;50
 not interested;60
 not in the cards;60
 not it;50
@@ -66024,6 +66031,7 @@ otter pups;50
 Ottessa;40;Ottessa Moshfegh, contemporary award-winning author
 Otto;50;Palindromic name: Otto Frank, Otto Dix, "A Man Called Otto"
 Otto Dix;20;German painter
+Otto Heinrich Warburg;50;German physiologist and Nobel laureate (1883–1970)
 Otto I;20;H.R.E. emperor
 Otto II;30
 Otto IV;30
@@ -85122,16 +85130,19 @@ SPCA;40;Society for the Prevention of Cruelty to Animals
 Speakerboxxx;50;"Speakerboxxx/The Love Below", OutKast album
 speak ill of;50
 speaking ill of;50
+speaking in riddles;60
 speaking of;60
 speaking on;40
 speaking one's mind;60
 speaking to;40
 speaking truth to power;60
+speak in riddles;60
 speak no evil;60
 speak of;40
 speak on;40
 speak one's mind;60
 speaks ill of;50
+speaks in riddles;60
 speaks of;40
 speaks on;40
 speaks one's mind;60
@@ -85552,6 +85563,8 @@ spoiler tag;60
 spoiler tags;60
 Spokane;50;Washington state city
 spoke ill of;50
+spoke in riddles;60
+spoken in riddles;60
 spoke of;40
 spoke on;40
 spoke one's mind;60
@@ -89419,6 +89432,7 @@ talk back to;40
 talked at;40
 talked back;50
 talked back to;40
+talked in riddles;60
 talked into;40
 talked on;30
 talked shit;10
@@ -89429,6 +89443,7 @@ Talkin';40;"Jive Talkin'", Bee Gees hit
 talking at;40
 talking back;50
 talking back to;40
+talking in riddles;60
 talking into;40
 talking on;30
 talking pig;50
@@ -89450,6 +89465,7 @@ talks back;50
 talks back to;40
 talk shit;10
 talk shop;60
+talks in riddles;60
 talks into;40
 talks on;30
 talk soon;60
@@ -101055,6 +101071,7 @@ Wisc;40
 Wisconsin;50;Badger State
 Wisconsinite;50
 Wisconsinites;50
+Wisconsin River;50
 Wisdom of Solomon;50
 wisdoms;40
 wisdom teeth;50
