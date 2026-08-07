@@ -24774,6 +24774,7 @@ do not touch glass;60;Sign at an aquarium
 do not try this at home;60
 Donovan;50;Donovan, "Mellow Yellow" singer / Donovan McNabb, NFL quarterback
 Don Q;40;Don Q rum, named for Don Quixote
+don't act surprised;60
 don't argue;60
 don't ask me why;60
 don't at me;60
@@ -43632,6 +43633,8 @@ I know how you feel;60
 I know I know;60
 I know I'm dating myself;60
 I know I'm dating myself but;60
+I know, right?;60
+I know right;0
 I know some of these words;60
 I know that's right;60;"Ain't it the truth!"
 I know the score;60
@@ -69030,6 +69033,8 @@ picking up the bill;40
 picking up the check;50
 picking up the pieces;60
 picking up the tab;50
+pickleball court;60
+pickleball courts;60
 pickled pepper;60
 pickled peppers;60
 pickle juice;60
