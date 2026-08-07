@@ -8028,6 +8028,12 @@ barbecue wing;60
 barbecue wings;60
 barbecuing;60
 barbel;20;Fish
+barbell curl;60
+barbell curls;60
+barbell piercing;60
+barbell piercings;60
+barbell shrug;60
+barbell shrugs;60
 barbels;20;Fish
 barben;20
 Barbenheimer;60;2023 double feature of "Barbie" and "Oppenheimer"
@@ -15061,6 +15067,8 @@ carped at;40
 Carpentaria;40;Gulf off northern Australia
 carpentry;50
 Carper;40;Tom Carper, Delaware senator
+carpet shark;50;Type of shark
+carpet sharks;50;Type of sharks
 carpet store;50
 carpet stores;50
 carpet treatment;50
@@ -72272,6 +72280,10 @@ purple dye;20;Green paint, right???
 purple dyes;20
 purple gallinule;50;Bird that Matthew Stock likes
 purple gallinules;50
+Purple Heart;60
+Purple Hearts;60
+purple heather;50
+Purple Heather;50;Celtic folk song
 purple nurple;60;Cocktail, or nipple twist
 purple onion;60
 purple onions;60
@@ -87424,6 +87436,8 @@ street racer;60
 street racers;60
 street races;60
 street racing;60
+street smart;60
+street smarts;60
 street team;50
 street teams;50
 Strega;30;Saffron liqueur
@@ -95518,6 +95532,8 @@ turn a new leaf;20
 turn back;50
 turn back into;40
 turn back the clock;60
+turn beet red;60
+turn beet red over;40
 Turnblad;40;Tracy Turnblad, "Hairspray" heroine
 Turnbull;40;Malcolm Turnbull, Australian prime minister
 turn card;50
@@ -95527,6 +95543,8 @@ turned a new leaf;20
 turned back;50
 turned back into;40
 turned back the clock;60
+turned beet red;60
+turned beet red over;40
 turned green;60
 turned heads;60
 turned inside out;50
@@ -95555,6 +95573,8 @@ turning a new leaf;20
 turning back;50
 turning back into;40
 turning back the clock;60
+turning beet red;60
+turning beet red over;40
 turning green;60
 turning heads;60
 turning inside out;50
@@ -95593,6 +95613,8 @@ turns a new leaf;20
 turns back;50
 turns back into;40
 turns back the clock;60
+turns beet red;60
+turns beet red over;40
 turns green;60
 turns heads;60
 turns inside out;50
