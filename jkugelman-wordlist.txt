@@ -13043,6 +13043,8 @@ Buddhahood;50;State of enlightenment
 Buddhas;40;Enlightened ones
 Buddhism;50;Major world religion
 Buddhist;50;Follower of the Buddha
+Buddhist monasteries;60
+Buddhist monastery;60
 Buddhists;50;Followers of the Buddha
 buddied up to;50
 buddies up to;50
@@ -31356,9 +31358,12 @@ fil;20
 Fila;40;Athleisure brand
 Fil-Am;30;Filipino Americans
 Filas;40
+filed for bankruptcy;60
 filefish;40
 filefishes;40
+file for bankruptcy;60
 Filene;30;Department store / bank
+files for bankruptcy;60
 file system;50
 file systems;50
 Filet-O-Fish;60
@@ -31369,6 +31374,7 @@ filiating;40
 filiation;40
 filiative;40
 filibuster;60
+filing for bankruptcy;60
 Filioque;40;Creed clause behind the East-West Schism
 Filipina;50;Woman from the Philippines
 Filipinas;40;Filipino women
@@ -42639,6 +42645,8 @@ Hunan;40;Chinese province known for spicy cuisine
 Hunanese;40;From Hunan province
 Hunches in Bunches;60;Dr. Seuss book
 hundo P;40;100%, slangily
+hundred dollar bill;60
+hundred dollar bills;60
 hundreds of billions;20
 Hundredth Smurf;60
 hundredths place;50
@@ -54312,6 +54320,10 @@ Lurex;40;Metallic yarn brand
 Luria;40;Isaac Luria, kabbalist / Salvador Luria, Nobel biologist
 Lurie;40;Alison Lurie, novelist / John Lurie, musician
 luring in;50
+lurked in the shadows;60
+lurking in the shadows;60
+lurk in the shadows;60
+lurks in the shadows;60
 Lusaka;40;Capital of Zambia
 Lusia;40;Lusia Harris, basketball pioneer
 Lusignan;40;Crusader dynasty of Cyprus and Jerusalem
@@ -61790,6 +61802,7 @@ new year new me;60
 New Year's Eve gala;50
 New York;60
 New York City;60
+New York City subway;60
 New Yorker;60
 New Yorker cartoon;60
 New Yorker cartoons;60
@@ -71988,6 +72001,8 @@ psychiatrist;50
 psychiatrists;50
 psychical;40
 Psycho;50;Hitchcock thriller
+psychoactive drug;60
+psychoactive drugs;60
 psychoactive substance;50
 psychoactive substances;50
 Psychocandy;40;Jesus and Mary Chain debut album
@@ -72135,6 +72150,8 @@ pulled one's punches;60
 pulled out all the stops;60
 pulled out by the roots;50
 pulled out of;40
+pulled pork sandwich;60
+pulled pork sandwiches;60
 pulled rank;60
 pulled rank on;60
 pulled the goalie;60
@@ -76674,6 +76691,7 @@ Rockula;30;1990 B-movie
 rock wall;50
 rock walls;50
 Rockwell;50;Norman Rockwell, illustrator / Sam Rockwell, Oscar-winning actor
+Rocky and Bullwinkle;60
 Rocky II;50
 Rocky III;50
 Rocky IV;50
@@ -77424,6 +77442,7 @@ rub;50
 rub-a-dub-dub;60
 Rubaiyat;50;Omar Khayyam's quatrains
 rubbed noses with;40
+rubbed the wrong way;60
 rubber baby buggy bumper;60
 rubber band;60
 rubber-banded;60
@@ -77455,6 +77474,7 @@ rubber stamps;60
 rubber tree;60
 rubber trees;60
 rubbing noses with;40
+rubbing the wrong way;60
 rubbished;40;Criticized, British
 rubbishes;40
 rubbishing;40
@@ -77474,6 +77494,7 @@ rub-offs;20
 rubrical;40
 rubs noses with;40
 rubs the wrong way;60
+rub the wrong way;60
 Ruby Foo's;50
 Rubyfruit;40;"Rubyfruit Jungle," Rita Mae Brown novel
 ruby laser;50
@@ -77650,6 +77671,7 @@ running away with;40
 Running Bear;30;Big Bopper song about an Indian brave
 running behind;50
 running cold;50
+running commentary;60
 running fast;30
 running for;40
 running for it;60
@@ -85671,6 +85693,7 @@ sports drink;60
 sports drinks;60
 sports hero;60
 sports heroes;60
+Sports Illustrated;60
 sportsman;60
 sportsmanlike;60
 sportsmanship;60
@@ -91098,6 +91121,7 @@ that's rad;60
 that's rough;60;"You're in a sucky situation"
 that's sad;60
 that's show biz, baby;60
+that's show business;60
 that's so not okay;60
 that's strange;60
 that's stretching it;60
@@ -95592,6 +95616,7 @@ turned heads;60
 turned inside out;50
 turned into;40
 turned on;50
+turned on the charm;60
 turned on the waterworks;60
 turned onto;40
 turned over a new leaf;60
@@ -95622,6 +95647,7 @@ turning heads;60
 turning inside out;50
 turning into;40
 turning on;50
+turning on the charm;60
 turning on the waterworks;60
 turning onto;40
 turning over a new leaf;60
@@ -95646,6 +95672,7 @@ turn lanes;50
 turn me loose;50
 turn-on;50
 turn-ons;50
+turn on the charm;60
 turn on the waterworks;60
 turn onto;40
 turn over a new leaf;60
@@ -95662,6 +95689,7 @@ turns heads;60
 turns inside out;50
 turns into;40
 turns on;50
+turns on the charm;60
 turns on the waterworks;60
 turns onto;40
 turn sour;50
