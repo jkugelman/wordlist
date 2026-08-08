@@ -1217,6 +1217,7 @@ Adamses;40
 Adamson;40;Joy Adamson, "Born Free" author
 A Dance with Dragons;60;A Song of Ice and Fire book #5
 Adania;40;Adania Shibli, Palestinian novelist
+Adania Shibli;40;Palestinian author of "Minor Detail" (2017)
 Adano;30;"A Bell for Adano" town
 adapted to;40
 adapting to;40
@@ -1433,7 +1434,7 @@ adorest;20
 adorkable;60
 adorner;40
 adorners;40
-Adorno;40;Theodor Adorno, Frankfurt School philosopher
+Adorno;30;Theodor Adorno, Frankfurt School philosopher
 a dose of;20
 ad out;40;Tennis score
 ADP;30
@@ -5750,6 +5751,8 @@ Arthropoda;40;Phylum of insects, spiders, and crustaceans
 Arthur;50;King Arthur, among others
 Arthur Dent;60;Protagonist of "The Hitchhiker's Guide to the Galaxy"
 Arthurian;50;Of King Arthur's legend
+Arthur's;40;King Arthur's court
+Arthurs;30;Plural name
 Arthur Sze;50;United States poet laureate (2025-27)
 artichokey;50;"Okey dokey, artichokey"
 artichokie;50;"Okie dokie, artichokie"
@@ -6449,6 +6452,8 @@ ateliers;40
 ate like an animal;60
 ate local;60
 ate lunch;30
+atemoya;30;Hybrid fruit popular in Taiwan
+atemoyas;30;Hybrid fruit popular in Taiwan
 Aten;40;Egyptian sun disk deity
 ate of;40
 ate one's hat;60
@@ -48673,6 +48678,7 @@ Kavner;40;Julie Kavner, voice of Marge Simpson
 Kaw;20
 Kawabata;40;Yasunari Kawabata, Nobel-winning Japanese novelist
 Kawai;40;Japanese piano maker
+kawaii;40;Japanese culture of cuteness
 Kawakami;40;Mieko Kawakami, Japanese novelist
 Kawakubo;40;Rei Kawakubo, Comme des Garçons designer
 Kawara;40;On Kawara, conceptual artist
@@ -66977,7 +66983,7 @@ pack your things;60
 Pac-Man;60
 Paco;40
 Pacquiao;50;Manny Pacquiao, eight-division boxing champion
-PACs;50;Campaign finance groups
+PACs;40;Campaign finance groups
 PacSun;40;Clothing brand
 Pac-Ten;20;Defunct athletic conference, now it's 12
 Pacuła;30;Model/actress Joanna Pacuła
@@ -69560,6 +69566,8 @@ pigs out on;60
 pigsty;50
 Pik;20
 Pikachu;60
+pikake;40;Flower used in leis
+pikakes;40;Flowers used in leis
 Piketty;40;Thomas Piketty, "Capital in the Twenty-First Century" economist
 Pikmin;40;Nintendo game series
 Pikotaro;40;"Pen-Pineapple-Apple-Pen" viral singer
@@ -81991,7 +81999,7 @@ shiatsu massager;40
 shiatsu massagers;40
 shiatsu massages;50
 Shiba;50;Inu dog breed
-Shibli;40;Adania Shibli, Palestinian novelist
+Shibli;40;Adania Shibli, Palestinian author of "Minor Detail" (2017)
 Shibuya;40;Tokyo district with the famous crossing
 shield law;50
 shield laws;50
@@ -90036,6 +90044,7 @@ Tamils;40
 Tamimi;40;Ahed Tamimi, Palestinian activist
 Tamino;40;"The Magic Flute" prince
 Tamiroff;40;Akim Tamiroff, character actor
+Tam Lin;30;Scottish border ballad
 Tammany;50;Tammany Hall, New York political machine
 Tammi;40;Motown singer Tammi Terrell
 tammie;30;???
@@ -90398,7 +90407,7 @@ Tatiana;50;Tatiana Maslany, "Orphan Black" star
 Tatis;40;Fernando Tatis Jr., Padres slugger
 Tatjana;40;Tatjana Patitz, supermodel
 Tatler;30;British magazine
-Tatlin;40;Vladimir Tatlin, Russian constructivist artist
+Tatlin;30;Vladimir Tatlin, Russian constructivist artist
 Tatooine;60;Luke Skywalker's home planet
 tats;50
 Tatsuya;40;Tatsuya Nakadai, Japanese actor in "Ran"
@@ -92363,6 +92372,7 @@ The Odessa File;50;1972 thriller novel by Frederick Forsyth
 theodicy;30
 Theodor;40;Theodor Herzl, father of Zionism / Theodor Adorno, philosopher
 Theodora;40;???
+Theodor Adorno;40;Frankfurt School philosopher
 Theodorakis;40;Mikis Theodorakis, "Zorba the Greek" composer
 Theodore;50;Common first name
 Theodore Sturgeon;50
@@ -94786,6 +94796,7 @@ Toussaint;40;Toussaint Louverture, Haitian revolutionary / Allen Toussaint, musi
 touter;30
 touters;30
 tov;40
+tova;30;"Shana tova", Rosh Hashanah greeting
 Tovah;30
 to varying degrees;50
 Tove;30;Singer ___ Lo
@@ -98846,6 +98857,7 @@ Vladek;40;Vladek Spiegelman, the father in "Maus"
 Vlad III;30;???
 Vladimir;50;Russian first name, as in Putin or Nabokov
 Vladimir Harkonnen;60
+Vladimir Tatlin;40;Russian constructivist artist
 Vladivostok;50;Russian Pacific port city
 Vlasic;40;Pickle brand
 Vlasic dill;50
