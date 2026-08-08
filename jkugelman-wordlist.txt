@@ -3621,6 +3621,7 @@ am I right;0
 am I right or am I right?;60
 am I right or am I right;0
 amirite;60
+Amir Khusrau;40;Indian poet, writer, singer and scholar (1253–1325)
 Amirpour;40;Ana Lily Amirpour, film director
 amis;40
 Amish;50;Plain-living Anabaptist group
@@ -49116,7 +49117,7 @@ Khoury;40;Elias Khoury, Lebanese novelist
 Khruangbin;40;Texas psychedelic band
 Khrushchev;50
 Khufu;40;Pharaoh who commissioned the Great Pyramid of Giza
-Khusrau;40;Amir Khusrau, Indo-Persian poet
+Khusrau;30;Amir Khusrau, Indian poet, writer, singer and scholar (1253–1325)
 Khuzestan;40;Oil-rich Iranian province
 Khyber;40
 kHz;20
