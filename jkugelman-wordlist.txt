@@ -99649,6 +99649,7 @@ WC;40
 W C Handy;50;Father of the Blues
 WCs;40
 wds;40
+WDYM;40;What do you mean?
 we;50
 wea;20
 weak boson;50
