@@ -4560,6 +4560,7 @@ antoccino;40;Espresso drink
 antoccinos;40
 Antofagasta;40;Chilean port city
 Antoine;50;Common first name
+Antoine-Jean Gros;40;French painter of historical subjects (1771–1835)
 Antoinette;50;Marie Antoinette, or Antoinette Perry of Tony fame
 Anton;50;Anton Chekhov, playwright / Anton Chigurh, "No Country for Old Men" villain
 Antone;40;San Antone, TX
@@ -5756,7 +5757,24 @@ Arthurs;30;Plural name
 Arthur Sze;50;United States poet laureate (2025-27)
 artichokey;50;"Okey dokey, artichokey"
 artichokie;50;"Okie dokie, artichokie"
+articled;40
+Article Five;40
+Article Four;40
+Article I;40
+Article II;40
+Article III;40
+Article IV;40
+Article IX;40
+Article One;40
+Article Seven;40
+Article Six;40
+Article Three;40
+Article Two;40
+Article V;40
 Article VI;40
+Article VII;40
+Article X;40
+articling;40
 articular;40;Relating to a joint
 Artie;40;Jazz bandleader Artie Shaw
 arties;30
@@ -6621,6 +6639,16 @@ ATT;40;Attempts, football stat
 att;0
 atta;40
 attaboy;60
+attached a towbar;0
+attached importance to;40
+attached to;50
+attaches importance to;40
+attaches to;40
+attach importance to;40
+attaching importance to;40
+attaching to;40
+attach some weight to;20
+attach to;40
 attack dog;60
 attack dogs;60
 Attack of the Clones;60
@@ -6685,7 +6713,9 @@ Attiah;40;Karen Attiah, Washington Post columnist
 Attica;50;New York prison, or the Greek region
 attic ladder;50
 attic ladders;50
+Attic salt;50;Shrewd, subtle humor (from Athens / "Attica")
 Atticus;50;Atticus Finch of "To Kill a Mockingbird"
+Attic wit;50;Shrewd, subtle humor (from Athens / "Attica")
 Attila;50;Attila the Hun, scourge of Rome
 attirer;20
 attirers;20
@@ -6834,6 +6864,9 @@ Aurelius;50;Marcus Aurelius, Stoic emperor
 aureole;30
 aureoles;30
 Auric;30
+auricle;40
+auricled;40
+auricles;40
 auricula;20;Flower
 auricular;40
 Auriemma;40;Geno Auriemma, UConn women's basketball coach
@@ -9111,6 +9144,8 @@ be aware of;20
 be back in a minute;50
 Bebe;40
 bec;20
+became attached;40
+became attached to;40
 became aware of;40
 became obsolete;50
 Because I Got High;60;Afroman song
@@ -9137,11 +9172,17 @@ becloud;30
 beclouded;30
 beclouding;30
 beclouds;30
+become attached;40
+become attached to;40
 become aware of;40
 become obsolete;50
 becomes a cat;20
+becomes attached;40
+becomes attached to;40
 becomes aware of;40
 becomes obsolete;50
+becoming attached;40
+becoming attached to;40
 becoming aware of;40
 becoming obsolete;50
 be concise;50
@@ -12616,6 +12657,9 @@ briberies;40
 bric;40
 bric-a-brac;60
 Brice;40;Fanny Brice, "Funny Girl" comedian
+brick and mortar;60
+brick and mortar store;60
+brick and mortar stores;60
 brick by brick;60
 Brick City;50;Newark, NJ
 Brickell;40;Upscale Miami district
@@ -12627,6 +12671,7 @@ brick oven pizzas;50
 brick ovens;50
 Brickowski;60;Emmet Brickowski, "The Lego Movie" main character
 brick road;50
+bricks and mortar;60
 brick shithouse;10
 brick wall;60
 brick walls;60
@@ -18090,6 +18135,7 @@ click here;60
 ClickHole;40;The Onion's clickbait parody site
 clicking on;40
 click on;40
+clicks and mortar;40
 clicks on;40
 click the bell;60
 click-through rate;60
@@ -18648,7 +18694,7 @@ coho;40;Salmon
 cohort studies;60
 cohort study;60
 cohos;40;Salmon
-Coi;40;Coi Leray, rapper
+Coi;20;Coi Leray, rapper
 coibot;20;???
 Coimbatore;40;Large city in Tamil Nadu
 Coimbra;40;Portuguese city with an ancient university
@@ -20556,7 +20602,7 @@ creepers;60
 creeping into;40
 creep into;40
 creeps into;40
-Crees;40
+Crees;50
 Cregg;40;C.J. Cregg, "The West Wing" press secretary
 Cregger;40;Zach Cregger, "Barbarian" director
 crema;40
@@ -21190,6 +21236,7 @@ Cullinan;40;Cullinan Diamond, the largest gem diamond found
 Cullors;40;Patrisse Cullors, Black Lives Matter co-founder
 Culp;30;Robert Culp of "I Spy"
 Culper;40;Culper Ring, Revolutionary War spy network
+culs;30;Culs-de-sac
 cult hero;60
 cult heroes;60
 cult hit;50
@@ -27980,6 +28027,7 @@ embrocates;40
 embrocating;40
 embrocation;40
 embrocations;40
+embryonic stem cell research;50
 emc;20
 E = mc²;60
 E=mc²;60
@@ -35180,6 +35228,7 @@ geniture;30;Parentage, archaic
 Genius Bar;50
 Genius Bars;50
 Genji;40;"The Tale of Genji" / Overwatch ninja
+gen'l;30
 genmaicha;40;Japanese brown rice green tea
 Gennaro;40;???
 Genndy;40;Genndy Tartakovsky, creator of "Samurai Jack"
@@ -35451,6 +35500,8 @@ get a stupid answer;60
 get at;40
 get a tip;50
 get a toehold;60
+get attached;40
+get attached to;40
 getaway car;60
 getaway driver;60
 getaway vehicle;60
@@ -35561,6 +35612,8 @@ gets a say;50
 gets at;40
 gets a tip;50
 gets a toehold;60
+gets attached;40
+gets attached to;40
 gets back at;40
 gets beyond;30
 gets biblical;50
@@ -35693,6 +35746,8 @@ getting a run;30
 getting a say;50
 getting at;40
 getting a toehold;60
+getting attached;40
+getting attached to;40
 getting back at;40
 getting beyond;30
 getting biblical;50
@@ -37421,6 +37476,8 @@ got a staring problem;60
 got at;40
 got a tip;50
 got a toehold;60
+got attached;40
+got attached to;40
 got back at;40
 got beyond;30
 got biblical;50
@@ -38235,7 +38292,7 @@ groping around;50
 groping around for;40
 groping for;40
 Gropius;40;Walter Gropius, Bauhaus founder
-Gros;40;Antoine-Jean Gros, French Romantic painter
+Gros;30;Fat, in French / Antoine-Jean Gros, French Romantic painter
 Grosjean;40;Romain Grosjean, F1 driver
 Grosse;40;Grosse Pointe, Michigan
 grossed up;40
@@ -40843,6 +40900,7 @@ Hemans;40;Felicia Hemans, English poet
 hematic;30;???
 hematin;40;Iron pigment from blood
 hematinic;30;???
+hematopoeitic stem cell;0
 Hemby;40;Natalie Hemby, country songwriter of The Highwomen
 heme;30;Blood pigment
 hemi-;40
@@ -48742,6 +48800,7 @@ KCMO;40;Kansas City, Missouri
 KC Royal;50
 KC Royals;50
 KCs;20
+K-Cup;40;Keurig coffee brewing system
 K-Cup pod;60
 K-Cup pods;60
 K.Dot;40;Nickname for Kendrick Lamar
@@ -55890,6 +55949,7 @@ mama bears;60
 mama bird;50
 mama birds;50
 Mama Cax;50;American–Haitian model and disabled rights activist (1989–2019)
+Mama Kin;40;1973 single by Aerosmith
 mama like;50;???
 mama likes;60
 maman;20
@@ -59961,8 +60021,9 @@ mortal man;60
 mortal remains;60
 mortal sin;60
 mortal sins;60
-mortarboard;50
-mortarboards;50
+mortar and pestle;60
+mortarboard;60
+mortarboards;60
 mortar fire;50
 mortem;40;Post-___
 Mortensen;50;Viggo Mortensen, actor
@@ -65640,6 +65701,7 @@ oohs;50
 oohs at;40
 ooh shiny;60
 ooh that's gotta hurt;60
+ooky;40
 oo la la;40
 oolite;20
 oolites;20
@@ -66328,7 +66390,8 @@ osmosing;40
 osmosis;50
 osmund;30;Saint or fern
 Osnabruck;40;German city, spelled Osnabrück
-oso;20
+oso;30;Spanish bear
+osos;30;Spanish bears
 Osric;40;"Hamlet" character
 OSS;30;WWII spy grp.
 Ossa;20;Greek mountain
@@ -67463,6 +67526,7 @@ paper pail;60;Chinese takeout container
 paper pails;60
 paper plane;60
 paper planes;60
+papers attached to a pad;0
 paper tiger;60
 paper tigers;60
 paper town;60;Copyright trap
@@ -70011,6 +70075,8 @@ placekicker;50
 placekickers;50
 placekicking;50
 placekicks;50
+placental stem cell;50
+placental stem cells;50
 Placentia;40;Orange County, California city
 placer;30
 placers;30
@@ -70120,6 +70186,8 @@ plantsits;60
 plantsitter;60
 plantsitters;60
 plantsitting;60
+plant stem cell;50
+plant stem cells;50
 plash;20;Splash, poetically
 plashed;20;Splashed, poetically
 plashes;20;Splashes, poetically
@@ -85086,6 +85154,7 @@ somnambulists;50
 somniferous;30;Causing sleep
 somnific;30;Causing sleep
 Somoza;30;Nicaraguan president in the '70s
+so much as;50
 son;50
 sonance;40;Sound/tune/speaker brand
 sonant;40;Of sound, or a syllabic consonant
@@ -87220,7 +87289,10 @@ Stellan Skarsgard;50
 Stellantis;40;Automaker that owns Jeep and Chrysler
 Stellas;40;Stella Artois beers
 stellate;40;Arranged in a radiating pattern like a star
+stem cell;60
 stem cell research;60
+stem cells;60
+stem cell therapy;60
 stemmed the tide;60
 stemming the tide;60
 Stempel;40;Herb Stempel, "Twenty-One" quiz show whistleblower
@@ -90481,7 +90553,9 @@ tautonyms;50;Scientific names in which the same word is used for both genus and 
 Tautou;40;Audrey Tautou, star of "Amélie"
 taut ship;40
 tav;20
+tava;30;Indian frying pan
 Tavares;40;John Tavares, NHL center
+tavas;30;Indian frying pans
 Tavener;40;John Tavener, English composer
 taverna;40;Greek restaurant
 tavernas;40
