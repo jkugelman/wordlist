@@ -6079,6 +6079,7 @@ ASMRtist;60
 ASMRtists;60
 ASMR video;60
 ASMR videos;60
+a snap;40
 Asner;40;Ed Asner
 Aso;30;Japan's largest volcano [rare]
 as of;50
@@ -17392,6 +17393,7 @@ Christmases;50;Yuletides
 Christmas gift;60
 Christmas gifts;60
 Christmas horror;60
+Christmas in Hollis;40;1987 single by Run-DMC
 Christmas light;60
 Christmas lights;60
 Christmas package machine;60;Acme invention
@@ -41766,6 +41768,7 @@ Hollies;40;The Hollies, "He Ain't Heavy" band
 Hollinghurst;50;Alan Hollinghurst, "The Line of Beauty" novelist
 Hollis;40;Queens neighborhood, Run-DMC's home
 Hollister;40;Clothing brand
+Hollister riot;40;1947 motorcycle rally
 Holloway;40;Josh Holloway, Sawyer on "Lost"
 Hollow Knight;60
 Hollow Knight Silksong;60
@@ -44893,6 +44896,7 @@ inheres;40
 in high gear;60
 in high heels;50
 in his hat;30
+in Hollis;20
 in-home care;50
 inhume;30;Bury, poetically
 inhumed;30;Buried, poetically
@@ -54522,6 +54526,8 @@ lurking in the shadows;60
 lurk in the shadows;60
 lurks in the shadows;60
 Lusaka;40;Capital of Zambia
+Lusaka, Zambia;40;Capital of Zambia
+Lusaka Zambia;0
 Lusia;40;Lusia Harris, basketball pioneer
 Lusignan;40;Crusader dynasty of Cyprus and Jerusalem
 Lusitania;50;Liner sunk by a U-boat in 1915
@@ -69063,6 +69069,7 @@ Phobos;60;Martian moon
 Phobos and Deimos;20
 Phoebe;50;Phoebe Buffay, "Friends" character / Phoebe Bridgers, singer
 Phoebus;40;Epithet of Apollo
+Phoebus Apollo;40;Type of butterfly
 Phoenicia;50;Ancient seafaring civilization
 Phoenician;50;Ancient Mediterranean seafarer
 Phoenicians;50;Ancient seafaring people
@@ -83252,6 +83259,7 @@ skanky;40
 Skara;40;Skara Brae, Neolithic village in Orkney
 Skarsgard;50;Acting family
 Skarsgårds;50;Acting family
+skat;40;Three-player trick-taking card game
 Skateaway;40;Dire Straits song
 skateboard park;60
 skateboard parks;60
@@ -91875,6 +91883,7 @@ the high life;60
 the High Priestess;60;Tarot card
 The Hitchhiker's Guide to the Galaxy;60
 The Hobbit;50
+the Hollister riot;30;1947 motorcycle rally
 the Home Depot beat;60
 The Honeymooners;60
 the Hoover Dam;50
@@ -92835,6 +92844,7 @@ this is taking forever;60
 this is the final boarding call;60
 this is where I come in;60
 this is where you come in;60
+this job is a snap;0
 this'll be the end of me;60
 this one;40;Paul McCartney song, or "This one"
 this post right here, officer;60
@@ -98855,6 +98865,7 @@ V shape;30
 V-shaped;30
 V shapes;30
 vso;20
+VSOP;40;Letters on cognac bottles (very special/superior old pale)
 vsro;20
 VT;40
 VTech;30;Phone supplier
