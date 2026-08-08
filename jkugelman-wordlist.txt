@@ -19,6 +19,9 @@
 10 lords a-leaping;60
 10pm;40
 10th;40
+10th generation;20
+10th generation console;20
+10th generation consoles;20
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 10-year-old;40
 10-year-olds;40
@@ -181,6 +184,9 @@
 4Runners;50;Toyota SUVs
 4 square;50;Elimination-based ball game played in a box
 4th;40
+4th generation;20
+4th generation console;20
+4th generation consoles;20
 4-year-old;40
 4-year-olds;40
 50/50;50
@@ -195,6 +201,9 @@
 5th Avenue;60;Hershey chocolate bar
 5th Avenue bar;60;Hershey chocolate bar
 5th Avenue bars;60;Hershey chocolate bars
+5th generation;20
+5th generation console;20
+5th generation consoles;20
 5-year-old;40
 5-year-olds;40
 60 Minutes;60;American television news magazine program
@@ -210,6 +219,9 @@
 6-string guitar;60
 6-string guitars;60
 6th;40
+6th generation;20
+6th generation console;20
+6th generation consoles;20
 6-year-old;40
 6-year-olds;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
@@ -226,6 +238,9 @@
 7-string guitars;60
 7 swans a-swimming;60
 7th;40
+7th generation;20
+7th generation console;20
+7th generation consoles;20
 7th heaven;60
 7-year-old;40
 7-year-olds;40
@@ -243,6 +258,9 @@
 8-string guitar;60
 8-string guitars;60
 8th;40
+8th generation;20
+8th generation console;20
+8th generation consoles;20
 8-track;50
 8-track cartridge;50
 8-track cartridges;50
@@ -267,6 +285,9 @@
 9 ladies dancing;60
 9pm;40
 9th;40
+9th generation;20
+9th generation console;20
+9th generation consoles;20
 9-volt;50;Small battery
 9-volt batteries;60
 9-volt battery;60
