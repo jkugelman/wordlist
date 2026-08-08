@@ -322,7 +322,7 @@ AARP member;50
 AARP members;50
 AAs;40;Batteries
 Aasif;40;Aasif Mandvi, "The Daily Show" correspondent 2006-17
-Aasif Mandvi;50;"The Daily Show" correspondent 2006-17
+Aasif Mandvi;40;"The Daily Show" correspondent 2006-17
 A as in apple;60
 AA sponsor;60
 AA sponsors;60
@@ -2575,6 +2575,7 @@ Alexi;30;Lalas of soccer, Laiho of Children of Bodom
 Alexiad;40;Anna Komnene's Byzantine history
 Alexie;40
 Alexievich;40;Svetlana Alexievich, Nobel-winning Belarusian writer
+Alexi Lalas;40;US soccer player turned pundit
 Alexis;50;Alexis Bledel, "Gilmore Girls" actress / Alexis Rose of "Schitt's Creek"
 Alexisonfire;40;Canadian post-hardcore band
 Alex Mack;50
@@ -3878,6 +3879,8 @@ Andrei Tarkovsky;50;Major director
 Andreotti;40;Giulio Andreotti, seven-time Italian prime minister
 Andre Royo;50;Actor who played Bubbles on "The Wire"
 Andres;50;Andres Iniesta, soccer great / Andres Segovia, guitarist
+Andrés Iniesta;40;Spanish footballer (born 1984)
+Andres Iniesta;0
 Andress;40;Ursula Andress, first Bond girl
 Andretti;50;Mario Andretti, racing legend
 Andrew;50;Common first name
@@ -5850,6 +5853,10 @@ Ashnikko;40;Blue-haired pop rapper
 Ashok;40;Ashok Kumar, Bollywood star
 Ashoka;30;Mauryan emperor of ancient India
 Ashoka the Great;50;Mauryan emperor of ancient India
+a shot;20
+as hot;20
+as hot as;20
+a shot in the arm;60
 ash pan;40
 ash pans;40
 ash pit;40;???
@@ -28168,7 +28175,7 @@ enlister;40
 enlisters;40
 enlist in;40
 enlisting in;40
-enlist in the army;30;Green paint???
+enlist in the army;30;Green paint
 enlists in;40
 enls;20
 ENM;20
@@ -45067,6 +45074,9 @@ in the afterlife;60
 In the Air Tonight;60
 in the alley;50;???
 in the altogether;60
+in the arm;20
+in the arms of Morpheus;60;Asleep
+in the army;40
 in the can;60
 in the catbird seat;60
 in the cloud;60
@@ -45779,7 +45789,7 @@ issueless;30
 issues to;40
 issue to;40
 issuing to;40
-Issus;40;Where Alexander routed Darius III
+Issus;30;Where Alexander routed Darius III
 is sweet on;40
 -ist;40;Suffix [common]
 Istanbul;50;Turkey's largest city
@@ -47458,6 +47468,7 @@ joint committee;50
 joint custody;60
 jointer;40;???
 jointers;40
+join the army;30;Green paint?
 joint owner;50
 joint owners;50
 joint pain;50
@@ -56513,8 +56524,8 @@ Mathewson;40;Christy Mathewson, Hall of Fame pitcher
 Mathias;40;Mathias Rust, teen pilot who landed in Red Square
 Mathieu;40;Tyrann Mathieu, NFL safety / French form of Matthew
 Mathis;50;Johnny Mathis, "Chances Are" crooner
-math nerd;40
-math nerds;40
+math nerd;50
+math nerds;50
 Math PhD;20;Green paint
 math puzzle;50
 math puzzles;50
@@ -87631,6 +87642,7 @@ strong breeze;50;6 on the Beaufort wind force scale
 strong force;50
 stronghold;50
 strongholds;50
+Stronginthearm;40;Terry Pratchett character
 strongman;60
 strongmen;60
 strong suit;60
@@ -88153,6 +88165,7 @@ sunimrosulp;0
 Sun In;40;Sun In hair lightener
 Sunisa;40;Gymnast Sunisa "Suni" Lee
 Sunita;40;Astronaut Sunita Williams
+Sunita Williams;50;NASA astronaut (born 1965)
 sunken garden;60
 sunken gardens;60
 Sunken Place;60
@@ -89063,7 +89076,8 @@ tactual;30
 tactually;30
 Tacubaya;40;Mexico City neighborhood
 tad;50
-Tadao;40;Tadao Ando, Japanese architect
+Tadao;30;Tadao Ando, Japanese architect
+Tadao Ando;40;Japanese architect (born 1941)
 ta-das;30
 Tadej;30;Tadej Pogačar, Slovenian cyclist (born 1998) with four Tour de France victories
 Tadej Pogačar;50;Slovenian cyclist (born 1998) with four Tour de France victories
@@ -98564,6 +98578,8 @@ VSCO girl;30
 VSCO girls;30
 VSCO kid;30
 VSCO kids;30
+VSEPR;20;Valence shell electron pair repulsion
+VSEPR theory;40;Valence shell electron pair repulsion theory
 V shape;30
 V-shaped;30
 V shapes;30
