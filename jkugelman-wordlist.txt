@@ -4720,7 +4720,8 @@ aphetic;30
 Aphex;40;Aphex Twin, electronic musician
 AP History;50
 aphotic;40;Ocean zone where there's no light
-Aphra;40;Aphra Behn, first professional English woman writer
+Aphra;30;Aphra Behn, first professional English woman writer
+Aphra Behn;40;First professional English woman writer (1640-1689)
 Aphrodite;60
 API;20
 Apia;40;Capital of Samoa
@@ -5016,7 +5017,7 @@ aquanaut;40
 aquanauts;40
 Aqua Net;50
 aqua pura;40
-aqua regia;50;???
+aqua regia;40;Mixture used by alchemists to dissolve gold
 Aquarian;40
 Aquarians;40;Zodiac water bearers
 Aquarius;50;Water bearer of the zodiac
@@ -10233,6 +10234,7 @@ Bil;20
 Bilbao;40;Spanish city with a Guggenheim
 Bilbao eels;50
 Bilbo;50;Bilbo Baggins, "The Hobbit" hero
+Bilbo Baggins;60
 Bild;40;German tabloid newspaper
 Bildad;40;One of Job's comforters
 Bilderberg;50;Group behind the secretive annual conference
@@ -33598,6 +33600,7 @@ Frobe;40;Gert Fröbe, Goldfinger in the 1964 Bond film
 Froberger;40;Johann Jakob Froberger, Baroque composer
 Frobisher;40;Martin Frobisher, Arctic explorer
 Frodo;50;Frodo Baggins, ring bearer
+Frodo Baggins;60
 Froffles;40;???
 frog;50;Rip out knitting
 frogged;50;Ripped out knitting
@@ -44738,8 +44741,8 @@ in-flight entertainment;60
 influencer;60
 influencers;60
 Influencer Smurf;60
-infodemic;40
-infodemics;40
+infodemic;50;Overabundance of information, both accurate and false, during an epidemic
+infodemics;50;Overabundances of information, both accurate and false, during epidemics
 info desk;50
 info desks;50
 infodrop;60
@@ -46441,10 +46444,12 @@ IV needle;50
 IV needles;50
 Ivo;20
 Ivoire;40;Cote d'Ivoire, African nation
-Ivor;40;Ivor Novello, Welsh composer with awards named for him
+Ivor;30;Ivor Novello, Welsh composer with awards named for him
+Ivor Gurney;40;English composer and poet (1890–1937)
 Ivorian;30;Native of Côte d'Ivoire
 Ivorians;40;Ivory Coast natives
 ivories;50
+Ivor Novello;40;Welsh composer and actor (1893–1951)
 ivory palm;50
 ivory palms;50
 I voted;60
@@ -49004,6 +49009,8 @@ Khalsa;40;Collective body of initiated Sikhs
 khanate;40
 Khanna;40;Ro Khanna, congressman, or Rajesh Khanna, Bollywood star
 khansentrayshun;0
+khao soi;40;Thai noodle soup
+khao soy;40;Thai noodle soup
 Kharijite;40;Member of an early Islamic sect
 Kharijites;40;Early Islamic sect
 Kharis;20
@@ -58542,6 +58549,7 @@ mini pizza;50
 mini pizzas;50
 mini quiche;50
 mini quiches;50
+miniSD;40
 Minish;40;Tiny folk of "The Legend of Zelda: The Minish Cap"
 minister;50
 ministered to;40
@@ -61079,6 +61087,9 @@ nashi pear;30;Asian pear
 nashi pears;30;Asian pears
 Nashua;40;New Hampshire city
 Nashville;50;Tennessee capital, Music City
+nasi;30;Cooked rice
+nasi goreng;40
+nasi lemak;40
 Nasim;30;S.N.L. alum Nasim Pedrad
 Nassau;40;Capital of the Bahamas
 Nassau Bahamas;50
@@ -65920,6 +65931,7 @@ Orontes;20;Syrian river
 oronym;30;I scream for ice cream, for example
 oronyms;30;Phrases that sound like another (ice cream / I scream)
 Oroonoko;40;Aphra Behn novel
+oros;30
 Orosco;30;Jesse Orosco, major league record for career pitching appearances
 orotund;40;Deep, sonorous
 orotundity;40
@@ -74817,6 +74829,7 @@ regex;40;Regular expression
 regexes;40;Regular expressions
 Reggie;50;Reggie Jackson, Mr. October / Reggie Miller, NBA sharpshooter
 Reggio;40;Reggio Emilia or Reggio Calabria, Italy
+regia;30
 regift;50
 regifted;50
 regifting;50
@@ -74982,7 +74995,7 @@ rejudged;20
 rejudges;20
 rejudging;20
 rekcolsenojyvad;0
-Rekha;40;Bollywood star
+Rekha;30;Bollywood star
 rekick;20
 rekicked;20
 rekicking;20
@@ -75183,6 +75196,7 @@ ren faires;60
 Renfield;40;Dracula's bug-eating servant
 Renfrew;40;Scottish town near Glasgow
 Renfro;30;Brad Renfro of "The Client", died at age 25
+renga;30;Genre of Japanese poetry
 Ren Hoek;50
 Reni;30;Painter Guido
 reniform;40;Kidney-shaped, in botany
@@ -78415,6 +78429,7 @@ Sakkari;40;Maria Sakkari, Greek tennis star
 Saks;50;Fifth Avenue department store
 Sakurai;40;Masahiro Sakurai, "Super Smash Bros." creator
 Sal;50
+sala;30;Spanish "room"
 salability;30
 salable;40;Sellable
 Salacia;30;Roman female divinity of the sea
@@ -78681,6 +78696,7 @@ samurai sword;60
 samurai swords;60
 Samus;50;Samus Aran, "Metroid" heroine
 Samwise;50
+Samwise Gamgee;60
 San;40
 Sanaa;30;Capital of Yemen
 Sanaa Yemen;50
@@ -80312,7 +80328,7 @@ sees things;50
 sees to;40
 sees up;40
 sees with the naked eye;60
-seeth;40
+seeth;40;Sees, archaically
 see the light;60
 Seether;40;Post-grunge band
 see things;50
@@ -82752,6 +82768,7 @@ Simpson;50;Bart Simpson, cartoon brat / O. J. Simpson, football star
 Simpsons;50;"The Simpsons," long-running cartoon family
 Simpsons Hit 'n' Run;20
 Sims;50;"The Sims" game series
+sim sala bim;50;Nonsense magic words
 Simu;30;Actor Liu of "Shang-Chi and the Legend of the Ten Rings"
 simul-climb;60
 simul-climbed;60
@@ -90842,6 +90859,9 @@ tercets;30;Three lines of verse
 terebinth;30;Turpentine tree
 teredo;20;Termite of the sea
 Terence;50;Common first name
+te reo;30;The Māori language
+te reo Māori;40;Eastern Polynesian language
+te reo Maori;0
 Teresa;50;Mother Teresa, or a common first name
 Teresas;30;Plural name
 Tereshkova;50;Valentina Tereshkova, first woman in space
