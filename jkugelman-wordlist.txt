@@ -19,9 +19,11 @@
 10 lords a-leaping;60
 10pm;40
 10th;40
+10th-gen console;40
+10th-gen consoles;40
 10th generation;20
-10th generation console;20
-10th generation consoles;20
+10th-generation console;40
+10th-generation consoles;40
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
 10-year-old;40
 10-year-olds;40
@@ -84,6 +86,10 @@
 #1 seed;50
 #1 seeds;50
 1st;50
+1st-gen console;40
+1st-gen consoles;40
+1st-generation console;50
+1st-generation consoles;50
 1-up;50;Extra life in video games
 1-ups;50;Extra lives in video games
 1v1;50
@@ -115,6 +121,10 @@
 2 Chainz;60;American rapper and actor (born 1977)
 2 Legit 2 Quit;60;1991 single by MC Hammer
 2nd;50
+2nd-gen console;40
+2nd-gen consoles;40
+2nd-generation console;50
+2nd-generation consoles;50
 2Pac;60;Rapper Tupak Shakur
 #2 pencil;60
 #2 pencils;60
@@ -142,6 +152,10 @@
 3 French hens;60
 3pm;40
 3rd;50
+3rd-gen console;40
+3rd-gen consoles;40
+3rd-generation console;40
+3rd-generation consoles;40
 3rd Rock from the Sun;60;American television sitcom (1996–2001)
 #3 seed;50
 #3 seeds;50
@@ -184,9 +198,11 @@
 4Runners;50;Toyota SUVs
 4 square;50;Elimination-based ball game played in a box
 4th;40
+4th-gen console;40
+4th-gen consoles;40
 4th generation;20
-4th generation console;20
-4th generation consoles;20
+4th-generation console;40
+4th-generation consoles;40
 4-year-old;40
 4-year-olds;40
 50/50;50
@@ -201,9 +217,11 @@
 5th Avenue;60;Hershey chocolate bar
 5th Avenue bar;60;Hershey chocolate bar
 5th Avenue bars;60;Hershey chocolate bars
+5th-gen console;40
+5th-gen consoles;40
 5th generation;20
-5th generation console;20
-5th generation consoles;20
+5th-generation console;40
+5th-generation consoles;40
 5-year-old;40
 5-year-olds;40
 60 Minutes;60;American television news magazine program
@@ -219,9 +237,11 @@
 6-string guitar;60
 6-string guitars;60
 6th;40
+6th-gen console;40
+6th-gen consoles;40
 6th generation;20
-6th generation console;20
-6th generation consoles;20
+6th-generation console;40
+6th-generation consoles;40
 6-year-old;40
 6-year-olds;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
@@ -238,9 +258,11 @@
 7-string guitars;60
 7 swans a-swimming;60
 7th;40
+7th-gen console;40
+7th-gen consoles;40
 7th generation;20
-7th generation console;20
-7th generation consoles;20
+7th-generation console;40
+7th-generation consoles;40
 7th heaven;60
 7-year-old;40
 7-year-olds;40
@@ -258,9 +280,11 @@
 8-string guitar;60
 8-string guitars;60
 8th;40
+8th-gen console;40
+8th-gen consoles;40
 8th generation;20
-8th generation console;20
-8th generation consoles;20
+8th-generation console;40
+8th-generation consoles;40
 8-track;50
 8-track cartridge;50
 8-track cartridges;50
@@ -285,9 +309,11 @@
 9 ladies dancing;60
 9pm;40
 9th;40
+9th-gen console;40
+9th-gen consoles;40
 9th generation;20
-9th generation console;20
-9th generation consoles;20
+9th-generation console;40
+9th-generation consoles;40
 9-volt;50;Small battery
 9-volt batteries;60
 9-volt battery;60
@@ -27305,6 +27331,10 @@ eight AM;50
 Eight Crazy Nights;50;Adam Sandler movie
 eighteen hundred and froze to death;60;1816, when a volcanic eruption created a volcanic winter
 eighteens;30
+eighth-gen console;40
+eighth-gen consoles;40
+eighth-generation console;40
+eighth-generation consoles;40
 eightieth;50
 eight iron;50
 eight irons;50
@@ -31369,6 +31399,10 @@ fiery spirit;60
 Fievel;50;Mouse of "An American Tail"
 Fifi;50;Stereotypical poodle name
 fifteenfootpole;0
+fifth-gen console;40
+fifth-gen consoles;40
+fifth-generation console;40
+fifth-generation consoles;40
 fiftieth;40
 fifty-eight;40
 Fifty First Dates;50
@@ -33062,6 +33096,10 @@ four-strings;50
 four-stroke internal combustion engine;60
 fourth and inches;60
 fourth and long;60
+fourth-gen console;40
+fourth-gen consoles;40
+fourth-generation console;40
+fourth-generation consoles;40
 four threes;20
 four-wheel drive;60
 four-wheeled;50
@@ -62311,6 +62349,10 @@ Nintendo Switch;60
 Nintendo Switches;60
 Nintendo Wii;60
 Nintendo Wiis;60
+ninth-gen console;40
+ninth-gen consoles;40
+ninth-generation console;40
+ninth-generation consoles;40
 ninthly;40
 Ninurta;40;Mesopotamian war god
 Niobe;30;Weeper of Greek myth
@@ -81035,6 +81077,10 @@ seven swans a-swimming;60
 seventeens;20;???
 seventeenths;40
 Seventh Amendment;50
+seventh-gen console;40
+seventh-gen consoles;40
+seventh-generation console;40
+seventh-generation consoles;40
 seventh-inning;50
 sevenths;40
 seven to;20
@@ -83031,6 +83077,10 @@ sixteenth note;50
 sixteenth notes;50
 sixteenth rest;50
 sixteenth rests;50
+sixth-gen console;40
+sixth-gen consoles;40
+sixth-generation console;40
+sixth-generation consoles;40
 sixth man;50;???
 Sixtus;40;Pope name
 sixty-eight;40
@@ -90740,6 +90790,10 @@ tented;40
 tenter;30
 tenterhooks;60
 tenters;30
+tenth-gen console;40
+tenth-gen consoles;40
+tenth-generation console;40
+tenth-generation consoles;40
 tenting;40
 ten toes;20
 ten tonnes;20
@@ -92541,6 +92595,10 @@ third base coaches;60
 third baseman;60
 third basemen;60
 third eye;60
+third-gen console;40
+third-gen consoles;40
+third-generation console;40
+third-generation consoles;40
 third law;50
 third law of thermodynamics;60
 third little pig;60
