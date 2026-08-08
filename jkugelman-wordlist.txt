@@ -20,10 +20,14 @@
 10pm;40
 10th;40
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
+10-year-old;40
+10-year-olds;40
 11/22/63;60;2011 novel by Stephen King
 11am;40
 11 pipers piping;60
 11pm;40
+11-year-old;40
+11-year-olds;40
 12am;50
 12 Angry Men;60;American legal drama film by Sidney Lumet
 12 drummers drumming;60
@@ -32,20 +36,34 @@
 12-step;50
 12-step program;60
 12-step programs;60
+12-year-old;40
+12-year-olds;40
 12 Years a Slave;60;1853 memoir by Solomon Northup
 13 Going on 30;20;2004 Jennifer Garner romcom
+13-year-old;40
+13-year-olds;40
+14-year-old;40
+14-year-olds;40
 15 minutes;50
 15 minutes of fame;60;What Andy Warhol said everyone will have, one day
+15-year-old;40
+15-year-olds;40
 16:9;50;Aspect ratio for TV and computer monitors
 16:9 aspect ratio;60
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
 16 Candles;20;Spelled out is the norm
+16-year-old;40
+16-year-olds;40
+17-year-old;40
+17-year-olds;40
 1-800;40;Toll-free
 1-800 number;60
 1-800 numbers;60
 18 and Life;50;1989 single by Skid Row
 18-wheeler;60;Semi-trailer truck
 18-wheelers;60;Semi-trailer trucks
+18-year-old;40
+18-year-olds;40
 1-900 number;60
 1-900 numbers;60
 1910fruitgumco;0
@@ -53,6 +71,8 @@
 1979;50;Smashing Pumpkins song
 1984;60;George Orwell novel
 1999;40
+19-year-old;40
+19-year-olds;40
 1am;40
 #1 draft pick;60
 #1 draft picks;60
@@ -66,12 +86,18 @@
 1v1;50
 1v1 me;60;Childish gamer's challenge
 #1 with a bullet;60
+1-year-old;40
+1-year-olds;40
 20/20;50
 20/20 eyesight;60
 20/20 vision;60
 20 questions;60;Spoken guessing game using yes–no questions
+20-year-old;40
+20-year-olds;40
 21 Grams;50;2003 Sean Penn / Naomi Watts film
 21 Jump Street;60;1980s TV show or 2000s movie series
+21-year-old;40
+21-year-olds;40
 23andMe;60;Genetic testing company
 24/7;50
 24/7/365;60
@@ -94,6 +120,8 @@
 #2 seeds;50
 2-tier;20
 2 turtledoves;60
+2-year-old;40
+2-year-olds;40
 30 for 30;60;ESPN sports documentary film series
 30 Rock;50;NBC Tina Fey sitcom 2006-13
 3:10 to Yuma;60;Western movie
@@ -117,6 +145,8 @@
 3-tier;20
 3 wise monkeys;60
 3XL;40;Triple extra large size
+3-year-old;40
+3-year-olds;40
 40-Year-Old Virgin;60;2005 Steve Carrell comedy, with "The"
 4:3;40;Fullscreen aspect ratio
 4:3 aspect ratio;60
@@ -151,6 +181,8 @@
 4Runners;50;Toyota SUVs
 4 square;50;Elimination-based ball game played in a box
 4th;40
+4-year-old;40
+4-year-olds;40
 50/50;50
 50 Cent;60;American rapper and actor (born 1975)
 50 Ways to Leave Your Lover;60;1975 single by Paul Simon
@@ -163,6 +195,8 @@
 5th Avenue;60;Hershey chocolate bar
 5th Avenue bar;60;Hershey chocolate bar
 5th Avenue bars;60;Hershey chocolate bars
+5-year-old;40
+5-year-olds;40
 60 Minutes;60;American television news magazine program
 69;10
 69ed;10
@@ -176,6 +210,8 @@
 6-string guitar;60
 6-string guitars;60
 6th;40
+6-year-old;40
+6-year-olds;40
 77 Sunset Strip;50;American crime drama television series (1958–1964)
 7am;40
 7-Eleven;60;Convenience store chain
@@ -191,6 +227,8 @@
 7 swans a-swimming;60
 7th;40
 7th heaven;60
+7-year-old;40
+7-year-olds;40
 867-5309;60;1981 single by Tommy Tutone
 867-5309/Jenny;60;1981 single by Tommy Tutone
 8am;40
@@ -213,6 +251,8 @@
 8-tracks;50
 8-track tape;50
 8-track tapes;50
+8-year-old;40
+8-year-olds;40
 90210;50;Beverly Hills's zip code
 90 Day Fiancé;60;Reality television series on TLC
 98 Degrees;60;Boy band
@@ -231,6 +271,8 @@
 9-volt batteries;60
 9-volt battery;60
 9-volts;50;Small batteries
+9-year-old;40
+9-year-olds;40
 a;50
 A;40
 A-;40;Grade / Blood type
