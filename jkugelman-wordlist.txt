@@ -23493,6 +23493,7 @@ dfc;20
 D-flat;50
 D-flat scale;30
 DFW;40;Dallas-Fort Worth
+DGA;20;Directors Guild of America
 dha;20
 Dhabi;30
 Dhaka;50;Capital of Bangladesh
@@ -32987,16 +32988,28 @@ Forbes;50;Business magazine / Steve Forbes, publisher and candidate
 for better or worse;60
 forborne;40
 Force Awakens;60
+forced from;40
 forced in;40
+force feedback;60
+force field;60
+force fields;60
+force fit;60
+force fits;60
+force fitting;60
+ForceFlex;50;Glad trash bag "technology"
+ForceFlexPlus;50;Glad trash bag brand
+force from;40
 force in;40
 force of will;60
 force quit;50
 force quits;50
 forcer;50
 forcers;50
+forces from;40
 forces in;40
 Forché;40;Carolyn Forché, poet
 Forche;0
+forcing from;40
 forcing in;40
 for crying out loud;60
 Ford Bronco;50
@@ -34774,7 +34787,7 @@ gas planets;60
 gasps at;40
 gas rate;50
 gas rates;50
-Gass;40;William H. Gass, novelist and essayist
+Gass;30;William H. Gass, novelist and essayist
 gasser;40
 gassers;40
 Gassman;40;Director Vittorio Gassman (1922-2000)
@@ -35003,7 +35016,7 @@ Geary;40
 Geaux;40;LSU cheer, as in "Geaux Tigers"
 Gebrselassie;50;Haile Gebrselassie, Ethiopian distance running great
 Gebru;40;Timnit Gebru, AI ethics researcher
-Gecs;40;100 gecs, hyperpop duo
+Gecs;30;100 gecs, hyperpop duo
 GED;40
 Geddes;30;Various last name
 Geddy;50;Geddy Lee, Rush frontman
@@ -36213,6 +36226,8 @@ Gizmodo;50;Tech news blog
 gizmos;60
 glacé;30;Candied
 glaces;30;French desserts
+Glad ForceFlex;50;Trash bag brand
+Glad ForceFlexPlus;50;Trash bag brand
 glad I asked;60
 glad I checked;60
 gladiola;30
@@ -37371,6 +37386,7 @@ Goslin;30;Goose Goslin, Hall of Fame outfielder (1900–1971)
 go soft;50
 go solo;50
 go sour;50
+goss;40
 Gossage;40;Pitcher Goose Gossage in the MLB Hall of Fame
 Gosselaar;40;Mark-Paul Gosselaar, "Saved by the Bell" star
 Gosselin;40;Jon and Kate Gosselin, reality TV parents
@@ -68351,6 +68367,8 @@ pedagog;20
 pedagogs;20
 pedal to the medal;20
 pedal to the metal;60
+Ped Egg;40;Foot file
+Ped Eggs;40;Foot files
 pederastic;10
 pederasty;10
 Pedialyte;50;Rehydration drink brand
@@ -68365,6 +68383,7 @@ pedophilia;10
 Pedrad;40;SNL cast member Nasim Pedrad 2009-2014
 Pedro;50;Common Spanish first name / "Vote for Pedro"
 Pedroia;40;Dustin Pedroia, Red Sox second baseman
+peds;40
 peduncle;30;???
 peduncles;30;???
 pedway;40;Pedestrian walkway
@@ -78372,7 +78391,7 @@ Saaremaa;30;Estonian island
 Saariaho;40;Kaija Saariaho, Finnish composer
 Saarinen;40;Eero Saarinen, Gateway Arch architect
 Saarland;40;Smallest German state
-SaaS;40;Cloud software model
+SaaS;30;Cloud software model
 Saatchi;30;Ad agency Saatchi & Saatchi
 sab;20
 sábado;40
@@ -85390,6 +85409,7 @@ sour pickle;50
 sours on;40
 soursop;40
 soursops;30;Is plural legit???
+sous;40
 Sousa;50;John Philip Sousa, the March King
 sous-chef;50
 sous-chefs;50
@@ -90172,7 +90192,10 @@ Tao of Pooh;60;1982 introduction to Taoism for Westerners, with "The"
 Tao of Steve;20;2000 romantic comedy film, with "The"
 Taormina;30;Expensive Sicilian tourist town
 Taormino;40;Tristan Taormino, sex educator and author
-Taos;50;New Mexico town
+Taos;40;New Mexico town
+Taos, New Mexico;50
+Taos New Mexico;0
+Taos Pueblo;50;New Mexico city, oldest US city
 Taoyuan;40;Taiwanese city and airport
 tap;50
 tapa;40
@@ -96032,6 +96055,7 @@ Tunisian;50;North African
 Tunisians;40;North Africans
 Tunney;30;Old-time boxer Gene Tunney
 tunny;20
+tuns;20
 Tunstall;40;KT Tunstall, "Black Horse and the Cherry Tree" singer
 tuo;20
 tup;20
@@ -97048,6 +97072,8 @@ unfilial;30
 unfits;40;Disables, disqualifies
 unfitted;40
 unfocussed;20
+unforceful;50
+unforcefulness;50
 unfriendlily;30;Weird adverb
 Unfrozen Caveman Lawyer;60
 unfuckwithable;10
@@ -101286,6 +101312,8 @@ Willemstad;40;Capital of Curacao
 Will Forte;50
 William;50;Extremely common first name
 William Ewart Gladstone;40;Four-time UK Prime Minister (1809-1898)
+William H. Gass;40;Fiction writer, critic, philosophy professor (1924–2017)
+William Howard Gass;40;Fiction writer, critic, philosophy professor (1924–2017)
 William Hung;40
 William I;30
 William II;30
@@ -102283,7 +102311,7 @@ Xabi Alonso;50;Spanish football manager and player (born 1981)
 X-Acto;50
 xAI;40;SpaceX subsidiary that makes Grok and X (Twitter)
 Xalapa;40;Capital of Veracruz, Mexico
-Xan;40;???
+Xan;20;Xanax, slangily
 Xanadu;60
 Xanax;50
 Xanaxes;40;Anti-anxiety pills
@@ -102295,7 +102323,7 @@ X and Y axes;50
 Xanga;40;Early-2000s blogging site
 Xannies;40;Xanax, slangily
 Xanny;40;Billie Eilish song, or Xanax slang
-Xans;40;Xanax pills, slangily
+Xans;30;Xanax pills, slangily
 Xanth;40;Piers Anthony's fantasy land
 xanthate;40;Chemical
 xanthates;40
