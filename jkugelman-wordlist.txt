@@ -12779,6 +12779,7 @@ Broca;40;Broca area, part of the brain
 Broca's;40;Broca's area, the brain's speech center
 Broca's Brain;50;Carl Sagan book
 broccoli hair;60
+brochacho;60
 Brock;40;Brock Purdy, NFL quarterback / Brock Lesnar, wrestler
 Brocka;40;Lino Brocka, Filipino filmmaker
 brocket;20;Type of deer
@@ -14117,12 +14118,14 @@ call a truce;60
 call back to;40
 call bullshit;10
 call bullshit on;10
+call down light;60;Call with a weak hand in poker
 calle;30
 called all the shots;60
 called a truce;60
 called back to;40
 called bullshit;10
 called bullshit on;10
+called down light;60;Called with a weak hand in poker
 called for;40
 called foul on;50
 called in;40
@@ -14130,6 +14133,7 @@ called in sick;60
 called it;60
 called it a wrap;60
 called it in the air;50
+called light;60;Called with a weak hand in poker
 called nine one one;50
 called on;40
 called one's bluff;60
@@ -14153,12 +14157,14 @@ calling back to;40
 calling birds;60
 calling bullshit;10
 calling bullshit on;10
+calling down light;60;Calling with a weak hand in poker
 calling for;40
 calling foul on;50
 calling in;40
 calling in sick;60
 calling it a wrap;60
 calling it in the air;50
+calling light;60;Calling with a weak hand in poker
 calling nine one one;50
 calling on;40
 calling one's bluff;60
@@ -14183,6 +14189,7 @@ Callixtus;40;Name of three popes
 Callixtus I;40;Pope Callixtus I (c. 218-223)
 Callixtus II;40;Pope Callixtus II (1119-1124)
 Callixtus III;40;Pope Callixtus III (1455-1458)
+call light;60;Call with a weak hand in poker
 call log;50
 call logs;50
 call me;50
@@ -14205,6 +14212,7 @@ calls a truce;60
 calls back to;40
 calls bullshit;10
 calls bullshit on;10
+calls down light;60;Calls with a weak hand in poker
 calls for;40
 calls foul on;50
 call signals;20
@@ -14212,6 +14220,7 @@ calls in;40
 calls in sick;60
 calls it a wrap;60
 calls it in the air;50
+calls light;60;Calls with a weak hand in poker
 calls nine one one;50
 calls on;40
 calls one's bluff;60
