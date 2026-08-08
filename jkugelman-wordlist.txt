@@ -13754,7 +13754,8 @@ bute;20
 Buteau;40;Michelle Buteau, comedian
 Butera;40;Drew Butera, MLB catcher / Ariana Grande-Butera
 but for real though;60
-but is it art;60
+but is it art?;60
+but is it art;0
 Butkus;40;Dick Butkus, Hall of Fame Bears linebacker
 Butlerian;40;Butlerian Jihad of "Dune"
 but like actually though;60
@@ -26809,6 +26810,10 @@ earth-shattering;60
 earthshine;60
 earth-toned;50
 Earth X;60;Dystopian world in Marvel or DC Comics
+ear-to-ear grin;60
+ear-to-ear grins;60
+ear-to-ear smile;60
+ear-to-ear smiles;60
 ear trumpet;60
 ear trumpets;60
 Earvin;40;Earvin "Magic" Johnson, NBA legend
@@ -33855,6 +33860,7 @@ from behind;40
 from central casting;60
 from concentrate;50
 Frome;40;Ethan Frome, Edith Wharton title character
+from ear to ear;50
 Fromm;30;Psychologist Erich (he's notable)
 Fromme;40;Lynette "Squeaky" Fromme, Manson follower who drew on President Ford
 from memory;50
@@ -35091,6 +35097,7 @@ Geena;40;Geena Davis, actress
 Geer;30;Will Geer of "The Waltons"
 Geertz;40;Clifford Geertz, "thick description" anthropologist
 geese a-laying;60
+geese why is it not;0
 gee whiz;60
 geezer;50
 geezers;50
@@ -38217,12 +38224,16 @@ grin at;40
 Grindr;50;Dating app
 grindset;60
 Griner;40;WNBA All-Star Brittney Griner
+grin from ear to ear;60
 grinned at;40
+grinned from ear to ear;60
 Grinnell;40;Iowa college town
 grinner;40
 grinners;40
 grinning at;40
+grinning from ear to ear;60
 grins at;40
+grins from ear to ear;60
 Grint;40;Rupert Grint
 gripe at;40
 griped at;40
@@ -46032,11 +46043,15 @@ I sing like I feel;60;Ella Fitzgerald quote
 is in on;40
 is into;30
 Isis;50;Egyptian goddess
+is it art?;50
+is it art;0
 Is It Cake;60
 is it done yet;60
 is it hot in here?;60;Tie-puller's complaint
 is it me;50;"Am I the problem?"
 is it me or;40;Partial?
+is it not?;50
+is it not;0
 is it okay;50
 is it on?;50
 is it on me?;50
@@ -80381,6 +80396,7 @@ search hijacker;60
 search hijackers;60
 search hijacking;60
 searchin';50
+search me;60;"No idea"
 search result;60
 search results;60
 search warrant;60
@@ -84277,15 +84293,19 @@ SMH;40
 Smilax;30;Plant genus
 smile at;40
 smiled at;40
+smiled from ear to ear;60
 smiled on;40
+smile from ear to ear;60
 smile on;40
 smiler;40
 smilers;40
 smiles at;40
+smiles from ear to ear;60
 smiles on;40
 smile you're on candid camera;60
 smilin';20
 smiling at;40
+smiling from ear to ear;60
 smiling on;40
 smiling terrapin;50
 smiling terrapins;50
