@@ -1141,6 +1141,8 @@ actives;40
 active yeast;50
 Activia;40;Yogurt brand
 Activision;50;Video game publisher
+activity centre;20
+activity centres;20
 act naive;40
 act natural;60
 act normal;60
@@ -1491,6 +1493,8 @@ adult cartoon;60
 adult cartoons;60
 adult cereal;60
 adult content;60
+adult daycare centre;20
+adult daycare centres;20
 adultescent;40
 adult film;60
 adult films;60
@@ -5030,6 +5034,8 @@ Aquariuses;40;January-February babies
 aquas;40
 Aqua Teen;50
 Aqua Teens;50
+aquatic centre;20
+aquatic centres;20
 aquatint;30;Printmaking technique
 aquavit;40;Scandinavian liquor
 aqua vitae;40
@@ -6684,8 +6690,9 @@ attorney generals;50
 attractive offer;50
 attractive woman;20
 atts;30
-Attu;40;Westernmost Aleutian island
+Attu;30;Westernmost Aleutian island
 Attucks;50;Crispus Attucks, first to die in the Boston Massacre
+Attu Island;40;Westernmost Aleutian island
 ATTY;40
 atty gen;30
 ATTYS;30
@@ -9478,6 +9485,7 @@ Bellarmine;40;Robert Bellarmine, Catholic saint and cardinal
 Bellas;40;"Pitch Perfect" a cappella group
 Bella Swan;50
 Bellatrix;50;Bellatrix Lestrange of Harry Potter, or a star in Orion
+Bell Centre;40
 belle of the ball;60
 Bellerophon;50;Greek hero who tamed Pegasus
 Bellevue;40;Washington city, or NYC hospital
@@ -10486,6 +10494,8 @@ birthday wish;60
 birthday wishes;60
 birthing center;50
 birthing centers;50
+birthing centre;20
+birthing centres;20
 Birtwistle;40;Harrison Birtwistle, British composer
 bis;40;Biceps
 Bisan;40;Bisan Owda, Palestinian journalist
@@ -13512,6 +13522,8 @@ Burna;40;Burna Boy, Nigerian Afrobeats star
 Burnaby;40;British Columbia city
 burn after reading;60
 Burn After Reading;60
+burn centre;20
+burn centres;20
 burn daylight;60
 Burne;40;Edward Burne-Jones, Pre-Raphaelite painter
 burned daylight;60
@@ -14167,6 +14179,8 @@ call a truce;60
 call back to;40
 call bullshit;10
 call bullshit on;10
+call centre;20
+call centres;20
 call down light;60;Call with a weak hand in poker
 calle;30
 called all the shots;60
@@ -16078,7 +16092,36 @@ central heating;50
 Centralia;40;Pennsylvania town with an underground mine fire
 Central Time Zone;30
 centre;40
+centre-back;20
+centre-backs;20
+Centre Block;40;Main building of Canada's parliament
+centre circle;20
+centre circles;20
+centre field;20
+centre fielder;20
+centre fielders;20
+centre forward;20
+centre forwards;20
+centre-half;20
+centre-halfs;20
+centre ice;20
+centre ice circle;20
+centre ice circles;20
+centre-left;20
+centre of attention;20
+centre of gravity;20
+centre of mass;20
+centre of the universe;20
+centre on;20
+centre-right;20
 centres;40
+centres of attention;20
+centres of gravity;20
+centres of mass;20
+centres on;20
+centre spot;20
+centre spots;20
+centre stage;20
 centro;40
 Century Smurf;60
 CEO;50
@@ -17016,6 +17059,8 @@ child actor;50
 child actors;50
 childbirth;60
 childbirths;60
+child care centre;20
+child care centres;20
 Childers;40;Erskine Childers, "The Riddle of the Sands" author
 childhood memories;60
 childhood memory;60
@@ -17155,6 +17200,8 @@ chip up;50;Gain chips, in a poker tournament
 Chiquita;50;Banana brand
 Chiquitita;50;ABBA hit
 Chirac;40;Jacques Chirac, French president
+chiral centre;20
+chiral centres;20
 Chiricahua;40;Apache band of Cochise and Geronimo
 Chiricahuas;40;Apache band of Cochise and Geronimo
 Chirico;40;Giorgio de Chirico, metaphysical painter
@@ -17741,7 +17788,8 @@ citrus zesters;60
 cittern;40;Pear-shaped string instrument
 citterns;40
 city car;50
-city centre;50
+city centre;20
+city centres;20
 city hall;50
 city halls;50
 city line;50
@@ -17760,6 +17808,8 @@ civet;40;African mammal, source of world's most expensive coffee
 civet coffee;60;World's most expensive coffee from pooped out beans
 civets;40;African mammals
 civic center;50
+civic centre;20
+civic centres;20
 civic leader;60
 civic leaders;60
 civil resistance;50
@@ -17946,6 +17996,8 @@ clean spoons;60;Ice cream shop jar
 clean up on aisle six;60
 clean up this pigsty;60
 clean water;50
+clearance centre;20
+clearance centres;20
 clear a path;50
 clear as crystal;60
 clear as day;60
@@ -19044,6 +19096,8 @@ Comintern;50;Communist International
 Comiskey;40;Comiskey Park, old White Sox home
 comma butterflies;60
 comma butterfly;60
+command centre;20
+command centres;20
 comment card;50
 comment cards;50
 comment ca va;50
@@ -19095,6 +19149,8 @@ communication channel;50
 communication channels;50
 communion wafer;50
 communion wafers;50
+community centre;20
+community centres;20
 community chest;60;Monopoly square
 community chests;60
 commuter town;60
@@ -19291,6 +19347,8 @@ coneys;40;Chili dogs
 conf;30
 conferee;30
 conferees;30
+conference centre;20
+conference centres;20
 confider;40
 confiders;40
 confirm humanity;60;reCAPTCHA title
@@ -19444,18 +19502,26 @@ contrails;60
 ContraPoints;40;Natalie Wynn's YouTube channel
 contrarieties;30
 contrariety;30
+control centre;20
+control centres;20
 Control key;50
 Control keys;50
+controlled the centre;20
+controlling the centre;20
 control room;50
 control rooms;50
+controls the centre;20
 control system;50
 control systems;50
+control the centre;20
 control tower;50
 control towers;50
 conus;40
 convenience food;50
 convenience foods;50
 convenience sampling;60
+convention centre;20
+convention centres;20
 conversation pit;60;Depressed section of flooring in a larger room
 conversation pits;60
 conversation tree;60
@@ -19527,6 +19593,8 @@ coolie;10
 coolies;10
 cooling center;60;Air-conditioned facility open to the public
 cooling centers;60
+cooling centre;20
+cooling centres;20
 cooling fan;50
 cooling fans;50
 cooling one's heels;60
@@ -19816,6 +19884,8 @@ corrasive;20
 Correa;40;Rafael Correa, Ecuadorian president / Carlos Correa, MLB shortstop
 correct change;50
 correctingdents;0
+correctional centre;20
+correctional centres;20
 correctme;0
 Correggio;40;Italian Renaissance painter
 Corregidor;40;Philippine island fortress of World War II
@@ -19923,6 +19993,8 @@ Costanza;50;George Costanza of "Seinfeld"
 Costanzas;40;George's "Seinfeld" family
 Costas;40;Bob Costas, sportscaster
 costate;20;Possessing ribs
+cost centre;20
+cost centres;20
 Costco;50;Warehouse club
 Costco membership;60
 Costco memberships;60
@@ -20628,6 +20700,8 @@ Crip;40
 Crips;40
 Cris;40;Cris Carter, Hall of Fame NFL receiver
 Crisco;50;Shortening brand
+crisis centre;20
+crisis centres;20
 crisis hotline;60
 crisis hotlines;60
 Crispin;40;Saint Crispin, of the "Henry V" speech / Crispin Glover, actor
@@ -21113,6 +21187,8 @@ cult hero;60
 cult heroes;60
 cult hit;50
 cult hits;50
+cultural centre;20
+cultural centres;20
 cultural fabric;60
 cultural icon;50
 cultural icons;50
@@ -22023,6 +22099,8 @@ database schemas;50
 datable;30
 data breach;60
 data breaches;60
+data centre;20
+data centres;20
 data compression algorithm;50
 data compression algorithms;50
 data dump;60
@@ -22132,6 +22210,8 @@ d'aww;40
 Dax;40
 day;50
 Dayan;30
+daycare centre;20
+daycare centres;20
 daycation;60
 daycations;60
 daydream;60
@@ -22249,6 +22329,7 @@ dead bodies;40
 dead body;40
 dead calm;50
 dead center;50
+dead centre;20
 dead end;60
 dead-ended;60
 dead-ending;60
@@ -26816,6 +26897,7 @@ eat local;60
 eat lunch;30
 eat of;40
 Eaton;40;Peggy Eaton, Jackson-era scandal figure / Toronto's Eaton Centre
+Eaton Centre;40;Canadian shopping centres
 eat one's hat;60
 eat one's heart out;60
 eat one's words;60
@@ -28480,6 +28562,8 @@ enters on;40
 enters one's mind;50
 enters the picture;60
 enters upon;40
+entertainment centre;20
+entertainment centres;20
 Enter the Dragon;60
 Enter the Gungeon;50
 enter the picture;60
@@ -28607,6 +28691,9 @@ Ephrussi;30;Noble banking family
 ephus;30;Difficult baseball pitch
 epi-;40
 epical;30;???
+epicarp;40;Fruit part
+epicarpal;40
+epicarps;40;Fruit parts
 epicene;40
 epicenes;40
 epic fail;60
@@ -30165,6 +30252,8 @@ Fabiano;40;Fabiano Caruana, American chess grandmaster
 Fabians;40;Members of the Fabian Society
 Fabio;40;Romance novel cover model
 Fabius;30
+fab lab;50;Small-scale workshop for digital fabrication
+fab labs;50;Small-scale workshops for digital fabrication
 Fabolous;40;Rapper of "Into You"
 Fabray;40;Nanette Fabray, actress and comedian
 Fabrega;40;Ana Fabrega, "Los Espookys" comedian
@@ -31236,6 +31325,7 @@ Femidom;40;Female condom?
 Femidoms;40
 feminazi;10
 feminazis;10
+feminine of centre;20
 feminine pronoun;50
 feminines;40
 femslash;60
@@ -31636,6 +31726,8 @@ final solution;10
 finance minister;50
 Finance Smurf;60
 financial backer;50
+financial centre;20
+financial centres;20
 financial data;60
 financials;50
 financial sector;50
@@ -32026,6 +32118,8 @@ fit like a glove;60
 fitly;40
 fitness center;60
 fitness centers;60
+fitness centre;20
+fitness centres;20
 FitnessGram;50;FitnessGram PACER test, of meme fame
 fitness test;60
 fitness tests;60
@@ -33705,6 +33799,7 @@ from zero to sixty;60
 frontal cortex;50
 frontal nudity;60
 Frontalot;40;MC Frontalot, nerdcore rapper
+front and centre;20
 front desk;50
 Frontera;40;???
 frontlet;40;Forehead band
@@ -33712,6 +33807,7 @@ frontlets;40
 front of the line;50
 front-page news;50
 front pocket;50
+front row centre;20
 front-runner;50
 front-runners;50
 Froot;40;Froot Loops cereal
@@ -33944,6 +34040,8 @@ Fulani;20;West African muslims
 Fulbright;50;Scholarship program, or Sen. J. William Fulbright
 Fulbrights;40;Prestigious scholarships
 Fulci;30;Lucio Fulci, Italian horror director
+fulfilment centre;20
+fulfilment centres;20
 fulgurate;30
 fulgurated;30
 fulgurates;30
@@ -34249,6 +34347,7 @@ gal;50
 gala ball;50
 gala balls;50
 Galactica;50;"Battlestar Galactica"
+Galactic Centre;20
 galactic civilization;50
 galactic civilizations;50
 Galactic Republic;60
@@ -34533,6 +34632,8 @@ garde;40
 Gardena;40;Los Angeles County city
 garden box;50
 garden boxes;50
+garden centre;20
+garden centres;20
 garden herb;50
 garden herbs;50
 Gardiner;40;Montana town at the entrance to Yellowstone
@@ -37715,6 +37816,7 @@ graticule;40;Grid on a map
 graticules;40
 grating on;40
 gratins;40;Weird plural
+grats;40
 grau;20
 Grauman;40;Sid Grauman, of Grauman's Chinese Theatre
 Grauman's;40;Grauman's Chinese Theatre in Hollywood
@@ -40254,6 +40356,8 @@ Healey;40;Maura Healey, Massachusetts governor / Austin-Healey sports cars
 healheal;0
 health bar;60
 health bars;60
+health centre;20
+health centres;20
 health claim;60
 health claims;60
 health-conscious;60
@@ -41392,6 +41496,7 @@ hipsters;50
 hip thrust;60
 hip thrusts;60
 Hi-Q;20
+hir;20;Neopronoun
 hirable;50
 Hiram;40;Various: Hiram Bingham, Hiram Maxim, Hiram Powers
 hired gun;50
@@ -47509,6 +47614,8 @@ job banks;50
 jobbery;40
 job board;60
 job boards;60
+job centre;20
+job centres;20
 job cut;50
 job cuts;50
 JoBeth;40
@@ -49739,6 +49846,7 @@ Kohler;40;Kitchen/bathroom brand
 Kohl's;50;Department store chain
 Kohoutek;40;1973 comet
 koi;50
+koi carp;50
 Koine;40;Common Greek dialect of the New Testament
 KOing;40;Knocking out
 koinonia;30;Christian fellowship
@@ -50727,6 +50835,7 @@ lang syne;20
 Langtry;40;Lillie Langtry, Victorian actress called the Jersey Lily
 language barrier;50
 language barriers;50
+language centre;20
 language learner;60
 language learners;60
 langue;20
@@ -51755,12 +51864,14 @@ left-justified;50
 left-justify;50
 left lane;60
 left lanes;60
+left of centre;20
 left on;40
 left on read;60
 Leftorium;60;Ned Flanders's left-handed store
 leftover;50
 leftovers;50
 left-right;50
+left right and centre;20
 left right away;30;Green paint
 left standing;50
 left the flock;60
@@ -51900,6 +52011,8 @@ Leinenkugel;50;Wisconsin beer brand
 Leinenkugels;40;Wisconsin beers
 Leinster;40;Irish province
 Leipzig;50;German city of Bach and the Battle of Nations
+leisure centre;20
+leisure centres;20
 leisured;30
 leisures;30
 leisure time;50
@@ -55331,6 +55444,7 @@ major player;60
 major players;60
 major plot twist;60
 major plot twists;60
+major population centres;20
 major prophet;50
 major prophets;50
 major second;50
@@ -56533,6 +56647,7 @@ mascot races;60
 mascots;50
 mascot suit;60
 mascot suits;60
+masculine of centre;20
 masculines;40
 Masefield;40;John Masefield, "Sea-Fever" poet
 Masekela;40;Hugh Masekela, South African trumpeter
@@ -57397,6 +57512,8 @@ medfly;30;Mediterranean fruit fly
 Medford;30
 Medgar;40;Medgar Evers
 media attention;50
+media centre;20
+media centres;20
 mediacy;40
 media darling;60
 media darlings;60
@@ -57414,6 +57531,8 @@ media storm;50
 mediateness;40
 MediaWiki;40;Software behind Wikipedia
 Medicaid;50;Health program for low-income Americans
+medical centre;20
+medical centres;20
 medical degree;50
 medical degrees;50
 MedicAlert;40;Medical ID bracelet brand
@@ -59677,6 +59796,8 @@ mop the floor with;60
 mop-top;60
 mor;20
 Moraga;40;Cherríe Moraga, Chicana writer / California town
+moral centre;20
+moral centres;20
 moral code;60
 moral codes;60
 moral compass;60
@@ -61735,6 +61856,8 @@ nerve block;50
 nerve blocks;50
 nerve cell;50
 nerve cells;50
+nerve centre;20
+nerve centres;20
 nerve gas;40
 nerve gases;40
 nerve-wracking;60
@@ -64307,6 +64430,7 @@ off-Broadway play;60
 off-Broadway plays;60
 off-Broadway show;60
 off-Broadway shows;60
+off centre;20
 offcut;40;Leftover material (wood, fabric, etc.)
 offcuts;40
 Offenbach;40;Jacques Offenbach, composer of the can-can
@@ -70213,6 +70337,8 @@ please rise;50
 please see me after class;60
 please stop;60
 please use other door;60
+pleasure centre;20
+pleasure centres;20
 plebeian;50
 Plecoptera;20;Order of insects
 pled for;40
@@ -70975,6 +71101,8 @@ popularity contest;60
 popularity contests;60
 popularizer;50
 popular science;60
+population centre;20
+population centres;20
 pop-up ad;60
 pop-up ads;60
 pop-up book;60
@@ -71748,6 +71876,8 @@ primacies;30
 primary care;60
 primary care center;60
 primary care centers;60
+primary care centre;20
+primary care centres;20
 primary caregiver;60
 primary caregivers;60
 primary care physician;60
@@ -71983,6 +72113,8 @@ professional golfer;50
 professional golfers;50
 professor;50
 professors;50
+profit centre;20
+profit centres;20
 pro forma;50
 pro formas;30
 profs;40
@@ -74483,6 +74615,8 @@ recarved;30
 recarves;30
 recarving;30
 recce;20;Recon mission
+rec centre;20
+rec centres;20
 recces;20;Recon missions
 receded from;40
 recede from;40
@@ -74607,6 +74741,8 @@ recut;30
 recuts;30
 recycling center;50
 recycling centers;50
+recycling centre;20
+recycling centres;20
 red;50
 Red Adair;40;Firefighter
 red ale;50;Legit thing (amber ale)
@@ -75001,6 +75137,8 @@ regular guy;50
 regular guys;50
 Regulus;40;Brightest star in Leo
 reh;20
+rehab centre;20
+rehab centres;20
 rehair;50;Fix, as a violin bow (legit)
 rehaired;50
 rehairing;50
@@ -75533,8 +75671,8 @@ reseaming;30
 reseams;30
 research center;50
 research centers;50
-research centre;40
-research centres;40
+research centre;20
+research centres;20
 research fellow;60
 research fellows;60
 ResearchGate;40;Social network for academics
@@ -76420,6 +76558,7 @@ right in the feels;60
 right-justified;50
 right-justify;50
 rightly so;50
+right of centre;20
 right of first publication;60
 right of first refusal;60
 right-oh;30;???
@@ -77024,6 +77163,7 @@ Rogen;40;Seth Rogen, actor and comedian
 Roger Bacon;50
 Roger Ebert;60
 Rogers;50;Fred Rogers, Roy Rogers, Ginger Rogers
+Rogers Centre;40
 Roger Waters;60
 roger wilco;60
 Roget;50;Peter Mark Roget, thesaurus compiler
@@ -80894,6 +81034,7 @@ Sepideh Moafi;50;Actress on "The Pitt"
 sepoy;20;Indian soldier
 sepoys;20;Indian soldiers
 Sepp;40;Sepp Blatter, disgraced FIFA president
+Sepp Blatter;40;Disgraced FIFA president
 sepsis;40
 Sept;40
 septa;40;Nasal partitions
@@ -81038,6 +81179,8 @@ serves as;40
 serve two masters;60
 Servian;20
 service;50
+service centre;20
+service centres;20
 service delivery;50
 service dress uniform;50
 service dress uniforms;50
@@ -82158,6 +82301,8 @@ shoplifts;60
 shopped at;40
 shopped for;40
 shopping at;40
+shopping centre;20
+shopping centres;20
 shopping for;40
 shops at;40
 shops for;40
@@ -85310,6 +85455,8 @@ space alien;60
 Spaceballs;60;Mel Brooks' "Star Wars" spoof
 space case;50
 space cases;50
+space centre;20
+space centres;20
 Space City;60
 space debris;60
 space defense;50
@@ -87970,6 +88117,8 @@ Studebaker;50;Defunct American car brand
 Studebakers;40;Classic American cars
 student athlete;60
 student athletes;60
+student centre;20
+student centres;20
 student ID;50
 student ID card;50
 student ID cards;50
@@ -88680,6 +88829,8 @@ surfer girls;50
 Surfin';40
 surf shop;50
 surf shops;50
+surgery centre;20
+surgery centres;20
 Suri;40
 Suribachi;40;Iwo Jima peak of the flag raising
 suricate;30;AKA meerkat
@@ -89496,6 +89647,7 @@ take away from;40
 takebacks;60
 take backsies;60
 take baths;50
+take centre stage;20
 take credit for;40
 take decisive action;60
 take five;60
@@ -89584,6 +89736,7 @@ takes a stab;50
 takes a step back from;40
 takes a swig;50
 takes away from;40
+takes centre stage;20
 takes credit for;40
 takes decisive action;60
 takes five;60
@@ -89684,6 +89837,7 @@ taking a step back from;40
 taking a swig;50
 taking away from;40
 taking candy from a baby;60
+taking centre stage;20
 taking credit for;40
 taking decisive action;60
 taking five;60
@@ -94086,6 +94240,8 @@ Tom Wingo;40;Main character of "The Prince of Tides"
 Tom Wolfe;50
 Tom Wopat;30
 ton;50
+tonal centre;20
+tonal centres;20
 Tonawanda;40;New York town near Buffalo
 toneme;30
 tonemes;30
@@ -94192,6 +94348,7 @@ took a stab;50
 took a step back from;40
 took a swig;50
 took away from;40
+took centre stage;20
 took credit for;40
 took decisive action;60
 took five;60
@@ -94960,6 +95117,8 @@ trashes on;30
 trashing on;30
 trash on;30
 Trask;40;Aron Trask, "East of Eden" character
+trauma centre;20
+trauma centres;20
 trauma dump;60
 trauma dumped;60
 trauma dumping;60
@@ -95046,6 +95205,8 @@ Treater;30
 treaters;30
 treating as;40
 treating to;40
+treatment centre;20
+treatment centres;20
 treats as;40
 treats to;40
 treat to;40
@@ -95179,6 +95340,8 @@ trial runs;60
 trials and tribulations;60
 Triaminic;40;OTC cold medicine
 triamory;40
+triangle centre;20
+triangle centres;20
 triangle face shape;60
 triangle face shapes;60
 Triangulum;50;Constellation with a nearby spiral galaxy
@@ -97302,6 +97465,8 @@ urb;20
 Urbain;40;Urbain Le Verrier, astronomer who predicted Neptune
 Urbana;40;Illinois city twinned with Champaign
 urban art;50
+urban centre;20
+urban centres;20
 urbaner;40;Listed first in dictionary, but more urbane is better in ngram
 urbanest;40
 urban hike;60
@@ -97328,6 +97493,8 @@ ure;20
 uremia;20
 uremic;20
 urged on;40
+urgent care centre;20
+urgent care centres;20
 urge on;40
 urger;30
 urgers;30
@@ -98581,6 +98748,8 @@ visited with;40
 visiting hour;50
 visiting hours;50
 visiting with;40
+visitor centre;20
+visitor centres;20
 visits with;40
 visit with;40
 Visser;40;Yolandi Visser, Die Antwoord singer
@@ -99310,6 +99479,8 @@ war machine;60
 war machines;60
 warmed to;40
 warmed up to an idea;60
+warming centre;20
+warming centres;20
 warming to;40
 warming up to an idea;60
 warm reception;60
@@ -100036,6 +100207,8 @@ well, let's just say;60
 well, let's see now;60
 well, let this slide;60
 Wellman;40;William Wellman, "Wings" director
+wellness centre;20
+wellness centres;20
 we'll never forget;40
 well, now what?;60
 well now what do we do?;60
@@ -103185,6 +103358,8 @@ you take that back;60
 you tell me this now;60
 youth academies;50
 youth academy;50
+youth centre;20
+youth centres;20
 you there;60
 you think I'm playing?;60
 you think it's a game?;60
@@ -103512,6 +103687,10 @@ Zeena;30;Ethan Frome's wife
 zees;30
 Zeffirelli;50;Franco Zeffirelli, "Romeo and Juliet" director
 Zegler;40;Rachel Zegler, "West Side Story" actress
+ze/hir;40;Pronouns
+ze hir;0
+ze/hir pronouns;60
+ze hir pronouns;0
 Zeinabu;40;Zeinabu irene Davis, filmmaker
 Zeke;40;Nickname for Ezekiel
 Zelazny;40;Roger Zelazny, "Chronicles of Amber" author
