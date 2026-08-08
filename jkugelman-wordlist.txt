@@ -434,7 +434,9 @@ aback;50
 abaculus;30
 abacus;50
 abacuses;50
-Abad;40;Suffix in Islamabad and Hyderabad
+-abad;20;Suffix in Islamabad and Hyderabad
+a bad;20
+Abad;0
 Abaddon;50;Biblical angel of the abyss
 a bad egg;40;Trouble
 abaft;40
@@ -4087,6 +4089,7 @@ Angelopoulos;40;Theo Angelopoulos, Greek filmmaker
 Angelou;50;Maya Angelou, poet of "I Know Why the Caged Bird Sings"
 angel shot;60;Bar safety signal
 angel shots;60
+Angels Over Broadway;50;1940 noir film
 Angelus;40;Christian devotion
 Angeluses;30
 angerer;30
@@ -5230,8 +5233,12 @@ area maps;30
 area of a square;20
 a reason;20
 are blue;20
+areca;30
+areca nut;40
+areca nuts;40
 areca palm;40
 areca palms;40
+arecas;30
 Arecibo;50;Puerto Rico observatory site
 are dead;20
 a reel;40
@@ -7252,6 +7259,7 @@ babbling on;50
 Babcock;40;Mike Babcock, NHL coach / Barbara Babcock, actress
 Babel;50;Tower of Babel, or the Babel fish
 Babelsberg;40;German film studio near Potsdam
+Babes on Broadway;50;1941 musical film with Mickey Rooney and Judy Garland
 Babette;40;Given name: "Babette's Feast"
 Babi;40;Babi Yar, Kyiv massacre ravine
 babies;50;"State population to double by 2040
@@ -10964,6 +10972,10 @@ blood drives;50
 blood feud;60
 blood feuds;60
 Bloodgood;40;Moon Bloodgood, actress
+bloodletter;60
+bloodletters;60
+bloodletting;60
+bloodlettings;60
 blood plasma;50
 BloodRayne;40;Vampire video game
 blood tie;50
@@ -11457,7 +11469,9 @@ Bolger;40;Ray Bolger, "The Wizard of Oz" Scarecrow
 Bolingbroke;40;Henry Bolingbroke, Shakespeare's Henry IV
 Bolivarian;40;Of Simón Bolívar, as in Venezuela's republic
 Bolivia;50;South American country
+Bolivia mañana;0
 Bolivian;40;From La Paz or Sucre
+Bolivian monetary unit;20
 Bolivians;40;La Paz residents
 boll;40
 Bollinger;50;Champagne house
@@ -11637,6 +11651,7 @@ booed off stage;60
 booer;40
 booers;40
 boogaloo;60
+Boogaloo Down Broadway;50;1967 top ten hit
 boohoo;50
 boohooed;50
 boohoos;50
@@ -12766,6 +12781,26 @@ broad-spectrum sunscreen;50
 broad-spectrum sunscreens;50
 Broadstairs;40;English seaside town of Dickens fame
 Broadway;50;NYC theater district
+Broadway Danny Rose;50;1984 film by Woody Allen
+Broadway flop;60
+Broadway flops;60
+Broadway hit;60
+Broadway hits;60
+Broadway Melody;50;1929 musical, first sound film to win Best Picture, with "The"
+Broadway Melody of 1936;50
+Broadway Melody of 1938;50
+Broadway Melody of 1940;50
+Broadway Melody of 1974;50;Genesis song
+Broadway musical;60
+Broadway musicals;60
+Broadway play;60
+Broadway plays;60
+Broadway season;20
+Broadway seasons;20
+Broadway show;60
+Broadway shows;60
+Broadway theater;60
+Broadway theaters;60
 broast;30;Broil + roast
 broasted;30;Broil + roast
 broaster;30;Broil + roast
@@ -13300,6 +13335,7 @@ Bullet Bill;60
 bullet bra;60
 bullet bras;60
 bullet hell;60
+Bullets Over Broadway;50;1994 film by Woody Allen
 bull gun;50
 bull guns;50
 bullheaded;60
@@ -13387,8 +13423,9 @@ bums a smoke;50
 bum's rush;50
 Bumstead;40;Dagwood Bumstead, Blondie's husband
 bun;50
+Bun B;30;Rapper (born 1973)
 Bunbury;40;Wilde's imaginary invalid in "The Importance of Being Earnest"
-Bunburying;60;Inventing an excuse to skip out, per "The Importance of Being Earnest"
+Bunburying;40;Inventing an excuse to skip out, per "The Importance of Being Earnest"
 Bunche;40;Ralph Bunche, Nobel Peace laureate
 Bund;40;Shanghai's riverfront district
 Bundchen;40;Gisele Bündchen, Brazilian supermodel
@@ -14921,6 +14958,7 @@ carboys;30
 carbuncle;30;Abscess
 carbuncles;30
 car camping;60
+car can ban bun bus;0
 Carcassonne;50;Walled French city, and a board game
 Carchemish;40;Ancient Hittite city and battle site
 carcinogen;30
@@ -20745,11 +20783,15 @@ cross party lines;60
 cross paths;60
 cross paths with;40
 cross-platform;60
-cross-pollinate;50
-cross-pollinated;50
-cross-pollinates;50
-cross-pollinating;50
-cross-pollination;50
+cross-pollinate;60
+cross-pollinated;60
+cross-pollinates;60
+cross-pollinating;60
+cross-pollination;60
+crosspost;60
+crossposted;60
+crossposting;60
+crossposts;60
 cross-promotion;60
 cross-promotions;60
 cross-section;50
@@ -28759,6 +28801,7 @@ Ernesto Zedillo;50;Mexican president Ernesto Zedillo (1994-2000)
 Ernie;50;"Sesame Street" roommate of Bert / Ernie Banks, Cubs great
 Ernie Ford;50
 Erno;40;Erno Rubik, cube inventor
+erns;30
 Ernst;40
 Ernst Heinrich Haeckel;40;German zoologist (1834–1919)
 Ernst Heinrich Weber;40;One of the founders of experimental psychology
@@ -31275,6 +31318,8 @@ ferric;40;Of iron
 Ferrigno;50
 Ferris;50;Ferris Bueller, or the wheel
 ferro-;40;Iron-
+ferronnière;40;Type of headband
+ferronnières;40;Type of headbands
 Ferruccio;40;Ferruccio Lamborghini, carmaker / Ferruccio Busoni, composer
 fers;20
 ferule;30;Ruler for slapping children on the hand
@@ -43041,8 +43086,11 @@ iatrogenesis;30
 iatrogenic;30;Relating to illness caused by medical examination or treatment
 IBA;20
 Ibadan;20;Nigerian city
-Ibadi;40;Branch of Islam dominant in Oman
-Ibadis;40;Followers of Oman's branch of Islam
+Ibadi;30;Branch of Islam dominant in Oman
+Ibadi Islam;40
+Ibadi Muslim;40
+Ibadi Muslims;40
+Ibadis;30;Followers of Oman's branch of Islam
 Ibadism;40;Branch of Islam dominant in Oman
 Ibaka;40;Serge Ibaka, NBA shot-blocker and Raptors champion
 Ibanez;40;Guitar brand
@@ -47214,6 +47262,7 @@ jerky;50
 Jerma;40;Jerma985, Twitch streamer
 Jermaine;40;Jermaine Dupri, producer / common first name
 Jerome;50;Saint Jerome, Bible translator / common first name
+Jerome Robbins' Broadway;50;Anthology musical
 Jerri;40;???
 Jerriais;40;Jèrriais, the Norman language of Jersey
 Jerries;10
@@ -53079,6 +53128,7 @@ little girls;50
 Little Joe;50
 little-known;50
 little man;60
+Little Miss Broadway;50;1983 musical drama film starring Shirley Temple
 Little Miss Thang;60
 Little Miss Thing;60
 Little Mo;40;Nickname for tennis's Maureen Connolly, first woman to win a Grand Slam
@@ -54315,6 +54365,7 @@ Lukasiak;40;Chloe Lukasiak, "Dance Moms" dancer
 Luke;50;Gospel writer / Luke Skywalker / Cool Hand Luke
 Lula;40;Luiz Inacio Lula da Silva, Brazilian president
 LuLaRoe;40;Leggings MLM
+Lullaby of Broadway;50
 lullay;30
 Lully;40;Jean-Baptiste Lully, Baroque composer to Louis XIV
 lulu;40
@@ -60210,6 +60261,7 @@ Mt. Hope;40;???
 Mt. Ida;40;Sacred mountain in Greek myth
 MTM;20
 Mtn;40
+mtns;30
 Mt. Ossa;30;Unnotable Greek mountain
 Mt. Rushmore;50
 mts;40
@@ -62210,6 +62262,7 @@ nightshade;60
 night shift;50
 night shifts;50
 Nights in White Satin;60
+Nights on Broadway;50;Song by the Bee Gees
 nightstick;50
 Nightswimming;50;R.E.M. song
 night thing;20;???
@@ -64225,6 +64278,13 @@ Ofeibea;40;Ofeibea Quist-Arcton, NPR Africa correspondent
 Ofelia;30
 off;50
 Offa;40;Offa of Mercia, Anglo-Saxon king of the dyke
+off-Broadway;60
+off-Broadway hit;60
+off-Broadway hits;60
+off-Broadway play;60
+off-Broadway plays;60
+off-Broadway show;60
+off-Broadway shows;60
 offcut;40;Leftover material (wood, fabric, etc.)
 offcuts;40
 Offenbach;40;Jacques Offenbach, composer of the can-can
@@ -64255,6 +64315,8 @@ offings;30
 Offishall;40;Kardinal Offishall, Canadian rapper
 off-leash dog park;50
 off-leash dog parks;50
+off-off-Broadway show;60
+off-off-Broadway shows;60
 Offred;50;"The Handmaid's Tale" narrator
 offroad bike;60
 offroad bikes;60
@@ -64767,6 +64829,8 @@ olive trees;50
 Olivetti;40;Italian typewriter maker
 Olivettis;40;???
 Olivia;50;Common first name
+Olivia Newton-John;60
+Olivia Rodrigo;60;Singer-songwriter and actress (born 2003)
 Olivier;50;Laurence Olivier, actor
 olivine;30;Mineral
 olla;40
@@ -69055,7 +69119,12 @@ photo op;50
 photo opportunities;50
 photo opportunity;50
 photo ops;50
+photorealism;60
+photorealist;60
 photorealistic;60
+photorealists;60
+photoreceptor;60
+photoreceptors;60
 photo shoot;50
 photo shoots;50
 Photoshop;50
@@ -74881,6 +74950,10 @@ regles;30;???
 regnal;40
 regnant;40;Ruling: queen regnant
 Rego;40;Paula Rego, Portuguese-British painter / Rego Park, Queens
+regorge;30;Regurgitate
+regorged;30;Regurgitated
+regorges;30;Regurgitates
+regorging;30;Regurgitating
 regrab;30
 regrabbed;30
 regrabbing;30
@@ -87376,8 +87449,14 @@ stone tablet;50
 stone tablets;50
 stone tool;50
 stone tools;50
+stonewall;60
+stonewalled;60
+stonewaller;50
+stonewallers;50
+stonewalling;60
 Stonewall Inn;60
 Stonewall Jackson;50
+stonewalls;60
 Stoney;40;Post Malone's debut album, variant spelling of stony
 stoney lonesome;60
 stood at;20
@@ -91502,6 +91581,7 @@ The Brady Bunch;60
 the Braves;40
 the Brewers;40
 the British Film Academy;60
+The Broadway Melody;50;1929 musical, first sound film to win Best Picture
 the bro code;40
 The Brow;20
 The Brown Bomber;50;Nickname for boxer Joe Louis
@@ -91844,6 +91924,7 @@ The Kiss;50;Rodin sculpture
 The Knack;50
 The Lady of the Dunes;50;Murder victim Ruth Marie Terry
 the Lakers;50
+The Lamb Lies Down on Broadway;60
 The Lark;30
 The Last Analysis;50;Saul Bellow's only full-length play, not well known
 The Last Jedi;60
@@ -95065,10 +95146,13 @@ Triangulum;50;Constellation with a nearby spiral galaxy
 Trianon;30;Treaty of Trianon
 Triassic;50;Period before the Jurassic
 Trib;40;Newspaper nickname
+tribadic;10
+tribadism;10
+tribadistic;10
 tribal law;50
 Tribbiani;40;Joey Tribbiani, "Friends" character
-Tribble;50;"Star Trek" fuzzball
-Tribbles;50;Purring "Star Trek" pests
+Tribble;40;"Star Trek" fuzzball
+Tribbles;40;Purring "Star Trek" pests
 Tribeca;50;Manhattan neighborhood and film festival
 Tribecas;30;Subaru models
 Triboro;40
