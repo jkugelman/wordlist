@@ -3138,6 +3138,7 @@ Alpers;40;Svetlana Alpers, art historian / Alpers disease
 Alpert;40;Herb Alpert, Tijuana Brass leader and A&M co-founder
 Alpes;40;French Alps, as in Alpes-Maritimes
 Alph;40;Sacred river in "Kubla Khan"
+alpha and omega;60
 Alpha-Bits;60;Letter-shaped cereal 1957-2021
 alpha dog;50
 alpha dogs;50
@@ -5869,6 +5870,7 @@ as did I;50
 -ase;20
 asea;50
 ASEAN;20;Association of Southeast Asian Nations
+a seat;20
 a sec;20
 a second look;50
 aseethe;30
@@ -10977,6 +10979,8 @@ bloodletters;60
 bloodletting;60
 bloodlettings;60
 blood plasma;50
+blood pudding;60
+blood puddings;60
 BloodRayne;40;Vampire video game
 blood tie;50
 blood ties;50
@@ -21723,6 +21727,7 @@ dandruff flake;50
 dandruff flakes;50
 Dan Duryea;30;Actor Dan Duryea (1907-1968)
 Dane;50;Person from Denmark, or a big dog
+Dane DeHaan;40;Actor (born 1986)
 Danegeld;40;Tribute paid to Viking raiders
 Danelaw;30
 Danes;50;Claire Danes, actress / people of Denmark
@@ -27319,6 +27324,7 @@ ego;50
 egocart;0
 egocentricities;40;Bad plural???
 ego death;60
+ego depletion;60;Psychological theory that willpower depletes when in constant use
 Egoiste;30;Chanel fragrance
 egomania;60
 egomaniac;60
@@ -43043,6 +43049,7 @@ Iain;40;Iain Banks, Scottish novelist / Iain Glen, "Game of Thrones" actor
 ial;30;Suffix [occasional]
 I alone;50
 I am;50
+I am Alpha and Omega;60;Revelation 22:13
 I Am America;60;"I Am America (And So Can You!)", 2007 satirical book by Stephen Colbert
 I Am America (And So Can You!);50;2007 satirical book by Stephen Colbert
 I Am America And So Can You;0
@@ -43061,6 +43068,7 @@ I Am Not Going to Get Up Today;60;Dr. Seuss book
 Iams;40;Pet food brand
 I am shook;60
 I am so;40;Playground retort
+I am the Alpha and the Omega;60;Revelation 22:13
 I am toast;50
 I am too;40;Playground retort
 I Am Woman;60
@@ -46244,6 +46252,7 @@ it's a matter of public record;60
 it's a matter of time;60
 it's a me Mario;60
 it's an honor;60
+it's a no;50
 it's a no-brainer;60
 it's a no-go;60
 it's a nonstarter;60
@@ -71907,6 +71916,8 @@ probie;30
 probies;30
 probing at;40
 problem?;50
+problem child;60
+problem children;60
 problem set;50
 problem sets;50
 pro bono;50
@@ -82168,6 +82179,8 @@ shortstops;50
 short stuff;60
 short subject;50
 short subjects;50
+short-termist;50
+short-termists;50
 short thumb;50;Genetic trait with one short, wide thumb
 short u;40
 short U's;40
@@ -84956,7 +84969,11 @@ sooner rather than later;60
 Sooners;50;Oklahoma college squads
 Sooner State;50
 Soong;20
+Soong Ai-ling;40
+Soong Ching-ling;40
+Soong Mei-ling;40;Wife of Chiang Kai-shek (1898–2003)
 Soongs;20
+Soong sisters;40;Three prominent women in modern Chinese history
 Soon-Yi;40;Soon-Yi Previn, third wife of Woody Allen (born 1970)
 Soon-Yi Previn;50;Third wife of Woody Allen (born 1970)
 sooo;20
@@ -91460,6 +91477,7 @@ The Alamo;60
 The Alchemist;60
 The Alchemist Cookbook;50;2016 American horror film
 the algorithm;60
+the Alpha and the Omega;60
 the Alps;40
 the AM;30
 The Amazing Randi;60
