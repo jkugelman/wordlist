@@ -10255,9 +10255,11 @@ Bilbao;40;Spanish city with a Guggenheim
 Bilbao eels;50
 Bilbo;50;Bilbo Baggins, "The Hobbit" hero
 Bilbo Baggins;60
-Bild;40;German tabloid newspaper
-Bildad;40;One of Job's comforters
-Bilderberg;50;Group behind the secretive annual conference
+Bild;30;German tabloid newspaper
+Bildad;30;One of Job's comforters
+Bilderberg;40;Group behind the secretive annual conference
+bildungsroman;60
+bildungsromans;60
 Biles;50;Simone Biles, gymnastics great
 bilge rat;50
 bilge rats;50
@@ -20323,7 +20325,7 @@ Cpl;40
 Cpls;40;Corporals, briefly
 C plus;50
 CPO;20
-CPOs;40;Navy chief petty officers
+CPOs;30;Navy chief petty officers
 CPO Sharkey;40;Don Rickles sitcom 1976-78
 CPR;40
 CPR class;60
@@ -39017,7 +39019,7 @@ had dibs;50
 had dibs on;50
 Haddish;40;Tiffany Haddish, comedian
 Haddon;40;Mark Haddon, "The Curious Incident of the Dog in the Night-Time" author
-Hadean;40;Geologic eon
+Hadean;40;First and oldest of the four geologic eons of Earth's history
 Haden;40;Actor Thomas Haden Church
 had enough;60
 had enough, or are you thirsty for more?;60
@@ -45733,6 +45735,12 @@ irkers;30
 Irkutsk;40;Siberian city
 IRL;40
 Irma;40;Irma Rombauer, "Joy of Cooking" author / Hurricane Irma
+Irma la Douce;40;1963 film by Billy Wilder
+Irma Rombauer;40;Cookbook author (1877–1962)
+Irma S. Rombauer;40;Cookbook author (1877–1962)
+Irma S Rombauer;0
+Irma Thomas;40;"Soul Queen of New Orleans"
+Irma Vep;40;1996 French film / 2022 miniseries
 Irna;30;Irna Phillips, soap opera pioneer
 Irna Phillips;40;Soap opera pioneer
 I Robot;60
@@ -47876,6 +47884,7 @@ jorts;60
 Jos;20
 Jo's Boys;40;Final book in the "Little Women" series
 Jose;50;Common Spanish given name, as in José Altuve
+Jose Altuve;40;Astros second baseman
 Josef;40;Josef Albers, Bauhaus artist / Franz Josef, Austrian emperor
 Joseline;40;Joseline Hernandez, reality TV star
 José Mujica;40;President of Uruguay from 2010 to 2015
@@ -70494,6 +70503,7 @@ plz;40
 Plzen;30;Czech city, home of pilsner
 PM;40
 PM Dawn;40;'90s hip hop group P.M. Dawn
+PMOS;30;Polyendocrine metabolic ovarian syndrome, updated term for PCOS
 PMS;40;Prime ministers
 PMSed;40
 PMSes;40;Has premenstrual symptoms
