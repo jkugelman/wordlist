@@ -19127,6 +19127,8 @@ Compton;40;California city of "Straight Outta Compton"
 Compton's;40;Compton's Cafeteria riot, 1966 trans uprising
 CompUSA;40;Defunct computer retail chain
 CompuServe;50;Early online service
+computer-aided instruction;50
+computer-assisted instruction;50
 computer experts;50
 computer icon;50
 computer icons;50
@@ -45082,6 +45084,10 @@ Instax;40;Fujifilm instant camera line
 in stealth mode;60
 instil;20;Instill: Br.
 in stir;40;In prison
+instruction sheet;50
+instruction sheets;50
+instructions not included;60
+instructions unclear;60
 instrument panel;50
 insulation;50
 insulations;40
@@ -56879,6 +56885,7 @@ Mazepa;40;Ivan Mazepa, Ukrainian hetman and Tchaikovsky opera subject
 Mazeppa;40;Ivan Mazeppa, Cossack hetman of Byron and Liszt works
 Mazeroski;40;Bill Mazeroski, hit the 1960 World Series walk-off homer
 Mazie;30;Mazie Hirono, Hawaii senator
+Mazie Hirono;40;Hawaii senator (2013-)
 mazier;30
 maziest;30
 Mazola;40;Cooking oil brand
@@ -67365,8 +67372,18 @@ par fives;50
 par four;50
 par fours;50
 parfum;30
+pari;40;Pari-mutuel betting
 Paricutin;40;Mexican volcano born in a cornfield
 parietals;30
+pari-mutuel;50
+parimutuel;50
+pari-mutuel bet;50
+parimutuel bet;50
+pari-mutuel bets;50
+parimutuel bets;50
+pari-mutuel betting;50
+parimutuel betting;50
+parimutul;0
 paring;50
 parings;40;Weird plural
 pari passu;30;"Equal footing" in contract law
@@ -76356,7 +76373,8 @@ rilles;30
 rillet;30
 rillets;30
 rills;30;Streamlets
-Rilo;40;Rilo Kiley, indie rock band
+Rilo;30;Rilo Kiley, indie rock band
+Rilo Kiley;40;Indie rock band
 rim;50
 rimate;30;Fissured
 Rimbaud;50;Arthur Rimbaud, French poet
@@ -90453,6 +90471,7 @@ technical issue;50
 technical issues;50
 technical knockout;60
 technical knockouts;60
+technically speaking;60
 technical support;60
 technical writer;60
 technical writers;60
