@@ -3615,7 +3615,7 @@ A minus;50
 amion;20
 amioolate;0
 Amir;40;Common Arabic name, or a prince
-Amira;40;???
+Amira;30;???
 am I right?;60
 am I right;0
 am I right or am I right?;60
@@ -5425,7 +5425,7 @@ Aristotelianism;50;Philosophy of the Lyceum
 Aristotelians;50;Followers of Aristotle
 Aristotle;60
 Aritzia;40;Canadian clothing retailer
-Arius;40;Heresiarch behind Arianism
+Arius;30;Heresiarch behind Arianism
 Ariz.;40
 Arizona;50;Grand Canyon State
 Arizonan;50
@@ -11132,6 +11132,12 @@ blue plate;60
 blue plate special;60
 blue plate specials;60
 blue raspberry;60
+blue ribbon;60
+blue-ribbon commission;60
+blue-ribbon commissions;60
+blue-ribbon committee;60
+blue-ribbon committees;60
+blue ribbons;60
 blue rinse;60;Hair coloring
 blue rinses;60;Hair colorings
 blue sea;20
@@ -66781,6 +66787,7 @@ Paavo;30;Flying Finn
 Pablo;50;Pablo Picasso, painter, or a common Spanish name
 Pablo Picasso;60
 Pabst;50;Blue Ribbon beer brand
+Pabst Blue Ribbon;60
 PAC;40
 paca;20;Rodent
 pacas;20;Rodents
@@ -92135,6 +92142,9 @@ themself;40
 them's the rules;60
 the mud;20
 the multiverse;50
+The Mummy;60
+The Mummy's Tomb;50;1942 horror film starring Lon Chaney Jr.
+The Mummy: Tomb of the Dragon Emperor;50;2008 action adventure film
 The Muppets Take Manhattan;60
 The Murderbot Diaries;60;Book series that spawned an Apple TV+ show
 the Muses;50
