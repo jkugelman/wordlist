@@ -7158,6 +7158,8 @@ Axelrod;40;David Axelrod, Obama strategist
 Axels;50;Figure skating jumps
 axeman;40
 axemen;40
+axe murderer;40
+axe murderers;40
 axer;20
 axers;20
 axe sharpener;50
@@ -7171,6 +7173,8 @@ Axl;50
 axman;40
 axmen;40
 Axminster;40;English town known for its carpets
+ax murderer;40
+ax murderers;40
 ax sharpener;50
 ax sharpeners;50
 ax throwing;50
@@ -55752,7 +55756,7 @@ making a fist;50
 making a hash of;50;Bungling
 making a killing;60
 making a list;40
-Making a Murderer;50
+Making a Murderer;60
 making a name for;50
 making a name for oneself;50
 making an appearance;60
@@ -56830,6 +56834,8 @@ massifs;40
 Massimo;40;Common Italian given name
 Massinger;40;Philip Massinger, Jacobean playwright
 mass media;60
+mass murderer;10
+mass murderers;10
 Masson;40;Vintner Paul Masson
 Massoud;40;Ahmad Shah Massoud, Afghan commander / Mena Massoud, actor
 mass-produce;50
@@ -60749,6 +60755,8 @@ murder case;50
 murder cases;50
 murderee;30
 murderees;30
+murderers' row;60
+murderers' rows;60
 murderer's thumb;60;Genetic trait with one short, wide thumb
 murder hornet;60;Nickname for the Asian giant hornet
 murder hornets;60;Nickname for Asian giant hornets
@@ -72231,6 +72239,7 @@ professional boxing;50
 professional golf;50
 professional golfer;50
 professional golfers;50
+professional murderer;20
 professor;50
 professors;50
 profit centre;20
@@ -81230,6 +81239,7 @@ Serial Mom;60
 serial monogamist;60
 serial monogamists;60
 serial monogamy;60
+serial murderer;20
 serial no;40
 seriate;40
 seriatim;30;Legal word for "consecutively"
@@ -84973,6 +84983,7 @@ so I guess that's a thing now;50
 so I hear;50
 so I lied;60
 soilure;20
+So I Married an Axe Murderer;60
 soir;30
 so it goes;60
 so it's come to this;60
@@ -87518,7 +87529,7 @@ St. Ides;40;St. Ides malt liquor
 stied;40
 Stieg;40;Stieg Larsson, author of "The Girl with the Dragon Tattoo"
 Stieglitz;40;Alfred Stieglitz, pioneering photographer
-S-tier;60;Excellent
+S-tier;50;Excellent
 Stiers;40;David Ogden Stiers of M*A*S*H
 stiff-arm;50
 stiff-armed;50
