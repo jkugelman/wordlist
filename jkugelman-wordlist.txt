@@ -1975,7 +1975,8 @@ Agnetha;40;Agnetha Fältskog of ABBA
 Agnew;50;Spiro Agnew, Nixon's VP
 Agni;30;Hindu fire god
 Agnieszka;40;Agnieszka Holland, Polish director / Agnieszka Radwanska, tennis star
-Agnolo;40;Agnolo Bronzino, Florentine Mannerist painter
+Agnolo;30;Agnolo Bronzino, Florentine Mannerist painter (1503–1572)
+Agnolo Bronzino;40;Florentine Mannerist painter (1503–1572)
 agnolotti;40;Stuffed pasta
 agnomen;30;Optional nickname in the Roman Republic
 agnomens;30;Optional nicknames in the Roman Republic
@@ -2087,6 +2088,7 @@ Ahn;20
 Ahnold;60
 ahora;40
 a horse of a different color;60
+a host;40
 a house divided;60
 Ahriman;40;Zoroastrian spirit of evil
 AHS;40
@@ -4755,6 +4757,7 @@ Aphrodite;60
 API;20
 Apia;40;Capital of Samoa
 apiano;0
+apical;30
 Apichatpong;40;Apichatpong Weerasethakul, Palme d'Or-winning Thai director
 APIs;20;Roman bull god
 apish;50
@@ -5061,6 +5064,7 @@ aquavit;40;Scandinavian liquor
 aqua vitae;40
 aquavits;40
 Aquemini;40;OutKast album
+aquí;40;Here, in Spanish
 Aquila;40;Eagle constellation
 aquiline;40;Of a nose, hooked like an eagle's beak
 Aquinas;50;Thomas Aquinas, Catholic theologian
@@ -6332,7 +6336,8 @@ Asta;30
 Astaire;50;Fred Astaire, dancer and actor
 Astaires;40;Fred and Adele, dancing siblings
 Astana;40;Capital of Kazakhstan
-Astana Kazakhstan;50;Capital of Kazakhstan
+Astana, Kazakhstan;50;Capital of Kazakhstan
+Astana Kazakhstan;0
 a star;20
 a-starboard;40
 A Star Is Born;60
@@ -6596,6 +6601,7 @@ Atlantica;40;Ancient supercontinent, or the undersea "Kingdom Hearts" world
 Atlantics;40;"Atlantics," 2019 Senegalese film
 Atlantis;60
 Atlas Carry;50
+Atlas V;40;Longest-serving active rocket in the United States
 Atle;20;Skier
 at least you tried;60
 ATLiens;20;???
@@ -6683,6 +6689,7 @@ Atreides;50;Ruling house in "Dune"
 atremble;40
 Atreus;30;Father of Agamemnon
 Atreyu;40;"The NeverEnding Story" hero
+at root;50
 Atropos;40
 ats;30
 at sea;50
@@ -7201,7 +7208,7 @@ aw man;60
 aw, Mom;50
 awn;20
 awninged;40
-AWOL;40
+AWOL;50
 Awolnation;40;"Sail" rock band
 AWOLs;40
 a work of art;50
@@ -13440,6 +13447,7 @@ bug sprayer;50
 bug sprayers;50
 bug sprays;60
 Bugsy;50;Bugsy Siegel, mobster / "Bugsy Malone"
+Bug type;40
 Buick;50;Car brand
 Buicks;40;GM cars
 build a better mousetrap;60
@@ -24106,6 +24114,8 @@ dill spear;50
 dill spears;50
 Dilly Bar;50
 Dilma;40;Dilma Rousseff, Brazilian president
+Dil Se..;20;1998 Indian film by Mani Ratnam
+Dil Se;0
 diluent;30;Substance used to dilute
 diluents;30
 diluvial;40;Flood-related
@@ -24965,6 +24975,8 @@ dog sitting;50
 dog spa;60
 Dogs Playing Poker;60
 dog sports;60
+dog tag;60
+dog tags;60
 dog-tired;60
 dog toy;50
 dog toys;50
@@ -26695,6 +26707,7 @@ Durham, NC;30
 Durkheim;40;Emile Durkheim, founding sociologist
 Durkin;40;Sean Durkin, "The Iron Claw" director
 durn;40;Drat
+durned;40
 Durocher;30;Baseball player Leo
 Durrell;40;Lawrence Durrell, "The Alexandria Quartet" author / Gerald Durrell, naturalist
 Durst;40;Fred Durst, Limp Bizkit frontman
@@ -27218,6 +27231,8 @@ ECCO;40;Danish shoe manufacturer
 ecdysis;30;Reptile molting
 ECG;40;Electrocardiogram
 ECGs;40;Heart tests, for short
+ECG test;40
+ECG tests;40
 ech;20
 eCheck;40
 eChecks;40
@@ -27470,6 +27485,8 @@ EEE width;30
 EEG;40
 Eegah;40;1962 cult B-movie
 EEGs;40
+EEG test;40
+EEG tests;40
 eek;50
 eeks;40
 eel;50
@@ -28117,7 +28134,7 @@ eluant;20;Chemistry word
 eluants;20;Chemistry word
 eluder;30
 eluders;30
-Elul;40;Hebrew calendar month
+Elul;30;Hebrew calendar month
 elusion;30
 elusory;30
 eluspace;0
@@ -29697,6 +29714,8 @@ ET the Extra-Terrestrial;60
 Ettore;40;Ettore Bugatti, automaker / Ettore Sottsass, designer
 Ettore Bugatti;60;Italian-born French automobile designer and manufacturer (1881–1947)
 et tu;40
+etui;30
+etuis;30
 etymological;50
 etymological dictionary;60
 etymologies;50
@@ -31720,8 +31739,12 @@ few;50
 few and far between;60
 few good men;20
 fewness;30
-fey;50
+Fey;50;Tina Fey
+fey;40
+Feyer;40
+feyer;30
 Feyerabend;40;Paul Feyerabend, "Against Method" philosopher
+feyest;30
 feyness;40
 Feynman;50;Richard Feynman, Nobel physicist and bongo player
 fez;50
@@ -35120,6 +35143,8 @@ Gattaca;60
 Gatwa;40;Actor Ncuti Gatwa of "Barbie", and the 15th Doctor in "Doctor Who"
 Gatwech;40;Nyakim Gatwech, South Sudanese-American model
 Gatwick;50;London airport
+gaucho;40
+gauchos;40
 Gaudeamus;40;"___ igitur," student anthem
 gaudery;30;Gaudy display
 Gaudí;40
@@ -36167,6 +36192,13 @@ Giacchino;40;Michael Giacchino, film composer
 Giacommeti;20;Misspelling of Giacometti
 Giacomo;40;Giacomo Puccini, composer / Italian for James
 Giada;40;Chef Giada de Laurentiis
+gialli;30
+giallo;30
+giallo film;40
+giallo films;40
+giallo movie;40
+giallo movies;40
+giallos;30
 Giamatti;40;Paul Giamatti, actor, or Bart Giamatti, MLB commissioner
 Giambattista;50;Giambattista Vico, Italian philosopher
 Giambi;40;Jason Giambi, AL MVP first baseman
@@ -38366,8 +38398,9 @@ Gresham;40;Gresham's law, on bad money driving out good
 Gresham's;40;Gresham's law, bad money drives out good
 Greta;50;Greta Garbo, actress / Greta Gerwig, director
 Gretchen;50;Gretchen Whitmer, Michigan governor / Gretchen Mol, actress
-Grete;40;Grete Waitz, marathon champion
+Grete;30;Grete Waitz, marathon champion
 Gretel;50;Hansel's sister
+Grete Waitz;40;Norwegian marathon runner and former world record holder
 Gretna;30;___ Green, Scottish wedding destination
 Gretzky;50;Wayne Gretzky, the Great One
 grew dim;30
@@ -38855,6 +38888,7 @@ guardsmen;50
 guard tower;50
 guard towers;50
 Guare;40;John Guare, "Six Degrees of Separation" playwright
+gua sha;30;Traditional East Asian medicine practice involving skin scraping
 Guatemala;50;Central American country
 guatemalabelize;0
 Guatemalan;50;Of Guatemala
@@ -40543,6 +40577,7 @@ Hayflick;40;Leonard Hayflick, whose limit caps cell divisions
 haying;40
 hayings;30
 Hayley;40;Common first name
+Hayley Williams of Paramore;0
 haymaker;60
 haymakers;60
 Haymarket;50;Site of the 1886 Chicago labor riot
@@ -40720,6 +40755,7 @@ hearkened to;40
 hearkening to;40
 hearkens to;40
 hearken to;40
+hear me;50
 hear me out;60
 hear me roar;60
 Hearn;30;Broadway actor George Hearn of "La Cage aux Folles"
@@ -41203,6 +41239,7 @@ Henrietta;40;Henrietta Lacks, source of the HeLa cell line
 Henri II;30
 Henri III;30
 Henrik;40;Henrik Ibsen, "A Doll's House" playwright
+Henrik Ibsen;50;"A Doll's House" playwright
 Henriksen;40;Lance Henriksen, "Aliens" actor
 Henri Poincare;50
 Henry;50;Common given name and surname
@@ -43515,6 +43552,7 @@ I Am Not Going to Get Up Today;60;Dr. Seuss book
 Iams;40;Pet food brand
 I am shook;60
 I am so;40;Playground retort
+I am so lost;60
 I am the Alpha and the Omega;60;Revelation 22:13
 I am toast;50
 I am too;40;Playground retort
@@ -43597,7 +43635,7 @@ iBooks;30;Now known as Apple Books
 Ibrahim;40
 Ibram;40;Ibram X. Kendi, author of "How to Be an Antiracist"
 Ibram X Kendi;60;Ibram X. Kendi, author of "How to Be an Antiracist"
-Ibsen;50;Henrik Ibsen, "A Doll's House" playwright
+Ibsen;40;Henrik Ibsen, "A Doll's House" playwright
 IBU;20
 Ibuprofen;50;Advil's active ingredient
 Ibuprofens;40;Pain relievers
@@ -43797,6 +43835,7 @@ iconoclast;60
 iconoclastic;60
 iconoclasts;60
 I conquered;40
+icosa-;30
 icosagon;40
 icosagons;40
 icosahedra;40
@@ -43847,6 +43886,8 @@ I'd better go;60
 IDC;30;I don't care
 ID chip;40
 ID chips;40
+I'd Do Anything for Love (But I Won't Do That);60;1993 single by Meat Loaf
+I'd do anything for love but I won't do that;0
 -ide;20
 idea;50
 ideal gas;50
@@ -44434,6 +44475,7 @@ Ilona;30;Rugby player Ilona Maher, actress Ilona Massey of old films
 Ilona Massey;40
 Ilonas;20
 I lose;40;Unnatural
+I lost;40
 I Love an Old Fashioned Song;40;Song from "The Kid from Brooklyn" (1946 musical film)
 I love it here;60
 I Love Lucy;60
@@ -44805,6 +44847,7 @@ I'm so bored;60
 I'm so dead;60
 I'm so here for it;60
 I'm sold;60
+I'm so lost;60
 I'm so old;60
 I'm so over it;60
 I'm sorry if I upset you;60
@@ -46255,6 +46298,7 @@ ish;40
 I shall not want;60
 I shall play you the song of my people;60
 I shall sing you the song of my people;60
+I shan't;20
 I shan't mince words;60
 iShares;30;ETF collection
 is he buying it?;60
@@ -47049,11 +47093,13 @@ Iwo Jima;50
 I woke up like this;60
 I won;50
 I wonder why;60
+I wonder why that is;60
 I won, I won;60
 I won't ask;60
 I won't be long;60
 I won't do that;50
 I won't lie;60
+I won't say a word;60
 iwoodpinefiryew;0
 I would eat you alive;60
 I would never;60
@@ -48885,6 +48931,7 @@ Karelia;30;Russian region
 Karelian;40;From Karelia, spanning Finland and Russia
 Karelians;40;People of Karelia, in Finland and Russia
 Karen;50;Common first name
+Karen Attiah;40;Washington Post columnist
 Karenin;40;Anna Karenina's husband, Alexei Karenin
 Karenina;50;Tolstoy's Anna
 Karen O;40;Karen O, vocalist of the band "Yeah Yeah Yeahs"
@@ -53518,6 +53565,7 @@ liquor bottles;50
 lira;50
 lire;50
 Liren;40;Ding Liren, chess world champion
+LIRR;30;Long Island Rail Road
 lis;40
 Lisa;50;Common first name, or the Apple Lisa
 Lisa Lisa;40;80s singer
@@ -54205,7 +54253,9 @@ looking to;40
 looking up to;50
 look into;40
 lookkcabinanger;0
-look, Ma;60
+look, Ma;50
+look Ma, no hands;60
+look ma no hands;0
 look me in the eye;60
 look me in the eye and say that;60
 look one's best;50
@@ -70248,6 +70298,7 @@ Pirelli;40;Tire brand
 Pirrip;40;Philip Pirrip, AKA Pip, "Great Expectations" narrator
 Pirsig;40;Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance" author
 pis;40
+PIs;40;Private investigators
 Pisa;50;Italian city with the leaning tower
 Pisa Italy;20
 pis aller;40;Pis aller, action of last resort
@@ -72364,6 +72415,7 @@ Princess Peach;60
 Princess Zelda;60
 Princeton;50;Ivy League university town
 Princetonian;40;Princeton student or alum
+Prince William Sound;50;Sound of the Gulf of Alaska
 Principia;50;Newton's magnum opus
 Prine;40;John Prine, folk singer-songwriter
 Pringle;40;Single stackable chip
@@ -72673,6 +72725,7 @@ prosing;40
 prosit;30;German toast
 pro soccer;50
 prosocial;50
+Prosopium williamsonii;20;Mountain whitefish species
 Prospero;50;"The Tempest" sorcerer
 prost;30;German toast
 pro surfer;50
@@ -88001,6 +88054,8 @@ stn;30;Station
 stneduts;0
 stns;30;Stations
 sto;20
+stoa;30
+stoas;30
 stoat;40
 stoats;40
 stochastic parrot;60
@@ -88967,6 +89022,8 @@ suit and tie;50
 suited to a T;40
 suited to a tee;40
 suited up;60
+suiting to a T;40
+suiting to a tee;40
 suiting up;50
 suit jacket;60
 suit jackets;60
@@ -90928,6 +90985,7 @@ tauromachies;30
 tauromachy;30;Art of bullfighting
 Taurus;50;Zodiac bull
 Tauruses;40;Zodiac bulls, or Ford sedans
+taus;40
 Taussig;40;Helen Taussig, pediatric cardiologist
 tauten;50
 tautened;50
@@ -93166,6 +93224,7 @@ The Tab;20
 the table;20
 the Taft era;30
 the Taj;40
+the take;50
 The Tale;30;Movie
 the talk;60
 the tango;30
@@ -94489,7 +94548,7 @@ toasting;50
 toastmistress;50
 toastmistresses;50
 toasts;50
-to a T;30
+to a T;40
 to a tee;40
 to a turn;30
 tob;20
@@ -101844,6 +101903,7 @@ William James Durant;50;American historian, philosopher and writer (1885–1981)
 Williams;50;Serena Williams, tennis star / Robin Williams, comedian
 William Safire;60
 Williamsburg;50;Colonial Virginia town, or the Brooklyn neighborhood
+William Somerset Maugham;50;English playwright and author (1874–1965)
 Williamson;40;Zion Williamson, NBA forward
 Williams Sonoma;50
 William Stubbs;40;British historian and Anglican bishop (1825–1901)
@@ -102758,6 +102818,9 @@ WTF;40
 WTO;20
 wts;20
 Wu;40;Constance Wu, actress / Empress Wu, Tang ruler
+wug;20
+wugs;20
+wug test;40;Test of children's learning of English morphology
 Wuhan;40
 Wukong;40;Sun Wukong, the Monkey King
 Wumpus;40;"Hunt the Wumpus" monster
@@ -103472,6 +103535,7 @@ yes, babe;50
 yes boss;60
 yes chef;60
 yes I see;50
+yes I won;40
 yes let's;50
 yes'm;40
 yes man;60
@@ -103802,6 +103866,7 @@ you'll never take me alive;60
 you'll regret this;60
 you look good enough to eat;60
 you look like shit;10
+you look mahvelous;50;Billy Crystal catchphrase on SNL
 you look pleased with yourself;60
 you lose;50
 you lost me;60
@@ -104363,7 +104428,10 @@ Zetterling;40;Mai Zetterling, Swedish actress and director
 Zeus;50;King of the Greek gods
 Zeuxis;40;Ancient Greek painter whose grapes fooled the birds
 Zevon;40;Warren Zevon, "Werewolves of London" singer
-ze zir;40
+ze/zir;40;Neopronouns
+ze zir;0
+ze/zir pronouns;50
+ze zir pronouns;0
 Zhane;40;1990s R&B duo
 Zhang;40;Zhang Yimou, director / Zhang Ziyi, actress
 Zhang Ziyi;50;Chinese actress and model (born 1979)
@@ -104468,6 +104536,7 @@ zip ties;50
 zip-tying;50
 Zip Zap Boing;60;Zip Zap Boing, improv theater game
 zip zap zop;60;Zip Zap Zop, improv theater game
+zir;30;Neopronoun
 Zircaloy;40;Zirconium alloy for nuclear fuel rods
 Zissou;40;Steve Zissou of "The Life Aquatic"
 zit;50
