@@ -3394,8 +3394,8 @@ Amartya;40;Amartya Sen, Nobel economist
 Amaru;40;Tupac Amaru, Incan rebel leader
 AMAs;40
 amassable;40
-amasser;40
-amassers;40
+amasser;50
+amassers;50
 Amaterasu;40;Japanese sun goddess
 amateur boxer;50
 amateur boxers;50
@@ -3965,6 +3965,7 @@ Ando;30;First or last name, various
 Ando Hiroshige;50;Japanese ukiyo-e woodblock print artist
 and on and on;60
 and one;50;NBA term
+and on that note;60
 Andorra;50;Pyrenean microstate
 Andorran;40;Pyrenees microstate resident
 Andorrans;40;Pyrenean principality residents
@@ -6491,6 +6492,7 @@ ate lunch;30
 atemoya;30;Hybrid fruit popular in Taiwan
 atemoyas;30;Hybrid fruit popular in Taiwan
 Aten;40;Egyptian sun disk deity
+ate no;20
 ate of;40
 ate one's hat;60
 ate one's words;60
@@ -6534,6 +6536,7 @@ a thread;20;Twitter convention for indicating a thread
 athwart;40;Contrary to, or across
 ati;20
 atidein;0;???
+a tie;20
 A-tier;40
 atilde;30
 atilt;40
@@ -6584,7 +6587,16 @@ ATMs;50
 at my age;50
 at night;30
 at nine;20
+at. no.;30
+at no;20
+at no charge;50
+at no cost;50
+at no cost to you;50
+at no extra charge;50
+at no extra cost;50
 at noon;30
+at no point in time;60
+at. nos.;30
 ato;20
 a toast;60
 A to B;40
@@ -11801,6 +11813,7 @@ BookTubers;40;Book reviewers on YouTube
 book within a book;60
 bookworm;60
 bookworms;60
+book your seat now;50
 Boola;20;Part of a Yale cheer
 Boola Boola;30;Yale cheer
 Boole;40
@@ -12442,6 +12455,9 @@ Brasiliense;40;Of Brasília
 Brassai;40;Brassaï, Hungarian-French night photographer
 brassard;40;Decorative armband
 brassards;40
+Brass Era;50;Early period of automotive manufacturing (1896-1915)
+brasserie;40;French restaurant with a relaxed setting
+brasseries;40;French restaurants with relaxed settings
 brass hit;50
 brass hits;50
 Brassica;40;Genus for cabbage, broccoli, cauliflower, bok choy, turnips, et al.
@@ -13196,6 +13212,7 @@ BSing;40
 B singles;40;Secondary tennis competitions
 BS meter;60
 BS meters;60
+bsmt;30;Basement
 bso;20
 bss;30
 B star;20
@@ -13259,6 +13276,8 @@ bucksaw;50
 bucksaws;50
 bucks for a promotion;50
 buckteeth;50
+buckwheat noodle;60
+buckwheat noodles;60
 Bucky;50
 buco;40;Osso ___
 Bucs;40;Tampa Bay or Pittsburgh team, for short
@@ -27004,6 +27023,7 @@ eat less;40
 eat like an animal;60
 eat local;60
 eat lunch;30
+eat no;20
 eat of;40
 Eaton;40;Peggy Eaton, Jackson-era scandal figure / Toronto's Eaton Centre
 Eaton Centre;40;Canadian shopping centres
@@ -27031,6 +27051,7 @@ eats late;30
 eats like an animal;60
 eats local;60
 eats lunch;30
+eats no;20
 eats of;40
 eats one's hat;60
 eats one's words;60
@@ -28913,7 +28934,6 @@ Erasermates;40;Erasable pens
 Erasmian;30;Follower of Erasmus
 Erasmus;40;Dutch theologian
 Eras Tour;60
-erasures;40
 erat;40
 Erato;40
 Eratosthenes;50;Greek who sized up the Earth, of sieve fame
@@ -32434,6 +32454,8 @@ Flatlanders;40;Lowland dwellers
 flatlet;30
 Flatley;40;Michael Flatley, "Riverdance" star
 flat nine;50
+flat nose;50
+flat nose pliers;50
 flat-out refusal;50
 flat-out refusals;50
 flat-out refuse;50
@@ -43516,6 +43538,7 @@ I can't do anything right;60
 I can't do it;60
 I can't do that;60
 I can't find my keys;50
+I Can't Go for That (No Can Do);50;1981 single by Daryl Hall & John Oates
 I can't go now;60
 I can't go on;60
 I can't imagine why;60
@@ -46350,6 +46373,10 @@ is that clear;60
 is that how you see me?;60
 is that how you see me;0
 is that it;60
+is that normal?;60
+is that normal;0
+is that not right?;60
+is that not right;0
 is that sad or what?;60
 is that sad or what;0
 is that so?;60
@@ -63553,6 +63580,7 @@ not for;40
 not for a moment;60
 not give a shit;10
 notgnihsawallaw;0
+not great, not bad;40;???
 not guilty;50
 Noth;40;Chris Noth
 no thanks;60
@@ -64292,6 +64320,8 @@ oatmeal cookie;50
 oatmeal cookies;50
 oatmeal raisin cookie;50
 oatmeal raisin cookies;50
+oat nog;40
+oat nogs;40
 oats;50
 oat seed;30
 Oats 'n' Honey;50
@@ -76562,6 +76592,7 @@ rhinoplasty;50
 R H Macy;30;Creator of Macy's
 Rh-negative;50
 rho;50
+RHOA;20;Transforming protein gene
 Rhoads;40;Randy Rhoads, Ozzy Osbourne guitarist
 Rhoda;50;"Mary Tyler Moore" spinoff sitcom
 Rhode;40;Rhode Island
@@ -86719,7 +86750,7 @@ sseldees;0
 ssenigde;0
 Sserafim;40;Le Sserafim, K-pop girl group
 sserttamria;0
-SSgt;40;Staff sergeant, briefly
+SSgt;30;Staff sergeant, briefly
 SSgts;30;Staff sergeants, briefly
 ssh;20
 S shape;30
@@ -87983,23 +88014,28 @@ stoops to;40
 stoop to;40
 stop apologizing;60
 stop at;40
+stop at nothing;60
 stop bath;60;Photo development aid
 stop baths;60
 stop-loss;60;Trading policy to limit downside
 Stop Making Sense;60
 Stoppard;50;Tom Stoppard, "Rosencrantz and Guildenstern Are Dead" playwright
 stopped at;40
+stopped at nothing;60
 stopped the clock;60
 stopping at;40
+stopping at nothing;60
 stopping the clock;60
 stopple;30;Stopper/plug
 stoppled;30
 stopples;30
 stoppling;30
 stops at;40
+stops at nothing;60
 stopsit;0
 stops the clock;60
 stop that;60
+stop that now;40
 stop the clock;60
 stop the fight;60
 stop yapping;60
@@ -92340,6 +92376,7 @@ The Greatest;60
 The Greatest Generation;60
 the Great Lakes;60
 The Great Lakes State;60
+The Great Northfield, Minnesota Raid;50;1972 Western film
 the Great Old Ones;60;Cthulhu, etc.
 The Great Schism;60;1054 event that divided the Christian world into the Western Roman Catholic Church and the Eastern Orthodox Church
 the great unknown;60
@@ -101051,7 +101088,9 @@ what is your problem;0
 what it is is;20
 what just happened;60
 what me worry;60
+what nonsense;50
 what, not even a thank you?;60
+What Now My Love;50;Popular song
 what's a hoe?;60
 what's all this then;60
 what's a nice girl like you doing in a place like this?;60
