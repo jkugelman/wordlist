@@ -28550,6 +28550,7 @@ Endymion;50;Keats poem about the shepherd Selene loved
 ENE;30
 enema;10
 enema of;0
+Enema of the State;50;1999 studio album by Blink-182
 enemas;10
 enemyalien;0
 enemy camp;60
@@ -75974,6 +75975,7 @@ reneged on;40
 renege on;40
 reneges on;40
 reneging on;40
+Rene Magritte;60
 renest;20
 renested;20
 renesting;20
