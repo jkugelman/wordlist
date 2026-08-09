@@ -6968,8 +6968,6 @@ autodidact;60
 autodidactic;60
 autodidacticism;60
 autodidacts;60
-autoerotic;10
-autoeroticism;10
 autogiro;40;Type of plane
 autogyro;40
 auto industry;60
