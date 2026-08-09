@@ -2570,6 +2570,7 @@ alcohols;30
 Alcorn;30;Mississippi university
 Alcott;50;Louisa May Alcott, "Little Women" author
 Alcotts;40;Louisa May Alcott's family
+ALCS;30;American League Championship Series
 Alcubierre;40;Miguel Alcubierre, physicist of the warp drive
 Alcyone;40;Brightest star in the Pleiades, and the myth behind "halcyon"
 ald;20
@@ -3762,7 +3763,7 @@ Amundsen-Scott;50;South Pole Station
 Amundsen-Scott South Pole Station;60
 Amundsen-Scott Station;50
 Amun-Ra;40
-Amur;40;River on the Russia-China border
+Amur;30;River on the Russia-China border
 Amur River;40
 Amur tiger;50
 Amur tigers;50
@@ -6531,6 +6532,7 @@ Athlon;40;AMD processor line
 Athlone;40;Irish town on the Shannon
 Athol;40;Athol Fugard, South African playwright
 at-homes;20
+-athon;30
 Athos;40
 a thread;20;Twitter convention for indicating a thread
 athwart;40;Contrary to, or across
@@ -27126,6 +27128,7 @@ ecce homo;50;Pilate's "Behold the man"
 Eccles;40;Eccles cake, English currant pastry
 Ecclesiastes;50;Old Testament book
 Eccleston;40;Christopher Eccleston, the Ninth Doctor
+ECCO;40;Danish shoe manufacturer
 ecdysis;30;Reptile molting
 ECG;40;Electrocardiogram
 ECGs;40;Heart tests, for short
@@ -27925,7 +27928,11 @@ Elko;30;Nevada city
 elkormoose;0
 Elks lodge;50
 ell;30;L [common]
+Ella;50
+ella;40
 Ella Moss;50
+Elle;50
+elle;40
 ElleGirl;50
 Elle King;50;Country singer
 Ellen;50;Ellen DeGeneres, talk show host / common first name
@@ -28316,7 +28323,7 @@ en banc;40
 en bloc;40
 Enbrel;20
 en brosse;30;???
-enby;60
+enby;50
 enc;20
 Encanto;50
 Encarta;50;Microsoft's CD-ROM encyclopedia
@@ -28761,7 +28768,7 @@ Enviropig;40;Genetically engineered pig
 Enviropigs;40;Genetically modified pigs
 Envolver;40;"Envolver", Anitta hit
 enwiki;20;???
-Enya;50;"Orinoco Flow" singer
+Enya;40;"Orinoco Flow" singer
 enz;20
 Enzo;40
 Eocene;40
@@ -30148,6 +30155,8 @@ Exocets;40;French antiship missiles
 exogamic;40
 exogamy;40
 ex-Oiler;20
+exon;30
+exons;30
 exoplanet;50
 exoplanets;50
 exorcise;50
@@ -32314,6 +32323,7 @@ Fitzrovia;40;London neighborhood
 FitzRoy;40;Robert FitzRoy, captain of the Beagle
 Fitzsimmons;40;Bob Fitzsimmons, first three-division boxing champ
 Fitzwilliam;50;Fitzwilliam Darcy, "Pride and Prejudice" love interest
+FIU;20;Florida International University
 Fiume;40;Italian name for Rijeka, Croatia
 five AM;50
 five and dime;60
@@ -42926,6 +42936,8 @@ Howerton;50
 Howery;40;Lil Rel Howery, "Get Out" actor
 how exactly;60
 how gauche;60
+how goes it?;60
+how goes it;0
 Howie;50;Howie Mandel, comedian, among others
 How I Learned to Stop Worrying and Love the Bomb;60;"Dr. Strangelove" subtitle
 how is it;60
@@ -42948,8 +42960,12 @@ how sad;60
 how's business?;60
 Howser;40;Doogie Howser, teen TV doctor
 how should I know;60
-how's it going;60
-how's it hanging;60
+how's it going?;60
+how's it going;0
+how's it going to be?;50
+how's it gonna be?;50
+how's it hanging?;60
+how's it hanging;0
 how's it shakin', bacon?;60
 how's it shaking?;60
 how soon is too soon?;60
@@ -46396,6 +46412,8 @@ is this a trick question?;60
 is this a trick question;0
 is this better;60;"Seem like an improvement?"
 is this good;60
+is this how it's going to be?;60
+is this how it's gonna be?;60
 is this it;60
 Is This Love?;50
 Is This Love;0
@@ -46494,6 +46512,7 @@ items;50
 iterant;40
 it factor;60
 it girl;60
+it goes;50;Response to "How goes it?"
 it goes to show;60
 IT guy;50
 IT guys;50
@@ -46659,6 +46678,7 @@ it's fire;60
 it's for you;60
 it's getting late;50
 it's giving;60;Gen Z slang
+it's going;50;Response to "How's it going?"
 it's going to be a bumpy ride;60
 it's gonna be a bumpy ride;60
 it's hard to forget;50
@@ -61211,6 +61231,8 @@ nab;50
 Nabataean;40;Ancient people who carved Petra
 Nabataeans;40;Ancient builders of Petra
 nabbing;50
+nabe;40
+nabes;40
 Nabisco;50;Cookie and cracker giant
 Nablus;40;West Bank city
 Nabokov;50;Vladimir Nabokov, author of "Lolita"
@@ -62963,6 +62985,7 @@ Nizhny;40;Nizhny Novgorod, Russian city
 NJ;40
 NKOTB;30;New Kids on the Block
 Nkrumah;40;Kwame Nkrumah, first president of Ghana
+NLCS;30;National League Championship Series
 NLE;30;NL East
 NL East;50;N.L. East
 nlf;20
@@ -63971,6 +63994,8 @@ nug;30
 nugatory;30;???
 nugs;30
 Nui;20
+nuit;40
+nuits;40
 Nujabes;40;Japanese hip-hop producer
 Nukem;50;Duke Nukem, video game action hero
 Nuku'alofa;40;Capital of Tonga
@@ -74434,11 +74459,13 @@ rates a ten;50
 rat fink;60
 rat finks;60
 ratfucking;10
+rath;20
 Rathbone;40;Basil Rathbone, screen Sherlock Holmes
 rathole;50
 ratholed;50
 ratholes;50
 ratholing;50
+raths;20
 ratine;20;Fabric
 rating a ten;50
 ratings;50
@@ -74615,6 +74642,9 @@ RCAs;40
 RC car;50
 RC cars;50
 rcle;20
+RCMP;40;Royal Canadian Mounted Police
+rcpt;30
+rcpts;30
 RCs;20
 RCT;20
 RC truck;50
@@ -78634,6 +78664,7 @@ RVs;40
 Rwanda;50;East African country
 Rwandan;40;Of Rwanda
 Rwandans;40;Kigali natives
+RWBY;20;Animated web series
 RWE;20
 RWR;20
 RWY;20
@@ -80200,6 +80231,7 @@ scirocco;40;Hot African wind, or VW model
 Scissorhands;60;Edward Scissorhands, Tim Burton's hero with blade fingers
 sci-tech;30
 Sciuto;40;Abby Sciuto, "NCIS" forensic scientist
+SCLC;30;Southern Christian Leadership Conference
 sclera;40;White of the eye
 sclerae;40
 scleral;40
@@ -93412,6 +93444,7 @@ Thompson;50;Hunter S. Thompson, gonzo journalist / Emma Thompson, actress
 Thoms;40;Tracie Thoms, "Rent" actress
 Thomson;40;Virgil Thomson, composer / Tom Thomson, Canadian painter
 Thom Yorke;60
+-thon;30
 Thor;50;Norse thunder god
 Thora;40
 thoraces;30;Valid plural of thorax, but thoraxes is more common and looks better
@@ -93683,7 +93716,7 @@ Thutmose;30;Pharaoh
 Thutmose I;30
 Thutmose II;30
 Thutmose III;30
-Thuy;40;Thuy Trang, the original Yellow Power Ranger
+Thuy;30;Thuy Trang, the original Yellow Power Ranger
 Thwomp;50;Falling stone block in Mario games
 Thwomps;40;Mario's falling stone-block foes
 thx;40
@@ -94106,7 +94139,7 @@ tin star;50
 tin stars;50
 Tintagel;40;Castle associated with King Arthur
 tinter;30
-Tintern;40;Tintern Abbey, of a Wordsworth poem
+Tintern;30;Tintern Abbey, of a Wordsworth poem
 tinters;30
 Tintin;50;Hergé's globetrotting boy reporter
 Tintoretto;40;Renaissance painter, not very notable per Bob Weisz
@@ -97084,6 +97117,8 @@ UConn;40
 UC Riverside;50
 UC San Diego;50
 UCSB;30;U.C. Santa Barbara
+UCSC;40;University of California, Santa Cruz
+UCSD;40;University of California, San Diego
 UCSF;30
 Udaipur;40;Indian city of lakes
 Udall;40;Mo Udall, Arizona congressman / Mark Udall, Colorado senator
@@ -97243,6 +97278,7 @@ Umar;40;Umar ibn al-Khattab, second caliph of Islam
 UMass;40
 Umayyad;40;Early Islamic caliphate
 Umayyads;40;Early Islamic caliphal dynasty
+UMBC;20;University of Maryland, Baltimore County
 umbel;20;Flower cluster
 umbellifer;40;Type of flower
 umbelliferous;40
@@ -98047,6 +98083,7 @@ uses up;50
 use the old noodle;60
 use up;50
 USG;20
+USGS;30;United States Geological Survey
 ush;20
 ushabti;20
 ushabtis;20
@@ -98165,6 +98202,7 @@ UT Austin;40
 UTC;30
 Ute;40
 Utena;30
+UTEP;40;University of Texas at El Paso
 uteri;40
 utero;40
 Utes;40
