@@ -5487,6 +5487,7 @@ Arlington;50;Virginia county with the national cemetery
 Arliss;40;George Arliss, Oscar-winning actor / HBO's "Arli$$"
 Arlo;40;Various: Arlo Guthrie, Arlo Parks
 arm;50
+arma;30
 Armagh;40;Northern Ireland county
 Armagnac;40;Type of brandy
 Armagnacs;40;French brandies, or a medieval faction
@@ -5892,6 +5893,7 @@ asb;20
 Asbury;40;Asbury Park, Springsteen's Jersey shore town
 asc;20
 A scale;30
+A scales;30
 ascaris;20
 ascender;40
 ascenders;40
@@ -8548,6 +8550,7 @@ basketball team;60
 basketball teams;60
 basket case;60
 basket cases;60
+BASL;30;Black American Sign Language
 Basotho;20;People of South Africa
 Basque;50;Pyrenees people
 Basques;50;Pyrenees people
@@ -11381,6 +11384,7 @@ Bob Newby;50;"Stranger Things" character played by Sean Astin
 Bobo;40;Bobo doll, of the famous Bandura experiment
 Boboli;40;Boboli Gardens, in Florence
 Bob Ross;60
+Bob Seger;50;"Night Moves" rocker
 bobstay;40;Part of a ship's rigging
 bobstays;40
 bob's your uncle;60
@@ -13174,6 +13178,7 @@ BS;40
 BSA;40
 bsc;20
 B scale;30
+B scales;30
 B school;50;Business school, for short
 B schools;50
 BS degree;40
@@ -16199,6 +16204,10 @@ centre spot;20
 centre spots;20
 centre stage;20
 centro;40
+centuple;40
+centupled;40
+centuples;40
+centupling;40
 Century Smurf;60
 CEO;50
 CEOs;50
@@ -17295,6 +17304,8 @@ Chisinau;30
 ChiSox;40;White Sox, informally
 Chiswick;40;West London district
 Chita;40;Broadway actress Chita Rivera (1933-2024)
+chital;20
+chitals;20
 Chitauri;40;Marvel alien invaders
 chiton;20;Ancient Greek tunic
 Chittagong;40;Bangladeshi port city
@@ -21856,9 +21867,9 @@ Dan;50
 Dana;50;Dana Carvey, comedian / Dana Delany, actress
 Danae;20;Mother of Perseus
 Danai;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
-Danaid;40;Daughter of Danaus in Greek myth
+Danaid;30;Daughter of Danaus in Greek myth
 Danaides;30;???
-Danaids;40;Daughters of Danaus in Greek myth
+Danaids;30;Daughters of Danaus in Greek myth
 danas;30
 Danaus;40;Monarch butterfly genus, or the Greek myth king
 Danbury;40;Connecticut city
@@ -23753,7 +23764,8 @@ Didi;40;Didi Conn, Frenchy in "Grease"
 did I ask?;60
 did I ask you;60
 did I do that;60
-Didier;40;Didier Drogba, Ivorian soccer star
+Didier;40
+Didier Drogba;40;Ivorian soccer star
 Did I Ever Tell You How Lucky You Are?;60;Dr. Seuss book
 did I hear that right?;60
 did I hear that right;0
@@ -26247,6 +26259,7 @@ D's;40;Maccy D's, or bad grades
 DSA;20
 dsc;20
 D scale;30
+D scales;30
 D sharp;50
 D-sharp scale;30
 DSL;40
@@ -26542,6 +26555,7 @@ Dupin;40;C Auguste Dupin, Poe's detective
 Duplantis;40;Armand Duplantis, pole vault world-record holder
 Duplass;40;Mark Duplass, indie filmmaker
 Duplessis;40;Maurice Duplessis, Quebec premier
+duple time;50
 duplicate bridge;60
 Duplo;40;Brand of Lego
 DuPont;50;Chemical giant
@@ -28145,7 +28159,7 @@ Emmental;50;Cheese
 Emmentaler;30;Cheese
 Emmerdale;40;British soap opera
 Emmerich;40;Roland Emmerich, disaster movie director
-Emmet;40;Emmet Brickowski, "The Lego Movie" hero
+Emmet;40;Emmet Brickowski, "The Lego Movie" hero / Actor M. Emmet Walsh
 Emmet Brickowski;60;Emmet Brickowski, "The Lego Movie" main character
 Emmett;40;Emmett Till, civil rights martyr / Emmett Brown, "Back to the Future" doc
 Emmitt;40;Emmitt Smith, NFL rushing leader
@@ -29100,6 +29114,7 @@ escaladed;30
 escalading;30
 Escalante;40;Jaime Escalante, "Stand and Deliver" teacher
 E scale;30
+E scales;30
 escallop;30
 escalloped;30
 escallops;30
@@ -34020,6 +34035,7 @@ frying up;40
 fry up;40
 F's;40;As in "F's in the chat"
 F scale;30
+F scales;30
 FSH;20
 F-shape;30
 F-shaped;30
@@ -36791,6 +36807,7 @@ goes mad;50
 goes mad for;40
 goes native;60
 goes numb;50
+goes nuts;60
 goes obsolete;50
 goes off kilter;50
 goes offline;50
@@ -36942,6 +36959,7 @@ going mad;50
 going mad for;40
 going native;60
 going numb;50
+going nuts;60
 going obsolete;50
 going off kilter;50
 going offline;50
@@ -37103,6 +37121,7 @@ Goldsworthy;40;Andy Goldsworthy, environmental sculptor
 gold teeth;60
 Goldthwait;40;Bobcat Goldthwait, raspy-voiced comedian
 gold tooth;60
+goldwasser;60;Polish liqueur containing particles of gold leaf
 gold watch;60
 gold watches;60
 Goldwater;50;Barry Goldwater, 1964 GOP nominee
@@ -37191,6 +37210,7 @@ gone in circles;60
 gone into;40
 gone loco;40
 gone native;60
+gone nuts;60
 gone off kilter;50
 gone on;40
 gone out;40
@@ -38613,6 +38633,7 @@ G's;40;Grands, in slang
 GSA;20
 GSAs;30;Gay-straight alliances, or the General Services Administration
 G scale;30
+G scales;30
 G Seven;30;Ugly numeral
 G shape;30
 G-shaped;30
@@ -39635,6 +39656,7 @@ hanging on;40
 hanging onto;40
 hanging out with;40
 hanging tough;50
+hanging up one's hat;60
 hanging up the phone;60
 hanging with;40
 hang in the air;60
@@ -39659,6 +39681,7 @@ hangs on;40
 hangs onto;40
 hangs out with;40
 hangs tough;50
+hangs up one's hat;60
 hangs up the phone;60
 hangs with;40
 hang the cost;60
@@ -39666,6 +39689,7 @@ hang tight;60
 hang time;60
 hang times;60
 hang tough;60
+hang up one's hat;60
 hang up the phone;60
 hang with;40
 Hangzhou;40;Chinese city on West Lake
@@ -40797,6 +40821,7 @@ held dear;60
 held firm;60
 held forth about;40
 held one's hand out;50
+held one's head up;60
 held onto;40
 held responsible;50
 held scoreless;50
@@ -41946,6 +41971,7 @@ holding dear;60
 holding firm;60
 holding forth about;40
 holding one's hand out;50
+holding one's head up;60
 holding onto;40
 holding the key;50
 holding the key to;50
@@ -41959,6 +41985,7 @@ hold on before you answer;60
 hold on before you rush to judgment;60
 hold on before you say anything;60
 hold one's hand out;50
+hold one's head up;60
 hold on, hear me out;60
 hold on one second;60
 hold onto;40
@@ -41973,6 +42000,7 @@ holds firm;60
 holds forth about;40
 holds on;50
 holds one's hand out;50
+holds one's head up;60
 holds onto;40
 holds scoreless;50
 holds the key;50
@@ -43112,6 +43140,7 @@ hung on;40
 hung onto;40
 hung out with;40
 hung tough;50
+hung up one's hat;60
 hung up the phone;60
 hung with;40
 Hunkpapa;40;Lakota band of Sitting Bull
@@ -43422,6 +43451,7 @@ Ibuprofen;50;Advil's active ingredient
 Ibuprofens;40;Pain relievers
 IBUs;40;Beer bitterness units
 Icahn;30;Billionaire Carl
+-ical;30
 I call BS;60
 I call bullshit;10
 I call shotgun;60
@@ -47806,6 +47836,8 @@ job satisfaction;60
 job search;60
 job searches;60
 job security;60
+job site;60
+job sites;60
 jobs report;60
 jobs reports;60
 job stress;60
@@ -49873,6 +49905,7 @@ knee socks;50
 knelt at;40
 knelt on;40
 Knesset;40;Israel's legislature
+knew as;40
 knew it by heart;60
 knew of;40
 knew one's shit;10
@@ -49938,9 +49971,11 @@ knotted pile carpet;50
 knotted pile carpets;50
 Knott's;40;Knott's Berry Farm theme park
 know-all;20
+know as;40
 know ball;60;To be knowledable about basketball or a related sport; generally, to understand what's going on
 knower;40
 knowers;40
+knowing as;40
 knowing it by heart;60
 knowing of;40
 knowing one's shit;10
@@ -49949,9 +49984,11 @@ knowing too much;60
 know it by heart;60
 knowledge is power;60
 Knowles;40;Beyoncé Knowles, singer
+known as;50
 know-nothing;60
 know of;40
 know one's shit;10
+knows as;40
 knows it by heart;60
 knows of;40
 knows one's shit;10
@@ -53331,7 +53368,7 @@ Lisboans;40;People of Lisbon
 Lisbon;50;Capital of Portugal
 Lise;40;Bart's sister, familiarly
 Lish;40;Gordon Lish, editor of Raymond Carver
-Lisi;40;Virna Lisi, Italian actress
+Lisi;30;Virna Lisi, Italian actress
 Lisieux;40;French town of St. Thérèse
 lisle;30;Cotton thread
 lisles;30
@@ -57998,6 +58035,8 @@ memery;50
 memes;50
 meme-worthy;60
 meming;50
+M. Emmet Walsh;50;Actor (1935–2024)
+M Emmet Walsh;0
 Memoji;60
 Memojis;60
 Memorex;50;Tape brand of "Is it live or is it Memorex?"
@@ -63742,6 +63781,8 @@ Ntozake;40;Ntozake Shange, playwright of "for colored girls"
 NTRO;20
 NTS;20
 NTSB;40
+n-tuple;40
+n-tuples;40
 nu;40
 Nuages;40;Django Reinhardt jazz standard
 nub;50
@@ -68793,6 +68834,8 @@ Pentium;50;Intel processor
 pentode;30;Vacuum tube with five electrodes
 pentodes;30
 Pentonville;40;London prison
+pentuplet;40
+pentuplets;40
 penuche;20;Fudge-like candy
 Penzance;50;Cornish town of Gilbert and Sullivan pirates
 Penzias;30;Physicist Arno Penzias who discovered the cosmic microwave background radiation
@@ -73232,6 +73275,8 @@ quadrangular;30
 Quadricycle;50;Ford's first automobile
 Quadricycles;40;Ford's first vehicles, four-wheeled
 Quadrophenia;50;The Who rock opera
+quadruple meter;50
+quadruple time;50
 quads;50
 quagga;20;Extinct zebra
 quaggas;20
@@ -73419,6 +73464,8 @@ Quintanilla;40;Selena Quintanilla, Tejano star
 Quintilian;40;Roman teacher of rhetoric
 Quinto;40;Zachary Quinto, rebooted Spock
 quints;40
+quintuple meter;50
+quintuple time;50
 Quintus;40;Roman first name
 Quiplash;40;Jackbox party game
 quipu;20;Andean recording device
@@ -77038,7 +77085,12 @@ ritenuto;40;Music term
 Ritt;30;Martin Ritt, "Norma Rae" director
 Ritter;40;John Ritter, or Krysten Ritter, actors
 Ritz-Carlton;60
-Ritzes;40;Ritz hotels, or the crackers
+ritzed up;50
+ritzes;50;Ritzes (up)
+Ritzes;50;Ritz hotels, or the crackers
+ritzes up;50
+ritzing up;50
+ritz up;50
 Riunite;40;Italian wine
 riv;20
 Riva;40;Emmanuelle Riva, French actress in "Amour"
@@ -77716,6 +77768,7 @@ root veggies;50
 root word;50
 root words;50
 Rooty;40
+ropa;30;Clothing, in Spanish
 ropable;20;Able to be roped, extremely angry
 rope bridge;50
 rope bridges;50
@@ -77724,6 +77777,7 @@ ropers;40
 ropery;30
 rope trick;50
 rope tricks;50
+ropo;30;El ropo (cheap cigar)
 Roque;40;Croquet variant / Roque Dalton, Salvadoran poet
 Roquefort;50;Blue cheese
 Rorem;30;Composer Ned Rorem
@@ -82994,6 +83048,7 @@ sightseers;60
 sightsees;60
 sights for sore eyes;60
 sight unseen;60
+SIGINT;40;Signals intelligence
 Sigismund;40;Holy Roman Emperor
 Sigler;40;Jamie-Lynn Sigler, "The Sopranos" actress
 Sigmund;50;Sigmund Freud, founder of psychoanalysis
@@ -95023,7 +95078,11 @@ tov;40
 tova;30;"Shana tova", Rosh Hashanah greeting
 Tovah;30
 to varying degrees;50
-Tove;30;Singer ___ Lo
+Tove;40;Tove Lo, Swedish singer and songwriter (born 1987)
+Tove Ditlevsen;40
+Tove Jansson;40
+Tove Lo;40;Swedish singer and songwriter (born 1987)
+toves;40;"Slithy toves", from "Jabberwocky"
 tow;50
 Towa;30;Towa Bird, guitarist and singer
 Towa Bird;40;British singer-songwriter (born 1999)
@@ -96336,6 +96395,8 @@ turned heads;60
 turned inside out;50
 turned into;40
 turned on;50
+turned one's nose up;60
+turned one's nose up at;60
 turned on the charm;60
 turned on the waterworks;60
 turned onto;40
@@ -96351,6 +96412,8 @@ turned to the left;50
 turned to the right;50
 turned traitor;50
 turned two;30
+turned up one's nose;60
+turned up one's nose at;60
 turned upside down;50
 Turneresque;40;Like the paintings of J.M.W. Turner
 turnery;30
@@ -96367,6 +96430,8 @@ turning heads;60
 turning inside out;50
 turning into;40
 turning on;50
+turning one's nose up;60
+turning one's nose up at;60
 turning on the charm;60
 turning on the waterworks;60
 turning onto;40
@@ -96382,6 +96447,8 @@ turning to the left;50
 turning to the right;50
 turning traitor;50
 turning two;30
+turning up one's nose;60
+turning up one's nose at;60
 turning upside down;50
 turn inside out;50
 turn into;40
@@ -96391,6 +96458,8 @@ turn lane;50
 turn lanes;50
 turn me loose;50
 turn-on;50
+turn one's nose up;60
+turn one's nose up at;60
 turn-ons;50
 turn on the charm;60
 turn on the waterworks;60
@@ -96409,6 +96478,8 @@ turns heads;60
 turns inside out;50
 turns into;40
 turns on;50
+turns one's nose up;60
+turns one's nose up at;60
 turns on the charm;60
 turns on the waterworks;60
 turns onto;40
@@ -96427,6 +96498,8 @@ turns to the left;50
 turns to the right;50
 turns traitor;50
 turns two;30
+turns up one's nose;60
+turns up one's nose at;60
 turns upside down;50
 turntable;60
 turntables;60
@@ -96440,6 +96513,8 @@ turn to the left;50
 turn to the right;50
 turn traitor;50
 turn two;30;Green paint
+turn up one's nose;60
+turn up one's nose at;60
 turn upside down;50
 Turow;40;Scott Turow, "Presumed Innocent" author
 Turpin;40;Dick Turpin, English highwayman
@@ -97685,6 +97760,7 @@ up to here;20
 Upton;40;Upton Sinclair, author / Kate Upton, model
 up top;60
 up to speed;50
+up up up up up up;20
 upvote;50
 upvotes;50
 Upwords;40;Stacking word board game
@@ -98944,6 +99020,7 @@ Virgo;50;Zodiac sign of the maiden
 Virgos;50;Late-summer zodiac types
 Viridiana;40;Luis Buñuel film (1961)
 Virna;30;Virna Lisi, Italian actress (1936–2014)
+Virna Lisi;40;Italian actress (1936–2014)
 virtu;20;Love of fine art
 Virtua;40;___ Fighter, Sega game series
 virtual brand;60;Virtual restaurant
@@ -100582,6 +100659,7 @@ went mad for;40
 went native;60
 went nowhere;60
 went numb;50
+went nuts;60
 went obsolete;50
 went off-kilter;50
 went offline;50
