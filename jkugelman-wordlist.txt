@@ -4059,6 +4059,7 @@ aneroid;40;Type of barometer
 a new ball game;60
 A New Hope;60
 A New Leaf;50
+a new world record;60
 an eye for;20
 an eye for an eye;60
 an eye for an eye and a tooth for a tooth;60
@@ -38765,6 +38766,8 @@ Guinevere;50;King Arthur's queen
 Guinier;40;Lani Guinier, law professor and withdrawn Clinton nominee
 Guinness;50;Irish stout / Alec Guinness, actor
 Guinnesses;40;Pints of the Irish stout
+Guinness World Record;60
+Guinness World Records;60
 GUIs;40;Graphical user interfaces
 Guisewite;40;Cathy Guisewite, "Cathy" cartoonist
 guitalele;40;Hybrid instrument
@@ -102160,6 +102163,14 @@ world of hurt;60
 world peace;60
 world power;60
 world powers;60
+world record;60
+world record holder;60
+world record holders;60
+world records;60
+world record setter;50
+world record setters;50
+world record time;60
+world record times;60
 world's greatest;60
 world's greatest dad;60
 world's greatest mom;60
