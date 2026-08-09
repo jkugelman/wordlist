@@ -1582,6 +1582,7 @@ A E I O U;40
 A E I O U Y;40
 Aeneas;40
 Aeneid;40
+Ænema;30;1996 Tool song/album
 Aeolic;40;Ancient Greek dialect of Sappho
 Aeolus;30;Greek god of the winds
 aeon;40
@@ -90785,7 +90786,7 @@ tap-in;40
 taping on;40
 taping to;30
 taping up;40
-tap into;40
+tap into;50
 tapiocas;40
 tapir calf;50
 tapir calves;50
@@ -90794,7 +90795,7 @@ tap lights;40
 tap on;40
 Tappan;30;Appliance brand???
 tapped in;40
-tapped into;40
+tapped into;50
 tapped on;40
 tapped telephone;30
 Tapper;40;Jake Tapper, CNN anchor
@@ -90802,10 +90803,10 @@ tappers;40;Finger/toe/pencil tappers
 tappet;40;???
 tappets;20
 tapping in;40
-tapping into;40
+tapping into;50
 tapping on;40
 taps in;40
-taps into;40
+taps into;50
 taps on;40
 tapster;30;Bartender
 tapsters;30
