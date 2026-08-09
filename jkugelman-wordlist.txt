@@ -85631,8 +85631,11 @@ sot;10
 so tell me;60
 so that happened;60
 so that's how it comes out;50
+so that's how it's going to be;60
+so that's how it's gonna be;60
 so that's it;60
 so that's it then;60
+so that's that;60
 Sotheby;40;Sotheby's auction house
 Sotheby's;50;Auction house
 so there;60;"Take that!"
@@ -91903,6 +91906,8 @@ that's great;60
 that's him;40;Green paint?
 that ship has sailed;60
 that ship's sailed;60
+that's how it's going to be?;60
+that's how it's gonna be?;60
 that's huge;60
 that's ill;50
 that's illogical;50
@@ -93392,6 +93397,8 @@ this is a total nightmare;60
 this is big;60
 this is easy;60
 this is for all the marbles;60
+this is how it's going to be?;60
+this is how it's gonna be?;60
 This Is How We Do It;60
 this is huge;60
 this is it;60
