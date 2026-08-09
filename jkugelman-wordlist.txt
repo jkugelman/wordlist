@@ -83913,6 +83913,10 @@ skinheads;10
 skin mag;50
 skin mags;50
 Skinner;50;B. F. Skinner, behaviorist, or Seymour Skinner, Springfield principal
+skinny mini;60
+skinny minis;60
+skinny minnie;60
+skinny minnies;60
 SkinnyPop;60;Lower calorie popcorn brand
 skins game;50;Type of scoring for various sports
 skins games;50
