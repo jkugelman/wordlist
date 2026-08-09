@@ -5882,6 +5882,7 @@ Asa;40
 as a bell;20
 as a cat;20
 asada;40
+asado;40
 Asafa;40;Asafa Powell, Jamaican sprinter
 Asafa Powell;40;Jamaican sprinter (born 1982)
 asafetida;30;Indian spice
@@ -5936,6 +5937,8 @@ ascribed to;40
 ascribes to;40
 ascribe to;40
 ascribing to;40
+as dead as;20
+as dead as a;20
 as did I;50
 -ase;20
 asea;50
@@ -22499,6 +22502,8 @@ dead aim;50
 dead air;60
 dead arm;40;???
 dead arms;40;???
+dead as a;20
+dead as a dodo;60
 dead as a doornail;60
 deadass;60
 dead ball;60
@@ -68140,6 +68145,7 @@ par value stocks;50
 Parvati;40;Hindu goddess, Shiva's consort
 pas;40
 Pasadena;50;Rose Bowl city
+pasado;30
 Pascha;40;Easter, in Orthodox usage
 Pasek;30;Benj Pasek, "Dear Evan Hansen" lyricist
 paseo;40
@@ -83068,6 +83074,7 @@ Sicilia;40;Sicily, in Italian
 Sicilian;50;Chess defense, or a Palermo native
 Sicilians;40;People of Sicily
 Sicily;50;Mediterranean island
+sick as a dog;60
 sick bay;60
 sick burn;60
 sickish;30
