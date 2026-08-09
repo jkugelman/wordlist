@@ -6600,6 +6600,7 @@ atomic blonds;60;Without the "e"?
 atomic bomb dropped;20
 atomic fountain;50;Laser-cooled atoms in flight
 atomic fountains;50;Laser-cooled atoms in flight
+Atomic Habits;50;2018 self-help book by James Clear
 atomicmasmoonit;0
 atomic pile;50
 atomic piles;50
@@ -9661,7 +9662,7 @@ Benedictine;50;Monastic order, or the French liqueur
 Benedictines;50;Monastic order
 benedicts;40;Married men?
 Benedict XVI;30;???
-Benee;40;New Zealand pop singer of "Supalonely"
+Benee;30;New Zealand pop singer of "Supalonely"
 benefits package;50
 Beneke;40;Tex Beneke, Glenn Miller band saxophonist
 Benelux;40;E.U. precursor: Belgium + Netherlands + Luxembourg
@@ -42405,6 +42406,8 @@ Hoosiers;50;Indianans, or the 1986 basketball film
 hoot at;40
 hootch;20;Variant of hooch
 hooted at;40
+hootenannies;60
+hootenanny;60
 Hooterville;50;"Green Acres" town
 Hootie;40;Hootie and the Blowfish
 hooting at;40
@@ -59020,6 +59023,10 @@ mink coat;50
 mink coats;50
 mink cub;50
 mink cubs;50
+minke;30;Minke whale
+minkes;30;Minke whales
+minke whale;40
+minke whales;40
 mink fur;50
 Minkoff;40;Rob Minkoff, "The Lion King" co-director
 Minkowski;40;Hermann Minkowski, spacetime mathematician
@@ -61789,6 +61796,8 @@ NCAA title games;60
 NCAA titles;60
 NCAA tournament;60
 NCAA tournaments;60
+N. Car.;40;North Carolina
+N Car;0
 NCC;20
 NCIS;40
 NCIS LA;40
@@ -68694,7 +68703,7 @@ Pegg;40
 pegged out;30
 pegging out;30
 Peggy;50;Common first name: Peggy Carter, Peggy Guggenheim
-Peggy's;40;Peggy's Cove, Nova Scotia lighthouse village
+Peggy's;30;Peggy's Cove, Nova Scotia lighthouse village
 peg leg;60
 peg legs;60
 pegmatite;40;Igneous rock with very large interlocked crystals
@@ -72086,6 +72095,9 @@ prettied;30
 pretty awesome;60
 pretty cool;60
 pretty fishy;60
+Pretty Fly for a Rabbi;60;1999 single by "Weird Al" Yankovic
+Pretty Fly (For a White Guy);60;1998 single by the Offspring
+Pretty Fly for a White Guy;0
 Pretty in Pink;60
 pretty much;60
 pretty pickle;60
@@ -95953,6 +95965,14 @@ trouser;40;OK as an adjective "trouser pockets"
 trouser role;60
 trouser roles;60
 trout amandine;50
+trout farm;50
+trout farmer;50
+trout farmers;50
+trout farming;50
+trout farms;50
+trout fisherman;50
+trout fishermen;50
+trout fishing;60
 Troutman;50
 trouvère;30;Medieval poet
 trover;20;Type of lawsuit
