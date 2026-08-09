@@ -21096,6 +21096,12 @@ crowding out;50
 crowd out;50
 crowds out;50
 CrowdStrike;40;Cybersecurity firm of the 2024 outage
+crowd surf;60
+crowd surfed;60
+crowd surfer;60
+crowd surfers;60
+crowd surfing;60
+crowd surfs;60
 Crowe;50;Russell Crowe, actor / Cameron Crowe, director
 crower;30
 crowers;30
