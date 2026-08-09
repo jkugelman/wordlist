@@ -95,6 +95,8 @@
 1v1;50
 1v1 me;60;Childish gamer's challenge
 #1 with a bullet;60
+1-wood;30;Nobody says this
+1-woods;30;Nobody says this
 1-year-old;40
 1-year-olds;40
 20/20;50
@@ -133,6 +135,8 @@
 #2 seeds;50
 2-tier;20
 2 turtledoves;60
+2-wood;30;Obsolete club
+2-woods;30;Obsolete clubs
 2-year-old;40
 2-year-olds;40
 30 for 30;60;ESPN sports documentary film series
@@ -161,6 +165,8 @@
 #3 seeds;50
 3-tier;20
 3 wise monkeys;60
+3-wood;50
+3-woods;50
 3XL;40;Triple extra large size
 3-year-old;40
 3-year-olds;40
@@ -203,6 +209,8 @@
 4th generation;20
 4th-generation console;40
 4th-generation consoles;40
+4-wood;30;Rare club
+4-woods;30;Rare clubs
 4-year-old;40
 4-year-olds;40
 50/50;50
@@ -222,6 +230,8 @@
 5th generation;20
 5th-generation console;40
 5th-generation consoles;40
+5-wood;50
+5-woods;50
 5-year-old;40
 5-year-olds;40
 60 Minutes;60;American television news magazine program
@@ -264,6 +274,8 @@
 7th-generation console;40
 7th-generation consoles;40
 7th heaven;60
+7-wood;50
+7-woods;50
 7-year-old;40
 7-year-olds;40
 867-5309;60;1981 single by Tommy Tutone
@@ -318,6 +330,8 @@
 9-volt batteries;60
 9-volt battery;60
 9-volts;50;Small batteries
+9-wood;40
+9-woods;40
 9-year-old;40
 9-year-olds;40
 a;50
@@ -23386,11 +23400,17 @@ Destiel;40;"Supernatural" fan pairing
 De Stijl;30;1917 art movement De Stijl
 Destin;40;Destin Daniel Cretton, director / Florida beach town
 destination;50
+destination wedding;60
+destination weddings;60
 destine;50
 destined;50
+destined for;40
+destined for greatness;60
+destined to fail;60
 destines;50
 destining;50
 destino;30;Verdi opera "La Forza del Destino"
+Destiny's Child;60
 destress;50
 destressed;50
 destresses;50
@@ -27587,6 +27607,7 @@ Eindhoven;40;Dutch city, home of PSV and Philips
 Eine;40
 Einherjar;40;Warriors of Valhalla
 Einojuhani;40;Einojuhani Rautavaara, Finnish composer
+eins;40
 Einstein;50;Albert Einstein, relativity physicist
 Einsteinian;50;Of relativity physics
 Einsteins;40;Geniuses, informally
@@ -29783,6 +29804,7 @@ evening up the score;50
 even money bet;60
 even money bets;60
 even odds;50
+even one;40
 evens a score;50
 even split;50
 even splits;50
@@ -32251,6 +32273,8 @@ five-string basses;60
 five-strings;50
 FiveThirtyEight;50;Nate Silver's polling site
 five-time champ;20
+five-wood;50
+five-woods;50
 Five W's;50
 fix;50
 fixe;40
@@ -33352,6 +33376,8 @@ four-wheeler;50
 four-wheelers;50
 four-wheeling;50
 four wheels;50
+four-wood;30;Rare club
+four-woods;30;Rare clubs
 four-year college;60
 four-year colleges;60
 four-year term;50
@@ -49118,8 +49144,10 @@ Kérastase;40;Luxury hair care brand
 Kerastase;0
 keratitis;30;Eye inflammation
 keratosis;30;Skin condition
+kerb;30;British curb
 Kerber;30;Tennis player Angelique
 Kerberos;40;Network authentication protocol, or a moon of Pluto
+kerbs;30;British curbs
 Kerch;40;Crimean city and strait
 Kerensky;40;Alexander Kerensky, Russian provisional government leader
 Kerguelen;40;Remote French islands in the southern Indian Ocean
@@ -58282,6 +58310,7 @@ met head on;60
 metheglin;40;Spiced mead
 methene;30
 Metheny;40;Pat Metheny, jazz guitarist
+meth not even once;20
 Methodism;50;Wesleyan Protestant denomination
 Methodist;50;Protestant denomination
 Methodists;50;Wesley's followers
@@ -62659,6 +62688,8 @@ ninety-six;40
 ninety-three;40
 ninety-two;40
 Nineveh;30;Ancient cultural center
+nine-wood;40
+nine-woods;40
 nine yards;40
 Ningbo;30;Historic Chinese city, population 8 million
 ninja;60
@@ -63407,7 +63438,8 @@ noters;40
 not escape;20
 not even;50
 not even a thank you;60
-not even once;60
+not even once;50
+not even one;40
 not exactly;60
 not fair;50
 not for;40
@@ -65545,7 +65577,8 @@ onewayyaweno;0
 one who finishes second;0
 One Wish Willow;60;Central prop in "Obsession" (2026)
 one-woman;30
-one-wood;40
+one-wood;30;Nobody says this
+one-woods;30;Nobody says this
 one year;40
 on feed;40
 on first;40
@@ -81512,6 +81545,8 @@ seventy-seven;40
 seventy-six;40
 seventy-three;40
 seventy-two;40
+seven-wood;50
+seven-woods;50
 seven-year itch;60
 sevenyearsof;0
 severalties;40
@@ -93295,6 +93330,8 @@ three-time;30
 three-ton;40
 three-way;50
 three-ways;50
+three-wood;50
+three-woods;50
 threnodes;40
 threnodies;40
 threnody;40;Hymn for the dead
@@ -96654,6 +96691,8 @@ two tons;40
 two to tango;30
 Two Towers;60
 two turtledoves;60
+two-wood;30;Obsolete club
+two-woods;30;Obsolete clubs
 two x two;20
 two-year;40
 two years;40
