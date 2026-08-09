@@ -3126,6 +3126,7 @@ alop;20;Cockeyed
 alopecia;40
 alopecias;30
 à l'orange;50
+a lost;20
 a lot of;40
 a lotta money;20;???
 a lot to answer for;50
@@ -9427,6 +9428,7 @@ befooling;20
 befools;30
 be for;20
 before common era;60
+before golf;20
 before I go;60
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
@@ -14918,6 +14920,7 @@ capital M;40
 capital N;40
 capital O;40
 capital of Afghanistan;20
+capital of Oregon;20
 capitalofturkey;0
 capital P;40
 capital Q;40
@@ -32104,6 +32107,7 @@ first kiss;60
 first kisses;60
 first ladies;60
 first lady;60
+First Lady of Oregon;20
 first law;50
 first law of thermodynamics;60
 first little pig;60
@@ -33109,6 +33113,11 @@ Ford sedans;40
 Ford SUV;20;Green paint
 forebay;40;Artificial pool of water in front of a larger body of water
 forebays;40
+forego;50
+foregoes;50
+foregoing;50
+foregone conclusion;60
+foregone conclusions;60
 foreign countries;50
 foreign country;50
 foreign legion;50
@@ -37693,6 +37702,7 @@ governing bodies;50
 government bonds;50
 government cheese;50
 Governor Moonbeam;50
+governor of Oregon;20
 gov't;40
 gow;20
 Gowanus;40;Polluted Brooklyn canal
@@ -75436,6 +75446,7 @@ reinvents the wheel;60
 reinvent the wheel;60
 Reis;40;Ricardo Reis, Fernando Pessoa heteronym
 Reiser;40;Paul Reiser, "Mad About You" star
+reishi;40;Mushroom
 Reitman;40;Ivan Reitman, "Ghostbusters" director
 reives;20
 Reiwa;40;Current Japanese imperial era
@@ -92987,6 +92998,7 @@ The Whale;60
 the Whiskey Rebellion;40
 The White Lotus;60
 The White Nile;60
+The Whole of Oregon or None;50;1940s political slogan
 the whole shooting match;60
 the Wicked Witch of the East;60
 the Wicked Witch of the West;60
