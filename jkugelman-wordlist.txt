@@ -83193,6 +83193,9 @@ Siddig;40;Alexander Siddig, "Deep Space Nine" actor
 Siddons;40;Sarah Siddons, celebrated Georgian tragedienne
 sidearming;30
 side bangs;60
+side bet;60
+side bets;60
+side betting;60
 sideboob;60
 sideburns;60
 side effect;60
@@ -83204,6 +83207,8 @@ side note;50
 side notes;50
 side piece;60
 side pieces;60
+side pot;60
+side pots;60
 side quest;60
 side quests;60
 sider;40
