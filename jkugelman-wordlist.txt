@@ -8627,7 +8627,7 @@ bass-ackward;60
 bass-ackwards;60
 Bass Ale;50
 Bass Ales;50
-Bassanio;50;Major "The Merchant of Venice" character
+Bassanio;40;Major "The Merchant of Venice" character
 bass banjo;50
 bass banjos;50
 bass bow;50
@@ -11082,6 +11082,8 @@ block in the back penalties;60
 block in the back penalty;60
 block off;50
 blockout;50
+block parties;60
+block party;60
 blocks off;50
 blocks out;50
 Blodgett;40;Esther Blodgett, "A Star Is Born" heroine
@@ -50356,10 +50358,10 @@ Kooning;40;Willem de Kooning, abstract expressionist
 Koons;40;Jeff Koons, balloon dog sculptor
 Koontz;40;Dean Koontz, thriller novelist
 Koop;40;C. Everett Koop, US surgeon general
-Koopa;50
-Koopaling;40;One of Bowser's kids in Mario games
+Koopa;40
+Koopaling;50;One of Bowser's kids in Mario games
 Koopalings;50;Bowser's kid minions
-Koopas;50
+Koopas;40
 Koopa shell;60
 Koopa shells;60
 Koopa Troopa;60;Mario baddie
@@ -89068,6 +89070,7 @@ Sukkoth;30;Jewish holiday
 Sukumaran;40;Prithviraj Sukumaran, Malayalam film star
 sul;20
 Sula;40;Toni Morrison novel
+Sula bassana;20;Species of bird
 Sulawesi;40;Indonesian island once called Celebes
 sulcate;20;Marked with grooves
 Suleiman;40;Longest-reigning sultan of the Ottoman Empire
