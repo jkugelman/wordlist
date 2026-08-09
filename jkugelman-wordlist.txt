@@ -5315,6 +5315,8 @@ are we live;60;"Is this thing on?"
 are we not?;20
 are we the baddies;60
 are we there yet;60
+Are You Afraid of the Dark?;50;Nickelodeon horror anthology TV series
+Are You Afraid of the Dark;0
 are you a man or a mouse;60
 are you asleep;50
 are you blind?;60
@@ -5460,10 +5462,16 @@ Arjona;40;Ricardo Arjona, Guatemalan singer / Adria Arjona, actress
 Arjun;40;Common Indian first name, as in Arjuna of the Mahabharata
 Arjuna;40;Hero of the Bhagavad Gita
 ark;50
+Arkane;40;French video game developer
+A.R. Kane;30;British musical duo
+AR Kane;0
+Arkane Studios;50;French video game developer
 Arkanoid;40;Block-breaking arcade game
 Arkansan;50
 Arkansans;50
 Arkansas;50;The Natural State
+Arkansas toothpick;60;Bowie knife
+Arkansas toothpicks;60;Bowie knives
 Arkansawyer;50;Little Rock native
 Arkansawyers;40;Arkansas residents
 Arkapaw;40;Adam Arkapaw, "True Detective" cinematographer
@@ -5592,6 +5600,7 @@ army knives;50
 army life;50
 army mule;50
 army mules;50
+Army of Darkness;60
 army outpost;50
 army outposts;50
 Army Ranger;50
@@ -5769,6 +5778,13 @@ art horror;60
 arthouse horror;60
 Arthropoda;40;Phylum of insects, spiders, and crustaceans
 Arthur;50;King Arthur, among others
+Arthur C. Clarke;60;British science fiction writer (1917–2008)
+Arthur C Clarke;0
+Arthur C. Clarke Award;50;Award for best science fiction novel published in the UK in the previous year
+Arthur C Clarke Award;0
+Arthur C. Clarke Awards;50;Awards for best science fiction novel published in the UK in the previous year
+Arthur C Clarke Awards;0
+Arthur Clarke;40
 Arthur Dent;60;Protagonist of "The Hitchhiker's Guide to the Galaxy"
 Arthurian;50;Of King Arthur's legend
 Arthur's;40;King Arthur's court
@@ -5877,6 +5893,7 @@ Asahara;20;Japanese cult leader/terrorist
 Asahd;30;DJ Khaled's son and album namesake
 Asahi;40;Japanese beer
 Asahis;40;Japanese beers
+as a lark;50;For fun
 as all get out;60
 as am I;50
 as a mule;20
@@ -5893,6 +5910,11 @@ as a test;50
 Asawa;30;Sculptor Ruth Asawa
 asb;20
 Asbury;40;Asbury Park, Springsteen's Jersey shore town
+Asbury Park;40
+Asbury Park, New Jersey;50
+Asbury Park New Jersey;0
+Asbury Park, NJ;40
+Asbury Park NJ;0
 asc;20
 A scale;30
 A scales;30
@@ -6952,6 +6974,10 @@ Austronesia;40;Pacific island language region
 Austronesian;50;Vast Pacific language family
 Austronesians;40;Peoples of the Pacific and Southeast Asia
 aut;20
+autarkic;40
+autarkical;40
+autarkies;40
+autarky;40
 Autechre;40;British electronic music duo
 Auteuil;40;Daniel Auteuil, French actor
 authentications;30
@@ -7109,6 +7135,7 @@ Avogadro;50;Amedeo Avogadro, of the constant
 Avogadro's;40;___ number, 6.022 x 10^23
 avoidances;40;Weird plural
 avoid at all costs;60
+avoid card sharks;20
 avoided at all costs;60
 avoider;30
 avoiders;30
@@ -7638,6 +7665,7 @@ bad kisser;60
 bad kissers;60
 badland;50
 badlands;60
+Badlands National Park;60
 bad loan;30
 bad loans;30
 badminton;50
@@ -7911,10 +7939,10 @@ ball joint;50
 ball joints;50
 ball knowledge;60
 ball lightning;60
-ball mark;60;Golf
+ball mark;50;Golf
 ball marker;60;Golf
 ball markers;60
-ball marks;60
+ball marks;50
 Ballmer;40;Steve Ballmer, former Microsoft CEO and Clippers owner
 Ball of Confusion (That's What the World Is Today);50;1970 song by The Temptations
 Ballon;40;Ballon d'Or half
@@ -7941,8 +7969,11 @@ balloon payment;60
 balloon payments;60
 balloon poodle;60
 balloon poodles;60
+ballot marking;50
 Ballotpedia;40;Online elections encyclopedia
 Ballou;50
+ballpark figure;60
+ballpark figures;60
 ballpark frank;60
 ballpark franks;60
 ballroom dance;60
@@ -8285,6 +8316,7 @@ bare essence;50
 bare essentials;50
 barefoot;50
 Barefoot Contessa;60
+Barefoot in the Park;50;1963 Neil Simon play / 1967 film
 Bareilles;50;Sara Bareilles, "Love Song" singer
 bare it all;60
 bare king;60;Chess position where one side has only a king
@@ -8348,19 +8380,27 @@ barites;30;???
 baritone sax;50
 baritone saxes;50
 bark at;40
+bark at the moon;60
 bark beetle;50
 bark beetles;50
 bark collar;50
 bark collars;50
 barked at;40
+barked at the moon;60
+barked orders at;50
 barked up the wrong tree;60
 Barkhad;40;Barkhad Abdi, "Captain Phillips" actor
 Barkin;40;Actress Ellen Barkin
 barking at;40
+barking at the moon;60
+barking orders at;50
 barking up the wrong tree;60
 Barkley;50;Charles Barkley, NBA great / Gnarls Barkley, duo
+bark orders at;50
 barks at;40
+barks at the moon;60
 Barksdale;40;Avon Barksdale, "The Wire" drug kingpin
+barks orders at;50
 barks up the wrong tree;60
 bark up the wrong tree;60
 barley water;50
@@ -12439,6 +12479,7 @@ Brannock;40;Brannock Device, the shoe-size gauge
 Brannon;40;Brannon Braga, "Star Trek" writer
 brans;30
 Branson;40;Richard Branson, Virgin founder / Missouri tourist town
+Bran Stark;50
 Brantford;40;Ontario city, Gretzky's hometown
 Branwell;40;Branwell Brontë, the sisters' brother
 bra pad;50
@@ -13466,6 +13507,8 @@ bull hockey;60
 Bulli;40;El Bulli, Ferran Adria's famed Catalan restaurant
 bulling;40
 Bullitt;40;Steve McQueen car-chase film
+bull market;60
+bull markets;60
 Bullmastiff;50;Dog breed
 Bullmastiffs;50;Big guard dogs
 bullnose;50
@@ -14141,6 +14184,8 @@ caisson;30;Watertight retaining structure, or artillery wagon
 caissons;30
 Cait;30
 Caitlin;50;Caitlin Clark
+Caitlin Clark;60
+Caitlin Clark effect;60
 Caitriona;40;Caitriona Balfe, "Outlander" star
 Caity;40;Caity Weaver, magazine journalist
 Caius;40;Kent's alias in "King Lear"
@@ -14948,6 +14993,7 @@ capital M;40
 capital N;40
 capital O;40
 capital of Afghanistan;20
+capital of Arkansas;20
 capital of Oregon;20
 capitalofturkey;0
 capital P;40
@@ -15588,6 +15634,9 @@ Cassius;50;Cassius Clay, or the "Julius Caesar" conspirator
 cassoulet;40;French stew
 cassoulets;40
 Casta;40;"Casta diva," Bellini aria / Laetitia Casta, model
+cast a dark shadow;60
+cast a dark shadow on;60
+cast a dark shadow over;60
 Castaneda;40;Carlos Castaneda, "The Teachings of Don Juan" author
 cast a shadow over;60
 cast a spell on;60
@@ -15607,6 +15656,9 @@ Castilian;50;Standard Spanish of Spain
 Castilians;40;People of Castile
 Castilla;40;Castile, in Spanish
 Castillo;40;Ana Castillo, Chicana novelist / Kate del Castillo, actress
+casting a dark shadow;60
+casting a dark shadow on;60
+casting a dark shadow over;60
 casting a shadow over;60
 casting a spell on;60
 cast-iron pot;50
@@ -15627,6 +15679,9 @@ Castries;40;Capital of Saint Lucia
 Castro;50;Fidel Castro, or San Francisco's Castro District
 Castrol;40
 Castros;40
+casts a dark shadow;60
+casts a dark shadow on;60
+casts a dark shadow over;60
 casts a shadow over;60
 casts a spell on;60
 casts lots;50
@@ -16429,6 +16484,8 @@ Chanakya;40;Ancient Indian statesman of the Arthashastra
 chanced on;40
 Chancellorsville;50;Civil War battle won by Lee
 chance on;40
+chance remark;60
+chance remarks;60
 chances are;60
 chances on;40
 chancing on;40
@@ -17168,6 +17225,7 @@ childbirth;60
 childbirths;60
 child care centre;20
 child care centres;20
+Childe Roland to the Dark Tower Came;60;Poem by Robert Browning
 Childers;40;Erskine Childers, "The Riddle of the Sands" author
 childhood memories;60
 childhood memory;60
@@ -18006,9 +18064,11 @@ Claritin;50;Allergy medication
 Clark;50;Clark Kent, Superman's alter ego / Caitlin Clark, WNBA star
 Clarke;40;Arthur C. Clarke, sci-fi author
 Clark Gable;50
+Clark Griswold;50;Chevy Chase's character in the "Vacation" movies
 Clarksburg;40;West Virginia city, Stonewall Jackson's birthplace
 Clarkson;50;Kelly Clarkson, first "American Idol" winner
 Clarksville;50;Tennessee city of "Last Train to" fame
+Clark W. Griswold;50;Chevy Chase's character in the "Vacation" movies
 claro;40
 claros;40
 clash of ideas;60
@@ -18264,9 +18324,11 @@ clips on;40
 clitoris;50
 CLIV;20
 Clive;50;Clive Barker, Clive Cussler, or Clive Davis
+Clive Barker;60
 Clive Owen;50
 cloaca;40
 cloacal;40
+cloak of darkness;60
 cloche;30;Bell-shaped glass cover, or hat
 cloches;30
 clocked out early;60
@@ -18385,6 +18447,8 @@ clown doctor;60;Entertainer who cheers up patients at hospitals
 clown doctors;60
 clownfish;50
 Clown Hall of Fame;60
+clown prince;60
+Clown Prince of Crime;60;The Joker
 Clown Prince of Denmark;60;Nickname for pianist Victor Borge
 clown shoes;60
 clown suit;60
