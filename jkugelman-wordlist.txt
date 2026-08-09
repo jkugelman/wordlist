@@ -7828,6 +7828,7 @@ baked Brie;50
 baked in;50
 baked ziti;50
 Bakelite;50;Early synthetic plastic
+Baker Boys;50
 Bakersfield;50;California city with its own country sound
 Baker Smurf;60
 Baker Street;60
@@ -10358,6 +10359,8 @@ bike polo;50
 bike polos;50
 bike race;60
 bike races;60
+biker bar;60
+biker bars;60
 biker chick;60
 biker chicks;60
 bike shop;60
@@ -12590,6 +12593,8 @@ breakbrake;0
 break bread;60
 break bread with;50
 break character;60
+breaker box;50
+breaker boxes;50
 Breakfast Baconator;60
 Breakfast Baconators;60
 breakfast buffet;50
@@ -19225,7 +19230,7 @@ comic book store;50
 comic book stores;50
 comic foil;60
 comic foils;60
-comic timing;60
+comic timing;50
 comida;40
 coming as;40
 coming at;40
@@ -23829,6 +23834,7 @@ dicta;40;Pronouncements
 Dictaphone;50;Dictation recorder
 Dictaphones;40;Office recording machines
 Dictee;30;Theresa Hak Kyung Cha's experimental book
+dictu;30;Mirabile dictu
 did;50
 did a backflip;50
 did a bit;60
@@ -25455,6 +25461,7 @@ Dorn;40;Michael Dorn who played Worf
 Dornan;40;Jamie Dornan who played Christian Grey in "Fifty Shades of Grey"
 Dorothea;30
 Dorothy;50;"The Wizard of Oz" heroine, or a common first name
+Dorothy Hodgkin;50;Nobel chemist (1910–1994)
 doro wat;30;Ethiopian chicken stew
 dorp;20;Village
 Dorr;30;Thomas Dorr, leader of the Dorr Rebellion
@@ -55233,7 +55240,7 @@ MacArthur;50;Douglas MacArthur, WWII general
 MacArthur Fellowship;60
 MacArthur Fellowships;60
 Macassar;20;1800s hair oil
-Macau;50;Chinese gambling hub
+Macau;40;Chinese gambling hub
 Macaulay;50;Macaulay Culkin, "Home Alone" star / Thomas Babington Macaulay, historian
 Macavity;40;T.S. Eliot's mystery cat
 Macbeth;50;Shakespeare tragedy
@@ -55266,7 +55273,8 @@ Macedonia;50;Balkan country
 Macedonian;50;Balkan native
 Macedonians;40;People of North Macedonia
 Macedonio;40;Macedonio Fernández, Argentine writer
-Maceo;40;Maceo Parker, funk saxophonist
+Maceo;30;Maceo Parker, funk saxophonist (born 1943)
+Maceo Parker;40;Funk saxophonist (born 1943)
 macer;20
 macerate;40
 macerated;40
@@ -56372,6 +56380,8 @@ Manichaean;50;Seeing everything in black and white
 Manichaeans;40;Followers of Mani's dualist faith
 Manichaeism;50;Dualistic ancient religion
 manic pixie dream girl;60;Trope
+manikin;40;Mannequin
+manikins;40;Mannequin
 Manila;50;Capital of the Philippines
 manilas;30
 manillas;40;???
@@ -59090,6 +59100,8 @@ minigames;60
 mini golf;50
 mini golf course;50
 mini golf courses;50
+minikin;40
+minikins;40
 mini Kit Kat;60
 mini Kit Kats;60
 mini lot;40;???
@@ -62743,7 +62755,9 @@ Nieman;40;Harvard's Nieman Foundation for Journalism
 Niemann;40;Hans Niemann, chess grandmaster
 Niemeyer;40;Oscar Niemeyer, Brasilia's architect
 niente;40;Nothing: It.
-Nier;40;2010 Square Enix RPG
+Nier;30;2010 Square Enix RPG
+Nier: Automata;50;2017 role-playing game
+Nier Automata;0
 Nieto;30;Mexican president, or "grandson"
 Nietzsche;60
 Nietzschean;50;Of the "Beyond Good and Evil" philosophy
@@ -63308,6 +63322,9 @@ nonets;40
 no news is good news;60
 nonfee;40
 Nongshim;40;Korean instant noodle brand
+non-Hodgkin lymphoma;40
+non-Hodgkins;40
+non-Hodgkin's lymphoma;40
 Noni;40;Tropical fruit / Anika Noni Rose, actress
 nonjudgemental;60
 nonlicit;20
@@ -66293,6 +66310,7 @@ opts for;40
 opts to;30
 opt to;30
 Opuntia;30;Prickly pear cactus genus
+Opus One;40
 O'Quinn;40;Terry O'Quinn, John Locke on "Lost"
 or;50
 Ora;40
@@ -90252,6 +90270,7 @@ takes the field;60
 takes the heat;60
 takes the L;60
 takes the oath;50
+takes the reins;60
 takes the scenic route;50
 takes the wheel;50
 takes time;50
@@ -90344,6 +90363,7 @@ taking the field;60
 taking the heat;60
 taking the L;60
 taking the oath;50
+taking the reins;60
 taking the scenic route;50
 taking the wheel;50
 taking time;50
@@ -94473,7 +94493,7 @@ to a T;30
 to a tee;40
 to a turn;30
 tob;20
-Toba;40;Volcanic lake in Sumatra
+Toba;20;Volcanic lake in Sumatra
 tobacco;50
 tobacco industry;50
 tobaccoless;50
@@ -94878,6 +94898,7 @@ took the field;60
 took the heat;60
 took the L;60
 took the oath;50
+took the reins;60
 took the scenic route;50
 took the wheel;50
 took time;50
