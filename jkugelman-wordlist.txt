@@ -11301,6 +11301,7 @@ bluesnarfing;60;Hacking of a device via bluetooth
 blue state;60
 blue states;60
 Blue Steel;50
+bluet;40;Bluish flower
 blue tang;50;Fish
 Blue Tango;50;Orchestra piece
 blue tangs;50
@@ -11318,6 +11319,7 @@ Bluetooth headset;60
 Bluetooth headsets;60
 Bluetooth receiver;50
 Bluetooth receivers;50
+bluets;40;Bluish flowers
 blue wall;60
 blue wall state;60
 blue wall states;60
@@ -28546,6 +28548,9 @@ end war;30;Green paint / long partial
 end with;40
 Endymion;50;Keats poem about the shepherd Selene loved
 ENE;30
+enema;10
+enema of;0
+enemas;10
 enemyalien;0
 enemy camp;60
 enemy camps;60
@@ -103068,7 +103073,8 @@ XIV;20
 XIX;20
 XJs;20
 xkcd;40
-XK-E;20
+XK-E;40
+XK-Es;40
 XL;40
 XLI;20
 XLII;20
