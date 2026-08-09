@@ -25111,6 +25111,7 @@ Donovan;50;Donovan, "Mellow Yellow" singer / Donovan McNabb, NFL quarterback
 Don Q;40;Don Q rum, named for Don Quixote
 don't act surprised;60
 don't argue;60
+don't ask;60
 don't ask me why;60
 don't at me;60
 don't be;60
