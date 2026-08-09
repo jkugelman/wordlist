@@ -20408,6 +20408,7 @@ CPR trainer;60
 CPR trainers;60
 CPU;40
 CPUs;40
+CQD;30;Morse code distress call in the early 20th century (come quick distress)
 Cr;40;Chromium symbol
 crab ball;60
 crab balls;60
@@ -36796,6 +36797,7 @@ goes on sale;60
 goes on tour;60
 goes on vacation;50
 goes out;50
+goes out on a limb;60
 goes out with;50
 goes over the line;60
 goes pfft;30
@@ -36944,6 +36946,7 @@ going on sale;60
 going on tour;60
 going on vacation;50
 going out;50
+going out on a limb;60
 going out with;50
 going over the line;60
 going pfft;30
@@ -37177,6 +37180,7 @@ gone native;60
 gone off kilter;50
 gone on;40
 gone out;40
+gone out on a limb;60
 gone over;40
 gone over the line;60
 gone past;40
@@ -37409,6 +37413,7 @@ goosier;30
 goosiest;30
 go out;50
 go out like a light;60
+go out on a limb;60
 gooutonatim;0
 go out with;50
 go over the line;60
@@ -62631,7 +62636,7 @@ Nimes;30;French city with Roman ruins
 nimiety;20;Overabundance
 Nimiipuu;40;The Nez Perce's name for themselves
 Nimitz;50;Chester Nimitz, WWII Pacific fleet admiral
-Nimona;40;"Nimona", ND Stevenson graphic novel
+Nimona;30;"Nimona", ND Stevenson graphic novel
 Nimoy;40
 Nimzowitsch;50;Aron Nimzowitsch, chess grandmaster
 Nin;40
@@ -66744,6 +66749,7 @@ out of the cold;50
 out of the frying pan;50
 out of the house;50
 out of thin air;50
+out on a limb;60
 out on bail;50
 outpoint;40;Defeat on points, in boxing
 outpointed;40
@@ -94138,7 +94144,7 @@ T-minus ten;60
 T-minus zero;60
 T minus zero;0
 TMNT;40;Teenage Mutant Ninja Turtles
-tms;20
+TMs;40
 TMZ;40
 TN;40
 tnage;0
@@ -100567,6 +100573,7 @@ went on tour;60
 went on vacation;50
 went out;50
 went out like a light;60
+went out on a limb;60
 went out with;50
 went over the line;60
 went pfft;30
@@ -102602,7 +102609,7 @@ Xicanx;40;Gender-neutral term for Chicano
 xie xie;40;Mandarin "thank you"
 XII;40
 XIII;30
-Ximena;40;Spanish given name, borne by El Cid's wife
+Ximena;30;Spanish given name, borne by El Cid's wife
 x in;30
 xinag;20
 Xing;40
