@@ -17267,6 +17267,7 @@ chippy;50
 Chips Ahoy;60
 chips and dip;60
 chips and dips;50
+chips and salsa;60
 chips up;50;Gains chips, in a poker tournament
 chip up;50;Gain chips, in a poker tournament
 Chiquita;50;Banana brand
@@ -17604,6 +17605,7 @@ Chun;40;Wing Chun, martial art
 Chung;40;Connie Chung, news anchor
 Chungking;40;Old spelling of Chongqing, and a Wong Kar-wai film
 Chunky A;30;Arsenio's musical persona Chunky A
+chunky salsa;60
 Chunnel;50;English Channel tunnel
 chupacabra;60
 chupacabras;60
@@ -19922,6 +19924,7 @@ CorningWare;50;Bakeware brand
 Cornish;50;Of Cornwall, or the game hen
 corn pit;40
 corn pits;40
+corn salsa;60
 corn stunt;50;Corn disease
 corn stunt disease;50
 corn sweat;60
@@ -42656,6 +42659,7 @@ Hot Pocket;60
 Hot Pockets;60
 hot pursuit;60
 hot sake;50
+hot salsa;60
 hot sauce;50
 hot sauces;50
 (Hot Shit) Country Grammar;10;2000 single by Nelly
@@ -45886,6 +45890,7 @@ ironclad rules;60
 ironclads;60
 ironclad warship;60
 ironclad warships;60
+iron claw;60
 iron cross;50
 iron crosses;50
 iron deficient;50
@@ -47853,6 +47858,7 @@ John Cage;60
 John Cameron Swayze;50;News commentator and game show panelist (1906–1995)
 John Cena;60
 John Cheever;50;Novelist John Cheever (1912-82)
+John Endicott;40;Governor of Massachusetts Bay Colony (1600–1664)
 Johnetta;40;Johnetta Elzie, activist
 John Fred;50
 John Frusciante;50;Red Hot Chili Peppers guitarist
@@ -56125,6 +56131,7 @@ mango chutney;50
 mango jam;50
 Mangold;40;James Mangold, "Walk the Line" director
 Mangolte;40;Babette Mangolte, avant-garde cinematographer
+mango salsa;60
 Mango Smurf;20;???
 mango sticky rice;60
 Mango Tango;60;Cocktail or dessert
@@ -58676,6 +58683,7 @@ Milanos;40;Pepperidge Farm cookies
 milch cow;40;Cow kept for milk
 mild breeze;50
 Mildred;50;Old-fashioned first name, as in "Mildred Pierce"
+mild salsa;60
 mile marker;60
 mile markers;60
 miler;50;One that competes in mile races, or ___-miler
@@ -65339,6 +65347,7 @@ Ondra;40;Adam Ondra
 on drugs;10
 on DVD;40
 one;50
+one-A;40
 one-a-cat;20;Old ball game
 one acre;40
 one-act opera;20;Green paint?
@@ -65726,6 +65735,7 @@ on with it;60
 Onwurah;40;Ngozi Onwurah, British-Nigerian filmmaker
 onyx;60
 onyxes;40
+onze;40;Eleven, in French
 Oobi;30;Children's television show
 oocyte;40
 oocytes;40
@@ -67927,12 +67937,14 @@ passade;40;Horse dressage move
 passades;40
 passado;30;Fencing move
 Passaic;40;New Jersey city
+pass a law;40
 Passamaquoddy;50;Indigenous nation of Maine
 pass as;40
 Passat;40;VW sedan
 Passats;40;VW models
 pass by;40
 Passchendaele;50;Muddy WWI battle
+passed a law;40
 passed as;40
 passed by;40
 passed for;40
@@ -67944,6 +67956,7 @@ passed the baton;50
 passed the popcorn;60
 passed the smell test;60
 passed to;40
+passes a law;40
 passes as;40
 passes by;40
 passes for;40
@@ -67960,6 +67973,7 @@ pass for;40
 pass gas;40
 passim;30;Here and there, used in footnotes
 passing;50
+passing a law;40
 passing as;40
 passing by;40
 passing for;40
@@ -73275,6 +73289,7 @@ Queen of Cups;60;Tarot card
 queen of diamonds;50
 queen of hearts;60
 Queen of Jazz;60
+Queen of Salsa;60
 queen of spades;50
 Queen of Swords;60;Tarot card
 Queen of Wands;60;Tarot card
@@ -76941,6 +76956,7 @@ rip to pieces;60
 rip to shreds;60
 RiRi;40;Rihanna
 ris;20
+RISD;40;Rhode Island School of Design
 risdon;30;???
 rise again;40
 Riseborough;40;Andrea Riseborough, actress
@@ -78964,6 +78980,10 @@ salsa clubs;60
 salsa dance;60
 salsa danced;60
 salsa dancer;60
+salsa dancers;60
+salsa dancing;60
+salsa music;60
+salsa verde;60
 sal soda;40;Sal soda aka washing soda (sodium carbonate)
 salt air;30
 Saltalamacchia;50;Jarrod Saltalamacchia, holder of baseball's longest surname
@@ -92257,6 +92277,7 @@ their;50
 the IRA;20
 their loss;60
 the Iron Age;40
+The Iron Claw;60
 the Iron Cross;40
 The Iron Giant;60
 the Iron Horse;40
@@ -93642,7 +93663,8 @@ ties to;40
 tie tac;20;Tie pin
 tie the knot;50
 tie to;40
-Tifa;40;Tifa Lockhart, "Final Fantasy VII" heroine
+Tifa;20;Tifa Lockhart, "Final Fantasy VII" heroine
+Tifa Lockhart;40;Final Fantasy VII character
 Tiffani;40;Tiffani Thiessen, "Saved by the Bell" actress
 Tiffani-Amber Thiessen;50
 Tiffany;50;Tiffany Haddish, comedian / the jeweler
@@ -99282,7 +99304,8 @@ WA;40
 waaaaaaaistband;0
 WAAC;30
 WAACs;30
-Waad;40;Waad Al-Kateab, "For Sama" documentarian
+Waad;30;Waad Al-Kateab, "For Sama" documentarian
+Waad Al-Kateab;40;"For Sama" documentarian
 waah;30
 Wabanaki;40;Northeastern Native American confederacy
 Wabanakis;40;Northeastern Algonquian peoples
@@ -100466,6 +100489,7 @@ Wenger;30;Arsène Wenger, manager of Arsenal from 1996 to 2018
 Wen Jiabao;40
 Wenjun;40;Ju Wenjun, women's world chess champion
 Wenner;40;Jann Wenner, Rolling Stone founder
+wens;30
 Wensleydale;50;Wallace and Gromit's favorite cheese
 went all in;50
 went all out;50
