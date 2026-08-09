@@ -26131,20 +26131,20 @@ dromedary camels;50
 dromes;30
 drone bee;50
 drone bees;50
-droned on;40
-droned on and on;50
-drone on;40
-drone on and on;50
-droner;40
-droners;40
+droned on;50
+droned on and on;60
+drone on;50
+drone on and on;60
+droner;50
+droners;50
 drone shot;60
 drone shots;60
-drones on;40
-drones on and on;50
+drones on;50
+drones on and on;60
 drongo;20;Black bird
 drongos;20;Black birds
-droning on;40
-droning on and on;50
+droning on;50
+droning on and on;60
 dronish;40
 Drood;40;Dickens's Edwin Drood
 droodle;40;Visual puzzle
@@ -43867,7 +43867,7 @@ ictuses;20
 ICU;40
 ICU nurse;50
 ICU nurses;50
-ICUs;50;Hospital critical care units
+ICUs;40;Hospital critical care units
 icy;50
 Icy Sea;30;Arctic Ocean, on old maps
 ID;50
