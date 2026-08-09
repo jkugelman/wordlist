@@ -13633,7 +13633,7 @@ Buonaparte;40;Italian spelling of Bonaparte
 Buonarroti;40;Michelangelo Buonarroti, "David" sculptor
 buono;40
 bupkis;60
-bur;20
+bur;40
 Burana;40;"Carmina Burana"
 Buraq;40;Steed that carried Muhammad in Islamic tradition
 Burbage;40;Richard Burbage, Shakespeare's leading man
@@ -13720,6 +13720,7 @@ Burroughs;50;William S. Burroughs, "Naked Lunch" author / Edgar Rice Burroughs, 
 burrowing owl;60;Ground-based bird (via Kathy Simonson)
 burrowing owls;60
 Burruss;40;Kandi Burruss, singer and "Real Housewives" star
+burs;40
 bursitis;40;Joint inflammation
 bursted in on;0
 burster;30
@@ -32123,6 +32124,8 @@ Finsteraarhorn;50;Highest peak in the Bernese Alps
 Fiona;50;Fiona Apple, singer / the "Shrek" princess
 Fionn;40;Fionn mac Cumhaill, Irish mythic hero
 Fionnula;40;Fionnula Flanagan, Irish actress
+fior;30
+fior di latte;40;Style of mozzarella or gelato with no added flavor
 Fiorello;40;Fiorello La Guardia, NYC mayor
 Fiorentino;40;Linda Fiorentino, "The Last Seduction" star
 Fiorina;40;Carly Fiorina, HP CEO and presidential candidate
@@ -35814,6 +35817,9 @@ get one's goat;60
 get one's hackles up;60
 get one's house in order;60
 get one's shit together;10
+get on in the world;60
+get on in years;60
+get on it;60
 get onto;40
 get out alive;60
 get out of a jam;60
@@ -35910,6 +35916,8 @@ gets one's hackles up;60
 gets one's house in order;60
 gets one's mitts on;60
 gets one's shit together;10
+gets on in the world;60
+gets on in years;60
 gets on it;50
 gets onto;40
 get sore;40
@@ -36038,6 +36046,8 @@ getting one's goat;60
 getting one's hackles up;60
 getting one's house in order;60
 getting one's shit together;10
+getting on in the world;60
+getting on in years;60
 getting onto;40
 getting out alive;60
 getting out of a jam;60
@@ -37815,6 +37825,8 @@ got on board;50
 got one's goat;60
 got one's hackles up;60
 got one's shit together;10
+got on in the world;60
+got on in years;60
 got onto;40
 go too far;60
 go-tos;50
@@ -37849,6 +37861,7 @@ gottenhomesafe;50
 gotten in;40
 gotten one's hackles up;60
 gotten one's shit together;10
+gotten on in the world;60
 gotten the wrong idea;60
 gotten to the bottom of;60
 Gotterdammerung;50;Götterdämmerung, Wagner's "Ring" finale
@@ -39486,6 +39499,9 @@ Hainanese;40;Of Hainan, as in chicken rice
 Hainault;40;Medieval county in the Low Countries
 Haines;40;Emily Haines, Metric singer / Sara Haines, TV host
 Haing;40;Haing S. Ngor, "The Killing Fields" actor
+Haing Ngor;40;"The Killing Fields" actor
+Haing S. Ngor;40;"The Killing Fields" actor
+Haing S Ngor;0
 Hainish;40;Ursula K. Le Guin's science fiction cycle
 Haiphong;40;Vietnamese port city
 hairdresser;60
@@ -47011,6 +47027,7 @@ I've got your number;60
 I've had it;60
 I've had it up to here;60
 I've had it with you;60
+I've never tried it;60
 I've no idea;60
 I've only just begun;60
 I've only myself to blame;60
@@ -52740,6 +52757,7 @@ let's get cracking;60
 let's get down to brass tacks;60
 let's get into it;60
 Let's Get It Started;60
+let's get on it;60
 let's get on with it;60
 let's get out of here;60
 let's get outta here;60
@@ -62664,7 +62682,7 @@ Ngaio;40;Mystery writer Ngaio Marsh, one of the "Queens of Crime" along with Aga
 Ngerulmud;30;Capital of Palau
 NGL;30;Not used in NYT
 NGO;40
-Ngor;40;Haing S. Ngor, "The Killing Fields" actor
+Ngor;30;Haing S. Ngor, "The Killing Fields" actor
 Ngorongoro;50;Tanzanian crater and conservation area
 NGOs;40
 Ngozi;40;Chimamanda Ngozi Adichie, novelist / Ngozi Okonjo-Iweala, WTO head
@@ -74951,6 +74969,7 @@ reallotting;30
 really into;50
 real man;40
 real mature;60
+real me;50
 real men;40
 Real Men of Genius;60
 realness;40
@@ -91757,6 +91776,7 @@ Terp;40
 terpin;20
 Terps;40
 Terpsichore;50;Muse of dance
+terr.;40;Territory
 terra;40
 terracing;30
 terracotta tiles;50
@@ -95975,6 +95995,7 @@ Tri Delt;40;Women's fraternity ΔΔΔ, colloquially
 Tridentine;40;Tridentine Mass, the old Latin rite
 Triduum;30;Christian "Three Days" before Easter
 tried for;40
+tried it;40
 tried on;40
 tried one's best;60
 tried one's best at;40
@@ -95987,6 +96008,7 @@ triennials;40
 Trier;30;Judge, e.g.
 triers;30
 tries for;40
+tries it;40
 tries on;40
 tries one's best;60
 tries one's best at;40
@@ -96092,6 +96114,7 @@ triturating;30
 triumvir;40;The three people running a triumvirate
 triumvirs;40
 triune;40;Three in one
+triunes;30
 Trivago;50;Hotel search site
 trivalent;40;Having a chemical valence of three
 Trivedi;40;Lina Trivedi, Beanie Babies web designer
@@ -96345,6 +96368,7 @@ tryharding;60
 tryhards;60
 try hard to please someone;20
 trying for;40
+trying it;40
 trying on;40
 trying one's best;60
 trying one's best at;40
@@ -98348,7 +98372,7 @@ US Supreme Court;50
 USS Wasp;30
 usted;40
 US Ten;30
-US Terr;20
+US Terr.;30
 Ustinov;40;Peter Ustinov, Oscar-winning actor
 US tour;40;What musicians embark on
 US tours;40
@@ -100675,6 +100699,8 @@ weenier;30;Tinier
 weenie roast;50
 weenie roasts;50
 weeniest;30
+wee one;50
+wee ones;50
 weep for;40
 weeping and gnashing of teeth;60
 weeping for;40
