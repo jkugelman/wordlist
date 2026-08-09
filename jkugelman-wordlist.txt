@@ -91170,6 +91170,7 @@ TD run;40
 TD runs;40
 TDs;40
 tea;50
+Téa;40;Actress Téa Leoni
 Tea Act;50
 tea basket;50
 tea baskets;50
@@ -91213,6 +91214,8 @@ tea infusers;60
 tea kettle;60
 tea kettles;60
 tea leaves;60
+Téa Leoni;50
+Tea Leoni;0
 tea light;50
 tea lights;50
 teals;30
