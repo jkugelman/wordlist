@@ -20987,6 +20987,8 @@ cross-country skiing;60
 cross-country skis;60
 cross-country team;60
 cross-country teams;60
+cross-cutting concern;60
+cross-cutting concerns;60
 crosse;30;La crosse stick
 crossed off the list;60
 crossed one's mind;50
