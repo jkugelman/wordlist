@@ -2095,6 +2095,7 @@ Ahriman;40;Zoroastrian spirit of evil
 AHS;40
 ah so;10
 Ahsoka;50;Ahsoka Tano, "Star Wars" Jedi
+Ahsoka Tano;40;"Star Wars" Jedi
 ahtawaih;0
 ah that's the spot;60
 ah that's the stuff;60
@@ -3356,7 +3357,9 @@ Amadeus;50;Mozart's middle name, and the 1984 Best Picture
 Amadis;40;"Amadis of Gaul" chivalric romance hero
 Amado;40;Jorge Amado, Brazilian novelist
 Amadou;40;West African given name, or tinder fungus
+amah;30;Wet nurse
 Amahl;30;"___ and the Night Visitors"
+amahs;40;Wet nurses
 A major;50
 Amal;40;Amal Clooney
 Amala;30;Amala Dlamini aka Doja Cat
@@ -3400,6 +3403,7 @@ AMAs;40
 amassable;40
 amasser;50
 amassers;50
+amat;30
 Amaterasu;40;Japanese sun goddess
 amateur boxer;50
 amateur boxers;50
@@ -11379,6 +11383,8 @@ b'nai;30
 B natural;50
 B natural scale;30
 B neg;20
+BNSF;20
+BNSF Railway;40
 bo;40
 boa;50
 boa constrictor;60
@@ -12341,7 +12347,7 @@ Boyden;30
 Boyega;40;John Boyega, Finn in the "Star Wars" sequels
 Boyer;40;Charles Boyer, French leading man
 Boyle;40;Danny Boyle, "Slumdog Millionaire" director / Boyle's law
-Boyne;40;Irish river, site of a 1690 battle
+Boyne;30;Irish river, site of a 1690 battle
 Boynton;30;Boynton Beach, FL (pop. 80,000)
 boy oh boy;60
 boy oh boy oh boy;60
@@ -13560,7 +13566,8 @@ bully for us;60
 bully for you;60
 Bulova;40;Luxury watch brand
 Bulovas;40;Bulova watches
-Bulow;40;Hans von Bülow, conductor / Claus von Bülow
+Bülow;30;Hans von Bülow, conductor / Claus von Bülow
+Bulow;0
 Bulwer;40;Edward Bulwer-Lytton, "It was a dark and stormy night" author
 Bulworth;40;Warren Beatty political satire
 bum;50
@@ -14917,6 +14924,7 @@ can't stop won't stop;60
 can't turn that down;50
 can't win;50
 Canty;40;Tom Canty, the pauper in "The Prince and the Pauper"
+Can't You Hear Me Knocking;60;1971 song by the Rolling Stones
 can't you see?;60
 can't you see;0
 can't you see I'm busy?;60
@@ -25148,6 +25156,7 @@ Dominick;40;Dominick Dunne, "Vanity Fair" crime writer
 dominie;20;Clergyman
 dominies;20;Clergyman
 Dominik;40;Dominik Hasek, Hall of Fame goalie / Andrew Dominik, director
+Dominik Hasek;40;Hall of Fame NHL goalie
 Dominique;50;Dominique Wilkins, NBA's "Human Highlight Film"
 domino effect;60
 domino effects;50;Weird plural
@@ -25678,6 +25687,7 @@ do you dare me?;60
 do you even lift bro;60
 do you get that a lot?;60
 do you hear me?;50
+do you hear me;0
 do you hear that?;60
 do you hear that;0
 Do You Hear the People Sing?;60;Song from "Les Misérables"
@@ -40238,7 +40248,8 @@ has designs on;50
 has dibs on;50
 has done;30
 Hasdrubal;40;Carthaginian general, Hannibal's brother
-Hasek;40;Dominik Hasek, Hall of Fame goalie
+Hašek;40;Dominik Hašek, Hall of Fame NHL goalie
+Hasek;0
 has every intention;60
 has every intention of;50
 has eyes for;50
@@ -41493,6 +41504,7 @@ Hesperus;40;Evening star, or Longfellow's wrecked schooner
 Hess;40
 he's safe;50;Baseball shout???
 Hesse;40
+Hesseman;40; Howard Hesseman, actor in "WKRP in Cincinatti" and "Head of the Class"
 Hessian;30
 Hessians;50;German mercenaries of the Revolutionary War
 Hester;40;Hester Prynne
@@ -43043,6 +43055,7 @@ how about no;60
 how about we start over?;60
 Howard;50;Ron Howard, director / Howard University
 Howardena;40;Howardena Pindell, abstract painter
+Howard Hesseman;40;Actor in "WKRP in Cincinatti" and "Head of the Class"
 Howards;40;"Howards End" novel
 how bad could it be;60
 how bizarre;60
@@ -47538,6 +47551,8 @@ Jarmusch;40;Jim Jarmusch, indie filmmaker
 Jarndyce;40;Jarndyce and Jarndyce, the endless "Bleak House" suit
 Jaromir;40;Jaromir Jagr, NHL scoring great
 Jaroslav;40;Jaroslav Hasek, "Good Soldier Svejk" author / Jaroslav Seifert, Nobel poet
+Jaroslav Hašek;40;Czech humorist, satirist, writer and anarchist
+Jaroslav Hasek;0
 Jarre;40;Maurice Jarre, film composer / Jean-Michel Jarre, electronic musician
 Jarreau;40;1980s R&B singer Al Jarreau
 jarred loose;50
@@ -51919,7 +51934,7 @@ Lazarova;40;"Marketa Lazarova", Czech epic film
 lazars;20
 Lazarus;50;Biblical man raised from the dead / Emma Lazarus, Statue of Liberty poet
 Lazenby;40;George Lazenby, one-film James Bond
-Lazer;40;Major Lazer, EDM group
+Lazer;30;Major Lazer, EDM group
 lazuli;40
 lazybones;60
 lazy rhyme;60
@@ -53424,6 +53439,7 @@ lineal;40;In a direct line of descent or ancestry, a lineal descendant
 lineament;40;Distinctive facial feature
 lineaments;40
 Linear A;40
+Linear B;40
 linebacker;60
 linebackers;60
 line cut;40;Black and white engraving
@@ -56357,6 +56373,7 @@ Man Behind the Curtain;60
 man behind the mask;60
 man bun;60
 man buns;60
+man cave;60
 Mancha;40;Man of La Mancha
 Manchester;50;English city with two big football clubs
 Manchu;40;Chinese people of the Qing dynasty
@@ -59311,6 +59328,8 @@ mint condition;50
 minter;30
 minters;30
 Mintz;40;Christopher Mintz-Plasse, McLovin in "Superbad"
+minuend;40
+minuends;40
 Minuit;20;Peter who bought Manhattan in the 1600s
 minuscule amount;50
 minuted;40
@@ -60841,6 +60860,7 @@ msec;40
 msecs;40
 MSG;40
 m'sieur;40
+MS MR;20
 MSN;40
 Ms. Noodle;40;"Sesame Street" character
 M Squad;30;Old TV show
@@ -67889,6 +67909,8 @@ Paolozzi;40;Eduardo Paolozzi, pop-art sculptor
 pap;50
 Papa Bear;60
 papa bears;60
+Papa, Can You Hear Me?;50;1984 single by Barbra Streisand
+Papa Can You Hear Me;0
 Papagena;40;"The Magic Flute" character
 Papageno;40;Birdcatcher in "The Magic Flute"
 Papa Haydn;50
@@ -71372,6 +71394,8 @@ pongee;30;Soft fabric [rare]
 pongid;20;Obsolete primate taxon
 pongids;20
 Pongo;40;Main dog in "One Hundred and One Dalmatians", or orangutan [never used in Shortz era]
+poniard;30;Dagger
+poniards;30;Daggers
 pons;20;Bridge of tissue: Br.
 Ponselle;40;???
 pont;40
@@ -72005,7 +72029,10 @@ Powys;40;John Cowper Powys, novelist, or a Welsh county
 pox;50
 poxes;50
 Poyang;40;China's largest freshwater lake
-Poznan;40;Polish city
+Poznań;30;Polish city
+Poznan;0
+Poznań, Poland;40
+Poznan Poland;0
 pozole;40;Mexican stew
 PP;40
 ppd;20
@@ -75406,7 +75433,7 @@ redock;30
 redocked;30
 redocking;30
 redocks;30
-Redon;40;Odilon Redon, French symbolist painter
+Redon;30;Odilon Redon, French symbolist painter
 Redondo;40;Redondo Beach, California
 redonkulous;60
 redose;20
@@ -85070,7 +85097,7 @@ sno-cone;50
 sno-cones;50
 Snodgrass;40;W.D. Snodgrass, Pulitzer-winning poet
 Snoke;40;Supreme Leader Snoke, "Star Wars" villain
-Snoo;40;Reddit mascot
+Snoo;30;Reddit mascot
 snood;40;Female headgear
 snoods;40;Female headgear
 snook;30;Fish, or gesture
@@ -90705,9 +90732,10 @@ tanning beds;50
 tanning salon;50
 tanning salons;50
 tannish;40
-Tano;40;Ahsoka Tano, "Star Wars" Jedi
+Tano;30;Ahsoka Tano, "Star Wars" Jedi
 tanoak;40
 Tanooki;40;Mario power-up suit
+Tano Y Chamorro;40
 tanpura;30;Indian instrument
 tanpuras;30
 Tanqueray;50;Gin brand
@@ -97402,6 +97430,7 @@ uhs;40
 Uhura;40
 Uhuru;20;Swahili for "freedom"
 UI;40
+UIC;20
 uie;20
 Uinta;30;Utah mountain range
 Uintas;30
@@ -97826,7 +97855,8 @@ unnailing;30
 unnails;30
 unnear;30
 unneat;30;Untidy, sounds unnatural?
-uno;50
+Uno;50
+uno;40
 Unocal;20
 uno dos;30;???
 uno dos tres;40
@@ -100524,9 +100554,13 @@ wear the trousers;60
 wear upon;40
 weasand;20;Throat, archaic
 weasands;20
+weaseled in;50
 weaseled out of;40
+weasel in;50
+weaseling in;50
 weaseling out of;40
 weasel out of;40
+weasels in;50
 weasels out of;40
 weasel word;60
 weasel words;60
@@ -103878,10 +103912,12 @@ you haven't changed one bit;60
 you have only yourself to blame;60
 you have some nerve;60
 you have the wrong idea;60
+you hear?;50
 you heard me;60
 you heard me right;60
 you heard that right;60
-you hear me;60
+you hear me?;60
+you hear me;0
 you idiot;60
 you interested?;60
 you jinxed it;60
@@ -104110,7 +104146,8 @@ Yreka;20;California town with a palindromic bakery
 yrs;40
 Y's;40;Letter plurals
 Ysaye;30;Eugène Ysaÿe, Belgian violinist and composer
-Yser;40;Yser River, WWI battle site in Belgium
+Yser;30;Yser River, WWI battle site in Belgium
+Yser River;40
 Y shape;30
 Y-shaped;30
 Y shapes;30
