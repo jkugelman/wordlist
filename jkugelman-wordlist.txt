@@ -6968,6 +6968,8 @@ autodidact;60
 autodidactic;60
 autodidacticism;60
 autodidacts;60
+autoerotic;10
+autoeroticism;10
 autogiro;40;Type of plane
 autogyro;40
 auto industry;60
@@ -29039,13 +29041,38 @@ eroteme;30;Rhetorical question
 erotic;50
 erotica;60
 erotical;30
+erotically charged;60
 erotic art;60
+erotic artist;60
+erotic artists;60
+erotic comedies;60
+erotic comedy;60
+erotic dance;60
+erotic dancer;60
+erotic dancers;60
+erotic dances;60
+erotic dancing;60
+erotic fiction;60
 erotic film;60
 erotic films;60
 eroticism;50
+erotic lactation;10
+erotic literature;60
 erotic novel;60
+erotic novelist;60
+erotic novelists;60
 erotic novels;60
-erotics;30
+erotic photo;60
+erotic photograph;60
+erotic photographs;60
+erotic photography;60
+erotic photos;60
+erotics;40
+erotic stories;60
+erotic story;60
+erotic thriller;60
+erotic thrillers;60
+erotic torture;10
 erotization;40
 erotize;40;Eroticize
 erotized;40
