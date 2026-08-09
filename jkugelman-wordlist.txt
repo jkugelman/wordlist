@@ -13944,6 +13944,7 @@ by the same token;60
 By the Sea;50
 Bytown;40;Ottawa's original name
 BYU;40
+Byung-hun;40;Lee Byung-hun, actor in "Squid Game" and "KPop Demon Hunters"
 Byzantine;50
 Byzantine Empire;50
 Byzantines;50;People of the Eastern Roman Empire
@@ -29402,8 +29403,11 @@ etatist;20;Statist
 etavilas;0
 etc.;50
 etceteras;40;Plural???
+Etch A;40;Etch A Sketch
 etchant;30;Corrosive acid used in etching
 etchants;30;Corrosive acids used in etching
+Etch A Sketch;60
+Etch A Sketches;60
 etched in;40
 etcher;40
 etchers;40
@@ -40065,6 +40069,8 @@ Hasselhoff;50;David Hasselhoff, "Baywatch" star
 hassium;40;Element 108
 hasta;40
 hasta la vista baby;60
+hasta mañana;50
+hasta manana;0
 hastate;20
 haste makes waste;60
 hastened to;40
@@ -51970,6 +51976,7 @@ led up;40
 led up to;40
 Lee;50
 Lee Aaker;30;???
+Lee Byung-hun;40;Actor in "Squid Game" and "KPop Demon Hunters"
 leech bite;40;Green paint from Broda
 leech bites;40;Green paint from Broda
 leeched onto;40
@@ -56058,6 +56065,7 @@ managing partner;50
 Managua;40;Capital of Nicaragua
 man alive;60
 Manama;40;Capital of Bahrain
+mañana;40;Tomorrow, in Spanish
 mañanas;30
 man and wife;50
 Mananitas;40;"Las Mañanitas," Mexican birthday song
@@ -61134,6 +61142,8 @@ Naderite;40
 Naderites;40
 Nader's;20;Nader's Raiders consumer group
 Nadia;50;Nadia Comaneci, gymnast / Nadia Boulanger, composition teacher
+Nadie Sabe Lo Que Va a Pasar Mañana;50;2023 studio album by Bad Bunny
+Nadie Sabe Lo Que Va a Pasar Manana;0
 Nadine;40;Nadine Gordimer, Nobel-winning novelist
 Nadines;30;Plural name
 Nadiya;40;Nadiya Hussain, "Great British Bake Off" winner
@@ -80145,6 +80155,7 @@ Scotians;40;Only in "Nova Scotians"
 Scotland;50;Land of lochs and kilts
 Scots;50;Highlanders and Lowlanders
 Scott;50;Ridley Scott, director / Scott Joplin, ragtime composer
+Scott Disick;40;"Keeping Up with the Kardashians" cast member
 Scotti;30;Baritone Antonio Scotti
 Scottie;40;Scottie Pippen, Bulls forward, or a terrier
 Scotties;40;Scottish terriers
@@ -84374,6 +84385,7 @@ SMERSH;20;Russian counterintelligence organization
 Smetana;40;Bedřich Smetana, Czech composer of "The Moldau"
 smew;30;Type of duck
 smews;30
+SMFH;10
 SMH;40
 Smilax;30;Plant genus
 smile at;40
@@ -89744,7 +89756,8 @@ Tagaq;40;Tanya Tagaq, Inuk throat singer
 tagboard;30
 tagged along;50
 tagging along;50
-tagine;40
+tagine;30;Moroccan stew
+tagines;30;Moroccan stews
 tagline;60
 taglines;60
 Tagore;30;1913 Literature Nobelist
@@ -93893,6 +93906,8 @@ Timothy Olyphant;50
 Tim Reid;30;Actor
 Tim Robinson;60
 Tim's;30
+Tim Tam;40;Australian chocolate biscuit
+Tim Tams;40;Australian chocolate biscuits
 Timur;40;Turco-Mongol conqueror, aka Tamerlane
 Timurid;40;Tamerlane's dynasty
 Tim Walz;50;Kamala Harris's VP candidate
@@ -102013,7 +102028,8 @@ Wolitzer;40;Meg Wolitzer, novelist of "The Interestings"
 Woll;40;Deborah Ann Woll, "Daredevil" actress
 Wollongong;50;Australian coastal city
 Wollstonecraft;50;Mary Wollstonecraft, "A Vindication of the Rights of Woman" author
-Wolof;40;West African language and people
+Wolof;30;West African language and people
+Wolof language;40;Language of Senegal, the Gambia, and Mauritania
 Wolseley;40;British car marque / Garnet Wolseley, Victorian general
 Wolsey;40;Thomas Wolsey, cardinal under Henry VIII
 Wolverhampton;50;English city, home of the Wolves
@@ -103839,7 +103855,8 @@ Zamyatin;40;Yevgeny Zamyatin, author of "We"
 Zamzam;40;Sacred well in Mecca
 Zandt;40;Steven Van Zandt, E Street Band guitarist / Townes Van Zandt, singer-songwriter
 Zane;40;Zane Grey, Western novelist / Billy Zane, actor
-Zanele;40;Zanele Muholi, South African photographer
+Zanele;30;Zanele Muholi, South African photographer
+Zanele Muholi;40;South African photographer
 Zanesville;40;Ohio city on the Muskingum
 Zangwill;40;Israel Zangwill, "The Melting Pot" playwright
 Zantac;40;Heartburn drug brand
