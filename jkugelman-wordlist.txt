@@ -19119,6 +19119,7 @@ comedic foil;60
 comedic foils;60
 comedic prop;50
 comedic props;50
+comedic timing;60
 Comedie;40;Comédie-Française, Paris theater
 comedo;20
 come down to earth;60
@@ -19221,6 +19222,7 @@ comic book store;50
 comic book stores;50
 comic foil;60
 comic foils;60
+comic timing;60
 comida;40
 coming as;40
 coming at;40
