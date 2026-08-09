@@ -92290,7 +92290,8 @@ the clock's ticking;60;"Hurry up!"
 The Clone Wars;60
 the cloud;40
 The Cloverfield Paradox;60
-the Clown Prince of Denmark;60;Nickname for pianist Victor Borge
+The Clown Prince of Crime;60;The Joker
+The Clown Prince of Denmark;60;Nickname for pianist Victor Borge
 the coast;40
 the coast is clear;60
 The Colonel;30;???
