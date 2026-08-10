@@ -64580,6 +64580,8 @@ nutrifying;40;Supplying nutrients to
 nutriment;40
 nutriments;40
 nutritional value;60
+nutsack;10
+nutsacks;10
 nuts for;40
 nuts over;50
 nuts to that;60
