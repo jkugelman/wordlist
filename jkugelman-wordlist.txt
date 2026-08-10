@@ -47487,6 +47487,8 @@ Jagiellons;40;Polish-Lithuanian royal dynasty
 Jaglom;30;Henry Jaglom, indie filmmaker
 Jagmeet;40;Jagmeet Singh, Canadian NDP leader
 Jagr;40;Jaromir Jagr, NHL scoring great
+jaguar;50
+Jaguar;50;British motor car manufacturer
 jaguar cub;50
 jaguar cubs;50
 Jah;40;Rastafarian god
@@ -61568,6 +61570,7 @@ myheart;0
 My Heart Has a Mind of Its Own;50;1960 single by Connie Francis
 Myhrvold;40;Nathan Myhrvold, "Modernist Cuisine" author
 my idea;20;Green paint
+my job here is done;50
 my kingdom for a horse;60
 Mykki;40;Mykki Blanco, rapper and performance artist
 Mykonos;50;Greek party island
@@ -61636,6 +61639,7 @@ mythologicalgod;0
 Mytilene;40;Capital of Lesbos, Greece
 my water broke;60
 my water just broke;60
+my work here is done;60
 N;40
 Na;40
 NAACP;40
