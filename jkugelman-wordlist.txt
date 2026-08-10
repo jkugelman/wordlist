@@ -1973,7 +1973,8 @@ Agnes Denes;50;Conceptual artist based in New York City
 Agnesi;40;Maria Gaetana Agnesi, mathematician of the witch of Agnesi curve
 Agnes Varda;40;Director Rex loves (see 11/6/24)
 Agnetha;40;Agnetha Fältskog of ABBA
-Agnew;50;Spiro Agnew, Nixon's VP
+Agnew;40;Spiro Agnew, Nixon's VP
+Agnews;30;Plural name
 Agni;30;Hindu fire god
 Agnieszka;40;Agnieszka Holland, Polish director / Agnieszka Radwanska, tennis star
 Agnolo;30;Agnolo Bronzino, Florentine Mannerist painter (1503–1572)
@@ -16001,6 +16002,7 @@ C averages;40
 Cavetown;40;Robin Skinner's bedroom-pop project
 Cavett;40;Dick Cavett, talk show host
 caviar;50
+caviar dreams;60;Robin Leach sign-off
 cavies;30;Guinea pigs
 cavil;40;Complain
 caviled;40
@@ -16529,6 +16531,8 @@ champagne bottle;60
 champagne bottles;60
 champagne toast;60
 champagne toasts;60
+champagne wishes;60;Robin Leach sign-off
+champagne wishes and caviar dreams;60;Robin Leach sign-off
 Champaign;40;Illinois college city
 Champale;40;Malt liquor brand
 championship belt;60
@@ -22019,7 +22023,7 @@ D'Amelio;40;Charli D'Amelio, TikTok star
 D'Amelios;40;Charli and Dixie D'Amelio, TikTok siblings
 Dameron;50;Poe Dameron from Star Wars
 dames;50
-Damian;50;Common first name / Damian Lillard, NBA guard
+Damian;40;Common first name / Damian Lillard, NBA guard
 Damien;50;Damien Hirst, artist / "The Omen" antichrist
 Damita;40;Damita Jo, singer, and the Janet Jackson album
 Damme;40;Jean Claude Van Damme
@@ -23698,6 +23702,8 @@ developer;50
 developers;50
 Devendra;40;Devendra Banhart, folk singer
 Dever;40;Kaitlyn Dever, actor
+deverbal;40
+deverbals;40
 Devereaux;40;Blanche Devereaux of "The Golden Girls"
 Devers;40;Gail Devers, Olympic sprinter / Rafael Devers, MLB slugger
 Devgn;40;Ajay Devgn, Bollywood actor
@@ -24222,6 +24228,7 @@ diminished seconds;40
 diminished third;40
 diminished thirds;40
 Dimitri;40;Dimitri Tiomkin, film composer
+dimity;30;Type of sheer textile, usually made of cotton
 dimmed out;40
 dimming out;40
 Dimmu;40;Dimmu Borgir, Norwegian black metal band
@@ -27512,6 +27519,7 @@ Edmontonians;40;Albertan city dwellers
 Edmund;50;Common given name
 edmundi;30
 edmundii;30
+Edmund John Millington Synge;40;Irish writer and collector of folklore (1871–1909)
 Edna;50;Dame Edna Everage, Barry Humphries character / common first name
 Edna Millay;50;???
 Edna Mode;60
@@ -27545,6 +27553,7 @@ Eduroam;40;University Wi-Fi roaming network
 Edvard;40;Various: Edvard Munch, Edvard Grieg
 edw;20
 Edward;50;Common name, kings included
+Edward Everett Hale;50;Historian and minister (1822–1909)
 Edward Furlong;50
 Edward Hyde;60;Mr. Hyde
 Edward I;30
@@ -42285,6 +42294,7 @@ hold at arms length;60
 hold back;50
 hold dear;60
 Holden;50;Holden Caulfield, "Catcher in the Rye" narrator / William Holden, actor
+hold everything;60
 hold firm;60
 hold forth about;40
 holding at arms length;60
@@ -48149,6 +48159,8 @@ JKLMNO;20
 J.K. Rowling;10
 JLeague;40;Japan's pro soccer league
 JLo;40
+J. M. Synge;40;Irish writer and collector of folklore (1871–1909)
+J M Synge;0
 JNCOs;40;Baggy 1990s jeans
 Jnr;20
 Jo;40
@@ -48297,6 +48309,7 @@ John Kruk;50
 John Lennon;60
 John Locke;50
 John Lomax;50
+John Millington Synge;40;Irish writer and collector of folklore (1871–1909)
 John Muir;50
 John Nash;60
 Johnnie;40;Johnnie Walker, Scotch brand / Johnnie Cochran, lawyer
@@ -48882,6 +48895,7 @@ Kairouan;40;Holy city of Tunisia
 Kaitlin;40;Kaitlin Olson, "It's Always Sunny" actress
 Kaitlin Olson;50
 Kaitlyn;40;Kaitlyn Dever, "Booksmart" actress
+Kaitlyn Dever;40
 Kaizen;40;Japanese continuous-improvement practice
 Kajagoogoo;50;"Too Shy" new wave band
 Kajol;40;Bollywood superstar
@@ -52385,7 +52399,7 @@ led by example;60
 LED display;50
 LED displays;50
 Ledecky;50;Katie Ledecky, Olympic swimming great
-Leder;40;Mimi Leder, "Deep Impact" director
+Leder;30;Mimi Leder, "Deep Impact" director
 Lederer;30
 led in;40
 led into;40
@@ -58300,7 +58314,8 @@ Megyn;40;Former Fox News host Megyn Kelly
 meh;50
 Mehboob;40;Mehboob Khan, "Mother India" director
 me hearties;60
-Meher;40;Meher Baba, Indian spiritual master
+Meher;30;Meher Baba, Indian spiritual master
+Meher Baba;40;Indian spiritual master
 Mehitabel;40;Cat in "Archy and Mehitabel"
 Mehldau;40;Brad Mehldau, jazz pianist
 Mehmed;40;Mehmed II, Ottoman sultan who took Constantinople
@@ -58325,6 +58340,7 @@ Meister;40;-meister suffix, expert
 Meistersinger;50;German guild singer, per Wagner's opera
 Meistersingers;40;German guild poet-musicians
 Meitner;40;Lise Meitner, discoverer of nuclear fission
+mejor;40;Better, in Spanish
 Mekas;30;Jonas Mekas, avant-garde filmmaker
 Mekong;50;Southeast Asian river
 Mel;50
@@ -58644,6 +58660,7 @@ Merrie;40;Merrie Melodies, Looney Tunes sibling
 Merrill;40;James Merrill, poet / Merrill Lynch brokerage
 Merrimack;40;New England river
 Merritt;40;Merritt Wever, actor / Stephin Merritt, Magnetic Fields singer
+Merritt Wever;40;Frequent supporting actress on TV (e.g. "Severance")
 Merriweather;40;Marjorie Merriweather Post, heiress / Maryland concert pavilion
 merry Christmas;60
 Merry Men;60;Robin Hood's band
@@ -59258,6 +59275,7 @@ Mime Smurf;60
 Mimi;50;Common first name, or the "La Bohème" heroine
 Mimieux;40;Yvette Mimieux, "The Time Machine" actor
 Mimikyu;50;Pokémon
+Mimi Leder;40;"Deep Impact" director
 Mimi Márquez;50;Lead female character in "Rent"
 Mimi Marquez;0
 Mimir;40;Norse god of wisdom
@@ -61009,6 +61027,7 @@ m'sieur;40
 MS MR;20
 MSN;40
 Ms. Noodle;40;"Sesame Street" character
+MS NOW;40
 M Squad;30;Old TV show
 Ms Rachel;60;Incredibly popular children's YouTuber
 MSRP;40
@@ -64145,6 +64164,7 @@ nowheres;40
 now I feel silly;60
 nowise;30
 Nowitzki;50;Dirk Nowitzki, NBA Hall of Famer
+now I've heard everything;60
 now kiss;60
 now let me see;60
 now let's see;60
@@ -68428,6 +68448,7 @@ Parvati;40;Hindu goddess, Shiva's consort
 pas;40
 Pasadena;50;Rose Bowl city
 pasado;30
+Pascal Siakam;40
 Pascha;40;Easter, in Orthodox usage
 Pasek;30;Benj Pasek, "Dear Evan Hansen" lyricist
 paseo;40
@@ -81398,7 +81419,7 @@ Segals;20
 Segar;40;E.C. Segar, creator of Popeye
 Segas;40;Sega game consoles
 Segel;40
-Seger;50;Bob Seger, "Night Moves" rocker
+Seger;40;Bob Seger, "Night Moves" rocker
 Seghers;40;Anna Seghers, German novelist
 segmental;40
 segno;40
@@ -81863,7 +81884,9 @@ serener;30
 serenest;30
 Serengeti;50;African plain and national park
 Serenissima;40;La Serenissima, nickname for Venice
-Serer;40;Senegalese ethnic group and language
+Serer;30;Senegalese ethnic group and language
+Serer language;40
+Serers;30
 serfish;40
 serge;40;Fabric
 Sergei;50;Sergei Prokofiev, composer / common Russian first name
@@ -84053,6 +84076,8 @@ sit next to me;50
 sit on;40
 sit poolside;50
 sit pretty;50
+sitrep;40;Military situation report
+sitreps;40;Military situation reports
 sits at;40
 sits by;40
 sits down with;40
@@ -89218,6 +89243,8 @@ sued for;40
 sued over;40
 sue for;40
 sue over;40
+suero;30
+sueros;30
 suesehtminotaur;0
 sues for;40
 sues over;40
@@ -90178,7 +90205,7 @@ syndics;20
 Syne;40
 synergism;30
 synergist;30
-Synge;40;J. M. Synge, Irish playwright
+Synge;30;J. M. Synge, Irish writer and collector of folklore (1871–1909)
 synod;40;Church council
 synodal;30
 synodic;30
@@ -91200,7 +91227,7 @@ tasting room;50
 tasting rooms;50
 Tastykake;40;Philadelphia snack cake brand
 tasty treat;60
-tat;50
+tat;40
 tataki;40
 tatami mat;50
 tatami mats;50
@@ -91223,7 +91250,7 @@ Tatjana;40;Tatjana Patitz, supermodel
 Tatler;30;British magazine
 Tatlin;30;Vladimir Tatlin, Russian constructivist artist
 Tatooine;60;Luke Skywalker's home planet
-tats;50
+tats;40
 Tatsuya;40;Tatsuya Nakadai, Japanese actor in "Ran"
 tattarrattat;0
 tatterdemalion;60
@@ -94879,6 +94906,7 @@ To Celia;40;Ben Jonson poem "To Celia"
 Tocharian;40;Extinct Indo-European language of the Tarim Basin
 Tocharians;40;Extinct Indo-European people of the Tarim Basin
 tocino;30;Bacon in Spanish
+toco;20
 to come;40;In store
 Tocqueville;50;Alexis de Tocqueville, "Democracy in America" author
 tocsin;20;Alarm bell, archaic
@@ -96126,6 +96154,7 @@ tree snake;50
 tree snakes;50
 tree topper;50
 tree toppers;50
+tref;30
 treinta;40
 Treisman;40;Deborah Treisman, New Yorker fiction editor / Anne Treisman, psychologist
 treize;30;Thirteen in French
@@ -99943,7 +99972,8 @@ vow of silence;60
 vox;50
 Voynich;50;Voynich manuscript, undeciphered book
 VP;40
-VPNs;50;Encrypted network tunnels
+VPN;40
+VPNs;40;Encrypted network tunnels
 VPs;40
 Vrbo;40
 Vreeland;40;Diana Vreeland, Vogue editor
@@ -101355,7 +101385,8 @@ Wernicke;30;Wernicke-Korsakoff syndrome, brain disorder
 Werther;40;"The Sorrows of Young Werther" hero
 Wertmuller;50;Lina Wertmüller, first woman nominated for a directing Oscar
 Wes;50
-Weser;40;German river
+Weser;30;German river
+Weser River;40
 we shall see;60
 we should say something;60
 Wesker;40;Albert Wesker, "Resident Evil" villain / Arnold Wesker, playwright
@@ -101449,7 +101480,7 @@ we've all been there;60
 we've been over this;60
 we've got it made;60
 we've got you surrounded;60
-Wever;40;Merritt Wever, Emmy-winning actress
+Wever;30;Merritt Wever, Emmy-winning actress
 we will eat you for breakfast;60
 We Will Rock You;60
 WeWork;50;Coworking company
