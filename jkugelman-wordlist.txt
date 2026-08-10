@@ -31360,7 +31360,7 @@ Faye;50;Faye Dunaway, "Chinatown" star / Alice Faye, singer
 Fayed;40;Dodi Fayed, Princess Diana's companion
 Faye Dunaway;60
 Fayetteville;50;City in North Carolina and Arkansas
-Faygo;50;Detroit soda brand
+Faygo;40;Detroit soda brand
 Faygos;40;Detroit sodas
 Fazal;30;Ali Fazal, Indian actor
 Fazbear;40;Freddy Fazbear, "Five Nights at Freddy's" animatronic
@@ -44666,7 +44666,10 @@ ilovetogoto;0
 I love you;60
 ils;20
 Ilsa;40;From Casablanca
-Ilse;40;Ilse Bing, photographer / German first name
+Ilse;30;Various
+Ilse Bing;40;German avant-garde and commercial photographer (1899-1998)
+Ilse Crawford;40;British interior and furniture designer
+Ilse Jacobsen;40;Danish shoe designer
 Il Sung;30;Kim Il Sung, father of Kim Jong Il
 Il Tabarro;40;Puccini opera
 I luv U;40
@@ -69910,6 +69913,7 @@ philol;20
 Philomela;40;Greek myth figure turned into a nightingale
 Philomena;40;Philomena Cunk, Diane Morgan's mockumentary character
 Philomena Cunk;60
+Phil Selway;40;Drummer for Radiohead
 Phil Silvers;40;He played Sgt. Bilko
 philter;30;Love potion
 philters;30;Love potions
