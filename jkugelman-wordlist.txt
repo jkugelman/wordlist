@@ -2059,6 +2059,7 @@ Ahab;50;"Moby-Dick" captain
 Aharon;40;Aharon Appelfeld, Israeli novelist
 ahas;40
 Ahasuerus;40;Persian king in the Book of Esther
+a hat;20
 a hat on a hat;60;Comedy mistake (something unnecessary)
 Ah, broken is the golden bowl!;50;Opening line of Poe's "Lenore"
 ahchoo;20;Sneeze sound: Var.
@@ -3852,6 +3853,7 @@ analysts believe;60
 Anamanaguchi;40;Chiptune band behind the "Scott Pilgrim" game score
 Anamese;20
 anamorphic;50
+ananas;20
 Anand;40
 Ananda;40
 Ana Ng;20;1988 single by They Might Be Giants
@@ -5061,6 +5063,7 @@ Aquarius;50;Water bearer of the zodiac
 Aquariuses;40;January-February babies
 aquas;40
 Aqua Teen;50
+Aqua Teen Hunger Force;60
 Aqua Teens;50
 aquatic centre;20
 aquatic centres;20
@@ -5315,6 +5318,8 @@ are tied;20
 Aretino;20;Renaissance author
 are too;40;Playground retort
 aretreat;0
+Areus;30;Spartan king
+are useless;20
 are we clear;60
 are we done here?;60
 are we done here;0
@@ -6508,6 +6513,7 @@ ate at home;40
 ate a ton;30
 ate away at;40
 ate dirt;60
+A-Teens;30;Swedish pop group
 a teensy bit;50
 ateeter;20
 ate for two;60
@@ -15431,6 +15437,7 @@ carpet treatment;50
 carpet treatments;50
 carpi;20;Wrist bones
 carping at;40
+Carpodacus purpureus;20;Purple finch
 Carpool Karaoke;60
 carpool lane;50
 carpool lanes;50
@@ -19557,6 +19564,7 @@ conferee;30
 conferees;30
 conference centre;20
 conference centres;20
+Confessions of a Teenage Drama Queen;20;2004 Lindsay Lohan teen musical
 confider;40
 confiders;40
 confirm humanity;60;reCAPTCHA title
@@ -20076,6 +20084,8 @@ Corots;30;Camille Corot, French landscape painter, works by
 corp;40
 corporate box;50
 corporate boxes;50
+corporate entities;50
+corporate entity;50
 corporate image;50
 corporate images;50
 corporate lawyer;50
@@ -29014,6 +29024,7 @@ Epoque;40;Belle Epoque, French golden age
 Eppie;40;Eppie Lederer, the real Ann Landers / "Silas Marner" foundling
 Epping;40;Epping Forest
 Epps;40
+E-Prime;40;Restricted form of English in which authors avoid all forms of the verb to be
 e-print;30
 E-Pro;30;2005 single by Beck
 EPs;40
@@ -29835,7 +29846,8 @@ E umlauts;20
 Eunectes murinus;20;Green anaconda, species of snake
 Eunice;40;Eunice Kennedy Shriver, Special Olympics founder
 Eunices;30
-Eunoia;40;Shortest English word with all five vowels
+eunoia;40;Goodwill (shortest English word with all five vowels)
+Eunoia;0
 eunoym;0
 eunoyms;0
 euonym;40;Name that is well-suited to the person, place, or thing named
@@ -30066,6 +30078,7 @@ Everything Everywhere All at Once;60
 (Everything I Do) I Do It for You;50;1991 single by Bryan Adams
 every Tom, Dick, and Harry;60
 Evgeni;40;Evgeni Malkin, Penguins hockey star
+Evgeni Plushenko;40;Russian retired figure skater and coach (born 1982)
 Evian;50;French bottled water brand
 Evians;40;Some bottled waters
 evictor;30
@@ -44245,6 +44258,7 @@ I had a thought;60
 I had every intention;60
 I had no idea;60
 ihamiham;0
+I hate;20
 I hate everything about this;60
 I hate it here;60
 I hate this;50
@@ -46080,7 +46094,9 @@ Iraqis;50;Baghdad residents, e.g.
 IRAs;40
 irater;30
 iratest;30
-Irbid;40;City in northern Jordan
+Irbid;30;City in northern Jordan
+Irbid, Jordan;40
+Irbid Jordan;0
 Irby;40;Samantha Irby, essayist
 ire;50
 I read you;60
@@ -48394,6 +48410,7 @@ JPG;40
 JPGs;40
 JQA;20
 J R Ewing;50
+JROTC;40
 JRPGs;40;Final Fantasy and Dragon Quest, for two
 J R R;40
 Jrs;40
@@ -72913,6 +72930,12 @@ psets;40;Problem sets, lists of problems given as homework
 pseudocode;50
 pseudocodes;40
 pseudointellectual;60
+pseudos;40
+pseudoscience;60
+pseudosciences;60
+pseudoscientific;60
+pseudoscientist;60
+pseudoscientists;60
 psf;20
 psi;50
 Psi Omega;30
@@ -73552,6 +73575,8 @@ QRS;20
 QRST;20
 QRSTU;20
 Q's;40;Minded things, with P's
+Q Score;40;In marketing, a way to measure the familiarity of an item
+Q Scores;40;In marketing, a way to measure the familiarity of an item
 QT;40
 Q-tile;30
 Q-tiles;30
@@ -76628,6 +76653,7 @@ reuned;30
 reunes;30
 reuniter;40
 reuniters;40
+reus;20
 reuse me;50;Words on a tote bag
 Reuters;50;News agency
 Reuther;40;Walter Reuther, UAW labor leader
@@ -76805,7 +76831,7 @@ rheostat;30
 rheostats;30
 rhetor;30;Teacher of rhetoric, an orator
 rhetoric;50
-Rhett;50;Rhett Butler, "Gone with the Wind" lead
+Rhett;40;Rhett Butler, "Gone with the Wind" lead
 Rhetts;20
 rheum;20;Watery discharge
 rheumatics;30
@@ -77449,6 +77475,8 @@ R months;40
 R movie;20
 R movies;20
 RMS;20
+R. Mutt;40;How Marcel Duchamp signed his urinal sculpture "Fountain"
+R Mutt;0
 RNA;40
 RNAase;30
 RNA editing;50
@@ -89450,6 +89478,7 @@ Suri;40
 Suribachi;40;Iwo Jima peak of the flag raising
 suricate;30;AKA meerkat
 suricates;30
+surimi;30;Meat paste, usually made from fish
 Suriname;50;South American country
 Surinamese;40;Of Suriname
 surlily;30;Weird adverb
@@ -91166,6 +91195,7 @@ T-bone steaks;60
 T-Bone Walker;50
 T Boone;20;Businessman ___ Pickens
 T Boone Pickens;50
+TBQH;30;To be quite honest
 TBS;40
 tbsp;40
 tbsps;40
@@ -103281,6 +103311,7 @@ Yahrzeits;40;Jewish anniversaries of a death
 Yahtzee;50;Five-dice game
 Yahtzees;40;Five-of-a-kind rolls
 Yahya;40;Actor Yahya Abdul-Mateen II
+Yahya Abdul-Mateen II;40
 Yai;40;Anok Yai, fashion model (born 1997), one of TIME's 100 most influential people in 2026
 yair;20
 Yajurveda;40;One of the four Vedas
