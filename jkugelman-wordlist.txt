@@ -28782,6 +28782,7 @@ enlists in;40
 enls;20
 ENM;20
 enmities;40;Weird plural
+-enne;30
 ennead;30;Group of nine
 enneads;30;Groups of nine
 enneagon;30;Nine-sided polygon
@@ -41631,7 +41632,7 @@ Hesperus;40;Evening star, or Longfellow's wrecked schooner
 Hess;40
 he's safe;50;Baseball shout???
 Hesse;40
-Hesseman;40; Howard Hesseman, actor in "WKRP in Cincinatti" and "Head of the Class"
+Hesseman;40;Howard Hesseman, actor in "WKRP in Cincinatti" and "Head of the Class"
 Hessian;30
 Hessians;50;German mercenaries of the Revolutionary War
 Hester;40;Hester Prynne
@@ -66722,6 +66723,8 @@ Orem;40;Utah city next to Provo
 ore mine;30
 ore miner;30
 Orense;20;City in Galicia, Spain
+Orenthal;10;O. J. Simpson
+Orenthal James;10;O. J. Simpson
 Oreo;50;Popular tuxedo cat name
 Oreo balls;40
 Oreo Cakester;60
@@ -78796,6 +78799,7 @@ RumChata;40;Cream liqueur brand
 Rum Diary;60;Hunter S. Thompson book
 Rumer;40;Rumer Willis, actress / Rumer Godden, novelist
 Rumer Godden;40;Author Rumer Godden
+Rumer Willis;40
 Rumi;40;13th century Persian scholar
 rummager;30
 rummagers;30
@@ -86048,6 +86052,8 @@ Sorel;40;Georges Sorel, French philosopher / winter boot brand
 sore loser;60
 sore losers;60
 Soren;40;Søren Kierkegaard
+Søren Kierkegaard;60;Danish philosopher and theologian (1813–1855)
+Soren Kierkegaard;0
 Sorensen;40;Ted Sorensen, JFK's speechwriter
 Sorenstam;40;Annika Sorenstam, LPGA great
 Sorento;40;Kia SUV
@@ -99505,6 +99511,12 @@ videographer;60
 videographers;60
 videographies;60
 videography;60
+video rental;50
+video rentals;50
+video rental shop;50
+video rental shops;50
+video rental store;50
+video rental stores;50
 vidi;40
 Vidor;40;King Vidor, film director
 vids;40
