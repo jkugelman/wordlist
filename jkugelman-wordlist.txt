@@ -5371,6 +5371,8 @@ are your ears burning?;60
 are you serious;60
 are you sleeping?;50
 are you sure about that;60
+are you thinking what I'm thinking?;60
+are you thinking what I'm thinking;0
 Arezzo;40;Tuscan city
 arf;50
 arfed;30
@@ -29713,7 +29715,9 @@ Etel;30;Etel Adnan, Lebanese-American writer and artist (1925–2021)
 Etel Adnan;50;Lebanese-American writer and artist (1925–2021)
 eternal question;60
 eternal questions;60
-Eternals;40;Marvel superhero team
+Eternals;50;Marvel superhero team
+Eternal Sunshine;60
+Eternal Sunshine of the Spotless Mind;60
 eterne;40
 Eternia;40;He-Man's home world
 etes;0
@@ -45045,6 +45049,7 @@ I'm sure;50
 I'm terrible at names;60
 I'm terrible with names;60
 I'm the captain now;60
+I'm Thinking of Ending Things;60;2020 film by Charlie Kaufman
 I'm tired;50
 I'm toast;60
 I'm to blame;60
