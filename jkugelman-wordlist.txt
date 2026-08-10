@@ -21552,6 +21552,7 @@ Curb Your Enthusiasm;60
 cured ham;50
 cured hams;50
 cured pork;50
+cured salmon;50
 Curel;40;Skincare brand
 curer;40
 curers;40
@@ -21823,6 +21824,8 @@ Czechia;50;The Czech Republic, officially
 Czechoslovak;50;Of the former Czechoslovakia
 Czechoslovakia;50;Former European country
 Czechoslovaks;50;People of the former Czechoslovakia
+Czech pilsener;20
+Czech pilseners;20
 Czechs;50;People of Prague
 Czerny;40;Carl Czerny, composer of piano etudes
 Czeslaw;40;Czesław Miłosz, Nobel-winning Polish poet
@@ -33882,6 +33885,7 @@ Fredric;40;Fredric March, actor / Fredric Jameson, literary critic
 Fredrico Fellini;0
 freds;30
 Fred Sanford;50
+Fred Sanger;40;Biochemist who received the Nobel Prize in Chemistry twice
 Fred Ward;50
 free at last;60
 freebase;60;Free climbing + BASE jumping (or a drug term)
@@ -50081,6 +50085,7 @@ Kipchak;40;Medieval Turkic people
 Kipchaks;40;Medieval Turkic people
 Kipchoge;40;Eliud Kipchoge, sub-two-hour marathoner
 Kipling;50;Rudyard Kipling, author of "The Jungle Book"
+kippered salmon;50
 Kippur;40;Yom Kippur, the Day of Atonement
 Kiptum;40;Kelvin Kiptum, marathon world record holder
 kir;40;Cocktail
@@ -62059,7 +62064,7 @@ nauseant;30
 nauseants;30
 nauseas;20
 Nausée;30;Sartre's first novel
-Nausicaa;50;Homeric princess, and a Miyazaki heroine
+Nausicaa;40;Homeric princess, and a Miyazaki heroine
 nautch;20
 nautches;20
 Nautica;40;Clothing brand
@@ -70337,6 +70342,10 @@ pilot studies;50
 pilot study;50
 pilous;40
 pils;40;Pilsner, for short [NYT debut in 2023]
+pilsener;20;Variant of pilsner
+pilsener glass;20
+pilsener glasses;20
+pilseners;20;Variant of pilsners
 pilsner;50
 pilsners;50
 Piltdown;50
@@ -75684,6 +75693,7 @@ red rubber ball;50;???
 red rubber balls;50;???
 redrum;60
 red sable;40
+red salsa;50
 red scare;60
 Red Shell;60;Mario Kart powerup
 Red Shells;60
@@ -91847,6 +91857,7 @@ temp agency;50
 Tempe;40;Arizona home of Arizona State
 tempera;40;Water-based paint
 temperas;40
+tempered safety glass;50
 tempest-tossed;60;Violently buffeted
 tempi;40;Tempos
 temp job;50
@@ -99128,6 +99139,8 @@ veinte;40
 Veirs;40;Laura Veirs, indie folk singer
 vel;20
 Vela;40;Southern constellation, once part of Argo
+velar;30
+velars;30
 Velasquez;40;Regine Velasquez, Filipina singer
 velate;40;Having a veil or velum
 Velazquez;60
@@ -99574,6 +99587,7 @@ vino;40
 vinos;40
 vin rouge;50
 vins;40;Wines, or vehicle IDs
+vinsanto;40;Greek wine
 vins blancs;40
 Vinson;40;Vinson Massif, Antarctica's highest peak
 vins rouges;50
