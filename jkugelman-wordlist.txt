@@ -9251,6 +9251,8 @@ became attached to;40
 became aware of;40
 became obsolete;50
 Because I Got High;60;Afroman song
+because I said so;60
+because I say so;60
 because it's there;60
 because reasons;60
 because we say so;60
@@ -18577,6 +18579,7 @@ CMX;20
 CMXXX;20
 C natural;50
 C-natural scale;30
+CNET;40
 Cnidaria;30;Jellyfish and coral phylum
 CNN;50
 CNN news;50
@@ -28330,7 +28333,7 @@ Emilio;50;Emilio Estevez, actor, and a common Spanish given name
 Emil Nolde;40;Expressionist painter Emil Nolde
 Emily;50;Common first name
 EMILYs;40;EMILYs List political action committee
-Emin;40;Tracey Emin, British artist
+Emin;30;Tracey Emin, British artist
 Eminem;50
 E minor;50
 Emirati;40;UAE natives
@@ -59759,6 +59762,7 @@ MMXL;20
 MMXVI;20
 MM/YY;30;Credit card expiration date format
 MN;40
+MNEK;40;British singer with two Grammy nominations (born 1994)
 mneme;20
 Mnemosyne;50;Greek Titan of memory, mother of the Muses
 M Night Shyamalan;60
@@ -80165,6 +80169,9 @@ saying one's piece;60
 saying presto;20
 saying to;40
 saying yes to;40
+say it ain't so, Joe;60
+say it ain't so Joe;0
+say it isn't so;60
 Sayles;30;'80s/'90s director John Sayles
 say less;60;Slangy "I got it"
 say mass;50
@@ -80180,9 +80187,14 @@ says amen;40
 says hi to;40
 says I do;50
 says mass;50
+say so;50
+say-so;50
+sayso;50
 says one's piece;60
+say-sos;50
+saysos;50
 says presto;20
-says so;40
+says so;50
 sayst;40
 says to;40
 says who;60
@@ -91270,7 +91282,7 @@ Tdap;30
 T-Day;30;Thanksgiving
 T-day;0
 TDK;20;Cassette maker
-T-dot;40;Nickname for Toronto
+T-dot;40;Hip-hop nickname for Toronto
 TD pass;50
 TD passes;50
 TD run;40
@@ -95614,6 +95626,7 @@ traces over;50
 traces to;40
 trace to;40
 Tracey;40;Tracey Ullman, comedian
+Tracey Emin;40;English artist (born 1963)
 trach;40;Tracheotomy
 trachcompactors;0
 trache;20
@@ -104169,6 +104182,8 @@ your point being;60
 yours always;60
 your words not mine;60
 Yousafzai;50;Malala Yousafzai, youngest Nobel laureate
+you said so yourself;60
+You Seem Pretty Sad for a Girl So in Love;50;2026 studio album by Olivia Rodrigo
 you should get out more;60
 you should say something;60
 you should see your face;60
