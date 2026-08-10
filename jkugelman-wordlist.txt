@@ -1237,7 +1237,7 @@ adapted to;40
 adapting to;40
 adapts to;40
 adapt to;40
-Adar;40;Hebrew month
+Adar;30;Hebrew month
 Adaware;40;Adblock software
 a day ago;30;Green paint
 Adblock;40;Ad-blocking browser extension
@@ -3596,8 +3596,8 @@ AM/FM stereo;50
 AM FM tuner;50
 AM FM tuners;50
 Amgen;30
-Amhara;40;Ethiopian people and region
-Amharas;40;Ethiopian ethnic group
+Amhara;30;Ethiopian people and region
+Amharas;30;Ethiopian ethnic group
 Amharic;40;Official language of Ethiopia
 Amherst;40;Massachusetts college town, home of Emily Dickinson
 ami;40
@@ -34547,6 +34547,7 @@ Funfetti;60
 fungaria;50
 fungarium;50;Fungus collection
 fungariums;50
+fungo;40;Fielding practice drill where a person hits fly balls intended to be caught
 funhouse;60
 funhouses;60
 Funicello;50;Annette Funicello, Mouseketeer and beach-movie star
@@ -39028,6 +39029,7 @@ Guanyin;40;Buddhist goddess of mercy
 Guan Yu;30;Chinese general and folk hero (died 220)
 guapo;20
 guapos;20
+guar;40;Source of guar gum
 Guaraldi;40
 Guarani;20;Indigenous South American
 Guaranís;20;Indigenous South Americans
@@ -41093,7 +41095,7 @@ heel turn;60;When a professional wrestler identified as a hero becomes a villain
 heel turns;60
 Heelys;50;Wheeled sneakers
 Heep;40;Uriah Heep, "David Copperfield" villain
-Heer;40;Jeet Heer, journalist, or the German army
+Heer;30;Jeet Heer, journalist, or the German army
 Hef;40
 Heffley;40;Greg Heffley, "Diary of a Wimpy Kid" hero
 Heflin;30;Actor Van ___
@@ -42884,6 +42886,10 @@ horror show;60
 horrorshows;60
 horrowshow;0
 hors;40
+hors de;20
+hors de combat;50;Diabled, no longer able to fight
+hors d'oeuvre;60
+hors d'oeuvres;60
 horse;50
 horseback riding;50
 horse collar;60;Bad tackle
@@ -43046,6 +43052,7 @@ hotheadedly;50
 hotheadedness;50
 hotheads;60
 hot honey;60
+hot hors d'oeuvres;30
 Hotlanta;60
 hot lava;50
 hot lead;60;Bullets
@@ -65513,6 +65520,8 @@ Oksanas;20
 OK sign;50
 OK signs;50
 OK, smarty-pants;60
+OK Soda;40;Discontinued '90s soft drink that targeted Gen X
+OK Sodas;40;Discontinued '90s soft drinks that targeted Gen X
 OK sure;50
 OK then;50
 Oktober;50
