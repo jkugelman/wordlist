@@ -1439,7 +1439,7 @@ adoptees;40
 adopter;50;Early adopter, e.g.
 adopters;50
 adopt me;60
-Adora;40;She-Ra's alter ego
+Adora;30;She-Ra's alter ego
 adorbs;60
 Adoree;30;Renée Adorée, silent film actress
 adorer;50
@@ -9139,6 +9139,7 @@ Bear Stearns;50
 bear suit;50
 bear suits;50
 Beart;40;Emmanuelle Béart, French actress
+bear that in mind;60
 Beasley;20;Athlete Michael or Cole or Malik...?
 be a sport;60
 be assured;50
@@ -15006,8 +15007,8 @@ caped for;40;Fiercely defended, slangily
 cape for;40;Fiercely defend, slangily
 Cape Horn;50
 Capek;40;Karel Čapek, playwright who coined "robot"
-capelet;40
-capelets;40
+capelet;50;Small cape worn over the shoulders by women
+capelets;50;Small capes worn over the shoulders by women
 capelin;40;Small fish
 capelins;40
 Capella;40;Sixth-brightest star in the night sky
@@ -21890,7 +21891,9 @@ dagoba;20;Buddhist shrine
 Dagobah;50;Yoda's swamp planet
 dagobas;20;Buddhist shrines
 D'Agostino;40;Gigi D'Agostino, Italian DJ / New York grocery chain
-Daguerre;50
+Daguerre;40
+daguerreotype;60
+daguerreotypes;60
 Dagwood;50;Blondie's husband, or his towering sandwich
 dah;40
 dahi;30;Indian yogurt
@@ -27012,7 +27015,7 @@ ears;50
 earta;20
 ear test;50
 ear tests;50
-Eartha;50;Eartha Kitt, "Santa Baby" singer
+Eartha;40;Eartha Kitt, "Santa Baby" singer
 earth as;20
 earthed;40
 earthling;60
@@ -39005,6 +39008,7 @@ Guernsey;50;Channel Island, and a cattle breed
 Guero;40;Beck album, or Spanish for a fair-skinned person
 guerra;40;Spanish for war
 guerras;40;Spanish for wars
+guerre;40
 Guerrero;40;Vladimir Guerrero, baseball Hall of Famer / Eddie Guerrero, wrestler
 guerrilla;50
 guerrilla art;60
@@ -40251,6 +40255,7 @@ Harun Farocki;40;German filmmaker, author, and lecturer in film (1944–2014)
 Harvard;50;Ivy League university
 Harvard Law;50
 Harvard Square;60
+Harvard Yard;60
 harvest moon;60
 harvest moons;60
 harvests;50
@@ -40871,9 +40876,11 @@ heart face shapes;60
 heartfelt;50
 heartfelt moment;60
 heartfelt moments;60
+hearth and home;60
 heart hands;60;🫶
 heart hands emoji;60;🫶
 heart hands emojis;60;🫶
+hear that;50
 heart healthy;60
 hearties;50
 heart monitor;50
@@ -43400,6 +43407,7 @@ hundred dollar bills;60
 hundreds of billions;20
 Hundredth Smurf;60
 hundredths place;50
+hundred-yard;50
 Hungarian;50;Of a Central European country
 Hungarians;50;Magyars
 hung around with;40
@@ -44946,6 +44954,7 @@ I'm so old;60
 I'm so over it;60
 I'm sorry if I upset you;60
 I'm sorry that happened;60
+I'm sorry to hear that;60
 I'm sorry you're mad;60
 I'm so scared;60
 I'm so sore;60
@@ -51398,6 +51407,7 @@ Laodicean;40;Lukewarm in religion
 Laodiceans;40;Lukewarm church of Revelation
 Laon;20
 Laos;50;Southeast Asian country
+Lao She;30;Chinese writer (1899–1966)
 Laotian;50;Of Laos
 Laotians;50;People of Vientiane's country
 Laotse;30;Bad romanization
@@ -51587,6 +51597,7 @@ lashing into;30
 lashing out;50
 lashing out at;40
 lash into;30
+Lash LaRue;40
 lash out;50
 lash out at;40
 lash to;20
@@ -52354,7 +52365,7 @@ leerier;40;More leery is more common
 leeriest;40;Most leery is more common
 leering;40
 leering at;40
-Leeroy;50;Leeroy Jenkins, "World of Warcraft" meme
+Leeroy;40;Leeroy Jenkins, "World of Warcraft" meme
 leers;40
 leers at;40
 Lee Smith;40;Various
@@ -54258,6 +54269,8 @@ long COVID;50
 long E;40
 longed for;40
 long E's;20
+longest yard;50
+Longest Yard;50
 Longfellow;50;Henry Wadsworth Longfellow, "Hiawatha" poet
 long for;40
 long gone;60
@@ -55525,7 +55538,8 @@ Macrozamia spiralis;20;Species of cycad
 Macs;40;Apple computers, or Big Macs
 MacTaggert;40;Moira MacTaggert, X-Men geneticist
 Mac Ten;30;Weapon
-macula;50;Center of the retina
+macula;40;Center of the retina
+maculae;40
 maculate;40
 maculated;40;Stained
 maculates;40
@@ -57080,6 +57094,7 @@ marten fur;40
 martens;50
 Martha;50;Martha Stewart, lifestyle mogul, among many
 Martha's;40;Martha's Vineyard, Massachusetts island
+Martha's Vineyard;60
 Marthe;20
 Marti;40;Cuban revolutionary José Martí
 martial art;50
@@ -61409,6 +61424,7 @@ my God;60
 my goose is cooked;60
 Myha'la;40;Myha'la Herrold, "Industry" actress
 myheart;0
+My Heart Has a Mind of Its Own;50;1960 single by Connie Francis
 Myhrvold;40;Nathan Myhrvold, "Modernist Cuisine" author
 my idea;20;Green paint
 my kingdom for a horse;60
@@ -61973,6 +61989,7 @@ naval fleets;50
 Navalny;40
 naval ship;50
 naval ships;50
+naval shipyard;50
 Navaratri;40;Nine-night Hindu festival
 Navarone;40;"The Guns of Navarone" island
 Navarre;30;Pamplona's province
@@ -61982,6 +61999,7 @@ navbar;50;Set of links at the top of a webpage to direct users, portmanteau of "
 navbars;50
 navel ring;50
 navel rings;50
+navel shipyards;50
 navette;20;Gemstone
 navettes;20;Gemstones
 Na'vi;40;"Avatar" race
@@ -63436,6 +63454,7 @@ no man's;30
 Nomar;40;Nomar Garciaparra, Red Sox shortstop
 no matter;60
 no matter which;50
+nom de guerre;60
 Nome;40;Alaska city, Iditarod finish line
 Nome, Alaska;50
 Nome Alaska;0
@@ -63453,6 +63472,7 @@ no more;60
 no more tears;60
 nomothetic;20
 noms;30
+noms de guerre;60
 no MSG;30
 non;40
 Nona;30;Nona Hendryx, "Lady Marmalade" singer, or nona- shape prefix
@@ -67694,6 +67714,8 @@ pākehā;30;Māori term for non-Māori or White New Zealanders
 Pakistan;50;South Asian country
 Pakistani;50;Of Pakistan
 Pakistanis;50;Karachi residents, e.g.
+pakora;40;Indian spiced fritter
+pakoras;40;Indian spiced fritters
 Pak Se-ri;40;LPGA Hall of Famer Pak Se-ri
 Pakula;40;Director Alan J. Pakula
 pal;50
@@ -71241,6 +71263,7 @@ Poitier;50;Sidney Poitier, first Black Best Actor winner
 Poitiers;40;French city, site of a famous battle
 Poitras;40;Laura Poitras, "Citizenfour" director
 Poitrine;40;French for chest, as in angine de poitrine
+poivre;40
 poke about;50
 poke a hole in;50
 poke at;40
@@ -74160,7 +74183,9 @@ Rahsaan;40;Rahsaan Roland Kirk, jazz multi-instrumentalist
 Rahul;40;Rahul Gandhi, Indian politician
 Rahway;30;NYC suburb in New Jersey
 Rai;30
-Raices;40;RAICES, Texas immigrant legal aid nonprofit
+RAICES;30;Texas immigrant legal aid nonprofit
+Raíces;30
+Raices;0
 Raichu;40;Pikachu's evolved form
 raid;50
 raided;50
@@ -80603,6 +80628,7 @@ Scotiabank;40;Canadian bank
 Scotian;40;Nova Scotian
 Scotians;40;Only in "Nova Scotians"
 Scotland;50;Land of lochs and kilts
+Scotland Yard;60
 Scots;50;Highlanders and Lowlanders
 Scott;50;Ridley Scott, director / Scott Joplin, ragtime composer
 Scott Disick;40;"Keeping Up with the Kardashians" cast member
@@ -89944,6 +89970,8 @@ switching to;40
 switch plate;50
 switch plates;50
 switch to;40
+switchyard;50
+switchyards;50
 Swithin;40;St. Swithin, English saint of a weather legend
 Switzer;40;Barry Switzer, football coach / Kathrine Switzer, marathon pioneer
 Switzerland;50;Alpine country
@@ -93658,7 +93686,7 @@ third out;50
 Third Punic War;50
 third rail;60
 third rails;60
-Third St;40
+Third St.;30
 third wave;50
 third wheeling;60;The act of being an awkward/unnecessary tag-along to a couple
 Thirlby;40;Minor actress Olivia Thirlby (b. 1986)
@@ -103974,6 +104002,7 @@ you did good kid;60
 you did it;50
 you didn't hear it from me;60
 you didn't hear that;60
+you didn't hear that from me;60
 you didn't say the magic word;60
 you died;60
 you dig?;60
