@@ -4411,7 +4411,7 @@ anorexic;10
 anorexics;10
 anorthic;30
 años;40
-a nose;20
+a nose;40
 anosmia;20;Loss of sense of smell
 Another Roadside Attraction;50;1971 novel by Tom Robbins
 Another Saturday Night;60
