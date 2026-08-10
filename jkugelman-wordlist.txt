@@ -2521,8 +2521,11 @@ Alberich;40;Dwarf in Wagner's "Ring" cycle
 Albers;40;Josef Albers, "Homage to the Square" painter
 Albert;50;Albert Einstein, physicist / common first name
 Alberta;50;Canadian province
-Albertan;40;Person from Alberta
-Albertans;40;Calgarians and Edmontonians
+Albertan;50;Person from Alberta
+Albert and David Maysles;40;Documentarian brothers
+Albertans;50;Calgarians and Edmontonians
+Alberta postal code;0
+Alberta postal codes;0
 Alberti;40;Alberti bass
 Albertina;40;Albertina Sisulu, South African anti-apartheid leader
 Albertine;40;Proust's beloved in "In Search of Lost Time"
@@ -8134,6 +8137,8 @@ Bandura;40;Albert Bandura, Bobo doll psychologist
 Bandwagonesque;50;Teenage Fanclub album
 bandwagon fallacy;60
 Banff;40
+Banff, Alberta;50
+Banff Alberta;0
 Bangalore;50;Indian tech hub
 Bangalter;40;Thomas Bangalter, half of Daft Punk
 Bangarang;50;Lost Boys' cry in "Hook"
@@ -9938,6 +9943,9 @@ Berrigan;40;Daniel Berrigan, antiwar Jesuit priest
 Berryman;40;John Berryman, poet of "The Dream Songs"
 Bert;50;Ernie's Sesame Street roommate
 Berta;40;Berta Cáceres, Honduran environmental activist
+Berta Cáceres;40;Honduran environmental activist and indigenous leader (1971–2016)
+Berta Caceres;0
+Bert and Ernie;60
 Bert Bobbsey;50;One of the Bobbsey Twins of kid lit
 Bertha;50;Big Bertha, WWI howitzer, or a first name
 Berthas;30
@@ -14329,6 +14337,8 @@ calf tattoos;60
 Calgarian;40;Resident of Alberta's largest city
 Calgarians;50;Stampede city residents
 Calgary;50;Alberta city with a famous Stampede
+Calgary, Alberta;50
+Calgary Alberta;0
 Cal Golden Bears;50
 Calgon;40;Bath brand ("take me away!")
 Calhern;30;Old actor Louis Calhern
@@ -14842,6 +14852,8 @@ cankle;30
 cankles;30
 CanLit;40;Canadian literature
 Canmore;40;Alberta mountain town
+Canmore, Alberta;40;Town near Banff
+Canmore Alberta;0
 canna;30;Flowering tropical plant
 cannabis tea;60
 Cannae;20;Punic War battle site
@@ -25575,6 +25587,7 @@ dormer;40;Roof window
 dormers;40
 Dorn;40;Michael Dorn who played Worf
 Dornan;40;Jamie Dornan who played Christian Grey in "Fifty Shades of Grey"
+doro;30
 Dorothea;30
 Dorothy;50;"The Wizard of Oz" heroine, or a common first name
 Dorothy Hodgkin;50;Nobel chemist (1910–1994)
@@ -36426,6 +36439,8 @@ Gil;40;Gil Scott-Heron
 Gila;50;Gila monster, or the Arizona river
 Gila monster;50
 Gilbert;50;Gilbert Gottfried, comedian / Elizabeth Gilbert, "Eat Pray Love" author
+Gilbert and;0
+Gilbert and Sullivan;60
 Gilbert Gottfried;50
 Gilberto;40;João Gilberto, bossa nova pioneer
 Gilchrist;40;Adam Gilchrist, Australian cricketer
@@ -52909,6 +52924,8 @@ let 'er rip;60
 let go of me;60
 lethargies;40;Plural?
 Lethbridge;40;Alberta city
+Lethbridge, Alberta;50
+Lethbridge Alberta;0
 Lethe;30;River in Hades whose waters cause drinkers to forget their past
 Lethean;40;Of Lethe, the river of forgetfulness
 Lethem;40;Novelist Jonathan Lethem, "Motherless Brooklyn", MacArthur Fellowship
@@ -58220,6 +58237,8 @@ Medicare;60
 Medici;50;Florentine ruling family
 medicine cabinet;50
 medicine dropper;50
+Medicine Hat, Alberta;50
+Medicine Hat Alberta;0
 Medicis;50
 medick;30;Alfalfa-like plant
 medicks;30;Alfalfa-like plants
@@ -75587,6 +75606,8 @@ Red Cross;50
 Redd;40;Redd Foxx, "Sanford and Son" star
 reddaldrow;0
 Red Dawn;50
+Red Deer, Alberta;50
+Red Deer Alberta;0
 red deer calf;50
 red deer calves;50
 red diaper babies;50
@@ -77391,7 +77412,9 @@ right-wing party;50
 right-wing politics;50
 righty;50
 rigmarole;50
-Rigoberta;40;Rigoberta Menchú, Nobel Peace laureate
+Rigoberta;40;Rigoberta Menchú, 1992 Nobel Peace laureate
+Rigoberta Menchú;40;1992 Nobel Peace laureate
+Rigoberta Menchu;0
 Rigoletto;50;Verdi opera
 rigueur;30
 Rigveda;50;Oldest of the Vedas
@@ -77786,6 +77809,10 @@ Robby;50
 Rober;40;Mark Rober, engineer and YouTuber
 Robert;50;Extremely common first name
 Roberta;50;Common first name (Roberta Flack, Roberta Bondar)
+Robert Adam;40;Neoclassical architect (1728–1792)
+Robert Alda;40;Actor (1914–1986)
+Robert Aldrich;50;Director of "Kiss Me Deadly", "The Dirty Dozen", and many others
+Robert Anton Wilson;40;Writer and futurist (1932–2007)
 Robert Edward Lee;30;???
 Robert E. Lee;10
 Robert Fripp;50
@@ -88839,6 +88866,7 @@ street racer;60
 street racers;60
 street races;60
 street racing;60
+Street Sharks;50;1994 cartoon about crime-fighting half-man/half-sharks
 street smart;60
 street smarts;60
 street team;50
