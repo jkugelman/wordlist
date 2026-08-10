@@ -42648,6 +42648,7 @@ honey lemon;50
 honeymoon suite;60
 honeymoon suites;60
 honey mustard;50
+Honey Nut Cheerios;60
 honeypot;60
 honeypots;60
 Honeyracha;40;???
@@ -47804,6 +47805,8 @@ jazz pianist;50
 jazz pianists;50
 jazz piano;50
 jazz theory;50
+jazz trio;50
+jazz trios;50
 jazz up the joint;60
 jazz up the place;60
 JBL;40;Audio hardware manufacturer
@@ -55100,6 +55103,7 @@ luge teams;50
 Lugh;40;Irish god of skill and light
 Lughnasadh;40;Gaelic harvest festival
 Lugosi;50;Bela Lugosi, screen Dracula
+lugubriosity;50
 lugworm;30
 lugworms;30
 Luhrmann;50;Baz Luhrmann, "Moulin Rouge!" director
@@ -56094,6 +56098,8 @@ Major Walter Reed;50
 Majumdar;40;Megha Majumdar, "A Burning" novelist
 Majuro;40;Capital of the Marshall Islands
 makable;20;Variant of makeable
+Makarios;30
+Makarios III;30;Greek Cypriot prelate and politician (1913–1977)
 Makarova;40;Natalia Makarova, ballerina
 Makassar;40;Indonesian city on Sulawesi
 Makaveli;60;Stage name for Tupac Shakur
@@ -68139,6 +68145,7 @@ paper jams;60
 paper launch;60;Release of a hotly anticipated product that ends up having extremely limited availability
 paper launches;60
 Paperman;40;Oscar-winning Disney short
+Paper Mario: Sticker Star;50
 paper napkin;50
 paper napkins;50
 paper or plastic;60
@@ -77495,6 +77502,8 @@ Rio Muni;30;Region of Equatorial Guinea
 Rioplatense;40;Spanish dialect of the River Plate
 Riordan;50;Rick Riordan, "Percy Jackson" author
 Rio Rita;30;Abbott and Costello movie
+rios;40
+Rios;40;Kia compacts
 riot act;50
 riot gear;50
 riot grrrl;60
@@ -80107,6 +80116,10 @@ sat in on;40
 satins;40;Bad plural
 sat in traffic;50
 satire;50
+satisfied one's curiosity;60
+satisfies one's curiosity;60
+satisfying one's curiosity;60
+satisfy one's curiosity;60
 sativas;40;Plural?
 sat near;40
 sat next to;40
