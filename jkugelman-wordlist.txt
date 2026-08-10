@@ -19401,7 +19401,9 @@ como estas;60
 como esta usted;60
 Comorian;40;Of the Comoros
 Comorians;40;People of the Comoros
-Comoros;50;Indian Ocean island nation
+Comoro;40
+Comoro Islands;40
+Comoros;40;African island country in the Indian Ocean
 compact SUV;50
 compact SUVs;50
 companion piece;60
@@ -21699,6 +21701,7 @@ cut to the quick;60
 Cutty;40;Cutty Sark
 cut velvet;50
 cut weight;50
+C U When U Get There;50;1997 single by Coolio
 Cuyahoga;50;Ohio river that caught fire
 cuz;40
 Cuzco;40;Peruvian city, former Inca capital
@@ -36048,6 +36051,7 @@ gets the creative juices flowing;60
 gets the hint;60
 gets the ick;60
 gets the nod;50
+gets there;50;Makes one's hand, in poker
 gets the sack;50
 gets the scoop;60
 gets the stink eye;60
@@ -36070,6 +36074,7 @@ get the creative juices flowing;60
 get the hint;60;Finally notice a subtle cue
 get the ick;60
 get the nod;50
+get there;50;Make one's hand, in poker
 get the sack;50
 get the scoop;60
 get the stink eye;60
@@ -36173,6 +36178,7 @@ getting the creative juices flowing;60
 getting the hint;60
 getting the ick;60
 getting the nod;50
+getting there;50;Making one's hand, in poker
 getting the sack;50
 getting the scoop;60
 getting the stink eye;60
@@ -37981,6 +37987,7 @@ got the creative juices flowing;60
 got the hint;60
 got the ick;60
 got the nod;50
+got there;50;Made one's hand, in poker
 got the sack;50
 got the scoop;60
 got the stink eye;60
@@ -42626,6 +42633,8 @@ Honeywell;50;Thermostat maker
 Hong;40;Hong Kong / Cathy Park Hong, poet
 Hong Kong;60
 Hongwu;40;Founding emperor of the Ming dynasty
+honi;20
+Honi;20;Daughter of Hägar the Horrible
 Honiara;40;Capital of the Solomon Islands
 honing in;40
 honing in on;40
@@ -45137,6 +45146,7 @@ in blue;20
 Inc;50
 Inca;50;Andean empire
 Inca Empire;50
+incages;20
 Inca gold;50
 Incan;50;Of the Andean empire
 Incandenza;40;Hal Incandenza, "Infinite Jest" protagonist
@@ -45529,6 +45539,8 @@ in high heels;50
 in his hat;30
 in Hollis;20
 in-home care;50
+in hope;20
+in hopes;20
 inhume;30;Bury, poetically
 inhumed;30;Buried, poetically
 inhumer;30;Burier, poetically
@@ -79707,6 +79719,8 @@ Samus;50;Samus Aran, "Metroid" heroine
 Samwise;50
 Samwise Gamgee;60
 San;40
+Sana;30;Capital of Yemen (more commonly Sanaa or Sana'a)
+sana;20
 Sanaa;30;Capital of Yemen
 Sanaa Yemen;50
 San Antone;50;Texas city, casually
@@ -85046,6 +85060,7 @@ smoothens;40
 smoothers;20
 Smooth Smurf;60
 smoothy;30;???
+smoots;30;Nonstandard, humorous units of length
 Smoove;40;J.B. Smoove, comedian on "Curb Your Enthusiasm"
 S'mOREO;40;???
 S'mOREOs;40;S'mores-flavored Oreos
@@ -104065,6 +104080,7 @@ you can't do anything right;60
 you can't do that;60
 you can't do this to me;60
 you can't fix stupid;60
+you can't get there from here;60
 you can't have it both ways;60
 you can't lose;60
 you can't make me;60
@@ -104895,6 +104911,7 @@ zombie;60
 Zombieland;60
 zombies;60
 zombis;30
+zona;20
 Zona Gale;50
 Zonday;40;Tay Zonday, "Chocolate Rain" singer
 zoning board;50
