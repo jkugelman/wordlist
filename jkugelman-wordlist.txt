@@ -3106,6 +3106,7 @@ almost there;60
 AL MVP;40
 AL MVPs;40
 alo;30;Hello in Portuguese and South/Central American Spanish [occasional]
+a load;40
 a load of;20
 aloe;50
 aloe juice;60
@@ -3870,7 +3871,7 @@ anarch;30
 Anarchist Cookbook;60;1971 book by William Powell, with "The"
 anarchistcookbook;20
 anarchs;30
-Anas;40;Arabic given name, or the duck genus
+Anas;40;Santa Anas (hot winds)
 Anasazi;40;https://indianpueblo.org/what-does-anasazi-mean-and-why-is-it-controversial/
 Anastasia;50;Lost Romanov grand duchess
 Anastasio;40;Trey Anastasio, Phish frontman
@@ -5963,6 +5964,7 @@ a second look;50
 aseethe;30
 aseptate;40;Without a separating membrane, in biology
 Asereje;40;"The Ketchup Song (Aserejé)"
+a set;20
 as flat;20
 as for;40
 Asgard;50;Home of the Norse gods
@@ -15673,10 +15675,11 @@ cassis;40;Liqueur
 Cassius;50;Cassius Clay, or the "Julius Caesar" conspirator
 cassoulet;40;French stew
 cassoulets;40
-Casta;40;"Casta diva," Bellini aria / Laetitia Casta, model
+Casta;40;Laetitia Casta, model / "Casta diva," Bellini aria
 cast a dark shadow;60
 cast a dark shadow on;60
 cast a dark shadow over;60
+Casta diva;40;Bellini aria
 Castaneda;40;Carlos Castaneda, "The Teachings of Don Juan" author
 cast a shadow over;60
 cast a spell on;60
@@ -16392,6 +16395,8 @@ Cessnas;40;Small planes
 cesspool;60
 cesspools;60
 c'est;40
+cesta;40;Jai alai basket
+cestas;40;Jai alai baskets
 cet;20
 Cetacea;30;Order of whales, dolphines, porpoises
 cetacean;20;Whale/dolphin/porpoise
@@ -17902,6 +17907,7 @@ Circe;40;Greek sorceress
 circle-A;50;Anarchist A, written as Ⓐ
 circle back around;50
 circle back to;50
+circle circle dot dot;40
 circled back around;50
 circled back to;50
 circled overhead;50
@@ -18970,6 +18976,7 @@ cold wave;50
 cold waves;50
 Coleco;40
 ColecoVision;50;Early 1980s game console
+Cole Escola;40;"Oh, Mary!" playwright and star
 Coleman;50;Camping gear brand / Bessie Coleman, pioneering aviator
 Coleoptera;30;Beetle order
 Coleridge;50;Samuel Taylor Coleridge, "Kubla Khan" poet
@@ -20954,7 +20961,10 @@ Cristiano;50;Cristiano Ronaldo, soccer superstar
 Cristin;40;Cristin Milioti, actress
 Cristina;40;Cristina Kirchner, Argentine president, or a common first name
 Cristo;40;Monte Cristo, the count or the sandwich
-Cristobal;40;Cristóbal Balenciaga, fashion designer
+Cristóbal;40;Cristóbal Balenciaga, fashion designer
+Cristobal;0
+Cristóbal Balenciaga;50
+Cristobal Balenciaga;0
 crit;30
 Criterion Channel;60
 Criterion Closet;60
@@ -21346,6 +21356,7 @@ Cuba;50;Caribbean island nation
 Cuba libre;60
 Cuba libres;60
 Cuban;50;Havana native / Mark Cuban, "Shark Tank" investor
+Cuban Missile Crisis;60
 Cubano;40;Cuban sandwich
 Cubanos;40;Cuban sandwiches
 Cuban Pete;60;Desi Arnaz song sung in "The Mask"
@@ -25568,7 +25579,7 @@ dot-boms;20
 dotcom bubble;60
 dot-com bubbles;40
 dot-dash;40
-dot dot dot dash dash dash dot dot dot;50
+dot dot;20
 doted on;40
 doted upon;40
 dote on;40
@@ -28978,7 +28989,7 @@ Ephesians;40;New Testament book
 Ephesus;40;Ancient Greek city, home of the Temple of Artemis, one of the Seven Wonders of the Ancient World
 Ephraim;40;Biblical son of Joseph, and an Israelite tribe
 Ephrata;20
-Ephron;50;Nora Ephron, "When Harry Met Sally" writer
+Ephron;40;Nora Ephron, "When Harry Met Sally" writer
 Ephrussi;30;Noble banking family
 ephus;30;Difficult baseball pitch
 epi-;40
@@ -29453,7 +29464,8 @@ esotery;50;Esoterics
 ESP;40
 espalier;30;Trellis
 espaliers;30
-Espana;40;Spain, properly España
+España;40;Spain
+Espana;0
 Español;50
 esparto;20;Textile fiber
 Esparza;40;Actor? UFC fighter?
@@ -39800,6 +39812,8 @@ Hana;30;Hana Mandlíková, 1980s tennis champion
 Hana Mandlikova;40;Hana Mandlíková, #3 women's tennis player in the '80s
 Hanauma;40;Hanauma Bay, Hawaii
 Hanawalt;40;Lisa Hanawalt, "Tuca and Bertie" creator
+hanbok;40;Traditional Korean clothing
+hanboks;40;Traditional Korean clothing
 Hancock;50;John Hancock, famous signer
 Hancocks;40;Signatures, after John Hancock
 Handala;40;Naji al-Ali's Palestinian cartoon boy
@@ -46805,7 +46819,8 @@ I tried to tell you;60
 I tried to warn you;60
 I trust you;50
 its;50
-it's a bet;40
+it's a beautiful day in the neighborhood;60
+it's a bet;50
 it's a big if;60
 it's a bird;60
 it's a bit much;60
@@ -48336,7 +48351,8 @@ Jony;40;Jony Ive of Apple
 Jonze;40;Spike Jonze, "Her" director
 Jools;40;Jools Holland, British musician and TV host
 Joon;40
-Joost;40;Joost Klein, Dutch Eurovision singer
+Joost;30;Joost Klein, Dutch Eurovision singer
+Joost Klein;40;Dutch Eurovision singer
 joots;60;AKA pantashoes
 Joplin;50;Janis Joplin, singer, or Scott Joplin, ragtime composer
 Jordache;40;1980s designer jeans brand
@@ -48371,6 +48387,7 @@ Josepha;40;Sarah Josepha Hale, "Mary Had a Little Lamb" author
 Joseph and the Amazing Technicolor Dreamcoat;60
 Joseph Heller;50
 Josephine;50;Josephine Baker, dancer, or Napoleon's empress
+Joseph Losey;40;Theater and film director (1909–1984)
 Josephs;40;Saint Joseph's, Philadelphia university / more than one Joseph
 Josephson;40;Brian Josephson, Nobel physicist of the Josephson junction
 Josephus;40;Flavius Josephus, ancient Jewish historian
@@ -52711,6 +52728,8 @@ LeSabres;50;Buick sedans
 Lesage;30;Alain-René Lesage, French novelist in 1700s
 Lesbos;50;Greek island, home of Sappho
 Lescaut;40;Manon Lescaut, opera and novel heroine
+-lese;30
+lese;30;Lese-majesté
 Lesh;40;Phil Lesh, Grateful Dead bassist
 Les Halles;40;Parisian market until 2018
 Leshan;30;???
@@ -54519,7 +54538,7 @@ lose the attitude;60
 lose the plot;60
 lose to;40
 lose touch with;40
-Losey;40;Joseph Losey, director of "The Servant"
+Losey;30;Joseph Losey, director of "The Servant"
 losing a bet;50
 losing an hour;60
 losing a step;50
@@ -62341,6 +62360,8 @@ Nepali;50;Language of Kathmandu
 Nepalis;40;Kathmandu residents, e.g.
 Nepeta;30;Catnip genus
 nephritis;40;Kidney inflammation
+nephron;40;Microscopic structural and functional unit of the kidney
+nephrons;40;Microscopic structural and functional units of the kidney
 nepo;50;Nepo baby
 nepo babies;60
 nepo baby;60
@@ -66721,7 +66742,6 @@ O'Rourke;40;Beto O'Rourke, Texas politician / P. J. O'Rourke, humorist
 Oro y Plata;60;Montana's motto "Oro y Plata"
 Orozco;40;Muralist José Clemente Orozco
 Orpah;20;Biblical name
-orphan bot;60;"Futurama"'s Tinny Tim
 Orpheus;50;Greek myth's lyre-playing hero
 Orphic;30;Concerning Orpheus or Orphism
 Orphism;40;Cubist offshoot movement / ancient Greek mystery religion
@@ -81533,6 +81553,8 @@ sending off;40
 sending on;40
 sending out;40
 sending to;40
+send it;50
+send it back;60
 Sendler;40;Irena Sendler, Polish rescuer of Jewish children in WWII
 Send Me No Flowers;60
 send me no wine;60
@@ -99817,6 +99839,8 @@ VTubers;40;Virtual YouTubers, avatar-fronted streamers
 Vudu;30;Streaming service
 vue;20
 Vuelta;40;Vuelta a España, Spanish cycling grand tour
+Vuelta a España;40;Annual bicycle race primarily held in Spain
+Vuelta a Espana;0
 Vuelve;40;"Vuelve," Ricky Martin album
 Vuillard;40;Édouard Vuillard, Nabi painter
 Vuitton;50;Louis Vuitton, luxury fashion house
@@ -100887,8 +100911,8 @@ weirded out;60
 weird flex;60
 weird flex but OK;60
 weird flex but okay;60
-weirdo;60
-weirdos;60
+weirdo;50
+weirdos;50
 weirs;40
 Weiss;40;D.B. Weiss, "Game of Thrones" co-creator / Erich Weiss, Houdini's birth name
 Weisse;40;Berliner Weisse, tart wheat beer
@@ -101268,13 +101292,20 @@ wet martini;50
 wet martinis;50
 wet nurse;50
 wet nurses;50
+wet one;50;Slobbery kiss
+Wet Ones;50;Sanitary wipes
+wet ones;0
+wet one's appetite;20
+wet one's whistle;60
 wet-on-wet;60;Painting technique
 wet paint;50
 WeTransfer;40;File-sharing service
+wets one's whistle;60
 wetsuit;60
 wetsuits;60
 Wet'suwet'en;40;First Nation in British Columbia
 Wettig;30;Patricia Wettig from "City Slickers" or TV's "Thirtysomething"
+wetting one's whistle;60
 We TV;40
 wetware;60
 wet wipe;60
@@ -103908,6 +103939,7 @@ you can't be serious;60
 you can't deny it;60
 you can't do anything right;60
 you can't do that;60
+you can't do this to me;60
 you can't fix stupid;60
 you can't have it both ways;60
 you can't lose;60
