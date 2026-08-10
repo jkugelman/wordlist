@@ -23905,6 +23905,7 @@ Dickie;40;Kate Dickie, Scottish actress
 Dickinson;50;Emily Dickinson, poet
 dick move;60
 Dickory;40;"Hickory Dickory Dock"
+Dick Schaap;40;Sportswriter, broadcaster, and author (1934–2001)
 Dickson;40;John Dickson Carr, mystery writer
 Dicky;40;Lil Dicky, rapper and star of "Dave"
 dicot;20;Type of grass plant
@@ -34325,6 +34326,7 @@ F-tier;40
 Ft. Knox;50
 Ft. Ord;20
 FTP;20
+F Troop;40
 fts;20
 FTW;40
 F-Type;40
@@ -47924,6 +47926,7 @@ jerboa;30;???
 Jeremiah;50;Old Testament prophet
 Jeremih;40;R&B singer of "Birthday Sex"
 Jeremy;50;Common first name
+Jeremy Schaap;40;ESPN sportscaster
 Jerez;40;Spanish city, home of sherry
 Jergens;40;Hand lotion brand
 Jeri;40;Actress Jeri Ryan
@@ -82565,6 +82568,7 @@ shays;40
 Shazamed;40;Identified a song by app
 Shazaming;40;Identifying a song by app
 Shazams;40;IDs a song by app
+Sh-Boom;40;1954 doo-wop song by The Chords
 she;50
 shea;50
 sheave;40
@@ -82572,6 +82576,7 @@ sheaved;30
 Sheb;40;Sheb Wooley, "The Purple People Eater" singer
 Sheba;40;Queen of Sheba, biblical visitor to Solomon
 shebeen;20;Illicit bar
+She Bop;40;1984 single by Cyndi Lauper
 Sheboygan;50;Wisconsin city
 she can only blame herself;60
 Shechtman;40;Dan Shechtman, Nobel laureate for quasicrystals
