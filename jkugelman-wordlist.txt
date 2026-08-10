@@ -20943,11 +20943,11 @@ crisps up;50
 crisp up;50
 Crispus;40;Crispus Attucks, first casualty of the American Revolution
 Criss;40;Criss Angel, magician / Darren Criss, "Glee" actor
-criss-cross;60
+criss-cross;50
 criss-cross applesauce;60
-criss-crossed;60
-criss-crosses;60
-criss-crossing;60
+criss-crossed;50
+criss-crosses;50
+criss-crossing;50
 Crist;40;Movie critic Judith Crist (1922-2012)
 Cristal;40;Champagne brand, or the Bic Cristal pen
 Cristiano;50;Cristiano Ronaldo, soccer superstar
