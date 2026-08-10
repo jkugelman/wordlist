@@ -4371,6 +4371,8 @@ anointer;40
 anointers;40
 Anok;40;Anok Yai, fashion model (born 1997), one of TIME's 100 most influential people in 2026
 Anok Yai;50;Fashion model (born 1997), one of TIME's 100 most influential people in 2026
+anole;20;Tropical lizard
+anoles;20;Tropical lizards
 Anomalisa;40;Charlie Kaufman stop-motion film
 anomie;40;Social instability resulting from a breakdown of moral values, legit word
 anon;50
@@ -10864,6 +10866,7 @@ black sand;50;Black-colored rock and mineral particles
 black sands;50;Black-colored rock and mineral particles
 Black Santa;60
 Blacksburg;40;Virginia Tech's home
+black sheep of the family;60
 Blackstreet;50;"No Diggity" R&B group
 black swan event;60;Occurrence that is hard to predict but seems inevitable in hindsight
 black swan events;60
@@ -14619,6 +14622,7 @@ Camila;40;Camila Cabello, pop singer
 Camilla;50;Queen Camilla, and a common first name
 Camille;50;Girl's name
 Camillo;40;Camillo Golgi, of the Golgi apparatus
+Camillo Golgi;40
 Camilo;40;Camilo Cienfuegos, Cuban revolutionary
 camis;50
 camisa;30;Shirt
@@ -14795,6 +14799,8 @@ canids;50;Wolves, jackals, etc.
 Caniff;40;Milton Caniff, "Terry and the Pirates" cartoonist
 can I finish?;60
 can I get a;20
+can I get a hand?;60
+can I get a hand here?;60
 can I get in on that?;60
 can I go now;60
 can I have a brief word?;60
@@ -14825,8 +14831,10 @@ cankle;30
 cankles;30
 CanLit;40;Canadian literature
 Canmore;40;Alberta mountain town
+canna;30;Flowering tropical plant
 cannabis tea;60
 Cannae;20;Punic War battle site
+cannas;30;Flowering tropical plants
 Cannavale;50;Bobby Cannavale, actor
 canned cow;60;Condensed milk, vintage slang
 canned cow juice;60;Condensed milk, vintage slang
@@ -14953,6 +14961,7 @@ canvas tent;50
 canvas tents;50
 can we;30
 can we not;60
+Can Xue;30;Chinese writer and literary critic (born 1953)
 Canyonlands;50;Utah national park
 can you beat that;60
 can you believe it;60
@@ -14979,6 +14988,7 @@ can you see my screen;0
 can you spare a dime?;50
 can you tell?;50
 canzone;30;Italian ballad
+CANZUK;30;Proposed alliance of Canada, Australia, New Zealand and the United Kingdom
 Cao;40;Cao Cao, Three Kingdoms warlord
 Cao Dai;30;Vietnamese monotheistic religion
 Caodaism;40;Vietnamese monotheistic religion
@@ -18057,7 +18067,8 @@ claim jumpers;50
 claim-jumping;50
 claims to;40
 claim to;40
-Clair;50
+Clair;40
+Clair de Lune;60
 Claire;50;Claire Danes, actress, among others
 Claire Forlani;50;Actress in "Meet Joe Black" and "Mallrats"
 Claire's;40;Mall accessories store
@@ -20181,6 +20192,7 @@ Cosette;50;"Les Misérables" orphan
 Cosgrove;40;Miranda Cosgrove, "iCarly" star
 coshing;20
 Cosi;40
+cosier;20
 cosily;20;Variant of cozily
 Cosima;30;Always clued as Wagner's wife, only used once in Shortz era
 Cosimo;20;Couple old Italians
@@ -20309,6 +20321,8 @@ coulda fooled me;60
 could be fun;60
 could have fooled me;60
 could he be the one?;60
+could I get a hand?;60
+could I get a hand here?;60
 could it be true?;60
 couldn't hold a candle to;60
 couldn't keep a secret;60
@@ -23262,6 +23276,8 @@ demands respect;50
 DeMarco;40;Mac DeMarco, indie rocker
 DeMarcus;40;DeMarcus Cousins, NBA All-Star center
 Demarest;20;NJ town, unremarkable actor
+Demaryius;40;Demaryius Thomas, NFL wide receiver (1987-2021)
+Demaryius Thomas;40;NFL wide receiver (1987–2021)
 DeMent;30
 dementing;30
 Demento;40;Dr. Demento, novelty song radio host
@@ -24874,6 +24890,8 @@ does honor to;40
 does it by the book;60
 does it ever end?;60
 does it for the gram;60
+does it hurt?;60
+does it hurt;0
 does it look like I care?;60
 does it look like I'm joking?;60
 does it look like I'm kidding?;60
@@ -26777,7 +26795,7 @@ Durst;40;Fred Durst, Limp Bizkit frontman
 Durutti;30;The Durutti Column, post-punk band
 Duryea;30;Actor Dan Duryea (1907-1968)
 DuSable;40;Jean Baptiste Point DuSable, founder of Chicago
-Duse;40;Eleonora Duse, Italian stage actress
+Duse;30;Eleonora Duse, Italian stage actress (1858-1924)
 Dushanbe;40;Capital of Tajikistan
 Dushku;40;Eliza Dushku, "Buffy" actress
 Dusseldorf;50;German city on the Rhine
@@ -27385,11 +27403,12 @@ ect;20
 ecto-;40
 ectoderm;40
 ectoderms;40
-ecu;20
+écu;20;Old French coin
 Ecuador;50;Country on the equator
 Ecuadorian;50;From Quito, say
 Ecuadorians;40;People of Ecuador
 écuelle;30;???
+écus;20;Old French coins
 Ed;40
 eda;20
 edacious;30
@@ -27686,6 +27705,8 @@ egg hunts;60
 Eggleston;40;William Eggleston, color photography pioneer
 Eggman;60
 eggnog;50
+eggnog latte;50
+eggnog lattes;50
 Eggo;50;Waffle brand ("Leggo my Eggo")
 Eggos;50;Kellogg's waffles
 eggplant emoji;60
@@ -28003,6 +28024,7 @@ elenchi;20
 elenchus;20;Logical refutation, from the Socratic method
 Elenore;30;Song by The Turtles
 Eleonora;30;Poe short story
+Eleonora Duse;40;Italian stage actress (1858-1924)
 Eleonore Prohaska;50;Prussian woman who fought as a male soldier during the Napoleonic Wars, inspiring a Beethoven piece
 elephant in the room;60
 Elephant Mario;60
@@ -34091,6 +34113,7 @@ friend of Bill;60;AA member
 friend of Bill W.;60;AA member
 friend of Bill W;0
 friend of Dorothy;60;20th century gay codeword
+friend of the family;60
 friend request;60
 friend requests;60
 friends of Bill;60;AA members
@@ -36687,6 +36710,8 @@ Glastonbury;50;English town and music festival
 Glasvegas;40;Scottish rock band, or nickname for Glasgow
 Glaswegian;50;Glasgow native
 Glaswegians;50;Glasgow natives
+glatt;30
+glatt kosher;40
 Glau;40;Actress Summer Glau
 Glauber;40;Glauber Rocha, Brazilian filmmaker / Glauber's salt
 glaucous;40;Dull grayish-green color
@@ -37415,7 +37440,13 @@ golf swing;60
 golf swings;60
 golf tan;60
 golf tans;60
-Golgi;50;Camillo Golgi, namesake of the cell apparatus
+Golgi;30;Camillo Golgi, namesake of the cell apparatus
+Golgi apparatus;40
+Golgi apparatuses;40
+Golgi bodies;40
+Golgi body;40
+Golgi cell;40
+Golgi cells;40
 Golgotha;50;Site of the Crucifixion
 Golijov;40;Osvaldo Golijov, composer
 Gollancz;40;Victor Gollancz, British publisher
@@ -37594,6 +37625,7 @@ good tippers;60
 good tips;50
 good to see you;60
 good try;60
+good use;50
 Goodwills;40;Thrift store chain locations
 Goodwin;40;Doris Kearns Goodwin, historian / Ginnifer Goodwin, actor
 Goodyear;50;Tire brand with a blimp
@@ -39619,7 +39651,7 @@ haka;40;Maori dance
 Hakeem;40;Hakeem Olajuwon, NBA Hall of Famer / Hakeem Jeffries, House Democratic leader
 Hakim;20;Muslim judge
 Hakka;40;Chinese ethnic group and language
-Hakuna;50
+Hakuna;40
 Hakuna Matata;60
 Hal;50
 halal;50
@@ -40457,6 +40489,7 @@ Haunani-Kay;40;Haunani-Kay Trask, leader of the Hawaiian sovereignty movement
 Haunani-Kay Trask;50;Leader of the Hawaiian sovereignty movement
 Haunter;50;Pokeyman
 haunters;40;Ghosts, or frequenters
+haupia;30;Polynesian coconut milk pudding
 Hauptmann;40;Bruno Hauptmann, Lindbergh kidnapper / Gerhart Hauptmann, Nobel dramatist
 Haus;30
 Hausa;40;West African language of Nigeria and Niger
@@ -43195,6 +43228,8 @@ how soon is too soon?;60
 how soon we forget;60
 how's that;60
 how's that again;60
+how's the family?;60
+how's the family;0
 how strange;60
 HowStuffWorks;50;Explainer website
 how the heck;60
@@ -43958,6 +43993,8 @@ I couldn't care less;60
 I couldn't possibly;60
 I could take it or leave it;60
 I could use a drink;60
+I could use a hand here;60
+I could use a laugh;60
 ICP;20;Insane Clown Posse
 I cried;30;Song title
 I Cry;30;Song title
@@ -45853,6 +45890,7 @@ in the catbird seat;60
 in the cloud;60
 in the driver's seat;60
 in the face of;40
+in the family;50
 in the fold;50
 In the Ghetto;50;Elvis song
 in the heat of battle;50
@@ -45963,7 +46001,8 @@ invaginating;40
 invagination;40
 invalid ID;40;Green paint???
 invalid IDs;40
-invalid username;50
+invalid password;60
+invalid username;60
 invalue;30
 invasive species;60
 inveigler;30
@@ -46439,6 +46478,7 @@ is it art?;50
 is it art;0
 Is It Cake;60
 is it done yet;60
+is it him?;40
 is it hot in here?;60;Tie-puller's complaint
 is it me;50;"Am I the problem?"
 is it me or;40;Partial?
@@ -46829,6 +46869,7 @@ IT rage;20
 I tried;60
 I tried to tell you;60
 I tried to warn you;60
+it runs in the family;60
 I trust you;50
 its;50
 it's a beautiful day in the neighborhood;60
@@ -47447,6 +47488,7 @@ James B. McPherson;50;U.S. Army general in the American Civil War (1828–1864)
 James B McPherson;0
 James Bond Theme;60
 James Brown;60
+James Brown and the Famous Flames;50
 James Cameron;60
 James Cromwell;50
 James Dean;60
@@ -49756,6 +49798,7 @@ Khuzestan;40;Oil-rich Iranian province
 Khyber;40
 kHz;20
 Kia;50
+kia ora;40;Māori-language greeting
 Kias;40;Korean cars
 Kia Spectra;50
 Kia Spectras;50
@@ -50733,6 +50776,7 @@ Kuchipudi;40;Indian classical dance form
 kudo;20
 Kudrow;50;Lisa Kudrow, "Friends" actress
 kudu;40;African antelope
+kudus;40;African antelopes
 kudzu;50
 kudzus;40;Weird plural
 kue;20
@@ -55490,6 +55534,8 @@ machos;30;Bad plural
 machree;20
 Mach two;40
 Machu;40
+machzor;40;Prayer book used by Jews on holidays
+machzorim;40;Prayer books used by Jews on holidays
 Macintosh;50;Apple computer
 Macintoshes;50;Apples or old Apple computers
 Mac Jr;60;Mini Big Mac
@@ -57152,6 +57198,10 @@ Maryam;30;First name, who???
 Mary Hart;50
 Mary Higgins Clark;50
 Mary I;40;"Bloody Mary"
+Mary II;30
+Mary II of England;40
+Mary I of England;40
+Mary I of Scotland;40
 Mary Janes;50
 Mary J. Blige;60;Hip-hop / R&B artist
 Mary J Blige;0
@@ -62996,6 +63046,8 @@ nightwear;50
 Nightwing;50;Grown-up Robin's superhero identity
 Nightwish;40;Finnish symphonic metal band
 Nighy;50;Bill Nighy, "Love Actually" actor
+nigiri;40
+nigirizushi;40
 Nigro;30;Dan Nigro, pop producer
 NIH;40
 ni hao;40
@@ -66038,6 +66090,7 @@ onhard;0
 on hire;40;In service, British slang
 on HRT;40
 oni;40;Japanese demon, or Navy ONI
+onigiri;40
 on in;20;Partial
 onion bagel;60
 onion bagels;60
@@ -66998,6 +67051,7 @@ Otomis;30;Mexican people
 Otomo;40;Katsuhiro Otomo, creator of "Akira"
 O'Toole;50;Peter O'Toole, "Lawrence of Arabia" star
 O'Tooles;30;Plural name
+O-Town;40;Nickname for Orlando
 OTP;20;One-time password
 OTPs;20;One-time passwords
 otra;40
@@ -68963,7 +69017,9 @@ pedophiles;10
 pedophilia;10
 Pedrad;40;SNL cast member Nasim Pedrad 2009-2014
 Pedro;50;Common Spanish first name / "Vote for Pedro"
+Pedro I;30
 Pedroia;40;Dustin Pedroia, Red Sox second baseman
+Pedro II;30
 peds;40
 peduncle;30;???
 peduncles;30;???
@@ -73131,6 +73187,7 @@ Puerto Ricans;60
 Puerto Rico;60
 puf;20
 Puff Daddy;10
+Puff Daddy and The Family;10
 puffed out;50
 puffed up;50
 pufferies;30
@@ -74519,6 +74576,7 @@ ran in;40
 ranine;20;Frog-related, or region under the tongue
 ran interference;60
 ran interference for;50
+ran in the family;60
 ran into;40
 ran it;40;Did a runthrough, in theater
 ran it by;40
@@ -75723,7 +75781,8 @@ refresh my memory;60
 refrigerate after opening;60
 refugee camp;50
 refulgence;30
-refusenik;50
+refusenik;60;Soviet citizen denied permission to emigrate
+refuseniks;60;Soviet citizens denied permission to emigrate
 refuter;30
 refuters;30
 reg;40
@@ -78722,6 +78781,7 @@ Rungano;40;Rungano Nyoni, Zambian-Welsh director
 rung around;30;Called around
 run interference;60
 run interference for;50
+run in the family;60
 run into;40
 run it;40;Do a runthrough, in theater
 run it by;40
@@ -78751,6 +78811,7 @@ running for it;60
 running game on;60
 running interference;60
 running interference for;50
+running in the family;60
 running into;40
 running it;40;Doing a runthrough, in theater
 running it by;40
@@ -78812,6 +78873,7 @@ run short on;40
 runs in;40
 runs interference;60
 runs interference for;50
+runs in the family;60
 runs into;40
 runs it;40;Does a runthrough, in theater lingo
 runs it by;40
@@ -79430,7 +79492,7 @@ salified;30
 salifies;30
 salify;30
 salifying;30
-Salih;40;Tayeb Salih, Sudanese novelist
+Salih;40;Tayeb Salih, Sudanese novelist and short story writer (1929–2009)
 Salim;30;Arabic given name
 Salim Khan;40;Indian actor and screenwriter (born 1935)
 Salina;30;Kansas city
@@ -82916,7 +82978,9 @@ shogun warriors;60
 Shohei;50;Shohei Ohtani, two-way baseball star
 Shohreh;40;Shohreh Aghdashloo, "The Expanse" actress
 shoji;40;Japanese translucent door/window/room divider
-shojo;40;???
+shōjo;30;Style of anime for young women
+shōjo manga;40;Manga for young women
+shojo manga;0
 Sholay;40;Classic 1975 Bollywood film
 Sholem;40;Sholem Aleichem, Yiddish author
 Sholokhov;40;Mikhail Sholokhov, Nobel-winning Russian novelist
@@ -83549,6 +83613,7 @@ signs one's life away;60
 signs onto;40
 Sigourney;50;Sigourney Weaver, "Alien" star
 Sigrid;40;Sigrid Undset, Nobel-winning novelist
+Sigrid Undset;40;1928 literature Nobelist
 Sigur;40;Sigur Rós, Icelandic post-rock band
 Sigurd;40;Dragon-slaying Norse hero
 Sikes;40;Dickens villain Bill Sikes
@@ -83948,6 +84013,10 @@ sitcoms;50
 sit down with;40
 sit erect;20;Green paint
 Sith;50;"Star Wars" dark side order
+Sith Academy;20
+sit here;50
+Sith Lord;60
+Sith Lords;60
 sit idle;50
 sit idly by;60
 sit in;40
@@ -87556,6 +87625,8 @@ star turn;60
 star turns;60
 start without me;60
 starve a fever;50
+Star Wars: Episode III – Revenge of the Sith;50
+Star Wars Episode III Revenge of the Sith;0
 Starz;40;Premium cable channel
 stases;40
 stash;50
@@ -89325,7 +89396,8 @@ Sunkist;50;Citrus and soda brand
 sun lounge;40
 sun lounges;40
 Sunmi;40;K-pop soloist, formerly of Wonder Girls
-Sunnah;40;Practices of the Prophet Muhammad
+Sunnah;30;Practices of the Prophet Muhammad
+Sunnah salah;40
 Sunni;50;Larger branch of Islam
 Sunni-led;30;???
 Sunnis;50;Largest Muslim denomination
@@ -91242,6 +91314,7 @@ Tay;40;Taylor Swift nickname
 Tayari;40;Tayari Jones, "An American Marriage" novelist
 Taye;40
 Tayeb;40;Tayeb Salih, Sudanese novelist
+Tayeb Salih;50;Sudanese novelist and short story writer (1929–2009)
 Taylor;50;Taylor Swift, among many others
 Taylor Dearden;50;Actress Taylor Dearden from "The Pitt"
 Taylordle;20
@@ -92691,7 +92764,7 @@ the Fab Five;50
 the fact is;50
 the fairer sex;50
 The Fall of the House of Usher;60
-the fam;40
+the fam;50
 The Fame;50;Lady Gaga's debut album
 The Far Side;60
 The Fast and the Furious;60
@@ -94074,7 +94147,8 @@ thuribles;30
 thurifer;30;Acolyte carrying a censer
 thurifers;30
 Thuringia;40;German state
-Thurl;40;Thurl Ravenscroft, voice of Tony the Tiger
+Thurl;30;Thurl Ravenscroft, voice of Tony the Tiger
+Thurl Ravenscroft;50;Voice of Tony the Tiger
 Thurman;40;Uma Thurman, "Kill Bill" star
 Thurs;40
 Thursday;50;Day after Wednesday
@@ -97821,7 +97895,7 @@ undoings;40
 undrape;30
 undraped;30
 undrapes;30
-Undset;40;Sigrid Undset, Nobel-winning Norwegian novelist
+Undset;30;Sigrid Undset, 1928 literature Nobelist
 undull;30
 undulled;50
 une;40
@@ -101634,6 +101708,8 @@ where are my keys;0
 where did I park;60
 where did we park?;60
 where did you park?;60
+where does it hurt?;60
+where does it hurt;0
 where do I begin;60
 where do I sign up;60
 where do you draw the line?;60
@@ -102516,6 +102592,7 @@ withal;30
 with all the bells and whistles;60
 with all the trimmings;60
 with a moo moo here;30;???
+with a name like Smucker's it has to be good;60
 with an eye for;20
 with an eye for detail;20
 with a nom de plume;20
@@ -103756,6 +103833,7 @@ yes, babe;50
 yes boss;60
 yes chef;60
 yes I see;50
+yes I think so;50
 yes I won;40
 yes let's;50
 yes'm;40
