@@ -33896,6 +33896,7 @@ Frederick Handel;50
 Frederick Sanger;50
 Fredericksburg;50;Virginia city and Civil War battle site
 Frederick the Great;50
+Frederico García Lorca;0;Misspelled
 Fredericton;40;Capital of New Brunswick
 Frederik;40;Frederik Pohl, sci-fi writer / Danish royal name
 Fredo;50;Fredo Corleone of "The Godfather"
@@ -35077,7 +35078,7 @@ García Lorca;40;Federico García Lorca, Spanish poet and playwright
 Garcia Lorca;0
 García Márquez;60;Gabriel García Márquez, Colombian writer and Nobel laureate (1927–2014)
 Garcia Marquez;0
-Garciaparra;50;Nomar Garciaparra, Red Sox shortstop
+Garciaparra;40;Nomar Garciaparra, Red Sox shortstop
 garçons;40;French boys
 Garda;40;Italy's Lake Garda, or Ireland's police force
 Gardasil;40;HPV vaccine
