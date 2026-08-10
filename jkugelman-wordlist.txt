@@ -8138,21 +8138,28 @@ Bangarang;50;Lost Boys' cry in "Hook"
 bang away at;50
 banged away at;50
 banged into;40
+banged on;40
 banger;60
 Bangerz;40;Miley Cyrus album
+bang for one's buck;60
 banging away at;50
 banging into;40
+banging on;40
 bang into;40
 Bangkok;50;Capital of Thailand
 Bangkok Thailand;20
 Bangla;40;Bengali language
 Bangladesh;50;South Asian country
 Bangladeshi;50;From Dhaka's country
+Bangladeshi monetary unit;0
 Bangladeshis;50;People of Bangladesh
 Bango;40;Milwaukee Bucks mascot
+bang-on;50
+bang on;40
 Bangor;40;Maine city
 bangs away at;50
 bangs into;40
+bangs on;40
 Bangui;30;???
 banh;40
 banhammer;60
@@ -9777,7 +9784,7 @@ Benin;50;West African country
 Bening;40;Annette Bening, actress
 Benioff;40;David Benioff, "Game of Thrones" co-creator / Marc Benioff, Salesforce founder
 benison;40;Blessing
-benisons;40
+benisons;40;Blessings
 Benitez;40;Rafael Benítez, soccer manager
 Benito;40;Benito Juárez, Mexican president / Benito Mussolini
 Benito Antonio Martínez Ocasio;60;Bad Bunny
@@ -10512,6 +10519,7 @@ binges on;40
 Bingham;40;Hiram Bingham, Machu Picchu explorer / George Caleb Bingham, painter
 Binghamton;40;New York city and SUNY campus
 binging on;20
+bingo bango bongo;60
 bingo card;60
 bingo cards;60
 bingo game;60
@@ -22145,6 +22153,7 @@ Danny Kaye;50
 Danny Partridge;50
 Danny Pudi;50;Actor Danny Pudi
 Danny Torrance;60;From "The Shining"
+Danny Zuko;50;"Grease" main character
 Dano;40
 Danone;40;French yogurt giant
 Dan Patch;40;Champion horse in the early 1900s
@@ -27347,6 +27356,7 @@ echometry;40;Measurement of echoes
 echo pedal;50
 echo pedals;50
 Echos;40;Amazon speakers
+echt;30;German "genuine"
 e-cig;40
 e-cigs;40
 eck;20
@@ -58489,7 +58499,7 @@ Menaker;40;Will Menaker, "Chapo Trap House" host
 Menander;40;Greek comic playwright
 Menards;40;Midwest home improvement chain
 Menchu;40;Rigoberta Menchú, Guatemalan Nobel Peace laureate
-Mencius;50;Confucian philosopher
+Mencius;40;Confucian philosopher
 Mencken;40;H.L. Mencken, the Sage of Baltimore
 Mendel;50;Gregor Mendel, father of genetics
 Mendeleev;50;Dmitri Mendeleev, periodic table creator
@@ -67832,6 +67842,8 @@ Palauans;40;Micronesian islanders
 Palcohol;50;Powdered alcohol
 palely;30
 Palembang;40;City in Indonesia
+Palembang, Indonesia;40
+Palembang Indonesia;0
 Palenque;40;Mayan ruins in Chiapas
 paleo;50
 Paleocene;50;Epoch right after the Cretaceous
@@ -90915,7 +90927,7 @@ Tananarive;40;Tananarive Due, horror novelist
 Tancredi;40;Rossini opera / Sara Tancredi of "Prison Break"
 tandems;50;Tandem bikes
 Tanden;40;Neera Tanden, Biden policy adviser
-tandoor;60
+tandoor;50
 tandoori chicken;60
 tandoori oven;60
 tandoori ovens;60
@@ -90924,7 +90936,7 @@ tandoor naan;60
 tandoor oven;60
 tandoor ovens;60
 tandoor roti;60
-tandoors;60
+tandoors;50
 Tandy;40;Jessica Tandy, "Driving Miss Daisy" star / old computer brand
 Tandys;20
 Tanega;40;Norma Tanega, "You're Dead" singer
@@ -105040,7 +105052,7 @@ Zucman;40;Gabriel Zucman, wealth-tax economist
 Zugspitze;40;Germany's highest peak
 Zuider;20
 Zuiderzee;50;Former Dutch inland sea
-Zuko;50;Danny Zuko of "Grease", or the "Avatar" prince
+Zuko;40;Danny Zuko of "Grease", or the "Avatar" prince
 Zukofsky;40;Louis Zukofsky, Objectivist poet
 Zuleika;40;"Zuleika Dobson," Max Beerbohm novel
 Zulema;30
