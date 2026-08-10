@@ -13704,11 +13704,13 @@ burn centres;20
 burn daylight;60
 Burne;40;Edward Burne-Jones, Pre-Raphaelite painter
 burned daylight;60
+burned to a crisp;60
 burned up;50
 Burnett;50;Carol Burnett, comedian
 Burney;40;Fanny Burney, "Evelina" novelist
 Burnham;40;Bo Burnham, comedian / Daniel Burnham, architect
 burning daylight;60
+burning to a crisp;60
 burning up;50
 burn one;50
 burn rate;50
@@ -13721,6 +13723,7 @@ burns to a crisp;60
 burns up;50
 burn to a crisp;60
 burnt one;50
+burnt to a crisp;60
 burnt toast;50
 burnt up;50
 burn unit;50
@@ -18577,7 +18580,7 @@ c-note;40
 c-notes;40
 CNS;40
 CN Tower;40
-Cnut;40;Cnut the Great, Danish king of England
+Cnut;30;Cnut the Great, Danish king of England
 co;40
 coa;20
 coach dog;40;Dog trained to run alongside carriages to protect from bandits
@@ -20336,6 +20339,7 @@ counting calories;50
 counting cards;50
 counting on;40
 counting the days;50
+Count of Monte Cristo;60
 Count Olaf;60;"A Series of Unfortunate Events" villain
 count on;40
 Count On Me;50;Various
@@ -20924,9 +20928,19 @@ crisis centre;20
 crisis centres;20
 crisis hotline;60
 crisis hotlines;60
+crisis negotiation;60
+crisis negotiations;60
+crisis negotiator;60
+crisis negotiators;60
+Crisis on Infinite Earths;60
+crisped up;50
+Crispian;40
 Crispin;40;Saint Crispin, of the "Henry V" speech / Crispin Glover, actor
-CRISPR;50
+crisping up;50
+CRISPR;40
 crispscrip;0
+crisps up;50
+crisp up;50
 Crispus;40;Crispus Attucks, first casualty of the American Revolution
 Criss;40;Criss Angel, magician / Darren Criss, "Glee" actor
 criss-cross;60
@@ -21926,12 +21940,14 @@ Daleys;40;Richard J. and Richard M. Daley, Chicago mayors
 Dalgliesh;40;Adam Dalgliesh, P.D. James's detective
 Dalhousie;40;Halifax university
 Dali;50;Salvador Dalí, surrealist painter
-Dalian;40;Chinese port city
+Dalian;30;Chinese port city
+Dalian, China;40;Port city
+Dalian China;0
 Daliesque;50;Surreal, in the manner of Salvador Dalí
-Dalila;40;Delilah, in Saint-Saens' opera
+Dalila;30;Delilah, in Saint-Saens' opera
 Dalis;40;Salvador Dalí works
-Dalit;40;Member of India's lowest caste
-Dalits;40;Members of India's lowest caste
+Dalit;30;Member of India's lowest caste
+Dalits;30;Members of India's lowest caste
 Dalkey;40;Dalkey Archive Press / Dublin seaside suburb
 Dallaire;40;Roméo Dallaire, Canadian general in Rwanda
 Dallapiccola;40;Luigi Dallapiccola, Italian composer
@@ -22078,7 +22094,8 @@ Danish;50;Pastry, or a Dane's language
 Danishes;50;Breakfast pastries
 Danite;30
 Danites;30
-Danity;40;Danity Kane, girl group
+Danity;30;Danity Kane, girl group
+Danity Kane;40;Girl group
 D'Anjou;40;Pear variety
 Dan Marino;50
 Danner;40;Blythe Danner, actress
@@ -23133,8 +23150,9 @@ Delftware;50;Blue-and-white Dutch pottery
 Delgado;40;Carlos Delgado, Blue Jays slugger
 Delhi;50;Indian capital region
 Delia;40;Delia Owens, novelist, or Delia Ephron, writer
-Delian;40;Delian League, Athens-led Greek alliance
-Delians;40;Delos islanders
+Delian;30;Delian League, Athens-led Greek alliance
+Delian League;40;Association of ancient Greek city-states under Athenian hegemony
+Delians;30;Delos islanders
 Delibes;40;Léo Delibes, "Lakmé" composer
 delicate cycle;60
 delicate matter;50
@@ -23155,7 +23173,7 @@ delish;60
 DeLisle;40;Grey DeLisle, voice actor
 deli slicer;50
 deli slicers;50
-Delius;40;Frederick Delius, English composer
+Delius;30;Frederick Delius, English composer (1862–1934)
 deliver a blow;50
 deliver by hand;50
 delivered by hand;50
@@ -25487,7 +25505,8 @@ dories;40;Fish / Fishing boats
 Doris;50;Doris Day, actress, among others
 Doris Lee;50
 Doris Lessing;50;Nobel Prize in Literature in 2007
-Dorito;40;Nacho cheese chip
+Dorito;50;Nacho cheese chip
+Dorito dust;50
 Doritos;50;Tortilla chip brand
 Dorking;40;Surrey town and chicken breed
 Dorma;40;Puccini's "Nessun Dorma"
@@ -25723,6 +25742,7 @@ do you think this is a game?;60
 Doz;20
 dozer;50
 dozers;50
+dozier;40
 dozy;30
 DP;40
 D-pad;40
@@ -33543,6 +33563,9 @@ foul ball;60
 foul balls;60
 foul call;60
 foul calls;60
+foul shooting;50
+foul shot;60
+foul shots;60
 found a home;50
 foundation;50
 found God;60
@@ -33784,6 +33807,7 @@ Freddy's;40;Five Nights at Freddy's
 Freddy vs Jason;60
 Frederic;40;Frédéric Chopin, or Frederic Remington
 Frederick;50;Common first name
+Frederick Delius;40;English composer (1862–1934)
 Frederick Handel;50
 Frederick Sanger;50
 Fredericksburg;50;Virginia city and Civil War battle site
@@ -35597,6 +35621,7 @@ George Soros;50;Billionaire investor and philanthropist
 George Takei;60
 Georgetown;50;D.C. university
 Georgette;40;Georgette Heyer, Regency romance novelist / sheer fabric
+Georgette Heyer;40;Regency romance novelist (1902-1974)
 George V;30
 George VI;30
 George W.;20
@@ -41581,7 +41606,7 @@ hey, bro;50
 heyday;60
 hey don't look at me;60
 hey, dude;60
-Heyer;40;Georgette Heyer, Regency romance novelist
+Heyer;30;Georgette Heyer, Regency romance novelist (1902-1974)
 Heyerdahl;40;Thor Heyerdahl, Kon-Tiki rafter
 Hey Google;60
 hey hey;50
@@ -50586,8 +50611,8 @@ Krieps;40;Vicky Krieps, "Phantom Thread" star
 Krige;40;Alice Krige, actress and the Borg Queen
 krill-eater seal;50
 krill-eater seals;50
-Kris;50;Common first name: Kris Kristofferson, Kris Jenner
-krises;30;Malaysian daggers
+Kris;40;Common first name: Kris Kristofferson, Kris Jenner
+krises;40;Malaysian daggers
 Krishna;50;Hindu deity
 Krishnamurti;50;Jiddu Krishnamurti, Indian philosopher
 Krispies;50
@@ -56094,6 +56119,7 @@ makes waves;60
 make the big bucks;60
 make the butt of the joke;60
 make the scene;60
+make three pointer;20
 make time;50
 make time for;50
 makeup;50
@@ -79548,6 +79574,7 @@ Sam Shepard;50
 Sam Shepherd;20;???
 samshu;40;Chinese liquor
 Samson;50;Biblical strongman
+Samson et Dalila;50;Opera by Camille Saint-Saëns and Ferdinand Lemaire
 Samsonite;50;Luggage brand
 Samsons;20;Strongmen
 Sam Spade;60
@@ -86003,8 +86030,8 @@ soursop;40
 soursops;30;Is plural legit???
 sous;40
 Sousa;50;John Philip Sousa, the March King
-sous-chef;50
-sous-chefs;50
+sous-chef;60
+sous-chefs;60
 souse;10
 soused;10
 souses;10
@@ -92498,6 +92525,7 @@ the cops;40
 The Core;40;Sci-fi film
 the cosmos;40
 The Count;50;Muppet
+The Count of Monte Cristo;60
 the cow;20
 The Crab;40;???
 The Creation of Adam;60;Fresco by Michelangelo on the Sistine Chapel ceiling
@@ -93797,6 +93825,16 @@ threeping;30
 Threepio;40
 three-ply;50;Three ply
 three PM;50
+three pointer;60
+three pointers;60
+three-point line;60
+three-point lines;60
+three points;40
+three-point shooting;50
+three-point shot;50
+three-point shots;50
+three-point turn;60
+three-point turns;60
 threeps;30
 threer;30
 three R's;50
