@@ -60776,6 +60776,10 @@ Moon bounces;60
 moon buggy;60
 moon cake;60;Chinese pastry eaten during Mid-Autumn Festival
 moon cakes;60
+moonchild;60;Cancerian
+moonchildren;60;Cancerians
+Moon colonies;60
+Moon colony;60
 Moondance;50;Van Morrison album
 Moondog;50;Composer
 Mooney;40;Kyle Mooney, SNL alum / Marvin K. Mooney of Dr. Seuss
