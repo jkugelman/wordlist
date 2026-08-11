@@ -7602,6 +7602,8 @@ backrests;50
 backs a candidate;50
 backsaw;40
 backsaws;40
+back scratcher;60
+back scratchers;60
 backseating;60;Giving unwanted advice in a livestream chat
 backs into;40
 backs into a corner;60
@@ -9727,6 +9729,8 @@ belly bumps;60
 belly button lint;50
 belly fat;50
 bellyful;50
+belly scratch;60
+belly scratches;60
 Belmondo;40;Jean-Paul Belmondo, "Breathless" star
 Belmont;40;Belmont Stakes track
 Belmopan;40;Capital of Belize
@@ -14713,6 +14717,7 @@ came to mind;50
 came to the rescue;50
 came under attack;50
 came up to;40
+came up to scratch;60
 came up with;40
 came with;40
 cami;50
@@ -15651,8 +15656,8 @@ cartoonish;50
 cartoon physics;60
 cartoon short;50
 cartoon shorts;50
-cartoon strip;50
-cartoon strips;50
+cartoon strip;60
+cartoon strips;60
 cartoon violence;60
 car trailer;50
 car trailers;50
@@ -15997,6 +16002,9 @@ cat rescues;60
 Catriona;40;Stevenson sequel to "Kidnapped"
 CAT scanner;50
 CAT scanners;50
+cat scratch disease;20
+cat scratch fever;50
+Cat Scratch Fever;50;1977 song/album by Ted Nugent
 cat's games;0
 cat shit;10
 catsit;50
@@ -17336,6 +17344,7 @@ chicken nuggets;60
 Chicken of the Sea;60
 chicken or the egg;60
 chicken out;60
+chicken scratch;60;Bad handwriting
 chicken skewer;50
 chicken skewers;50
 chickens out;60
@@ -19377,6 +19386,7 @@ comes to the rescue;50
 comes under attack;50
 comes up dry;50
 comes up to;40
+comes up to scratch;60
 comes up with;40
 comes with;40
 cometh;40
@@ -19390,6 +19400,7 @@ come to mind;50
 come to the rescue;50
 come under attack;50
 come up to;40
+come up to scratch;60
 come up with;40
 come what may;60
 come with;40
@@ -19447,6 +19458,7 @@ coming to mind;50
 coming to the rescue;50
 coming under attack;50
 coming up to;40
+coming up to scratch;60
 coming up with;40
 coming with;40
 comin' in hot;40;Song???
@@ -41027,6 +41039,9 @@ head of state;60
 headphone jack;60
 headphone jacks;60
 headphones;60
+head-scratcher;60
+head-scratchers;60
+head-scratching;60
 heads down, thumbs up;60
 heads for;40
 headshot;60
@@ -47049,6 +47064,7 @@ it can't be that bad;60
 it can't be that hard;60
 it can wait;60
 Itchy and Scratchy;60
+Itchy & Scratchy Show;60
 it comes and goes;50
 it could be fun;60
 it cracks me up;60
@@ -47242,6 +47258,7 @@ it's in the bag;60
 It's-It;40;It's-It west coast ice cream brand
 it's just a prank;60
 it's just a prank, bro;60
+it's just a scratch;60
 it's just a thought;60
 it's just one of those days;60
 it's just that simple;60
@@ -55984,6 +56001,7 @@ made by hand;60
 made do with;40
 made faces;50
 made for;40
+made from scratch;60
 made good;50
 made good on;50
 made heads roll;60
@@ -56495,6 +56513,7 @@ makes do with;40
 make sense;50
 make sense of;50
 makes faces;50
+makes from scratch;60
 makes good;50
 makes good on;50
 makes heads roll;60
@@ -56592,6 +56611,7 @@ making biscuits;60
 making by hand;60
 making do with;40
 making faces;50
+making from scratch;60
 making good;50
 making good on;50
 making heads roll;60
@@ -61308,6 +61328,8 @@ Mrs. Butterworth;60;Brand of syrups and pancake mixes
 Mrs Butterworth;0
 Mrs. Butterworth's;60;Brand of syrups and pancake mixes
 Mrs Butterworth's;0
+Mr. Scratch;50;Nickname for the Devil
+Mrs. Cratchit;50;"A Christmas Carol" character
 Mrs. Dash;40;Brand of seasoning products, just Dash since 2020
 Mrs Dash;0
 Mrs. Doubtfire;60;1993 Robin Williams comedy
@@ -64307,6 +64329,7 @@ not care for;40
 not cheap;50
 notches on one's belt;60
 notch on one's belt;60
+not come up to scratch;60
 not cool;60
 not cricket;60;British idiom: unfair, unsportsmanlike
 not do;40
@@ -64447,6 +64470,7 @@ not too sure;50
 not to rain on your parade;60
 not to rain on your parade but;60
 not up to it;60
+not up to scratch;60
 not up to the task;60
 no turn on red;60
 not us;50
@@ -65952,6 +65976,7 @@ old sayings;50
 old-school hip hop;60
 old score;50
 old scores;50
+Old Scratch;60;Nickname for the Devil
 oldshit;10;Transgender person who began transitioning at a relatively late age (after puberty is fully complete)
 old silk hat;60
 Oldsmobile;50;Defunct GM brand
@@ -81252,10 +81277,31 @@ scraping up;40
 scrap iron;50
 Scrat;40;"Ice Age" squirrel
 scratch;50
+scratch and claw;60
+scratch an itch;60
+scratch card;60
+scratch cards;60
+scratched and clawed;60
+scratched an itch;60
+scratched one's head;50
+scratched out a living;60
 scratched the surface;60
+scratches and claws;60
+scratches an itch;60
+scratches one's head;50
+scratches out a living;60
 scratches the surface;60
+scratch golfer;60
+scratch golfers;60
+scratching and clawing;60
+scratching an itch;60
+scratching one's head;50
+scratching out a living;60
 scratching the surface;60
+scratch my back and I'll scratch yours;60
 scratch'n'sniff;60
+scratch one's head;50
+scratch out a living;60
 scratch the surface;60
 screak;30
 Screamadelica;50;Primal Scream album
@@ -93453,6 +93499,8 @@ theirs;30
 the Isles;40;Nickname for the New York Islanders?
 Theiss;30;Actress Brooke Theiss, not super notable
 The Italian Job;60
+The Itchy and Scratchy Show;60
+The Itchy & Scratchy Show;60
 the Ivy League;40
 the jack of clubs;40
 the jack of diamonds;40
@@ -95202,6 +95250,7 @@ Tirso;40;Tirso de Molina, Spanish Golden Age dramatist
 tisane;30;Herbal tea
 tisanes;30;Herbal teas
 'tis a pity;50
+'tis but a scratch;60
 Tisch;40;NYU Tisch School of the Arts
 Tisdale;40;Ashley Tisdale, "High School Musical" actor
 Tish;40;Girl's name, short for Letitia
@@ -98898,6 +98947,7 @@ up the creek without a paddle;60
 up to here;20
 Upton;40;Upton Sinclair, author / Kate Upton, model
 up top;60
+up to scratch;60
 up to speed;50
 up up up up up up;20
 upvote;50
