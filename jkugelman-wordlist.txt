@@ -6224,6 +6224,7 @@ ASMR video;60
 ASMR videos;60
 a snap;40
 Asner;40;Ed Asner
+as new;20
 Aso;30;Japan's largest volcano [rare]
 as of;50
 as often as not;60
@@ -9485,6 +9486,7 @@ beef skewer;60
 beef skewers;60
 beefsteak tomato;60
 beefsteak tomatoes;60
+beef Stroganoff;60
 Beefy-T;20;Thick Hanes t-shirt
 beehive;50
 Beehive State;50
@@ -9605,6 +9607,7 @@ be for;20
 before common era;60
 before golf;20
 before I go;60
+before I knew it;60
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
 before you rush to judgment;60
@@ -44557,6 +44560,7 @@ If I Fell;50
 I figured;60
 I figured you'd say that;60
 if I had a nickel;60
+if I knew then what I know now;60
 Ifill;40;Journalist Gwen Ifill, voting rights expert and law professor Sherrilyn Ifill
 if I may;50
 if I might;60
@@ -44760,9 +44764,15 @@ Ikettes;40;Ike and Tina Turner's backup singers
 I kill me;60
 I Kings;30;1 Kings
 Ikiru;40;Kurosawa film (1952)
+I knew;40
+I knew him, Horatio;60
+I knew I could count on you;60
+I knew it;60
 I knew right away;60
+I knew this day would come;60
 I knew you'd like it;60
 I knew you'd say that;60
+I knew you'd understand;60
 I Knew You When;50;Song
 I know;50;Han's reply
 I know how you feel;60
@@ -48608,6 +48618,7 @@ Joely;40;Joely Richardson, actress
 Joe O'Malley;30
 JoePa;10;Joe Paterno, disgraced Penn State coach
 Joe Pera;50;Creator of Adult Swim's "Joe Pera Talks with You"
+Joe Rogan;50
 Joe's;40;Trader Joe's grocery chain, or "Joe's Garage"
 Joe Satriani;50
 Joe Schmo;60
@@ -57452,6 +57463,7 @@ mark of shame;60
 Mark O'Meara;50;Retired professional golfer (born 1957)
 Markov;40;Andrey Markov, of the Markov chain
 Markova;40;Alicia Markova, British ballerina
+Mark Rober;40;YouTuber, engineer, inventor, and educator
 marks of shame;60
 Markus;40
 Markus Persson;50;Creator of Minecraft
@@ -78255,7 +78267,8 @@ road-tripper;50
 road-trippers;50
 road tripping;50
 road trips;50
-Roald;50;Roald Dahl, children's author / Roald Amundsen, polar explorer
+Roald;40;Roald Dahl, children's author / Roald Amundsen, polar explorer
+Roald Dahl;50
 roamer;40
 roamers;40
 Roanoke;50;Virginia city, or the Lost Colony
@@ -78486,6 +78499,8 @@ Roethlisberger;50;Ben Roethlisberger, Steelers quarterback
 ROFL;40
 rog;20
 Rogaine;50;Hair regrowth brand
+Rogan;40
+rogan josh;40;Kashmiri curried meat dish
 Rogen;40;Seth Rogen, actor and comedian
 Roger Bacon;50
 Roger Ebert;60
@@ -98892,8 +98907,11 @@ unsent;50
 Unser;40
 unserious;50
 Unsers;40;Indy-winning racing family
-unsewed;30
+unsew;40
+unsewed;40
+unsewing;40
 unsewn;40
+unsews;40
 unship;30
 unshipped;50;Like a package, or other obscure meanings
 unshipping;30
@@ -105550,7 +105568,7 @@ ze/zir pronouns;50
 ze zir pronouns;0
 Zhane;40;1990s R&B duo
 Zhang;40;Zhang Yimou, director / Zhang Ziyi, actress
-Zhang Ziyi;50;Chinese actress and model (born 1979)
+Zhang Ziyi;40;Chinese actress and model (born 1979)
 Zhao;40
 Zhejiang;40;Chinese coastal province
 Zheng;40;Zheng He, Ming dynasty admiral
@@ -105663,7 +105681,7 @@ Zitti;40;"Zitti e buoni," Eurovision-winning Maneskin song
 Ziva;40;Ziva David, "NCIS" agent
 Ziwe;40;Ziwe Fumudoh, comedian and talk show host
 Ziyi;40;Zhang Ziyi, Chinese actress and model (born 1979)
-Ziyi Zhang;50;Chinese actress and model (born 1979)
+Ziyi Zhang;40;Chinese actress and model (born 1979)
 Zizek;40;Slavoj Žižek, Slovenian philosopher
 zloty;40;Polish coin
 zlotys;40
