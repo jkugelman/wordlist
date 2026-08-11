@@ -5993,6 +5993,7 @@ as dead as a;20
 ASDF;30
 ASDFGHJKL;30
 as did I;50
+as dull as dishwater;60
 -ase;20
 asea;50
 ASEAN;20;Association of Southeast Asian Nations
@@ -6194,6 +6195,7 @@ ASL;40
 Aslan;40;C.S. Lewis lion
 aslant;30
 as large;20
+asleep at the switch;60
 asleep at the wheel;60
 Asleep in the Deep;60
 asleep on the job;60
@@ -7879,8 +7881,15 @@ Baio;40;Scott Baio
 Baird;40;John Logie Baird, television pioneer / Zoe Baird, Clinton nominee
 bairn;30;Child, to a Scot
 bairns;30
+bait and switch;60
+bait and switched;60
+bait and switches;60
+bait and switching;60
+baited and switched;60
 baiter;50;Troll, "He had become famous as a baiter of left-wing politicians"
 baiters;50
+baiting and switching;60
+baits and switches;60
 Baiul;40
 Baja;50;Mexican peninsula, or Mountain Dew Baja Blast
 Baja Blast;60
@@ -8628,6 +8637,8 @@ baseball hat;60
 baseball hats;60
 baseball park;60
 baseball parks;60
+baseball pitch;50
+baseball pitches;50
 baseball player;60
 baseball players;60
 baseball purist;60
@@ -8761,6 +8772,7 @@ Bataan;40;Philippine peninsula of Death March infamy
 Bataille;40;Georges Bataille, French writer and philosopher
 Batali;10;Sexual assault
 Batalon;40;Jacob Batalon, Ned in the "Spider-Man" films
+bat and switch;0
 bat an eye;60
 bat an eyelash;60
 bat an eyelid;60
@@ -9201,6 +9213,7 @@ bear suit;50
 bear suits;50
 Beart;40;Emmanuelle Béart, French actress
 bear that in mind;60
+be asleep at the switch;20
 Beasley;20;Athlete Michael or Cole or Malik...?
 be a sport;60
 be assured;50
@@ -26798,6 +26811,7 @@ Dulhania;40;"Dilwale Dulhania Le Jayenge," Bollywood classic
 dull;50
 dull ache;50
 dull aches;50
+dull as;20
 dull as dishwater;60
 Dullea;30;Keir Dullea, Dave in "2001"
 Dulles;50;John Foster Dulles, secretary of state / DC-area airport
@@ -44283,7 +44297,8 @@ I dabble;60
 Idaho;50;Potato state
 Idahoan;50
 Idahoans;50
-Idahos;30
+Idahoes;20
+Idahos;40
 Idared;40;Apple cultivar
 Idareds;30;Apples of a red cultivar
 I dare you;60
@@ -44493,6 +44508,7 @@ if-else statement;60
 if-else statements;60
 I felt seen;20
 ifes;20
+iff;30;If and only if
 ifi;20
 If I Did It;60
 if I do say so myself;60
@@ -44578,6 +44594,7 @@ ignore it;50
 Ignoreland;40;R.E.M. song from "Automatic for the People"
 ignore that;60
 igo;30
+Igopogo;40;Mythical creature that supposedly lives in Lake Simcoe, Ontario
 Igor;50;Igor Stravinsky, composer, or Frankenstein's lab assistant
 Igorot;20;Filipino headhunter
 Igorots;20;Filipino headhunters
@@ -45331,6 +45348,7 @@ in a flat;20
 in a galaxy far, far away;60
 in ages;40
 in a good way;50
+in a hole;50
 in a hot minute;60
 in aid of;40
 in a jam;50
@@ -62361,6 +62379,7 @@ Natchez;40;First capital of Mississippi
 Natchitoches;40;Oldest town in Louisiana
 Nate;50;Nate Bargatze, comedian, or Big Nate of the comics
 Nate Bargatze;60
+Nate Ruess;40;Singer of the band Fun
 Nat Geo Wild;50
 Nathalie;40;Nathalie Sarraute, French novelist
 Nathan;50;Common first name
@@ -75036,6 +75055,7 @@ Rands;20;Plural name, not currency
 Randys;30;Plural name
 ran fast;30
 ran for;40
+ran for home;40
 ran for it;60
 rang a bell;60
 ran game on;60
@@ -75052,6 +75072,7 @@ ranginess;40
 Rango;40;Johnny Depp chameleon
 rang true;60
 rangy;30
+ran home;50
 ran in;40
 ranine;20;Frog-related, or region under the tongue
 ran interference;60
@@ -76950,6 +76971,8 @@ reside at;40
 resided at;40
 resided in;40
 reside in;40
+residential home;50
+residential homes;50
 resider;30
 resides at;40
 resides in;40
@@ -79280,10 +79303,12 @@ runestone;60
 runestones;60
 run fast;20
 run for;40
+run for home;40
 run for it;60
 run game on;60
 Rungano;40;Rungano Nyoni, Zambian-Welsh director
 rung around;30;Called around
+run home;50
 run interference;60
 run interference for;50
 run in the family;60
@@ -79312,8 +79337,10 @@ running cold;50
 running commentary;60
 running fast;30
 running for;40
+running for home;40
 running for it;60
 running game on;60
+running home;50
 running interference;60
 running interference for;50
 running in the family;60
@@ -79371,8 +79398,10 @@ run scared;60
 runs cold;50
 runs fast;20
 runs for;40
+runs for home;40
 runs for it;60
 runs game on;60
+runs home;50
 run short;50
 run short on;40
 runs in;40
@@ -84753,6 +84782,8 @@ skatings;20
 skean;20
 skeans;20
 Skechers;50;Sneaker brand
+sked;40;Schedule
+skeds;40;Schedules
 Skee;40
 Skee-Lo;50;"I Wish" rapper
 skeg;40;Surfboard fin
@@ -84933,6 +84964,8 @@ Skloot;30;Author Rebecca of "The Immortal Life of Henrietta Lacks"
 skoal;40;Chewing tobacco brand, or toast to health
 skoals;30;Drinkers' toasts
 Skokie;40;Chicago suburb
+skol;40;Drinking toast
+Skol;40;Lager brand
 skool;30
 Skopje;30;Capital of North Macedonia
 Skor;40;Toffee candy bar
@@ -95476,6 +95509,7 @@ to each their own;60
 toe bean;60
 toe beans;60
 toed in;30
+TOEFL;20;Test of English as a Foreign Language
 toe-in;40;Wheel alignment
 toe of frog;60;Witches' brew ingredient in Macbeth
 toe-out;40;Wheel alignment
