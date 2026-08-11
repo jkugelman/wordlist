@@ -4107,6 +4107,7 @@ anemometer;40
 anemometers;40
 anemometry;40
 an enigma;20
+anent;30;With regard to
 aneroid;40;Type of barometer
 a new ball game;60
 A New Hope;60
@@ -5056,6 +5057,8 @@ apterous;20;Having no wings, as an insect
 apteryx;30;Kiwi bird genus
 aptitude test;50
 aptitude tests;50
+apt. no.;40
+apt. nos.;40
 apts;40
 apt to;30
 Apu;50
@@ -28503,7 +28506,9 @@ eme;20
 Emecheta;40;Buchi Emecheta, Nigerian novelist
 e-meet;30
 Emeka;30;Basketball player ___ Okafor
-Emeli;40;Emeli Sande, Scottish singer
+Emeli;30;Emeli Sandé, Scottish singer
+Emeli Sandé;40;British singer (born 1987)
+Emeli Sande;0
 emendate;40
 emendated;40
 emendates;40
@@ -54223,6 +54228,7 @@ Little Trees;60;Car air fresheners
 Littlewood;40;Joan Littlewood, theatre director
 Litton;40;???
 Littrell;40;Brian Littrell, Backstreet Boy
+litty;30
 lit upon;50
 Litvak;40;Anatole Litvak, film director, or a Lithuanian Jew
 Litvaks;40;Lithuanian Jews
@@ -57867,7 +57873,8 @@ Matsuhisa;40;Nobu Matsuhisa, celebrity chef
 Matsui;50;Yankee Hideki, World Series MVP
 Matsuo;40;Matsuo Basho, haiku master
 Matt;50;Common first name
-Matta;40;Roberto Matta, Chilean surrealist painter
+matta;30;"Whatsa matta you?"
+Matta;30;Roberto Matta, Chilean surrealist painter
 Mattachine;40;Mattachine Society, early gay rights group
 Matt Biondi;40;Olympic swimmer with 11 medals (84, 88, 92)
 Matt Bomer;30
@@ -59394,6 +59401,7 @@ microscale;60
 microscopemount;0
 Microsoft;50;Redmond giant
 Microsoft Office;50
+Microsoft OneNote;50;Note-taking software
 Microsoft Windows;50
 microtarget;60
 microtargeted;60
@@ -65055,7 +65063,7 @@ NY Met;40
 NY Mets;40
 Nynorsk;40;One of the two written standards of Norwegian
 NY NY;50
-Nyong'o;50;Lupita Nyong'o, Oscar-winning actress
+Nyong'o;40;Lupita Nyong'o, Oscar-winning actress
 Nyoni;40;Rungano Nyoni, Zambian-Welsh filmmaker
 NYPD;50
 NyQuil;50;Nighttime cold medicine
@@ -66454,6 +66462,7 @@ one-night stand;60
 one-night stands;60
 one nil;30
 one ninth;30
+OneNote;50;Microsoft note-taking software
 one no trump;40
 one-o'-cat;20;Old ball game
 one o'clock;40
@@ -71069,6 +71078,8 @@ pit stick;20;Marketing term for deodorant, maybe, though google results are poor
 pit stop;60
 pit stops;60
 Pitt;50;Brad Pitt, actor / William Pitt, British PM
+pitta;20
+pittas;20
 Pitti;40;Palazzo ___, Florence palace
 Pittman;40;"The Autobiography of Miss Jane Pittman" (Black historical novel)
 pit trader;60
@@ -78242,6 +78253,7 @@ Robert Fripp;50
 Robert Frost;50
 Roberti;30
 Roberto;50;Common Italian and Spanish first name
+Roberto Matta;40;Chilean surrealist painter
 Robert Prevost;50;Pope Leo XIV
 Roberts;50;Julia Roberts, actor / John Roberts, chief justice
 Robertson;50;Various: Oscar Robertson, Robbie Robertson
@@ -81264,6 +81276,7 @@ Scottish accent;60
 Scottish accents;60
 Scotto;30;Soprano Renata Scotto
 Scott Rudin;50;EGOT-winning producer Scott Rudin
+Scotts;50;Miracle-Gro maker
 Scottsboro;40;Alabama town of the Scottsboro Boys case
 Scottsdale;50;Arizona city near Phoenix
 Scott Stapp;50;Lead vocalist of Creed
@@ -90981,7 +90994,8 @@ tag-teaming;60
 tag-teams;60
 Tagus;40;Iberian river through Lisbon
 tah;0
-Taha;40;Taha Hussein, Egyptian writer
+Taha;30;Taha Hussein, Egyptian writer (1889–1973), nominated for Nobel 21 times
+Taha Hussein;40;Egyptian writer (1889–1973), nominated for Nobel 21 times
 Tahar;30;Tahar Ben Jelloun, Moroccan writer / Tahar Rahim, actor
 Tahar Ben Jelloun;40
 Tahiti;50;French Polynesian island
@@ -95523,6 +95537,7 @@ to-do lists;60
 toe;50
 to each his own;60
 to each their own;60
+to eat;20
 toe bean;60
 toe beans;60
 toed in;30
