@@ -2106,7 +2106,8 @@ a horse of a different color;60
 a host;40
 a house divided;60
 Ahriman;40;Zoroastrian spirit of evil
-AHS;40
+ahs;40
+AHS;20
 ah so;10
 Ahsoka;50;Ahsoka Tano, "Star Wars" Jedi
 Ahsoka Tano;40;"Star Wars" Jedi
@@ -5680,6 +5681,7 @@ Arnold's;40;Happy Days diner
 aro;40
 aro ace;60
 aroar;50
+a-rockin';50
 A-Rod;40
 aroint;20;Shakespearean "Begone!"
 arointed;20
@@ -15949,7 +15951,7 @@ CatDog;60;Nickelodeon series "CatDog"
 catdom;40
 cat door;50
 cat doors;50
-Cate;40;Cate Blanchett, Australian actress
+Cate;50;Cate Blanchett, Australian actress
 cat ears;20;Green paint
 category killer;60
 category killers;60
@@ -17364,6 +17366,7 @@ chickens out;60
 chicken strip;60
 chicken strips;60
 chicken tendies;60
+chicken teriyaki dinner;20
 chickenveik;0
 chick magnet;60
 chick magnets;60
@@ -22310,6 +22313,7 @@ danseurs;40
 danseuse;40;Female ballet dancer
 danseuses;40
 Dansk;30;???
+Danskin;30
 Danson;50;Ted Danson, "Cheers" star
 Dante;50;Dante Alighieri, "Inferno" poet
 Dantean;40;Of Dante
@@ -39688,6 +39692,7 @@ had a go at it;50
 had a heart;60
 had a heart of gold;60
 had a hunch;50
+had a kid;40
 had a leg up on;60
 had a line;20
 had a line on;60
@@ -40553,6 +40558,7 @@ has a go at it;50
 has a heart;60
 has a heart of gold;60
 has a hunch;50
+has a kid;40
 has a line on;60
 has a lisp;40
 has a look;50
@@ -40773,6 +40779,7 @@ have a go at it;50
 have a good trip;50
 have a heart;60
 have a hunch;50
+have a kid;40
 have a line on;60
 have a look;50
 have a look around;60
@@ -40859,6 +40866,7 @@ having a drink;50
 having a go at it;50
 having a heart;60
 having a hunch;60
+having a kid;40
 having a line on;60
 having a look;50
 having a look around;50
@@ -42391,6 +42399,7 @@ hit to;30
 HIV;40
 Hive BC;30;Basketball team in Miami, Florida
 HIV-positive;40
+hiya kids;50
 hi-yo;40
 hm;50
 H Mart;40
@@ -56933,7 +56942,7 @@ Manfred;40;Manfred Mann, bandleader / Rob Manfred, MLB commissioner
 Manfred von Richthofen;50;Manfred von Richthofen, the Red Baron
 man Friday;50
 Man from Atlantis;50
-man from Muskogee;30
+Man from Muskogee;40;1972 jazz album by Jay McShann, with "The"
 manfulness;30
 mangaka;40;???
 Mangalore;40;Indian port city
@@ -65604,8 +65613,12 @@ Ogawa;40;Yoko Ogawa, "The Memory Police" novelist
 Ogden;40;Ogden Nash, light verse poet / Utah city
 Ogdens;30
 Ogden, UT;30
+ogee;30
+ogee arch;40
+ogee arches;40
 ogee clock;30
 ogee clocks;30
+ogees;30
 ogham;20
 oghamic;20
 O'Gill;20
@@ -65882,6 +65895,7 @@ OKing;50
 Okja;40;Bong Joon-ho film (2017)
 Okla;40;Oklahoma
 Oklahoma;50;Sooner State, and a Rodgers and Hammerstein musical
+Oklahoma Kid;50;1939 western, with "The"
 Oklahoman;50
 Oklahomans;50
 OK, mister smarty-pants;60
@@ -75457,6 +75471,7 @@ raw recruits;50
 raw score;50
 raw scores;50
 raw silk;50
+raw skin;50
 rax;20
 ray;50
 Raya;40;Disney's "Raya and the Last Dragon" (2021)
@@ -93685,6 +93700,7 @@ The Man Behind the Curtain;60
 the man behind the curtain;0
 the man behind the mask;60
 the Mandela Effect;60
+The Man from Muskogee;40;1972 jazz album by Jay McShann
 The Man I Love;50
 The Man in the Iron Mask;60
 the man of the hour;60
@@ -93817,6 +93833,7 @@ Theodosia;40;Theodosia Burr, Aaron Burr's daughter, and a "Hamilton" song
 Theodosius;50;Roman emperor who made Christianity official
 The O'Jays;50;R&B group
 the OK;20;???
+The Oklahoma Kid;50;1939 western
 the old heave-ho;60
 the Old Masters;40
 the olds;50
