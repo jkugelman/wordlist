@@ -2120,9 +2120,10 @@ a hush fell over the crowd;60
 Ahvaz;40;Iranian city
 ah well;60
 ah well, what can you do?;60
-AI;40
+AI;50
 AI agent;60
 AI agents;60
+AI apocalypse;60
 AI art;60
 AI chatbot;60
 AI chatbots;60
@@ -3135,9 +3136,13 @@ aloe juice;60
 Al Oerter;30;Discus champion
 aloes;40
 aloe vera juice;60
+Aloha Bowl;50
+Aloha Bowls;50
 ALOHAnet;40;Pioneering Hawaiian wireless network
 alohas;40;Questionable plural
-Aloha State;50
+aloha shirt;60
+aloha shirts;60
+Aloha State;60
 Alois;40;Alois Alzheimer, doctor who identified the disease
 Alok;30;Performance artist and activist (born 1991)
 Alok Vaid-Menon;50;Performance artist and activist (born 1991)
@@ -4819,6 +4824,8 @@ apoapses;30
 apoapsides;30
 apoapsis;30;Astronomy word
 apoapsises;30
+apocalypse fatigue;60;Emotional burnout from constant exposure to climate change warnings
+Apocalypse Now;60
 Apocalyptica;50;Finnish cello metal band
 Apocalypto;50;Mel Gibson's Maya epic (2006)
 a pocket;20
@@ -33876,6 +33883,7 @@ four-footed butterfly;50
 Four-H clubs;30
 Four-H leader;20
 Four-H leaders;20
+Four Horsemen of the Apocalypse;60
 four hundred;40
 Fourier;50;Joseph Fourier, of the transform and series / Charles Fourier, socialist
 Fourierism;40;Charles Fourier's utopian socialism
@@ -56473,6 +56481,7 @@ make a fist;50
 make a hash of;50;Bungle
 make a killing;60
 make a list;40;Green paint?
+make a long story short;60
 Make America Great Again;10
 make a name for;50
 make a name for oneself;50
@@ -56483,6 +56492,7 @@ make a pass;50
 make a phone call;60
 make a quick buck;60
 make a sale;50
+make a short story long;60
 make a statement;50
 make a stop;50
 make a stop at;50
@@ -58028,6 +58038,7 @@ Maya Deren;40;Maya Deren, experimental filmmaker in the 1940s and 50s
 Mayaguez;40;Puerto Rico city
 Mayakovsky;40;Vladimir Mayakovsky, Russian Futurist poet
 Mayan;50;Of a Mesoamerican civilization
+Mayan apocalypse;60
 Mayan ruins;50
 Mayans;50;Mesoamerican civilization
 Mayas;40;Mesoamerican people
@@ -72458,6 +72469,9 @@ POSSLQs;20;Census designation: persons of opposite sex sharing living quarters
 postages;30
 postage stamp lot;50
 postage stamp lots;50
+post-apocalyptic;60
+post-apocalyptic fiction;60
+post-apocalyptic literature;60
 post-bac;30
 post-bacs;30
 post bags;50
@@ -83732,6 +83746,16 @@ short O's;40
 Short Round;50
 shortstop;50
 shortstops;50
+short stories;60
+short story;60
+short story collection;60
+short story collections;60
+short story competition;60
+short story competitions;60
+short story contest;60
+short story contests;60
+short story writer;60
+short story writers;60
 short stuff;60
 short subject;50
 short subjects;50
@@ -91178,6 +91202,7 @@ take off after;50
 take on;40
 take one's cue from;50
 take one's mind off;50
+take one's time;60
 Take on Me;60;A-ha song
 take orders;50
 take orders from;40
@@ -91246,6 +91271,7 @@ takes off after;50
 takes on;40
 takes one's cue from;50
 takes one's mind off;50
+takes one's time;60
 takes orders;50
 takes orders from;40
 takes out;40
@@ -91341,6 +91367,7 @@ taking off after;50
 taking on;40
 taking one's cue from;50
 taking one's mind off;50
+taking one's time;60
 taking orders;50
 taking orders from;40
 taking out;40
@@ -93156,6 +93183,7 @@ The Alamo;60
 The Alchemist;60
 The Alchemist Cookbook;50;2016 American horror film
 the algorithm;60
+The Aloha State;60
 the Alpha and the Omega;60
 the Alps;40
 the AM;30
@@ -93483,6 +93511,7 @@ the Foreign Legion;30
 The Fountainhead;60
 The Fountain of Youth;60
 The Four Aces;50;1950s male pop quartet
+The Four Horsemen of the Apocalypse;60
 the French Alps;60
 the French Quarter;60
 The Frog Prince;60
@@ -93767,6 +93796,7 @@ the math ain't mathing;60
 the math is not mathing;60
 the math isn't mathing;60
 The Matrix;60
+the Mayan apocalypse;40
 The Mayor;40;Short-lived TV show
 Thembu;40;Xhosa clan of Nelson Mandela
 The Mean Team;60;"Space Jam" bad guys
@@ -95726,6 +95756,8 @@ Toltecs;40
 toluene;30;Benzene derivative
 toluenes;20
 Tom;50
+to make a long story short;60
+to make a short story long;60
 to make matters worse;60
 Tomas;40;Tomas Masaryk, first Czechoslovak president
 Tomaso;40
@@ -95914,6 +95946,7 @@ took off after;50
 took on;40
 took one's cue from;50
 took one's mind off;50
+took one's time;60
 took orders;50
 took orders from;40
 took out;40
@@ -104103,6 +104136,8 @@ Xmas spirit;50
 Xmas tree;50
 Xmas trees;50
 X-Men;50
+X-Men: Apocalypse;50;2016 film
+X-Men Apocalypse;0
 X-Men United;50;"X2: X-Men United", 2003 superhero film
 XML;40
 Xochimilco;40;Mexico City canal district
