@@ -1869,6 +1869,7 @@ agar;40
 agar-agar;30;Thickening agent used in microbiology and food
 agaric;20
 Agario;40;Agar.io, cell-eating browser game
+agarose;30;Red algae extract
 agars;30;Legit plural?
 agasp;40
 Agassi;50;Andre Agassi, tennis great
@@ -2618,6 +2619,7 @@ Aldrich;30
 Aldridge;40;Ira Aldridge, Shakespearean actor / LaMarcus Aldridge, NBA forward
 Aldrin;50;Buzz Aldrin, second man on the moon
 ale;50
+alea;30
 AL East;50;A.L. East
 aleatory;30
 Alec;50;Alec Baldwin, actor, among others
@@ -2856,6 +2858,7 @@ a little learning;60
 a little too quiet;60;Suspiciously inactive
 alive;50
 alive and kicking;60
+a live one;20
 alive to;40;Aware of
 Alix;40;Alix Earle, influencer
 alizarin;30;Red dye
@@ -3415,7 +3418,9 @@ Amari;30;NFL wide receiver Amari Cooper (2015-25)
 Amarillo;50;Texas Panhandle city
 Amarillo Texas;50
 Amarillo, TX;30
-Amarna;40;Ancient Egyptian capital of Akhenaten
+Amarna;30;Ancient Egyptian capital of Akhenaten
+Amarna Miller;20
+Amarna Period;40
 amaro;40;Liqueur
 Amartya;40;Amartya Sen, Nobel economist
 Amaru;40;Tupac Amaru, Incan rebel leader
@@ -5681,6 +5686,7 @@ arointed;20
 arointing;20
 aroints;20;Drives away, archaic
 Aroldis;40;Aroldis Chapman, flame-throwing MLB closer
+a role;20
 Aromanian;40;Balkan Romance language
 Aromanians;40;Balkan people speaking a Latin tongue
 AromaRama;60;AromaRama, competitor of Smell-O-Vision
@@ -6066,6 +6072,8 @@ Ashlee;40;Simpson sister
 Ashleigh;40;Ashleigh Barty, tennis champion
 Ashley;50;Common first name
 Ashly;40;Ashly Burch, voice actress and "Mythic Quest" writer
+Ashly Burch;40;Voice actress and "Mythic Quest" writer
+Ashlyn;40;???
 Ashman;40;Howard Ashman, Disney lyricist
 Ashmolean;40;British museum
 Ashmore;40;???
@@ -7285,6 +7293,8 @@ axheads;50
 Axios;40;News website
 Axis Bold as Love;60
 Axl;50
+Axl Rose;50;Guns N' Roses lead singer
+axl Rose Bowl game;0
 axman;40
 axmen;40
 Axminster;40;English town known for its carpets
@@ -12859,6 +12869,7 @@ Briana;40;Briana Scurry, US soccer goalkeeper
 Briand;40;Aristide Briand, of the Kellogg-Briand Pact
 Brianna;50;Brianna Wu, game developer / common first name
 Brian's;40;"Brian's Song", football tearjerker
+Brian Sipe;40;Cleveland Browns quarterback and 1980 MVP
 bribee;50
 bribees;50
 briberies;40
@@ -15536,8 +15547,8 @@ carped at;40
 Carpentaria;40;Gulf off northern Australia
 carpentry;50
 Carper;40;Tom Carper, Delaware senator
-carpet shark;50;Type of shark
-carpet sharks;50;Type of sharks
+carpet shark;60;Shark that resembles ornately patterned carpets
+carpet sharks;60;Sharks that resemble ornately patterned carpets
 carpet store;50
 carpet stores;50
 carpet treatment;50
@@ -16584,7 +16595,7 @@ chai teas;50
 Chaiyya;40;"Chaiyya Chaiyya", Bollywood hit from "Dil Se"
 Chaka;50;Chaka Khan, funk and R&B singer
 Chakaia;40;Chakaia Booker, tire-sculpture artist
-Chakri;40;Thai royal dynasty
+Chakri;30;Thai royal dynasty
 Chalamet;50;Timothée Chalamet
 Chalcedon;40;Site of a major church council
 Chalcedonian;40;Of the Council of Chalcedon's creed
@@ -16700,7 +16711,11 @@ changing one's mind;50
 changing the channel;60
 changing to;40
 chango;40;Presto chango
+Changs;40;P.F. Chang's
+changs;20
 Changsha;40;Capital of Hunan, China
+Changsha, China;40;Capital of Hunan
+Changsha China;0
 Chani;40;"Dune" Fremen played by Zendaya
 Channing;40;Channing Tatum, actor / Carol Channing, "Hello, Dolly!" star
 chanson;30;French song style
@@ -17617,6 +17632,8 @@ Chola;40;South Indian dynasty
 cholesterol-free;50
 choli;30;Sari go-with
 choline;30
+cholla;30;Spiny cactus
+chollas;30;Spiny cactus
 Cholula;50;Hot sauce brand / Mexican pyramid city
 Chomet;40;Sylvain Chomet, "The Triplets of Belleville" director
 Chomolungma;50;Everest, in Tibetan
@@ -17855,6 +17872,7 @@ Chung;40;Connie Chung, news anchor
 Chungking;40;Old spelling of Chongqing, and a Wong Kar-wai film
 Chunky A;30;Arsenio's musical persona Chunky A
 chunky salsa;60
+Chun-Li;40;Street Fighter character
 Chunnel;50;English Channel tunnel
 chupacabra;60
 chupacabras;60
@@ -20714,14 +20732,17 @@ crack;50
 crackalackin';60
 crack and peel;50
 cracked and peeled;50
+cracked on;40
 cracked the case;60
 cracked wide open;60
 Cracker Barrel;60
 Cracker Barrels;60
 cracking and peeling;50
+cracking on;40
 cracking the case;60
 cracking wide open;60
 Cracklin' Oat Bran;50
+crack on;40
 crackpot;60
 crackpot idea;60
 crackpot ideas;60
@@ -20729,6 +20750,7 @@ crackpots;60
 crackpottery;60
 cracks;50
 cracks and peels;50
+cracks on;40
 cracks the case;60
 cracks wide open;60
 cracks wise;60
@@ -27612,7 +27634,9 @@ edible arrangements;60
 edictal;30
 Edie;40
 Edi Gathegi;40;Kenyan-American actor (born 1979)
-Edina;40;Minneapolis suburb, or Edina Monsoon of "Absolutely Fabulous"
+Edina;30;Minneapolis suburb, or Edina Monsoon of "Absolutely Fabulous"
+Edina, Minnesota;40;Minneapolis suburb
+Edina Minnesota;0
 Edinboro;30;Unnotable Pennsylvania university
 Edinburgh;50;Scottish capital
 Edinburgher;40;Edinburgh resident
@@ -28200,6 +28224,7 @@ elg;20
 El Gallo;30
 Elgar;40
 Elgart;30;Jazz bandleader Larry Elgart
+El Gaucho Martín Fierro;40;Argentine epic poem by José Hernández
 Elgin;40;NBA great Elgin Baylor
 El Guerrouj;60;Hicham El Guerrouj, mile run world record holder
 Eli;50
@@ -28230,6 +28255,7 @@ Elio;40;2025 Pixar movie
 Elion;20
 Eliot;50;T.S. Eliot, poet, or Eliot Ness
 Eliot Ness;60
+Eli Roth;50;Actor and horror director
 Elis;40;Yale students
 Elisa;30;"Clueless" actress Elisa Donovan
 Elisabeth;50;Common first name
@@ -32081,7 +32107,7 @@ fierier;30
 fieriest;30
 Fiero;40;Old Pontiac
 Fieros;40
-Fierro;40;"Martín Fierro," Argentine gaucho epic
+Fierro;30;"Martín Fierro," Argentine epic poem by José Hernández
 Fierstein;50;Harvey Fierstein, "Torch Song Trilogy" playwright
 fiery spirit;60
 Fievel;50;Mouse of "An American Tail"
@@ -34312,6 +34338,8 @@ Frisia;30
 Frisian;30;West Germanic languages/people
 frisson;60;Aesthetic chills
 Frist;40;Bill Frist, former Senate majority leader
+frite;40;Fried, in French
+frites;40;Fried, in French
 Frito;50;Corn chip brand
 Frito pie;40
 Frito pies;40
@@ -35296,6 +35324,7 @@ gas heater;50
 gas heaters;50
 gas heating;50
 Gashlycrumb;50;"The Gashlycrumb Tinies," Edward Gorey alphabet book
+Gashlycrumb Tinies;50;Edward Gorey alphabet book, with "The"
 gas hog;60
 gas hogs;60
 gas jet;50
@@ -35531,6 +35560,7 @@ gazpachos;30
 Gazprom;40;Russian gas giant
 Gazzara;40;Ben Gazzara, actor
 GB;40
+GBP;40;Pound sterling
 GBs;20
 G B Shaw;40
 Gchat;30
@@ -38304,6 +38334,7 @@ Graham;50;Billy Graham, evangelist, or a cracker
 Grahame;40;Kenneth Grahame, author of "The Wind in the Willows", or Gloria Grahame of "It's a Wonderful Life"
 Graham flour;50
 Grahams;40;Crackers, or Teddy and Golden snacks
+Graham Yost;40;"Justified" and "Silo" creator
 Grainger;40;Percy Grainger, "Country Gardens" composer
 grain whiskey;50
 grain whiskeys;50
@@ -39720,6 +39751,7 @@ had prior knowledge;50
 had prior knowledge of;50
 Hadrian;50;Roman emperor with a wall
 Hadrian's;40;Hadrian's Wall, Roman frontier in Britain
+had room;50
 hadrosaur;40
 hadrosaurs;40
 had seconds;60
@@ -40582,6 +40614,7 @@ has on;40
 has one too many;60
 has prior knowledge;50
 has prior knowledge of;50
+has room;50
 Hass;40;Type of avocado
 Hassan;40
 has seconds;60
@@ -40781,6 +40814,7 @@ have on;40
 have one too many;60
 have prior knowledge;50
 have prior knowledge of;50
+have room;50
 have seconds;60
 have the final say;60
 have the goods on;60
@@ -40847,6 +40881,7 @@ having on;40
 having one too many;60
 having prior knowledge;50
 having prior knowledge of;50
+having room;50
 having seconds;60
 having the final say;60
 having the goods on;60
@@ -41903,6 +41938,8 @@ Hickok;40;Wild Bill Hickok, Old West gunfighter
 hick town;50
 hick towns;50
 hid;50
+hidden compartment;50
+hidden compartments;50
 hidden cost;60
 hidden costs;60
 hidden jewel;60
@@ -41910,7 +41947,10 @@ hidden jewels;60
 hidden meaning;60
 hidden mic;50
 hidden mics;50
+hidden room;60
+hidden rooms;60
 hidden treasure;60
+hidden treasures;60
 Hiddleston;50;Tom Hiddleston, Loki actor
 hide-a-bed;60
 hide-a-beds;60
@@ -42154,6 +42194,8 @@ hip hop duos;60
 hip-hop group;60
 hip-hop groups;60
 hip hop music;60
+hip-hop skit;60
+hip-hop skits;60
 hip hop trio;50
 hip hop trios;50
 hippocampi;60
@@ -42230,6 +42272,8 @@ hissy;50
 hist;40
 Histoire;40;French for "story," as in "Histoire de Melody Nelson"
 histology;30;Study of microscopic tissue anatomy
+histone;30;Protein family around which DNA winds to form nucleosomes
+histones;30;Protein family around which DNA winds to form nucleosomes
 historical map;50
 historical maps;50
 historical record;50
@@ -42247,6 +42291,7 @@ hit;50
 Hitachi;50;Japanese electronics giant
 hit a nerve;60
 hit a paywall;60
+hit a raw nerve;60
 hit at;40
 hit a wall;60
 Hitchcock;50;Alfred Hitchcock, master of suspense
@@ -42272,6 +42317,7 @@ hit pieces;60
 hit reset;60
 hits a nerve;60
 hits a paywall;60
+hits a raw nerve;60
 hits at;40
 hits a wall;60
 hits close to home;60
@@ -42299,6 +42345,7 @@ hit the streets;60
 hit the top;20
 hitting a nerve;60
 hitting a paywall;60
+hitting a raw nerve;60
 hitting at;40
 hitting a wall;60
 hitting close to home;60
@@ -44467,6 +44514,7 @@ ifrun;20
 ifs;50
 if statement;60
 if statements;60
+I.F. Stone;30;Investigative journalist, writer, and author (1907–1989)
 iftar;40;Ramadan meal
 if that's all right with you;60
 if that's alright with you;60
@@ -45223,6 +45271,7 @@ I'm terrible at names;60
 I'm terrible with names;60
 I'm the captain now;60
 I'm Thinking of Ending Things;60;2020 film by Charlie Kaufman
+I'm ticked;50
 I'm tired;50
 I'm toast;60
 I'm to blame;60
@@ -46425,6 +46474,7 @@ irenic;20
 irenics;20
 I repeat;50
 I repent;20
+I rest;30
 Irglová;40;Markéta Irglová, Oscar-winning singer from "Once"
 Irglova;0
 irides;30;???
@@ -46492,6 +46542,10 @@ Iron Birdseed;60;Acme invention
 Iron Butterfly;60;"In-A-Gadda-Da-Vida" (1968) rock band
 iron carrot;60;Acme invention
 iron carrots;50
+Iron Chef;60
+Iron Chef America;60
+Iron Chefs;60
+Iron City;50;Minor nickname for Pittsburgh
 ironclad;60
 ironclad alibi;60
 ironclad alibis;60
@@ -46625,7 +46679,7 @@ I say do it;60
 I say go for it;60
 I say it is;60
 I say yes;50
-Isbell;40;Jason Isbell, Americana singer-songwriter
+Isbell;40;Jason Isbell, Americana singer-songwriter (born 1979)
 ISBN;40
 ISBNs;40
 Iscariot;50;Judas Iscariot, betrayer of Jesus
@@ -46694,7 +46748,8 @@ is into;30
 Isis;50;Egyptian goddess
 is it art?;50
 is it art;0
-Is It Cake;60
+Is It Cake?;60;2022 television game show
+Is It Cake;0
 is it done yet;60
 is it him?;40
 is it hot in here?;60;Tie-puller's complaint
@@ -46818,7 +46873,7 @@ Israir;40;Israeli airline
 is red;20
 ISS;40
 Issa;40;___ Rae
-Issachar;40;Tribe of Israel
+Issachar;30;Tribe of Israel
 Issaquah;40;Washington city east of Seattle
 is set;20
 Issey;40;Issey Miyake, Japanese fashion designer
@@ -47908,6 +47963,7 @@ Jarvis;40;Jarvis Cocker, Pulp frontman / Iron Man's A.I.
 Jas;20
 Jascha;40;Violinist Jascha Heifetz (1901-87)
 Jason;50;Jason of the Argonauts, or a very common first name
+Jason Isbell;40;Americana singer-songwriter (born 1979)
 Jason Lee;50
 Jason Momoa;60
 Jason Newsted;50
@@ -48745,6 +48801,7 @@ JPEGMafia;40;Experimental rapper
 JPEGs;50;Image files
 JPG;40
 JPGs;40
+JPY;30;Japanese yen
 JQA;20
 J R Ewing;50
 JROTC;40
@@ -53844,6 +53901,7 @@ line jumping;60
 Lineker;40;Gary Lineker, English soccer star turned broadcaster
 line of duty;50
 line of succession;60
+line one;50
 line one's pockets;60
 lines of succession;60
 lines one's pockets;60
@@ -54176,6 +54234,10 @@ livener;30
 liveners;30
 live on;50
 live on air;60
+live one;60
+live ones;60
+live one's life;50
+live one's truth;50
 live out of a trunk;60
 live radar;50
 liverish;30;Queasy
@@ -56175,7 +56237,8 @@ Mahomet;30;Play by Voltaire?
 Mahoney;40;John Mahoney, "Frasier" dad
 mahout;40;Elephant rider
 mahouts;40
-mahres;20
+Mahre;40;1984 Olympic skiing twins Phil and Steve Mahre
+Mahres;20;1984 Olympic skiing twins Phil and Steve Mahre
 Mahsa;40;Mahsa Amini, Iranian woman whose 2022 death sparked protests
 Mahsa Amini;10;Woman killed in 2022 in Tehran, Iran for not wearing a hijab
 Mahwah;30;Small New Jersey township
@@ -57292,8 +57355,8 @@ marketeers;30
 market jitters;50
 market risk;50
 market risks;50
-market share;50
-market shares;50
+market share;60
+market shares;60
 Markham;40;Beryl Markham, aviator / Ontario city
 Markie;40;Biz Markie, "Just a Friend" rapper
 Markiplier;50;YouTube gaming star
@@ -57434,6 +57497,8 @@ Martineau;40;Harriet Martineau, Victorian writer and sociologist
 Martinelli;40;Martinelli's sparkling cider, or Elsa Martinelli, actress
 Martinelli's;40;Sparkling cider brand
 Martinez;40;Common Spanish surname: Pedro Martinez, Edgar Martinez
+Martín Fierro;40;Argentine epic poem by José Hernández
+Martin Fierro;0
 Martin Gardner;60
 Martin Garrix;40;Dutch DJ and record producer (born 1996)
 Martin Guerre;40;French victim of imposture (16th century)
@@ -61004,6 +61069,7 @@ moues;20
 Mouffe;40;Chantal Mouffe, political theorist
 moujik;20
 mouldy;40
+moules frites;40;Dish of mussels and fries
 Moulin;40
 mounded;30
 Mounjaro;60;Diabetes and weight loss drug
@@ -62586,6 +62652,7 @@ Nedick's;30;Old defunct fast food chain
 Ned Kelly;60
 Nedoroscik;50;Stephen Nedoroscik, Olympic pommel horse guy
 neds;30
+Ned Yost;40;World Series-winning Royals manager
 nee;50
 née;50
 need a hand;60
@@ -65725,7 +65792,7 @@ OkayAfrica;40;African culture media outlet
 okay and;50
 okay but;50;"Yeah, except..."
 okay fine;60
-okay, go;60
+okay, go;50
 okay hear me out;60;"So this may sound crazy but..."
 okay, I give;60
 okay I'm convinced;60
@@ -66852,6 +66919,7 @@ opium pipes;60
 opiums;40;Doubtful plural
 Oporto;30;Portuguese wine city [occasional]
 OPP;20
+oppan;30;"Gangnam Style" refrain ("Oppan Gangnam style")
 Oppenheim;40;Meret Oppenheim, Surrealist of the fur-lined teacup
 Oppenheimer;50;J. Robert Oppenheimer, father of the atomic bomb
 oppo;40
@@ -70068,6 +70136,8 @@ Peyton;40;Peyton Manning, star quarterback / "Peyton Place"
 Pez;50
 PFC;20
 P.F. Chang;50
+P.F. Chang's;50;Chinese restaurant chain
+P F Chang's;0
 Pfeiffer;50
 pfennig;30;Old German penny
 Pfizer;50;Vaccine maker
@@ -71886,7 +71956,7 @@ Pomeroy;40;Sarah Pomeroy, classical historian
 pomes;20;Some fruits
 pommel horse;60
 pommel horses;60
-pommes frites;50
+pommes frites;60;French fries
 Pomodoro;50;Timed work technique, or Italian for tomato
 Pomona;40;California city, or Roman goddess of fruit
 Pompeia;30;Second or third wife of Julius Caesar
@@ -73992,6 +74062,8 @@ pye;20
 pye-dog;30;Stray dog in Asia
 pye-dogs;30
 Pyeongchang;40;2018 Winter Olympics host
+Pyeongchang, South Korea;50
+Pyeongchang South Korea;0
 pygmaean;30
 Pygmalion;50;Shaw play / sculptor of Greek myth
 pygmy goat;50
@@ -75069,6 +75141,8 @@ rap session;60
 rap sessions;60
 rap sheet;60
 rap sheets;60
+rap skit;60
+rap skits;60
 rap song;60
 rap songs;60
 Rapunzel;50;Fairy tale princess with very long hair
@@ -75133,6 +75207,9 @@ rarite;20
 RAs;40
 rasa;40
 rasam;30;Indian soup
+rase;30;Raze, British spelling
+rased;30;Razed, British spelling
+rases;30;Razed, British spelling
 Rashad;40;Phylicia Rashad, actress / Ahmad Rashad, sportscaster
 Rasheed;40;Rasheed Wallace, NBA big man
 rasher;30
@@ -75147,6 +75224,7 @@ Rashidun;40;First Islamic caliphate
 RAship;30;Resident assistant's post
 RAships;40;Research assistantships
 Rashomon;60
+rasing;30;Razing, British spelling
 Raskin;40;"The Westing Game" author Ellen Raskin
 Raskolnikov;50;"Crime and Punishment" protagonist
 Rasmussen;40;Rasmussen Reports, polling firm / Danish surname
@@ -81581,6 +81659,8 @@ secret menu items;60
 secretor;30
 secretors;30
 secretory;40;Relating to secretion
+secret room;60
+secret rooms;60
 secret Santa;60
 secret societies;60
 secret staircase;60
@@ -84341,7 +84421,7 @@ Sioux Falls, SD;40
 Siouxsie;50;Siouxsie Sioux of the Banshees
 sip;50
 sip at;40
-Sipe;40;Brian Sipe, NFL quarterback and 1980 MVP
+Sipe;40;Brian Sipe, Cleveland Browns quarterback and 1980 MVP
 sip on;40
 Sipowicz;50
 sipped at;40
@@ -88209,6 +88289,7 @@ steady jobs;60
 steady paycheck;60
 steady paychecks;60
 steak and eggs;60
+steak frites;60;Dish of steak accompanied by chipped potatoes
 steakhouse;60
 steakhouses;60
 steak pie;50
@@ -89115,6 +89196,8 @@ stray cat;50
 stray dog;50
 stray dogs;50
 strayed from;40
+strayer;40
+strayers;40
 stray from;40
 Strayhorn;40;Billy Strayhorn, "Take the A Train" composer
 straying from;40
@@ -89169,6 +89252,9 @@ street racing;60
 Street Sharks;50;1994 cartoon about crime-fighting half-man/half-sharks
 street smart;60
 street smarts;60
+Street Spirit;40;1996 single by Radiohead
+Street Spirit (Fade Out);40;1996 single by Radiohead
+Street Spirit Fade Out;0
 street team;50
 street teams;50
 Strega;30;Saffron liqueur
@@ -89194,8 +89280,8 @@ stretch goal;60
 stretch goals;60
 stretching across;40
 stretching it;60
-stretch mark;50
-stretch marks;50
+stretch mark;60
+stretch marks;60
 strette;20
 stretti;30;Fugue parts
 stretto;40;Fugue technique
@@ -89217,10 +89303,16 @@ stridulation;30
 stridulations;30
 strifes;30
 strigil;20;Ancient body cleaning tool
+strike a nerve;60
+strike a raw nerve;60
 strike one;50
+strikes a nerve;60
+strikes a raw nerve;60
 strikethrough;60
 strike two;50
 strike zone;50
+striking a nerve;60
+striking a raw nerve;60
 Strindberg;50;August Strindberg, Swedish playwright
 Strindbergian;40;Like the Swedish playwright's grim dramas
 Strine;40;Australian
@@ -89311,6 +89403,8 @@ Stroumboulopoulos;50;George Stroumboulopoulos, Canadian TV host
 Stroustrup;40;Bjarne Stroustrup, creator of C++
 Strout;40;Elizabeth Strout, "Olive Kitteridge" author
 strs;30
+struck a nerve;60
+struck a raw nerve;60
 Strug;40;Kerri Strug, gymnast who won gold in 1996 with an injured ankle
 struggle bus;60
 struma;20;Disease, river, ship
@@ -90759,6 +90853,8 @@ Tae;40
 taebtraeh;0
 TAed;40;Worked as a teaching assistant
 taekwondo;50
+tael;30
+taels;30
 taenia;20
 Taeyeon;40;Taeyeon, Girls' Generation singer
 Tafari;40;Ras Tafari, birth title of Haile Selassie
@@ -92478,6 +92574,7 @@ terrene;20
 terret;30;Loop for horse reins
 terrets;30;Loops for horse reins
 Terri;40;Terri Schiavo, right-to-die case figure / common first name
+Terrible Trio;40;Group of minor DC Comics supervillains
 terrier mix;50
 terrier mixes;50
 Terrifier;40;Slasher film series with Art the Clown
@@ -93257,6 +93354,7 @@ the game within the game;60
 the Ganges;30
 the gang's all here;60
 The Gap;50
+The Gashlycrumb Tinies;50;Edward Gorey alphabet book
 The Gazebo;30;1959 film
 the GE building;30
 the Gem City;40
@@ -93345,6 +93443,7 @@ their;50
 the IRA;20
 their loss;60
 the Iron Age;40
+the iron chef;20
 The Iron Claw;60
 the Iron Cross;40
 The Iron Giant;60
@@ -93600,6 +93699,7 @@ the new normal;60
 the New Testament;40
 the New Yorker cartoon;60
 the New Yorker cartoons;60
+The Next Iron Chef;50
 The Next Karate Kid;50
 the next round is on me;60
 the next round's on me;60
@@ -94964,6 +95064,7 @@ Tim Tams;40;Australian chocolate biscuits
 Timur;40;Turco-Mongol conqueror, aka Tamerlane
 Timurid;40;Tamerlane's dynasty
 Tim Walz;50;Kamala Harris's VP candidate
+Tim Wu;40;Legal scholar who coined "network neutrality" (born 1972)
 tin;50
 Tina;50;Tina Turner, rock legend / Tina Fey, comedian
 Tina Cole;50
@@ -96035,13 +96136,21 @@ totting;30
 tot up;30
 Touareg;40;Volkswagen SUV
 Touaregs;40;Saharan Berber people
+touch a nerve;60
+touch a raw nerve;60
 touchdown;60
 touchdown celebration;60
 touchdown celebrations;60
 touchdowns;60
+touched a nerve;60
+touched a raw nerve;60
 Touched by an Angel;60
+touches a nerve;60
+touches a raw nerve;60
 touches upon;50
 touch grass;60
+touching a nerve;60
+touching a raw nerve;60
 touch-me-not;60;A.k.a. shameplant
 touch sensitive;60
 Tougaloo;40;Mississippi HBCU
@@ -97877,7 +97986,7 @@ tying one on;50
 tying onto;40
 tying the knot;50
 tying to;40
-Tyla;40;South African singer of "Water"
+Tyla;40;South African singer of "Water" (Grammys in 2024, 2026)
 Tylenol;50;Pain reliever brand
 Tylenols;40;Doses of pain reliever
 Tyler;50;Common first name, or John Tyler, 10th US president
@@ -98085,7 +98194,7 @@ uh, I dunno;50
 uhnak;0
 uh-oh is right;60
 uh-oh SpaghettiOs;60
-Uhry;40;Alfred Uhry, "Driving Miss Daisy" playwright
+Uhry;30;Alfred Uhry, "Driving Miss Daisy" playwright
 uhs;40
 Uhura;40
 Uhuru;20;Swahili for "freedom"
@@ -101459,6 +101568,7 @@ we get it;60
 we get that a lot;60
 Wegman;40;William Wegman, Weimaraner photographer
 Wegmans;50;Northeastern grocery chain
+we got a live one;60
 we got it made;60
 Wegovy;60;Weight loss drug
 we have a right to know;60
@@ -103124,6 +103234,7 @@ WKRP;40
 wks;40
 Wladimir;40;Wladimir Klitschko, heavyweight champ
 Wladziu;40;Liberace's first name
+WLW;20
 WMD;10
 WMDs;10
 WNBA;50
