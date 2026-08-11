@@ -678,6 +678,7 @@ about to go live;60
 about-turn;50
 about-turns;50
 above-average effect;60;Cognitive bias
+aboveboard;60
 above the fold;60
 above the fray;60
 ABQ;40;Albuquerque airport code
@@ -3777,6 +3778,7 @@ amputators;40
 Amram;40;Megan Amram, comedy writer / David Amram, composer
 amrita;20;Hindu beverage
 amritas;20;Hindu beverages
+Amrita Sher-Gil;40
 Amritsar;20;Indian city
 Amritsar, India;40
 Amritsar India;0
@@ -11071,6 +11073,9 @@ blast it;60
 Blastoise;50;Pokeyman
 blast shield;60
 blast shields;60
+blastula;40
+blastulae;40
+blastulas;40
 blast wave;60
 blast waves;60
 blatherskite;60
@@ -25582,6 +25587,7 @@ don't give up;60
 don't hate;50
 don't have a prayer;50
 don't have time;50
+don't, I beg of you;50
 don't interrupt;60
 don't just sit there;60
 don't laugh;60
@@ -27655,6 +27661,7 @@ edemas;30
 Eden;50;Biblical garden / Barbara Eden, "I Dream of Jeannie" star
 Edenic;40
 Edens;40;Paradises
+Eden Sher;40
 Edentata;20;Mammal order
 edentate;30;Mammal lacking teeth (anteater, sloth, armadillo)
 edentates;30
@@ -44061,7 +44068,9 @@ I-beam;40
 I-beams;40
 I been had;30
 I before E except after C;60
+I beg;40
 I beg of you;60
+I beg you;50
 I Believe I Can Fly;10
 I believe that;60
 Iberia;50;Peninsula of Spain and Portugal
@@ -46586,6 +46595,7 @@ Irishpeople;40;The Irish
 Irishperson;40;Gender-neutral native of Ireland
 Irish pub;60
 Irish pubs;60
+Irish tea;50
 Irish wake;60
 Irish wakes;60
 Irish whiskey;60
@@ -60705,7 +60715,9 @@ monsoon season;60
 monsoon seasons;60
 Monstar;60;"Space Jam" bad guy
 Monstars;60;"Space Jam" bad guys
-monstera;40;Monstera deliciosa plant, "delicious monster"
+monstera;30;Monstera deliciosa plant, "delicious monster"
+Monstera deliciosa;20;"Delicious monster" plant
+monsteras;30;Monstera deliciosa plants, "delicious monster"
 Monster Manual;60
 Monster Manuals;60
 Monsterverse;50;Godzilla and Kong franchise
@@ -80136,6 +80148,8 @@ sallet;20;Helmet
 Sallie;40;Sallie Mae
 Sallis;40;James Sallis, author of "Drive"
 Sally;50;Common name, as in "Mustang Sally"
+Sally Lunn;40
+Sally Lunns;40
 Sallys;30
 Salma;40;Salma Hayek, actress
 Salman;40;Salman Rushdie, "Midnight's Children" author / King Salman of Saudi Arabia
@@ -80679,7 +80693,8 @@ satisfy one's curiosity;60
 sativas;40;Plural?
 sat near;40
 sat next to;40
-Sato;40;Common Japanese surname, or Takuma Sato, Indy 500 winner
+Satō;30;Common Japanese surname, or Takuma Sato, Indy 500 winner
+Sato;0
 sat on;40
 Sator;40;Sator Square, ancient Latin palindrome
 satori;40;Buddhist enlightenment
@@ -83335,7 +83350,8 @@ shepherd's crook;50
 shepherd's crooks;50
 Shepitko;40;Larisa Shepitko, Soviet director
 Sheppard;40;Sam Sheppard, doctor of the notorious murder trial
-Sher;40;Eden Sher, "The Middle" actress / Sher Shah Suri, Indian emperor
+sher;30;"Fer sher!"
+Sher;30;Eden Sher, "The Middle" actress / Sher Shah Suri, Indian emperor
 She-Ra;40
 Sherald;40;Amy Sherald, Michelle Obama portraitist
 Sheraton;40;Hotel chain
@@ -83347,6 +83363,7 @@ Sherees;20;Plural first name
 Shere Hite;30
 Shere Khan;50
 Sheremetyevo;40;Moscow's main airport
+Sher-Gil;40
 Sheridan;40;Richard Brinsley Sheridan, playwright / Philip Sheridan, Union general
 sherif;20
 Sheriff Lobo;50
@@ -83367,6 +83384,7 @@ Sherri Shepherd;50;Daytime talk show host
 Sherrod;40;Sherrod Brown, Ohio senator
 sherry glass;50
 sherry glasses;50
+Sher Shah Suri;40
 Sherwin;40;Sherwin-Williams, paint giant / Zach Sherwin, rapper
 Sherwood;50;Robin Hood's forest
 Sheryl;40;Sheryl Crow, "All I Wanna Do" singer
@@ -102500,7 +102518,8 @@ where did we park?;60
 where did you park?;60
 where does it hurt?;60
 where does it hurt;0
-where do I begin;60
+where do I begin?;60
+where do I begin;0
 where do I sign up;60
 where do you draw the line?;60
 where do you draw the line;0
