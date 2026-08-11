@@ -9507,6 +9507,7 @@ beeps at;40
 beer;50
 beeramid;60
 beeramids;60
+beer and skittles;60
 beer batter;60
 beer-battered;60
 beer batters;60
@@ -12763,6 +12764,9 @@ breaking out in song;60
 breaking out into song;60
 breakings;40;Weird plural
 breaking serve;50
+breaking the bank;60
+breaking the fourth wall;60
+breaking the sound barrier;60
 breaking up the band;60
 break into;40
 break it up you two;60
@@ -12783,7 +12787,15 @@ breaks loose;50
 breaks out in a sweat;60
 breaks out in song;60
 breaks out into song;60
+breaks the bank;60
+breaks the fourth wall;60
+breaks the sound barrier;60
 breaks up the band;60
+break the bank;60
+break the fourth wall;60
+break the sound barrier;60
+breakthrough role;60
+breakthrough roles;60
 breakup sex;60
 break up the band;60
 bream;40;Fish
@@ -13183,6 +13195,8 @@ broken noses;60
 broken out into song;60
 broken taillight;50
 broken taillights;50
+broken the fourth wall;60
+broken the sound barrier;60
 broke out in a sweat;60
 broke out in song;60
 broke out into song;60
@@ -13194,6 +13208,9 @@ brokerage houses;60
 brokered a deal;60
 brokering a deal;60
 brokers a deal;60
+broke the bank;60
+broke the fourth wall;60
+broke the sound barrier;60
 broke up the band;60
 broking;40
 Brolin;40;Josh Brolin, actor, or his father James
@@ -53666,6 +53683,7 @@ life forces;40;Questionable plural
 life form;50
 life forms;50
 Lifehouse;40;Band behind "Hanging by a Moment"
+life is not all beer and skittles;60
 life isn't fair;60
 life lesson;60
 life lessons;60
@@ -84997,6 +85015,7 @@ ski tow;50;Rope-drawn ski lift
 ski tows;50
 ski trip;50
 ski trips;50
+Skittles Sour;60
 Sklarek;40;Norma Merrick Sklarek, first Black woman licensed as an architect in the US
 Skloot;30;Author Rebecca of "The Immortal Life of Henrietta Lacks"
 skoal;40;Chewing tobacco brand, or toast to health
@@ -86786,6 +86805,7 @@ sour note;60
 sour notes;60
 sour on;40
 sour pickle;50
+Sour Skittles;60
 sours on;40
 soursop;40
 soursops;30;Is plural legit???
