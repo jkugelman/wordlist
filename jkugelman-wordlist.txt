@@ -9778,6 +9778,7 @@ Belushi;50;John Belushi, "SNL" and "Animal House" star
 Belushis;40;John and Jim, comic brothers
 Bely;30;Andrei Bely, Russian Symbolist novelist (1880-1934)
 Belzer;40;Richard Belzer, "Law & Order: SVU" actor
+be mad;50;"Fine, be mad!"
 be mad at;20
 be merry;50
 Bemidji;40;Minnesota city on the lake of the same name
@@ -25507,6 +25508,7 @@ don't be;60
 don't be a fool;60
 don't be a hog;60
 don't believe everything you hear;60
+don't be mad;60
 don't be rude;60
 don't be so literal;60
 don't be so naive;60
@@ -26214,7 +26216,7 @@ Drebin;40;Frank Drebin from "Naked Gun"
 dreck;50
 Dred;40
 Dre Day;50;Dr. Dre song
-Dredd;50;Judge Dredd, comics lawman
+Dredd;40;Judge Dredd, comics lawman
 Dredg;30;Obscure California alt-rock band
 dreg;40
 dregs of humanity;60
@@ -46839,6 +46841,7 @@ Islington;40;London borough
 Islip;40;Long Island town, home of MacArthur Airport
 is loyal to;30
 ism;40
+is mad;20
 Ismail;30;Various people
 Ismail Haniyeh;50;Leader of Hamas 2007-2017
 Ismaili;40;Branch of Shia Islam
@@ -47707,6 +47710,8 @@ Jacquards;40;Patterned woven fabrics
 Jacqueline;50;Common first name
 Jacques;50;Common French first name, as in "Frère Jacques"
 Jacques Demy;50;French New Wave film director
+Jacques Lucien Monod;40;Nobel-winning biologist
+Jacques Monod;40;Nobel-winning biologist
 Jacqui;40;Diminutive of Jacqueline
 Jacquizz;30;Jacquizz Rodgers, journeyman NFL running back
 Jacuzzi;50;Whirlpool bath
@@ -60608,8 +60613,11 @@ monocotyledonous;20
 monocotyledons;20
 monocyte;40;Type of white blood cell
 monocytes;40
-Monod;40;Jacques Monod, Nobel-winning biologist
+Monod;30;Jacques Monod, Nobel-winning biologist
+monodies;30;Odes sung by one voice
+Monodon monoceros;20;Narwhal
 monodrama;40;One-person play
+monodramas;40;One-person plays
 monody;30;Ode sung by one voice
 monogamish;60
 monoglot;60
@@ -66404,6 +66412,8 @@ one-horse race;60
 one-horse races;60
 one hour;50
 One Hundred and One Dalmatians;60;1961 Disney movie
+one-hundred-dollar bill;60
+one-hundred-dollar bills;60
 One Hundred Years of Solitude;60;1967 novel by Gabriel García Márquez
 Oneida;30;Native American tribe
 Oneida Lake;30
@@ -80584,7 +80594,7 @@ Satantango;40;Béla Tarr's seven-hour film
 sat at;40
 satays;40;Bad plural???
 SATB;40;Soprano, alto, tenor, bass
-sat by;40
+sat by;50
 SATC;30;Sex and the City
 Satch;40;Satchel Paige, Hall of Fame pitcher
 Satchmo;50;Louis Armstrong's nickname
@@ -84612,7 +84622,7 @@ Sisyphus;50;Boulder-rolling myth figure
 sit;50
 Sita;40;Rama's wife in the Ramayana
 sit at;40
-sit by;40
+sit by;50
 sitcom;50
 sitcoms;50
 sit down with;40
@@ -84642,7 +84652,7 @@ sit pretty;50
 sitrep;40;Military situation report
 sitreps;40;Military situation reports
 sits at;40
-sits by;40
+sits by;50
 sits down with;40
 sit shiva;60
 sits idle;50
@@ -84671,7 +84681,7 @@ sittee;30;???
 Sittenfeld;40;Curtis Sittenfeld, novelist of "Prep"
 Sittin';40;"(Sittin' On) The Dock of the Bay"
 sitting at;40
-sitting by;40
+sitting by;50
 sitting down with;40
 sitting idle;50
 sittingidle;50
