@@ -4395,6 +4395,7 @@ Annapurna;40;Himalayan peak, and a film studio
 Anna's;30;Anna's hummingbird, or Anna's Archive
 AnnaSophia;40;AnnaSophia Robb, actress
 Anna Sten;40;1930s actress Anna Sten
+Anna Sui;40;Fashion designer
 Anna Torv;50
 annatto;30;Food coloring
 Ann Curry;50
@@ -4426,6 +4427,7 @@ Anns;30
 annulet;30;Small ring, or ring-shaped molding
 annulets;30
 annuli;40;Tree rings
+annulus;40;Tree ring
 annum;40
 annus;40
 annus horribilis;60
@@ -7024,6 +7026,8 @@ aulder;20
 auldest;20
 Auli'i;40;Auli'i Cravalho who voiced Moana
 auntandtuna;0
+Aunt Bee;40;"The Andy Griffith Show" character
+Aunt Bee Taylor;40;"The Andy Griffith Show" character
 Aunt Jemima;10
 Aunt Selma;50
 aur;20
@@ -15031,6 +15035,10 @@ can it;50;"Shut up"
 can I talk;60
 can it be true?;60
 can I think about it;60
+can I try?;50
+can I try;0
+can I try some?;50
+can I try some;0
 cankle;30
 cankles;30
 CanLit;40;Canadian literature
@@ -25587,12 +25595,14 @@ Donny;50;Donny Osmond / Donny Hathaway, common first name
 D'Onofrio;40;Vincent D'Onofrio, "Full Metal Jacket" actor
 Donoghue;40;Emma Donoghue, "Room" novelist
 do no harm;60
+Don Omar;40;Puerto Rican rapper (over 100 billion units sold)
 donor apathy;60
 donor fatigue;60
 Donoso;40;José Donoso, Chilean novelist
 do not bend;40
 do not engage;60
 do not erase;60
+do not go;40
 do not sit right with;40
 do not touch glass;60;Sign at an aquarium
 do not try this at home;60
@@ -27265,6 +27275,8 @@ Eames;30;Chair brand
 Eamon;40;Éamon de Valera, Irish statesman
 Eamonn;40;Actor Eamonn Walker
 ean;20
+Ea-nāṣir;40;Target of the oldest known written complaint (1750 BC)
+Ea-nasir;0
 eanto;20
 eap;20
 E. A. Poe;20
@@ -32459,11 +32471,13 @@ fine, be mad;60
 fine be that way;60
 fine by me;60
 fine china;60
+fine cut;50
 fine dining;50
 finely chopped;50
 fine mesh;50
 fine mess;50
 fine sea salt;50
+fine tip;50
 finetoo;0
 fine with me;60
 Fingal;40;Fingal's Cave, Mendelssohn's inspiration
@@ -36778,7 +36792,8 @@ Gina;50;Gina Lollobrigida, actress, among many others
 gin and tonic;60
 gin and tonics;60
 Ginastera;40;Alberto Ginastera, Argentine composer
-Ginevra;40;Ginevra King, F. Scott Fitzgerald's first love
+Ginevra;30;Ginevra King, F. Scott Fitzgerald's first love
+Ginevra King;40;F. Scott Fitzgerald's first love
 gin fizz;50
 gin fizzes;50
 gingerbread house;50
@@ -44722,6 +44737,7 @@ ignition key;50
 ignition keys;50
 ignitions;50
 ignitors;30
+Ig Nobel;60
 ignorantness;30
 ignore it;50
 Ignoreland;40;R.E.M. song from "Automatic for the People"
@@ -49089,6 +49105,7 @@ Juliett;40;NATO alphabet J
 Juliette;40;Various: Juliette Binoche, Juliette Lewis
 Julio;50;Julio Iglesias, singer, or a common Spanish name
 Julius;50;Julius Caesar, Roman general and dictator
+Julius Nyerere;40;First president of Tanzania from 1964-1985
 Julius Onah;50;Julius Onah, director of Captain America: Brave New World
 Jully;40;Jully Black, Canadian R&B singer
 Jul Maroh;50;"Blue Is the Warmest Color" cartoonist
@@ -51846,6 +51863,9 @@ landing pad;60
 landing pads;60
 landing up;40
 Landis;40;John Landis, "Animal House" director / Kenesaw Mountain Landis, baseball commissioner
+land legs;50
+ländler;20;18th-century folk dance
+ländlers;20;18th-century folk dance
 landline;50
 landlines;50
 landlockedwater;0
@@ -57139,11 +57159,12 @@ Man in the Iron Mask;60
 manioc;20;Cassava
 maniple;20
 manipulate light;20
-Manipur;40;Indian state
+Manipur;30;Indian state
 Manischewitz;50;Kosher wine brand
 Manitoba;50;Canadian province
 Manitoban;40;Resident of Manitoba
 Manitobans;40;Manitoba residents
+manitou;40;Fundamental life force in Algonquian mythologies
 Manitoulin;40;Largest freshwater island, in Lake Huron
 Manitowoc;40;Wisconsin city on Lake Michigan
 Mank;40;David Fincher movie
@@ -57552,6 +57573,7 @@ Markham;40;Beryl Markham, aviator / Ontario city
 Markie;40;Biz Markie, "Just a Friend" rapper
 Markiplier;50;YouTube gaming star
 markka;40;Finnish currency pre-euro
+Mark Lanegan;40;Screaming Trees singer
 Markle;50;Meghan Markle, Duchess of Sussex
 mark of shame;60
 Mark O'Meara;50;Retired professional golfer (born 1957)
@@ -59003,6 +59025,8 @@ Memphis, TN;30
 memsahib;30;"Ma'am" in colonial India
 men;50
 Mena;40
+menacer;40
+menacers;40
 menace to society;60
 Menachem;40;Israeli PM Menachem Begin
 Menaker;40;Will Menaker, "Chapo Trap House" host
@@ -59868,6 +59892,8 @@ minibar;60
 minibars;60
 mini bat;50
 mini bats;50
+minicab;40;Small taxi in the UK
+minicabs;40;Small taxis in the UK
 Mini Cooper;60
 Mini Coopers;60
 mini donut;60
@@ -59898,7 +59924,9 @@ mini marathon;50
 mini marathons;50
 mini marshmallow;50
 mini marshmallows;50
-mini-me;50
+Mini-Me;50;Austin Powers character
+mini-me;40
+mini-mes;40
 minimi;30;Little fingers or toes
 mini-moon;60
 mini-moons;60
@@ -62382,6 +62410,8 @@ nanny tax;50
 nanny taxes;50
 nanny tea;40;Folk remedy
 nano-;40
+nanobot;60
+nanobots;60
 nanometer;50
 nanometers;50
 Nanook;50;"Nanook of the North" documentary subject
@@ -64137,6 +64167,9 @@ noms de guerre;60
 no MSG;30
 non;40
 Nona;30;Nona Hendryx, "Lady Marmalade" singer, or nona- shape prefix
+nonacid;40
+nonacidic;40
+nonacids;40
 Nona Gaye;40;Singer/model/actress Nona Gaye in the Matrix sequels
 nonage;20
 nonages;20
@@ -64156,6 +64189,7 @@ noncom;40
 non compos mentis;60
 noncoms;40
 non-denial denial;60
+none but;50
 none for me thanks;50
 nonego;40;Psychology/philosophy term
 nonegos;40
@@ -64165,6 +64199,7 @@ nonesuches;40
 nonet;40
 none too soon;60
 nonets;40
+no never;50
 no news is good news;60
 nonfee;40
 Nongshim;40;Korean instant noodle brand
@@ -65198,7 +65233,7 @@ Nye;40
 NYE parties;40
 NYE party;40
 NYer;30
-Nyerere;40;Julius Nyerere, first president of Tanzania
+Nyerere;30;Julius Nyerere, first president of Tanzania
 NYers;40;Manhattanites, briefly
 nyet;40
 nyets;40
@@ -66656,6 +66691,7 @@ one-run;40
 ones;50
 one's best;20
 one scoop;50
+one's due;50
 onese;20
 one second;50
 one seed;60
@@ -68346,6 +68382,7 @@ paid for itself;60
 paid for one's sins;60
 paid in;40
 paid into;40
+paid one's dues;60
 paid one's fair share;50
 paid retail;50
 paid the price;60
@@ -68653,7 +68690,7 @@ Pantages;40;Historic theater name
 Pantagruel;50;Rabelais giant, son of Gargantua
 pantaloons;60
 Pantene;50;Shampoo brand
-Pantera;60
+Pantera;50;Heavy metal band
 Panthalassa;50;Ocean that surrounded Pangaea
 Panthera;40;Big cat genus
 panther cub;50
@@ -69430,6 +69467,7 @@ paying for;40
 paying for one's sins;60
 paying in;40
 paying into;40
+paying one's dues;60
 paying one's fair share;50
 paying retail;50
 paying the price;60
@@ -69442,6 +69480,7 @@ Payne;40;Max Payne, video game hero / Payne Stewart, golfer
 Paynes;30;Plural last name
 paynim;20;Heathen, archaic
 paynims;20;Heathens, archaic
+pay one's dues;60
 pay one's fair share;50
 pay or play;60
 PayPal;50;Online payment service
@@ -69453,6 +69492,7 @@ pays for one's sins;60
 pays in;40
 pays into;40
 Payson;20;???
+pays one's dues;60
 pays one's fair share;50
 pays retail;50
 pays the price;60
@@ -69855,6 +69895,7 @@ Penelopiad;40;"The Penelopiad", Atwood's Odyssey retelling
 penguin chick;50
 penguin chicks;50
 Penh;40;Phnom Penh, capital of Cambodia
+penhold;40
 Penicillium;40;Mold genus behind penicillin
 pen in;40
 Peniston;40;CeCe Peniston, "Finally" singer
@@ -76512,6 +76553,7 @@ regilds;30
 Regina;40;Regina King, Oscar winner / Saskatchewan capital
 Reginald;50;Formal first name
 Regine;40;Regine Olsen, Kierkegaard's fiancée / Régine Chassagne of Arcade Fire
+Regine Velasquez;40;Filipino singer and actress (born 1970)
 regional airline;50
 regionalism;50
 regionalisms;50
@@ -92465,6 +92507,8 @@ teentsy;20
 teeny-tiny;60
 tee off;50
 tee off on;50
+teepee;50
+teepees;50
 tee shot;60
 tee shots;60
 tees off;50
@@ -95370,6 +95414,7 @@ Tina;50;Tina Turner, rock legend / Tina Fey, comedian
 Tina Cole;50
 Tinactin;40;Antifungal foot spray brand
 Tina Fey;60
+Tina Guo;40;Chinese-American cello player (born 1985)
 Tina Marie;40;Perry Como song? Not singer Teena Marie
 Tinariwen;40;Grammy-winning Tuareg desert blues band
 Tinashe;20;Singer
@@ -95421,7 +95466,8 @@ tinks;50;Unknits
 tinner;30;Tin miner or tinsmith
 tinners;30
 Tino;40;Tino Martinez, Yankees first baseman
-tin ore;50
+tin ore;40
+tin ores;40
 tinsels;30
 Tinseltown;50;Hollywood
 tin soldier;50
@@ -99781,6 +99827,10 @@ vanilla yogurt;40
 Vanilli;40;Milli Vanilli, lip-syncing pop duo
 Vanir;40;Norse gods, counterparts of the Aesir
 vanishing cream;60
+vanitas;30;Genre of symbolic art
+vanitases;30;Genre of symbolic art
+vanitas painting;40
+vanitas paintings;40
 vanity;50
 vanity card;50
 vanity cards;50
