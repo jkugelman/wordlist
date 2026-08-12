@@ -33130,6 +33130,8 @@ floats away;50
 floats on air;50
 Flobots;40;"Handlebars" rap-rock band
 Flocka;40;Waka Flocka Flame, rapper
+Flock camera;60;Common street surveillance camera
+Flock cameras;60;Common street surveillance cameras
 Flockhart;40;Calista Flockhart, "Ally McBeal" star
 Flodden;40;1513 battle where Scotland's James IV died
 flog a dead horse;60
@@ -59459,6 +59461,8 @@ microphone cables;50
 microphone stand;50
 microscale;60
 microscopemount;0
+microservice;60;Loosely coupled service used to build computer applications
+microservices;60;Loosely coupled services used to build computer applications
 Microsoft;50;Redmond giant
 Microsoft Office;50
 Microsoft OneNote;50;Note-taking software
@@ -63469,6 +63473,7 @@ Nicoderm;40;Nicotine patch brand
 niçoise;40
 Nicola;40;Who???
 Nicolas;40;Various: Nicolas Cage, Nicolas Poussin
+Nicolas Roeg;40;Film director in the 1970s
 Nicolaus;50;Nicolaus Copernicus, astronomer
 Nicole;50;Common first name
 Nicollette;40;Nicollette Sheridan, "Desperate Housewives" actress
@@ -78506,7 +78511,7 @@ Roebling;40;John Roebling, Brooklyn Bridge designer
 roebuck;40
 roebucks;40
 roe deer;40
-Roeg;40;Director Nicolas Roeg
+Roeg;40;Nicolas Roeg, film director in the 1970s
 Roem;40;Danica Roem, first openly transgender US state legislator
 Roeper;40;Richard Roeper, Ebert's film-review partner
 roes;40;Roe deer
