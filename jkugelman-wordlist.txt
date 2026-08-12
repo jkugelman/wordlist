@@ -25846,7 +25846,8 @@ Dorcas;40;Biblical woman raised from the dead by Peter
 Dorchester;40;Boston neighborhood, or Dorset town
 Dordogne;40;French river and department
 Dordrecht;40;City and municipality in South Holland, Netherlands
-Dore;40;Gustave Doré, illustrator of Dante's "Inferno"
+Doré;30;Gustave Doré, illustrator of Dante's "Inferno"
+Dore;0
 Doreen;30;Mouseketeer Doreen Tracey
 Doren;40;Charles Van Doren, quiz show scandal figure
 Dorfman;40;Ariel Dorfman, "Death and the Maiden" playwright
@@ -27231,6 +27232,8 @@ dyed in the wool;60
 dyeings;30
 dye job;60
 dye jobs;60
+dye lot;50;Record for identifying dyed yarn
+dye lots;50;Records for identifying dyed yarn
 dyer;40
 dyers;40
 dying a death;50
@@ -31648,6 +31651,8 @@ Faulks;40;Sebastian Faulks, author of "Birdsong"
 Fault in Our Stars;60
 fault line;50
 fault lines;50
+fault zone;50
+fault zones;50
 faunae;30
 Fauntleroy;50;Little Lord Fauntleroy, storybook boy
 Faunus;40;Roman forest god
@@ -34347,6 +34352,7 @@ freeway toll;50
 freeway tolls;50
 freewheeler;60
 freewheelers;60
+Freewheelin' Bob Dylan;60;1963 studio album by Bob Dylan, with "The"
 freewheeling;60
 freez;30;Tastee-Freez restaurant, practically defunct
 freeze ray;60
@@ -93805,6 +93811,7 @@ The Fountainhead;60
 The Fountain of Youth;60
 The Four Aces;50;1950s male pop quartet
 The Four Horsemen of the Apocalypse;60
+The Freewheelin' Bob Dylan;60;1963 studio album by Bob Dylan
 the French Alps;60
 the French Quarter;60
 The Frog Prince;60
