@@ -10342,8 +10342,9 @@ BFG;40
 BFGoodrich;40;Tire brand
 B-flat;50
 B-flat scale;30
-BFs;40;Best friends
-B F Skinner;60
+BFs;40;Best friends / Boyfriends
+B. F. Skinner;60;Psychologist and social philosopher (1904–1990)
+B F Skinner;0
 B-girl;40
 B-girls;40
 B-grade;50
@@ -16133,6 +16134,8 @@ CAT scanners;50
 cat scratch disease;20
 cat scratch fever;50
 Cat Scratch Fever;50;1977 song/album by Ted Nugent
+cat's game;50;Tie game in tic-tac-toe
+cats' games;50;Tie games in tic-tac-toe
 cat's games;0
 cat shit;10
 catsit;50
@@ -28189,6 +28192,8 @@ Einaudi;40;Ludovico Einaudi, minimalist composer / Luigi Einaudi, Italian presid
 Eindhoven;40;Dutch city, home of PSV and Philips
 Eine;40
 Einherjar;40;Warriors of Valhalla
+einkorn;30;Primitive wheat
+einkorn flour;40;Primitive wheat flour
 Einojuhani;40;Einojuhani Rautavaara, Finnish composer
 eins;40
 Einstein;50;Albert Einstein, relativity physicist
@@ -30599,6 +30604,10 @@ exarch;30;Ancient governor
 Exarchopoulos;40;Adèle Exarchopoulos, French actress
 exarchs;30
 ex-army;30
+ex-BF;40
+ex-BFF;40
+ex-BFFs;40
+ex-BFs;40
 exc;20
 Excalibur;50;King Arthur's sword
 ex cathedra;60;How the Pope speaks "from the chair"
@@ -30680,6 +30689,8 @@ ex-fiancees;50
 ex-fiancées;50
 ex-fiances;50
 ex-fiancés;50
+ex-GF;40
+ex-GFs;40
 ex-GI;30
 ex-GIs;30
 exhorter;40
@@ -36639,7 +36650,7 @@ G-flat;50
 G-flat scale;30
 g-force;60
 g-forces;60
-GFs;20
+GFs;40
 gggggggsummit;0
 gglleennnn;0
 Ghali;40
@@ -79026,6 +79037,7 @@ Roni;40;Pasta Roni, boxed side dish
 Ronkonkoma;40;Long Island town at the end of an LIRR line
 Ron Mix;30;???
 Ronnie;50;Ronnie Spector, singer / Ronnie Milsap, country star
+Ronnie Wood;40;Rolling Stones member
 Ronny;40;Ronny Chieng, comedian / Ronny Cox, actor
 Ronrico;30
 Rons;30
@@ -79034,6 +79046,7 @@ Ronsard;40;Pierre de Ronsard, French Renaissance poet
 Ronson;40
 Ronstadt;50;Linda Ronstadt, singer
 Ron Swanson;60;Parks and Recreation character
+Ron Wood;40;Rolling Stones member
 Ron Ziegler;40;Nixon's Press Secretary
 Ronzoni;40;Pasta brand
 roo;40
@@ -96185,7 +96198,9 @@ tonneau;40;Truck bed
 tonneaus;40
 tonner;40
 tonnes;40
-Tonopah;40;Nevada mining town and test range
+Tonopah;30;Nevada mining town and test range
+Tonopah, Nevada;40;Nevada mining town and test range
+Tonopah Nevada;0
 to now;40
 tonsil hockey;60
 tons of;40
