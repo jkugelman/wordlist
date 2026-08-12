@@ -5531,6 +5531,7 @@ Arike;40;WNBA player Arike Ogunbowale
 aril;30
 arils;30
 Arimathea;40;Joseph of Arimathea, who entombed Jesus
+Ari Melber;40;MS NOW journalist (born 1980)
 Ari Meyers;40;Actress who played Kate's daughter Emma on "Kate & Allie"
 ariose;20;Songlike
 ariosi;20;Opera passages
@@ -22289,6 +22290,7 @@ D'Amato;40
 Damavand;40;Iran's highest peak
 D'Amelio;40;Charli D'Amelio, TikTok star
 D'Amelios;40;Charli and Dixie D'Amelio, TikTok siblings
+Dame Nellie Melba;40;Australian opera singer (1861–1931)
 Dameron;50;Poe Dameron from Star Wars
 dames;50
 Damian;40;Common first name / Damian Lillard, NBA guard
@@ -22553,6 +22555,7 @@ darn it all to heck;60
 darn it to heck;60
 Darnold;40;Sam Darnold, NFL quarterback
 darn right;60
+darn tootin';60
 DARPA;40
 Darrell;50;Darrell Hammond / Dimebag Darrell, common first name
 Darren;50;Common first name: Darren Aronofsky, Darren Criss
@@ -23785,6 +23788,7 @@ Dermot;40;Dermot Mulroney, actor
 Dern;40;Laura Dern / Bruce Dern
 dernier;30;Last, in French
 dernier cri;40;The newest fashion, "dernier cri"
+dern tootin';60
 derpy;60
 Derren;40;Derren Brown, British mentalist
 Derrida;40;Jacques Derrida, philosopher of deconstruction
@@ -27090,6 +27094,7 @@ Durkheim;40;Emile Durkheim, founding sociologist
 Durkin;40;Sean Durkin, "The Iron Claw" director
 durn;40;Drat
 durned;40
+durn tootin';60
 Durocher;30;Baseball player Leo
 Durrell;40;Lawrence Durrell, "The Alexandria Quartet" author / Gerald Durrell, naturalist
 Durst;40;Fred Durst, Limp Bizkit frontman
@@ -51727,6 +51732,7 @@ Lakshadweep;40;Indian island territory
 Lakshmi;50;Hindu goddess of wealth / Padma Lakshmi, TV host
 laky;20
 lal;20
+La La;40
 Lalah;30;Lalah Hathaway, R&B singer
 la la la;30
 la-la land;60
@@ -58908,11 +58914,16 @@ melanites;30;Minerals
 melanomata;30
 melanosis;40;Colon condition
 melanotic;40
+Mel B;40
 Melba;40;Peach dessert
-Melbas;20
+Melbas;40
 Melber;40;Ari Melber, MSNBC host
+Mel Blanc;60
 Melbourne;50;Australia's second-largest city
-Mel Brooks;50
+Melbourne, Australia;50
+Melbourne Australia;0
+Mel Brooks;60
+Mel C;40
 Melcher;30;1960s record producer Terry Melcher
 Melchior;40;One of the Magi
 Melchizedek;50;Biblical priest-king of Salem
@@ -62105,6 +62116,7 @@ Mylene;40;Mylène Farmer, French pop singer
 Myles;40;???
 my lips are sealed;60
 My Little Pony;60
+mylk;40;Vegan substitute for milk
 my mind;20
 myna;40
 mynah;40;More common than myna, according to ngram
@@ -62995,6 +63007,7 @@ Nella;20
 Nellalarsen;40;Nella Larsen, Harlem Renaissance novelist
 Nelle;40
 Nellie;50;Nellie Bly, pioneering investigative journalist
+Nellie Melba;40;Australian opera singer (1861–1931)
 Nelligan;20
 Nellis;30;Las Vegas Air Force base
 Nelly;50;Nelly, "Hot in Herre" rapper / Nelly Furtado, singer
@@ -66487,6 +66500,7 @@ onboarding;50
 on board with;40
 on borrowed time;60
 on brand;60
+on camelback;50
 on CD;40
 on CDs;20
 once and for all;60
@@ -69610,6 +69624,7 @@ peach emoji;60
 peach emojis;60
 pea chick;50
 pea chicks;50
+peach Melbas;50
 peach pit;50
 peach pits;50
 peach schnapps;50
@@ -78986,6 +79001,7 @@ root for;50
 root for the underdog;60
 rootier;30;More root-filled or earthy in flavor
 rootiest;30;Most root-filled or earthy in flavor
+rootinest tootinest;60
 rooting around;50
 rooting for;50
 rooting for the underdog;60
@@ -96208,7 +96224,7 @@ Toosie;40;"Toosie Slide," Drake hit
 too soon;60
 toot at;30
 tooted at;30
-tooted one's own horn;50
+tooted one's own horn;60
 tooted your own horn;40
 tooter;30
 tooters;30
@@ -96218,13 +96234,16 @@ tooth gel;50
 tooth gels;50
 toot his own horn;50
 Tootie;30;"The Facts of Life" character
+tootin';40
 tooting at;30
-tooting one's own horn;50
+tooting one's horn;20
+tooting one's own horn;60
 tooting your own horn;60
+too tiny for words;20
 tootler;30
 tootlers;30
 tootles;50
-toot one's own horn;50
+toot one's own horn;60
 too-too;60
 too true;60
 toots at;30
@@ -96235,7 +96254,7 @@ Tootsie Pop;50
 Tootsie Pops;50
 Tootsie Roll;50
 Tootsie Rolls;50
-toots one's own horn;50
+toots one's own horn;60
 Toot, Toot, Tootsie;30
 toot your own horn;60
 too wise;20
@@ -104823,6 +104842,9 @@ yeppers;60
 yer;40
 yerba;40;Yerba mate tea
 yerba mate;60
+yer darn tootin';60
+yer dern tootin';60
+yer durn tootin';60
 Yerevan;40;Capital of Armenia
 Yerkes;30;Wisconsin observatory
 yer out;50
@@ -105231,6 +105253,7 @@ your argument is invalid;60
 your ball;60
 your call;60
 Yourcenar;40;Marguerite Yourcenar, "Memoirs of Hadrian" author
+your darn tootin';0
 your deal;60
 you read my mind;60
 you read that right;60
@@ -105251,7 +105274,10 @@ you're damn right;60
 you're darned if you do and darned if you don't;60
 you're darned if you do and you're darned if you don't;60
 you're darn right;60
+you're darn tootin';60
+you're dern tootin';60
 you're done for;60
+you're durn tootin';60
 you're finished;60
 you're fired;60
 you're full of shit;10
