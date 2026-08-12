@@ -29564,6 +29564,7 @@ erns;30
 Ernst;40
 Ernst Heinrich Haeckel;40;German zoologist (1834–1919)
 Ernst Heinrich Weber;40;One of the founders of experimental psychology
+Ernst Krenek;40;Austrian/American composer (1900–1991)
 Ernst Mach;50
 Ernsts;20
 ER nurse;40
@@ -33465,6 +33466,12 @@ Fodor's;40;Travel guidebook brand
 foe;50
 Foehn;40;Warm dry downslope wind
 Foer;40;Author Jonathan Safran Foer
+foetal;20
+foetal position;20
+foetid;20
+foetor;20
+foetus;20
+foetuses;20
 fog;50
 fog alarm;20;???
 fog alarms;20
@@ -51185,7 +51192,7 @@ Kremlin;50;Moscow seat of power
 Kremlinologist;50;Soviet politics analyst
 Kremlinologists;50;Analysts of Soviet policy
 Kremlinology;50;Reading Soviet leadership tea leaves
-Krenek;40;Ernst Krenek, Austrian composer
+Krenek;30;Ernst Krenek, Austrian/American composer (1900–1991)
 kreplach;40;Traditional Jewish dumplings
 Kresge;40;The K in Kmart
 Kreskin;40;The Amazing Kreskin, mentalist
