@@ -29525,6 +29525,7 @@ ergodic literature;50
 ergosterol;40
 ergot;30;Grain disease
 ergotism;30;Ergot poisoning
+ergs;40
 Erhard;30;Ludwig Erhard, chancellor of West Germany 1936-66
 erhu;30;Chinese fiddle
 eri;20
