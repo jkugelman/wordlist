@@ -60701,7 +60701,7 @@ moms-to-be;50
 mom-tested;60;Mom tested, kid approved
 mom-tested, kid-approved;60
 mom-to-be;50
-MomTok;40;Mormon mom TikTok scene
+MomTok;50;Mormon mom TikTok scene
 momzilla;60
 Mon;40
 Mona;50;Mona Lisa, or a common first name
