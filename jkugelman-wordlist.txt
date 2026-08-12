@@ -5304,6 +5304,7 @@ archery club;60
 archery clubs;60
 archery range;60
 archery ranges;60
+Arches National Park;60
 Archibald;40;Old-fashioned given name, as in Archibald Cox
 Archie;50;Archie Bunker, or Archie Andrews
 Archies;40;The Archies, "Sugar, Sugar" bubblegum band
@@ -5350,6 +5351,7 @@ area code map;50
 area code maps;50
 a real eye opener;60
 A Real Pain;60;2025 Oscar wining film
+a real piece of work;60
 Area Man;60;Frequent The Onion interviewee
 area map;30
 area maps;30
@@ -6483,7 +6485,10 @@ a story within a story;60
 Astra;40;Ad astra, or Astra Taylor, filmmaker
 astragal;20;Seal between a pair of doors
 astragals;20
+Astragalus alpinus;20;Species of milkvetch
 Astrakhan;40;Russian port city, and a curly fur
+astral plane;60
+astral planes;60
 astral projection;60
 astral projections;60
 AstraZeneca;50;Vaccine maker
@@ -6799,6 +6804,7 @@ Atreides;50;Ruling house in "Dune"
 atremble;40
 Atreus;30;Father of Agamemnon
 Atreyu;40;"The NeverEnding Story" hero
+A Troll in Central Park;50;1994 independent animated musical film 
 at root;50
 Atropos;40
 ats;30
@@ -13873,6 +13879,10 @@ Burgundy wine;50
 Burgundy wines;50
 burial ground;60
 burial grounds;60
+burial place;50
+burial places;50
+burial plot;50
+burial plots;50
 Buridan;40;Jean Buridan, philosopher of Buridan's ass
 Burj;40;Burj Khalifa skyscraper
 Burke;40;Edmund Burke, political philosopher / Delta Burke, actress
@@ -15247,6 +15257,7 @@ capital of Arkansas;20
 capital of Oregon;20
 capitalofturkey;0
 capital P;40
+capital P's;40
 capital Q;40
 capital R;40
 capital T;40
@@ -16507,6 +16518,11 @@ central command;50
 central heater;50
 central heating;50
 Centralia;40;Pennsylvania town with an underground mine fire
+central page of website;20
+Central Park;60
+Central Perk;60
+central processing unit;60
+central processing units;60
 Central Time Zone;30
 centre;40
 centre-back;20
@@ -16539,6 +16555,8 @@ centres on;20
 centre spot;20
 centre spots;20
 centre stage;20
+centrifugal pump;50
+centrifugal pumps;50
 centro;40
 centuple;40
 centupled;40
@@ -16816,6 +16834,7 @@ Changsha;40;Capital of Hunan, China
 Changsha, China;40;Capital of Hunan
 Changsha China;0
 Chani;40;"Dune" Fremen played by Zendaya
+Channel Islands National Park;50
 Channing;40;Channing Tatum, actor / Carol Channing, "Hello, Dolly!" star
 chanson;30;French song style
 chansons;30
@@ -17237,6 +17256,13 @@ Chely;40;Chely Wright, country singer
 Chelyabinsk;50;Russian city hit by a 2013 meteor
 chem;40
 Chemex;40;Pour-over coffee maker
+chemical peel;60
+chemical peeling;60
+chemical peels;60
+chemical plant;50
+chemical plants;50
+chemical process;50
+chemical processes;50
 chemical weapon;40
 chemical weapons;40
 chemisorb;40
@@ -17521,6 +17547,7 @@ children's museum;50
 Childs;40;Lucinda Childs, choreographer
 child star;50
 child stars;50
+Child with Toy Hand Grenade in Central Park;60;Photograph by Diane Arbus
 Chile;50;South American country
 Chilean;50;Chile native
 Chileans;50;People of Chile
