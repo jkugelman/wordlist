@@ -43446,8 +43446,16 @@ household items;50
 House Judiciary;50
 House majority;60
 Houseman;40;John Houseman, "The Paper Chase" actor
+House of Blues;60
+house of cards;60
 House of Ghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
+house of ill repute;60
+House of Leaves;60
+house of lies;60
+house of mirrors;60
+House of Representatives;60
 House of the Rising Sun;60
+house of worship;60
 house pet;60
 house pets;60
 house red;60
@@ -43458,6 +43466,8 @@ house rule;60
 house rules;60
 house sitter;50
 house sitters;50
+houses of mirrors;60
+houses of worship;60
 housewarming parties;50
 housewarming party;50
 house white;60
@@ -53764,6 +53774,7 @@ lighten up;60
 lighten up Francis;60
 Lightfoot;50;Gordon Lightfoot, singer / Lori Lightfoot, Chicago mayor
 Light Horse Harry;50
+Lighthouse of Alexandria;60
 lighting fixture;50
 lighting fixtures;50
 lighting into;50
@@ -87778,6 +87789,7 @@ spy games;50
 spyglass;50
 spyglasses;50
 spying on;40
+Spy in the House of Love;50
 spymaster;50
 spymasters;50
 spy movie;50
@@ -92181,6 +92193,7 @@ tea egg;60
 tea eggs;60
 tea garden;60
 tea gardens;60
+Teahouse of the August Moon;50
 tea infuser;60
 tea infusers;60
 tea kettle;60
@@ -93641,6 +93654,7 @@ the hot corner;50;???
 the hots;60
 the hound;60
 The House of Ghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
+The House of the Rising Sun;60
 The Hub;20
 The Hunger Games;60
 The Hustler;50
@@ -94261,6 +94275,7 @@ the TARDIS;20
 thetas;40
 the Tate;30
 the taxman;50
+The Teahouse of the August Moon;50
 the Ted;20;???
 the test of time;50
 the Tetons;30
