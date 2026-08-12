@@ -2734,6 +2734,7 @@ Alford;20
 Alfre;40;Actress Woodard
 Alfred;50;Given name, or Batman's butler
 Alfred Kazin;40;Literary critic
+Alfred Lunt;40;Broadway actor (1892-1977)
 Alfredo;50;Fettuccine sauce
 Alfredson;40;Tomas Alfredson, "Let the Right One In" director
 Alfred U.;20;NY state university
@@ -4921,6 +4922,7 @@ apolunes;40
 a pony;20
 apoplexies;40
 apoplexy;50
+aport;30;On the left side of the boat
 APOs;30;Army Post Offices
 aposematic;40
 aposematism;40;Advertising by an animal that it's not worth eating, such as with markings or odor
@@ -5203,7 +5205,7 @@ arachnophobe;60
 arachnophobes;60
 arachnophobia;60
 arachnophobic;60
-Arad;40;Avi Arad, Marvel producer / Israeli city
+Arad;30;Avi Arad, Marvel producer / Israeli city
 Arafat;50;Yasser Arafat, PLO chairman
 a raft;20
 Arafura;40;Sea north of Australia
@@ -6183,6 +6185,7 @@ Asians;50;People from the largest continent
 Asia's;30;As in "Asia's Got Talent"
 Asiatic;40;Of Asia
 Asics;40;Athletic shoe brand
+as I do;40
 as if on cue;60
 a sight for sore eyes;60
 a sight to behold;60
@@ -6212,8 +6215,8 @@ asked in;40
 asked no favors;50
 asked of;40
 asked to;40
-asker;40
-askers;40
+asker;50
+askers;50
 ask for;40
 ask for the hand of;60
 AskHistorians;40;Reddit history forum
@@ -7231,10 +7234,12 @@ Avestan;20
 Avett;40;The Avett Brothers, folk rock band
 avg;40
 avgolemono;40;Greek lemon chicken soup
+Avi;30;Avi Arad, Marvel producer
 avi;20
 Avia;40
 Avianca;40;Colombian airline
 avianize;30
+Avi Arad;40;Marvel producer
 Avias;40
 aviated;30
 aviates;30
@@ -9103,6 +9108,7 @@ BBC TV;30
 bbey;0
 B.B. Eyes;40;Dick Tracy character
 bbl;20
+bbls;20
 B-boy;40
 B-boys;40
 BBQ;50
@@ -13104,7 +13110,7 @@ Bristolian;40;Of the English port city
 Bristolians;40;Bristol residents
 Bristow;40;Sydney Bristow, "Alias" spy
 Brit;50;A British person, or the Brit Awards
-Brita;50;Water filter brand
+Brita;40;Water filter brand
 Britain;50;The island, or the nation
 Britannia;50;Personification of Britain
 Britannic;40;Titanic's sister ship
@@ -22416,7 +22422,7 @@ D'Anjou;40;Pear variety
 Dan Marino;50
 Danner;40;Blythe Danner, actress
 Dannii;40;Dannii Minogue, singer and Kylie's sister
-Danno;50;"Book 'em, Danno"
+Danno;40;"Book 'em, Danno"
 Dannon;40;Yogurt brand
 Danny;50;Various: Danny DeVito, Danny Boyle
 Danny Kaye;50
@@ -23192,8 +23198,10 @@ decorums;40
 decrial;40
 decrier;30
 Dedalus;40;Stephen Dedalus, Joyce protagonist
-Dede;40;Dede Allen, pioneering film editor
+Dede;30;Dede Allen, pioneering film editor
+Dede Allen;40
 Dedede;40;King Dedede, Kirby's rival
+Dede Gardner;40
 dedicated line;50
 dedicated lines;50
 deducer;30
@@ -25588,6 +25596,7 @@ donezo;60
 Dongguan;40;Chinese manufacturing city
 dongs;50
 Dongzhi;40;Chinese winter solstice festival
+Don Ho;40
 Don Imus;50;Morning radio shock jock (1940-2019)
 Donizetti;50;Gaetano Donizetti, "Lucia di Lammermoor" composer
 Don King;50
@@ -26381,7 +26390,8 @@ dress to;20
 dress uniform;50
 dress uniforms;50
 dress up as;40
-Dr Evil;50
+Dr. Evil;60;Austin Powers character
+Dr Evil;0
 drew a bead;50
 drew a bead on;60
 drew a blank;60
@@ -28097,6 +28107,10 @@ Egyptologists;50;Tomb scholars
 Egyptology;50;Study of the land of the pharaohs
 eh;50
 eHarmony;50
+Eh, Eh;40;2009 single by Lady Gaga
+Eh Eh;0
+Eh, Eh (Nothing Else I Can Say);50;2009 single by Lady Gaga
+Eh Eh Nothing Else I Can Say;0
 eher;20
 ehh;50
 Ehle;30;Jennifer Ehle, actress
@@ -29811,6 +29825,8 @@ eSIMs;40;Digital SIM cards
 esiotrot;0
 es ist;20;It is, in German
 esk;20
+esker;30;Long, winding ridge associated with former glaciers
+eskers;30;Long, winding ridges associated with former glaciers
 ESL;40
 Esmail;40;Sam Esmail, creator of "Mr. Robot"
 Esme;30
@@ -36907,6 +36923,7 @@ Girondins;40;Moderate faction of the French Revolution
 Girondist;40;French Revolution moderate
 Girondists;40;French Revolution moderates
 Giroux;40;Farrar, Straus and Giroux publisher / Claude Giroux, NHL forward
+girt;40
 GIs;40
 Gisele;50;Gisele Bündchen, supermodel
 Gisele Bundchen;60
@@ -55768,7 +55785,7 @@ lunkhead;60
 lunkheads;60
 Lunn;40;Sally Lunn, namesake of the English bun
 Lunns;40;Sally Lunns, English buns
-Lunt;40;Alfred Lunt, Broadway actor of Lunt-Fontanne fame
+Lunt;30;Alfred Lunt, Broadway actor of Lunt-Fontanne fame
 lunula;40;White part of the fingernail
 lunular;30;Crescent-shaped
 lunule;40;White part of the fingernail
@@ -61665,6 +61682,8 @@ Mt. Dana;40
 Mt. Etna;50;Active volcano on the east coast of Sicily, Italy
 Mt. Everest;60
 MTG;20
+mtge;30
+mtges;30
 Mthatha;30;South Africa city formerly known as Umtata where Nelson Mandela comes from
 Mt. Hope;40;???
 Mt. Ida;40;Sacred mountain in Greek myth
@@ -62975,7 +62994,8 @@ Neely;40;Hockey player Cam Neely
 Neenah;20
 neener;50
 ne'er;40
-Neera;40;Neera Tanden, White House policy adviser
+Neera;30;Neera Tanden, Biden policy adviser
+Neera Tanden;40;Biden policy adviser
 ne'er-do-well;60
 ne'er-do-wells;60
 Neeson;50;Liam Neeson, "Taken" actor
@@ -73713,6 +73733,7 @@ protégées;40
 protégés;50
 protei;20
 proteinaceous;40
+pro tem;40
 Proterozoic;50;Eon before the Cambrian
 Protestant;50;Non-Catholic Christian
 Protestantism;50;Branch of Christianity
@@ -74883,7 +74904,8 @@ raddling;20
 Radeon;40;AMD graphics card line
 Radetzky;40;Joseph Radetzky, Austrian marshal of Strauss march fame
 Radha;40;Krishna's consort in Hindu lore / Radha Mitchell, actress
-Radia;40;Radia Perlman, "mother of the internet"
+Radia;30;Radia Perlman, "mother of the internet"
+Radia Perlman;40
 radiation;50
 radiation belt;60
 radiation belts;60
@@ -90135,6 +90157,7 @@ sueded;40
 suedes;40
 suede shoes;40
 sued for;40
+sueding;40
 sued over;40
 sue for;40
 sue over;40
@@ -91818,7 +91841,7 @@ Tanakh;30;Hebrew Bible
 Tananarive;40;Tananarive Due, horror novelist
 Tancredi;40;Rossini opera / Sara Tancredi of "Prison Break"
 tandems;50;Tandem bikes
-Tanden;40;Neera Tanden, Biden policy adviser
+Tanden;30;Neera Tanden, Biden policy adviser
 tandoor;50
 tandoori chicken;60
 tandoori oven;60
@@ -100277,6 +100300,7 @@ Verrazzano;50;Giovanni da Verrazzano, explorer with a NYC bridge
 verrit;20
 verruca;20;Wart
 verrucae;20;Warts
+vers;30;Vers libre (poetry style)
 Versace;50;Fashion house
 Versailles;50;Palace of Louis XIV
 versicle;30
@@ -100325,7 +100349,7 @@ vetches;30
 Veterans Affairs;50
 veto power;30
 veto-proof;50
-Vette;50;Corvette, informally
+Vette;40;Corvette, informally
 vet tech;50
 vet techs;50
 Vettel;30;Formula One driver Sebastian Vettel
