@@ -50366,6 +50366,7 @@ kHz;20
 Kia;50
 kia ora;40;Māori-language greeting
 Kias;40;Korean cars
+Kia Seltos;40
 Kia Spectra;50
 Kia Spectras;50
 kibbitz;60
@@ -76283,6 +76284,7 @@ recrudescence;40;Recurrence of an undesirable condition
 recrudescent;40
 recrudesces;40
 recrudescing;40
+recs;40;Recommendations
 rectal;10
 rectangle face shape;60
 rectangle face shapes;60
