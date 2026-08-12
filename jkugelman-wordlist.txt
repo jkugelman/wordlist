@@ -8735,7 +8735,8 @@ Bashir;40;Julian Bashir, "Deep Space Nine" doctor / common Arabic name
 Bashkir;40;Turkic language of Bashkortostan
 Bashkirs;40;Turkic people of Bashkortostan
 Bashkortostan;40;Russian republic
-Basho;50;Matsuo Basho, haiku master
+Bashō;30;Matsuo Bashō, Japanese haiku master (1644–1694)
+Basho;0
 bashtag;50
 bashtags;50
 Basia;40;Basia Trzetrzelewska, Polish jazz-pop singer
@@ -58038,6 +58039,8 @@ Matsuda;40;Seiko Matsuda, Japanese pop star
 Matsuhisa;40;Nobu Matsuhisa, celebrity chef
 Matsui;50;Yankee Hideki, World Series MVP
 Matsuo;40;Matsuo Basho, haiku master
+Matsuo Bashō;40;Japanese haiku master (1644–1694)
+Matsuo Basho;0
 Matt;50;Common first name
 matta;30;"Whatsa matta you?"
 Matta;30;Roberto Matta, Chilean surrealist painter
@@ -73232,6 +73235,13 @@ prevent;50
 prevents;50
 Prevert;40;Jacques Prévert, French poet and screenwriter
 Previn;40;Film composer André Previn
+previs;40;Previsualization
+previsualization;50
+previsualize;50
+previsualized;50
+previsualizes;50
+previsualizing;50
+previz;40;Previsualization
 Prevost;50;Robert Prevost aka Pope Leo XIV
 prevote;50
 prevoted;50
