@@ -33558,6 +33558,7 @@ Follett;40;Ken Follett, "The Pillars of the Earth" novelist
 Followill;40;Caleb Followill of Kings of Leon
 follow the money;60
 Folsom;50;California prison of Johnny Cash fame
+folx;40;Folks, used especially to explicitly signal the inclusion of groups commonly marginalized
 Fomalhaut;50;Bright star in Piscis Austrinus
 FOMO;40;Fear of missing out
 Fomorian;40;Monstrous race of Irish myth
@@ -39891,6 +39892,7 @@ had money on;50
 had more;40
 had need for;40
 had need to;40
+had no business;60
 had no chill;60
 had no life;50
 had no oomph;60
@@ -40760,6 +40762,7 @@ Hasnard;0;Transcripts of British parliamentary debates
 has need for;40
 has need to;40
 has next;40;Playground dibs
+has no business;60
 has no chill;60
 has no life;50
 has no oomph;60
@@ -40961,6 +40964,7 @@ have more;40
 have need for;40
 have need to;40
 havener;0
+have no business;60
 have no chill;60
 have no fear;60
 have no life;50
@@ -41034,6 +41038,7 @@ having legs;50
 having money on;50
 having need for;40
 having need to;40
+having no business;60
 having no life;50
 having no shot;60
 having no time for;40
@@ -86184,6 +86189,7 @@ Snowden;50;Edward Snowden, NSA leaker
 Snowdon;40;Highest peak in Wales
 Snowdonia;50;Welsh national park
 Snowe;40;Olympia Snowe, Maine senator 1995-2013
+snowed out;40
 snow flurries;50
 snow flurry;50
 snow fort;50
@@ -94213,17 +94219,43 @@ there's a thought;60
 There's a Wocket in My Pocket;60;Dr. Seuss book
 Therese;40;Saint Thérèse of Lisieux
 there's more where that came from;60
+there's no;20
+there's no accounting for taste;60
+there's no business like show business;60
+there's no comparison;60
+there's no crying in baseball;60
+there's no denying;60
 there's no doubt about it;60
+there's no doubt in my mind;60
 there's no easy way to say this;60
 there's no escape;60
 there's no excuse;60
 there's no excuse for you;60
+there's no future in it;50
+(There's) No Gettin' Over Me;50;1981 country song by Ronnie Milsap
+there's no going back;60
+there's no harm in it;60
+there's no need for that;60
+there's no need to fear, Underdog is here;60
+There's No Other (Like My Baby);50;1961 single by the Crystals
+there's no place like home;60
+(There's No Place Like) Home for the Holidays;60;1954 Christmas song by Perry Como
+there's no pleasing you;60
 there's no question;60
 there's no question about it;60
 there's no question about that;60
+there's no rest for the wicked;60
 there's no silver bullet;60
+there's no smoke without fire;60
+there's no such thing as a free lunch;60
+there's no there there;60
+there's nothing I can do;60
+there's no time;60
+there's no time like the present;60
 there's no time to explain;60
 there's no use;60
+there's no way out;60
+there's no way to be sure;60
 there's nowhere to go but up;60
 there's simply no excuse;60
 the rest;30
