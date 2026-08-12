@@ -973,6 +973,7 @@ a chip and a chair;60
 a chip on;20
 Acholi;40;Ugandan people and language
 achs;30
+acht;40;German eight
 aci;20
 acid bath;50
 acid house;60
@@ -7037,6 +7038,7 @@ Aunt Bee;40;"The Andy Griffith Show" character
 Aunt Bee Taylor;40;"The Andy Griffith Show" character
 Aunt Jemima;10
 Aunt Selma;50
+Aunt Viv;40
 aur;20
 aurae;30;Extremely uncommon vs. auras
 aura farm;60
@@ -15218,12 +15220,13 @@ can you spare a dime?;50
 can you tell?;50
 canzone;30;Italian ballad
 CANZUK;30;Proposed alliance of Canada, Australia, New Zealand and the United Kingdom
-Cao;40;Cao Cao, Three Kingdoms warlord
+Cao;20;Cao Cao, Three Kingdoms warlord
+Cao Cao;30;Chinese warlord and statesman (155–220)
 Cao Dai;30;Vietnamese monotheistic religion
 Caodaism;40;Vietnamese monotheistic religion
 Caodaist;40;Believer in Caodaism, a Vietnamese monotheistic religion
 Caodaists;40;Believers in Caodaism, a Vietnamese monotheistic religion
-Cao Xueqin;50;Cao Xueqin, author of "Dream of the Red Chamber"
+Cao Xueqin;40;Cao Xueqin, author of "Dream of the Red Chamber"
 cap;50
 Capa;40;Robert Capa, war photographer
 Capablanca;50;José Raúl Capablanca, Cuban world chess champion
@@ -24554,7 +24557,8 @@ Dinesen;30
 Dinesh;40
 dines in;40
 dines on;40
-Dinetah;40;Traditional Navajo homeland
+Dinétah;30;Traditional Navajo homeland
+Dinetah;0
 dinette set;50
 dinette sets;50
 ding;50
@@ -34546,6 +34550,10 @@ Fritzi;40;Fritzi Ritz, Nancy's aunt in the comics
 Friuli;40;Northeastern Italian region
 Friulian;40;Romance language of northeast Italy
 Friulians;40;Northeastern Italian ethnic group
+frivol;40;Behave frivolously
+frivoled;40;Behaved frivolously
+frivoling;40;Behaving frivolously
+frivols;40;Behaves frivolously
 Friz;40;Friz Freleng, Looney Tunes animator
 Frizzell;40;Lefty Frizzell, country music pioneer
 fro;50
@@ -39790,7 +39798,7 @@ Haar;20;Hair: Ger.
 Haaretz;40;Israeli daily newspaper
 Haarlem;40
 Haas;40;Lukas Haas, actor / the Haas F1 team
-Haasan;40;Kamal Haasan, Indian film star
+Haasan;30;Kamal Haasan, Indian film star
 Hab;20
 Habakkuk;50;Minor prophet with his own book
 Habana;40;Havana, in Spanish
@@ -45992,6 +46000,7 @@ in full force;60
 Inga;30;Swenson of "Benson"
 Ingalls;40;Laura Ingalls Wilder, "Little House" author
 in-game;40
+Inga Swenson;40
 Inge;40;Playwright William Inge
 Ingeborg;40;Ingeborg Bachmann, Austrian poet
 Ingels;40;Bjarke Ingels, Danish architect
@@ -49473,6 +49482,7 @@ Kamadeva;40;Hindu god of love
 Kamakawiwo'ole;50;Israel Kamakawiwo'ole, Hawaiian ukulele singer
 Kamal;40
 Kamala;50;Kamala Harris, US vice president
+Kamal Haasan;40
 Kamali;40;Norma Kamali, fashion designer
 Kamasi;40;Kamasi Washington, jazz saxophonist
 Kamau;40;W. Kamau Bell, comedian and host
@@ -55668,6 +55678,7 @@ Lukacs;40;György Lukács, Marxist philosopher
 Luka Doncic;50;NBA star player (2018-present)
 Luka Magic;60;Nickname for NBA star player Luka Dončić (2018-present)
 Lukas;40;Lukas Haas, actor / Lukas Graham, Danish pop singer
+Lukas Haas;40;Actor (born 1976)
 Lukasiak;40;Chloe Lukasiak, "Dance Moms" dancer
 Luke;50;Gospel writer / Luke Skywalker / Cool Hand Luke
 Lula;40;Luiz Inacio Lula da Silva, Brazilian president
@@ -58280,7 +58291,7 @@ maypop;30;Flower
 Mayra;40;Mayra Montero, Cuban-Puerto Rican novelist
 Mays;50;Willie Mays, the Say Hey Kid / Billy Mays, pitchman
 Maysles;40;Albert and David Maysles, "Grey Gardens" documentarians
-May Swenson;50;Poet and playwright (1913-1989), much lauded
+May Swenson;40;Poet and playwright (1913-1989), much lauded
 Maytag;40;Appliance brand with the lonely repairman
 Maytags;40;Washing machines
 Maytals;40;Toots and the Maytals, reggae group
@@ -58832,6 +58843,8 @@ meekness;50
 Meeks;40;Jodie Meeks, NBA guard / "Meek's Cutoff" film
 Meena;40;Meena Kumari, Bollywood tragedienne
 meeny;40
+meeple;40
+meeples;40
 Meereen;20;Game of Thrones slave city
 meerkat pup;50
 meerkat pups;50
@@ -59113,6 +59126,8 @@ Mendocino;40;California coastal county
 Mendoza;40;Mendoza line of baseball futility / Jason Mendoza of "The Good Place"
 Menelaus;30
 Menelik;40;Menelik II, Ethiopian emperor
+menemen;30
+mene mene tekel upharsin;40;Words written by a mysterious hand on the wall of Belshazzar's palace,
 Menes;20;Pharaoh
 menfolk;50
 Mengele;10
@@ -66689,6 +66704,7 @@ one lap;30
 one lb;40
 one leg;30
 one-legged;50
+one less;40
 one line;20
 one-line fix;60
 one-line fixes;60
@@ -66749,11 +66765,13 @@ one-punch;20
 oner;40;Long, uninterrupted take
 ONERA;20
 one rate;20
+one-reed;40
 one reel;40;Like short old movies
 one-reeler;50
 one-reelers;50
 one-rep max;60
 OneRepublic;50;"Counting Stars" pop-rock band
+One Ring;60
 one-room;30;Always clued as "like an old schoolhouse"
 one round;30
 oners;40
@@ -66819,6 +66837,7 @@ One Wish Willow;60;Central prop in "Obsession" (2026)
 one-woman;30
 one-wood;30;Nobody says this
 one-woods;30;Nobody says this
+one yard;40
 one year;40
 on feed;40
 on first;40
@@ -71287,6 +71306,7 @@ Pisgah;30;Pisgah National Forest in North Carolina
 pismire;20;Ant, archaic
 pismires;20;Ants, archaic
 Pismo;20
+piso;30
 piss;10
 Pissarro;40;Camille Pissarro, Impressionist painter
 piste;40;Ski trail
@@ -76888,7 +76908,7 @@ relose;20
 relying on;40
 rely on;40
 REM;40;REM sleep, or the band
-Rema;40;Nigerian Afrobeats singer of "Calm Down"
+Rema;30;Nigerian Afrobeats singer of "Calm Down"
 Remagen;30;???
 remail;20
 remails;20
@@ -76948,6 +76968,7 @@ remittee;20
 remittees;20
 remitter;40
 remitters;40
+Rem Koolhaas;40
 Remo;40;San Remo, Italy
 remote;50
 remote control;50
@@ -82185,6 +82206,7 @@ seeming to;40
 seem mad;30;Green paint
 seem OK;50
 seem okay;50
+seemore;20;???
 seems mad;30
 seem so;40
 seems OK;50
@@ -94188,6 +94210,7 @@ The Old Vic;40
 the ol' heave-ho;60
 the Once-ler;60
 the one;60
+The One Ring;60
 the one to beat;60
 The Onset;40;Frost poem
 theopen;0
@@ -96097,6 +96120,7 @@ Tom Marvolo Riddle;60
 Tommie;40;Tommie Smith, sprinter of the 1968 raised-fist salute
 Tommie Agee;50;Baseball player, one of the "Miracle Mets"
 Tommy;50;The Who rock opera, or a common nickname
+Tommy Haas;40;German tennis player (born 1978)
 Tommyknocker;50;Mine-dwelling spirit of folklore
 Tommyknockers;50;Mine spirits, and a Stephen King novel
 Tommy Roe;50
@@ -97857,6 +97881,7 @@ tuk-tuks;30
 Tulane;40;New Orleans university
 tularemia;30;Rabbit fever
 Tulathimutte;40;Tony Tulathimutte, "Rejection" author
+tulgey;30
 tulip bed;50
 tulip beds;50
 tulip bulb;50
