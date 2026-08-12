@@ -3183,23 +3183,63 @@ Alous;40
 Aloysius;40;Old-fashioned first name
 Alp;40
 alpaca;50
+alpaca breeder;60
+alpaca breeders;60
+alpaca breeding;60
+alpaca farm;60
+alpaca farmer;60
+alpaca farmers;60
+alpaca farms;60
 alpacas;50
+alpaca sweater;60
+alpaca sweaters;60
+alpaca yarn;60
 Al Pacino;60
 alpe;30;French for Alp
 Alpen;30
 alpenhorn;50
 alpenhorns;50
+AL pennant;50
+AL pennant race;50
+AL pennant races;50
 Alpers;40;Svetlana Alpers, art historian / Alpers disease
 Alpert;40;Herb Alpert, Tijuana Brass leader and A&M co-founder
 Alpes;40;French Alps, as in Alpes-Maritimes
 Alph;40;Sacred river in "Kubla Khan"
 alpha and omega;60
+alphabet agencies;60
+alphabet agency;60
+alphabet block;60
+alphabet blocks;60
+Alphabet City;60;Neighborhood in New York City with Avenues A, B, C, and D
+Alphabet City, Manhattan;60;Neighborhood in New York City with Avenues A, B, C, and D
+alphabetized list;50
+alphabetized lists;50
+Alphabet murders;40;Unsolved serial murders
+alphabet song;50
+alphabet songs;50
 Alpha-Bits;60;Letter-shaped cereal 1957-2021
+Alpha Centauri;60
 alpha dog;50
 alpha dogs;50
 AlphaFold;40;DeepMind's protein structure AI
+alpha geek;60
+alpha geeks;60
 AlphaGo;40;DeepMind program that beat the world Go champion
+alpha male;60
+alpha males;60
+alpha nerd;60
+alpha nerds;60
+alphanumerical;50
+alphanumerically;50
+alphanumeric display;50
+alphanumeric displays;50
+alphanumerics;50
 Alpharetta;40;Atlanta suburb
+Alpharetta, Georgia;40;Atlanta suburb
+Alpharetta Georgia;0
+alpha version;60
+alpha versions;60
 Alphaville;40;Godard sci-fi film, or the "Forever Young" band
 AlphaZero;60;DeepMind's game-playing AI
 Alphonse;40;Alphonse Mucha, Art Nouveau artist / French name
