@@ -35742,6 +35742,7 @@ Gazprom;40;Russian gas giant
 Gazzara;40;Ben Gazzara, actor
 GB;40
 GBP;40;Pound sterling
+Gbps;40;Gigabits per second
 GBs;20
 G B Shaw;40
 Gchat;30
@@ -35963,6 +35964,7 @@ Gentili;40;Cecilia Gentili, trans rights activist
 gentle breeze;50;3 on the Beaufort wind force scale
 gentleman thief;60;Criminal of impeccable character
 gentleman thieves;60
+Gen V;40;Spinoff of "The Boys" on Amazon Prime Video
 Gen X;60
 Gen Xer;60
 Gen Xers;60
@@ -52195,7 +52197,7 @@ lash to;20
 Lasik;50;Corrective eye surgery
 Lasker;40;Chess champion Emanuel Lasker
 Laski;30;1930s political scientist Harold Laski
-Las Meninas;50;1656 Diego Velázquez painting (Las Meninas, "The Ladies-in-waiting"), "one of the most important paintings in the history of Western art"
+Las Meninas;40;1656 Diego Velázquez painting (Las Meninas, "The Ladies-in-waiting"), "one of the most important paintings in the history of Western art"
 laso;20
 La Sorbonne;60
 Lasorda;40;Tommy Lasorda, Dodgers manager
@@ -58302,6 +58304,7 @@ MBE;20
 Mbeki;40;Mandela's successor Thabo Mbeki
 Mbembe;40;Achille Mbembe, Cameroonian philosopher
 MBMBaM;20;"My Brother, My Brother and Me" podcast
+Mbps;40;Megabits per second
 MBTA;30;Massachusetts Bay Transportation Authority
 Mbube;40;Zulu song that became "The Lion Sleeps Tonight"
 M. Butterfly;50;1988 play by David Henry Hwang
@@ -75548,7 +75551,7 @@ rasher;30
 rashers;30
 rashest;30
 Rashford;40;Marcus Rashford, English footballer
-Rashi;40;Medieval French Torah commentator
+Rashi;30;Medieval French Torah commentator
 Rashid;40;Common Arabic given name
 Rashida;40;Rashida Jones, actress / Rashida Tlaib, congresswoman
 Rashida Tlaib;50
