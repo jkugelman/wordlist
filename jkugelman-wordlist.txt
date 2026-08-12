@@ -10667,8 +10667,8 @@ biohackers;60
 biohacking;60
 biohazard;60
 biohazards;60
-bioink;50;Used to 3D print artificial tissue
-bioinks;50
+bio-ink;50;Used to 3D print artificial tissue
+bio-inks;50;Used to 3D print artificial tissue
 Bioko;40;Island of Equatorial Guinea
 biol;30
 biomimicry;50
@@ -49672,7 +49672,7 @@ kcal;40
 kcals;40
 K-car;20
 K-cars;20
-KCMO;40;Kansas City, Missouri
+KCMO;30;Kansas City, Missouri
 KC Royal;50
 KC Royals;50
 KCs;20
