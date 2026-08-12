@@ -4743,7 +4743,9 @@ Anzaldua;40;Gloria Anzaldúa, "Borderlands" author
 Anzio;40;Italian port, site of a WWII Allied landing
 AOC;40
 ao dai;20;Vietnamese garment
-Aoife;40;Irish girl's name
+Aoife;30;Irish girl's name
+Aoife McArdle;40
+Aoife O'Donovan;40
 A-OK;40
 A-okay;40
 Aoki;40;DJ Steve Aoki, or model/actress Devon Aoki
@@ -6215,7 +6217,8 @@ askers;40
 ask for;40
 ask for the hand of;60
 AskHistorians;40;Reddit history forum
-Askia;40;Askia Muhammad, Songhai emperor
+Askia;30;Askia Muhammad, Songhai emperor
+Askia Muhammad;40;Songhai emperor / NPR journalist
 ask in;40
 asking a favor of;40
 asking a lot of;50
@@ -9544,6 +9547,7 @@ beef Stroganoff;60
 Beefy-T;20;Thick Hanes t-shirt
 beehive;50
 Beehive State;50
+bee in one's bonnet;60
 Beek;40;James Van Der Beek, "Dawson's Creek" star
 beekeeper;60
 beekeepers;60
@@ -10246,11 +10250,13 @@ betokened;40
 betokening;40
 betokens;40
 bet on;40
+bet one's bottom dollar;60
 bet on it;50
 be too good for;20
 betook;40
 Betsey;40;Fashion designer Betsey Johnson
 bets on;40
+bets one's bottom dollar;60
 Betsy;50;Common first name, or Betsy Ross
 Betsy Ross;60
 Bettany;40;Paul Bettany, actor who plays Vision
@@ -10270,6 +10276,7 @@ better not;60
 better yet;60
 Bettie;40;Bettie Page, pinup model
 betting on;40
+betting one's bottom dollar;60
 Bettis;40;Jerome Bettis, Hall of Fame running back
 Betts;30;???
 Betty;50;Common first name, or a baked apple dessert
@@ -22326,10 +22333,11 @@ dams up;40
 Dan;50
 Dana;50;Dana Carvey, comedian / Dana Delany, actress
 Danae;20;Mother of Perseus
-Danai;40;Actress Danai Gurira from "Black Panther" and "The Walking Dead"
+Danai;40;Danai Gurira, actress from "Black Panther" and "The Walking Dead"
 Danaid;30;Daughter of Danaus in Greek myth
 Danaides;30;???
 Danaids;30;Daughters of Danaus in Greek myth
+Danai Gurira;40;Actress from "Black Panther" and "The Walking Dead"
 danas;30
 Danaus;40;Monarch butterfly genus, or the Greek myth king
 Danbury;40;Connecticut city
@@ -31866,6 +31874,7 @@ feeling funny;50
 feeling heard;60
 feeling homesick;50
 feeling in one's bones;60
+feeling it in one's bones;60
 feeling left out;50
 feeling like a fool;50
 feeling like a million bucks;60
@@ -31884,6 +31893,7 @@ feeling under the weather;60
 feeling up to;50
 feeling up to it;60
 feel in one's bones;60
+feel it in one's bones;60
 feel left out;50
 feel like a fool;50
 feel like a million bucks;60
@@ -31899,6 +31909,7 @@ feels heard;60
 feels homesick;50
 feel sick;40
 feels in one's bones;60
+feels it in one's bones;60
 feels left out;50
 feels like a fool;50
 feels like a million bucks;60
@@ -31992,6 +32003,7 @@ felt funny;50
 felt heard;60
 felt homesick;50
 felt in one's bones;60
+felt it in one's bones;60
 felt left out;50
 felt like a fool;50
 felt like a million bucks;60
@@ -44189,6 +44201,8 @@ Iberia;50;Peninsula of Spain and Portugal
 Iberian;50;Spanish or Portuguese
 Iberians;40;Spaniards and Portuguese
 Ibert;40;Jacques Ibert, French composer
+I bet you;50
+I bet you can't;60
 ibex;40;Wild goat
 ibexes;40;Just "ibex" is more common
 ibex kid;40
@@ -48894,7 +48908,8 @@ Jonathan Byers;50;"Stranger Things" character
 Jonathan Haidt;50;Social psychologist (born 1963)
 JonBoy;30;Celebrity tattooer
 Jones;50;Common surname, as in Indiana Jones
-Jo Nesbo;40;Author Jo Nesbø, most successful Norwegian author of all time
+Jo Nesbø;40;Most successful Norwegian author of all time
+Jo Nesbo;0
 Jonesboro;40;Arkansas city
 Joneses;60
 jonesing;60
@@ -49662,6 +49677,7 @@ Kashyap;40;Anurag Kashyap, Indian filmmaker
 Kashyyyk;40;Wookiee home planet in "Star Wars"
 Kasi;40;Kasi Lemmons, "Harriet" director
 Kaskaskia;40;Illinois river and tribe
+Kaskaskia River;40
 Kaspar;30
 Kasparov;50;Garry Kasparov, chess champion
 Kassel;40;German city, home of documenta
@@ -63146,7 +63162,8 @@ nervous tic;60
 nervous tics;60
 NES;40
 Nesbit;40;1800s writer Edith Nesbit
-Nesbo;40;Jo Nesbø, Norwegian crime novelist
+Nesbø;40;Jo Nesbø, most successful Norwegian author of all time
+Nesbo;0
 Nescafe;50;Instant coffee brand
 nescience;40
 nescient;40
@@ -65650,7 +65667,8 @@ Odenkirk;50;Bob Odenkirk, "Better Call Saul" star
 Odense;30;Danish port
 odeon;40
 odeons;40
-Oder;40;River on the Germany-Poland border
+Oder;30;River on the Germany-Poland border
+Oder River;40
 Odesa;40;Ukrainian port city
 Odesan;40;Odesa native
 Odesans;40;Ukrainian port city residents
@@ -68033,6 +68051,10 @@ overeater;40
 overeaters;40
 overeating;50
 overeats;50
+overegg;40
+overegged;40
+overegging;40
+overeggs;40
 overenthusiasm;50
 overexaggeration;50
 overexcitement;50
@@ -74502,10 +74524,14 @@ quail hunt;50
 quail hunts;50
 quailing at;40
 quails at;40
+quaked in one's boots;60
+quake in one's boots;60
 Quaker;50;Member of the Society of Friends
 Quakerism;40;Faith of the Society of Friends
 Quaker Oatmeal;50
 Quakers;50;Society of Friends
+quakes in one's boots;60
+quaking in one's boots;60
 Qualcomm;50
 quality of life;50
 Qualley;50;Actress Margaret Qualley
@@ -76746,7 +76772,8 @@ Reiser;40;Paul Reiser, "Mad About You" star
 reishi;40;Mushroom
 Reitman;40;Ivan Reitman, "Ghostbusters" director
 reives;20
-Reiwa;40;Current Japanese imperial era
+Reiwa;30;Current Japanese imperial era
+Reiwa era;40;Current Japanese imperial era
 rejudge;20
 rejudged;20
 rejudges;20
@@ -80797,7 +80824,9 @@ Saskatchewan;50;Canadian prairie province
 Saskatchewanian;40;Regina resident, e.g.
 Saskatchewanians;50;Regina residents, e.g.
 Saskatoon;50;Saskatchewan city, or a berry
-Saskia;40;Saskia van Uylenburgh, Rembrandt's wife / Saskia Sassen, sociologist
+Saskia;30;Saskia van Uylenburgh, Rembrandt's wife / Saskia Sassen, sociologist
+Saskia Hamilton;40
+Saskia Sassen;40
 sassafras;50
 Sassanid;40;Persian empire before Islam
 Sassanids;40;Last pre-Islamic Persian dynasty
@@ -80996,6 +81025,7 @@ saw a friend;20
 saw after;30
 saw a ghost;60
 Sawai;40;Anna Sawai, "Shogun" actor
+saw all;40
 saw an opening;60
 saw as;30
 Sawatch;40;Colorado mountain range
@@ -82063,6 +82093,7 @@ see;50
 seeable;30
 see after;30
 see a ghost;60
+see all;40
 see an opening;60
 see as;40
 seedage;30
@@ -82090,6 +82121,7 @@ Seehorn;40;Actress Rhea Seehorn
 see I;20
 see in;40
 seeing after;30
+seeing all;40
 seeing an opening;60
 seeing dollar signs;60
 seeing eye to eye;60
@@ -82167,6 +82199,7 @@ see reason;50
 seeress;40;Cassandra, e.g.
 seeresses;40
 sees after;30
+sees all;40
 sees an opening;60
 sees as;40
 sees dollar signs;60
@@ -83206,8 +83239,10 @@ shake it off;60;Taylor Swift song
 Shake Me, Wake Me (When It's Over);50;1966 single by Four Tops
 shaken not stirred;60
 shake on;40
+shake one's booty;60
 Shakermaker;40;Oasis song
 shakes on;40
+shakes one's booty;60
 Shakespeare;60;William Shakespeare, the Bard
 Shakespearean;50;Like the Bard's sonnets
 Shakespearean actor;60
@@ -83218,6 +83253,7 @@ Shakespearian actor;60
 Shakespearian actors;60
 Shakina;40;Shakina Nayfack, actress and activist
 shaking on;40
+shaking one's booty;60
 Shakira;50;Colombian pop superstar
 shako;30;Military cap
 shakos;30
@@ -83849,6 +83885,7 @@ shoo-in;50
 shooing in;20
 shoo-ins;50
 shook on;40
+shook one's booty;60
 S-hooks;30
 Shoop;40;Salt-N-Pepa hit, or the Shoop Shoop Song
 shoos in;20
