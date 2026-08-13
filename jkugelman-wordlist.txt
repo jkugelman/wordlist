@@ -92375,7 +92375,7 @@ tasting room;50
 tasting rooms;50
 Tastykake;40;Philadelphia snack cake brand
 tasty treat;60
-tat;40
+tat;50
 tataki;40
 tatami mat;50
 tatami mats;50
@@ -92398,7 +92398,7 @@ Tatjana;40;Tatjana Patitz, supermodel
 Tatler;30;British magazine
 Tatlin;30;Vladimir Tatlin, Russian constructivist artist
 Tatooine;60;Luke Skywalker's home planet
-tats;40
+tats;50
 Tatsuya;40;Tatsuya Nakadai, Japanese actor in "Ran"
 tattarrattat;0
 tatterdemalion;60
