@@ -35726,7 +35726,7 @@ gave a say to;40
 gave ear;40
 gave ear to;40
 gave ground;50
-gave it a go;50
+gave it a go;60
 gave it the old college try;60
 gave it to;40
 gave me the nod;20
@@ -37016,7 +37016,7 @@ give a wrong idea;20
 give ear;40
 give ear to;40
 give ground;50
-give it a go;50
+give it a go;60
 give it a rest;60
 give it one's all;60
 give it the old college try;60
@@ -37045,7 +37045,7 @@ gives a say to;40
 gives ear;40
 gives ear to;40
 gives ground;50
-gives it a go;50
+gives it a go;60
 gives it the old college try;60
 gives it to;40
 gives one's best;60
@@ -37076,7 +37076,7 @@ giving a say to;40
 giving ear;40
 giving ear to;40
 giving ground;50
-giving it a go;50
+giving it a go;60
 giving it the old college try;60
 giving it to;40
 giving one's best;60
@@ -45090,6 +45090,7 @@ I'll get it;60
 I'll get you;60
 I'll get you, my pretty;60
 I'll get you, my pretty, and your little dog too;60
+I'll give it a go;60
 I'll give you one guess;60
 I'll give you that;60
 ill-gotten;60
@@ -53511,6 +53512,7 @@ let me ask you something;60
 let me ask you this;60
 Let Me Down;50;2018 single by Jorja Smith featuring Stormzy
 let me finish;60
+let me give it a go;60
 let me go;60
 let me have it;60
 let me have this;60
@@ -53551,6 +53553,7 @@ let's get on with it;60
 let's get out of here;60
 let's get outta here;60
 let's get this straight;60
+let's give it a go;60
 let's give it a whirl;60
 let's have a go at it;50
 let's have it;60
@@ -103193,6 +103196,7 @@ why, back in my day;60
 why does it matter;60
 why does this always happen to me?;60
 why don't we start over?;60
+why don't you give it a go?;60
 why don't you make like a tree and get out of here?;60
 why else;50
 why, I'd be delighted;60
