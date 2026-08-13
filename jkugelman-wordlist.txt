@@ -40584,6 +40584,8 @@ Hap;40
 hapa;40;Mixed-race Hawaiian
 Hapag;40;Hapag-Lloyd, German shipping line
 hapax;20;Hapax legomenon
+hapax legomena;40;Words occurring only once in a given corpus
+hapax legomenon;40;Word occurring only once in a given corpus
 ha'pennies;40
 ha'penny;40
 haploid;30;Like sex cells
