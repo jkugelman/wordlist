@@ -59220,6 +59220,11 @@ meme accounts;60
 meme coin;60
 meme coins;60
 memed;50
+memeification;60
+memeified;60
+memeifies;60
+memeify;60
+memeifying;60
 memento;60
 mementoes;50
 memento mori;60
