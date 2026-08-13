@@ -4855,6 +4855,7 @@ apish;50
 AP Italian;50
 AP Japanese;50
 APL;20
+a plan;20
 aplasia;30;Missing organ or limb birth defect
 AP Latin;40
 a play within a play;60
@@ -12509,8 +12510,9 @@ bowl of cereal;50
 bowl season;50
 bowls of cereal;50
 Bowser;50
-Bowser Jr;50
-Bowser's Castle;50
+Bowser Jr.;60
+Bowser Jr;0
+Bowser's Castle;60
 Bowsette;40;Bowser-Peach fan character
 bows to;40
 bow to;40
@@ -22256,8 +22258,8 @@ Dalai Lama;60
 Dalai Lamas;60
 dalasi;30;Gambian currency
 Dale Carnegie;50
-Dalek;50;"Doctor Who" villain
-Daleks;50;"Doctor Who" villains
+Dalek;40;"Doctor Who" villain
+Daleks;40;"Doctor Who" villains
 d'Alene;20;Coeur d'Alene, Idaho
 daleth;20;Hebrew letter
 daleths;20
@@ -23476,7 +23478,10 @@ dele;40
 delead;30
 deleaded;30
 delecto;30
+deled;40
+deleing;40
 de León;40;Conquistador Juan Ponce de León (3-word last name)
+deles;40
 Delete key;50
 delete key;0
 Delete keys;40
@@ -35178,6 +35183,13 @@ Galadriel;50;Elf queen of Lothlórien
 Galaga;50;Classic arcade shooter
 galah;20;Cockatoo
 Galahad;50;Purest of the Knights of the Round Table
+galão;30;Portuguese drink made with coffee and milk
+gala occasion;50
+gala occasions;50
+galão coffee;40;Portuguese drink made with coffee and milk
+galao coffee;0
+gala opening;60
+gala openings;60
 Galapagos;50;Darwin's islands
 Galarraga;40;Armando Galarraga, pitcher of the blown perfect game
 Galatasaray;40;Istanbul soccer club
@@ -44515,6 +44527,7 @@ ICUs;40;Hospital critical care units
 icy;50
 ICYMI;20;In case you missed it
 Icy Sea;30;Arctic Ocean, on old maps
+I'd;50
 ID;50
 Ida;40
 I dabble;60
@@ -44623,9 +44636,18 @@ idle threats;60
 Idlewild;50;JFK Airport's former name
 idli;40;Indian rice cake
 I'd Lie for You (And That's the Truth);50;1995 single by Meat Loaf
+idlike;40
 I'd like to but;60
+I'd like to buy;0
+I'd like to buy an A;40
+I'd like to buy an E;40
+I'd like to buy an I;40
+I'd like to buy an O;40
+I'd like to buy a U;40
+I'd like to buy a vowel;60
 I'd like to see you try;60
 idling away;30
+idlis;40;Indian rice cakes
 I'd never;60
 ID number;50
 ID numbers;50
@@ -49489,6 +49511,7 @@ Kalmyk;40;Language of Kalmykia
 Kalmykia;40;Buddhist republic in Russia
 Kalmyks;40;Buddhist people of southwestern Russia
 Kalshi;40;Prediction market site in the news a lot
+kālua;40;Traditional Hawaiian method of cooking
 Kaluga;40;Russian city southwest of Moscow
 Kaluga, Russia;50
 Kalugarussia;0;Kaluga, Russia, run together
@@ -65591,6 +65614,8 @@ Oceanid;40
 Oceanids;40
 ocean liner;60
 ocean liners;60
+ocean map;50
+ocean maps;50
 oceano;40
 Ocean's Eleven;60
 Oceanside;40;California coastal city
@@ -75132,6 +75157,8 @@ rainbow boa;60
 rainbow boas;60
 rainbow emoji;60
 rainbow emojis;60
+Rainbow Serpent;60;Creator god and common motif of Aboriginal Australia
+Rainbow Snake;60;Creator god and common motif of Aboriginal Australia
 rain dance;60
 rain dances;60
 rain dancing;60
@@ -80399,6 +80426,7 @@ salines;30;Weird plural
 saline solution;50
 saline solutions;50
 Salinger;50;J.D. Salinger, "The Catcher in the Rye" author
+salis;20
 Salisbury;50;English cathedral city, or the steak
 Salisbury steak;60
 Salisbury steaks;60
@@ -80492,6 +80520,7 @@ Saluki;40;Dog breed, royal dog of Egypt [occasional]
 Salukis;40;Dog breed, royal dog of Egypt
 salumeria;30;Italian deli
 salumerias;30;Italian delis
+salut;40
 salutatorian;50
 salutatorians;50
 saluter;40
@@ -93706,6 +93735,7 @@ the DA;40
 Theda;30;Theda Bara, silent film actress
 Theda Bara;40;Silent film actress
 The Daily Show;60
+The Daleks;40
 the damage is done;60
 The Dance;60;Garth Brooks signature song
 The Dancer;30;Obscure 2016 movie
@@ -96353,6 +96383,7 @@ tooth gel;50
 tooth gels;50
 toot his own horn;50
 Tootie;30;"The Facts of Life" character
+too tight;40
 tootin';40
 tooting at;30
 tooting one's horn;20
