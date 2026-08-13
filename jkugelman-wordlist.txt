@@ -2218,6 +2218,7 @@ Ainu food;40
 Ainu language;40
 AI overview;60
 AI overviews;60
+AIPAC;40;American Israel Public Affairs Committee
 air;50
 Aira;30;César Aira, Argentine novelist (born 1949)
 air ace;30;Legit synonym of flying ace
@@ -9993,7 +9994,7 @@ Benny;50;Common first name
 Benoist;40;Melissa Benoist, "Supergirl" star
 Benoit;40;Joan Benoit, first Olympic women's marathon champ / Benoit Blanc, "Knives Out" sleuth
 Benoit Blanc;60;"Knives Out" detective
-Ben Okri;50;Nigerian-born British poet and novelist
+Ben Okri;40;Nigerian-born British poet and novelist
 BenQ;40;Monitor and projector brand
 Benson;40;Benson Boone, pop singer / "Benson," 1980s sitcom
 Bensonhurst;40;Brooklyn neighborhood
@@ -51042,7 +51043,7 @@ knocks in;40
 knocks it out of the park;60
 knocks off early;60
 knock yourself out;60
-Knope;50;Leslie Knope, "Parks and Recreation" heroine
+Knope;40;Leslie Knope, "Parks and Recreation" heroine
 Knopf;40;Publishing company Alfred A. Knopf
 Knopfler;40;Mark Knopfler of Dire Straits
 Knorr;30;Bouillon brand
@@ -53528,6 +53529,7 @@ Leskov;40;Nikolai Leskov, Russian writer
 Leslea;30;Lesléa Newman, young adult author of "Heather Has Two Mommies"
 Lesley;50;Lesley Stahl, "60 Minutes" correspondent / common given name
 Leslie;50;Common first name
+Leslie Knope;50;"Parks and Recreation" heroine
 Leslies;20
 Les Mis;50;"Les Misérables" the musical
 Les Misérables;60;1862 novel by Victor Hugo / 1983 musical
@@ -70545,6 +70547,7 @@ Peter I;30
 Peter II;30
 Peterloo;40;1819 Manchester massacre
 Peterman;40;J. Peterman, "Seinfeld" catalog magnate
+Peter Opie;40;English folklorist
 Peter Pan;60
 Peter Pan syndrome;60;Pop psychology term for men who have never grown up
 Peter Peter Pumpkin Eater;60
@@ -105754,6 +105757,7 @@ y tu;30
 Yu;40;Yu Darvish, MLB pitcher / Charles Yu, novelist
 Yuasa;40;Masaaki Yuasa, anime director
 Yuban;40;Coffee brand
+Yucaipa, California;40
 Yucatan;50;Mexican peninsula
 Yucatec;40;Mayan language of the Yucatán
 yucca;40;Shrub (not yuca, the food)
