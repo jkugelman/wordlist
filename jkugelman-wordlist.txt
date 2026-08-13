@@ -68577,6 +68577,8 @@ pairer;30
 pair of dice;50
 pair of skis;50
 Paisan;40;Buddy, in Italian-American slang
+paisano;40
+paisanos;40
 paisley print;50
 Paiute;30;Great Basin people
 Paiutes;30
