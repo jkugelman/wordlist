@@ -1297,7 +1297,7 @@ Addis;40;Addis Ababa, Ethiopia's capital
 Addis Ababa;50
 Addison;40;Addison Rae, influencer / Joseph Addison, essayist
 Addisonian;40;Of Addison's disease
-addl;40
+add'l;40;Additional
 add oil;20
 add on;50
 add onto;40
@@ -1322,7 +1322,8 @@ adduces;40
 adducing;40
 adducts;30
 add up to;40
-Addy;40;Address, slangily [never used]
+addy;30;Address, slangily
+Addy;30
 -ade;40
 Adebayo;60;Bam Adebayo, who scored 83 points in an NBA game (2nd highest all time)
 Adebimpe;40;Tunde Adebimpe, TV on the Radio singer
@@ -19236,6 +19237,7 @@ coir;20;Coconut fiber
 coirs;20;Coconut fibers
 Coit;40;Coit Tower, San Francisco landmark
 coital;50
+coital cephalgia;40;Sexual headache
 cojones;60
 Coke;50;Soda brand
 Coke bottle;50
@@ -23783,7 +23785,10 @@ deo;40;In excelsis deo, and other expressions
 deodar;20;Himalayan cedar
 deodars;20
 Deodato;30;Brazilian pianist Eumir
-Deon;40;Deon Cole, comedian and actor
+Deon;30;Deon Cole, comedian on "Blackish"
+Deon Cole;40;Comedian on "Black-ish"
+Deon Jackson;40;Soul singer
+Deon Richmond;40;"The Cosby Show" actor
 deorbit;50
 deorbited;50
 deorbiting;50
@@ -28497,7 +28502,7 @@ Elie Wiesel;60
 Eliezer;40;Biblical name, Abraham's servant
 Elif;30;Writer Elif Batuman or Elif Shafak
 Elif Batuman;50;American writer and academic (born 1977)
-Elif Shafak;50;Turkish novelist, essayist and women's rights activist (born 1971)
+Elif Shafak;40;Turkish novelist, essayist and women's rights activist (born 1971)
 eligible receiver;60
 eligible receivers;60
 Eli Goree;40;Canadian actor (born 1994)
@@ -41484,6 +41489,7 @@ heart rates;50
 heart-rending;60
 heart shape;40
 heartsick;60
+heart smart food;40;???
 hearts of gold;60
 heart specialist;50
 heart specialists;50
@@ -46881,6 +46887,8 @@ iridescent;50
 iridesces;30
 iridic;30;Relating to the iris
 Irigaray;40;Luce Irigaray, feminist philosopher
+I, Rigoberta Menchú;40;Memoir of Rigoberta Menchú, 1992 Nobel Peace laureate
+I Rigoberta Menchu;0
 Irina;40
 irised;30
 irised in;40
@@ -48492,6 +48500,7 @@ Jeanine Tesori;50
 Jean-Michel Basquiat;50
 Jeanne;50;Jeanne Calment, longest-lived human / French form of Joan
 Jeannette;40;Jeannette Rankin, first woman in Congress
+Jean-Philippe Rameau;40;Baroque composer
 Jean Reno;50
 Jean Renoir;50
 jean shorts;50
@@ -50689,6 +50698,7 @@ King Boo;60
 King Crimson;60
 King David;50
 King Henry III;40
+King Hu;30;Chinese filmmaker (1932-1997)
 king in the castle;60
 King James Version;60
 King Joffrey;50
@@ -51709,7 +51719,7 @@ Labradors;50;Popular retriever dogs
 Labrie;50
 Labrinth;40;British musician and "Euphoria" composer
 lab tech;50
-Labubu;50;Viral Pop Mart plush monster
+Labubu;40;Viral brand of collectible plush toys
 Labubus;40;Trendy collectible plush monsters
 laburnum;30;Tree genus
 LaBute;40;Neil LaBute, writer of "In the Company of Men"
@@ -59204,11 +59214,11 @@ melodic minor;60
 melodic minor scale;60
 melodic minor scales;60
 Melodifestivalen;50;Swedish Eurovision qualifier
-melodrama;50
-melodramas;50
-melodramatic;50
-melodramatically;50
-melodramatics;50
+melodrama;60
+melodramas;60
+melodramatic;60
+melodramatically;60
+melodramatics;60
 melodramatist;50
 melodramatists;50
 melon baller;50
@@ -59297,7 +59307,7 @@ Menachem;40;Israeli PM Menachem Begin
 Menaker;40;Will Menaker, "Chapo Trap House" host
 Menander;40;Greek comic playwright
 Menards;40;Midwest home improvement chain
-Menchu;40;Rigoberta Menchú, Guatemalan Nobel Peace laureate
+Menchu;40;Rigoberta Menchú, 1992 Nobel Peace laureate
 Mencius;40;Confucian philosopher
 Mencken;40;H.L. Mencken, the Sage of Baltimore
 Mendel;50;Gregor Mendel, father of genetics
@@ -61593,12 +61603,14 @@ mountain state;50
 mountain states;50
 Mountain View;60
 Mountbatten;50;Louis Mountbatten, last viceroy of India
+Mount Capricorn;50;Tasmanian peak
 Mount Erebus;60
 Mount Etna;50;Active volcano on the east coast of Sicily, Italy
 Mount Everest;60
 Mount Hood, Oregon;50
 Mountie;50;Canadian federal officer
 Mounties;50;Canadian federal police
+Mount Pegasus;50;Tasmanian peak
 Mount Pinatubo;40;Philippine volcano
 Mount Pleasant;60
 Mount Rainier;60
@@ -62872,6 +62884,8 @@ national holiday;50
 national treasure;60
 nativeameri;0
 NATO;40
+NATO state;50
+NATO states;50
 NATO summit;50
 NATO summits;50
 natron;30;Mineral
@@ -67111,6 +67125,7 @@ onomastic;40
 onomastics;40;Study of proper names
 on on;20
 Onondaga;40;New York tribe / county
+on one;40;Quick football snap
 on one knee;50
 on one's high horse;60
 on one's mind;50
@@ -70084,7 +70099,7 @@ peg;50
 Pegasister;50;Female My Little Pony fan
 Pegasisters;40;Female "My Little Pony" fans
 Pegasus;50;Winged horse of myth
-Pegasuses;40;Winged horses
+Pegasuses;50;Winged horses
 Pegg;40
 pegged out;30
 pegging out;30
@@ -75486,7 +75501,7 @@ Ramblas;30
 Ramblin';40;As in "Ramblin' Man" or Ramblin' Wreck
 Rambo;50;John Rambo, Stallone action hero
 Ram Dass;30;Spiritual teacher, guru of modern yoga, psychologist, and writer
-Rameau;40;Baroque composer Jean-Philippe Rameau
+Rameau;40;Jean-Philippe Rameau, Baroque composer
 ramekin;40;Souffle dish
 ramekins;40
 RaMell;40;RaMell Ross, "Nickel Boys" director
@@ -83490,7 +83505,7 @@ Shadowlands;40;C.S. Lewis biopic, or a WoW expansion
 shadow of a doubt;60
 Shadrach;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 shad roe;40
-Shafak;40;Elif Shafak, Turkish novelist
+Shafak;40;Elif Shafak, Turkish novelist, essayist and women's rights activist (born 1971)
 Shaffer;40;Paul Shaffer, Letterman bandleader / Peter Shaffer, "Amadeus" playwright
 Shaftesbury;50;London theater avenue and Dorset town
 shagging;30
@@ -84805,7 +84820,7 @@ Sikhism;50;Punjabi religion
 Sikhs;50;Followers of a Punjabi religion
 Sikkim;30;Least populous Indian state
 Sikorsky;40;Aircraft manufacturer
-Sikri;40;Fatehpur Sikri, Mughal capital in India
+Sikri;30;Fatehpur Sikri, Mughal capital in India
 s'il;20
 silage;50
 silages;40
@@ -86085,7 +86100,7 @@ smart cookie;60
 smart cookies;60
 smart drink;50
 smart drinks;50
-Smartfood;40;White cheddar popcorn brand
+Smartfood;60;White cheddar popcorn brand
 smart home;60
 smart home device;60
 smart home devices;60
@@ -96934,8 +96949,8 @@ Toulon;30;French city
 Toulouse;50;French city on the Garonne
 touraco;30;African bird
 touracos;30;African birds
-tour bus;50
-tour buses;50
+tour bus;60
+tour buses;60
 Toure;40;Ali Farka Touré, Malian guitarist / Yaya Touré, footballer
 tourer;30
 tourers;30
@@ -99737,6 +99752,7 @@ Urbino, Italy;40;Birthplace of Raphael
 Urbino Italy;0
 Urdu;50;Pakistan's national language
 ure;20
+urea;20
 uremia;20
 uremic;20
 urged on;40
@@ -105456,6 +105472,8 @@ you and me;50
 you and me against the world;60
 you and what army;60
 you and whose army;60
+you are;40
+You Are;40;1983 Lionel Richie song
 you are excused;60
 you are here;60
 you aren't gonna need it;60
