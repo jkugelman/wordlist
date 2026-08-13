@@ -59012,6 +59012,7 @@ Mekong;50;Southeast Asian river
 Mel;50
 Mela;40;Kumbh Mela, Hindu pilgrimage festival
 Melamed;40;Fred Melamed, "A Serious Man" actor
+melanated;40;Containing melanin
 melancholily;30;Weird adverb
 Melanchthon;40;Philipp Melanchthon, Luther's collaborator
 Melanesia;50;Pacific region including Fiji
@@ -80655,6 +80656,7 @@ samurais;60
 samurai sword;60
 samurai swords;60
 Samus;50;Samus Aran, "Metroid" heroine
+Samus Aran;60;"Metroid" protagonist
 Samwise;50
 Samwise Gamgee;60
 San;40
