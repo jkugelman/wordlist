@@ -621,6 +621,7 @@ Abkhaz;40;Language of Abkhazia
 Abkhazia;40;Breakaway Georgian region
 Abkhazian;40;From the Black Sea breakaway region
 Abkhazians;40;People of Abkhazia
+ablare;40
 a blast;40
 ablate;30
 ablated;30
@@ -1378,6 +1379,18 @@ a dilly of a pickle;60
 ad in;40;Tennis score
 Adina;20;Donizetti heroine, not used since 1991
 ad initium;50
+adiós;40
+adiós amiga;40
+adios amiga;0
+adiós amigas;40
+adios amigas;0
+adiós amigo;40
+adios amigo;0
+adiós amigos;40
+adios amigos;0
+A Dios le Pido;40
+adiós muchachos;40
+adiós señor;40
 adipic;20;Acid
 adiposis;40;Disease
 Adirondack;50;New York mountain range, or a lawn chair
@@ -2199,7 +2212,10 @@ ain't that a shame;60
 ain't that some shit;10
 ain't that sweet;60
 ain't that the truth;60
-Ainu;40;Indigenous people of northern Japan
+Ainu;30;Indigenous people of northern Japan
+Ainu cuisine;40
+Ainu food;40
+Ainu language;40
 AI overview;60
 AI overviews;60
 air;50
@@ -3663,8 +3679,10 @@ amf;20
 amfAR;40;(American) Foundation for AIDS Research
 AM FM;40
 AM/FM frequencies;50
-AM FM radio;50
-AM FM radios;50
+AM/FM radio;50
+AM FM radio;0
+AM/FM radios;50
+AM FM radios;0
 AM/FM stereo;50
 AM FM tuner;50
 AM FM tuners;50
@@ -3819,6 +3837,8 @@ ampicillin;30
 AM PM;50
 amputator;40
 amputators;40
+AM radio station;60
+AM radio stations;60
 Amram;40;Megan Amram, comedy writer / David Amram, composer
 amrita;20;Hindu beverage
 amritas;20;Hindu beverages
@@ -4032,7 +4052,7 @@ and God knows what;60
 and groan;20
 and guest;50
 and here's to you, Mrs. Robinson;60
-Andhra;40;Andhra Pradesh, Indian state
+Andhra;30;Andhra Pradesh, Indian state
 Andi;30;Partial "and I", or Disney Channel show "Andi Mack"
 Andie;40;Andie MacDowell, actress
 and if I don't;60
@@ -4487,7 +4507,7 @@ Anozie;40;Nonso Anozie, British actor
 Anqing;40;Chinese city
 Anquetil;40;Jacques Anquetil, five-time Tour de France winner
 ans;40
-Ansara;40;Michael Ansara, actor who played Kang on "Star Trek"
+Ansara;30;Michael Ansara, Cochise player in 1950s TV
 Ansari;40;Aziz Ansari, comedian / the Ansari X Prize
 Anschluss;50;Nazi annexation of Austria
 Anscombe;40;G. E. M. Anscombe, philosopher / Frank Anscombe, of Anscombe's quartet
@@ -5514,7 +5534,8 @@ Ari;40
 aria;50;Solo flight
 Ariadne;50;Cretan princess of the labyrinth thread
 Arial;50
-Arian;40;Follower of Arianism
+-arian;30
+Arian;30;Follower of Arianism
 Ariana;50;Ariana Grande, pop star
 Ariana Grande;60
 Arianator;60
@@ -6715,6 +6736,7 @@ Ativans;40;Anti-anxiety pills
 Atkins;50
 Atkinson;50;Rowan Atkinson, Mr. Bean player
 ATL;40
+ATLA;20;Avatar: The Last Airbender
 Atlanta;50;Georgia capital, and the FX series
 Atlanta Falcon;50
 Atlanta Falcons;50
@@ -7309,7 +7331,7 @@ avulse;20
 avulses;20
 aw;50;Used to express disappointment or dismay
 A&W;40;Root beer brand
-Awaara;40;Classic Raj Kapoor Bollywood film (1951)
+Awaara;30;Classic Raj Kapoor Bollywood film (1951)
 awake at dawn;50
 Awami;40;Awami League, Bangladeshi political party
 awardee;30
@@ -7319,6 +7341,7 @@ aware of;50
 awaste;20
 a ways away;60
 awe;50
+aweary;30
 aweather;30;Windward
 a wee bit;50
 aweless;30
@@ -15735,6 +15758,8 @@ carriage returns;60
 Carrie;50;Common first name: Stephen King's telekinetic teen
 Carrie Catt;50;Suffragist Carrie Catt
 Carrie Chapman Catt;50;Suffragist Carrie Catt
+carried in;40
+carries in;40
 Carrington;40;Leonora Carrington, surrealist painter
 carrions;30
 Carroll;50;Lewis Carroll, "Alice" author / Diahann Carroll, singer and actress
@@ -15746,6 +15771,8 @@ carrot top;60
 carrot tops;60
 carroty;40
 Carruthers;40;Stock British surname
+carry in;40
+carrying in;40
 carry-on item;50
 carry-on items;50
 Carry On Wayward Son;60
@@ -19237,13 +19264,16 @@ cold call;60
 cold called;60
 cold calling;60
 cold calls;60
-cold case;50
-cold cases;50
+cold case;60
+cold cases;60
 cold-cock;60
 cold-cocked;60
 cold-cocking;60
 cold-cocks;60
 Cold, Cold Heart;50;1951 song by Hank Williams
+cold color;60
+cold colors;60
+cold comfort;60
 cold cut platter;50
 cold cut platters;50
 cold front;50
@@ -33504,6 +33534,8 @@ FM dial;50
 FM dials;50
 F minor;50
 FML;10
+FM radio station;60
+FM radio stations;60
 fMRI;40
 FMs;20
 FM station;50
@@ -38563,6 +38595,8 @@ Gracchus;40;Tiberius and Gaius Gracchus, Roman reformers
 Grace Hopper;60;Pioneer of computer programming
 Grace Kelly;60
 Graceland;50;Elvis's Memphis mansion
+gracias a Diós;40
+gracias a Dios;0
 Gracie;40;Gracie Allen, comedian / Gracie Abrams, singer
 Gracies;40;Brazilian jiu-jitsu family
 gracile;30;Slender
@@ -40335,7 +40369,8 @@ Hampshire;50;English county, or half of New Hampshire
 Hampster;40;"Hampster Dance", early web meme
 Hampton;40;Lionel Hampton, vibraphonist / Fred Hampton, Black Panther leader
 Hamptons;50;Long Island resort area
-ham radio;50
+ham radio;60
+ham radios;60
 hamster pup;50
 hamstring curl;60
 hamstring curls;60
@@ -42969,7 +43004,8 @@ Holy Writ;50
 Holzer;40;Jenny Holzer, conceptual artist
 Holzhauer;40;James Holzhauer, "Jeopardy!" record breaker
 hom;20
-home alone;60
+Home Alone;60
+home alone;50
 home automation;60
 home automation system;60
 home automation systems;60
@@ -44785,6 +44821,7 @@ Ieoh;30;Ieoh Ming Pei, architect better known as I.M. Pei
 IEP;20;Individualized Education Program
 IEPs;20;Individualized Education Programs
 -ier;30;Occupational suffix [common]
+ieri;30;Yesterday, in Italian
 -iers;30
 -ies;30;Plural suffix [rare]
 Ieyasu;40;Tokugawa Ieyasu, first Tokugawa shogun
@@ -46227,6 +46264,7 @@ Innes;30;Last name of various
 Inness;20;Painter George
 Innis;20;Black activist Roy
 Innisfree;40;"The Lake Isle of Innisfree," Yeats poem
+in no;20
 in no case;50
 in no time;60
 in no time flat;60
@@ -52042,6 +52080,8 @@ landlockedwater;0
 land management;50
 Lando;50;Lando Calrissian of "Star Wars" / Lando Norris, F1 driver
 Lando Calrissian;60
+Land of Ooo;60;Main setting of "Adventure Time"
+Land of Oz;60
 land on;40
 Landowska;40;Wanda Landowska, harpsichord reviver
 Land Rover;60
@@ -52092,9 +52132,10 @@ language learner;60
 language learners;60
 langue;20
 Languedoc;50;French wine region
-Lani;40;Lani Guinier, legal scholar
+Lani;30;Lani Guinier, legal scholar
 laniard;20
 laniards;20
+Lani Guinier;40;Legal scholar and civil rights theorist (1950–2022)
 La Nina;40
 Lanka;40;Sri Lanka's second half
 Lankan;40
@@ -57207,6 +57248,7 @@ man alive;60
 Manama;40;Capital of Bahrain
 mañana;40;Tomorrow, in Spanish
 mañanas;30
+mañana señor;30
 man and wife;50
 Mananitas;40;"Las Mañanitas," Mexican birthday song
 Manassa;20
@@ -59671,6 +59713,7 @@ miceandmen;0
 Mich.;40;Michigan
 Michael;50;Very common first name
 Michaela;40;Various: Michaela Coel, Dr. Quinn's Michaela
+Michael Ansara;40;Cochise player in 1950s TV
 Michael Bluth;60;"Arrested Development" character
 Michael Caine;60
 Michael Johnston;50;Actor Michael Johnston from "Obsession" (2026)
@@ -66119,6 +66162,7 @@ oh my stars;60
 oh neat;60
 oh no;50
 ohnoewheismyex;0
+oh no no;50
 oh no not again;60
 oh no reason;60
 oh no you didn't;60
@@ -74363,6 +74407,8 @@ pursuit of justice;60
 Puscifer;40;Maynard James Keenan's band
 push;50
 Pusha;40;Pusha T, rapper
+push bike;50
+push bikes;50
 push day;50
 push days;50
 pushed it to the limit;60
@@ -75082,6 +75128,7 @@ radios in;40
 radio speak;50
 radio spot;50
 radio spots;50
+radio static;50
 Radiotopia;40;Podcast network
 radio tower;60
 radio towers;60
@@ -82783,6 +82830,8 @@ señor;40
 señora;40
 señoras;40
 señores;40
+señorita;40
+señoritas;40
 señors;40
 sens;40
 Sen-Sen;30;Breath freshener
@@ -82918,6 +82967,7 @@ Sergey;40;Sergey Brin, Google cofounder
 Sergio;50;Common Spanish and Italian first name
 Sergios;30;Plural name
 Sergius;40;Name of several popes and saints
+Se-ri;30
 Serial Mom;60
 serial monogamist;60
 serial monogamists;60
@@ -83899,6 +83949,8 @@ shipping to;40
 ship's prow;50
 ships to;40
 ship to;40
+ship-to-shore radio;50
+ship-to-shore radios;50
 Shiraz;40;Iranian city, or red wine grape
 Shiraz, Iran;50
 Shiraz Iran;0
@@ -84274,6 +84326,8 @@ showered with gifts;60
 showering with gifts;60
 shower orange;60
 shower oranges;60
+shower radio;60
+shower radios;60
 showers;50
 shower scene;60
 shower scenes;60
@@ -85047,9 +85101,12 @@ sir yes sir;50
 sis;50
 sisal;30;Rope fiber
 sisals;30;Rope fibers
+sí señor;40
+sí señora;40
+sí señorita;40
 si se puede;60
 Sisi;40
-si si señor;40
+sí sí señor;40
 sisisi;40
 Siskel;50;Gene Siskel, of Siskel and Ebert
 siskin;20;Type of finch
@@ -85749,13 +85806,13 @@ slide;50
 slide deck;50
 slide decks;50
 slide in;40
-slide into;40
+slide into;50
 Slidell;30;Louisiana city, not remarkable though P. Berry used it once
 slide on;40
 slide out;40
 slide past;50
 slides in;40
-slides into;40
+slides into;50
 slides on;40
 slides out;40
 slide tackle;50
@@ -85764,10 +85821,10 @@ slide tackles;50
 slide tackling;50
 slid in;40
 sliding in;40
-sliding into;40
+sliding into;50
 sliding on;40
 sliding out;40
-slid into;40
+slid into;50
 slid on;40
 slid out;40
 Sligo;40;County in northwest Ireland
@@ -88710,6 +88767,8 @@ starting quarterback;50
 starting quarterbacks;50
 starting to;40
 start in on;40
+start it;20
+start it up;50
 startler;40
 startlers;40
 Start Me Up;50;Rolling Stones song
@@ -91991,7 +92050,7 @@ tam-tam;40;Large gong
 tam-tams;40
 TAMU;30;Texas A&M University
 tan;50
-Tana;40;Lake Tana, source of the Blue Nile / Tana French, crime novelist
+Tana;30;Lake Tana, source of the Blue Nile / Tana French, crime novelist
 tanacetum douglasii;20;Dune tansy flower
 Tanach;30;Hebrew Bible
 tanager;40
@@ -96447,6 +96506,8 @@ toolbar;50
 toolbars;50
 tool belt;50
 toolbox;50
+toolcase;50
+toolcases;50
 Toole;40;John Kennedy Toole, author of "A Confederacy of Dunces"
 tooler;30
 toolers;30
@@ -99470,6 +99531,7 @@ up in flames;60
 up in the top and bottom rows;0
 Upjohn;30;Defunct pharmaceutical company
 uploaded questions;0
+upma;30;Semolina or rice dish from India
 UPN;20
 upness;30
 Upolu;40;Main island of Samoa
@@ -100661,6 +100723,7 @@ videographer;60
 videographers;60
 videographies;60
 videography;60
+Video Killed the Radio Star;60
 video rental;50
 video rentals;50
 video rental shop;50
