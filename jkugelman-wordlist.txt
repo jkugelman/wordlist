@@ -1730,7 +1730,7 @@ AFK;40
 AFL;40
 Aflac;40
 Aflac duck;50
-A-flat;50
+A-flat;40
 A-flat scale;30
 AFL-CIO;40
 a fly in the ointment;60
@@ -6092,7 +6092,7 @@ Ashantis;40
 A shape;30
 A-shaped;30
 A shapes;30
-A sharp;50
+A sharp;40
 A sharp major;40
 A sharp minor;40
 A-sharp scale;30
@@ -10343,7 +10343,7 @@ BFFLs;20
 BFFs;40
 BFG;40
 BFGoodrich;40;Tire brand
-B-flat;50
+B-flat;40
 B-flat scale;30
 BFs;40;Best friends / Boyfriends
 B. F. Skinner;60;Psychologist and social philosopher (1904–1990)
@@ -13511,7 +13511,7 @@ BSed;40
 bsee;20
 B-series;40
 BSes;40
-B sharp;50
+B sharp;40
 B sharps;50
 B-sharp scale;30
 BSing;40
@@ -16681,7 +16681,7 @@ Cezannesque;40;Like Cézanne's painting
 CFC;40
 CFCs;40
 CFL;20
-C-flat;50
+C-flat;40
 C-flat scale;30
 CFO;40
 CFOs;40
@@ -21598,7 +21598,7 @@ C's get degrees;60;"C's get degrees"
 C-shape;30
 C-shaped;30
 C-shapes;30
-C sharp;50
+C sharp;40
 C sharps;50
 C-sharp scale;30
 CSI;50
@@ -24087,10 +24087,11 @@ dextrorotary;40
 dextrorotatory;40
 Dexys;40;Dexys Midnight Runners, "Come On Eileen" band
 Dey;40;Susan of "L.A. Law"
-Dez;40;Dez Bryant, NFL receiver
+Dez;30;Dez Bryant, NFL receiver
+Dez Bryant;40;NFL receiver
 dezimotsuc;0
 dfc;20
-D-flat;50
+D-flat;40
 D-flat scale;30
 DFW;40;Dallas-Fort Worth
 DGA;20;Directors Guild of America
@@ -26796,7 +26797,7 @@ DSA;20
 dsc;20
 D scale;30
 D scales;30
-D sharp;50
+D sharp;40
 D-sharp scale;30
 DSL;40
 DSL modem;40
@@ -28009,7 +28010,7 @@ efghi;20
 e-filer;50
 e-filers;50
 Efira;40;Virginie Efira, French-Belgian actress
-E-flat;50
+E-flat;40
 E-flat scale;30
 Efrem;40;Efrem Zimbalist Sr. (violinist) or Jr. (TV actor)
 Efron;50;Zac Efron, actor
@@ -29827,7 +29828,7 @@ esd;20
 EsDeeKid;40;???
 Esdras;20
 ese;40
-E sharp;50
+E sharp;40
 E-sharp scale;30
 Eshkol;30;???
 eShop;30;Where to buy Nintendo Switch games
@@ -32236,7 +32237,7 @@ Fezzik;50;"The Princess Bride" giant
 Fezziwig;50;Jolly employer in "A Christmas Carol"
 ff;40
 fff;30
-F-flat;50
+F-flat;40
 F-flat scale;30
 Fforde;40;Jasper Fforde, "Thursday Next" novelist
 FFS;30
@@ -34726,7 +34727,7 @@ FSH;20
 F-shape;30
 F-shaped;30
 F-shapes;30
-F sharp;50
+F sharp;40
 F-sharp scale;30
 F star;20
 F stars;20
@@ -36662,7 +36663,7 @@ Gewurztraminer;50;Aromatic white wine grape
 Gewurztraminers;50;Aromatic white wines
 Geysir;30;Iceland geyser
 GF;40
-G-flat;50
+G-flat;40
 G-flat scale;30
 g-force;60
 g-forces;60
@@ -39389,7 +39390,7 @@ G Seven;30;Ugly numeral
 G shape;30
 G-shaped;30
 G shapes;30
-G sharp;50
+G sharp;40
 G-sharp scale;30
 G Six;30;Ugly numeral
 GSN;40
@@ -61132,11 +61133,17 @@ mopers;40
 mop handle;50
 mop handles;50
 mopped the floor with;60
+mopped up;50
 mopping the floor with;60
+mopping up;50
 mops the floor with;60
+mops up;50
 Mopsy;40;Beatrix Potter rabbit
 mop the floor with;60
 mop-top;60
+mop up;50
+mop-up;50
+mop-ups;50
 mor;20
 Moraga;40;Cherríe Moraga, Chicana writer / California town
 moral centre;20
@@ -70155,7 +70162,7 @@ Pepsodent;50;Toothpaste brand
 pep talk;60
 pep talks;60
 Pepto;40
-Pepys;50;Samuel Pepys, London diarist
+Pepys;40;Samuel Pepys, London diarist
 Pequod;50;Ahab's ship in "Moby-Dick"
 Pequot;30;Native Americans
 Pequots;30
