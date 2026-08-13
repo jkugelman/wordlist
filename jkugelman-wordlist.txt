@@ -97539,9 +97539,11 @@ tried one's best at;40
 tried out for;40
 tried out on;40
 tried to;30
+triennia;40;Periods of three years
 triennial;40
 triennially;40
 triennials;40
+triennium;40;Period of three years
 Trier;30;Judge, e.g.
 triers;30
 tries for;40
