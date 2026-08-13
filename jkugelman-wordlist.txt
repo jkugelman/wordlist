@@ -14178,6 +14178,7 @@ butter croissant;60
 butter croissants;60
 buttercup;50
 buttercups;50
+buttercup yellow;50
 Butterfield;40;Asa Butterfield, "Sex Education" actor
 Butterfinger;60
 butterfingers;60
