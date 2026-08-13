@@ -49162,7 +49162,9 @@ Jorn;0
 Jørn Utzon;50;Sydney Opera House architect
 Jorn Utzon;0
 jorts;60
-Jos;20
+Jos;40;Jos. A. Bank
+Jos. A. Bank;50;Men's clothing retailer
+Jos A Bank;0
 Jo's Boys;40;Final book in the "Little Women" series
 Jose;50;Common Spanish given name, as in José Altuve
 Jose Altuve;40;Astros second baseman
