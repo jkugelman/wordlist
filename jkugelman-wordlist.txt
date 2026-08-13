@@ -26575,6 +26575,8 @@ drool on;40
 drool rash;50;Baby's affliction
 drool rashes;50
 drools on;40
+drop a;20
+drop A;20
 drop a beat;50
 drop a bombshell;60
 drop acid;60
@@ -26583,10 +26585,12 @@ drop a comment down below;60
 drop a hint;50
 drop a truth bomb;60
 drop A tuning;40
+drop B;20
 drop bars;60;Rap well
 drop behind;50
 drop B tuning;40
 drop by drop;50
+drop C;20
 drop cap;60
 drop caps;60
 drop C tuning;40
@@ -26595,8 +26599,11 @@ drop-dead date;60
 drop-dead dates;60
 drop dead gorgeous;60
 drop D tuning;60
+drop E;20
 drop E tuning;40
+drop F;20
 drop F tuning;40
+drop G;20
 drop G tuning;40
 drop it;60
 drop-leaf table;50
