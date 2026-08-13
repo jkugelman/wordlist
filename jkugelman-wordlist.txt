@@ -37635,6 +37635,7 @@ goes out with;50
 goes over the line;60
 goes pfft;30
 goes pit-a-pat;60
+goes poof;60
 goes pro;50
 goes public;50
 goes rogue;60
@@ -37784,6 +37785,7 @@ going out on a limb;60
 going out with;50
 going over the line;60
 going pfft;30
+going poof;60
 going pro;50
 going public;50
 going rogue;60
@@ -38026,6 +38028,7 @@ gone out on a limb;60
 gone over;40
 gone over the line;60
 gone past;40
+gone poof;60
 gone pro;40
 Goneril;40;"King Lear" daughter
 gonerilandregan;0
@@ -38263,6 +38266,7 @@ go over the line;60
 GOP;40
 go pfft;30
 Gopnik;40;Adam Gopnik, New Yorker writer
+go poof;60
 GoPros;40;Action cameras
 go public;50
 gor;20
@@ -102583,6 +102587,7 @@ went out on a limb;60
 went out with;50
 went over the line;60
 went pfft;30
+went poof;60
 went pro;50
 went public;50
 went rogue;60
