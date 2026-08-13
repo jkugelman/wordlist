@@ -6191,6 +6191,7 @@ Asia's;30;As in "Asia's Got Talent"
 Asiatic;40;Of Asia
 Asics;40;Athletic shoe brand
 as I do;40
+as if I didn't know;60
 as if on cue;60
 a sight for sore eyes;60
 a sight to behold;60
@@ -7092,6 +7093,8 @@ Austerlitz;50;Napoleon's 1805 victory
 Austin;50;Texas capital
 Austinite;40;Texas capital resident
 Austinites;40;Texas capital residents
+Austin, Texas;60
+Austin Texas;0
 Austin, TX;30
 austral;40;Relating to the southern hemisphere
 Australasia;50;Region including Australia and New Zealand
@@ -9380,6 +9383,7 @@ Beauharnais;50;Joséphine de Beauharnais, Napoleon's empress
 Beaujolais;50;French wine region and its red
 Beaumarchais;50;Pierre Beaumarchais, "The Marriage of Figaro" playwright
 Beaumont;40;Francis Beaumont, Jacobean playwright / Texas city
+Beaumont, Texas;50
 Beauregard;40;P. G. T. Beauregard, Confederate general
 Beauregarde;50;Violet Beauregarde, gum-chewing Wonka kid
 Beautyblender;50;Makeup sponge brand
@@ -13491,6 +13495,7 @@ Bryher;30;Bryher, modernist writer and patron / tiny Scilly island
 Brylcreem;50;Hair cream, a little dab'll do ya
 Bryn;40;Bryn Mawr College
 Brynner;50;Yul Brynner, "The King and I" star
+Bryon, Texas;40
 Bryony;40;Climbing vine, or a British given name
 Bryophyta;30;Moss division
 Bryozoa;30;Moss animal phylum
@@ -15287,6 +15292,7 @@ capital O;40
 capital of Afghanistan;20
 capital of Arkansas;20
 capital of Oregon;20
+capital of Texas;20
 capitalofturkey;0
 capital P;40
 capital P's;40
@@ -22285,7 +22291,8 @@ Dallapiccola;40;Luigi Dallapiccola, Italian composer
 Dallas;50;Texas city and 1980s soap opera
 Dallasite;40;Dallas resident
 Dallasites;40;Texas city residents
-Dallas Texas;50
+Dallas, Texas;50
+Dallas Texas;0
 Dallas, TX;30
 Dalles;40;The Dalles, Oregon city on the Columbia
 Dallesandro;40;Joe Dallesandro, Warhol film star
@@ -23273,6 +23280,7 @@ deep history;60;Study of the distant past of humanity through arcaheology, lingu
 deep hole;50
 deep holes;50
 Deepika;40;Deepika Padukone, Bollywood star
+Deep in the Heart of Texas;50;Popular song about Texas
 deep into;50
 deep net;50
 Deep One;50;From Lovecraft
@@ -24505,6 +24513,7 @@ Diller;40;Comedian Phyllis Diller, or killer diller
 Dillinger;50;John Dillinger, Depression-era bank robber
 Dillingers;20;Plural name
 Dillon;40;Matt Dillon, actor / Marshal Dillon of "Gunsmoke"
+Dillon, Texas;40;Ghost town
 dill pickle spear;60
 dill pickle spears;60
 dill spear;50
@@ -25711,10 +25720,19 @@ don't let me stop you;60
 don't let the bedbugs bite;60
 don't lift a finger;60
 Don't Look Back in Anger;60
+don't make a scene;60
 don't make it weird;60
+don't make me come in there;60
+don't make me come up there;60
+don't make me laugh;60
+don't make me say it;60
+don't make me tap the sign;60
 don't make this weird;60
+don't mention it;60
 Don't Mess with Texas;60
 don't mind if I do;60
+don't mind me;60
+don't move a muscle;60
 don't overdo it;60
 don't panic;60
 Don't Pass;50;???
@@ -25722,6 +25740,7 @@ Don't Play That Song (You Lied);50;1962 single by Ben E. King
 don't poke the bear;60
 don't push it;60
 don't round your back;60
+don't say I didn't warn you;60
 don't shit in your own backyard;10
 don't shit where you eat;10
 don't sit right with;40
@@ -28564,6 +28583,8 @@ Elordi;40;Jacob Elordi, Australian actor (born 1997)
 elosretuo;0
 elote;40;Mexican street corn
 ELP;40
+El Paso, Texas;50
+El Paso Texas;0
 El Paso, TX;30
 Elphaba;60
 Elrond;50;Lord of Rivendell
@@ -33971,6 +33992,8 @@ Fortune magazine;50
 fortune teller;60
 fortune tellers;60
 fortune-telling;60
+Fort Worth, Texas;50
+Fort Worth Texas;0
 Fort Worth, TX;30
 forty-eight;40
 forty-five;40
@@ -38486,6 +38509,7 @@ government bonds;50
 government cheese;50
 Governor Moonbeam;50
 governor of Oregon;20
+governor of Texas;20
 gov't;40
 gow;20
 Gowanus;40;Polluted Brooklyn canal
@@ -43238,6 +43262,7 @@ hope to;40
 hope to God;60
 Hopewell;40;Ancient Ohio Valley mound builders
 hopey;40;???
+hope you don't mind;60
 hope you enjoy;60
 hope you're happy;60
 Hopi;50;Southwestern tribe
@@ -44602,8 +44627,19 @@ I did, did I?;50
 I did good;50
 I did not;40;Playground retort
 I didn't ask;60
+I didn't ask for your life story;60
 I didn't do it;60
+I didn't hear you come in;60
+I didn't lie;50
+I didn't mean it like that;60
+I didn't mean that;60
+I didn't mean to pry;60
+I didn't say Simon says;60
 I didn't say that;60
+I didn't see that coming;60
+I didn't see that one coming;60
+I didn't see you there;60
+I didn't sign up for this;60
 I did so;40;Playground retort
 I did what I had to do;60
 I die;20;Romeo's last words
@@ -44708,8 +44744,11 @@ I don't know, I just work here;60
 I don't like to brag;60
 I don't like to brag but;60
 I don't like your tone;60
-I don't mind;50
+I don't make the rules;60
+I don't mind;60
 I don't mind a bit;60
+I don't mind if I do;40
+I don't mind telling you;60
 I don't remember;60
 I don't remember asking you;60
 I don't see it;60
@@ -44770,6 +44809,7 @@ ifes;20
 iff;30;If and only if
 ifi;20
 If I Did It;60
+If I Didn't Have You;50;Song by various artists
 if I do say so myself;60
 If I Fell;50
 I figured;60
@@ -44815,6 +44855,9 @@ if worst comes to worst;60
 -ify;20
 if you can't stand the heat;60
 if you can't stand the heat get out of the kitchen;60
+if you don't mind me saying;60
+if you don't mind my asking;60
+if you don't mind my saying so;60
 if you know you know;60
 if you please;60
 If You See Something, Say Something;60;Public awareness campaign
@@ -54139,6 +54182,7 @@ liminal space;60
 liminal spaces;60
 limited warranties;50
 limited warranty;50
+limit Texas hold 'em;60
 limn;20
 limned;20
 limner;20
@@ -64280,6 +64324,7 @@ Nole;40;Novak Djokovic's nickname
 no leads;20
 Noles;40;Florida State Seminoles, familiarly
 no likey;10
+no limit Texas hold 'em;60
 Nolita;30
 nolition;40;Unwillingness, opposite of volition
 Nollywood;50;Nigerian film industry
@@ -93252,6 +93297,13 @@ Texas BBQ;50
 Texas dip;50
 Texas dips;50
 Texas drawl;50
+Texas Farm Bureau;50
+Texas fever;50;Tick-borne disease of cattle
+Texas flag;50
+Texas Flood;60
+Texas hold 'em;60
+Texas hold' em tournament;60
+Texas hold' em tournaments;60
 Texas tailgater;60
 Texas Tailgaters;60;Banana Ball team
 Texas two-step;50
@@ -94794,6 +94846,7 @@ they're not buying it;60
 they're not here right now;60
 they're off;50
 theysee;0
+they sure don't make 'em like they used to;50
 they've got it made;60
 they will eat her alive;60
 they will eat him alive;60
@@ -105329,6 +105382,7 @@ you dig?;60
 you don't have to tell me twice;60
 you don't know how it feels;60
 You Don't Know Jack;60
+you don't mean it;60
 you don't mean that;60
 you don't say;60
 you do that;60
