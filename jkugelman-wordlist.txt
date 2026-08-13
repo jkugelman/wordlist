@@ -62823,8 +62823,8 @@ Nazarenes;40;People of Nazareth
 Nazareth;50;Jesus's hometown
 Nazareth, Israel;50
 nazars;30;Eye-shaped amulets supposed to protect against the evil eye in certain cultures
-Nazca;30;Pre-Incan culture
-Nazca lines;50;Peruvian desert phenomenon
+Nazca;40;Pre-Incan culture, Nazca lines
+Nazca lines;60;Peruvian desert phenomenon
 Nazgul;50;"Lord of the Rings" ringwraith
 Nazi;10
 Nazi era;10
@@ -94177,7 +94177,7 @@ the NASDAQ;40
 the Nats;40
 The Natural State;30;Arkansas
 the Navy;30
-the Nazca Lines;30
+the Nazca Lines;40
 the NBA;20
 the NBA finals;50
 then don't;60
