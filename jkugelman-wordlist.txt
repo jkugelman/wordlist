@@ -10082,6 +10082,8 @@ Berlusconi;50
 Berman;40;Chris Berman, long-time "SportsCenter" anchor
 Bermondsey;40;London district
 Bermuda;50;Atlantic island, or the triangle
+Bermuda buttercup;50
+Bermuda buttercups;50
 Bermudas;40;Knee-length shorts
 Bermudian;40;Of a British Atlantic territory
 Bermudians;40;Residents of a British Atlantic territory
@@ -13742,6 +13744,7 @@ building blocks;50
 building consensus;60
 building on;40
 building support;50
+Build Me Up Buttercup;60
 build on;40
 build or buy;60
 build or buy decision;60
@@ -16478,6 +16481,8 @@ celebrity sex tapes;60
 celebrity status;60
 Celentano;40;Adriano Celentano, Italian singer and actor
 Celeron;20;Intel chip discontinued in 2023
+celery-leaved buttercup;50
+celery-leaved buttercups;50
 celery seed;50
 Celesteville;50;Babar's capital city
 Celestia;40;Princess Celestia, "My Little Pony" ruler
@@ -17704,6 +17709,7 @@ chin music;60
 chinook;50
 chinquapin;40;Type of oak tree
 Chinua;40;Chinua Achebe
+chin up buttercup;60
 Chinvat;40;Zoroastrian bridge to the afterlife
 Chioggia;40;Italian town / striped beet variety
 Chios;30;???
@@ -21130,6 +21136,8 @@ creels;30;Wicker baskets or cages
 Creem;40;Classic rock magazine
 creeper;60;Minecraft baddie
 creepers;60
+creeping buttercup;50
+creeping buttercups;50
 creeping into;40
 creep into;40
 creeps into;40
@@ -36840,6 +36848,8 @@ Gianni;40;Gianni Versace, fashion designer
 Giannis;40;Giannis Antetokounmpo of the NBA, the "Greek Freak"
 Giannis Antetokounmpo;50;NBA player, the "Greek Freak"
 Giano;20
+giant buttercup;50
+giant buttercups;50
 giant cacti;50
 giant cactus;50
 giant cactuses;50
@@ -54610,6 +54620,7 @@ little black dresses;60
 little brat;60
 little brats;60
 Little Brown Jug;60;College football trophy
+Little Buttercup;50;Character in Gilbert & Sullivan's "H.M.S. Pinafore"
 little by little;60
 Little Dorrit;50;Dickens novel
 Littlefeather;50;Sacheen Littlefeather, who declined Brando's Oscar
@@ -58832,6 +58843,8 @@ MDXL;20
 me;50
 mea;40
 Meade;40;Gettysburg general
+meadow buttercup;50
+meadow buttercups;50
 me again;60
 Meagan;40;Meagan Good, actress
 Meaghan;40;Variant of the given name Megan
@@ -80429,6 +80442,8 @@ sagamore;40;Sagamore Hill, home of Theodore Roosevelt
 Sagan;50;Carl Sagan, astronomer / Françoise Sagan, novelist
 Sagarmatha;50;Everest, in Nepali
 sage advice;50
+sagebrush buttercup;50;Species of flowering plant
+sagebrush buttercups;50;Species of flowering plant
 sage hen;40
 sage hens;40
 sageness;40
@@ -101952,6 +101967,8 @@ water buffalo calves;50
 water bug;50
 water bugs;50
 Waterbury;40;Connecticut city
+water buttercup;50
+water buttercups;50
 water coaster;60
 water coasters;60
 water content;50
