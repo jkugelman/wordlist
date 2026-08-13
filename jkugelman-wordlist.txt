@@ -3415,6 +3415,7 @@ Alysa;40;Figure skating star Alysa Liu, 2026 Olympic gold medalist
 Alysa Liu;60;Figure skating star Alysa Liu, 2026 Olympic gold medalist
 Alyson;40;Alyson Hannigan, "How I Met Your Mother" actress
 Alyssa;50;Alyssa Milano, actress / common given name
+Alyssa Naeher;40;US soccer goalkeeper
 Alyssas;20
 alyssum;30;Flower genus
 alyssums;30;Flowers
