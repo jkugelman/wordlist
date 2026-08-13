@@ -2370,6 +2370,7 @@ air supply;50
 AirTag;60
 AirTags;60
 Airto;40;Airto Moreira, Brazilian jazz percussionist
+air-to-fuel ratio;50
 AirTrain;40;JFK airport rail link
 AirTran;40;Defunct airline that merged with Southwest
 air warden;50
@@ -2565,6 +2566,7 @@ Alberti;40;Alberti bass
 Albertina;40;Albertina Sisulu, South African anti-apartheid leader
 Albertine;40;Proust's beloved in "In Search of Lost Time"
 Alberto;40;Alberto Giacometti, sculptor
+Alberto Fujimori;40;President of Peru from 1990 to 2000
 Albertosaurus;40;Tyrannosaur genus
 Albertson;40;Jack Albertson, Grandpa Joe in "Willy Wonka"
 Albertus;40;Albertus Magnus, medieval philosopher
@@ -34600,6 +34602,7 @@ Friedlander;40;Judah Friedlander, "30 Rock" actor / Lee Friedlander, photographe
 Friedman;50;Milton Friedman, economist / Thomas Friedman, columnist
 fried mozzarella;50
 Friedrich;50;Caspar David Friedrich, Romantic painter, or the German name
+fried tofu;60
 fried up;40
 friendaversaries;60
 friendaversary;60
@@ -34938,6 +34941,7 @@ fugue states;60
 Fuji;50;Japan's tallest mountain, or the apple
 Fujian;40;Chinese coastal province
 Fujifilm;50;Japanese camera and film brand
+Fujimori;40;Keiko or Alberto Fujimori, president of Peru
 Fujis;40;Apple variety, plural
 Fujisan;40;Mount Fuji, in Japanese
 Fujita;40;Ted Fujita, namesake of the tornado scale
@@ -47495,6 +47499,7 @@ Ithacan;40;Odysseus, e.g.
 Ithacans;40;Residents of Ithaca
 it had to be done;60;"Sorry but that was necessary"
 it happens;60
+it happens to the best of us;60
 it has to be;50
 I thee wed;50
 I the Jury;50
@@ -50170,6 +50175,7 @@ Ke Huy Quan;60
 Kei;30;Kei Nishikori, Japanese tennis player (born 1989)
 Keibler;40;Stacy Keibler, wrestler and dancer
 Keiko;40;Japanese given name / the "Free Willy" orca
+Keiko Fujimori;40;President of Peru since 2026
 Keillor;40;Garrison Keillor
 Kei Nishikori;50;Japanese tennis player (born 1989)
 Keir;40;British PM Keir Starmer
@@ -53062,6 +53068,7 @@ leaves a comment;60
 leaves a mark;60
 leaves in;40
 Leaves of Grass;60
+leave some for the rest of us;60
 leaves on;40
 leaves on read;60
 leaves right away;30;Green paint
@@ -78964,6 +78971,7 @@ rode by;40
 rode in;40
 rode into;40
 Rodentia;40;Rodent order
+rodent of unusual size;60
 rodeo athlete;50
 rodeo athletes;50
 rodeo bull;50
@@ -81311,6 +81319,7 @@ save on;40
 saves face;60
 saves for;40
 saves gas;50
+save some for the rest of us;60
 saves on;40
 saves to;40
 save the whales;60
@@ -89494,6 +89503,7 @@ stinking at;40
 stinko;40
 stinks at;40
 Stinky Smurf;60;a.k.a. Sloppy Smurf
+stinky tofu;60
 stinted;30
 stinter;30
 stinters;30
@@ -96240,14 +96250,25 @@ toe-tappers;60
 Toews;40;Jonathan Toews, Blackhawks captain / Miriam Toews, novelist
 Toffifay;40;Caramel-hazelnut candy brand
 Toffler;40;Alvin Toffler, author of "Future Shock"
-tofu burger;50
-tofu burgers;50
-tofu dog;50
-tofu dogs;50
+tofu block;60
+tofu blocks;60
+tofu burger;60
+tofu burgers;60
+tofu dog;60
+tofu dogs;60
+tofu dreg project;60;Chinese phrase for a poorly constructed building
+tofu dreg projects;60;Chinese phrase for poorly constructed buildings
+tofu lo mein;50
 tofu pudding;50
 tofu puffs;50
-tofu salad;50
-Tofutti;40;Nondairy frozen dessert brand
+tofurkey;60
+tofus;50
+tofu salad;60
+tofu salads;60
+tofu scramble;60
+tofu scrambles;60
+tofu steak;50
+Tofutti;60;Nondairy frozen dessert brand
 tog;30;Dress (up)
 togae;30
 togaed;40
