@@ -4406,6 +4406,7 @@ Annabel;40;Poe's "Annabel Lee"
 Annabella;40;Annabella Sciorra, actress
 Annabelle;50;Haunted doll of horror films, or a girl's name
 Annabeth;40;Annabeth Chase, Percy Jackson's demigod friend
+Anna Camp;40;Actress in "Pitch Perfect" and "True Blood"
 Annaleigh;40;Annaleigh Ashford, Tony-winning actress
 Annalise;40
 annalist;40;Historian who writes annals
@@ -8267,7 +8268,7 @@ Banda Aceh;40;City in Sumatra, Indonesia
 Bandai;40;Japanese toy company
 Bandar;40;Malay for "port," as in Bandar Seri Begawan
 B and B;30
-band camp;50
+band camp;60
 band camps;50
 bandeau;40
 bandeaux;40
@@ -29508,6 +29509,7 @@ Eponine;40;"Les Misérables" character
 epopee;20;Epic poem
 epopees;20;Epic poems
 Epoque;40;Belle Epoque, French golden age
+epos;30;Epic poem
 Eppie;40;Eppie Lederer, the real Ann Landers / "Silas Marner" foundling
 Epping;40;Epping Forest
 Epps;40
@@ -44939,6 +44941,7 @@ ignition keys;50
 ignitions;50
 ignitors;30
 Ig Nobel;60
+ignorami;60;Ignoramuses, with a jokey pluralization
 ignorantness;30
 ignore it;50
 Ignoreland;40;R.E.M. song from "Automatic for the People"
@@ -46866,6 +46869,7 @@ irenic;20
 irenics;20
 I repeat;50
 I repent;20
+ires;30;Verb, not noun
 I rest;30
 Irglová;40;Markéta Irglová, Oscar-winning singer from "Once"
 Irglova;0
@@ -49839,6 +49843,7 @@ Kartel;40;Vybz Kartel, Jamaican dancehall star
 Karthik;40;Dinesh Karthik, Indian cricketer
 Kartikeya;40;Hindu god of war
 karts;50
+Kar-wai;40;Wong Kar-wai, Hong Kong filmmaker (born 1958)
 Karyn;40;Karyn White, singer of the 1991 #1 hit "Romantic"
 Karzai;40;Hamid Karzai, Afghan president
 kas;20
@@ -59256,6 +59261,13 @@ Memoji;60
 Memojis;60
 Memorex;50;Tape brand of "Is it live or is it Memorex?"
 Memoria;40;Latin for "memory," and the Tilda Swinton film
+memorisation;20
+memorise;20
+memorised;20
+memoriser;20
+memorisers;20
+memorises;20
+memorising;20
 memory bank;50
 memory banks;50
 memory chip;50
@@ -63410,6 +63422,7 @@ nest egg;50
 nest eggs;50
 nest in;40
 nesting in;40
+Nestlé Raisinets;50
 Nestor;40;Prominent Iliad and Odyssey character
 Nestorian;40;Of an early Eastern Christian church
 Nestorianism;50;Christological doctrine deemed heretical
@@ -75394,7 +75407,7 @@ raisin bagel;60
 raisin bagels;60
 Raisin Bran;60
 raisin bread;60
-Raisinet;40;One chocolate-covered raisin candy
+Raisinet;50;One chocolate-covered raisin candy
 Raisinets;50;Chocolate-covered raisins at the movies
 raising a glass;60
 raising a hand;50
@@ -79441,6 +79454,7 @@ rotating in;40
 rotatory;40
 ROTC;40
 Ro-Tel;40;Canned tomatoes brand
+rote memorisation;20
 ROTFL;40
 Roth;50;Philip Roth, novelist, or David Lee Roth
 Rothbard;40;Murray Rothbard, libertarian economist
@@ -80965,7 +80979,7 @@ Sanz;50
 Sao;40
 Saoirse;50;Saoirse Ronan, "Lady Bird" star
 Saonara;20
-Saône;40;French river that joins the Rhône at Lyon
+Saône;30;French river that joins the Rhône at Lyon
 Saone;0
 saos;0
 sap;50
@@ -92051,7 +92065,7 @@ tamburas;30
 Tamburlaine;50;Christopher Marlowe play
 tameless;40;Untamed or untamable
 Tamera;30;Tamera Mowry of "Sister, Sister"
-Tamerlane;50;Central Asian conqueror, aka Timur
+Tamerlane;40;Central Asian conqueror, aka Timur
 tamers;40
 Tami;40;Romance/thriller novelist Tami Hoag (22 million books sold)
 Tamia;30;Canadian singer
@@ -99379,6 +99393,7 @@ unmanned;50
 unmanning;30
 unmans;30
 Unmelancholy Dane;60;Nickname for pianist Victor Borge
+unmemorised;20
 unmingled;40
 unmitigated gall;60
 un momento;60;Common broken Spanish
@@ -104097,6 +104112,7 @@ wonderers;30
 Wonderland;50;Where Alice went
 Wonderwall;50;Oasis song
 Wong;40
+Wong Kar-wai;40;Hong Kong filmmaker (born 1958)
 won it;20
 Wonka;60;Willy Wonka, chocolate factory owner
 Wonkavator;50;Glass elevator in "Willy Wonka"
