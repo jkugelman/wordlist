@@ -5404,6 +5404,7 @@ arepas;40
 Arequipa;40;Peruvian city/region of 1 million
 Ares;50;Greek god of war
 are so;40;Playground retort
+a rest;20
 arête;30
 Aretha;50;Aretha Franklin, Queen of Soul
 Arethas;20
@@ -30567,7 +30568,8 @@ e-waste;50
 Ewbank;40;Weeb Ewbank, Jets' Super Bowl III coach
 ewe;50
 ewe don't say;0
-ewe lamb;30
+ewe lamb;40
+ewe lambs;40
 Ewell;40
 Ewen;40;Ewen Bremner, "Trainspotting" actor
 ewer;40
@@ -49468,6 +49470,7 @@ kaiju;30;Japanese giant monster movie genre (Godzilla)
 Kailash;40;Sacred Tibetan mountain
 Kailua;40;Oahu town
 Kaine;40;Tim Kaine, Virginia senator and 2016 VP nominee
+kairos;30
 Kairouan;40;Holy city of Tunisia
 Kaitlin;40;Kaitlin Olson, "It's Always Sunny" actress
 Kaitlin Olson;50
@@ -49615,6 +49618,7 @@ Kapital;40;Das ___, Marx's magnum opus
 Kaplan;40;Kaplan test prep, or Gabe Kaplan, "Welcome Back, Kotter" star
 Kapler;40;Gabe Kapler, baseball manager
 Kapodistrias;40;Ioannis Kapodistrias, first head of state of Greece
+kapok;30;Pillow padding
 Kapoor;40;Anish Kapoor, Bean sculptor / Bollywood acting family
 Kapranos;40;Alex Kapranos, Franz Ferdinand frontman
 Kaprow;40;Allan Kaprow, inventor of the Happening
@@ -54644,7 +54648,7 @@ Llosa;40;Mario Vargas Llosa
 Lloyd;50;Christopher Lloyd, actor / Lloyd's of London
 Lloydminster;40;Canadian city straddling the Alberta-Saskatchewan line
 Lloyd's;40;Lloyd's of London, insurance market
-Llull;40;Ramon Llull, medieval Catalan philosopher
+Llull;30;Ramon Llull, medieval Catalan philosopher
 Llullaillaco;40;Andean volcano where child mummies were found
 Llywelyn;40;Llywelyn the Great, Welsh prince
 LMAO;40
@@ -75386,6 +75390,7 @@ Ramona;40;Ramona Quimby of Beverly Cleary's books
 Ramonda;40;Queen Ramonda, "Black Panther" character
 Ramone;40;Joey Ramone, punk frontman
 Ramones;50;Punk pioneers from Queens
+Ramon Llull;40;Medieval Catalan philosopher
 Ramons;30
 Ramos;40;Anthony Ramos of "In the Heights"
 ramose;20;Branched / Egyptian prince
@@ -78679,6 +78684,7 @@ Rochester;50;New York city / Jane Eyre's brooding love interest
 Rochester, NY;40
 Rocinante;40;Don Quixote's horse
 rock;50
+Rock and Roll Lullaby;50;1972 single by B. J. Thomas
 Rockapella;50;A cappella group of "Where in the World Is Carmen Sandiego?"
 Rock Around the Clock;60;1954 rock and roll song
 Rockatansky;60;Max Rockatansky, Mad Max's full name
@@ -83326,7 +83332,7 @@ shaggy dogs;60
 shaggy dog stories;60
 shaggy dog story;60
 shagreen;30;Type of leather
-Shaguar;40;Austin Powers' Jaguar
+Shaguar;60;Austin Powers' Jaguar
 Shahada;40;Islamic oath, one of the Five Pillars of Islam
 Shahadah;40
 Shahade;40;Jennifer Shahade, chess champion and author
@@ -86893,6 +86899,7 @@ sonneteers;40
 sonnies;30
 Sonny Crockett;50;"Miami Vice" character
 Sonnys;30;Plural name
+so no;40
 son of;40
 son of a;60
 son of a biscuit;60
@@ -88380,7 +88387,7 @@ stamp taxes;50
 Stana;40;Stana Katic of "Castle"
 stand apart;50
 stand aside;60
-stand at;40
+stand at;30
 stand at ease;50
 stand atop;40
 Stand by Me;60
@@ -88389,6 +88396,7 @@ standees;30
 stander;30
 standers;30
 stand in;50
+standing at;30
 standing at ease;50
 standing atop;40
 standing next to;40
@@ -88409,7 +88417,7 @@ stand next to;40
 stand on;40
 stand over;40
 stands apart;50
-stands at;40
+stands at;30
 stands at ease;50
 stands atop;40
 stands next to;40
@@ -89463,7 +89471,7 @@ Stonewall Jackson;50
 stonewalls;60
 Stoney;40;Post Malone's debut album, variant spelling of stony
 stoney lonesome;60
-stood at;20
+stood at;30
 stood at ease;50
 stood atop;40
 stood next to;40
