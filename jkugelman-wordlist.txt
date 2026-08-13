@@ -53259,10 +53259,14 @@ Lego bricks;60
 leg of mutton;60
 Legoland;60
 Legolas;50;"The Lord of the Rings" elf archer
-Lego mania;50
+Lego Mania;60;Lego Club magazine (1994-2002)
+Lego Maniac;60;Lego advertising mascot in the '80s and '90s
+Lego Mania Magazine;60;Lego Club magazine (1994-2002)
+Lego Mania Magazines;60;Lego Club magazines (1994-2002)
+Lego Mindstorms;60
 Lego minifigure;60
 Lego minifigures;60
-Lego movie;60
+Lego Movie;60
 Legos;50;Interlocking bricks
 Lego set;60
 Lego sets;60
@@ -105871,6 +105875,7 @@ Zach Cherry;50;From "Severance"
 Zach de la Rocha;0;Misspelled
 Zack;50
 Zack de la Rocha;60;Lead singer of Rage Against the Machine
+Zack the Lego Maniac;60;Lego advertising mascot in the '80s and '90s
 Zac Posen;50
 Zadie;40;Zadie Smith, "White Teeth" novelist
 Zadig;40;Voltaire novella
