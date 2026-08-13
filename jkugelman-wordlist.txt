@@ -4611,6 +4611,7 @@ antidote;50
 antidotes;50
 Antietam;50;Bloodiest single day of the Civil War
 Antifragile;50;Nassim Nicholas Taleb concept and book
+antigerm;50
 Antigone;50;Sophocles tragedy
 Antigua;50;Caribbean island nation with Barbuda
 Antigua and Barbuda;60
@@ -6844,7 +6845,7 @@ Atreides;50;Ruling house in "Dune"
 atremble;40
 Atreus;30;Father of Agamemnon
 Atreyu;40;"The NeverEnding Story" hero
-A Troll in Central Park;50;1994 independent animated musical film 
+A Troll in Central Park;50;1994 independent animated musical film
 at root;50
 Atropos;40
 ats;30
@@ -14172,6 +14173,8 @@ buttercream;60
 buttercream frosting;60
 butter croissant;60
 butter croissants;60
+buttercup;50
+buttercups;50
 Butterfield;40;Asa Butterfield, "Sex Education" actor
 Butterfinger;60
 butterfingers;60
@@ -25652,6 +25655,7 @@ Donen;40;Stanley Donen, "Singin' in the Rain" director
 doneness;40
 done one's homework;60
 doner;40;Doner kebab
+done time;50
 done to a T;40
 done to a tee;40
 done to death;60
@@ -57503,6 +57507,8 @@ mantes;20;Mantises
 Manti;40;Manti Te'o, footballer of catfishing fame
 mantic;20;Prophetic
 mantid;20;Mantis
+man-tiger;50;Manticore
+man-tigers;50;Manticores
 mantlet;30;Portable wall in warfare
 mantlets;30
 Mantovani;40;Annunzio Mantovani, easy listening bandleader
@@ -69943,6 +69949,8 @@ peak times;60
 Peale;40;Norman Vincent Peale, author of "The Power of Positive Thinking"
 Peales;20
 peanutbutterand;0
+peanut butter cup;60
+peanut butter cups;60
 peanut farm;50
 peanut farmer;50
 peanut farmers;50
@@ -76807,8 +76815,8 @@ Rees;30;Children's author Gwyneth Rees / Filmmaker Dee Rees
 Reese;50;Various: Reese Witherspoon, Pee Wee Reese, Reese's Pieces
 Reeser;40;Autumn Reeser, "The O.C." actress
 Reese's;50;Peanut butter cup brand
-Reese's Peanut Butter Cup;50
-Reese's Peanut Butter Cups;50
+Reese's Peanut Butter Cup;60
+Reese's Peanut Butter Cups;60
 reetch;20
 reetched;20
 reetches;20
@@ -89195,7 +89203,7 @@ stele;20
 steles;20
 Stella;50;Common first name, or the Artois beer
 Stella D'oro;40;Stella D'oro Italian cookie brand
-stellae;30;Stars: Lat.
+stellae;40;Stars: Lat.
 Stellaluna;40;Children's book about a fruit bat
 Stellan;40;Stellan Skarsgard, actor
 Stellan Skarsgard;50
@@ -92073,6 +92081,7 @@ Tamara;40
 Tamarac;20;Florida city
 tamari;30;Japanese soy sauce
 Tamaulipas;40;Mexican border state
+también;40;Also, in Spanish
 Tamblyn;30
 tambora;30;Indian instrument
 tamboras;30
