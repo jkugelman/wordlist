@@ -2729,6 +2729,7 @@ Alfas;40;Alfa Romeos
 Al Fatah;20;Militant Palestinian organization
 Alfie;40;Michael Caine film / Alfie Allen, "Game of Thrones" actor
 Alfieri;40;1700s playwright Vittorio Alfieri, "founder of Italian tragedy"
+al fine;40;To the end, in music
 Alfonsina;40;Alfonsina Storni, Argentine poet
 Alfonso;40;Alfonso Cuarón, "Roma" director
 Alford;20
@@ -33280,6 +33281,7 @@ flog a dead horse;60
 flogged a dead horse;60
 flogging a dead horse;60
 flogs a dead horse;60
+Flo-Jo;40;Florence Griffith Joyner, track and field hurdle athlete (1959–1998)
 Flonase;40;Allergy nasal spray
 flood damage;60
 flood story;50
@@ -47147,6 +47149,7 @@ isotopic;40
 is our children learning;60
 is out;20
 ISP;40
+I split it so;20
 I s'pose;50
 ISPs;40
 isr;40
@@ -47393,6 +47396,10 @@ it is not;50
 it isn't over;60
 it isn't right;60
 it isn't set in stone;60
+it/its;40;Pronoun pair
+it its;0
+it/its pronouns;50
+it its pronouns;0
 it just dawned on me;60
 it just goes to show;60
 it just so happens;60
@@ -74940,6 +74947,8 @@ racing into;40
 racing off;50
 racings;20
 racing to;40
+racino;40;Racetrack/casino
+racinos;50;Racetrack/casinos
 racist;30
 racists;30
 racker;30
@@ -76672,6 +76681,7 @@ refractoriness;30
 refractors;30
 refresh my memory;60
 refrigerate after opening;60
+reft;30;Taken away from, old-style
 refugee camp;50
 refulgence;30
 refusenik;60;Soviet citizen denied permission to emigrate
