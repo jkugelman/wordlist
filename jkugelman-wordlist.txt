@@ -15150,6 +15150,7 @@ can of whoopass;60
 can of worms;60
 canon;50
 Canonflex;30;Discontinued 1959 Canon SLR
+Canonical Ltd.;50;UK-based software company that maintains the Ubuntu OS
 Canon in D;50
 canonry;40;Office of a canon
 canons;50
@@ -23134,6 +23135,7 @@ Debbie Downers;60
 Debby;40;Debby Boone, "You Light Up My Life" singer / Debby Ryan, actress
 Debi;40;Debi Thomas, Olympic figure skater / Debi Mazar, actress
 Debian;40;Linux distribution
+Debian Project;50
 Debicki;40;Elizabeth Debicki, Australian actress
 debit or credit?;60
 deboner;40
@@ -54387,7 +54389,14 @@ lint rollers;60
 linty;40
 Linus;50;Linus Van Pelt of "Peanuts" / Linus Torvalds, Linux creator
 Linux;50;Open-source operating system
+Linux distribution;60
+Linux distributions;60
+Linux distro;60
+Linux distros;60
+Linux Foundation;60
 Linux kernel;60
+Linux user;60
+Linux users;60
 Linx;30;???
 Linz;40;Austrian city on the Danube
 lion cub;50
@@ -76591,6 +76600,7 @@ Redgrave;50;Vanessa Redgrave, actress
 red-green;60
 red-green color blindness;60
 Red Guard;50
+Red Hat Linux;60
 Red Heeler;50;Dog breed
 Red Heelers;50
 reding;20
@@ -82508,6 +82518,14 @@ segno;40
 sego;40
 segos;40
 Segovia;50;Andrés Segovia, classical guitarist / Spanish city
+segued into;40
+segued to;40
+segueing into;40
+segueing to;40
+segue into;40
+segues into;40
+segues to;40
+segue to;40
 seguidilla;30;Castilian dance form
 seguidillas;30
 Segura;40;Comedian/podcaster Tom Segura
@@ -98855,6 +98873,9 @@ U-bolts;40
 UBS;20
 Ubu;20
 Ubuntu;50;Linux distribution / African humanist philosophy
+Ubuntu Core;50
+Ubuntu Desktop;50
+Ubuntu Server;50
 Ubu Roi;40;Obscene "Macbeth" parody from 1896
 UC;40;University of California
 U Can't Touch This;60
