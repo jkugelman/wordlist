@@ -88798,6 +88798,7 @@ St Denis;40
 STDs;30
 STD test;40
 STD tests;40
+ste.;40
 Ste.;40
 steaded;30
 Steadicam;60
@@ -89109,6 +89110,7 @@ Steptoe;40;"Steptoe and Son", British sitcom behind "Sanford and Son"
 step two;30
 stepuncle;50
 stepuncles;40
+-ster;30
 steradian;30;Unit of solid angle
 stere;20;Unit of volume
 Stereogum;40;Music blog
@@ -89136,7 +89138,8 @@ sterol;30;Healthy plant cholesterol
 sterols;30;Healthy plant cholesterols
 stertor;20;Snore
 stertorous;50;Noisy, as breathing
-stes;40
+stes.;40
+Stes.;40
 stet;50
 stetho;40
 stets;40
