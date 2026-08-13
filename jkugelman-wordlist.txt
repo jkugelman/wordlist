@@ -17045,6 +17045,8 @@ Charles;50;Ray Charles, musician / King Charles III
 Charles Atlas;60
 Charles Martinet;50;Voice of Mario
 Charleston;50;South Carolina city / 1920s dance
+Charles Wright and the Watts 103rd Street Rhythm Band;50;Soul and funk band
+Charles Wright & the Watts 103rd Street Rhythm Band;50;Soul and funk band
 Charley;40;Charley Pride, country star / charley horse
 Charli;50;"Brat" singer Charli XCX
 Charlie;50;Charlie Brown of "Peanuts", and a common name
@@ -71267,9 +71269,13 @@ pigs on the rocks;60;Bacon martinis
 pigs out on;60
 pigsty;50
 Pik;20
+pika;30;Mountain-dwelling mammal
 Pikachu;60
+Pikachu I choose you;60
 pikake;40;Flower used in leis
 pikakes;40;Flowers used in leis
+pikapika;50;Pikachu's only word
+pikas;30;Mountain-dwelling mammals
 Piketty;40;Thomas Piketty, "Capital in the Twenty-First Century" economist
 Pikmin;40;Nintendo game series
 Pikotaro;40;"Pen-Pineapple-Apple-Pen" viral singer
@@ -90000,6 +90006,8 @@ street racer;60
 street racers;60
 street races;60
 street racing;60
+street rod;50
+street rods;50
 Street Sharks;50;1994 cartoon about crime-fighting half-man/half-sharks
 street smart;60
 street smarts;60
@@ -94940,6 +94948,7 @@ The Waltz;20;???
 the war;40
 The Wasp;50
 The Waste Land;60
+The Watts 103rd Street Rhythm Band;50;Charles Wright & the Watts 103rd Street Rhythm Band
 the Watusi;40
 the wave;50
 The Way of Water;60;Avatar 2
@@ -102057,6 +102066,7 @@ Watteau;40;16th century painter Jean-Antoine Watteau
 Watterson;50;Bill Watterson, "Calvin and Hobbes" creator
 Watto;40;Junk dealer in "Star Wars: The Phantom Menace"
 Wattpad;40;Story-sharing website
+Watts 103rd Street Rhythm Band;50;Charles Wright & the Watts 103rd Street Rhythm Band
 Wattstax;40;1972 Stax Records benefit concert film
 Watusi;40;1960s dance craze
 Waugh;50;Evelyn Waugh, author of "Brideshead Revisited"
@@ -105525,6 +105535,7 @@ you and what army;60
 you and whose army;60
 you are;40
 You Are;40;1983 Lionel Richie song
+you are assessed for street repairs;50;Community Chest card in Monopoly
 you are excused;60
 you are here;60
 you aren't gonna need it;60
