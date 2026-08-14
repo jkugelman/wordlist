@@ -3535,7 +3535,7 @@ Amazonia;40;The Amazon rainforest region
 Amazonian;50
 Amazonians;50
 Amazon Music;60
-Amazon rainforest;50
+Amazon rainforest;60
 Amazon River;50
 Amazons;50;Warrior women of myth
 amb;20
@@ -32249,6 +32249,7 @@ fernery;40;Specialized garden for the display of ferns
 fernet;40;Liqueur
 Ferneyhough;40;Brian Ferneyhough, New Complexity composer
 FernGully;50;1992 rainforest animated film
+FernGully: The Last Rainforest;50;1992 animated musical fantasy film by Bill Kroyer
 Ferragamo;60
 Ferragamos;60
 Ferrante;40;Elena Ferrante, pseudonymous Neapolitan novelist
@@ -44576,7 +44577,7 @@ Ichabod;50;Ichabod Crane of "The Legend of Sleepy Hollow"
 iChat;30;Discontinued in 2012
 ich dien;30;Ich dien, "I serve", motto of the Prince of Wales
 I cheated;50
-ichi;40;Japanese for "one"
+ichi;30;Japanese for "one"
 Ichikawa;40;Kon Ichikawa, Japanese director
 Ichiro;40;Ichiro Suzuki, all time MLB great
 ichneumon;30;???
@@ -49912,6 +49913,7 @@ Kassel;40;German city, home of documenta
 Kassovitz;40;Mathieu Kassovitz, "La Haine" director
 Kasturba;40;Kasturba Gandhi, Mahatma Gandhi's wife
 Kat;40
+kata;30;Detailed choreographed patterns of movements in martial arts
 Katahdin;40;Maine peak, north end of the Appalachian Trail
 Katajjaq;40;Inuit throat singing
 katamara;20;???
@@ -49919,6 +49921,7 @@ Katamari;40;"Katamari Damacy," ball-rolling video game
 Katamari Damacy;60
 Katanga;40;Congolese province that seceded in 1960
 Katarina;40;Katarina Witt, Olympic figure skating champion
+katas;30;Detailed choreographed patterns of movements in martial arts
 Kate;50;Common first name
 Katee;40;Katee Sackhoff, "Battlestar Galactica" actress
 Katelyn;40;Katelyn Ohashi, viral perfect-10 gymnast
@@ -50810,6 +50813,8 @@ Kipchak;40;Medieval Turkic people
 Kipchaks;40;Medieval Turkic people
 Kipchoge;40;Eliud Kipchoge, sub-two-hour marathoner
 Kipling;50;Rudyard Kipling, author of "The Jungle Book"
+kippah;40;Skullcap traditionally worn by Jewish men
+kippahs;40;Skullcaps traditionally worn by Jewish men
 kippered salmon;50
 Kippur;40;Yom Kippur, the Day of Atonement
 Kiptum;40;Kelvin Kiptum, marathon world record holder
@@ -50909,6 +50914,8 @@ kitschiest;60
 kitschy;60
 kitsune;40;Fox spirits in Japanese folklore
 Kitt;40
+kitteh;30;Lolcat
+kittehs;30;Lolcats
 kittenish;50
 Kitteridge;40;"Olive Kitteridge" title character
 Kittery;40;"Maine's oldest town"
@@ -54363,6 +54370,7 @@ linea;30
 lineal;40;In a direct line of descent or ancestry, a lineal descendant
 lineament;40;Distinctive facial feature
 lineaments;40
+linea nigra;40;Dark vertical line that appears on the abdomen during pregnancy
 Linear A;40
 Linear B;40
 linebacker;60
@@ -59864,6 +59872,10 @@ microgenre;60;Highly specialised or niche artistic domain
 microgenres;60
 Micrographia;50;Robert Hooke's pioneering microscopy book
 microgravity;60
+microhabitat;60
+microhabitats;60
+microhm;40;Micro-ohm
+microhms;40;Micro-ohms
 microlearning;50
 micromanage;60
 micromanaged;60
@@ -64687,6 +64699,8 @@ no right on red;60
 no right turn on red;60
 norite;30;Type of rock
 Norma;50;Bellini opera / common given name
+Norma Jeane;60;Marilyn Monroe
+Norma Jeane Mortenson;60;Marilyn Monroe
 normal procedure;30
 Norman;50;Norman Bates, and a common first name
 Norman Bates;60
@@ -74470,6 +74484,7 @@ Purefoy;40;James Purefoy, British actor
 Purell;50;Hand sanitizer brand
 pure luck;60
 Purepecha;40;Purépecha, Michoacán indigenous people
+pure profit;60
 pures;50;Strikes a golf ball perfectly
 Purex;40;Detergent brand
 Purgatorio;50;Middle canticle of Dante's "Divine Comedy"
@@ -75402,10 +75417,12 @@ Rainer;30;Luise Rainer, 1930s Best Actress
 Raines;40
 Rainey;40;Blues singer "Ma" Rainey
 rainfalls;30
-rainforest;50
-rainforest canopies;50
-rainforest canopy;50
-rainforests;50
+rainforest;60
+Rainforest Cafe;60
+Rainforest Cafes;60
+rainforest canopies;60
+rainforest canopy;60
+rainforests;60
 rain garden;50
 rain gardens;50
 rain hat;50
@@ -89877,12 +89894,16 @@ strain credulity;60
 strained at;40
 strained at a gnat;50;Concerned oneself with something unimportant
 strained at gnats;50;Concerned oneself with something unimportant
+strained for;40
+strain for;40
 straining at;40
 straining at a gnat;50;Concerning oneself with something unimportant
 straining at gnats;50;Concerning oneself with something unimportant
+straining for;40
 strains at;40
 strains at a gnat;50;Concerns oneself with something unimportant
 strains at gnats;50;Concerns oneself with something unimportant
+strains for;40
 straitartist;0
 straiten;30
 straitened;30
@@ -94293,6 +94314,7 @@ The Lark;30
 The Last Analysis;50;Saul Bellow's only full-length play, not well known
 The Last Jedi;60
 The Last of Us;60
+The Last Rainforest;50;"FernGully: The Last Rainforest"
 The Last Unicorn;60
 The Las Vegas Story;50;1952 film starring Jane Russell and Victor Mature
 the Las Vegas Strip;40
@@ -97883,6 +97905,8 @@ tropical drinks;60
 tropical fish;60
 tropical fruit;60
 tropical fruits;60
+tropical rainforest;60
+tropical rainforests;60
 Tropicana;50;Orange juice brand
 tropine;20;Chemical
 tropism;30;Turning of a plant towards sunlight
