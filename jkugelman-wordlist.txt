@@ -72873,6 +72873,7 @@ pop;50
 Popaganda;50;Ron English's street art coinage
 pop artist;50
 pop artists;50
+pop a squat;60
 pop a wheelie;60
 Popcaan;40;Jamaican dancehall star
 pop can;50
@@ -72951,6 +72952,7 @@ Popov;40;Alexander Popov, radio pioneer / vodka brand
 Popovich;50;Gregg Popovich, longtime Spurs coach
 poppa;40;Papa variant
 poppas;20;Papas variant
+popped a squat;60
 popped a wheelie;60
 popped in a movie;50
 popped into;40
@@ -72962,6 +72964,7 @@ popped the hood;60
 popped wheelies;60
 pop pills;40
 Poppin';40;Poppin' Fresh, the Pillsbury Doughboy
+popping a squat;60
 popping a wheelie;60
 popping in a movie;50
 popping into;40
@@ -72978,6 +72981,7 @@ poppyseed bagel;60
 poppyseed bagels;60
 poppyseed roll;60
 poppyseed rolls;60
+pops a squat;60
 pops a wheelie;60
 pop scene;50
 Pop Secret;60
@@ -81348,6 +81352,9 @@ Saskatoon;50;Saskatchewan city, or a berry
 Saskia;30;Saskia van Uylenburgh, Rembrandt's wife / Saskia Sassen, sociologist
 Saskia Hamilton;40
 Saskia Sassen;40
+sasquatch;60
+Sasquatch;60
+sasquatches;60
 sassafras;50
 Sassanid;40;Persian empire before Islam
 Sassanids;40;Last pre-Islamic Persian dynasty
