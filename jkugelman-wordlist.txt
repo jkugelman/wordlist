@@ -13011,6 +13011,7 @@ Brentano;40;Franz Brentano, philosopher of intentionality
 Brentwood;40;Los Angeles neighborhood
 Breonna;40;Breonna Taylor, whose killing sparked protests
 Br'er;40;Br'er Rabbit, Uncle Remus trickster
+bresaola;40;Air-dried and salted beef
 Brescia;40;Italian city in Lombardy
 Breslau;20;Polish city
 Breslin;40;Abigail Breslin, "Little Miss Sunshine" star / Jimmy Breslin, columnist
@@ -23430,6 +23431,7 @@ defalcates;40
 defalcating;40
 defalcation;40
 defalcations;40
+de Falla;40
 defang;50
 defanged;50
 defanging;50
@@ -31410,11 +31412,12 @@ Falk;40;Peter Falk, TV's Columbo
 Falkirk;40;Scottish town, site of a Wallace defeat
 Falkland;40;Falkland Islands, South Atlantic territory
 Falklands;50;South Atlantic islands of 1982 war fame
-Falla;40;Manuel de Falla, Spanish composer
+Falla;30;Manuel de Falla, Spanish composer
 Fallaci;40;Oriana Fallaci, Italian journalist
 Fallada;40;Hans Fallada, German novelist
-fall all over oneself;50
+fall all over oneself;60
 fall all over oneself apologizing;50
+fall at the feet of;60
 fallback plan;50
 fallback plans;50
 fallback position;60
@@ -31424,10 +31427,13 @@ fall classic;50
 fall classics;50
 fall color;50
 fall colors;50
+fallen all over oneself;60
+fallen at the feet of;60
 fallen on;40
 fall in;50
-falling all over oneself;50
+falling all over oneself;60
 falling all over oneself apologizing;50
+falling at the feet of;60
 falling in;40
 falling in line;60
 falling into;40
@@ -31450,6 +31456,8 @@ fallout shelter;60
 fallout shelters;60
 fall sale;50
 fall sales;50
+falls all over oneself;60
+falls at the feet of;60
 fall shy;50
 fall shy of;40
 falls in;40
@@ -32155,6 +32163,7 @@ Felipe;50;Felipe VI, king of Spain / common Spanish first name
 Felis;30;Cat genus
 Felix;50;Common first name, and the cat
 Felix Pie;50
+fell all over oneself;60
 fellas;50
 fellate;10
 fellated;10
@@ -32162,6 +32171,7 @@ fellating;10
 fellatio;10
 fellations;10
 fellatios;10
+fell at the feet of;60
 fellie;20;Part of a wheel rim
 fellies;20;Parts of a wheel rim
 fell in;40
@@ -35458,6 +35468,7 @@ Gambians;40;People of Banjul
 Gambino;50;Childish Gambino, rapper, or the crime family
 gambled on;40
 gamble on;40
+gambler's fallacy;60
 gambles on;40
 gambling bug;60
 gambling debt;50
@@ -46235,6 +46246,8 @@ in for a penny;60
 in for a penny in for a pound;60
 in force;50
 in for it now;60
+informal fallacies;60
+informal fallacy;60
 informal talk;50
 informal talks;50
 information content;50
@@ -49622,6 +49635,7 @@ just the tip of the iceberg;60
 just thought I'd ask;60
 just try me;60
 Justus;40;Justus von Liebig, chemist
+just world fallacy;60
 jut;50
 Jute;50;Plant fiber, or a Germanic tribe
 Jutes;20
@@ -57647,6 +57661,7 @@ manual or technical laborer;0
 manubrium;30
 Manuel;50;Common Spanish first name
 Manuela;40;Manuela Saenz, Simon Bolivar's partner and revolutionary
+Manuel de Falla;40;Spanish composer (1876–1946)
 manuffaacctture;0
 Manu Ginóbili;50;Hall of Fame San Antonio Spurs player (2002-18) with four NBA championships
 Manu Ginobili;0
@@ -65103,6 +65118,8 @@ Notre;40;Notre Dame
 not real;30
 Notre Dame Fighting Irish;60
 not ripe;30
+no true Scotsman;60
+no true Scotsman fallacy;60
 nots;40;Forget-me-nots, have-nots
 not safe;40
 not safe for work;60
@@ -90835,6 +90852,7 @@ Sun In;40;Sun In hair lightener
 Sunisa;40;Gymnast Sunisa "Suni" Lee
 Sunita;40;Astronaut Sunita Williams
 Sunita Williams;50;NASA astronaut (born 1965)
+sunk cost fallacy;60
 sunken garden;60
 sunken gardens;60
 Sunken Place;60
@@ -93667,6 +93685,7 @@ Texas Flood;60
 Texas hold 'em;60
 Texas hold' em tournament;60
 Texas hold' em tournaments;60
+Texas sharpshooter fallacy;60
 Texas tailgater;60
 Texas Tailgaters;60;Banana Ball team
 Texas two-step;50
@@ -101315,6 +101334,7 @@ Vistula;30;Longest river in Poland
 visual art;60
 visual arts;60
 Visual Basic;60
+visual fallacy;50
 visual novel;60
 visual novels;60
 Visual Studio;50
