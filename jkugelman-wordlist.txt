@@ -40101,6 +40101,7 @@ had;50
 had a baby;50
 had a bite;50
 had a blast;50
+had a catch;60
 had a conniption;60
 had a couple;60
 had a cow;50
@@ -40974,6 +40975,7 @@ has;50
 has a baby;50
 has a bite;50
 has a blast;50
+has a catch;60
 has a conniption;60
 has a couple;60
 has a cow;50
@@ -41196,6 +41198,7 @@ have a baby;50
 have a bad hair day;60
 have a bite;50
 have a blast;50
+have a catch;60
 have a conniption;60
 have a couple;60
 have a cow;60
@@ -41286,6 +41289,7 @@ Havilland;50;Olivia de Havilland, "Gone with the Wind" actress
 having a baby;50
 having a bite;50
 having a blast;50
+having a catch;60
 having a conniption;60
 having a cow;50
 having a crush on;60
@@ -47503,6 +47507,8 @@ is that so wrong;0
 is that the best you can do?;60
 is that the best you can do;0
 is that you;60
+is there a catch?;60
+is there a catch;0
 is there anyone home?;60
 is there Wi-Fi?;60
 is the sky blue?;60
@@ -103375,6 +103381,8 @@ what is that supposed to mean;60
 what is the holdup?;60
 what is the name of;20
 what is the point?;60
+what is the world coming to?;60
+what is the world coming to;0
 what is this, a center for ants?;50;"Zoolander" quote
 what is this a center for ants;0
 what is this nonsense?;60
@@ -103392,65 +103400,215 @@ what is your point?;60
 what is your problem?;60
 what is your problem;0
 what it is is;20
+what it's all about;50
 what just happened;60
+what'll be your pleasure?;60
 what me worry;60
+what next?;50
+what next;0
 what nonsense;50
 what, not even a thank you?;60
 What Now My Love;50;Popular song
+what's a girl to do?;60
+what's a girl to do;0
 what's a hoe?;60
-what's all this then;60
+what's all this?;60
+what's all this;0
+what's all this then?;60
+what's all this then;0
 what's a nice girl like you doing in a place like this?;60
 what's a nice girl like you doing in a place like this;0
-WhatsApp;50;Messaging app
-what say you;60
+WhatsApp;60;Messaging app
+what say you?;60
+what say you;0
 what's cooking, good looking?;60
 what's cookin' good lookin';60
-what seems to be the issue;60
-what seems to be the problem;60
+what's eating you?;60
+what's eating you;0
+what seems to be the issue?;60
+what seems to be the issue;0
+what seems to be the problem?;60
+what seems to be the problem;0
+what's for dessert?;50
+what's for dessert;0
+what's for dinner?;50
+what's for dinner;0
+What's Going On;60;1971 album by Marvin Gaye
+what's going on?;60
+what's going on;0
 what's good for the goose is good for the gander;60
+what's good here?;60
+what's good here;0
+what's happening?;60
+what's happening;0
 what should;20
+what should I bring?;50
+what should I bring;0
+what should I do?;50
+what should I do;0
 what should I stay?;50;Cleopatra's dying words in Shakespeare's "Antony and Cleopatra"
-what's in it for me;60
-What's New Pussycat;60
-what's not to get;60
-what's on your mind;60
-What's Opera Doc;60
+what's in a name?;60
+what's in a name;0
+what's in it for me?;60
+what's in it for me;0
+what's in the box?;60
+what's in the box;0
+what's it about?;60
+what's it about;0
+what's it all about?;60
+what's it going to take?;60
+what's it going to take;0
+what's it gonna be?;60
+what's it gonna be;0
+what's it gonna take?;60
+what's it gonna take;0
+what's it to you?;60
+what's it to you;0
+What's Love Got to Do with It;60
+what's mine is yours;60
+What's My Age Again?;60;1999 single by Blink-182
+What's My Age Again;0
+what's my name?;50
+what's new?;50
+what's new;0
+What's New Pussycat?;60
+What's New Pussycat;0
+what's new with you?;60
+what's new with you;0
+what's next?;50
+what's next;0
+what's not to get?;60
+what's not to get;0
+what's not to like?;60
+what's not to like;0
+what's not to love?;60
+what's not to love;0
+what's old is new again;60
+what's one more?;60
+what's one more;0
+what's on your mind?;60
+what's on your mind;0
+What's Opera, Doc?;60
+What's Opera Doc;0
+what's poppin'?;50
+what's poppin';0
+what's popping?;50
+what's popping;0
+what's shakin'?;60
+what's shakin';0
 what's shakin', bacon?;60
-what's that;60
+what's shaking?;50
+what's shaking;0
+what's so funny?;60
+what's so funny;0
+(What's So Funny 'Bout) Peace, Love, and Understanding;60
+What's So Funny 'Bout Peace Love and Understanding;0
+what's taking so long?;60
+what's taking so long;0
+what's that?;60
+what's that;0
+what's that like?;50
+what's that like;0
+what's that over there?;50
+what's that over there;0
+what's that racket?;50
+what's that racket;0
 what's that smell?;50
 what's that smell;0
 what's that sound?;50
 what's that sound;0
 what's that supposed to mean;60
-what's the game plan;60
-what's the good word;60
+what's that you say?;60
+what's that you say;0
+what's the big deal?;60
+what's the big deal;0
+what's the big idea?;60
+what's the big idea;0
+what's the catch?;60
+what's the catch;0
+what's the dif?;60
+what's the dif;0
+what's the difference?;60
+what's the difference;0
+What's the Frequency, Kenneth?;50;1994 single by R.E.M.
+What's the Frequency Kenneth;0
+what's the game plan?;60
+what's the game plan;0
+what's the good word?;60
+what's the good word;0
 what's the holdup?;60
+what's the hurry?;50
+what's the hurry;0
 what's the latest?;60
 what's the magic word;60
 what's the move;60;"So our plan is...?"
 what's the plan;60
 what's the point?;60
 what's the point;0
+what's the problem?;60
+what's the problem;0
 what's the question?;60
+what's the question;0
 what's there to get?;60
 what's there to lose?;60
 what's the scuttlebutt?;60
+what's the story?;60
 what's the use;60
 what's the Wi-Fi situation?;60
 what's the Wi-Fi situation;0
 what's the word on the street?;60
-what's the worst that could happen;60
+what's the world coming to?;60
+what's the world coming to;0
+what's the worst that could happen?;60
+what's the worst that could happen;0
 what's this;60
+what's this for?;50
+what's this for;0
 what's this then?;60
+what's this thing?;50
+what's this thing;0
+what's today's date?;50
+what's today's date;0
+what's up?;50
+what's up;0
+what's up, doc?;60
+what's up doc;0
+what's up with that?;60
+what's up with that;0
 what's what;60
-what's with that;60
+what's with that?;60
+what's with that;0
+what's wrong?;60
+what's wrong;0
+what's wrong with that?;60
+what's wrong with that;0
+what's wrong with this picture?;60
+what's wrong with this picture;0
+what's wrong with you?;60
+what's wrong with you;0
 what's your beef?;60
+what's your endgame?;60
+what's your endgame;0
 what's your excuse;60
+what's your insta?;50
 what's your malfunction?;60
+what's your name?;50
+what's your name;0
+what's your number?;50
+what's your number;0
+what's your pleasure?;60
+what's your pleasure;0
 what's your point?;60
 what's your problem?;60
 what's your problem;0
 what's your question?;60
+what's your question;0
+what's your secret?;60
+what's your secret;0
+what's your sign?;60
+what's your sign;0
+what's your take?;60
+what's your take;0
 whattaappity;0
 Whattaman;40;"Whatta Man," Salt-N-Pepa and En Vogue hit
 what the;60
