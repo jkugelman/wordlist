@@ -1217,6 +1217,7 @@ AD 1;40;First year of the Common Era
 Ada;50
 a dab;30
 Adad;20;Babylonian storm god
+Ada Deer;40;Native American scholar and politician (1935–2023)
 ad agencies;50
 ad agency;50
 Adagietto;40;Tempo a bit faster than adagio
@@ -2213,7 +2214,7 @@ ain't that a crying shame;60
 ain't that a cryin' shame;60
 ain't that a shame;60
 ain't that some shit;10
-ain't that sweet;60
+ain't that sweet?;60
 ain't that the truth;60
 Ainu;30;Indigenous people of northern Japan
 Ainu cuisine;40
@@ -4155,9 +4156,11 @@ and that's about it;60
 and that's all she wrote;60
 and that's an order;60
 and that's a wrap;60
+and that's final;60
 and that's no lie;50
 and that's not all;60
 and that's saying a lot;60
+and that's that;60
 and that's what its all about;60
 and the award goes to;60
 and the like;60
@@ -14193,6 +14196,7 @@ but is it art;0
 Butkus;40;Dick Butkus, Hall of Fame Bears linebacker
 Butlerian;40;Butlerian Jihad of "Dune"
 but like actually though;60
+but maybe that's just me;60
 butnotreachable;0
 butoh;30;Post-WWII Japanese dance form
 but really;60
@@ -14231,6 +14235,7 @@ buttermilk biscuit;50
 buttermilk biscuits;50
 butter my butt and call me a biscuit;60
 Butterworth;50;Mrs. Butterworth of the syrup bottle / Jez Butterworth, playwright
+but that's just me;60
 but that's not all;60
 butthead;60
 butt heads;60
@@ -21973,15 +21978,22 @@ curry puff;60;Pastry with curry filling
 curry puffs;60;Pastries with curry filling
 curse at;40
 cursed at;40
+cursed like a sailor;60
+curse like a sailor;60
 curse of dimensionality;60;Difficulties arising when analyzing data with many aspects ("dimensions")
 curse of expertise;60
 curse of knowledge;60
+curse of the Bambino;60
+curse of the ninth;60;Superstition that a ninth symphony is destined to be the composer's last
 curser;40
 cursers;40
 curses at;40
+curses foiled again;60
+curses like a sailor;60
 curse word;60
 curse words;60
 cursing at;40
+cursing like a sailor;60
 curtain bangs;60
 curtest;30
 curtesy;30;Law term, see dower
@@ -24410,6 +24422,7 @@ didja;50
 did laps;50
 did lunch;50
 did more with less;60
+didnae;30
 did not;40;Playground retort
 did not sit right with;40
 didn't click;60
@@ -25235,6 +25248,7 @@ do all the talking;50
 do a set;50
 do a shot;50
 do as I say;60
+do as I say not as I do;60
 do a solid;60
 do a stretch;50
 do a take on;20
@@ -28011,6 +28025,7 @@ Edmund John Millington Synge;40;Irish writer and collector of folklore (1871–1
 Edna;50;Dame Edna Everage, Barry Humphries character / common first name
 Edna Millay;50;???
 Edna Mode;60
+Ednas;30;Plural name
 Edo;40;Tokyo, formerly
 Edo Castle;50
 Edo era;20;Edo period is what's common
@@ -39953,6 +39968,7 @@ Gwen;50;Gwen Stefani, singer, among others
 Gwendoline;50;Gwendoline Christie, "Game of Thrones" actress
 Gwendolyn;50;Given name: Gwendolyn Brooks, Pulitzer-winning poet
 Gwenpool;40;Marvel comics character
+Gwen Stacy;60
 Gwen Stefani;60
 GWU;20
 Gwyn;40;Nell Gwyn, mistress of Charles II
@@ -45021,6 +45037,7 @@ I.F. Stone;30;Investigative journalist, writer, and author (1907–1989)
 iftar;40;Ramadan meal
 if that's all right with you;60
 if that's alright with you;60
+if that's OK with you;60
 ifthis;0
 if truth be told;60
 if worst comes to worst;60
@@ -45620,6 +45637,7 @@ I'm no fool;60
 I'm not a bad person;60
 I'm not afraid of you;60
 I'm not a robot;60;CAPTCHA checkbox
+I'm not a scientist;60
 I'm not buying it;60
 I'm not complaining;60
 I'm not dead;60
@@ -47902,6 +47920,7 @@ ITV;20
 it very well may be;60
 it was a dark and stormy night;60
 it was a day like any other;60
+it was a joke;60
 it was all a dream;60
 it was all just a dream;60
 it was I;40
@@ -56264,6 +56283,8 @@ LXVII;20
 LXVIII;20
 LXX;20
 LXXIII;20
+lycée;40;Public secondary school in France
+lycées;40;Public secondary schools in France
 Lyceum;50;Aristotle's school
 lycopod;30;Mossy plant 425 million years ago
 lycopodium;30
@@ -58586,6 +58607,7 @@ maybe, maybe not;60
 maybe maybe not;0
 Mayberry;50;"The Andy Griffith Show" town
 maybe so;50
+maybe that's just me;60
 Maycomb;50;"To Kill a Mockingbird" town
 Maye;40;Drake Maye, NFL quarterback
 Mayella;30;"To Kill a Mockingbird" central character
@@ -64985,10 +65007,14 @@ notarized statement;50
 notarized statements;50
 Notaro;40;Comedian Tig Notaro
 not a sable;20;Green paint
+not as good;40
 not as I do;40
 not a single fuck;10
 not as I recall;60
 not a sound;60
+not as such;60
+no taste;50
+not as yet;50
 not at any price;60
 not at home;50
 not a toy;50
@@ -66191,7 +66217,8 @@ of course, of course;50
 Ofeibea;40;Ofeibea Quist-Arcton, NPR Africa correspondent
 Ofelia;30
 off;50
-Offa;40;Offa of Mercia, Anglo-Saxon king of the dyke
+off a;20
+Offa;20;Offa of Mercia, Anglo-Saxon king of the dyke
 off-Broadway;60
 off-Broadway hit;60
 off-Broadway hits;60
@@ -66358,6 +66385,8 @@ Ohio;50;Buckeye State
 Ohioan;50
 Ohioans;50
 oh I see now;60
+oh is that so?;60
+oh is that so;0
 oh it's you;60
 oh, I went there;60
 oh, I will;60
@@ -78287,6 +78316,9 @@ Rhodesians;40;People of the former Rhodesia
 Rhodey;40;James Rhodes, Iron Man's War Machine sidekick
 rhodolite;30
 rhodonite;30
+rhodopsin;40;Light-sensitive receptor protein
+rhodora;30;Deciduous flowering shrub
+rhodoras;30;Deciduous flowering shrubs
 Rhody;40;Little Rhody, Rhode Island's nickname
 rhomb;20
 rho meson;40
@@ -93836,64 +93868,100 @@ that just might work;60
 that'll do;60
 that'll never work;60
 that one;40
+that's a big ask;60
 that's a big if;60
 that's a bit of a stretch;60
 that's above my pay grade;60
 that's a dick move;60
+that's a fact;60
 that's a fine how do you do;60
 that's a given;60
+that's a go;50
+that's a good idea;60
 that's a good point;60
 that said;60
 that's a keeper;60
+that's a laugh;60
 that's a lie;60
 that's all she wrote;60
+that's a mood;60
+that's a moot point;50
 That's Amore;60
+that's a myth;50
+that's an idea;60
 that's a no;60
+that's a no-brainer;60
 that's a nonstarter;60
+that's an order;60
+that's a pity;60
+that's a plan;50
 that's a real stretch;60
 that's a right pickle;60
 that's a shame;60
 that's a spicy meat-a-ball;60
 that's a spicy meat-a ball-a;60
 that's a stretch;60
+that's a tall order;60
 that's a thought;60
 that's a toughie;60
+that's a very big if;60
 that's a whole nother story;60
 that's a whole other story;60
 that says a lot;60
+that's better;60
 that's bizarre;60
+that scans;50
 that's classified;60
+that's cold;60
 that's cool;60
 that's easy;60
 that's easy for you to say;60
 that seems about right;60
-that's enough;50
+that's enough;60
+that's enough of that;60
+that settles it;60
+that settles that;60
 that's fair;60
 that's final;60
+that's for damn sure;60
 that's genius;60
 that's good to know;60
 that's great;60
-that's him;40;Green paint?
+that's gross;60
+that's her;50
+that's him;50;Green paint?
 that ship has sailed;60
 that ship's sailed;60
+that should cover it;60
+that should work;60
 that's how it's going to be?;60
 that's how it's gonna be?;60
 that's huge;60
 that's ill;50
 that's illogical;50
 that simply won't do;60
+that's insane;60
 that's ironic;60
 that's it;50
 that's just fine and dandy;60
 that's just the way it goes;60
 that slaps;60
+that slots;60
 that's me;60
+that's mean;60
 that's messed up;60
+that smile;50
 that's more like it;60
+that's my boy;60
 that's my final answer;60
+that's my jam;60
+that's my job;60
 that's my next question;60
+that's neat;50
 that's news to me;60
 that's nice;60
+that's nice dear;60
+that's nice to know;50
 that's no joke;50
 that's no lie;60
 that's no moon;60
@@ -93913,8 +93981,12 @@ that's not how any of this works;60
 that's not how it works;60
 that's not how this works;60
 that's not my department;60
+that's not nice;60
 that's not right;60
 that's not so;50
+that's not the point;60
+that's not the vibe;50
+that's not true;60
 that's not what I heard;60
 that's not what I meant;60
 that's not what I'm saying;60
@@ -93939,10 +94011,15 @@ that's private;60
 that's quite a pickle;60
 that's quite a stretch;60
 that's rad;60
+that's ridiculous;60
+that's right I said it;60
 that's rough;60;"You're in a sucky situation"
 that's sad;60
 that's show biz, baby;60
 that's show business;60
+that's sick;60
+that's so cool;60
+that's so meta;60
 that's so not okay;60
 that's strange;60
 that's stretching it;60
@@ -93953,6 +94030,7 @@ that's the basic idea;60
 that's the basic idea anyways;60
 that's the eternal question;60
 that's the gist of it;60
+that's the idea;60
 that's the joke;60
 that's the neat part, you don't;60;Meme phrase
 that's the plan;60;"I'm aiming to!"
@@ -93961,6 +94039,9 @@ that's the thing;60
 that's the way it goes;60
 that's the way it is;60
 that's the way the cookie crumbles;60
+that's too bad;60
+that sucks;60
+that's unreal;60
 that's weird;60
 that's what I expected;60
 that's what I figured;60
@@ -93970,11 +94051,13 @@ that's what I'm sayin';60
 that's what I'm saying;60
 that's what I said;60
 that's what I suspected;60
+that's what I thought;60
 that's what I thought you'd say;60
 that's what I was afraid of;60
 that's what I was thinking;60
 that's what she said;60
 that's what you sound like;60
+that's what you think;60
 that's wild;60
 that's you;60
 that's you, not me;60
@@ -95423,6 +95506,7 @@ this is it;60
 this is Jeopardy;60
 this is just a test;60
 this is me you're talking to;60
+this is my jam;60
 this is my life now;60
 this is not a drill;60
 this is not a joke;60
@@ -102835,6 +102919,7 @@ well, sorta;60
 well, that answers that;60
 well, that just happened;60
 well, that's a fine how-do-you-do;60
+well that's just it;60
 well that's no excuse;60
 well that's not fair;60
 well that's not good;60
@@ -103325,6 +103410,10 @@ what's on your mind;60
 What's Opera Doc;60
 what's shakin', bacon?;60
 what's that;60
+what's that smell?;50
+what's that smell;0
+what's that sound?;50
+what's that sound;0
 what's that supposed to mean;60
 what's the game plan;60
 what's the good word;60
@@ -103404,6 +103493,11 @@ whelms;30
 when;50
 when does it end;60
 when do we eat;60
+when has that ever stopped me?;60
+when has that ever stopped you?;60
+when has that stopped me?;60
+when has that stopped you?;60
+when has that stopped you;0
 when in doubt, don't;60;Popular piece of advice
 when is enough enough?;60
 when is it?;50
