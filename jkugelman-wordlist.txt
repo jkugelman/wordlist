@@ -103616,8 +103616,10 @@ what the actual fuck;10
 what the frick;60
 what the fuck;10
 what the hey;60
+what was all that about?;60
 what was I thinking?;60
 what was I thinking;0
+what was that about?;60
 what was that for;60
 what was the question?;60
 what was your question?;60
@@ -103909,7 +103911,12 @@ Whorfian;40;Relating to Sapir-Whorf linguistic relativity
 Whorfianism;40;Linguistic relativity hypothesis
 who's a good boy;60
 who's a good girl;60
-who said that;60
+who said?;50
+who said;0
+who said life was fair?;60
+who said life was fair;0
+who said that?;60
+who said that;0
 WhoSampled;40;Music-sampling database site
 who's asking;60
 who says?;60
