@@ -92040,6 +92040,7 @@ takes to the grave;60
 takes to the hills;60
 takes two to tango;30
 takes under one's wing;60
+takes up arms;60
 takes wing;60
 takesy backsies;60
 takesy backsy;60
@@ -92060,6 +92061,7 @@ take to the grave;60
 take to the hills;60
 Takeuchi;40;Naoko Takeuchi, "Sailor Moon" creator / Mariya Takeuchi, city pop singer
 take under one's wing;60
+take up arms;60
 take wing;60
 take your cue from;20
 Taki;40
@@ -92133,6 +92135,7 @@ taking to;50
 taking to the grave;60
 taking to the hills;60
 taking under one's wing;60
+taking up arms;60
 taking wing;50
 Takis;40;Tortilla chips
 Taklamakan;50;Desert in western China
@@ -96777,6 +96780,7 @@ took to;50
 took to the grave;60
 took to the hills;60
 took under one's wing;60
+took up arms;60
 took wing;60
 too late;50
 too late now;60
