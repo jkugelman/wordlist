@@ -38483,8 +38483,8 @@ got fucked up;10
 got game;50
 Gotham;50;Batman's city
 Gothamist;40;New York City news site
-Gothamite;50;New Yorker
-Gothamites;50;New Yorkers
+Gothamite;60;New Yorker
+Gothamites;60;New Yorkers
 Gothard;20
 goth band;50
 goth bands;50
