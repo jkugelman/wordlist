@@ -6071,6 +6071,8 @@ Asbury Park, New Jersey;50
 Asbury Park New Jersey;0
 Asbury Park, NJ;40
 Asbury Park NJ;0
+as busy as a beaver;60
+as busy as a bee;60
 asc;20
 A scale;30
 A scales;30
@@ -14157,6 +14159,9 @@ busts one's butt;60
 busts one's chops;60
 busts up;50
 bust up;50
+busy as;20
+busy as a beaver;60
+busy as a bee;60
 busy bee;60
 busy bees;60
 busybodies;60
@@ -32295,6 +32300,8 @@ Ferrante;40;Elena Ferrante, pseudonymous Neapolitan novelist
 Ferrara;40;Italian city / Abel Ferrara, director
 Ferrari;50;Italian sports car marque
 Ferraris;40;Italian sports cars
+Ferrari Testarossa;60
+Ferrari Testarossas;60
 Ferraro;40;Geraldine Ferraro
 Ferreira;40;Sky Ferreira, singer / Barbie Ferreira, actress
 Ferrell;50;Will Ferrell, comedian
@@ -34338,6 +34345,7 @@ Frankenweenie;60
 Frankétienne;40;Haitian writer and painter
 Franketienne;0
 Frankfort;50;Kentucky's capital
+Frank Frazetta;40;Fantasy illustrator
 Frankfurt;50;German financial hub
 Frank Gehry;50
 Frankie;50;Common nickname: Frankie Valli / Frankie Avalon
@@ -52616,6 +52624,8 @@ late-stage capitalism;60
 late-stage capitalist;60
 late-stage capitalists;60
 latest and greatest;60
+late starter;50
+late starters;50
 latest fad;50
 latest fads;50
 late to;40
@@ -72586,6 +72596,8 @@ Polish jokes;10
 Polish sausage;60
 Polish sausages;60
 Politburo;50;Communist party's ruling committee
+polite stare;50
+polite stares;50
 political career;60
 political careers;60
 political discourse;60
@@ -77350,6 +77362,9 @@ remote control missile bomb;60;Acme invention
 remote control missile bombs;60;Acme invention
 remote controls;50
 remotes;50
+remote start;60
+remote starter;60
+remote starters;60
 removed from duty;50
 remove old finish;20
 Remsen;30;???
@@ -78375,8 +78390,8 @@ riddle me this, Batman;60
 Riddler;50;Batman foe in a question-mark suit
 Riddley;40;Riddley Walker, Russell Hoban's postapocalyptic narrator
 ride a broomstick;50
-ride-along;50
-ride-alongs;50
+ride-along;60
+ride-alongs;60
 ride at;20
 ride atop;40
 ride a train;40;Contrived
@@ -93520,8 +93535,8 @@ Tessie;40;Various
 Tessio;40;Sal Tessio, Abe Vigoda's character in "The Godfather"
 testaceous;30
 testae;20
-Testarossa;50;Ferrari sports car
-Testarossas;40;Ferrari sports cars
+Testarossa;60;Ferrari sports car
+Testarossas;60;Ferrari sports cars
 testator;30
 testators;30
 testatrix;30
@@ -106403,6 +106418,19 @@ Zestas;30
 zesty ranch;60
 Zeta Psi;40;Fraternity
 zetas;40
+zettahertz;40
+zettajoule;40
+zettajoules;40
+zettaliter;40
+zettaliters;40
+zettalitre;30
+zettalitres;30
+zettameter;40
+zettameters;40
+zettametre;30
+zettametres;30
+zettasecond;40
+zettaseconds;40
 Zetterling;40;Mai Zetterling, Swedish actress and director
 Zeus;50;King of the Greek gods
 Zeuxis;40;Ancient Greek painter whose grapes fooled the birds
