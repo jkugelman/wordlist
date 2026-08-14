@@ -12958,8 +12958,12 @@ breast implants;60
 breast milk;60
 breast of chicken;20
 breathability;60
+breathed new life into;60
 breathe easier;60
+breathe new life into;60
 breathe not a word;60
+breathes new life into;60
+breathing new life into;60
 breathing room;50
 breath mint;50
 breath mints;50
@@ -44508,6 +44512,7 @@ I came, I saw, I conquered;60
 I came I saw I conquered;0
 I can;50
 I Can Add;30;They Might Be Giants song for kids
+I can breathe again;60
 I can do it;60
 I can do this all day;60
 I can feel it;60
@@ -74697,6 +74702,10 @@ put down to youth;60
 put down your pens;60
 Puth;40;Charlie Puth, pop singer
 put in a good word for;50
+put into;40
+put into action;50
+put into effect;50
+put into place;50
 put it all behind you;60
 put it all on the line;60
 put it back;50
@@ -74739,6 +74748,10 @@ puts down in writing;50
 puts down on paper;50
 puts in;40
 puts in a good word for;50
+puts into;40
+puts into action;50
+puts into effect;50
+puts into place;50
 puts it all on the line;60
 puts it on the line;60
 puts lipstick on a pig;60
@@ -74776,6 +74789,10 @@ putting down in words;50
 putting down in writing;50
 putting down on paper;50
 putting in a good word for;50
+putting into;40
+putting into action;50
+putting into effect;50
+putting into place;50
 putting it all on the line;60
 putting it mildly;60
 putting it on the line;60
