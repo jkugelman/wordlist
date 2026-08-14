@@ -30333,6 +30333,7 @@ Etymonline;40;Online Etymology Dictionary
 E-Type;40;Classic Jaguar roadster
 E-Type Jaguar;20
 E-Types;40;Classic Jaguar roadsters
+EU;50
 Eubanks;40;Bob Eubanks, "The Newlywed Game" host / Kevin Eubanks, bandleader
 Eubie;40;Jazz pianist Eubie Blake
 Eubie Blake;50;American jazz pianist (1887–1983)
@@ -91900,6 +91901,7 @@ take a penny leave a penny;0
 take a photo;50
 take a pic;50
 take a powder;60
+take as gospel;60
 take a shine to;60
 take a shot at;40
 take a shower;50
@@ -91917,6 +91919,12 @@ take credit for;40
 take decisive action;60
 take five;60
 take flak;50
+take for;40
+take for a fool;60
+take for a ride;60
+take for a spin;60
+take for gospel;60
+take for granted;60
 take from;40
 take heat from;50
 take him away boys;60
@@ -91939,9 +91947,16 @@ taken a dislike to;50
 taken a dive;60
 taken after;50
 taken a hike;60
+taken as gospel;60
 taken a step back from;40
 taken away from;40
 taken by storm;60
+taken for;40
+taken for a fool;60
+taken for a ride;60
+taken for a spin;60
+taken for gospel;60
+taken for granted;60
 taken from;40
 taken heat from;50
 taken in vain;50
@@ -91994,6 +92009,7 @@ takes a nip;30
 takes a photo;50
 takes a pic;50
 takes a powder;60
+takes as gospel;60
 takes a shine to;60
 takes a shot at;40
 takes a shower;50
@@ -92007,6 +92023,12 @@ takes credit for;40
 takes decisive action;60
 takes five;60
 takes flak;50
+takes for;40
+takes for a fool;60
+takes for a ride;60
+takes for a spin;60
+takes for gospel;60
+takes for granted;60
 takes from;40
 take shape;60
 takes heat from;50
@@ -92099,6 +92121,7 @@ taking a nip;30
 taking a photo;50
 taking a pic;50
 taking a powder;60
+taking as gospel;60
 taking a shine to;50
 taking a shot at;40
 taking a siesta;50
@@ -92112,6 +92135,12 @@ taking credit for;40
 taking decisive action;60
 taking five;60
 taking flak;50
+taking for;40
+taking for a fool;60
+taking for a ride;60
+taking for a spin;60
+taking for gospel;60
+taking for granted;60
 taking from;40
 taking heat from;50
 taking in vain;50
@@ -96742,6 +96771,7 @@ took a nip;30
 took a photo;50
 took a pic;50
 took a powder;60
+took as gospel;60
 took a shine to;60
 took a shot at;40
 took a shower;50
@@ -96755,6 +96785,12 @@ took credit for;40
 took decisive action;60
 took five;60
 took flak;50
+took for;40
+took for a fool;60
+took for a ride;60
+took for a spin;60
+took for gospel;60
+took for granted;60
 took from;40
 took heat from;50
 took in;40
