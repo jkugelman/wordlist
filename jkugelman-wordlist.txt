@@ -4844,6 +4844,9 @@ apelets;20
 AP English;50
 Apennine;40;Italian mountain range
 Apennines;40;???
+a penny;20
+a penny for your thoughts;60
+a penny saved;60
 a penny saved is a penny earned;60
 aper;40
 aperçu;50;Clever summation
@@ -32630,6 +32633,8 @@ financials;50
 financial sector;50
 Fincher;40;David Fincher, "Zodiac" director
 find a home;50
+find a penny and pick it up;50
+find a penny, pick it up;50
 finder's fee;60
 finder's fees;60
 find God;60
@@ -46210,6 +46215,7 @@ infolds;20
 infomania;50
 in for;40
 in for a penny;60
+in for a penny in for a pound;60
 in force;50
 in for it now;60
 informal talk;50
@@ -47157,6 +47163,7 @@ is anybody home;0
 is anyone home?;60
 is anyone home;0
 Isao;40;Isao Aoki, golfer / Isao Takahata, anime director
+is a penny earned;20
 is apt to;40
 Isar;30;River through Munich
 is at one's leisure;20
@@ -53123,6 +53130,7 @@ leave a comment;60
 leave a comment down below;60
 leave a mark;60
 leave a message after the beep;60
+leave a penny;50
 leave go;20
 leave in;40
 leave me;50
@@ -64926,6 +64934,7 @@ Not Another Teen Movie;60
 not any;30
 not anymore;60
 not a peep;60
+not a penny;20
 not a prob;60
 no tar;40;Cigarette claim
 notarial;30;???
@@ -64999,6 +65008,7 @@ no thanks;60
 no thanks to;40
 not hard;30
 no that's okay;60
+not have a penny;20
 not having it;60
 not here;50;"Let's discuss this later"
 nothing beats new Hellmann's Dijonnaise;60
@@ -87686,6 +87696,7 @@ Spanish lit;50
 Spanky;40
 Spanx;50
 spare a dime;50
+spare a penny;20
 spared the rod;60
 spare key;50
 spare keys;50
@@ -87906,16 +87917,20 @@ Spelman;40;Atlanta HBCU for women
 Spence;40;Various people
 Spencer;50;Diana Spencer, Princess of Wales / Spencer Tracy, actor
 spences;20;Pantries, archaic
+spend a penny;10;Urinate
+spending a penny;10;Urinating
 spending freeze;60
 spending freezes;60
 spending limit;60
 spending limits;60
+spends a penny;10;Urinates
 spendthrift;60
 spendthrifts;60
 spendy;50;Extravagant
 Spengler;50;Egon Spengler of "Ghostbusters" / Oswald Spengler, historian
 Spenser;40;One-named fictional detective
 Spenserian;50;Of Edmund Spenser's stanza form
+spent a penny;10;Urinated
 spermaceti;40;Waxy substance from a sperm whale
 sperm donation;60
 sperm donations;60
@@ -91855,6 +91870,9 @@ take a look;50
 take a memo;40
 take a nip;30
 take an L;60
+take a penny;50
+take a penny, leave a penny;60
+take a penny leave a penny;0
 take a photo;50
 take a pic;50
 take a powder;60
