@@ -10596,6 +10596,7 @@ Big Thunder Mountain Railroad;60;Roller coaster at multiple Disney parks
 big time;60
 big to-do;60
 big to-dos;50
+big unit;50
 big ups;60
 Big West;50
 big win;60
@@ -10986,6 +10987,7 @@ biz;50
 Bizaardvark;40;Disney Channel sitcom
 Bizet;50;Georges Bizet, composer of "Carmen"
 Bizkit;50
+bizonal;40
 biz school;50
 biz schools;50
 Biz Stone;50;Co-founder of Twitter Biz Stone
@@ -15981,6 +15983,7 @@ Casta diva;40;Bellini aria
 Castaneda;40;Carlos Castaneda, "The Teachings of Don Juan" author
 cast a shadow over;60
 cast a spell on;60
+cast a wide net;60
 casted a shadow over;60
 casted a spell on;60
 Castel;40;Castel Sant'Angelo, Roman fortress
@@ -16002,6 +16005,7 @@ casting a dark shadow on;60
 casting a dark shadow over;60
 casting a shadow over;60
 casting a spell on;60
+casting a wide net;60
 cast-iron pot;50
 cast-iron pots;50
 cast-iron skillet;50
@@ -16025,6 +16029,7 @@ casts a dark shadow on;60
 casts a dark shadow over;60
 casts a shadow over;60
 casts a spell on;60
+casts a wide net;60
 casts lots;50
 casts on;30
 cast your mind back;60
@@ -24537,8 +24542,10 @@ D-III;20
 DIIV;30;Rock band
 Dijkstra;40;Edsger Dijkstra, shortest-path algorithm namesake
 Dijon;50;French city known for mustard
+DiJonai;40;DiJonai Carrington, WNBA player
+DiJonai Carrington;40;WNBA player
 Dijon mustard;50
-Dijonnaise;50
+Dijonnaise;60
 Dik;20;Cartoonist Browne
 dike;50
 diked;40
@@ -41807,7 +41814,7 @@ he'll live;60
 Hellman;40;Lillian Hellman, "The Little Foxes" playwright
 Hellmann;40;Hellmann's mayonnaise
 Hellmann's;50;Mayonnaise brand
-Hellmann's Dijonnaise;50
+Hellmann's Dijonnaise;60
 Hellmuth;40;Phil Hellmuth, poker champion
 hell no;60
 hello;50
@@ -43209,7 +43216,8 @@ honeydew;60
 honeydew melon;60
 honeydew melons;60
 honeydews;60
-honey Dijon;50
+honey Dijon;60
+honey Dijon mustard;60
 honey-do;60
 honey-do list;60
 honey-do lists;60
@@ -54036,6 +54044,7 @@ liefer;20
 lie flat;50
 lie for;40
 lie-in;40
+lie in it;50
 lie-ins;40
 lie like a cheap rug;60
 lie like a rug;60
@@ -60454,7 +60463,7 @@ misgauges;50
 Misha;40;Nickname for Mikhail Baryshnikov
 Mishawaka;40;Indiana city near South Bend
 Mishima;40;Japanese author and poet Yukio Mishima
-Mishnah;50;Core text of the Talmud
+Mishnah;40;Core text of the Talmud
 Misirlou;50;Dick Dale surf tune from "Pulp Fiction"
 Miskito;40;Indigenous people of Nicaragua's coast
 misleader;40
@@ -62550,6 +62559,8 @@ nagged at;40
 nagging at;40
 Nagila;40
 Nagisa;40;Nagisa Oshima, Japanese film director
+Nagisa Ōshima;40;Japanese filmmaker (1932–2013)
+Nagisa Oshima;0
 Nagle;40;Angela Nagle, author of "Kill All Normies"
 Nagoya;40;Japanese city
 Nagpur;40;City in central India
@@ -64918,7 +64929,7 @@ not hard;30
 no that's okay;60
 not having it;60
 not here;50;"Let's discuss this later"
-nothing beats new Hellmann's Dijonnaise;50
+nothing beats new Hellmann's Dijonnaise;60
 nothing but net;60
 nothing but the truth;60
 nothing but trouble;60
@@ -84884,6 +84895,8 @@ silent D;40
 silent D's;40
 silent E;40
 silent E's;40
+silent F;40
+silent F's;40
 silent G;40
 Silent Generation;60
 silent G's;40
@@ -84891,6 +84904,8 @@ silent H;40
 silent H's;40
 silent I;40
 silent I's;40
+silent J;40
+silent J's;40
 silent K;40
 silent K's;40
 silent L;40
@@ -84905,11 +84920,14 @@ silent O;40
 silent O's;40
 silent P;40
 silent P's;40
+silent Q;40
+silent Q's;40
 silent R;40
 silent R's;40
 silents;50;Silent films
 silent S;40
 Silent Spring;60;1962 book by Rachel Carson about pesticides harming the environment
+silent S's;40
 silent T;40
 silent treatment;60
 silent T's;40
@@ -84918,11 +84936,13 @@ silent U's;40
 silent V;40;Impossible
 silent vowel;50
 silent vowels;50
-silent Vs;40;Impossible
+silent V's;40;Impossible
 silent W;40
 silent W's;40
 silent X;40
 silent X's;40
+silent Y;40
+silent Z;40
 Silenus;40;Dionysus's satyr tutor
 Silesia;30;Polish regian
 Silesian;30
@@ -96042,6 +96062,8 @@ titaness;30
 Titania;40;Uranus's largest moon, or Shakespeare's queen of the fairies
 Titanian;50
 Titanians;50;Comic book aliens from Saturn's moon Titan
+Titanic;60
+titanic;50
 titanium rod;50
 titanium rods;50
 Titanoboa;50;Giant prehistoric snake
@@ -100872,6 +100894,7 @@ Vienna;50;Austrian capital
 Viennale;40;Vienna's international film festival
 Viennese;50;Of Vienna
 Vientiane;40;Capital of Laos
+viernes;40
 vies for;40
 Viet;40
 Vietnam;50;Southeast Asian country
@@ -103484,6 +103507,11 @@ wide array;50
 wide berth;60
 widely accepted;50
 widely used;50
+widened out;40
+wide net;50
+widening out;40
+widen out;40
+widens out;40
 wides;40
 wide selection;50
 widgeon;20;Type of duck
