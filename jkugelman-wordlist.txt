@@ -1704,7 +1704,8 @@ AFC West;40
 afeared;30
 A Feast for Crows;60;A Song of Ice and Fire book #4
 a feather in one's cap;60
-Afeni;40;Afeni Shakur, Black Panther activist and Tupac's mother
+Afeni;30;Afeni Shakur, Black Panther activist and Tupac's mother
+Afeni Shakur;40;Black Panther activist and Tupac's mother
 a few choice words;60
 a few words;50
 affair of the heart;60;Phrase, or Rick Springfield song
@@ -9686,6 +9687,8 @@ beer pong table;60
 beer pong tables;60
 beer rep;50
 beer reps;50
+beer run;60
+beer runs;60
 beers;50
 Beersheba;50
 beer snob;60
@@ -14898,6 +14901,8 @@ camera tripod;50
 camera tripods;50
 came right out and said it;60
 came right out with it;60
+camerlengo;40;Italian title of medieval origin
+camerlengos;40;Italian titles of medieval origin
 Cameron;50;Common given name and surname
 Cameroon;50;West African country
 Cameroonian;50;African nationality
@@ -42523,7 +42528,9 @@ hijas;30;Daughters, in Spanish / Arabic poetry
 hijinks ensue;60
 hijklmnop;20
 hijo;40
+hijra;20
 Hijrah;40;Muhammad's migration to Medina, start of the Islamic calendar
+hijras;20
 Hijuelos;40;Oscar Hijuelos, Pulitzer-winning novelist
 Hikaru;40;Hikaru Sulu, "Star Trek" helmsman / Hikaru Nakamura, chess grandmaster
 Hikaru Utada;50;Japanese pop singer and producer (born 1983)
