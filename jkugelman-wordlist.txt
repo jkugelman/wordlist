@@ -78684,7 +78684,7 @@ Rioja;40
 Riojas;40;Spanish red wines
 Rio Muni;30;Region of Equatorial Guinea
 Rioplatense;40;Spanish dialect of the River Plate
-Riordan;50;Rick Riordan, "Percy Jackson" author
+Riordan;40;Rick Riordan, "Percy Jackson" author
 Rio Rita;30;Abbott and Costello movie
 rios;40
 Rios;40;Kia compacts
@@ -87765,6 +87765,8 @@ Spartacism;40;German revolutionary socialist movement
 Spartacist;40;German revolutionary of 1919
 Spartacists;40;German revolutionary socialists of Rosa Luxemburg
 Spartacus;50;Rebel gladiator of "I am Spartacus"
+spartan;50
+Spartan;50
 Spartanburg;40;South Carolina city
 Spartan race;60
 Spartan races;60
