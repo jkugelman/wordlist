@@ -1280,6 +1280,7 @@ Adderley;40;Cannonball Adderley, jazz saxophonist
 adder's fork;60;Witches' brew ingredient in Macbeth
 add fuel;30;Green painty
 add fuel to the fire;60
+addicted to;40
 addies;40;Addresses, slangily [never used]
 add in;50
 adding fuel to the fire;60
@@ -2695,6 +2696,8 @@ alerted to;40
 alerter;40
 alerters;40
 alertest;30
+alerting to;40
+alerts to;40
 alert to;40
 ales;50
 Alessandra;40;Alessandra Ambrosio, Brazilian supermodel
@@ -4007,6 +4010,8 @@ ancho pepper;50
 ancho peppers;50
 ancho powder;50
 Anchorage, AK;40
+anchored to;40
+anchoring to;40
 anchorite;30;Religious hermit
 anchorites;30
 anchoritic;30
@@ -4014,6 +4019,8 @@ anchor leg;50
 anchor legs;50
 anchorman;50
 anchormen;50
+anchors to;40
+anchor to;40
 anchusa;30;Flower genus
 Ancien;40;Ancien Régime, pre-revolutionary France
 ancient man;50
@@ -5180,6 +5187,7 @@ Aquarian;40
 Aquarians;40;Zodiac water bearers
 Aquarius;50;Water bearer of the zodiac
 Aquariuses;40;January-February babies
+a quarter to;40
 aquas;40
 Aqua Teen;50
 Aqua Teen Hunger Force;60
@@ -6952,6 +6960,10 @@ atts;30
 Attu;30;Westernmost Aleutian island
 Attucks;50;Crispus Attucks, first to die in the Boston Massacre
 Attu Island;40;Westernmost Aleutian island
+attuned to;40
+attunes to;40
+attune to;40
+attuning to;40
 ATTY;40
 atty gen;30
 ATTYS;30
@@ -7509,6 +7521,8 @@ azur;40
 azure blue;30
 azured;20
 Azusa;40;California city, and the street of the Pentecostal revival
+Azusa, California;40
+Azusa California;0
 Azz;40;"Back That Azz Up," Juvenile hit
 Azzedine;40;Azzedine Alaïa, fashion designer
 Azzi;30;Azzi Fudd, WNBA player for the Dallas Wings
@@ -7812,7 +7826,7 @@ bad dates;60
 Baddiewinkle;50;Baddie Winkle, elderly Instagram star
 bad dog;50
 bade adieu;60
-bade adieu to;60
+bade adieu to;40
 bad egg;60
 bad eggs;60
 BA degree;40
@@ -10464,11 +10478,11 @@ bicycle race;50
 bicycle races;50
 bid;50
 bid adieu;60
-bid adieu to;60
+bid adieu to;40
 bid day;50;Final part of a sorority or fraternity recruitment period when potential new members receive invitations to join
 bid days;50
 bidding adieu;60
-bidding adieu to;60
+bidding adieu to;40
 bidding contest;50
 bidding contests;50
 bidding for;40
@@ -10482,7 +10496,7 @@ bid for;40
 Bidi;40;"Bidi Bidi Bom Bom", Selena hit / Indian cigarette
 bid on;40
 bids adieu;60
-bids adieu to;60
+bids adieu to;40
 bids for;40
 bid sniper;60
 bid snipers;60
@@ -14665,7 +14679,7 @@ called light;60;Called with a weak hand in poker
 called nine one one;50
 called on;40
 called one's bluff;60
-called out to;50
+called out to;40
 called the shots;60
 called to;40
 called up;40
@@ -14696,7 +14710,7 @@ calling light;60;Calling with a weak hand in poker
 calling nine one one;50
 calling on;40
 calling one's bluff;60
-calling out to;50
+calling out to;40
 calling station;60
 calling stations;60
 calling the shots;60
@@ -14733,7 +14747,7 @@ Call of Duty: Black Ops;60
 Call of Duty: Modern Warfare;60
 call on;40
 call one's bluff;60
-call out to;50
+call out to;40
 Calloway;50;Cab Calloway, "Minnie the Moocher" bandleader
 calls all the shots;60
 calls a truce;60
@@ -14752,6 +14766,7 @@ calls light;60;Calls with a weak hand in poker
 calls nine one one;50
 calls on;40
 calls one's bluff;60
+calls out to;40
 calls the shots;60
 calls to;40
 calls to arms;50
@@ -18586,6 +18601,10 @@ clear the board;60;Start over, or win everything
 clear the room;60
 Clearwater;50;Creedence Clearwater Revival, or the Florida city
 Cleary;40;Beverly Cleary, "Ramona" author
+cleaved to;40
+cleaves to;40
+cleave to;40
+cleaving to;40
 Cleavon;40;"Blazing Saddles" actor Cleavon Little
 Cleef;40;Lee Van Cleef, spaghetti Western actor
 Cleese;50;John Cleese, Monty Python member
@@ -19938,8 +19957,16 @@ conference centres;20
 Confessions of a Teenage Drama Queen;20;2004 Lindsay Lohan teen musical
 confider;40
 confiders;40
+confined to;40
+confines to;40
+confine to;40
+confining to;40
 confirm humanity;60;reCAPTCHA title
+conformed to;40
 conformingrebel;0
+conforming to;40
+conforms to;40
+conform to;40
 Confucian;50
 Confucianism;50;Chinese philosophical tradition
 Confucians;50;Followers of the Chinese sage
@@ -22030,6 +22057,7 @@ cuts no ice;40
 cuts one's losses;60
 cuts one's teeth on;60
 cuts school;50
+cuts to;40
 cuts to the bone;60
 cuts to the quick;60
 cut the chitchat;60
@@ -22049,8 +22077,10 @@ cutting no ice;30
 cutting one's losses;60
 cutting one's teeth on;60
 cutting school;50
+cutting to;40
 cutting to the bone;60
 cutting to the quick;60
+cut to;40
 cut to the bone;60
 cut to the quick;60
 Cutty;40;Cutty Sark
@@ -25484,6 +25514,8 @@ do I ever;50
 do I gotta?;60
 do I have a choice;60
 do I have any choice;60
+do I have to?;60
+do I have to;0
 do I look stupid?;10
 Doinel;40;Antoine Doinel, Truffaut's recurring hero
 doing a backflip;50
@@ -26164,6 +26196,8 @@ D'Oyly;40;Richard D'Oyly Carte, Gilbert and Sullivan impresario
 do you dare me?;60
 do you even lift bro;60
 do you get that a lot?;60
+do you have to?;60
+do you have to;0
 do you hear me?;50
 do you hear me;0
 do you hear that?;60
@@ -26190,6 +26224,8 @@ do you see what I see;0
 do you think I'm playing?;60
 do you think it's a game?;60
 do you think this is a game?;60
+do you want to?;50
+do you want to;0
 Doz;20
 dozer;50
 dozers;50
@@ -33372,7 +33408,11 @@ Flobots;40;"Handlebars" rap-rock band
 Flocka;40;Waka Flocka Flame, rapper
 Flock camera;60;Common street surveillance camera
 Flock cameras;60;Common street surveillance cameras
+flocked to;40
 Flockhart;40;Calista Flockhart, "Ally McBeal" star
+flocking to;40
+flocks to;40
+flock to;40
 Flodden;40;1513 battle where Scotland's James IV died
 flog a dead horse;60
 flogged a dead horse;60
@@ -35825,6 +35865,7 @@ gave me the nod;20
 gave one's best;60
 gave the brush-off;60
 gave the green light;60
+gave the lie to;40
 gave the runaround;60
 gave the silent treatment;60
 gave the stink eye;60
@@ -37145,6 +37186,7 @@ gives it to;40
 gives one's best;60
 gives the brush-off;60
 gives the green light;60
+gives the lie to;40
 gives the runaround;60
 gives the silent treatment;60
 gives the stink eye;60
@@ -37153,6 +37195,7 @@ gives way to;40
 gives zero fucks;10
 give the brush-off;60
 give the green light;60
+give the lie to;40
 give the runaround;60
 give the silent treatment;60
 give the stink eye;60
@@ -37176,6 +37219,7 @@ giving it to;40
 giving one's best;60
 giving the brush-off;60
 giving the green light;60
+giving the lie to;40
 giving the runaround;60
 giving the silent treatment;60
 giving the stink eye;60
@@ -40454,6 +40498,7 @@ hand down;50
 hand dryer;50
 hand dryers;50
 handed down;50
+handed it to;40
 handed over to;40
 handed to;40
 Handel;50;George Frideric Handel, "Messiah" composer
@@ -40465,9 +40510,10 @@ hand grenade;50
 hand grenades;50
 hand heart;60;🫶
 handing down;50
+handing it to;40
 handing over to;40
 handing to;40
-hand it to;30
+hand it to;40
 Handke;40;Peter Handke, Nobel-winning Austrian writer
 handlebar mustache;50
 handlebar mustaches;50
@@ -40486,6 +40532,7 @@ hand pass;50
 hand puppet;60
 hand puppets;60
 hands down;50
+hands it to;40
 hand soap;50
 handsomer;30
 handsomest;30
@@ -43371,6 +43418,7 @@ hopped into;40
 hopped on;40
 hopped on board;50
 hopped onto;40
+hopped to;40
 hopped up on goofballs;60
 hopper popper;60;Rubber children's toy
 hopper poppers;60;Rubber children's toys
@@ -43383,6 +43431,7 @@ hopping mad;60
 hopping on;40
 hopping on board;50
 hopping onto;40
+hopping to;40
 Hopps;40;Judy Hopps, "Zootopia" bunny cop
 Hoppus;40;Mark Hoppus, Blink-182 bassist
 hops a cab;50
@@ -43396,8 +43445,8 @@ hop, skip, and a jump;60
 hops on;40
 hops on board;50
 hops onto;40
-hops to;30
-hop to;50
+hops to;40
+hop to;40
 hop to it;60
 hor;20
 hora;40
@@ -45662,6 +45711,10 @@ impulse purchase;60
 impulse purchases;60
 I'm pumped;60
 impureumpire;0
+imputed to;40
+imputes to;40
+impute to;40
+imputing to;40
 Imran;40;Imran Khan, Pakistani PM 2018-2022
 Imre;40;Imre Nagy, Hungarian PM / Imre Kertesz, Nobel novelist
 I'm rich;60
@@ -49030,6 +49083,7 @@ John Millington Synge;40;Irish writer and collector of folklore (1871–1909)
 John Muir;50
 John Nash;60
 Johnnie;40;Johnnie Walker, Scotch brand / Johnnie Cochran, lawyer
+Johnnie To;40
 Johnny;50;Common first name
 johnnycake;50
 johnnycakes;50
@@ -50226,8 +50280,8 @@ Kelly Clarkson;60
 Kellyoke;40;Kelly Clarkson's cover song segment
 Kelly Slater;50
 Kelowna;40;British Columbia city
-kelp forest;50
-kelp forests;50
+kelp forest;60;Underwater area highly dense with kelp
+kelp forests;60;Underwater areas highly dense with kelp
 kelpie;20
 Kelsey;40;Kelsey Grammer, "Frasier" star
 Kelso;40
@@ -51958,7 +52012,7 @@ laid on the line;60
 laid siege;50
 laid siege to;50
 laid to;20;Docked
-laid to rest;50
+laid to rest;60
 Laika;30;Soviet space dog
 Laila;40;Laili Ali
 lain dormant;50
@@ -52527,6 +52581,7 @@ late editions;50
 Lateef;40;Hip hop artist
 lateen;30;Triangular sail
 lateens;30;Triangular sails
+late for;40
 late great;60
 late in life;50
 laten;50
@@ -52789,7 +52844,7 @@ laying on the line;60
 laying siege;50
 laying siege to;50
 laying to;20
-laying to rest;50
+laying to rest;60
 lay into;40
 lay it all on the line;60
 lay it on;40;Flatter
@@ -52825,10 +52880,10 @@ lays on the line;60
 lays siege;50
 lays siege to;50
 lays to;20
-lays to rest;50
+lays to rest;60
 lay to;20;Dock
 Layton;40;Professor Layton, puzzle game sleuth / Jack Layton, Canadian NDP leader
-lay to rest;50
+lay to rest;60
 laz;20
 Lazar;20;Leper
 lazaret;30;Quarantine station
@@ -57942,6 +57997,7 @@ marriage licenses;60
 marriage penalty;60
 married into;40
 marrieds;30
+married to;40
 married with children;60
 marries into;40
 Marriott;50;Hotel chain
@@ -62938,6 +62994,7 @@ National Gallery;50
 national holiday;50
 national treasure;60
 nativeameri;0
+native to;40
 NATO;40
 NATO state;50
 NATO states;50
@@ -64939,6 +64996,7 @@ not great, not bad;40;???
 not guilty;50
 Noth;40;Chris Noth
 no thanks;60
+no thanks to;40
 not hard;30
 no that's okay;60
 not having it;60
@@ -70162,6 +70220,7 @@ Pegasuses;50;Winged horses
 Pegg;40
 pegged out;30
 pegging out;30
+pegging to;40
 Peggy;50;Common first name: Peggy Carter, Peggy Guggenheim
 Peggy's;30;Peggy's Cove, Nova Scotia lighthouse village
 peg leg;60
@@ -71744,6 +71803,7 @@ place side by side;50
 places please;60
 places side by side;50
 place to go;20
+place to rest one's head;60
 Placido;40;Plácido Domingo, opera tenor
 placing side by side;50
 placket;30
@@ -74618,6 +74678,7 @@ put on your Sunday clothes;50
 put out of one's misery;60
 putouts;30
 put out to pasture;60
+put paid to;40
 put-put;20
 puts a brave face on;60
 puts a curse on;50
@@ -74643,10 +74704,12 @@ puts one's mind to;50
 puts on ice;60
 puts on the line;60
 puts out of one's misery;60
+puts paid to;40
 puts the finger on;60
 puts the finisher on;60
 puts the pedal to the metal;60
 puts the pieces together;60
+puts to;40
 puts under;50
 puttee;30;Legwrap
 puttees;30
@@ -74678,9 +74741,12 @@ putting one's mind to;50
 putting on ice;60
 putting on the line;60
 putting out of one's misery;60
+putting paid to;40
 putting the finisher on;60
 putting the pedal to the metal;60
 putting the pieces together;60
+putting to;40
+put to;40
 putt-putt;60
 putt-putted;60
 putt-putting;60
@@ -74884,6 +74950,7 @@ quartan;30;Form of malaria
 quarte;40;Fencing position
 quarterback;60
 quarterbacks;60
+quarter to;40
 quarter tone clarinet;50;Experimental clarinet designed to play music using quarter tone intervals
 quarter tone clarinets;50;Experimental clarinets designed to play music using quarter tone intervals
 quarto;40
@@ -77616,6 +77683,7 @@ resifted;20
 resifting;20
 resifts;20
 resigned in protest;50
+resigned to;40
 resigner;30
 resigners;30
 resigning in protest;50
@@ -90467,6 +90535,10 @@ succession crises;60
 succession crisis;60
 succorer;30
 succour;30;???
+succumbed to;40
+succumbing to;40
+succumbs to;40
+succumb to;40
 Suchet;40;Actor David Suchet, Poirot portrayer
 such sweet sorrow;60
 sucka;40
@@ -90988,6 +91060,10 @@ surprise witness;60
 surprise witnesses;60
 surrejoinder;30;???
 surrejoinders;30;???
+surrendered to;40
+surrendering to;40
+surrenders to;40
+surrender to;40
 surrey;40
 surrogate mother;60
 surrogate mothers;60
@@ -94638,7 +94714,7 @@ the queen of hearts;40
 The Queen of Spades;40
 the Queen's English;60
 the quicker picker upper;60
-Thera;40;Ancient name for Santorini
+Thera;30;Ancient name for Santorini
 The Rachel;60
 Theraflu;50;Cold and flu remedy
 the Raiders;40
@@ -95026,6 +95102,7 @@ the Yanks;40;???
 the Yard;50
 they can only blame themselves;60
 they'd eat you alive;60
+they don't make 'em like they used to;60
 the year;20
 the Year Without a Summer;60;1816, when a volcanic eruption created a volcanic winter
 they get it;60
@@ -95059,7 +95136,7 @@ they're not buying it;60
 they're not here right now;60
 they're off;50
 theysee;0
-they sure don't make 'em like they used to;50
+they sure don't make 'em like they used to;60
 they've got it made;60
 they will eat her alive;60
 they will eat him alive;60
@@ -95233,6 +95310,7 @@ this is huge;60
 this is it;60
 this is Jeopardy;60
 this is just a test;60
+this is me you're talking to;60
 this is my life now;60
 this is not a drill;60
 this is not a joke;60
@@ -99668,6 +99746,7 @@ untwisting;50
 untwists;50
 U Nu;20;Burmese leader
 unum;40
+unused to;40
 Unus pro omnibus, omnes pro uno;60;"One for all, all for one" (unofficial motto of Switzerland)
 Unwerth;40;Ellen von Unwerth, fashion photographer
 unwiser;30
@@ -101632,12 +101711,15 @@ wakens;30
 Waker;40;"The Legend of Zelda: The Wind Waker"
 wakers;40
 wakes the dead;60
+wakes up to;40
 wake the dead;60
 wake-up call;60
 wake-up calls;60
 Wake Up Little Susie;60
 wake up sheeple;60
+wake up to;40
 waking the dead;60
+waking up to;40
 Wakko;40;"Animaniacs" middle sibling
 wal;20
 Walbrook;40;Anton Walbrook, "The Red Shoes" actor
@@ -101663,6 +101745,7 @@ walked and talked;60
 walked on thin ice;60
 walked out on;50
 walked to;40
+walked up to;40
 walked with purpose;60
 Walken;50;Christopher Walken, actor
 walk-in bath;60
@@ -101679,6 +101762,7 @@ walking simulators;60;Adventure games that consist primarily of movement and env
 walking to;40
 walking trail;50
 walking trails;50
+walking up to;40
 walking with purpose;60
 Walkman;50;Sony portable cassette player
 Walkmans;40;Sony's portable cassette players
@@ -101690,8 +101774,10 @@ walks and talks;50
 walks on thin ice;60
 walks out on;50
 walks to;40
+walks up to;40
 walks with purpose;60
 walk to;40
+walk up to;40
 Walkure;40;"Die Walküre", second opera of Wagner's Ring
 walk with purpose;60
 Walla;40
@@ -103207,6 +103293,8 @@ when you get a chance;50
 where;50
 where are my keys?;60
 where are my keys;0
+where are you off to?;60
+where are you off to;0
 where did I park;60
 where did we park?;60
 where did you park?;60
@@ -103230,6 +103318,8 @@ where's the line?;60
 where's this going;60;"Alright, cut to the chase"
 where there's a will there's a way;60
 where the rubber meets the road;60
+where to?;50
+where to;0
 where you at;60
 wherries;30
 wherry;30;Small British boat
@@ -103364,6 +103454,8 @@ who am I to say no?;50
 whoa, Nellie;60
 whoa Nelly;60
 whoa whoa;60
+who can I talk to?;50
+who can I talk to;0
 who can say;60
 who did what now?;60
 who died and left you in charge;60
@@ -104186,6 +104278,7 @@ Wojtek;40;Polish army's WWII soldier bear
 Wojtyla;40;Karol Wojtyła, birth name of Pope John Paul II
 wok;50
 woke the dead;60
+woke up to;40
 Wole;40;Wole Soyinka, Nigerian Nobel laureate
 Wolfcastle;50;Rainier Wolfcastle, "Simpsons" action star
 wolf cub;50
@@ -105704,6 +105797,7 @@ you know what I mean;60
 you know what I'm saying;60
 you know who you are;60
 you know you like it;60
+you know you want to;60
 you live like this?;60
 you live like this;0
 you'll be fine;60
