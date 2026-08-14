@@ -18655,6 +18655,7 @@ clerkly;20
 Clermont;40;French city, site of the Crusade-launching council
 Clervaux;30;Small Luxembourg town
 Cletus;50;Simpsons' slack-jawed yokel
+Cletus the slack-jawed yokel;60;"The Simpsons" character
 C-level;50;C-suite
 Cleveland;50;Ohio city, or Grover Cleveland
 Clevelander;40;Ohio city resident
@@ -85851,6 +85852,7 @@ Skyy Vodka;50
 SLA;20
 slackage;40
 slacker mentality;60
+slack-jawed;60
 Slade;40;British glam rock band ("Cum On Feel the Noize")
 slag heap;50
 slag heaps;50
