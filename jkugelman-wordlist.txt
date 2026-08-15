@@ -1994,6 +1994,7 @@ agita;50
 agleam;40
 aglet;50
 aglets;50
+agley;30;Wrong, askew
 aglimmer;40
 agn;20
 agnate;20
@@ -3026,6 +3027,9 @@ all manner;50
 all manner of;50
 all manners;50
 all manners of;50
+all me;40
+all men;30
+all men are;20
 AllMusic;40;Music database site
 All My Ex's Live in Texas;60
 allness;30
@@ -5043,6 +5047,8 @@ apple cider vinegars;60
 apple cinnamon;60
 apple cobbler;60
 apple cobblers;60
+apple coffee cake;50
+apple coffee cakes;50
 Apple computer;60
 Apple computers;60
 apple crate;60
@@ -19249,6 +19255,10 @@ Coetzee;40;J.M. Coetzee, Nobel-winning novelist
 cofactor;50
 cofactors;50
 coffee badging;60
+coffee cake;60
+coffee cakes;60
+coffee can;50
+coffee cans;50
 coffee cart;50
 coffee carts;50
 coffee is for closers;60
@@ -19259,6 +19269,9 @@ coffee mugs;50
 coffee nap;60;Nap after coffee, claimed to be extra energizing
 coffee naps;60
 coffee or tea;50
+coffee run;60
+coffee runs;60
+coffee rush;50
 coffee shop;50
 coffee shops;50
 coffee urn;50
@@ -19766,6 +19779,7 @@ coming with;40
 comin' in hot;40;Song???
 Comintern;50;Communist International
 Comiskey;40;Comiskey Park, old White Sox home
+comix;40;Underground, transgressive comics
 comma butterflies;60
 comma butterfly;60
 command centre;20
@@ -28409,6 +28423,7 @@ eighty-three;40
 eighty-two;40
 Eiichiro;40;Eiichiro Oda, "One Piece" creator
 EIK;20;Eat in kitchen, in ads
+Eilat;40;Israeli resort city
 Eileen;50;"Come On Eileen", Dexys hit / common first name
 Eilish;50;Billie Eilish, pop star
 ein;40
@@ -32683,6 +32698,7 @@ film critics;50
 Filmfare;40;Bollywood award
 filmgoer;50
 filmgoers;50
+filmi;40;Music written especially for Bollywood films
 film nomination;50
 film nominations;50
 film prop;50
@@ -47042,6 +47058,7 @@ iPod Touch;40
 iPod Touches;40
 IPOs;40
 ips;40
+ipsilateral;40;On the same side of the body
 ipso;40
 ipso facto;60
 Ipswich;40
@@ -50854,7 +50871,9 @@ Kilcher;40;Jewel Kilcher, singer known by her first name
 Kildare;40;Irish county, or Dr. Kildare
 Kiley;30;Richard Kiley from "Man of La Mancha"
 Kilgore;40;Kilgore Trout, Vonnegut's fictional author
-Kilimanjaro;50;Africa's highest peak
+kilim;30;Flat tapestry-woven carpet
+Kilimanjaro;60;Africa's highest peak
+kilims;30;Flat tapestry-woven carpets
 Kilkenny;40;Irish county and city
 Kilkennycats;40;Proverbially ferocious fighters
 Killam;40;Taran Killam, SNL cast member
@@ -61888,6 +61907,7 @@ Mount Everest;60
 Mount Hood, Oregon;50
 Mountie;50;Canadian federal officer
 Mounties;50;Canadian federal police
+Mount Kilimanjaro;60
 Mount Pegasus;50;Tasmanian peak
 Mount Pinatubo;40;Philippine volcano
 Mount Pleasant;60
@@ -62189,6 +62209,7 @@ mtges;30
 Mthatha;30;South Africa city formerly known as Umtata where Nelson Mandela comes from
 Mt. Hope;40;???
 Mt. Ida;40;Sacred mountain in Greek myth
+Mt. Kilimanjaro;60
 MTM;20
 Mtn;40
 mtns;30
@@ -66383,7 +66404,7 @@ offsprings;40;Weird plural
 offstream;50
 off-target;50
 off the beaten path;60
-off the hip;50;Off the cuff
+off the hip;60;Off the cuff
 off to a great start;60
 off to a late start;60
 off-tone;40;Off-key, dissonant
@@ -70499,6 +70520,7 @@ Peña Nieto;40;President of Mexico 2012-18 Enrique Peña Nieto
 Penate;20;Roman household god
 Penates;20
 PenaVega;40;Alexa PenaVega, "Spy Kids" actress
+pencak silat;40;Indonesian martial art
 pen cap;50
 Pencey;40;Pencey Prep, Holden Caulfield's school
 pencil lead;50
@@ -72735,6 +72757,7 @@ pole vaulters;60
 pole vaulting;60
 pole vaults;60
 Polgar;40;Judit Polgar, chess grandmaster
+poli;40;Poli sci
 police academies;50
 police academy;50
 police band;60
@@ -72764,6 +72787,7 @@ policy wonks;60
 Polident;40;Denture cleanser brand
 polios;20
 poliovirus;50
+polis;40;Greek city-state
 polished brass;50
 Polish joke;10
 Polish jokes;10
@@ -74575,9 +74599,10 @@ puled;40;Whined
 puler;20;Whiner
 pulers;20;Whiners
 pules;40;Whines
-Puli;20;Dreadlocked dog
+puli;30;Dreadlocked dog
+pulik;30;Dreadlocked dogs
 puling;40;Whining
-pulis;20;Dreadlocked dogs
+pulis;30;Dreadlocked dogs
 Pulisic;40;Christian Pulisic, American soccer player (born 1998)
 Pulitzer;50;Joseph Pulitzer, publisher and prize namesake
 Pulitzers;50;Journalism and letters prizes
@@ -75441,6 +75466,8 @@ races to;40
 race theory;60
 race to;40
 race to the bottom;60
+race traitor;10
+race traitors;10
 race war;50
 race wars;50
 Rachael;40;Rachael Ray, TV cook
@@ -85196,6 +85223,7 @@ silage;50
 silages;40
 silane;30;Inorganic compound
 Silas;40;Silas Marner, George Eliot title character
+silat;30;Southeast Asian martial art
 silent A;40
 silent alarm;60
 silent alarms;60
@@ -86961,6 +86989,7 @@ snow orchid;60
 snow orchids;60
 Snowpiercer;60
 Snowpocalypse;60;Blizzard, jokingly
+Snows of Kilimanjaro;60;Hemingway short story, with "The"
 snow sports;50
 snowstorm;50
 snowstorms;50
@@ -95252,6 +95281,7 @@ the slots;30
 the Smokies;50
 the Sneetches;50;Dr. Seuss characters
 The Sneetches and Other Stories;50;Dr. Seuss book
+The Snows of Kilimanjaro;60;Hemingway short story
 The Social Contract;40
 the Son;40;Trinity member
 the Sonics;30
@@ -95996,7 +96026,7 @@ Tiafoe;30;Tennis player Frances
 Tiago;40;Portuguese given name
 Tia Maria;50;Coffee liqueur
 Tia Marias;40
-Tiamat;40;Babylonian chaos goddess
+Tiamat;30;Babylonian chaos goddess
 Tian;40;Tian Shan, Central Asian range
 Tiana;40;???
 Tiananmen;50;Beijing square of the 1989 protests
@@ -96900,7 +96930,7 @@ Tom Harkin;30;Iowa senator 1985-2015
 Tomi;40;Tomi Adeyeme, Nigerian-American novelist (born 1993)
 Tomi Adeyemi;50;Nigerian-American novelist (born 1993)
 Tomie;40;Tomie dePaola, children's book author
-Tomie dePaola;50;Children's book illustrator and writer
+Tomie dePaola;40;Children's book illustrator and writer
 Tomine;40;Adrian Tomine, cartoonist
 Tom Izzo;40;Tom Izzo, Michigan State basketball coach in the Hall of Fame
 Tom Kenny;60;Voice of SpongeBob
@@ -98711,7 +98741,9 @@ Tulsan;40;Oklahoma city resident
 Tulsans;40;Oklahoma city residents
 Tulsa sound;50;Blues rock musical style
 tulsi;20;Holy Basil
-Tulum;50;Mayan ruins on the Yucatan coast
+Tulum;40;Mayan ruins on the Yucatan coast
+Tulum, Mexico;40
+Tulum Mexico;0
 tum;40;Belly
 tumbleweep;0
 Tumblr;50;Microblogging site
@@ -99752,6 +99784,7 @@ underdelivers;60
 underdog;50
 underdogs;50
 underglass;50
+underground comix;60
 under medical supervision;50
 under oath;50
 Underoos;50;Kids' underwear with superheroes on it
@@ -101950,9 +101983,19 @@ wads of bills;60
 wads of cash;50
 Wadsworth;40;Henry Wadsworth Longfellow's middle name / "Clue" butler
 waf;20
+waffle fries;60
+waffle fry;60
+Waffle House;60
 Waffle House Index;60
-waffle iron;50
-waffle irons;50
+Waffle Houses;60
+waffle iron;60
+waffle irons;60
+waffle maker;60
+waffle makers;60
+waffle mix;60
+waffle mixes;60
+waffle stomper;10
+waffle stompers;10
 wafted in;40
 waft in;40
 wafting in;40
