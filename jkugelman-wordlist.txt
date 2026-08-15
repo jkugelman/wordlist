@@ -791,6 +791,7 @@ abuelos;40
 Abuja;40;Capital of Nigeria
 abul;20
 Abulhawa;40;Susan Abulhawa, "Mornings in Jenin" novelist
+Abu Musab al-Zarqawi;40;Jordanian jihadist (1966–2006)
 abundances;40;Weird plural
 aburglarstoleit;0
 abuser;40
@@ -2828,6 +2829,8 @@ alienees;30
 alieni;20
 alienism;30;Outdated term for psychiatry
 alien life;60
+alien mothership;60
+alien motherships;60
 alienor;30;Grantor, dated term
 alienors;30
 alien queen;60
@@ -7475,7 +7478,8 @@ Ayrshire;40;Scottish county and cattle breed
 Ayrton;40;Ayrton Senna, Formula One champion
 ays;30;Shakespearean cries
 Ayton;40;Deandre Ayton in the NBA, 1st overall draft pick in 2018
-Ayumi;40;Ayumi Hamasaki, Japanese pop singer
+Ayumi;40;Ayumi Hamasaki, pop singer, best-selling solo artist in Japan
+Ayumi Hamasaki;40;Pop singer, best-selling solo artist in Japan
 ayup;50
 Ayutthaya;40;Old Siamese kingdom and capital
 Ayyappan;40;Hindu deity of Sabarimala
@@ -13375,6 +13379,7 @@ Brom;40;Brom Bones, "Sleepy Hollow" rival
 bromance;60
 bromances;60
 Brom Bones;50;"Sleepy Hollow" rival
+Bromus arvensis;20;Species of grass
 Bron;40;LeBron James, NBA star's nickname
 bronchi;40;Lung tubes
 Broncho;40;Indie rock band, notable???
@@ -14584,6 +14589,7 @@ calamary;20;Variant of calamari
 Calamawy;40;May Calamawy, "Ramy" actor
 calamine lotions;50
 calamus;20;Herb genus
+Calamus australis;20;Species of palm
 CalArts;50;California Institute of the Arts
 Calatrava;40;Santiago Calatrava, Spanish architect
 calavera;40;Sugar skull
@@ -24318,6 +24324,7 @@ Diamond Jim;50
 diamond ring;60
 diamond rings;60
 diamonds;50
+Diamonds on the Soles of Her Shoes;60;1987 worldbeat single by Paul Simon
 Dian;40;Dian Fossey, gorilla expert
 Diana;50;Princess Diana, or the Roman goddess
 Diana Gabaldon;50;Author of the "Outlander" books
@@ -25709,6 +25716,7 @@ domo arigato Mr Roboto;0
 do more with less;60
 doms;40
 Domus;40;Latin for "house," as in the Domus Aurea
+Domus Aurea;40;Roman palace
 don;50
 dona;30
 Donaghy;40;Jack Donaghy, "30 Rock" executive
@@ -28780,6 +28788,7 @@ Elwes;40;Actor Cary Elwes
 Elwood;40;Elwood Blues of the Blues Brothers
 Ely;30;Ron Ely who played Tarzan
 elya;20
+Elymus arenarius;20;Species of grass
 Elyse;40;Common first name
 Elysee;40
 Elysees;40
@@ -29050,7 +29059,7 @@ en bloc;40
 Enbrel;20
 en brosse;30;???
 enby;50
-enc;20
+enc;30;Enclosure
 Encanto;50
 Encarta;50;Microsoft's CD-ROM encyclopedia
 enceinte;30;Pregnant
@@ -29079,6 +29088,7 @@ encroaches on;40
 encroaching on;40
 encroach on;40
 encrypted;50
+encs;30;Enclosures
 Encyclopedie;40;Diderot's Encyclopédie
 encyst;30
 encysted;30
@@ -40452,7 +40462,7 @@ hamantaschen;40
 hamantash;40;Jewish pastry
 hamantashen;40
 hamartia;30;Hero's fatal flaw
-Hamasaki;40;Ayumi Hamasaki, J-pop star
+Hamasaki;40;Ayumi Hamasaki, pop singer, best-selling solo artist in Japan
 Hamburg;50;German port city
 hamburger button;60;Triple-line button
 hamburger buttons;60;Triple-line buttons
@@ -42265,10 +42275,19 @@ Herrs;30
 hers;50
 Herschel;50;William Herschel, discoverer of Uranus / Herschel Walker, football star
 Hersey;40;"Hiroshima" author John Hersey, Pulitzer winner
-Hersh;40;Seymour Hersh, investigative journalist
+Hersey's almond bars;50
+Hersh;40;Seymour Hersh, journalist who exposed the My Lai massacre
+Hershel;40
+Hershel Greene;40;Fictional character from The Walking Dead
 Hershey;50;Chocolate maker and its Pennsylvania town
-Hersheypark;50;Chocolate-themed Pennsylvania amusement park
+Hersheypark;60;Chocolate-themed Pennsylvania amusement park
+Hershey, Pennsylvania;60
+Hershey Pennsylvania;0
 Hershey's;50;Chocolate brand
+Hershey's almond bar;50
+Hershey's Kiss;60
+Hershey's Kisses;60
+Hershey's Pot of Gold;50
 Hershiser;40;Orel Hershiser, Dodgers pitching great
 Herta;40;Herta Müller, Nobel-winning novelist
 Hertfordshire;50;English county
@@ -42691,6 +42710,7 @@ Hippocratic;50
 Hippolyta;50;Amazon queen of myth
 Hippolyte;40;Amazon queen, also spelled Hippolyta
 Hippolytus;40;Euripides tragedy, and Theseus's son
+Hippopotamus amphibius;50;Common hippopotamus
 hippo tusk;50
 hippo tusks;50
 hip replacement;50
@@ -48672,6 +48692,7 @@ jean skirts;50
 Jeb;50
 Jebediah;50;Jebediah Springfield, Simpsons town founder
 Jebediah Springfield;60
+Jebel Musa;40;Mount Sinai
 Jebusite;40;Biblical inhabitant of Jerusalem
 Jebusites;40;Biblical people of pre-Israelite Jerusalem
 jec;20
@@ -54019,6 +54040,7 @@ Leyden;30;Kind of jar or cheese
 Leyendecker;40;J.C. Leyendecker, Saturday Evening Post illustrator
 Leylah;40;Leylah Fernandez, tennis player
 Leyland;40;British Leyland automaker / Jim Leyland, baseball manager
+Leymus arenaria;20;Species of grass
 Leyna;30;Unnotable name???
 Leyster;40;Judith Leyster, Dutch Golden Age painter
 Leyte;40;Philippine island of the WWII gulf battle
@@ -56869,7 +56891,8 @@ Mahayana;40;Largest branch of Buddhism
 Mahayanist;30;Type of Buddhist
 Mahdi;40;Prophesied redeemer in Islam
 Maher;40;Comedian Bill Maher
-Mahershala;50;Mahershala Ali, two-time Oscar winner
+Mahershala;60;Mahershala Ali, two-time Oscar winner
+Mahershala Ali;60
 Mahesh;40;Maharishi Mahesh Yogi, Transcendental Meditation founder
 Mahfouz;40;Naguib Mahfouz, Nobel-winning Egyptian novelist
 mahi;40
@@ -59350,6 +59373,7 @@ melanic;30;???
 Melanie;50
 melanite;30;Mineral
 melanites;30;Minerals
+Melanogrammus aeglefinus;20;Haddock
 melanomata;30
 melanosis;40;Colon condition
 melanotic;40
@@ -62395,7 +62419,14 @@ Murs;40;Olly Murs, British pop singer
 Murtaugh;50
 mus;30;Plural letter mu
 Musa;40;Mansa Musa, fabulously rich Malian emperor
+Musa acuminata;20;Banana native to Southeast Asia
+Musa basjoo;20;Japanese banana
+Musa ensete;20;Ethiopian banana
+musakhan;40;Palestinian bread and chicken dish
+Musa × paradisiaca;20;Hybrid plantain and cooking banana
+Musa paradisiaca sapientum;20
 Musashi;40;Miyamoto Musashi, legendary swordsman
+Musa textilis;20;Phillippine banana
 muscadel;40;Muscatel grape
 muscadelle;40;White wine grape
 Muscadet;40;French white wine
@@ -82054,6 +82085,7 @@ scooting in;50
 scoots in;50
 scope creep;60
 Scopes Trial;60
+Scophthalmus aquosus;20;Windowpane flounder
 scorched earth;60
 scorched earth policies;60
 scorched earth policy;60
@@ -83725,6 +83757,7 @@ Seychellois;50;Of the Seychelles
 Seydoux;40;Léa Seydoux, French actress
 Seyfried;40;Amanda Seyfried, "Mamma Mia!" actress
 Seymour;50;Jane Seymour, Henry VIII's third wife / Philip Seymour Hoffman
+Seymour Hersh;40;Journalist who exposed the My Lai massacre
 Seyrig;40;Delphine Seyrig, "Last Year at Marienbad" actress
 sez;30
 sez me;30
@@ -89522,6 +89555,7 @@ stenos;40
 stenose;20
 stenosis;30;Spinal cord narrowing
 stenotic;30
+Stenotomus aculeatus;20;Southern porgy fish
 Stens;40;Sten guns, British WWII submachine guns
 Stenton;40;???
 stentor;30;Loud speaker
@@ -99457,6 +99491,8 @@ Ullman;40;Tracey Ullman, comic actress
 Ullmann;40
 Ulm;20
 Ulmer;40;Edgar G. Ulmer, "Detour" director
+Ulmus alata;20;Winged elm
+Ulmus americana;20;American elm
 ulna;40
 ulnae;30
 ulnar;40
@@ -101896,14 +101932,17 @@ Waite;30;Various people, not super notable
 waited a bit;50
 waited around for;40
 waited for;40
+waited for the other shoe to drop;60
 waited on;40
 waited up for;40
 waiters;50
 wait for;40
+wait for the other shoe to drop;60
 Waithe;40;Actress/producer Lena Waithe
 waiting a bit;50
 waiting around for;40
 waiting for;40
+waiting for the other shoe to drop;60
 waiting on;40
 Waiting on a War;50;2021 single by Foo Fighters
 waiting up for;40
@@ -101924,6 +101963,7 @@ waitrons;60
 waits a bit;50
 waits around for;40
 waits for;40
+waits for the other shoe to drop;60
 waits on;40
 waits up for;40
 Wait Till Next Year;50
