@@ -14234,6 +14234,14 @@ buttermilk;50
 buttermilk biscuit;50
 buttermilk biscuits;50
 butter my butt and call me a biscuit;60
+butterscotch bar;50
+butterscotch bars;50
+butterscotch chip;50
+butterscotch chips;50
+butterscotches;50
+butterscotch schnapps;60
+butter sculpture;60
+butter sculptures;60
 Butterworth;50;Mrs. Butterworth of the syrup bottle / Jez Butterworth, playwright
 but that's just me;60
 but that's not all;60
@@ -23124,6 +23132,7 @@ deal in;40
 dealing in;40
 dealing out;40
 dealing to;40
+dealio;40
 Deal or No Deal;60
 deal out;40
 deals in;40
@@ -24651,7 +24660,8 @@ diluent;30;Substance used to dilute
 diluents;30
 diluvial;40;Flood-related
 diluvian;40
-Dilwale;40;"Dilwale Dulhania Le Jayenge", Bollywood classic
+Dilwale;30;"Dilwale Dulhania Le Jayenge", Bollywood classic
+Dilwale Dulhania Le Jayenge;40
 dim;50
 DiMaggio;50;Joe DiMaggio, the Yankee Clipper
 dim bulb;60
@@ -41591,6 +41601,7 @@ hears of;40
 Hearst;50;William Randolph Hearst, newspaper magnate
 Hearsts;30
 heartache;60
+heart and soul;60
 Heartbleed;50;2014 OpenSSL security bug
 Heartbreak Hotel;60
 heartbreaking;60
@@ -47002,7 +47013,7 @@ iratest;30
 Irbid;30;City in northern Jordan
 Irbid, Jordan;40
 Irbid Jordan;0
-Irby;40;Samantha Irby, essayist
+Irby;30;Samantha Irby, essayist
 ire;50
 I read you;60
 I realize;50
@@ -49558,7 +49569,7 @@ Jungfrau;40;Swiss Alps peak
 Jungian;50;Of Carl Jung's psychology
 Jungkook;40;BTS singer
 Jungleland;50;Springsteen's "Born to Run" closer
-Junglepussy;40;Brooklyn rapper
+Junglepussy;50;Brooklyn rapper with a self-titled character in "One Battle After Another"
 junglier;30
 jungliest;30
 junglleeggym;0
@@ -50021,7 +50032,7 @@ Kashgar;40;Oasis city in western China
 Kashi;40;Cereal brand
 Kashmir;50;Disputed Himalayan region, or the Led Zeppelin song
 Kashmiri;50;Of Kashmir
-Kashmiris;40;People of Kashmir
+Kashmiris;50;People of Kashmir
 Kashubian;40;Slavic language of northern Poland
 Kashubians;40;Slavic people of northern Poland
 Kashyap;40;Anurag Kashyap, Indian filmmaker
@@ -54080,6 +54091,7 @@ Libby;50;Given name, or canned vegetable brand
 Lib Dem;40;British centrist
 Lib Dems;40
 libelia;20;???
+liber;30;Book, in Latin
 libera;20
 Liberace;50
 liberal arts;50
@@ -55939,6 +55951,7 @@ Luci;40;Luci Baines Johnson, LBJ's daughter
 Lucia;50;Saint Lucia, or "Lucia di Lammermoor"
 Lucian;40;Lucian Freud, painter / Lucian of Samosata, satirist
 Luciano;40;Luciano Pavarotti, tenor / Lucky Luciano, mob boss
+Luciano Berio;40;Italian avant-garde composer
 Lucida;40;Lucida Sans font, or camera lucida
 Lucie;30;Desi's daughter
 Lucien;40;Lucien Bonaparte, Napoleon's brother
@@ -57774,6 +57787,7 @@ Maracaibo;40;Venezuelan city and lake
 Maracana;40;Maracanã, Rio de Janeiro soccer stadium
 Maracle;40;Lee Maracle, Indigenous Canadian author
 Maradona;50;Diego Maradona, Hand of God soccer legend
+marae;20
 Mar-a-Lago;60
 Maranta;30;Plant genus
 mararooney;0
@@ -58048,6 +58062,7 @@ Maron;40;Marc Maron
 Maroney;40;Jenna Maroney, "30 Rock" diva / McKayla Maroney, gymnast
 Maronite;40;Eastern Catholic church of Lebanon
 Maronites;40;Lebanese Catholic church members
+maror;30;Bitter herbs eaten during Passover
 Marple;50;Miss Marple, Agatha Christie's sleuth
 marplot;20;Meddler
 marplots;20;Meddlers
@@ -58438,7 +58453,7 @@ math puzzles;50
 math symbol;50
 math symbols;50
 math team;50
-MathWorks;40;MATLAB's maker
+MathWorks;50;MATLAB's maker
 Mati;30;Mati Diop, French film director and actress
 Mati Diop;40;French film director and actress
 Matilda;50;Roald Dahl heroine
@@ -59544,6 +59559,8 @@ Mensheviks;50;Bolsheviks' rivals
 men's room sign;50
 men's room signs;50
 mens sana;30
+menstruator;40
+menstruators;40
 mensurable;40
 mensural;30;???
 Men's Wearhouse;50
@@ -63015,6 +63032,7 @@ nashi pear;30;Asian pear
 nashi pears;30;Asian pears
 Nashua;40;New Hampshire city
 Nashville;50;Tennessee capital, Music City
+Nashville Pussy;10;Heavy metal band
 nasi;30;Cooked rice
 nasi goreng;40
 nasi lemak;40
@@ -64149,7 +64167,7 @@ Nights on Broadway;50;Song by the Bee Gees
 nightstick;50
 Nightswimming;50;R.E.M. song
 night thing;20;???
-Night Trap;40;1992 Sega CD game
+Night Trap;30;1993 supernatural thriller film / 1992 Sega CD game
 nightwear;50
 Nightwing;50;Grown-up Robin's superhero identity
 Nightwish;40;Finnish symphonic metal band
@@ -64446,6 +64464,7 @@ no;50
 Noa;20
 NOAA;40
 Noah;50;Ark builder, and a common first name
+Noah Cyrus;50;Sister of Miley Cyrus, 2021 Best New Artist nominee
 Noah Kahan;50;Noah Kahan, Grammy-nominated folk-pop artist famous for his 2023 album "Stick Season"
 Noah's;40;Noah's Ark
 Noah's Ark;60
@@ -67664,7 +67683,7 @@ Ophelia;50;"Hamlet" heroine
 Ophidia;40;Snake order, or Gucci handbag collection
 ophidian;20
 ophidians;20
-Ophir;40;Biblical land of gold
+Ophir;30;Biblical land of gold
 Ophira;30;???
 Ophiuchus;30
 Ophuls;40;Max Ophüls, director of "La Ronde"
@@ -71387,6 +71406,9 @@ Piercy;40;Marge Piercy, novelist and poet
 Pieris;30;Flower genus
 Pierpont;40;J. Pierpont Morgan's middle name / James Pierpont, "Jingle Bells" composer
 Pierre;50;Capital of South Dakota, or a French first name
+Pierre Menard;40;Jorge Luis Borges short story "Pierre Menard, Author of the Quixote"
+Pierre Menard, Author of the Quixote;50;Short story by Jorge Luis Borges
+Pierre Menard Author of the Quixote;0
 Pierre Renoir;50
 Pierres;30;Plural name
 Pierre, SD;30
@@ -78402,7 +78424,7 @@ Rican;40
 Ricans;40
 Ricardo;40;Lucy Ricardo of "I Love Lucy" / David Ricardo, economist
 Ricardos;50;"Being the Ricardos"
-Ricch;40;Roddy Ricch, "The Box" rapper
+Ricch;40;Roddy Ricch, "The Box" rapper with a 2019 Grammy
 Ricci;40;Christina Ricci, actress / Nina Ricci, fashion house
 ricciolini;40;Type of pasta
 Ricciolini;40;Baroque painter
@@ -79175,6 +79197,7 @@ rodder;40;Hot rodder
 rodders;40
 Roddick;50;Andy Roddick, US Open winner
 Roddy;40;Actor Roddy McDowall (1928-98), or wrestler "Rowdy" Roddy Piper
+Roddy Ricch;40;"The Box" rapper with a 2019 Grammy
 rode a broomstick;50
 rode at;20
 rode atop;40
@@ -80974,6 +80997,7 @@ Sam Adams;50
 Sam Altman;60
 Samanta;40;Samanta Schweblin, Argentine writer
 Samantha;50;Common first name, as on "Bewitched"
+Samantha Irby;40;Comedian and writer (born 1980)
 Samanthas;30;Plural name
 Samar;40;Philippine island / Sima Samar, Afghan activist
 samara;40
@@ -86707,7 +86731,7 @@ Snerd;30;Mortimer Snerd, ventriloquism dummy
 Snert;30;Hägar the Horrible's dog
 snert;20;Dutch split pea soup
 SNES;40
-Sneva;40;Tom Sneva, Indy 500 winner
+Sneva;30;Tom Sneva, 1983 Indy 500 winner
 sniatnuom;0
 snicker;50
 snicker at;40
@@ -87017,6 +87041,8 @@ so easy a child can do it;60
 so easy a child could do it;60
 so easy even a child can do it;60
 so easy even a child could do it;60
+soeur;30;Sister, in French
+soeurs;40;Sisters, in French
 soever;30
 so extra;60
 sofa;50
@@ -92736,7 +92762,7 @@ tasseler;30;Worker who makes tassels
 tasselers;30
 tasses;20
 Tassimo;40;Coffee pod brand
-Tasso;40;Torquato Tasso, Italian poet
+Tasso;30;Torquato Tasso, Italian poet
 taste bud;50
 taste buds;50
 tasted of;40
@@ -96794,7 +96820,7 @@ Tompkins;40;Daniel Tompkins, Monroe's vice president / Paul F. Tompkins, comedia
 Tom Riddle;60
 Tom Ripley;60
 Tomsk;40;Siberian city
-Tom Sneva;40;Tom Sneva, Indy 500 winner of 1983
+Tom Sneva;40;Tom Sneva, 1983 Indy 500 winner
 Tom Snyder;50;"The Late Late Show" host in the 1990s
 Tom, the Piper's Son;50;"Tom, Tom, the Piper's Son", English nursery rhyme
 tomtit;40;New Zealand bird
@@ -97180,6 +97206,7 @@ torpedo tube;60
 torpedo tubes;60
 torpors;40;Bad plural???
 Torquato;40;Torquato Tasso, Italian epic poet
+Torquato Tasso;40;Italian poet (1544–1595)
 Torquay;40;English seaside resort, the "Fawlty Towers" setting
 Torquemada;50;Tomás de Torquemada, Spanish Grand Inquisitor
 torr;20;Unit of pressure
@@ -103507,6 +103534,7 @@ what's taking so long?;60
 what's taking so long;0
 what's that?;60
 what's that;0
+what's that from?;60
 what's that like?;50
 what's that like;0
 what's that over there?;50
@@ -103517,7 +103545,8 @@ what's that smell?;50
 what's that smell;0
 what's that sound?;50
 what's that sound;0
-what's that supposed to mean;60
+what's that supposed to mean?;60
+what's that supposed to mean;0
 what's that you say?;60
 what's that you say;0
 what's the big deal?;60
@@ -103526,10 +103555,12 @@ what's the big idea?;60
 what's the big idea;0
 what's the catch?;60
 what's the catch;0
+what's the dealio?;60
 what's the dif?;60
 what's the dif;0
 what's the difference?;60
 what's the difference;0
+what's the dillio?;60
 What's the Frequency, Kenneth?;50;1994 single by R.E.M.
 What's the Frequency Kenneth;0
 what's the game plan?;60
@@ -103613,6 +103644,8 @@ whattaappity;0
 Whattaman;40;"Whatta Man," Salt-N-Pepa and En Vogue hit
 what the;60
 what the actual fuck;10
+what the dealio?;60
+what the dillio?;60
 what the frick;60
 what the fuck;10
 what the hey;60
@@ -105173,6 +105206,7 @@ Wye;20
 Wyeth;30
 Wyeths;40;Andrew Wyeth and his painter family
 Wyld;40;Wyld Stallyns, Bill and Ted's band
+Wylde;40;Zakk Wylde, guitarist for Ozzie Osbourne
 Wyle;40;Actor Noah Wyle
 Wyler;40;Director William Wyler
 Wylie;40;Elinor Wylie, poet
@@ -106563,6 +106597,7 @@ Zakes Mda;40;South African novelist, poet and playwright (born 1948)
 Zakir;40;Zakir Hussain, tabla virtuoso
 Zakiya;40;Zakiya Dalila Harris, "The Other Black Girl" novelist
 Zakk;40;Zakk Wylde?
+Zakk Wylde;50;Guitarist for Ozzy Osbourne
 Zale;40;Zale Corporation aka Zales
 Zales;40;Mall jewelry chain
 Zaltzman;40;Andy Zaltzman, British satirist
