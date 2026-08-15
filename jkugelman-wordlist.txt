@@ -17564,6 +17564,7 @@ chiasma;30;Genetics term
 Chiba;40;Sonny Chiba, martial arts film star / Japanese prefecture
 chica;40
 Chicago;50;Illinois city
+Chicago 7;50;Defendants in a 1969–70 trial
 Chicagoan;50
 Chicagoans;50;Windy City residents
 Chicago Bear;50
@@ -17574,6 +17575,7 @@ Chicago, IL;30
 Chicagoland;50;The Chicago metro area
 Chicago Marathon;50
 Chicago PD;30
+Chicago Seven;60;Defendants in a 1969–70 trial
 Chicana;50;Mexican American woman
 Chicanas;40;Mexican American women
 chicane;40;???
@@ -25561,6 +25563,8 @@ do honor;30
 do honor to;40
 Do Ho Suh;40;South Korean sculptor (born 1962)
 D'ohs;40
+dohyō;40;Sumo wrestling ring
+dohyos;40;Sumo wrestling rings
 do I;50
 do I care?;60
 do I dare;60
@@ -30155,7 +30159,8 @@ Ester-C;30
 Esterhazy;40;Esterházy, Hungarian noble family / Ferdinand Walsin Esterhazy of the Dreyfus affair
 esters;40
 Estes;40;Estes Park, Colorado
-Est Est Est;40;Est! Est!! Est!!! Italian wine region. "Usually the dullest white wine with the strangest name in the world" (quote on Wikipedia)
+Est! Est!! Est!!!;40;Italian wine region, "Usually the dullest white wine with the strangest name in the world" (quote on Wikipedia)
+Est! Est!! Est!!! di Montefiascone;40;Italian wine region, "Usually the dullest white wine with the strangest name in the world" (quote on Wikipedia)
 Estevez;40;Emilio Estevez, actor
 Esther;50;Biblical queen with her own book
 esthesia;40;Opposite of anesthesia
@@ -38480,7 +38485,11 @@ Gorr the God Butcher;60;Marvel Comics supervillain
 Goryeo;40;Korean dynasty that gave Korea its name
 gos;20
 go scuba diving;50
-go-see;30
+gose;30;German beer
+go see;50
+go-see;40
+go-sees;40
+goses;30;German beers
 Gosford;40;"Gosford Park", Robert Altman film
 goshawk;30;Bird
 goshawks;30
@@ -42462,6 +42471,7 @@ Hiddleston;50;Tom Hiddleston, Loki actor
 hide-a-bed;60
 hide-a-beds;60
 Hideaki;40;Hideaki Anno, "Evangelion" creator
+hide-and-go-seek;60
 hide from;40
 hi-def TV;40
 hi-def TVs;40
@@ -93740,6 +93750,7 @@ test cricket;60;Original format for the game cricket, still considered the most 
 tested for;40
 testee;40
 testees;40
+testes;10
 test for;40
 test group;60
 test groups;60
@@ -94343,6 +94354,8 @@ the Chariot;60;Tarot card
 the charity stripe;20
 the Charles River;20
 The Chase;50;British game show / 1966 Brando-Redford film
+The Chicago 7;50;Defendants in a 1969–70 trial
+The Chicago Seven;60;Defendants in a 1969–70 trial
 the chicken or the egg;60
 The Chi-Lites;50;1970s R&B group
 the choice is clear;60
@@ -95294,6 +95307,8 @@ the Tower of Terror;60
 The Traveling Wilburys;60
 The Treasure of the Sierra Madre;60;1927 adventure novel / 1948 film
 the Tremeloes;40;1960s beat group (?)
+The Trial of the Chicago 7;60;2020 legal drama
+The Trial of the Chicago Seven;50
 the Trib;20
 the Tribe;50;???
 the tribe has spoken;60
@@ -98004,6 +98019,8 @@ trial and error;60
 trial by ordeal;60
 trial offer;60
 trial offers;60
+Trial of the Chicago 7;60;2020 legal drama, with "The"
+Trial of the Chicago Seven;50
 trial period;60
 trial periods;60
 trial run;60
@@ -98688,6 +98705,7 @@ tunes to;40
 tune to;40
 tung;30;Tree, or Mao Tse-Tung
 Tunguska;50;Siberian site of a 1908 airburst
+Tunica albuginea testes;20
 tunicate;30;Marine invertebrate a.k.a. sea squirt
 tunicates;30
 Tunick;40;Spencer Tunick, mass-nude photographer
