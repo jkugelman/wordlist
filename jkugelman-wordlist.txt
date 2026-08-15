@@ -37190,6 +37190,7 @@ Gisele Bundchen;60
 Giselle;50;Classic romantic ballet
 Gish;40;Lillian Gish, silent film star / Gish gallop
 Gish gallop;60
+Gish gallops;60
 gismo;20
 gismos;20
 git;50
@@ -38437,6 +38438,7 @@ Gordie;50;Gordie Howe, "Mr. Hockey"
 Gordimer;40;Nadine Gordimer, Nobel-winning novelist
 gordo;40
 Gordon;50;Gordon Ramsay, chef / Flash Gordon, comics hero
+Gordon Lish;40;Editor of Raymond Carver
 Gordon Pinsent;40;Canadian actor and writer (1930–2023)
 Gordon's;40;Gin brand
 Gord's;30;"Gord's Gold", Gordon Lightfoot compilation
@@ -54725,7 +54727,7 @@ Lisboan;40;Of Lisbon
 Lisboans;40;People of Lisbon
 Lisbon;50;Capital of Portugal
 Lise;40;Bart's sister, familiarly
-Lish;40;Gordon Lish, editor of Raymond Carver
+Lish;30;Gordon Lish, editor of Raymond Carver
 Lisi;30;Virna Lisi, Italian actress
 Lisieux;40;French town of St. Thérèse
 lisle;30;Cotton thread
