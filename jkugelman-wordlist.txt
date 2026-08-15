@@ -8274,6 +8274,9 @@ banana cream;60
 banana cream pie;60
 banana cream pies;60
 Bananagrams;60
+banana ketchup;60;Filipino condiment invented due to a tomato shortage
+banana kick;50
+banana kicks;50
 banana language;60;Minion language
 banana mania;50
 Bananaphone;60
@@ -22809,6 +22812,7 @@ Das Racist;50;Rap group
 Dass;30;Ram Dass, spiritual teacher, guru of modern yoga, psychologist, and writer
 Dassin;40;Jules Dassin, "Rififi" director
 Dastmalchian;40;David Dastmalchian, character actor
+Dasyurus quoll;20;Australian marsupial
 dat;40
 data analysis;50
 data analyst;50
@@ -75292,6 +75296,8 @@ Qumran;40;Dead Sea Scrolls site
 quo;50
 quod;40
 quoi;40
+quoll;30;Australian marsupial
+quolls;30;Australian marsupials
 Quonset;50;Quonset hut, arched prefab shelter
 Quonset hut;60
 Quonset huts;60
@@ -80896,7 +80902,7 @@ sales quota;50
 sales quotas;50
 sales tax;60
 Salford;30
-Salgado;40;Sebastião Salgado, Brazilian photographer
+Salgado;40;Sebastião Salgado, Brazilian photographer (1944–2025)
 Salic;40;Salic law, barring female succession
 Salic law;30
 Salieri;50;Antonio Salieri, Mozart's rival in "Amadeus"
@@ -82566,6 +82572,8 @@ Sebastian;50;Common first name
 Sebastianism;40;Portuguese belief in King Sebastian's return
 Sebastian Sawe;60;Sebastian Sawe, first person to run a sub-two-hour marathon in 2026
 Sebastiao;40;Sebastião Salgado, Brazilian photographer
+Sebastião Salgado;40;Brazilian photographer (1944–2025)
+Sebastiao Salgado;0
 Seberg;40;Jean Seberg, "Breathless" actress
 Sebold;40;Alice Sebold, "The Lovely Bones" author
 seborrhea;40;Skin condition
