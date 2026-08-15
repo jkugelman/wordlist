@@ -6821,6 +6821,8 @@ Atomic Blonde;60
 atomic blondes;60
 atomic blonds;60;Without the "e"?
 atomic bomb dropped;20
+atomic cocktail;60;Champagne cocktail popular in the 1950s
+atomic cocktails;60;Champagne cocktails popular in the 1950s
 atomic fountain;50;Laser-cooled atoms in flight
 atomic fountains;50;Laser-cooled atoms in flight
 Atomic Habits;50;2018 self-help book by James Clear
@@ -7676,6 +7678,7 @@ baby wipes;50
 BAC;20
 Bacall;50;Lauren Bacall, actress
 Bacardi;50;Rum brand
+Bacardi cocktail;50;Cocktail made primarily with Bacardi Superior
 Bacardis;40;Rum drinks
 baccarat;50
 baccarat table;50
@@ -8924,6 +8927,8 @@ Batavian;40;Of the old Dutch republic
 Batavians;40;Ancient Germanic tribe of the Rhine delta
 Batcave;60
 bat caves;50
+batch cocktail;50
+batch cocktails;50
 batchit;0
 bat cleanup;60
 Batcopter;50;Batman's chopper
@@ -9671,8 +9676,8 @@ beer can chicken;60
 beer cans;60
 beer chaser;50
 beer chasers;50
-beer cocktail;50
-beer cocktails;50
+beer cocktail;60;Cocktail made by mixing beer with a distilled beverage
+beer cocktails;60;Cocktails made by mixing beer with a distilled beverage
 beer fridge;60
 beer fridges;60
 beer-fueled;60
@@ -12525,6 +12530,8 @@ bound for;40
 bound to;40
 bound volumes;50
 Bourbaki;40;Nicolas Bourbaki, pen name of a French math collective
+bourbon cocktail;50
+bourbon cocktails;50
 Bourdain;50;Anthony Bourdain, chef and travel host
 Bourdieu;40;Pierre Bourdieu, French sociologist
 Bourke;40;Australian outback town, as in "back o' Bourke"
@@ -13555,6 +13562,8 @@ brush-offs;50
 brush on;40
 Brussels;50;Belgian capital
 Brussels Belgium;30;???
+brut cocktail;50
+brut cocktails;50
 Brutus;50;Marcus Junius Brutus, Caesar's assassin
 Bruxelles;40;Brussels, in French
 Bryan;50;Common first name
@@ -14476,6 +14485,8 @@ Caen;30;Battle of Normandy city
 Caenorhabditis;30;Nematode genus of the model organism C. elegans
 Caerphilly;50;Welsh cheese and castle town
 Caesar;50;Roman ruler's title
+Caesar cocktail;50
+Caesar cocktails;50
 Caesarea;40;Ancient port city in Israel
 Caesarean;50;Surgical delivery
 Caesareans;50;C-sections
@@ -19115,34 +19126,49 @@ cockshy;10
 cockspur;20;Tree
 cockspurs;20;Trees
 cocksure;60
+cocktail bar;60
+cocktail bars;60
 cocktail bitters;50
-cocktail dress;50
-cocktail dresses;50
-cocktail fork;50
-cocktail forks;50
+cocktail dress;60
+cocktail dresses;60
+cocktail fork;60
+cocktail forks;60
 cocktail frank;50
 cocktail franks;50
-cocktail glass;50
-cocktail glasses;50
+cocktail garnish;60
+cocktail garnishes;60
+cocktail glass;60
+cocktail glasses;60
 cocktail hot dogs;50
-cocktail hour;50
-cocktail hours;50
-cocktail lounge;50
-cocktail lounges;50
+cocktail hour;60
+cocktail hours;60
+cocktail lounge;60
+cocktail lounges;60
 cocktail menu;50
 cocktail menus;50
 cocktail mixer;50
 cocktail mixers;50
 cocktail napkin;50
 cocktail napkins;50
+cocktail onion;60
+cocktail onions;60
 cocktail parties;60
 cocktail party;60
+cocktail party effect;60;Brain capacity to filter out stimuli
 cocktail peanut;60
 cocktail peanuts;60
 cocktails;50
-cocktail sauce;50
+cocktail sauce;60
+cocktail sausage;50
+cocktail sausages;50
+cocktail server;50
+cocktail servers;50
 cocktail stick;50
+cocktail table;50
+cocktail tables;50
 cocktail umbrella;50
+cocktail waitress;60
+cocktail waitresses;60
 cocktail weenie;50
 Coco;50;Coco Chanel / Coco Gauff, tennis star / Pixar film
 cocoa mix;50
@@ -21003,6 +21029,8 @@ crab ball;60
 crab balls;60
 Crabbe;30
 Crabbuckit;40;K-os song
+crab cocktail;50
+crab cocktails;50
 crab dip;60
 crab dips;60
 crab leg;60
@@ -37101,6 +37129,8 @@ Gina;50;Gina Lollobrigida, actress, among many others
 gin and tonic;60
 gin and tonics;60
 Ginastera;40;Alberto Ginastera, Argentine composer
+gin cocktail;50
+gin cocktails;50
 Ginevra;30;Ginevra King, F. Scott Fitzgerald's first love
 Ginevra King;40;F. Scott Fitzgerald's first love
 gin fizz;50
@@ -43420,6 +43450,7 @@ honors students;60
 Honshu;40
 Honus;50;Honus Wagner, baseball star with the priciest card
 hoo;30
+hooah;40;Official yell of the US Army
 Hoobastank;50;Band behind "The Reason"
 hoodlum;50
 hoodlums;50
@@ -57008,6 +57039,8 @@ Maisie;40;"Game of Thrones" actress Maisie Williams
 maison;40;French house
 maisons;40
 mais oui;50
+Mai Tai cocktail;50
+Mai Tai cocktails;50
 Maitland;40;Maitland Ward, "Boy Meets World" actress
 maître;30
 maitre d';50
@@ -61155,6 +61188,8 @@ Molnár;30;"Liliom" playwright Ferenc Molnar
 Moloch;30;Biblical fire god
 Molokai;40;Hawaiian island
 Molotov;50;Vyacheslav Molotov, Soviet diplomat with a cocktail named for him
+Molotov cocktail;60
+Molotov cocktails;60
 Molson;40;Canadian beer brand
 Molsons;40;Canadian beers
 molten lava;50
@@ -61811,6 +61846,7 @@ motor skill;50
 motor skills;50
 motor speedway;50
 motor speedways;50
+mototov cocktail;0
 Motown;50;Detroit record label
 Motrin;40;Ibuprofen brand
 Motrins;40;Doses of the pain reliever
@@ -70193,8 +70229,8 @@ peacock blue;50
 peacock pose;50
 peacock poses;50
 peacocks;50
-peacock tail;50
-peacock tails;50
+peacock tail;60
+peacock tails;60
 Peacock Throne;50
 peafowl chick;50
 peafowl chicks;50
@@ -71073,6 +71109,8 @@ phenom;50
 phenomena;50
 phenomenon;50
 phenoms;50
+pheromone cocktail;60
+pheromone cocktails;60
 pH factor;50
 pH factors;50
 phi;50
@@ -80849,6 +80887,8 @@ sake bar;60
 sake bars;60
 sake bomb;50
 sake bombs;50
+sake cocktail;50
+sake cocktails;50
 sake cup;60
 sake cups;60
 sake set;50
@@ -84796,7 +84836,8 @@ Shreveport;40;Louisiana city
 Shreveport, LA;30
 Shrewsbury;40;English town
 Shri;20;Sri variant
-shrimp cocktails;50
+shrimp cocktail;60
+shrimp cocktails;60
 Shrimpton;40;Jean Shrimpton, 1960s supermodel
 Shriner;40;Fez-wearing fraternal order member
 Shriners;50;Fez-wearing fraternal order
