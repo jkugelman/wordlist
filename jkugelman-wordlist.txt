@@ -10033,6 +10033,7 @@ Bennies;50;Amphetamine pills, slangily
 Bennifer;50
 Bennington;40;Chester Bennington, Linkin Park singer / Vermont college town
 Benny;50;Common first name
+Benny Hill Show;60
 Benoist;40;Melissa Benoist, "Supergirl" star
 Benoit;40;Joan Benoit, first Olympic women's marathon champ / Benoit Blanc, "Knives Out" sleuth
 Benoit Blanc;60;"Knives Out" detective
@@ -83437,7 +83438,7 @@ serotine;20;Late in developing, or a Eurasian bat
 serotonin;60
 serous;30;Of, resembling, or producing serum
 Serpens;40;Constellation "The Snake"
-Serpentine cocktail;60;Dress worn by Princess Di "in revenge" for Charles's admission of adultery
+Serpentine Cocktail;60;Dress worn by Princess Di "in revenge" for Charles's admission of adultery
 serpentine wall;60
 Serpent Mound;60;Prehistoric Native American monument
 Serpico;60
@@ -94305,6 +94306,7 @@ the Bechdel test;60
 the Beeb;50
 the bee's knees;60
 The Bends;50
+The Benny Hill Show;60
 Thebes;50;Ancient Greek or Egyptian city
 the Be Sharps;60;Homer's barbershop quartet
 The Best Exotic Marigold Hotel;60;2011 comedy drama film
@@ -102466,6 +102468,7 @@ watchdog groups;60
 watches;50
 watch fob;50
 watch fobs;50
+watch I'll show you;60
 watch it;60
 watchlist;50
 watchlists;50
