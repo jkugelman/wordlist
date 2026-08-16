@@ -17163,6 +17163,7 @@ Charlemagne;50;Frankish emperor
 Charlene;40;Feminine first name
 Charles;50;Ray Charles, musician / King Charles III
 Charles Atlas;60
+Charles Baskerville;50;Sherlock Holmes character
 Charles Martinet;50;Voice of Mario
 Charleston;50;South Carolina city / 1920s dance
 Charles Wright and the Watts 103rd Street Rhythm Band;50;Soul and funk band
@@ -42271,6 +42272,7 @@ Henrik Ibsen;50;"A Doll's House" playwright
 Henriksen;40;Lance Henriksen, "Aliens" actor
 Henri Poincare;50
 Henry;50;Common given name and surname
+Henry Baskerville;50;Sherlock Holmes character
 Henry Hyde;40;House rep Henry Hyde (R-IL, 1975-2007)
 Henry I;40
 Henry II;30
@@ -44027,6 +44029,7 @@ Houghton;40;Houghton Mifflin, publisher
 Hou Hsiao-hsien;40;Taiwanese director, actor (born 1947)
 Houlihan;40;Hot Lips Houlihan, "M*A*S*H" major
 Hoult;40;Actor Nicholas Hoult
+Hound of the Baskervilles;60;Sherlock Holmes novel, with "The"
 Hounsou;40;Djimon Hounsou, actor in "Gladiator" and "Blood Diamond"
 hourly rate;50
 hourly rates;50
@@ -49418,6 +49421,7 @@ Johnnie To;40
 Johnny;50;Common first name
 johnnycake;50
 johnnycakes;50
+Johnny Knoxville;60;Actor and "Jackass" star
 Johnny Marr;40;Smiths guitarist
 Johnny-on-the-spot;60
 John Petrucci;50
@@ -55980,6 +55984,8 @@ Louis Nye;40;Old comedian
 Louis Quatorze;50
 Louis VI;30
 Louisville;50;Kentucky Derby city
+Louisville, Kentucky;50
+Louisville Kentucky;0
 Louis XI;30
 Louis XIV;40;"The Sun King"
 Louis XV;30
@@ -62485,7 +62491,8 @@ mudra;30;Hindu dance gesture
 mudras;20
 mud-stained;50
 Mudvayne;40;Nu-metal band
-Mudville;50;Town with no joy, in "Casey at the Bat"
+Mudville;60;Town with no joy, in "Casey at the Bat"
+Mudville nine;60
 mud wrap;50
 mud wraps;50
 Mueller;50;Robert Mueller, Russia investigation special counsel
@@ -85838,6 +85845,7 @@ sips at;40
 sips on;40
 Siqueiros;40;David Alfaro Siqueiros, Mexican muralist
 sir;50
+Sir Charles Baskerville;50;Sherlock Holmes character
 sirdar;20
 siree;40
 sirene;30
@@ -85847,6 +85855,7 @@ sirenian;30;Sea cows
 sirenians;30
 Sir Gareth;50
 Sirhan;40;Sirhan Sirhan, RFK's assassin
+Sir Henry Baskerville;50;Sherlock Holmes character
 Siri;50;Apple's voice assistant
 Siri AI;50;Siri AI, a smarter version of Apple's Siri voice assistant
 Sir Ian Holm;50
@@ -89049,6 +89058,7 @@ square root signs;50
 squares off;50
 squares off against;50
 Squarespace;50;Website builder
+Squaresville;60
 square the circle;60
 squaring off;50
 squaring off against;50
@@ -90065,7 +90075,7 @@ Stetsons;40;Cowboy hats
 stetted;40
 stetting;40
 Steuben;40
-Steubenville;40;Ohio city on the Ohio River
+Steubenville;50;Ohio city on the Ohio River
 Steve;50;Common first name
 Steve Guttenberg;50
 Steve Harrington;50;"Stranger Things" character
@@ -94118,6 +94128,7 @@ tesserae;40;Mosaic tiles
 Tesses;30;Plural name
 Tessie;40;Various
 Tessio;40;Sal Tessio, Abe Vigoda's character in "The Godfather"
+Tess of the d'Urbervilles;60
 testaceous;30
 testae;20
 Testarossa;60;Ferrari sports car
@@ -95000,6 +95011,7 @@ the horror;60
 the hot corner;50;???
 the hots;60
 the hound;60
+The Hound of the Baskervilles;60;Sherlock Holmes novel
 The House of Ghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
 The House of the Rising Sun;60
 The Hub;20
@@ -95249,6 +95261,7 @@ the Mrs. and I;50
 themself;40
 them's the rules;60
 the mud;20
+the Mudville nine;60
 the multiverse;50
 The Mummy;60
 The Mummy's Tomb;50;1942 horror film starring Lon Chaney Jr.
@@ -101252,6 +101265,18 @@ vaticinator;30;???
 Vatnajokull;40;Vatnajökull, Iceland's largest glacier
 vau;20
 Vaud;40;Swiss canton
+vaudeville;60
+vaudeville act;60
+vaudeville acts;60
+vaudeville bit;50
+vaudeville bits;50
+vaudeville era;60
+vaudeville performer;60
+vaudeville performers;60
+vaudeville show;60
+vaudeville shows;60
+vaudeville theater;60
+vaudeville theaters;60
 Vaughan;50;Sarah Vaughan, jazz singer / Stevie Ray Vaughan, guitarist
 Vaughn;40;Vince Vaughn, actor / Robert Vaughn, "The Man from U.N.C.L.E." star
 vaunter;40;Braggart
@@ -101762,9 +101787,12 @@ villain of the week;60
 villains of the week;60
 Villanova;50;Philadelphia-area university and hoops power
 Villarreal;40;Spanish soccer club
+-ville;40
 Villechaize;50;Hervé Villechaize, Tattoo on "Fantasy Island"
 Villeneuve;60
 Villette;40;Charlotte Brontë novel
+villi;30;Soft hairs
+villus;30;Soft hair
 Vilmos;40;Vilmos Zsigmond, Oscar-winning cinematographer
 Vilnius;50;Capital of Lithuania
 Vilsack;40;Tom Vilsack, agriculture secretary
@@ -103347,6 +103375,7 @@ weird flex but OK;60
 weird flex but okay;60
 weirdo;50
 weirdos;50
+Weirdsville;40;2007 black comedy film
 weirs;40
 Weiss;40;D.B. Weiss, "Game of Thrones" co-creator / Erich Weiss, Houdini's birth name
 Weisse;40;Berliner Weisse, tart wheat beer
@@ -104469,7 +104498,7 @@ who's we;60
 who's who;60
 Whovian;50;"Doctor Who" fan
 Whovians;50;"Doctor Who" fans
-Whoville;50;Dr. Seuss town
+Whoville;60;Dr. Seuss town
 who was it?;50
 who was it;0
 who was that?;50
