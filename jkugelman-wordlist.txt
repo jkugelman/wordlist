@@ -23214,6 +23214,7 @@ dead sexy;60
 dead shot;60
 dead silence;60
 dead silent;60
+Dead Space;60;Science fiction horror video game franchise
 Deadspin;40;Sports news and commentary site
 dead spot;60
 dead tired;60
@@ -23525,6 +23526,7 @@ DeepSeek;40;Chinese AI company
 deep sleep;60
 deep sleeper;60
 deep sleepers;60
+deep space;60
 deep state;60
 deep thoughts;60
 Deep Thoughts by Jack Handey;60
@@ -25623,6 +25625,7 @@ dogsbody;60
 dogshit;10
 dog show;60
 dog shows;60
+Dogs in Space;50;1986 punk rock movie / Netflix animated series
 dog sit;50
 dog sits;50
 dog sitter;50
