@@ -4333,6 +4333,7 @@ an honest mistake;60
 Anhui;30;Eastern Chinese province
 Ani;40
 an I for an eye;0
+A Nightmare on Elm Street;60
 Anika;30;Singer, not super notable?
 anil;40;Dye, or first name
 anilide;20;Fungicide compound
@@ -28810,7 +28811,7 @@ Elmo;50;Sesame Street muppet
 Elmore;40;Elmore Leonard, crime novelist / Elmore James, bluesman
 Elmo's;40;St Elmo's fire, or ticklish dolls
 Elmo's Song;60
-Elm St;40
+Elm St.;40
 Elm Street;60
 El Niño;50;Global climate phenomenon
 El Nino;0
@@ -36439,6 +36440,7 @@ Georgism;40;Henry George's land-tax philosophy
 Georgist;40;Follower of Henry George's land tax
 Georgists;40;Followers of Henry George's land value tax
 Georg Ohm;50
+Georg Wilhelm Steller;50;German biologist and explorer (1709–1746)
 Georgy;40;Georgy Zhukov, Soviet marshal / "Georgy Girl"
 geos;40
 geoscience;50
@@ -64389,6 +64391,7 @@ nightlife;60
 Nightline;50;Late-night ABC news show
 nightmare;50
 nightmare fuel;60
+Nightmare on Elm Street;60
 nightmarish;50
 night market;50
 night markets;50
@@ -104546,6 +104549,7 @@ Wilhelm;50;Kaiser Wilhelm / the stock Wilhelm scream
 Wilhelmina;50;Queen Wilhelmina of the Netherlands
 Wilhelm scream;60
 Wilhelm screams;60
+Wilhelm Steinitz;50;First World Chess Champion from 1886-1894
 wilily;30;Weird adverb
 Wilkerson;40;Isabel Wilkerson, author of "Caste"
 Wilkes;40;Annie Wilkes of "Misery" / John Wilkes Booth, assassin
