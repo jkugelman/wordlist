@@ -36401,7 +36401,7 @@ geocaching;50
 geocentrism;50
 geocentrist;50
 geocentrists;50
-GeoCities;50;1990s free web host
+GeoCities;60;1990s free web host
 geodesical;50
 geodesic grid;50
 geodesic grids;50
@@ -37007,6 +37007,8 @@ get ugly;60
 get up and down;60;In golf, get in the hole in two strokes
 get up steam;20;Made up
 get used to it;60
+get with it;60
+get with the program;60
 get with the times;60
 get your hands off me;60
 get your head examined;60
