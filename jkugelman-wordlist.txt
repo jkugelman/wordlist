@@ -10155,6 +10155,7 @@ Bernice;40;Bernice King, MLK's daughter / "Bernice Bobs Her Hair"
 Bernie;50;Common first name, or Bernie Sanders
 Bernie Mac;50
 Bernie's;40;"Weekend at Bernie's"
+Bernie Taupin;60
 Bernina;40;Piz Bernina, Swiss Alps peak / sewing machine brand
 Berninger;40;Matt Berninger, frontman of The National
 Bernini;40;Gian Lorenzo Bernini, Baroque sculptor
@@ -16897,7 +16898,7 @@ Chalons;40;Châlons, French city near Attila's defeat
 Chalotra;40;Anya Chalotra, "The Witcher" actor
 chalumeau;40;Predecessor of the modern clarinet
 chalumeaux;40;Predecessors of the modern clarinet
-Cham;40;Jorge Cham, "PhD Comics" creator / nuoc cham dipping sauce
+Cham;30;Jorge Cham, "PhD Comics" creator / nuoc cham dipping sauce
 chamberlain;60
 Chambord;40;Raspberry liqueur, or a Loire château
 Chamillionaire;50;Rapper behind "Ridin'"
@@ -36364,6 +36365,7 @@ Geordies;40;Newcastle natives
 Georg;40;Mathematician Cantor, composer Solti, and others
 George;50;Common given name
 George Bluth Sr.;60;"Arrested Development" character
+George Enescu;40;Romanian composer and violinist (1881–1955)
 George Harrison;60
 George Hearn;40;Broadway actor of "La Cage aux Folles"
 George I;30
@@ -36373,6 +36375,7 @@ George M.;30;1968 musical "George M!" about songwriter George M. Cohan
 George Michael;50
 George Michael Bluth;60;"Arrested Development" character
 Georges;40;Georges Braque, painter / Georges Bizet, composer
+Georges Enesco;40;Romanian composer and violinist (1881–1955)
 George Soros;50;Billionaire investor and philanthropist
 George Takei;60
 Georgetown;50;D.C. university
@@ -49271,6 +49274,7 @@ John Millington Synge;40;Irish writer and collector of folklore (1871–1909)
 John Muir;50
 John Nash;60
 Johnnie;40;Johnnie Walker, Scotch brand / Johnnie Cochran, lawyer
+Johnnie Taylor;50;Singer and songwriter (1934–2000)
 Johnnie To;40
 Johnny;50;Common first name
 johnnycake;50
@@ -49795,9 +49799,20 @@ Juul;40;Vaping brand
 Juuls;40;Vaping devices
 Juvederm;40;Dermal filler brand
 Juvenal;40;Roman satirist
+Juvenalian;40
+juvenescence;50
+juvenescent;50
+juvenile diabetes;50
+juvenile-onset diabetes;50
 juvenilia;50
-Juventud;40;Isla de la ___, Cuban island
-Juventus;50;Turin soccer club
+juvenilize;50
+juvenilized;50
+juvenilizes;50
+juvenilizing;50
+juvenoia;50;Fear of youth
+Juventud;40;Isla de la Juventud, Cuban island
+Juventus;40;Turin soccer club
+Juventus FC;40
 Juzo;30;Juzo Itami, Japanese actor, screenwriter, and film director (1933–1997)
 Juzo Itami;50;Japanese actor, screenwriter, and film director (1933–1997)
 JV;40
@@ -64246,6 +64261,8 @@ niente;40;Nothing: It.
 Nier;30;2010 Square Enix RPG
 Nier: Automata;50;2017 role-playing game
 Nier Automata;0
+nieta;40
+nietas;40
 Nieto;30;Mexican president, or "grandson"
 Nietzsche;60
 Nietzschean;50;Of the "Beyond Good and Evil" philosophy
@@ -89708,6 +89725,7 @@ Steph;50;Steph Curry, NBA sharpshooter
 Stephan;40;Stephan Pastis, "Pearls Before Swine" cartoonist
 Stephane;40;Stéphane Grappelli, jazz violinist / Stéphane Mallarmé, poet
 Stephanie;50;Common first name
+Stephanie Tanner;50;"Full House" character
 Stephanopoulos;50;George Stephanopoulos, ABC News anchor
 Stephanotis;50;Fragrant white flower
 Stephen;50;Common first name
@@ -99422,6 +99440,7 @@ Tyrannosaurus;60;Rex, notably
 Tyrannosauruses;50;Big-toothed dinosaurs
 Tyre;40
 Tyreek;40;Tyreek Hill, NFL receiver
+Tyreek Hill;40;NFL receiver
 Tyreke;30;Tyreke Evans, 2010 NBA Rookie of the Year, not great career after that though
 tyres;40
 Tyrese;40;Tyrese Gibson, singer and "Fast & Furious" actor
