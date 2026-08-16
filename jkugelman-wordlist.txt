@@ -1569,6 +1569,8 @@ adv;40
 Advaita;40;Advaita Vedanta, nondualist Hindu school
 advanced formula;50
 advanced search;60
+advance sale;50
+advance sales;50
 Advent calendar;50
 Advent calendars;50
 Adventism;40;Seventh-day Christian denomination
@@ -4083,6 +4085,8 @@ and God knows what;60
 and groan;20
 and guest;50
 and here's to you, Mrs. Robinson;60
+and how does that make you feel?;50
+and how does that make you feel;0
 Andhra;30;Andhra Pradesh, Indian state
 Andi;30;Partial "and I", or Disney Channel show "Andi Mack"
 Andie;40;Andie MacDowell, actress
@@ -15237,6 +15241,8 @@ cannoli;50
 cannolis;50
 cannon arm;50
 cannon arms;50
+cannot help;50
+cannot help but;50
 cannot hold a candle to;60
 cannot stay still;50
 cannot unsee;50
@@ -18888,6 +18894,8 @@ close look;50
 close looks;50
 closely related;50
 close on;30
+closeout sale;50
+closeout sales;50
 closes down;50
 closes in on;40
 closes on;30
@@ -23282,6 +23290,7 @@ death glare;60
 death grip;60
 death grips;30
 Death in the Afternoon;60;Wine cocktail
+Death of a Salesman;60
 death of the author;60
 Death Row Records;60
 death saving throw;60
@@ -34243,8 +34252,8 @@ Forrests;20
 fors;20
 for-sale ad;50
 for-sale ads;50
-for sale sign;50
-for sale signs;50
+for sale sign;60
+for sale signs;60
 Forsberg;40;Peter Forsberg, Hall of Fame hockey center
 Forster;40;E. M. Forster, "A Passage to India" author
 Forsyte;40;Family of "The Forsyte Saga"
@@ -39639,6 +39648,7 @@ group Pteridospermae;20
 group Pteridospermaphyta;20
 group pursuing an interest or issue;0
 group pushing an issue;0
+group sales;50
 group seven;40
 group seven element;40
 group seven elements;40
@@ -44074,6 +44084,8 @@ how can I;60
 how can I delete someone else's comment?;60
 how can I delete someone else's post?;60
 how cool;60
+how cool is that?;60
+how cool is that;0
 how could I be so naive?;60
 how could I be so naive;0
 how could I forget?;60
@@ -44084,15 +44096,23 @@ how could you forget;0
 how cute;60
 howdah;20
 howdahs;20
+How Deep Is the Ocean?;50;1932 song written and composed by Irving Berlin
 how delicious;60
 how delightful;60
-how did I miss that;60
+how did I miss that?;60
+how did I miss that;0
 how'd it go;60
 how does he do it;60;"What's that man's secret?!"
 how does it feel;60
-how does that even happen;60
+how does that even happen?;60
+how does that even happen;0
+how does that grab you?;60
+How Does That Grab You, Darlin'?;50;1966 song by Nancy Sinatra
+how does that look?;60
 how does that make you feel?;60
 how does that make you feel;0
+how does this look?;60
+how does this sound?;60
 how do I delete someone else's comment?;60
 how do I delete someone else's post?;60
 How Do I Make You;50;1980 single by Linda Ronstadt
@@ -44112,7 +44132,16 @@ how goes it;0
 Howie;50;Howie Mandel, comedian, among others
 How I Learned to Stop Worrying and Love the Bomb;60;"Dr. Strangelove" subtitle
 how is it;60
-how is that my fault;60
+how is that even possible?;60
+how is that even possible;0
+how is that fair?;60
+how is that fair;0
+how is that my fault?;60
+how is that my fault;0
+how is that possible?;60
+how is that possible;0
+how is this my fault?;60
+how is this my fault;0
 howitzer;50
 howitzers;50
 howl at;40
@@ -44121,13 +44150,20 @@ Howlin';40;Howlin' Wolf, blues great
 howling at;40
 howls at;40
 Howl's Moving Castle;60;Studio Ghibli movie
+how many is that?;50
 how many times?;60
+how many was that?;50
 how much do I owe you;60
+how much is that?;50
+how neat is that?;50
+how neat is that;0
 how're;50
 how revolting;60
 how RU?;40
 how rude;60
 how sad;60
+how sad is that?;60
+how sad is that;0
 how's business?;60
 Howser;40;Doogie Howser, teen TV doctor
 how should I know;60
@@ -44141,10 +44177,21 @@ how's it shakin', bacon?;60
 how's it shaking?;60
 how soon is too soon?;60
 how soon we forget;60
-how's that;60
-how's that again;60
+how's that?;60
+how's that;0
+how's that again?;60
+how's that again;0
+how's that even possible?;60
+how's that fair?;60
+how's that look?;60
+how's that my fault?;60
+how's that possible?;60
 how's the family?;60
 how's the family;0
+how's the water?;50
+how's this look?;60
+how's this my fault?;60
+how's this sound?;60
 how strange;60
 HowStuffWorks;50;Explainer website
 how the heck;60
@@ -44155,6 +44202,8 @@ how was it?;50
 how was it;0
 how was I to know?;60
 how was I to know;0
+how was that a foul?;50
+how was that a foul;0
 how weird;60
 howzit;40
 hoy;40
@@ -65338,6 +65387,8 @@ not hard;30
 no that's okay;60
 not have a penny;20
 not having it;60
+not helpful;60
+not helping;50
 not here;50;"Let's discuss this later"
 nothing beats new Hellmann's Dijonnaise;60
 nothing but net;60
@@ -65809,7 +65860,7 @@ numismatics;50
 numismatist;50
 numismatists;50
 numismatology;50
-numpads;40
+numpads;50
 numpties;20;Stupid people: Br.
 numpty;20;Stupid person: Br.
 numskull;60
@@ -67803,6 +67854,7 @@ open debates;50
 opened an IRA;20
 opened fire;50
 opened fire on;40
+opened in;40
 opened in on;40
 opened into;40
 opened on;40
@@ -67821,6 +67873,7 @@ opening bid;50
 opening bids;50
 opening fire;50
 opening fire on;40
+opening in;40
 opening in on;40
 opening into;40
 opening monologue;60
@@ -67869,6 +67922,8 @@ open secret;60
 open secrets;60
 opens fire;50
 opens fire on;40
+opens in;40
+open since;50
 opens in on;40
 opens into;40
 opens on;40
@@ -75494,6 +75549,7 @@ quires;30
 Quirinal;40;Roman hill and Italian presidential palace
 quirt;20;Whip with a braided leather lash
 quirts;20;Whips with a braided leather lash
+quis custodiet ipsos custodes?;60;Who will watch the watchmen?
 quit apologizing;60
 quite frankly;50
 quite often;50
@@ -80183,6 +80239,7 @@ RSA;20;South Africa -- Will Shortz won't accept it
 rsc;20
 rsi;20
 rso;20
+RSPCA;40;Animal welfare charity in England and Wales
 RSS;30
 RSS feed;30
 RSS feeds;30
@@ -81137,6 +81194,12 @@ sales leaders;60
 sales leads;50
 sales quota;50
 sales quotas;50
+sales rack;50
+sales racks;50
+sales rank;50
+sales ranks;50
+sales register;50
+sales registers;50
 sales tax;60
 Salford;30
 Salgado;40;Sebastião Salgado, Brazilian photographer (1944–2025)
@@ -84950,6 +85013,9 @@ showed respect for;40
 showed restraint;50
 showed results;60
 showed signs of life;60
+showed the door;60
+showed the ropes;60
+showed the ropes to;60
 shower;50
 shower beer;60
 shower beers;60
@@ -84981,11 +85047,17 @@ showing respect for;40
 showing restraint;50
 showing results;60
 showing signs of life;60
+showing the door;60
+showing the ropes;60
+showing the ropes to;60
 show match;50
 show matches;50
 show me;50
 show me the way;60
 show me what you got;60
+shown the door;60
+shown the ropes;60
+shown the ropes to;60
 show of force;60
 show of gratitude;60
 show of remorse;60
@@ -85022,6 +85094,12 @@ shows respect for;40
 shows restraint;50
 shows results;60
 shows signs of life;60
+shows the door;60
+shows the ropes;60
+shows the ropes to;60
+show the door;60
+show the ropes;60
+show the ropes to;60
 show to;20
 Showzen;40;"Wonder Showzen," MTV2 sketch series
 shr;20
@@ -92632,6 +92710,7 @@ talias;30
 Talib;30;Name
 Taliban;40
 Taliesin;40;Frank Lloyd Wright's home and school
+Talinum paniculatum;20;Species of shrub
 talipot;20;South Asian palm tree
 Talisa;20;Game of Thrones character
 talkaholic;40
@@ -98089,6 +98168,7 @@ travel guide;60
 travel guides;60
 traveling by train;30;Green paint
 traveling overseas;50
+traveling salesman problem;60
 Traveling Wilburys;60
 traveller;40
 travellers;40
@@ -104337,6 +104417,13 @@ Whovians;50;"Doctor Who" fans
 Whoville;50;Dr. Seuss town
 who was it?;50
 who was it;0
+who was that?;50
+who was that;0
+who watches the watchers?;60
+who watches the watchers;0
+who watches the watchmen?;60
+who watches the watchmen;0
+who will watch the watchmen?;60
 who woulda thought?;60
 who woulda thought it?;60
 who woulda thunk it?;60
@@ -104344,7 +104431,8 @@ who would have known?;60
 who wouldn't;60;"Anyone would say yes to that!"
 who would've thought?;60
 who would've thought it?;60
-who writes this stuff;60
+who writes this stuff?;60
+who writes this stuff;0
 who ya gonna call;60
 who ya gonna call? Ghostbusters.;60
 WHSmith;40;British travel retailer
@@ -106683,6 +106771,7 @@ you're no help;60
 you're not all that;60
 you're not better than me;60
 you're not buying it;60
+you're not helping;60
 you're not kidding;60
 you're not my type;60
 you're not serious;60
