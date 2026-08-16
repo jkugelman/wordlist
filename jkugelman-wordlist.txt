@@ -26432,6 +26432,8 @@ drainer;40;Kitchen device
 drainers;40
 drain filter;50
 drain filters;50
+drake;50
+Drake;50
 Drake "Drake Maye" Maye;50;Funny nickname given to the Patriots quarterback
 Drake Drake Maye Maye;0
 Drake Maye;40;NFL quarterback
@@ -35107,6 +35109,7 @@ Fuge;40;Beethoven's "Grosse Fuge"
 Fugees;50;Hip-hop trio of Lauryn Hill and Wyclef Jean
 Fugger;40;Jakob Fugger, Renaissance banking magnate
 Fuggers;40;German banking dynasty of the Renaissance
+fugit;40;Tempus fugit, "time flies"
 Fugs;40;The Fugs, 1960s satirical rock band
 fugu;50;Poisonous pufferfish
 fugue state;60
@@ -40846,6 +40849,10 @@ Harbaugh;50;Jim Harbaugh and brother John, football coaches
 Harbin;40;Chinese city known for its ice festival
 harbinger of doom;60
 harbingers of doom;60
+harbor a fugitive;50
+harbored a fugitive;50
+harboring a fugitive;50
+harbors a fugitive;50
 Harbour;40;David Harbour, "Stranger Things" actor
 Harburg;30;"The Wizard of Oz" lyricist Yip Harburg
 Harcourt;40;Publishing house, or Port Harcourt, Nigeria
@@ -80416,7 +80423,8 @@ Rupi Kaur;50;Poet Rupi Kaur (big on Instagram)
 Rupp;40;Adolph Rupp, Kentucky basketball coach
 Rupp Arena;40;Where the University of Kentucky Wildcats play
 RUR;20
-Rurik;40;Varangian founder of Russia's Rurik dynasty
+Rurik;30;Varangian founder of Russia's Rurik dynasty
+Rurik dynasty;40
 Ruritania;50;Fictional kingdom in "The Prisoner of Zenda"
 Rurouni;40;"Rurouni Kenshin" manga and anime
 Rus;20
@@ -82225,7 +82233,7 @@ Scottish;50;Of Edinburgh and environs
 Scottish accent;60
 Scottish accents;60
 Scotto;30;Soprano Renata Scotto
-Scott Rudin;50;EGOT-winning producer Scott Rudin
+Scott Rudin;40;EGOT-winning producer Scott Rudin
 Scotts;50;Miracle-Gro maker
 Scottsboro;40;Alabama town of the Scottsboro Boys case
 Scottsdale;50;Arizona city near Phoenix
@@ -86856,6 +86864,7 @@ snert;20;Dutch split pea soup
 SNES;40
 Sneva;30;Tom Sneva, 1983 Indy 500 winner
 sniatnuom;0
+snice;40;Portmanteau of snow and ice
 snicker;50
 snicker at;40
 snickerdoodle;60
@@ -94605,6 +94614,7 @@ the French Quarter;60
 The Frog Prince;60
 the Frug;40;1960s dance craze
 the fuck;10
+The Fugitive;60
 the fun police;60
 The Furies;50
 the game is afoot;60
