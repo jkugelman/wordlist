@@ -10099,6 +10099,7 @@ be one;20
 be on the lookout for;50
 Beothuk;40;Extinct Indigenous people of Newfoundland
 Beowulf;50;Old English epic hero
+be pessimistic;20
 be polite;60
 Beppo;40;Buca di Beppo, restaurant chain
 BeppoSAX;30;Italian-Dutch X-ray astronomy satellite
@@ -34970,6 +34971,7 @@ Fromm;30;Psychologist Erich (he's notable)
 Fromme;40;Lynette "Squeaky" Fromme, Manson follower who drew on President Ford
 from memory;50
 Frommer;40;???
+from pessimists;20
 from rags to riches;60
 from sea to shining sea;50
 from the hip;60
@@ -42446,6 +42448,7 @@ hero's journey;60
 hero's quest;60
 herp;20
 herpes;30
+herpes simplex lesion;10
 herpetic;20
 Herr;40
 Herren;40;German plural of Herr, gentlemen
@@ -68916,6 +68919,7 @@ overnight bags;50
 over one's dead body;50
 over par;50
 overperforming;50
+overpessimistic;50
 overpromise;60
 overpromise and underdeliver;60
 overpromise, underdeliver;60
@@ -71122,11 +71126,11 @@ Pesci;50;Joe Pesci, "Goodfellas" actor
 Peshawar;40;City in Pakistan
 Peshwari;40;Peshwari naan, sweet stuffed flatbread
 peso sign;50
-pessimization;60
-pessimize;60;Opposite of optimize
-pessimized;60
-pessimizes;60
-pessimizing;60
+pessimization;50;Opposite of optimization
+pessimize;50;Opposite of optimize
+pessimized;50;Opposite of optimized
+pessimizes;50;Opposite of optimizes
+pessimizing;50;Opposite of optimizing
 Pessl;20
 Pessoa;40;Fernando Pessoa, Portuguese poet of many heteronyms
 pesterer;40
