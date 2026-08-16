@@ -33,6 +33,7 @@
 11pm;40
 11-year-old;40
 11-year-olds;40
+120 Days of Sodom;50;Unfinished 1785 erotic novel by the Marquis de Sade, with "The"
 12am;50
 12 Angry Men;60;American legal drama film by Sidney Lumet
 12 drummers drumming;60
@@ -6985,7 +6986,7 @@ Attila;50;Attila the Hun, scourge of Rome
 attirer;20
 attirers;20
 Attlee;40
-ATTN;40
+attn;40
 attorney generals;50
 attractive offer;50
 attractive woman;20
@@ -40081,6 +40082,7 @@ gut bomb;50
 gut bombs;50
 gutbucket;60;Strident and forceful in jazz, or a homemade washtub instrument
 gutbuckets;60
+gute;40;"Gute Nacht!"
 guten;30
 Gutenberg;50;Johannes Gutenberg, printing press pioneer
 Guterres;50;António Guterres, UN secretary-general
@@ -45136,7 +45138,7 @@ I dub;20
 I dunit;20;An autobiographical or confessional account usually of a sensational character
 I dunits;20
 I dunno, I just work here;60
-I'd've;40;Double contraction
+I'd've;50;Double contraction
 idy;20
 idyl;30;Variant of idyll
 idylist;20
@@ -46671,6 +46673,7 @@ insatiate;30
 in scale;30;Awkward
 inseam;50
 inseams;50
+In Search of Lost Time;60;1913–1927 novel in seven volumes by Marcel Proust
 in season;60
 inseattle;0
 Insecta;30
@@ -49335,6 +49338,7 @@ Johnnie To;40
 Johnny;50;Common first name
 johnnycake;50
 johnnycakes;50
+Johnny Marr;40;Smiths guitarist
 Johnny-on-the-spot;60
 John Petrucci;50
 John Ruiz;50
@@ -55829,6 +55833,8 @@ Lotharios;60
 Loti;40;Pierre Loti, French novelist, or Lesotho currency
 lotl;20
 LOTR;40
+lotsa;40
+Lotso;40;"Toy Story 3" antagonist
 lots of;40
 Lott;40
 Lotte;40
@@ -58279,7 +58285,7 @@ Marquesas;40;French Polynesian islands
 Marquette;40;Milwaukee university, or the Michigan city
 Márquez;40
 Marquez;0
-Marr;40;Johnny Marr, Smiths guitarist
+Marr;30;Johnny Marr, Smiths guitarist
 Marrakesh;50;Moroccan city
 marram;30;Beach grass
 marrer;40
@@ -68067,6 +68073,7 @@ orders around;50
 order to;20
 ordinary life;50
 ordinee;20
+ordo;30
 OR doc;30
 OR docs;30
 Ordóñez;30;Baseball last name
@@ -75481,6 +75488,8 @@ quipus;20
 quire;30;Four sheets of paper, a twentieth of a ream
 quires;30
 Quirinal;40;Roman hill and Italian presidential palace
+quirt;20;Whip with a braided leather lash
+quirts;20;Whips with a braided leather lash
 quit apologizing;60
 quite frankly;50
 quite often;50
@@ -81165,10 +81174,12 @@ salmon oil;50
 salmon roll;60
 salmon rolls;60
 salmons;40
-Salo;40;Slavic cured pork fat / Pasolini's "Salò"
+Salo;30;Slavic cured pork fat
+Salò;20;1975 political art horror film
 Salome;50;Biblical dancer of the seven veils
 Salomon;40;Salomon Brothers, Wall Street firm / ski gear brand
 Salonga;40;Lea Salonga, "Miss Saigon" star and Disney singing voice
+Salò, or the 120 Days of Sodom;50;1975 film by Pier Paolo Pasolini
 Sal's;30
 salsa band;60
 salsa bands;60
@@ -94409,6 +94420,7 @@ Thayer;40;Ernest Thayer, "Casey at the Bat" author
 THC;40
 THD;20
 the;50
+The 120 Days of Sodom;50;Unfinished 1785 erotic novel by the Marquis de Sade
 The 40-Year-Old Virgin;60;2005 Steve Carrell comedy
 the 99.9%;60
 Thea;30
@@ -100811,8 +100823,8 @@ utter tripe;60
 U-tube;30;Lab equipment
 Utz;50
 Utzon;30;Jørn Utzon, Sydney Opera House architect
-UV-A;40
-UVA;40
+UV-A;40;Form of electromagnetic radiation
+UVA;40;University of Virginia
 Uvalde;30
 UV-B;40
 uvea;40
@@ -107452,7 +107464,7 @@ Zurich;50;Swiss financial capital
 Zusak;40;Markus Zusak, "The Book Thief" author
 zut;20
 Zutons;40;The Zutons, British band who wrote "Valerie"
-Zuu;40;???
+Zuu;20;???
 Zuul;40;"Ghostbusters" demon, as in "There is no Dana, only Zuul"
 Zuzu;30
 Zvonareva;40;Vera Zvonareva, Russian tennis player
