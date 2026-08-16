@@ -2944,6 +2944,8 @@ all bark and no bite;60
 all bark, no bite;60
 all-beef hot dog;60
 all-beef hot dogs;60
+all-beef patties;60
+all-beef patty;60
 all bets are off;60
 all better;60
 allbunnynewyork;0
@@ -6995,9 +6997,10 @@ attuned to;40
 attunes to;40
 attune to;40
 attuning to;40
-ATTY;40
-atty gen;30
-ATTYS;30
+atty.;40
+atty. gen.;30
+atty gen;0
+attys.;40
 Atul;40;Surgeon/author Atul Gwande
 ATV;40
 ATVs;40
@@ -16327,6 +16330,10 @@ cat treats;60
 cat tree;60
 cat trees;60
 catty-corner;60
+catty-cornered;60
+catty remark;50
+catty remarks;50
+cattywampus;60
 Catullus;40;Roman lyric poet
 Caturday;50;Cat meme day
 cat video;60
@@ -29600,6 +29607,7 @@ environed;40;Enclosed (by)
 environing;40
 Enviropig;40;Genetically engineered pig
 Enviropigs;40;Genetically modified pigs
+en vivo;40
 Envolver;40;"Envolver", Anitta hit
 enwiki;20;???
 Enya;40;"Orinoco Flow" singer
@@ -31949,6 +31957,7 @@ fattening up;50
 fattens up;50
 fatten up;50
 fatties;10
+fatty liver;50
 fatty tuna;60
 fat wallet;60
 Fauci;50;Anthony Fauci, longtime NIAID director
@@ -37731,6 +37740,7 @@ go back to sleep;50
 go back to square one;60
 go back to the drawing board;60
 go bag;50
+go batty;50
 gobbet;40;Lump of flesh, spit, etc.
 gobbets;40
 Gobbledy;40;Gobbledy Gooker, WWE turkey mascot
@@ -37832,6 +37842,7 @@ goes awry;50
 goes back to;40
 goes back to square one;60
 goes back to the drawing board;60
+goes batty;50
 goes behind;40
 goes big;50
 goes blank;50
@@ -37989,6 +38000,7 @@ going awry;50
 going back to;40
 going back to square one;60
 going back to the drawing board;60
+going batty;50
 going behind;40
 going big;50
 going blank;50
@@ -38272,6 +38284,7 @@ gone at;30
 gone AWOL;40
 gone awry;50
 gone ballistic;40
+gone batty;50
 gone dark;40
 gone fishin';60
 gone fishing;60
@@ -45971,6 +45984,7 @@ I'm such an idiot;60
 I'm sure;50
 I'm terrible at names;60
 I'm terrible with names;60
+I'm That Type of Guy;50;1989 single by LL Cool J
 I'm the captain now;60
 I'm Thinking of Ending Things;60;2020 film by Charlie Kaufman
 I'm ticked;50
@@ -51709,6 +51723,8 @@ kraals;20;African villages
 Krab;50;Krusty Krab of "SpongeBob," or imitation crab
 Krabappel;50;Edna Krabappel, Bart's teacher on "The Simpsons"
 Krabby;50;Krabby Patty, SpongeBob burger
+Krabby Patties;60
+Krabby Patty;60
 Krabs;50;Mr. Krabs, "SpongeBob" boss
 Krackel;40;Hershey's crisped rice candy bar
 Krackels;40;Nestle Krackel bars
@@ -63309,6 +63325,8 @@ nattering on;40
 natter on;40
 natters on;40
 natty;40;Sharply-dressed
+Natty Boh;40;National Bohemian beer
+Natty Bumppo;50;Fictional character created by James Fenimore Cooper
 Natty Ice;50
 natural blond;60
 natural blonde;60
@@ -67101,6 +67119,9 @@ Omdurman;40;Sudanese city and 1898 battle site
 ome;20
 O'Meara;40;Mark O'Meara, retired professional golfer (born 1957)
 O'Mearas;20;Plural name
+omega-3;50
+omega−3 fatty acid;60
+omega-3 fatty acids;60
 omegas;40
 Omegaverse;40;Fan fiction subgenre
 Omegle;40;Defunct random-stranger chat site
@@ -70102,6 +70123,7 @@ Patton;50
 Patton tank;50
 Patton tanks;50
 Pat Toomey;40;Pennsylvania senator Pat Toomey (2011-2023)
+Patty Hearst;60
 pattypan;40
 pattypans;40
 Pau;20
@@ -70742,6 +70764,9 @@ Pepperdine;50;Malibu university
 Pepperidge;50;Pepperidge Farm, cookie brand
 pepper jack;50
 pepper jack cheese;50
+Peppermint Patties;60
+Peppermint Patty;60
+Peppermint Pattys;40
 pepperoni pizzas;50
 pepper shaker;50
 pepper shakers;50
@@ -88900,6 +88925,8 @@ squashing beefs;60
 squashing the beef;60
 squash the beef;60
 Squatty;40;Squatty Potty, toilet footstool
+Squatty Potties;60
+Squatty Potty;60
 Squawkzilla;50;Giant extinct New Zealand parrot
 Squawkzillas;40;???
 Squeakquel;50;"Alvin and the Chipmunks" sequel title
@@ -97956,6 +97983,8 @@ transections;40
 transects;40
 transexual;10;Transgender is preferred
 transexuals;10
+trans fatty acid;50
+trans fatty acids;50
 transferee;30
 transfer of ownership;50
 transferor;30;Legal term
@@ -99514,6 +99543,7 @@ type B's;50
 typed in;40
 Typee;40;Melville's first novel
 type in;40
+type of fatty acid;20
 typer;40
 typers;40
 types in;40
@@ -103336,6 +103366,7 @@ went awry;50
 went back to;40
 went back to square one;60
 went back to the drawing board;60
+went batty;50
 went behind;40
 went big;50
 went blank;50
