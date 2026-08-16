@@ -2430,6 +2430,7 @@ Akebono;30;???
 Akech;30;Adut Akech, South Sudanese-Australian model (born 1999)
 Akeelah;40;"Akeelah and the Bee"
 Akeem;30;"Coming to America" prince
+a keen;20
 Akela;40;Wolf in "The Jungle Book"
 Akelas;40;"Jungle Book" wolf leaders / Cub Scout leaders
 Akerlund;40;Jonas Åkerlund, music video director
@@ -4977,6 +4978,7 @@ apolunes;40
 a pony;20
 apoplexies;40
 apoplexy;50
+aporia;40;State of puzzlement or expression of doubt, in philosophy and rhetoric
 aport;30;On the left side of the boat
 APOs;30;Army Post Offices
 aposematic;40
@@ -6278,6 +6280,7 @@ asked in;40
 asked no favors;50
 asked of;40
 asked to;40
+as keen;20
 asker;50
 askers;50
 ask for;40
@@ -11861,7 +11864,7 @@ boff;30
 boffed;30
 boffos;30
 boffs;30
-Bofors;40;Swedish arms maker known for its anti-aircraft gun
+Bofors;30;Swedish arms maker known for its anti-aircraft gun
 bog;50
 Bogan;40;Louise Bogan, poet laureate
 bogart;60
@@ -14362,6 +14365,7 @@ BWI;40
 bxq;20
 by;50
 bya;20
+by all accounts;50
 by all means;60
 by a mile;50
 by and by;50
@@ -22242,6 +22246,7 @@ cybernetics;60
 cybersecurity;60
 Cybertruck;50;Tesla's angular pickup
 Cybertrucks;40;Tesla's angular pickups
+cybervigilantism;50
 Cybill;40;Cybill Shepherd, actress
 cyborg;60
 cyborgs;60
@@ -22384,6 +22389,7 @@ daerbana;0
 Daewoo;40;South Korean carmaker
 dafe;20
 Dafne;40;Dafne Keen, "Logan" actress
+Dafne Keen;40
 Dafoe;50;Willem Dafoe, actor
 da fuck?;10
 dafuq;50
@@ -25789,6 +25795,7 @@ donair;40;Canadian version of doner kebab
 donairs;40
 Donalbain;40;"Macbeth" son of Duncan
 Donald;50;Donald Duck, among many others
+Donald Keene;40
 Donaldson;50
 Donald Trump;10
 Donald Trump Jr.;10
@@ -37122,7 +37129,12 @@ GI Joe;60
 GI Joes;60
 Gil;40;Gil Scott-Heron
 Gila;50;Gila monster, or the Arizona river
-Gila monster;50
+Gila Desert;20
+Gila monster;60
+Gila monsters;60
+Gila National Forest;50;Protected area in New Mexico
+Gilas;40
+Gila Wilderness;50;Wilderness area in New Mexico
 Gilbert;50;Gilbert Gottfried, comedian / Elizabeth Gilbert, "Eat Pray Love" author
 Gilbert and;0
 Gilbert and Sullivan;60
@@ -50348,10 +50360,13 @@ keelson;30;Centerline of a ship
 Keelung;40;Taiwanese port city
 Keenan;40;Maynard James Keenan, Tool frontman
 Keene;30;Nancy Drew author Carolyn
+keened;40
 Keenen;40;Keenen Ivory Wayans, "In Living Color" creator
 keeners;20
 keen-eyed;50
-keens;30
+keening;40
+keens;40
+keen to;40
 keep after;50
 keep alive;50
 keep a secret;60
@@ -50746,6 +50761,8 @@ key question;50
 key questions;50
 Keyser;40;Keyser Soze, "The Usual Suspects" phantom
 Keyser Soze;60;"The Usual Suspects" phantom
+keyset;40;Chorded keyboard
+keysets;40;Chorded keyboards
 Keyshia;40;R&B singer Keyshia Cole (early 2000s)
 key signature;50
 key signatures;50
@@ -51043,7 +51060,11 @@ king's rooks;50
 King's Stilts;60;Dr. Seuss book, with "The"
 Kingston;50;Jamaican capital
 Kingstown;40;Capital of Saint Vincent and the Grenadines
+King Tut;60
 King Tutankhamen;60
+King Tutankhamun;60
+King Tut exhibit;50
+King Tut's tomb;60
 King Wenceslas;50
 Kinji;40;Kinji Fukasaku, "Battle Royale" director
 Kinkade;40;Thomas Kinkade, the "Painter of Light"
@@ -51510,8 +51531,8 @@ Kondabolu;40;Hari Kondabolu, "The Problem with Apu" comedian
 Kondo;40;Marie Kondo, or Mario/Zelda composer Kojo Kondo
 Kong;50;King Kong, or Donkey Kong
 Konglish;40;Korean-English hybrid speech
-Kongo;40;Central African kingdom
-Kongos;40;Band behind "Come with Me Now"
+Kongo;30;Central African kingdom
+Kongos;30;Band behind "Come with Me Now"
 Kong the Master;50;Alternative name or title for Confucius
 Konica;40;Camera brand, now Konica Minolta
 König;30;Burger king?
@@ -63009,6 +63030,8 @@ Namibian;40;Of Namibia
 Namibians;40;People of Namibia
 namings;30
 naming to;40
+namkeen;40
+namkeen lassi;40
 Namor;40;Namor the Sub-Mariner, Marvel's Atlantean king
 namredips;0
 nan;40
@@ -63040,8 +63063,8 @@ nandrolone;40;???
 Nanette;40;"No, No, Nanette" musical / Hannah Gadsby's special
 Nanjiani;40;Kumail Nanjiani, "Silicon Valley" actor
 Nanjing;50;Chinese city on the Yangtze
-nankeen;20
-nankeens;20
+nankeen;40
+nankeens;40
 Nanking;40;Older name for Nanjing
 Nanki-Poo;30
 Nannie;40;Civil Rights activist Nannie Helen Burroughs
@@ -65293,6 +65316,8 @@ not in right now;50
 not interested;60
 not in the cards;60
 not it;50
+not keen;40
+not keen to;40
 not kosher;60
 notless;0
 Notley;40;Rachel Notley, Alberta premier
@@ -84636,6 +84661,7 @@ Shonda;40;Shonda Rhimes, "Grey's Anatomy" creator
 Shondaland;60
 Shondell;40;Tommy James and the Shondells, "Mony Mony" band
 Shondells;40;Tommy James's backing band
+shōnen;40;Manga aimed at adolescent boys
 Shon Faye;40;British writer and activist (born 1988)
 Shonibare;40;Yinka Shonibare, British-Nigerian artist
 shooby;40;???
@@ -101477,6 +101503,7 @@ Vigée;40;Elisabeth Vigee Le Brun, French portraitist
 Vigee;0
 Vigenere;40;Vigenère cipher, polyalphabetic substitution scheme
 Viggo;50;Viggo Mortensen, "The Lord of the Rings" star
+vigilante justice;60
 Vigny;20;Alfred de ___
 Vigo;40;Spanish port city / Jean Vigo, French filmmaker
 Vigoda;40;Abe Vigoda, "Barney Miller" actor
@@ -101603,7 +101630,7 @@ viral images;60
 vireo;20;Songbird
 vireos;20
 Virgil;50;Roman poet of the "Aeneid"
-Virgil Abloh;50;Fashion designer and entrepreneur (1980–2021)
+Virgil Abloh;40;Fashion designer and entrepreneur (1980–2021)
 Virgilian;40;Of the "Aeneid" poet
 virgin ears;60
 Virginia;50;Old Dominion state
@@ -103964,6 +103991,7 @@ where there's a will there's a way;60
 where the rubber meets the road;60
 where to?;50
 where to;0
+where y'all at?;50
 where you at;60
 wherries;30
 wherry;30;Small British boat
@@ -105798,6 +105826,7 @@ Yale men;30
 Yalie;40
 Yalies;40
 Yalitza;40;Yalitza Aparicio, "Roma" star
+yalla;30;Arabic "hurry up"
 y'all ready for this;60
 Yalta;50;Site of the 1945 Allied conference
 Yalta Conference;60;Major WWII meeting
@@ -106702,7 +106731,10 @@ Yugoslavs;40;People of the former Balkan federation
 yuk;50
 Yukio;30
 Yukon;50;Canadian territory
-Yukon Gold;50
+Yukon Gold;60
+Yukon Gold potato;60
+Yukon Gold potatoes;60
+Yukon Golds;60
 Yukons;40;GMC SUVs
 Yul;40;Yul Brenner
 Yule;50;Christmastime
