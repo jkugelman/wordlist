@@ -53728,7 +53728,7 @@ leisures;30
 leisure time;50
 Leitch;40;David Leitch, Bullet Train/Fall Guy/Deadpool director
 Leiter;40;All-Star pitcher Al Leiter
-Leith;40;Prue Leith, "Great British Bake Off" judge / port of Edinburgh
+Leith;40;Prue Leith, "The Great British Bake Off" judge / port of Edinburgh
 Leithauser;40;Hamilton Leithauser, Walkmen singer
 leitmotif;60
 leitmotifs;60
@@ -74544,7 +74544,8 @@ PR teams;50
 Pru;20
 Prudential;50;Insurance giant
 Prudhomme;40;Paul Prudhomme, Cajun chef
-Prue;30;Celebrity chef Prue Leith
+Prue;40;Prue Leith, "The Great British Bake Off" judge
+Prue Leith;40;"The Great British Bake Off" judge
 Prufrock;50;J. Alfred Prufrock, T.S. Eliot's hesitant narrator
 prune Danish;50
 prune Danishes;50
