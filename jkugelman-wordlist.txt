@@ -4087,6 +4087,8 @@ and guest;50
 and here's to you, Mrs. Robinson;60
 and how does that make you feel?;50
 and how does that make you feel;0
+and how is that my fault?;60
+and how's that my fault?;60
 Andhra;30;Andhra Pradesh, Indian state
 Andi;30;Partial "and I", or Disney Channel show "Andi Mack"
 Andie;40;Andie MacDowell, actress
@@ -85014,6 +85016,7 @@ showed restraint;50
 showed results;60
 showed signs of life;60
 showed the door;60
+showed the flag;50
 showed the ropes;60
 showed the ropes to;60
 shower;50
@@ -85048,6 +85051,7 @@ showing restraint;50
 showing results;60
 showing signs of life;60
 showing the door;60
+showing the flag;50
 showing the ropes;60
 showing the ropes to;60
 show match;50
@@ -85095,9 +85099,11 @@ shows restraint;50
 shows results;60
 shows signs of life;60
 shows the door;60
+shows the flag;50
 shows the ropes;60
 shows the ropes to;60
 show the door;60
+show the flag;50
 show the ropes;60
 show the ropes to;60
 show to;20
