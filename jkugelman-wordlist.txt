@@ -1536,6 +1536,8 @@ adult ADHD;50
 adult cartoon;60
 adult cartoons;60
 adult cereal;60
+adult coloring book;60
+adult coloring books;60
 adult content;60
 adult daycare centre;20
 adult daycare centres;20
@@ -4854,6 +4856,7 @@ A P Carter;40;Country musician A. P. Carter (1891-1960)
 AP Chinese;50
 APCs;20
 ape;50
+apeak;30;In a vertical line, to a sailor
 apedom;50
 Ape Escape;60;Video game series
 apelet;20
@@ -7369,7 +7372,7 @@ avouu;0
 avowers;30
 Avram;40;Hebrew form of Abraham
 Avril;50;Avril Lavigne, pop-punk singer / Jane Avril, cancan dancer painted by Toulouse-Lautrec
-Avro;40;British aircraft maker, or the Apache data format
+Avro;40;Former British aircraft maker
 AV room;50
 AV rooms;50
 Avs;20
@@ -7420,6 +7423,7 @@ Awolnation;40;"Sail" rock band
 AWOLs;40
 a work of art;50
 a world of hurt;60
+a wrap;20
 AWS;40
 aw snap;60
 aw, thanks;60
@@ -22079,6 +22083,7 @@ curtest;30
 curtesy;30;Law term, see dower
 Curtin;40;Jane Curtin, original "SNL" cast member
 Curtis;50;Tony Curtis, actor / Curtis Mayfield, soul singer
+Curtis LeMay;40;Air Force general in WWII and the Cold War
 Curtiz;40;Michael Curtiz, "Casablanca" director
 curveball;50
 curveballs;50
@@ -26262,6 +26267,7 @@ Doug;50;Common first name / Nickelodeon cartoon
 doughnuttype;0
 Douglas;50;Douglas Adams, "Hitchhiker's Guide" author, among others
 Douglass;50;Frederick Douglass, abolitionist orator
+Doug Liman;40;"The Bourne Identity" director
 Doukhobor;40;Russian pacifist sect in Canada
 Doukhobors;40;Russian pacifist sect that settled in Canada
 do unto;50
@@ -28057,6 +28063,8 @@ Edgar Award;50
 Edgar Awards;50
 Edgard;40;Edgard Varèse, avant-garde composer
 Edgar Degas;50
+Edgar G. Ulmer;40;B-movie director (1904-1972)
+Edgar G Ulmer;0
 edge case;60
 edge cases;60
 edged in;40
@@ -39280,6 +39288,7 @@ Gregory;50;Common name: Gregory Peck, Gregory Hines
 Gregory I;30
 Greig;40;Tamsin Greig, British actress
 Greil;40;Greil Marcus, rock critic
+Greil Marcus;40;Rock critic
 Greiner;40;Lori Greiner, "Shark Tank" investor
 Greinke;40;Zack Greinke, Cy Young-winning pitcher
 greisen;30;???
@@ -40969,6 +40978,7 @@ hard reset;60
 hard roe;40
 hard R rating;60
 hard R ratings;60
+hard R's;40;Movie ratings, or phonetic (eep)
 hards;20;Flex or hemp refuse
 hard same;60;"Ditto"
 hardscape;50;Hard landscape materials in the built environment structures
@@ -49390,6 +49400,8 @@ Jollibees;40;Filipino fast-food chain outlets
 Jolliet;40;Louis Jolliet, Mississippi River explorer
 jollily;30;Weird adverb
 Jolson;50;Al Jolson, "The Jazz Singer" star
+Jolt Cola;60
+Jolt Colas;60
 Jolteon;50;Pokeyman
 jolter;30
 jolters;30
@@ -50016,7 +50028,7 @@ Kang and Kodos Johnson;60;Simpsons aliens
 kangaroo meat;60
 kangatarianism;60;Australian eco-friendly diet (vegetarian + kangaroos)
 Kangchenjunga;50;World's third-highest mountain
-Kangol;40;Hat brand
+Kangol;40;English hat brand
 Kangols;40;Hats from a British brand
 Kangxi;40;Kangxi Emperor, long-reigning Qing ruler
 Kanienkeha;40;The Mohawk language
@@ -53708,7 +53720,7 @@ Leland;40;Leland Stanford, railroad baron and university founder
 Lelands;30;Plural name
 Lem;30;Moon lander, or Stanislaw Lem
 Lemaitre;40;???
-LeMay;40;Curtis LeMay, Air Force general
+LeMay;40;Curtis LeMay, Air Force general in WWII and the Cold War
 Lemays;20
 Lemieux;50;Mario Lemieux, hockey Hall of Famer
 lemmata;40;Lemmas
@@ -56064,8 +56076,12 @@ LSTs;20;WWII landing ships
 LSU;40
 Lt.;40
 LTA;20
-Lt Col;40
-Lt Cols;40
+Lt. Col.;40
+Lt Col;0
+Lt. colonel;40
+Lt. Cols.;40
+Lt Cols;0
+Lt. Columbo;40
 LTD;40
 Lt. Dan;30;Gary Sinise's character Lt. Dan in "Forrest Gump"
 LTDs;20;Old Fords
@@ -67557,6 +67573,7 @@ on-ramp;50
 on-ramps;50
 onrce;0
 on record;50
+on red;40
 on red alert;30
 on rye;40
 Ons;40;Usually a FITB or "word after" [common]
@@ -79692,6 +79709,7 @@ Rommel;40;Erwin Rommel, German field marshal in WWII
 Romney;40;Mitt Romney, senator and 2012 presidential nominee
 Romo;40
 Romola;40;George Eliot novel / Romola Garai, actress
+Romola Garai;40;British actress
 romper room;50;Old kids' show
 Romulan;50;"Star Trek" alien
 Romulans;50;"Star Trek" antagonists
@@ -81217,7 +81235,7 @@ Samanta;40;Samanta Schweblin, Argentine writer
 Samantha;50;Common first name, as on "Bewitched"
 Samantha Irby;40;Comedian and writer (born 1980)
 Samanthas;30;Plural name
-Samar;40;Philippine island / Sima Samar, Afghan activist
+Samar;30;Philippine island / Sima Samar, Afghan activist
 samara;40
 Samaria;40;Region of Israel
 Samaritan;50;Good ___, helper
@@ -82659,6 +82677,7 @@ sea oak;40
 Sea of Cortez;50
 sea of troubles;60
 sea ooze;30
+Sea Org;40;Senior-most status of staff within the Church of Scientology
 sea otter;50
 sea otters;50
 sea pig;50;Pink sea cucumber that snuffles through muddy sentiment for food
@@ -88039,6 +88058,7 @@ SpaghettiOs;50;Canned pasta rings
 Spago;30;Wolfgang Puck restaurant
 Spahn;40;Left-handed Hall of Fame pitcher Warren Spahn (1940s/50s), eponymous Warren Spahn Award for best left-handed pitcher
 Spain;50;Country on the Iberian Peninsula
+spake;40
 spa lady;40;???
 Spalding;50;Sporting goods brand, or Esperanza Spalding, bassist
 Spalko;30;"Indiana Jones and the Crystal Skull" villain
@@ -92658,7 +92678,7 @@ Tamagotchi;50;Handheld digital pet of the '90s
 Tamagotchis;50;Digital pets on a keychain
 Tamahori;40;Lee Tamahori, "Once Were Warriors" director
 Tama Janowitz;50;"Slaves of New York" author
-Tamar;40;Tamar Braxton, singer / biblical figure
+Tamar;30;Tamar Braxton, singer / biblical figure
 Tamara;40
 Tamarac;20;Florida city
 tamari;30;Japanese soy sauce
@@ -99722,7 +99742,7 @@ Ulliel;40;Gaspard Ulliel, French actor
 Ullman;40;Tracey Ullman, comic actress
 Ullmann;40
 Ulm;20
-Ulmer;40;Edgar G. Ulmer, "Detour" director
+Ulmer;30;Edgar G. Ulmer, B-movie director (1904-1972)
 Ulmus alata;20;Winged elm
 Ulmus americana;20;American elm
 ulna;40
