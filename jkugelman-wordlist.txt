@@ -6011,6 +6011,9 @@ Artificial Rock;60;Acme invention
 artiste;50
 artistes;50
 art is the proper task of life;60;Nietzsche quote
+artistic liberties;60
+artistic liberty;60
+artistic license;60
 artist-in-residence;60
 artists-in-residence;60
 artist statement;60
@@ -19261,7 +19264,8 @@ co-counsels;50
 Cocteau;40;Jean Cocteau, French filmmaker and poet
 Cocytus;40;River of wailing in the underworld
 cod;50
-CODA;50;Children of Deaf Adults
+coda;50
+CODA;40;Children of Deaf Adults
 codded;30
 codding;30
 codebase;60
@@ -23409,6 +23413,7 @@ decathlon;50
 Decatur;30;Atlanta suburb
 Decca;40;Record label
 Deccan;40;Indian plateau
+dece;40;Decent
 decease;40
 December;50;Twelfth month
 Decemberists;50;Portland indie folk band
@@ -28562,6 +28567,7 @@ Ek;40;Daniel Ek, Spotify cofounder
 ekacnapota;0
 Ekaterina;40;Russian form of Catherine
 Ekberg;40;Anita Ekberg, "La Dolce Vita" actress
+EKCO;40;Former kitchenware brand (changed to Corelle Brands in 2018)
 eke;50
 eke by;40
 eked by;40
@@ -36045,6 +36051,7 @@ Gatwick;50;London airport
 gaucho;40
 gauchos;40
 Gaudeamus;40;"___ igitur," student anthem
+Gaudeamus igitur;40;Traditional academic song in Europe
 gaudery;30;Gaudy display
 Gaudí;40
 Gaudi;0
@@ -40593,7 +40600,9 @@ Haligonians;50;Natives of Halifax, Nova Scotia
 Halina;40;Polish given name / Halina Reijn, Dutch director
 Hal Kemp;50
 Halkomelem;40;Coast Salish language
-Halldor;40;Halldór Laxness, Icelandic Nobel laureate
+Halldor;40;Halldór Laxness, Icelandic 1955 literature Nobelist
+Halldór Laxness;40;Icelandic 1955 literature Nobelist
+Halldor Laxness;0
 Halle;50;Halle Berry, actress / Halle Bailey, singer
 Halle an der Saale;50;City in Saxony-Anhalt, Germany
 Halleck;40;Henry Halleck, Union general
@@ -45337,6 +45346,7 @@ I get that;60
 I get that a lot;60
 'Iggins;40
 Iggy;50;Iggy Pop, rocker / Iggy Azalea, rapper
+igitur;30;"Gaudeamus igitur", traditional academic song in Europe
 iglesia;30
 Iglesias;50;Julio and Enrique Iglesias, singing father and son
 IGN;20
@@ -53977,6 +53987,7 @@ Leopold II;30
 Leopoldstadt;50;Vienna district, and Tom Stoppard's Tony-winning play
 Leopoldville;50;Kinshasa, formerly
 Leos;40;Astrologically...
+Leo Sayer;40;"You Make Me Feel Like Dancing" (1978) singer
 Leo V;20
 Leo VI;20
 Leo VII;20
@@ -62500,6 +62511,9 @@ mudpuppies;60
 mudpuppy;60
 mudra;30;Hindu dance gesture
 mudras;20
+mudslinger;60
+mudslingers;60
+mudslinging;60
 mud-stained;50
 Mudvayne;40;Nu-metal band
 Mudville;60;Town with no joy, in "Casey at the Bat"
@@ -73145,12 +73159,13 @@ Pompidou;50;Georges Pompidou, French president and Paris art center
 pom-pom;50
 pom-poms;50
 poms;40;Pomeranians
-Pon;40;"Pon de Replay," Rihanna hit / pon farr, Vulcan mating drive
+Pon;30;"Pon de Replay," Rihanna hit
 Ponca;20;Midwestern tribe
 Poncas;20;Midwestern tribe
 Ponce;40;Ponce de Leon, explorer / Puerto Rico's second city
 Ponch;30;???
 Ponchielli;40;Amilcare Ponchielli, "Dance of the Hours" composer
+Pon de Replay;50;2005 single by Rihanna
 ponderer;30
 ponderers;30
 Pondicherry;50;Former French colony in India
@@ -80150,6 +80165,7 @@ rottener;40;More rotten is standard
 rottenest;40;Most rotten is standard
 rotten idea;60
 rotten luck;60
+Rotten Tomatoes;60;Review aggregator for film and television
 rotten to the core;60
 Rotterdam;50;Dutch port city
 Rottie;40;Rottweiler, informally
@@ -83929,6 +83945,8 @@ settling into;40
 set-to;40
 set-top;50
 set-tos;40
+setup man;50;Relief pitcher who regularly pitches before the closer
+setup men;50;Relief pitchers who regularly pitch before the closer
 set upon;40
 set up shop;60
 set your house in order;60
@@ -86628,6 +86646,9 @@ Slimer;50
 Slimetime;40;"NFL Slimetime," Nickelodeon football show
 slimey;20
 SlimFast;50
+slinging mud;60
+sling mud;60
+slings mud;60
 Slinkys;40;Stair-walking toy springs
 Slinky toss;50
 Slinky tosses;50
@@ -86758,6 +86779,7 @@ sluice gates;50
 sluing;50
 slumlord;60
 slumlords;60
+slung mud;60
 Slurpee;60
 Slurpees;60
 slushies;60
@@ -93933,6 +93955,10 @@ Tennessee;50;The Volunteer State
 Tenniel;40;John Tenniel, "Alice in Wonderland" illustrator
 tennies;30;Tennis shoes???
 Tennille;40;Toni Tennille, of Captain and Tennille
+tennis ace;40
+tennis aces;40
+tennis anyone?;50
+tennis anyone;0
 tennish;20
 tennis pro;50
 tennis pros;50
@@ -93995,6 +94021,7 @@ tenth-gen consoles;40
 tenth-generation console;40
 tenth-generation consoles;40
 tenting;40
+ten to;40
 ten toes;20
 ten tonnes;20
 ten to six;20
