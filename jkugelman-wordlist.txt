@@ -1173,6 +1173,7 @@ activity centres;20
 act naive;40
 act natural;60
 act normal;60
+act of Congress;60
 act of parliament;50
 act of war;50
 Acton;40
@@ -1185,6 +1186,7 @@ acts as if;50
 acts for;40
 acts in;40
 acts naive;40
+acts of Congress;60
 acts of war;50
 acts on;40
 acts sad;30
@@ -3657,6 +3659,7 @@ American citizen;50
 American citizens;50
 American English;60
 American Express;60
+American Federation of Labor and Congress of Industrial Organizations;50
 American forces;50
 American Girl;60
 American Girl doll;60
@@ -3929,6 +3932,7 @@ Anacostia;40;Washington, D.C. river and neighborhood
 Anacreon;40;Greek lyric poet of wine and love
 Anacreontic;40;"The Anacreontic Song," tune of the national anthem
 Anacreontics;40;Poems in the manner of Anacreon
+an act of Congress;60
 Ana de Armas;60
 anadem;20;Head wreath
 anadems;20;Head wreaths
@@ -20117,6 +20121,21 @@ congestion pricing;60
 Congo;50;African country and river
 Congolese;50;Congo native
 congrats;50
+congressional approval;50
+Congressional Black Caucus;60
+congressional committee;50
+congressional committees;50
+congressional delegation;50
+congressional delegations;50
+congressional election;50
+congressional elections;50
+congressional hearing;50
+congressional hearings;50
+Congressional Medal of Honor;60
+Congressional Medals of Honor;60
+congressional oversight;50
+congressional page;50
+congressional pages;50
 congressional staffer;50
 congressional staffers;50
 Congreve;40;William Congreve, Restoration playwright
@@ -20221,6 +20240,7 @@ contemn;20;Treat with contempt
 contemned;20;Treated with contempt
 contemns;20;Treats with contempt
 contemporary french cooking;20
+contempt of Congress;60
 content creator;60
 content creators;60
 content farm;60
@@ -76211,6 +76231,7 @@ Rands;20;Plural name, not currency
 Randys;30;Plural name
 ran fast;30
 ran for;40
+ran for Congress;60
 ran for home;40
 ran for it;60
 rang a bell;60
@@ -80486,6 +80507,7 @@ runestone;60
 runestones;60
 run fast;20
 run for;40
+run for Congress;60
 run for home;40
 run for it;60
 run game on;60
@@ -80521,6 +80543,7 @@ running cold;50
 running commentary;60
 running fast;30
 running for;40
+running for Congress;60
 running for home;40
 running for it;60
 running game on;60
@@ -80582,6 +80605,7 @@ run scared;60
 runs cold;50
 runs fast;20
 runs for;40
+runs for Congress;60
 runs for home;40
 runs for it;60
 runs game on;60
@@ -84081,6 +84105,7 @@ sextuples;50
 Sextus;40;Sextus Empiricus, skeptic philosopher
 sexual activity;60
 sexual behavior;60
+sexual congress;50
 sex up;60
 Sex Wax;50
 sexy;60
@@ -95099,6 +95124,7 @@ the letter E;20
 the letter N;20
 The Libation Bearers;50;Book by Aeschylus
 the Liberty Bell;50
+the Library of Congress;50
 the Linc;50
 the Lincoln Memorial;20
 The Lion;40;???
@@ -100713,6 +100739,12 @@ US cities;30
 US city;30
 US coin;40
 US coins;40
+US congressman;50
+US congressmen;50
+US congresspeople;50
+US congressperson;50
+US congresswoman;50
+US congresswomen;50
 USD;40
 USDA;40
 use;50
