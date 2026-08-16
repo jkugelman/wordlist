@@ -11633,6 +11633,7 @@ blue rinses;60;Hair colorings
 blue sea;20
 blue shell;60;Mario Kart powerup
 blue shells;60
+blue shift;60;Voting phenomenon AKA red mirage
 blue skies;50
 blue sky;50
 bluesnarfing;60;Hacking of a device via bluetooth
@@ -23983,6 +23984,11 @@ denominated;40
 denominates;40
 denominating;40
 de novo;50
+densification;40
+densified;40
+densifies;40
+densify;40
+densifying;40
 Densmore;40;John Densmore, drummer for the Doors
 dental bridge;50
 dental bridges;50
@@ -77285,6 +77291,7 @@ Red Lobster;60
 Redman;20
 Redmayne;40;Eddie Redmayne, Oscar-winning actor
 Red Menace;50
+red mirage;60;Voting phenomenon AKA blue shift
 Redmon;40;Jessie Redmon Fauset, Harlem Renaissance writer
 Redmond;40;Washington city, Microsoft's home
 Redmond, WA;40
