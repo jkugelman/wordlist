@@ -1909,16 +1909,16 @@ aged like fine wine;60
 aged like milk;60
 agedness;40
 Agee;40;Pulitzer-winning writer James Agee
-age eight;50
-age eighteen;50
-age eighty;50
-age eleven;50
-age fifteen;50
-age fifty;50
-age five;50
-age forty;50
-age four;50
-age fourteen;50
+age eight;40
+age eighteen;40
+age eighty;40
+age eleven;40
+age fifteen;40
+age fifty;40
+age five;40
+age forty;40
+age four;40
+age fourteen;40
 age gap;60
 age gaps;60
 age gate;60;Age verification system
@@ -1926,6 +1926,7 @@ age gates;60
 age grade;50
 ageing;30;British spelling
 ageings;20
+age is just a number;60
 age level;50
 age levels;50
 age like a fine wine;60
@@ -1936,9 +1937,9 @@ age lines;60
 agemate;40
 agemates;40
 Agence;40;Agence France-Presse news service
-age nine;50
-age nineteen;50
-age ninety;50
+age nine;40
+age nineteen;40
+age ninety;40
 agent;50
 agentic;50;Self-sufficient A.I.
 agentic AI;60
@@ -1949,30 +1950,33 @@ Agent P;50;Codename for Perry the Platypus
 agentry;30
 agents;50
 Agents of Fortune;50;Blue Öyster Cult song/album
-age one;50
-age one hundred;50
+age one;40
+age one hundred;40
 ager;40;OK as a partial
 ageratum;30;Flower genus
 agers;40
-age seven;50
-age seventeen;50
-age seventy;50
-age six;50
-age sixteen;50
-age sixty;50
+age seven;40
+age seventeen;40
+age seventy;40
+age/sex/location;60
+age sex location;0
+age six;40
+age sixteen;40
+age sixty;40
 ages like a fine wine;60
 ages like fine wine;60
 ages like milk;60
 ages old;50;Ancient
-age ten;50
-age thirteen;50
-age thirty;50
-age three;50
-age twelve;50
-age twenty;50
-age twenty-one;50
-age two;50
+age ten;40
+age thirteen;40
+age thirty;40
+age three;40
+age twelve;40
+age twenty;40
+age twenty-one;40
+age two;40
 ageusia;20;Loss of sense of taste
+age verification;60
 age verification system;60
 age verification systems;60
 Agfa;30;Photographic film brand
@@ -4217,7 +4221,7 @@ an eye for eye and a tooth for a tooth;60
 an eye out for;20
 Ang;40
 angaria;20;Maritime law word
-Angela;40;Angela Bassett, actress / common first name
+Angela;50
 Angelababy;40;Chinese actress and model
 Angela's;40;"Angela's Ashes," Frank McCourt memoir
 Angeleno;50;Los Angeles native
@@ -7930,6 +7934,7 @@ Baduizm;40;Erykah Badu's debut album
 bae;40
 Baedeker;30
 Baedekers;30;Travel guides
+Bae Doona;40;South Korean actress (born 1979)
 Baekeland;40;Leo Baekeland, Bakelite inventor
 Baekhyun;40;EXO member and K-pop soloist
 Baer;40;1930s boxer Max Baer
@@ -9829,6 +9834,7 @@ Bela;40
 Belacqua;40;Lyra Belacqua, "His Dark Materials" heroine
 Belafonte;50
 Bela Lugosi;60
+Bel-Ami;40;1885 novel by Guy de Maupassant
 Belarus;50;Country east of Poland
 Belarusian;50;From Minsk, say
 Belarusians;40;People of Belarus
@@ -26016,7 +26022,8 @@ doomscrolling;60
 dooms to;40
 doom to;40
 Doomtree;40;Minneapolis hip-hop collective
-Doona;40;Bae Doona, Korean actress
+Doona;30;Bae Doona, South Korean actress (born 1979)
+Doona Bae;40;South Korean actress (born 1979)
 Doone;40
 do one a solid;40
 do one in;40
@@ -65910,7 +65917,7 @@ NY Mets;40
 Nynorsk;40;One of the two written standards of Norwegian
 NY NY;50
 Nyong'o;40;Lupita Nyong'o, Oscar-winning actress
-Nyoni;40;Rungano Nyoni, Zambian-Welsh filmmaker
+Nyoni;30;Rungano Nyoni, Zambian-Welsh filmmaker
 NYPD;50
 NyQuil;50;Nighttime cold medicine
 Nyquist;40;Harry Nyquist, of the Nyquist frequency
@@ -66066,6 +66073,7 @@ object-oriented programming;60
 objects to;40
 object to;40
 objet;40
+objets;40
 OBL;20
 oblast;40;Russian word for region/province
 oblasts;40
@@ -71358,6 +71366,7 @@ phs;20
 phthisis;30;Pulmonary tuberculosis
 Phu;20
 Phuket;40;Thai resort island
+phwoar;30
 PHX;30
 Phylicia;40;Phylicia Rashad, "The Cosby Show" actress
 Phyllida;40;Phyllida Lloyd, "Mamma Mia!" director / Phyllida Law, actress
@@ -73859,6 +73868,8 @@ press coverage;60
 pressed ham;50
 press event;60
 press events;60
+press F;20
+press F to pay respects;60
 press junket;60
 press junkets;60
 press kit;50
@@ -80306,7 +80317,8 @@ run for;40
 run for home;40
 run for it;60
 run game on;60
-Rungano;40;Rungano Nyoni, Zambian-Welsh director
+Rungano;30;Rungano Nyoni, Zambian-Welsh director
+Rungano Nyoni;40;Zambian-Welsh filmmaker
 rung around;30;Called around
 run home;50
 run interference;60
