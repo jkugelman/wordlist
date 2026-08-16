@@ -19269,6 +19269,8 @@ coffee mugs;50
 coffee nap;60;Nap after coffee, claimed to be extra energizing
 coffee naps;60
 coffee or tea;50
+coffee pot;50
+coffee pots;50
 coffee run;60
 coffee runs;60
 coffee rush;50
