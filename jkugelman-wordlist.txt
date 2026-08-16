@@ -16709,6 +16709,7 @@ centi-;40
 centime;40
 centimes;40
 centimo;40
+centimos;40
 Centineo;40;Noah Centineo, "To All the Boys" actor
 central artery;50;Boston freeway, or blood vessel
 central command;50
@@ -19046,6 +19047,7 @@ CMYK model;40
 C natural;50
 C-natural scale;30
 CNBC;40
+Cnemidophorus sexlineatus;20;Species of lizard
 CNET;40
 Cnidaria;30;Jellyfish and coral phylum
 CNN;50
@@ -19932,6 +19934,7 @@ comperes;20
 complete breakfast;50
 complete bullshit;10
 completed passes;50
+complete lie;50
 complete nightmare;60
 complete package;60;All-in-one deal
 completionist;60;Someone who works to finish tasks in their entirety
@@ -47952,6 +47955,7 @@ it's a bit of a stretch;60
 it's a blur;60
 it's above my pay grade;60
 it's academic;60
+it's a complete lie;60
 it's a complete nightmare;60
 it's a crying shame;60
 it's a cryin' shame;60
@@ -54052,6 +54056,7 @@ let it die;50
 let it drop;50
 let it go;60
 Letitia;40;Letitia James, New York attorney general / Letitia Wright, actor
+let it lie;50
 let it rip;60
 let live;50
 let me ask you something;60
@@ -54108,6 +54113,7 @@ let's hope so;60
 lets in on;40
 lets into;40
 lets it be known;60
+lets it lie;50
 let's just move on;60
 let's just move past it;60
 let's just say;60
@@ -54164,6 +54170,7 @@ letter R;40
 letters;50
 letters in;40
 letters of transit;50
+Letters to Juliet;50;2010 romcom
 letter T;40
 letter U;40
 letter V;40
@@ -54184,6 +54191,7 @@ letting back in;40
 letting in on;40
 letting into;40
 letting it be known;60
+letting it lie;50
 letting nature take its course;60
 letting off;40
 letting rip;50
@@ -59357,6 +59365,8 @@ mecha;40
 Mechagodzilla;50;Robotic Godzilla foe
 Mecham;30
 mechanical;50
+mechitza;40;Gender barrier in Jewish synagogues
+mechitzas;40;Gender barriers in Jewish synagogues
 mechs;50
 mech suit;60;Superpowered set of armor
 mech suits;60
@@ -84021,7 +84031,10 @@ Sexistential;40;???
 sex it up;60
 sex kitten;60
 sex kittens;60
+Sex, Lies, and Videotape;60;1989 film by Steven Soderbergh
+Sex Lies and Videotape;0
 sex life;60
+sex lives;60
 sex marathon;60
 sex marathons;60
 sex object;60
@@ -94307,6 +94320,7 @@ that's a big ask;60
 that's a big if;60
 that's a bit of a stretch;60
 that's above my pay grade;60
+that's a complete lie;60
 that's a dick move;60
 that's a fact;60
 that's a fine how do you do;60
