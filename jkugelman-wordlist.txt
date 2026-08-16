@@ -1253,6 +1253,7 @@ adapt to;40
 Adar;30;Hebrew month
 Adaware;40;Adblock software
 a day ago;30;Green paint
+a day late and a dollar short;60
 Adblock;40;Ad-blocking browser extension
 ad blocker;50
 ad blockers;50
@@ -8453,8 +8454,10 @@ bar associations;50
 Baratheon;50;"Game of Thrones" family
 Baratheons;50
 Barbadian;50;Rihanna, e.g.
+Barbadian dollar;50
 Barbadians;50;Natives of Barbados
 Barbados;50;Caribbean island nation
+Barbados dollar;50
 bar band;50
 bar bands;50
 Barbara;50;Common first name
@@ -10139,8 +10142,10 @@ Bermondsey;40;London district
 Bermuda;50;Atlantic island, or the triangle
 Bermuda buttercup;50
 Bermuda buttercups;50
+Bermuda dollar;50
 Bermudas;40;Knee-length shorts
 Bermudian;40;Of a British Atlantic territory
+Bermudian dollar;50
 Bermudians;40;Residents of a British Atlantic territory
 Bern;50;Capital of Switzerland
 Bernadette;50;Bernadette Peters, Broadway star
@@ -23010,6 +23015,7 @@ daydreams;60
 Dayenu;40;Passover seder song
 dayflies;30
 dayfly;30
+day late and a dollar short;60
 daylight savings;50
 daylight savings time;50
 daylight saving time;50
@@ -25708,12 +25714,16 @@ dolichocephaly;30;???
 Dolittle;50;Doctor Dolittle, the animal-talking vet
 Dolla;40;Ty Dolla Sign, rapper
 dollar;50
+dollar cost average;50
 dollar, dollar bills, y'all;60
+dollar, dollar bill, y'all;60
+dollar dollar bill y'all;0
 dollar sign;50
 dollar signs;50
 dollars to donuts;60
 dollar store;60
 dollar stores;60
+dollar symbol;40
 dolled up;50
 Dolley;40;Dolley Madison, first lady
 dollface;50
@@ -40919,6 +40929,7 @@ hardcore punk bands;60
 hard cut;60
 hard cuts;60
 hard disagree;60
+hard-earned dollars;50
 hard-earned money;60
 Hardee;40;Hardee's burger chain / William J. Hardee, Confederate general
 Hardee's;40;Burger chain
@@ -44314,7 +44325,9 @@ Hun;50
 Hunan;40;Chinese province known for spicy cuisine
 Hunanese;40;From Hunan province
 Hunches in Bunches;60;Dr. Seuss book
+hundereddollar;0
 hundo P;40;100%, slangily
+hundred-dollar;40
 hundred dollar bill;60
 hundred dollar bills;60
 hundreds of billions;20
@@ -50542,6 +50555,7 @@ Kennedy;50;JFK's family name
 Kennedy Center;60
 Kennedycurse;40;Alleged run of tragedies in one political family
 Kennedy era;50
+Kennedy half dollar;60
 kennedyinternational;0
 Kennedy International Airport;50
 kennedyinterrnational;0
@@ -60425,6 +60439,9 @@ Millicent;40;Old-fashioned first name
 Millie;40;Millie Bobby Brown, actress, among others
 Milligan;40;Spike Milligan, Goon Show comic
 Millikan;40;Robert Millikan, oil-drop experiment physicist
+Million Dollar Baby;60
+million-dollar question;60
+million-dollar questions;60
 millionths place;30
 mill run;40
 mill runs;40
@@ -64423,6 +64440,7 @@ nincompoop;60
 nine AM;50
 nine BC;20
 Nine Days;50;2020 fantasy drama film
+nine dollars;30
 Nine-Eleven;10
 Nine Inch Nails;60
 nine iron;50
@@ -64466,6 +64484,7 @@ nine to one;20
 nine to six;20;Work hours
 Ninette;40;Ninette de Valois, Royal Ballet founder
 Ninety Day Fiancé;60;Reality television series on TLC
+ninety dollars;30
 ninety-eight;40
 ninety-five;40
 ninety-four;40
@@ -67255,7 +67274,7 @@ one-day sale;60
 one-day sales;60
 Onederland;60;Dieter's target
 one dime;30
-one dollar;30
+one dollar;50
 OneDrive;40;Microsoft cloud storage
 one ear;30
 one-eared;40
@@ -80718,6 +80737,8 @@ Sacagawea golden dollar;60
 Sacagawea golden dollars;60
 Sacagaweas;50;Certain gold dollar coins
 Sacajawea;50;Alternative form of Sacagawea
+Sacajawea golden dollar;40
+Sacajawea golden dollars;40
 sacajjaawwea;0
 sac à main de voyage;50;Hermès's Kelly bag, formerly (sac à main de Voyage)
 Saccharomyces;40;Brewer's yeast genus
@@ -81324,8 +81345,8 @@ sand crab;50
 sand crabs;50
 sand dial;50
 sand dials;50
-sand dollar;50
-sand dollars;50
+sand dollar;60
+sand dollars;60
 sand dune;60
 sand dunes;60
 Sande;20;1930s jockey
@@ -85425,6 +85446,8 @@ silver bullet;60
 silver bullets;60
 Silverchair;40;Australian alt-rock band
 silver dollar;50
+silver dollar pancake;60
+silver dollar pancakes;60
 silver dollars;50
 Silverheels;40;Jay Silverheels, who played Tonto
 Silverman;50;Sarah Silverman, comedian
@@ -85818,6 +85841,7 @@ six iron;50
 six irons;50
 six-letter word;50
 six-letter words;50
+Six Million Dollar Man;60
 six of one;50;...Half a dozen of another
 six of one, half a dozen of another;60
 six of one half a dozen of another;0
@@ -91450,6 +91474,10 @@ Surya;30;Hindu sun god
 sus;50
 Susan;50;Susan B. Anthony, suffragist / common first name
 Susan B Anthony;60
+Susan B. Anthony dollar;50
+Susan B Anthony dollar;0
+Susan B. Anthony dollars;50
+Susan B Anthony dollars;0
 Susan Molinari;20;90s house rep
 Susann;40;Jacqueline Susann, "Valley of the Dolls" author
 Susanna;50;Common first name, as in "Oh! Susanna"
@@ -93109,6 +93137,7 @@ tax credit;50
 tax credits;50
 tax deed;50
 tax deeds;50
+tax dollar;20
 tax evader;50
 tax evaders;50
 tax holiday;60
@@ -95369,6 +95398,7 @@ the Silk Road;30
 The Simpsons Hit 'n' Run;20
 the Sinai;20
 the Sixers;50
+The Six Million Dollar Man;60
 the sixties;50
 the Skeleton Coast;60;Nickname for Namibia's coastline, which is foggy and littered with shipwrecks
 the sky is falling;60
@@ -95862,6 +95892,7 @@ thought-terminating cliche;0
 thought-terminating clichés;60
 thought-terminating cliches;0
 thought up;50
+thousand dollars;30
 thr;20
 Thrace;40;Ancient Greek region
 Thracian;30
@@ -99420,6 +99451,7 @@ Tycho;40;Astronomer Tycho Brahe
 Tycho Brahe;60
 Tyco;40;Legacy Mattel brand
 tyd;20
+Ty Dolla Sign;60
 Tye;20
 Tyehimba;40;Tyehimba Jess, Pulitzer-winning poet
 Tyga;40;Rapper
