@@ -88573,6 +88573,7 @@ sporulated;30
 sporulates;30
 sporulating;30
 sporulation;30
+'spose;40
 spot ad;50
 spot ads;50
 Spotify;60
