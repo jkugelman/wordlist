@@ -22110,6 +22110,7 @@ cut against the grain;60
 cut a rug;60
 cutaway gag;60
 cutaway gags;60
+cut a wide swath;60
 cut both ways;60
 cut class;50
 Cutco;30;Kitchen brand
@@ -22138,6 +22139,7 @@ cutpurses;60
 cut-rate;60
 cuts a deal;60
 cuts a rug;60
+cuts a wide swath;60
 cuts both ways;60
 cutscene;50
 cutscenes;50
@@ -22161,6 +22163,7 @@ cutthroat compounds;60
 cutthroat tactic;60
 cutting a deal;60
 cutting a rug;60
+cutting a wide swath;60
 cutting both ways;60
 cutting class;50
 cutting corners;50
@@ -24753,7 +24756,8 @@ dims out;40
 DiMucci;40;Dion DiMucci, "Runaround Sue" singer
 din;50
 Dina;40;Actress Dina Merrill, not super notable but used frequently
-Dinah;50;Dinah Shore, singer and talk show host
+Dinah;40;Dinah Shore, singer and talk show host
+Dinahs;30;Plural name
 dine al fresco;50
 dine at;40
 dined al fresco;50
@@ -30735,11 +30739,13 @@ Everton;40;Liverpool's other football club
 evertor;20
 everts;40
 Everwood;40;WB family drama
+Every 1's a Winner;40;1978 album by British band Hot Chocolate
 everybody knows;60
 Everybody Poops;60
 Everybody's;40;Possessive of everybody
 everybody's a comedian;60
 everybody's a critic;60
+Everyday Is a Winding Road;60;1996 single by Sheryl Crow
 everyday life;50
 Every Frame a Painting;60
 everyman;60
@@ -35984,6 +35990,7 @@ gave air to;40
 gave a lift;50
 gave a piece of one's mind;60
 gave a say to;40
+gave a wide berth;60
 gave ear;40
 gave ear to;40
 gave ground;50
@@ -37279,6 +37286,7 @@ give air to;40
 give a lift;50
 give a piece of one's mind;60
 give a say to;40
+give a wide berth;60
 give a wrong idea;20
 give ear;40
 give ear to;40
@@ -37295,6 +37303,7 @@ give me a ring;60
 Give Me One Reason;60
 give me some space;60
 given a say to;40
+given a wide berth;60
 Givenchy;50;French fashion house
 given the brush-off;60
 given the green light;60
@@ -37309,6 +37318,7 @@ gives air to;40
 gives a lift;50
 gives a piece of one's mind;60
 gives a say to;40
+gives a wide berth;60
 gives ear;40
 gives ear to;40
 gives ground;50
@@ -37342,6 +37352,7 @@ giving air to;40
 giving a lift;50
 giving a piece of one's mind;60
 giving a say to;40
+giving a wide berth;60
 giving ear;40
 giving ear to;40
 giving ground;50
@@ -46001,6 +46012,7 @@ inapproachable;20
 in a pretty pickle;60
 inaptpaint;0
 in Arabic;30
+in-area;50
 in a right pickle;60
 in armor;40
 in arms;40
@@ -47138,6 +47150,7 @@ iridescences;30
 iridescent;50
 iridesces;30
 iridic;30;Relating to the iris
+irie;20
 Irigaray;40;Luce Irigaray, feminist philosopher
 I, Rigoberta Menchú;40;Memoir of Rigoberta Menchú, 1992 Nobel Peace laureate
 I Rigoberta Menchu;0
@@ -47876,6 +47889,8 @@ it's a wash;60
 it's a waste of space;60
 it's a whole new ballgame;60
 it's a whole thing;60
+it's a win in my book;60
+it's a winner;50
 It's a Wonderful Life;60
 it's a wrap;60
 it says;20
@@ -66421,6 +66436,7 @@ Ofili;30;Chris Ofili, British painter
 ofiwo;20
 O'Flaherty;40;Liam O'Flaherty, Irish novelist
 ofo;20
+of old;50
 ofrenda;30;Día de los Muertos offering
 ofrendas;30;Día de los Muertos offerings
 of sound mind;60
@@ -81730,8 +81746,12 @@ sawhorses;50
 Saw II;30
 Saw III;30
 saw in;40
+sawing a lady in half;60
+sawing a woman in half;60
 sawing up;40
 saw into;30
+saw it;40
+saw it all;50
 Saw IV;30
 saw land;50
 sawmill;50
@@ -82818,6 +82838,8 @@ seeing eye to eye with;50
 seeing fit to;40
 seeing in;40
 seeing into;40
+seeing it;40
+seeing it all;40
 seeing land;50
 seeing over;30
 seeing red;50
@@ -82829,6 +82851,8 @@ seeing to;40
 seeing up;40
 seeing with the naked eye;60
 see into;30
+see it?;50
+see it all;50
 seek after;40
 seeking after;40
 seeking to;40
@@ -82863,6 +82887,7 @@ seen as;40
 seen at;40
 seen in;40
 seen into;30
+seen it;50
 seen it all;50
 see no evil;60
 seen over;30
@@ -82899,6 +82924,7 @@ sees eye to eye with;50
 sees fit to;40
 sees in;40
 sees into;30
+sees it;40
 sees land;50
 See Spot;40;Dick and Jane line
 sees reason;50
@@ -94860,6 +94886,7 @@ the Lost Generation;60
 the lot of you;60
 the Louisiana Purchase;20
 The Louvre;20
+The Love I Saw in You Was Just a Mirage;50;1967 single by Smokey Robinson & the Miracles
 The Lovers;60;Tarot card
 the luck of the draw;50
 the luck of the Irish;50
@@ -102418,6 +102445,8 @@ war room;50;From Dr. Strangelove
 war rooms;50
 Warsan;40;Warsan Shire, poet whose verse appears in "Lemonade"
 Warsaw;50;Capital of Poland
+Warsaw, Indiana;40
+Warsaw Indiana;0
 warship;50
 warships;50
 war song;50
@@ -103899,6 +103928,7 @@ where's the beef;0
 where's the fire;60
 where's the line?;60
 where's this going;60;"Alright, cut to the chase"
+where there's a will;50
 where there's a will there's a way;60
 where the rubber meets the road;60
 where to?;50
