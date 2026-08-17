@@ -29914,6 +29914,7 @@ Erik;50;Common first name
 Erika;40
 Erika Gard;20;Love ya but not crossworthy
 Erikson;40;Erik Erikson, psychologist / Leif Erikson, explorer
+Erik the Red;60;Norse explorer who founded the first European settlement in Greenland
 Erik Weisz;50;Harry Houdini's real name
 erily;20
 Erin;50;Poetic name for Ireland, or the common first name
@@ -86576,8 +86577,12 @@ slaves away at;40
 slave ships;50
 slaves over;40
 slave state;50
+slave to;40
 slave to fashion;60
-slave trade;50
+slave trade;10
+slave trader;10
+slave traders;10
+slave traffic;10
 slavey;20
 Slavic;50
 slaving;50
