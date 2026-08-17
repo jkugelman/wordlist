@@ -13566,6 +13566,7 @@ Brubaker;40;Ed Brubaker, comics writer, or the Redford prison film
 Brubeck;50;Dave Brubeck, "Take Five" jazz pianist
 Bruce;50;Common first name
 Brucella;30;Bacteria genus behind brucellosis
+Bruce Willis;60
 Bruch;40;Max Bruch, German Romantic composer
 Bruckheimer;50;Jerry Bruckheimer, blockbuster producer
 Bruckner;50;Anton Bruckner, Austrian symphonist
@@ -18396,6 +18397,7 @@ circled the block;60
 circled the drain;60
 circled the wagons;60
 circle of trust;60
+circle of Willis;40;Ring of blood vessels at the base of the brain
 circle overhead;50
 circles back around;50
 circles back to;50
@@ -20188,6 +20190,7 @@ Connery;50;Sean Connery, the first James Bond
 Connick;40;Harry Connick Jr., singer and actor
 Connie;50;Common first name, or Connie Chung
 Connie Sellecca;40
+Connie Willis;50;Science fiction writer with 11 Hugos and 7 Nebulas
 Connolly;40;Billy Connolly, Scottish comedian / Maureen Connolly, tennis champion
 Connor;50;Connor McDavid, hockey star, or John Connor of "The Terminator"
 Connors;40;Jimmy Connors, tennis great / Chuck Connors, "The Rifleman" star
@@ -50718,6 +50721,7 @@ Kelly bags;60
 Kelly Clarkson;60
 Kellyoke;40;Kelly Clarkson's cover song segment
 Kelly Slater;50
+Kelly Willis;40;Country singer (born 1968)
 Kelowna;40;British Columbia city
 kelp forest;60;Underwater area highly dense with kelp
 kelp forests;60;Underwater areas highly dense with kelp
@@ -103850,6 +103854,7 @@ Wesker;40;Albert Wesker, "Resident Evil" villain / Arnold Wesker, playwright
 Wesley;50;John Wesley, Methodism founder / common given name
 Wesleyan;40
 Wesleyans;40
+Wesley Willis;40;Musician and visual artist (1963–2003)
 Wessex;30
 Wesson;40;Smith & Wesson gunmaker, or cooking oil brand
 West Berlin;60
@@ -104913,6 +104918,7 @@ Willie;50;Willie Nelson, country singer / Willie Mays, baseball great
 Willis;50;Bruce Willis, "Die Hard" star, or the Chicago tower
 will I see you again?;60
 will I see you again;0
+Willis Reed;40;Hall of fame NBA player, coach, and GM
 Will It Go Round in Circles;50;1973 single by Billy Preston
 Willkie;40;Wendell Willkie, 1940 presidential candidate
 will-o'-the-wisp;60
