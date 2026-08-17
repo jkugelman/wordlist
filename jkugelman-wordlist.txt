@@ -7044,6 +7044,8 @@ AuDHD;40;Autism + ADHD
 Audi;50;German car brand
 Audiard;40;Jacques Audiard, French director
 Audie;40;NPR's Audie Cornish
+Audio Daily Double;60
+Audio Daily Doubles;60
 audio equalisation;30
 audio equaliser;30
 audio equalisers;30
@@ -22491,6 +22493,8 @@ dai;20
 Daikaiju;50;Surf punk band
 Dail;40;Dail Eireann, the Irish parliament
 Dailey;40;Dan Dailey, movie musical actor
+Daily Double;60
+Daily Doubles;60
 daily feed;50
 daily fiber;50
 daily habit;50
@@ -37817,6 +37821,8 @@ go ask dad;60
 go ask mom;60
 go astray;50
 goat;50
+goat cheese;60
+goat cheeses;60
 goated;60
 goat farmer;50
 goat farmers;50
@@ -45684,6 +45690,7 @@ I'll let it slide;60
 I'll let it slide this time;60
 I'll let this slide;60
 I'll live;60
+I'll make it a true Daily Double;60
 I'll manage;60
 ill-mannered;50
 Illmatic;50;Nas's classic debut album
@@ -54224,6 +54231,7 @@ let's just move on;60
 let's just move past it;60
 let's just say;60
 let's keep in touch;60
+let's make it a true Daily Double;60
 let's move past it;60
 lets nature take its course;60
 let's not be hasty;60;"We should avoid jumping to conclusions"
@@ -55350,6 +55358,8 @@ loach;40;Fish
 loaches;40
 load-bearing wall;50
 load-bearing walls;50
+loaded dice;60
+loaded die;60
 loaded gun;50
 loaded guns;50
 loaded in;40
@@ -69385,6 +69395,7 @@ paint flecks;50
 paint fumes;50
 paint gun;50
 paint guns;50
+paint horse;50;Breed of horse
 painting the corners;60;Throwing precisely onto the outer edges of home plate, as a baseball pitcher
 painting the town;50;Alternative form of painting the town red
 Paint It Black;60;Rolling Stones song
@@ -94933,6 +94944,7 @@ The CW4Kids;50;Saturday morning cartoon block
 the DA;40
 Theda;30;Theda Bara, silent film actress
 Theda Bara;40;Silent film actress
+the Daily Double;40
 The Daily Show;60
 The Daleks;40
 the damage is done;60
@@ -98924,6 +98936,8 @@ true crime podcasts;60
 true crime stories;60
 true crime story;60
 trued;40
+true Daily Double;60
+true Daily Doubles;60
 true desire;60
 true desires;60
 True Detective;60
@@ -101841,6 +101855,8 @@ Vidal;50;Gore Vidal, author / Vidal Sassoon, hairstylist
 Vidalia;40;Type of onion
 Vidalias;40;Sweet Georgia onions
 vide;40;Sous vide cooking technique
+Video Daily Double;60
+Video Daily Doubles;60
 videodisc;40
 videodiscs;40
 Videodrome;50;Cronenberg body-horror film
