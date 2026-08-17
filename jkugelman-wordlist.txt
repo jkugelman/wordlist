@@ -2272,6 +2272,8 @@ air departure;40
 air departures;40
 airdock;50
 airdocks;50
+aire;40
+-aire;30
 Airedale;50;Largest terrier breed
 Airedales;40;Largest terriers
 Airedale Terrier;50
@@ -8077,6 +8079,7 @@ Baja Blast;60
 Baja Mexico;60
 Bajan;40;Barbadian
 Bajans;40;Barbadians
+bajo;40
 Bajor;40;"Star Trek: Deep Space Nine" planet
 Bajoran;40;"Star Trek: Deep Space Nine" species
 Bajorans;40;"Star Trek: Deep Space Nine" species
@@ -23001,6 +23004,7 @@ Datsuns;40;Nissan's old cars
 Datsyuk;40;Pavel Datsyuk, Red Wings Hall of Famer
 datums;20
 Datura;40;Jimsonweed genus
+Datura stramonium;20;Species of flowering plant in the nightshade family
 dau;20
 dauber;30
 daubers;30
@@ -28739,7 +28743,7 @@ elephantssnacks;0
 El-Erian;30
 eless;20
 Eleusinian;40;Eleusinian Mysteries, ancient Greek rites
-elev;40
+elev.;40
 elevated horror;60
 élève;20;Student: Fr.
 eleven AM;50
@@ -31192,6 +31196,7 @@ extoller;30
 extollers;30
 extra hot;50
 extra mile;60
+extra money;40
 extra mustard;60
 extra olive;30;Green paint
 extra rare;50
@@ -32484,7 +32489,7 @@ Fenty Beauty;60;Fenty Beauty, fashion label founded by Rihanna
 Fenway;50;Boston ballpark
 Feore;40;Colm Feore, Canadian actor
 fer;20
-Ferb;50;"Phineas and Ferb" stepbrother
+Ferb;40;"Phineas and Ferb" stepbrother
 Ferber;40;Edna Ferber, "Show Boat" novelist
 Ferb Fletcher;50;From "Phineas and Ferb"
 Ferde;40;Ferde Grofé, "Grand Canyon Suite" composer
@@ -35865,6 +35870,7 @@ garden herbs;50
 Gardiner;40;Montana town at the entrance to Yellowstone
 Gardner;40;Ava Gardner, actress / Erle Stanley Gardner, Perry Mason creator
 Gareth;40
+Gareth Bale;40
 Garfield;50;Lasagna-loving comics cat / James Garfield, president
 Garfield and Friends;50
 garfish;40
@@ -37274,6 +37280,7 @@ Gilmore;40;"Gilmore Girls," or Happy Gilmore
 Gilmour;50;David Gilmour, Pink Floyd guitarist
 Gilpin;20;Actress Peri of "Frasier"
 Gilroy;40;Gilroy, California, garlic capital / Dan Gilroy, "Nightcrawler" director
+Gil Vicente;40
 Gimbels;40;Defunct department store chain
 Gimli;50;Dwarf in "The Lord of the Rings"
 gimp;10
@@ -42990,7 +42997,8 @@ Hisaishi;40;Joe Hisaishi, Studio Ghibli composer
 His Eminence;60
 His Excellency;60
 his loss;60
-his nobs;50
+his nob;30;Jack, in cribbage
+his nobs;30;Jack, in cribbage
 Hispandering;40;Pandering to Hispanic voters
 Hispania;40;Roman name for Iberia
 Hispanic;50;Of Spanish-speaking heritage
@@ -47478,6 +47486,7 @@ iron sharpens iron;60
 irons on;40
 ironstone;50;Rock rich in iron, used in pottery
 ironstones;40
+Iron Throne;60;From "Game of Thrones"
 Ironwoman;40;Female endurance triathlete
 Ironwomen;40;Female triathlon competitors
 Iroquoian;40;Native American language family
@@ -55845,7 +55854,8 @@ Lorca;40;Federico García Lorca, Spanish poet and playwright
 Lord Chancellor;50
 Lord Chancellors;50
 Lorde;50;Lorde, "Royals" singer / Audre Lorde, poet
-Lordi;40;Finnish metal band, 2006 Eurovision winners
+Lord, I;20
+Lordi;20;Finnish metal band, 2006 Eurovision winners
 lord it;20
 Lord Jim;50;Joseph Conrad novel
 Lord Kelvin;60
@@ -63239,12 +63249,15 @@ namecheck;60
 namechecked;60
 namechecking;60
 namechecks;60
+named one's price;50
 named to;40
 name of;40
 name one;60
+name one's price;50
 namer;40
 name recognition;60
 namers;40
+names one's price;50
 names to;40
 name to;40
 namflow;0
@@ -63252,6 +63265,7 @@ Namib;40;African desert
 Namibia;50;Country in southern Africa
 Namibian;40;Of Namibia
 Namibians;40;People of Namibia
+naming one's price;50
 namings;30
 naming to;40
 namkeen;40
@@ -63321,6 +63335,7 @@ Naoero;40;Official name of Nauru, as of 2026
 NaOH;30;Sodium hydroxide (lye)
 Naomi;50;Common first name: Campbell, Watts, Osaka
 Naomie;40;Actress Naomie Harris from modern Bond films
+Naomi Girma;40
 Naomis;30
 nap;50
 Napa;50;California wine valley
@@ -64877,7 +64892,8 @@ Noam;40;Noam Chomsky, linguist
 no Amex;20
 no angel;60
 no arms;30
-Nob;40;Head
+nob;40;Head
+Nob;40;Nob Hill
 Nobama;40
 Nobel;50;Alfred Nobel, prize founder
 Nobelist;50;Prize winner from Stockholm
@@ -64899,6 +64915,7 @@ nobody knows;60
 nobody saw that, right?;60
 Nobody Smurf;60
 nobroccoliforme;0
+nobs;40;Heads
 Nobu;40;Luxury sushi restaurant
 no bueno;50
 Nobunaga;50;Oda Nobunaga, warlord who began Japan's unification
@@ -65126,7 +65143,7 @@ nonoptional;50
 nonoptionally;50
 no, not at all;60
 no notes;60;"Perfect! 10/10"
-no, not ever;60
+no, not ever;50
 non-player character;60
 non-player characters;60
 nonpoet;30
@@ -65490,6 +65507,7 @@ not even;50
 not even a thank you;60
 not even once;50
 not even one;40
+not ever;50
 not exactly;60
 not fair;50
 not for;40
@@ -76566,7 +76584,7 @@ Rastafarian;60
 Rastafarianism;60
 Rastafarians;60
 Rastaman;40
-Rasta pasta;60
+Rasta pasta;60;Colorful pasta with jerk seasoning
 Rastas;40;Rastafarians, informally
 rat;50
 rata;40;Pro ___
@@ -81529,7 +81547,7 @@ Samoas;50;Coconut-caramel Girl Scout cookies
 Samora;40;Samora Machel, Mozambique's first president
 Samos;40;Greek island, Pythagoras's birthplace
 Samoset;40;First Indian to visit the Pilgrims
-Samothrace;50;Greek island of the Winged Victory
+Samothrace;40;Greek island of the Winged Victory
 Samoyed;50;Fluffy white sled dog
 Samoyeds;50;Fluffy Siberian dogs
 sampan;40;Asian boat
@@ -95147,6 +95165,7 @@ the Iron Cross;40
 The Iron Giant;60
 the Iron Horse;40
 The Iron Maidens;50;All-female tribute to heavy metal band Iron Maiden
+The Iron Throne;60;From "Game of Thrones"
 theirs;30
 the Isles;40;Nickname for the New York Islanders?
 Theiss;30;Actress Brooke Theiss, not super notable
@@ -98219,6 +98238,8 @@ Tramell Tillman;50;Tramell Tillman, "Severance" star
 tram line;40;Streetcar tracks and wires
 tram lines;40;Streetcar tracks and wires
 Trammps;40;The Trammps, "Disco Inferno" group
+tramontana;30;Northern wind
+tramontane;40;Northern wind
 Trampas;20;Cowboy villain in "The Virginian"
 trampled on;40
 trample on;40
@@ -100075,6 +100096,8 @@ Ultraman;40;Japanese superhero
 ultramodernism;50
 ultramodernist;50
 ultramodernists;50
+ultramontane;40
+ultramontanism;40
 ultrarich;60
 Ultravox;40;"Vienna" new wave band
 ultrawide;60
