@@ -15844,6 +15844,7 @@ Carolinian;40;North or South Carolina native
 Carolinians;50;Residents of two states
 Carolus;40;Carolus Linnaeus, father of taxonomy
 Carolyn;50;Common feminine first name
+Carolyn Willis;40;Member of 1970s R&B group Honey Cone
 Caron;30;Leslie Caron of "Gigi" [occasional]
 Carothers;40;Wallace Carothers, inventor of nylon
 carpals;30
@@ -54137,6 +54138,7 @@ less than stellar;60
 Lestat;50;Anne Rice's vampire
 Lester;50;Lester Holt, news anchor / Lester Bangs, rock critic
 Lesters;30;Plural name
+Lester Willis Young;40;Jazz saxophonist (1909–1959)
 Lestoil;40;Clorox cleaner
 Lestrade;40;Inspector Lestrade, Sherlock Holmes's Scotland Yard foil
 Les Troyens;50
@@ -96192,6 +96194,7 @@ Thomasin;40;Thomasin McKenzie, New Zealand actress
 Thomasina;40;Feminine form of Thomas
 Thomas Paine;60;Founding Father, inventor, political philosopher, and statesman
 Thomas Pynchon;60;Author of "Gravity's Rainbow"
+Thomas Willis;40;English physician and founding member of the Royal Society (1621–1675)
 Thomism;40;Philosophy of Thomas Aquinas
 Thomist;40;Follower of Thomas Aquinas
 Thomists;40;Followers of Thomas Aquinas
@@ -104374,6 +104377,7 @@ when is enough enough?;60
 when is it?;50
 when the shoe fits;60
 when the shoe fits, wear it;60
+when will I see you again?;60
 when will you learn;60
 when you get a chance;50
 where;50
@@ -104906,7 +104910,9 @@ Williamson;40;Zion Williamson, NBA forward
 Williams Sonoma;50
 William Stubbs;40;British historian and Anglican bishop (1825–1901)
 Willie;50;Willie Nelson, country singer / Willie Mays, baseball great
-Willis;40;Bruce Willis, "Die Hard" star, or the Chicago tower
+Willis;50;Bruce Willis, "Die Hard" star, or the Chicago tower
+will I see you again?;60
+will I see you again;0
 Will It Go Round in Circles;50;1973 single by Billy Preston
 Willkie;40;Wendell Willkie, 1940 presidential candidate
 will-o'-the-wisp;60
