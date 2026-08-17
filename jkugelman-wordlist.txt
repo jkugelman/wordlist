@@ -49482,6 +49482,7 @@ Johansen;40;David Johansen, New York Dolls frontman
 Johansson;50;Scarlett Johansson, actor
 Johar;40;Karan Johar, Bollywood director
 john;50
+John;50
 John B;30
 John Bonham;60;Led Zeppelin drummer
 John Cage;60
