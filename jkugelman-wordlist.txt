@@ -7587,6 +7587,8 @@ baa baa;40
 baabaabaa;40
 Baadasssss;50;"Sweet Sweetback's Baadasssss Song"
 Baader;40;Andreas Baader, Baader-Meinhof Group co-founder
+Baader-Meinhof;60
+Baader-Meinhof phenomenon;60
 Baahubali;40;Indian epic film series
 Baal;40
 Baalbek;40;Lebanese site of vast Roman temple ruins
@@ -10413,6 +10415,7 @@ Betty Crocker;60
 Betty Grable;50
 between a rock and a hard place;60
 Betye;40;Betye Saar, assemblage artist
+Betye Saar;40;Artist in the Black Arts Movement in the 1970s
 bet your bottom dollar;60
 Beulah;40;Beulah Land of Scripture / Beulah Bondi, actress
 be unaware of;20
@@ -15569,6 +15572,10 @@ car bombs;10
 Carbonari;40;19th-century Italian revolutionary society
 Carbonaro Effect;50
 carbon capture;60
+carbon date;60
+carbon dated;60
+carbon dates;60
+carbon dating;60
 Carbone;40;???
 carbon emissions;50
 carbon fiber;60
@@ -24640,6 +24647,10 @@ die-casting;50
 die-cast model car;50
 die-cast model cars;50
 die-casts;50
+diecinueve;40
+dieciocho;40
+dieciseis;40
+diecisiete;40
 died a death;50
 died back;40
 died on;30;Awkward to clue
@@ -24751,7 +24762,7 @@ digs into;40
 digs up dirt on;50
 dig up dirt on;50
 dihedral;30
-dihydrogen monoxide;50;Water, cheekily
+dihydrogen monoxide;60;Water, cheekily
 D-II;20
 D-III;20
 DIIV;30;Rock band
@@ -25812,6 +25823,8 @@ dolphin calf;50
 dolphin calves;50
 dolphin pose;50
 Dolphy;40;Eric Dolphy, jazz multi-instrumentalist
+dolsot;30;Stone bowl for serving bibimbap
+dolsots;30;Stone bowls for serving bibimbap
 do lunch;50
 Dom;40;Dom Pérignon
 Dombey;40;"Dombey and Son", Dickens novel
@@ -29891,6 +29904,7 @@ Eric Idle;50
 Eric IV;20
 Eric Roberts;50
 Ericsson;50;Swedish telecom company / Leif Ericsson, Norse explorer
+Eric the Red;40;More commonly spelled Erik
 Eridanus;30;Southern hemisphere constellation
 Erie;50;Great Lake
 Erie, PA;30
@@ -31977,6 +31991,7 @@ fathers-in-law;50
 fathers-to-be;50
 Father Time;60
 father-to-be;50
+fat hydrogenation;50
 Fatima;50;Common Arabic given name, and Our Lady of Fátima
 Fatimah;30
 Fatimas;30;Cigarettes popular in the early 1900s
@@ -36096,6 +36111,8 @@ gave it the old college try;60
 gave it to;40
 gave me the nod;20
 gave one's best;60
+gave the ax;60
+gave the axe;60
 gave the brush-off;60
 gave the green light;60
 gave the lie to;40
@@ -37156,6 +37173,10 @@ giant-killer;60
 giant-killers;60
 giant kite kit;60;Acme invention
 giant mousetrap;60;Acme invention
+giant panda;60
+giant panda cub;60
+giant panda cubs;60
+giant pandas;60
 giant rubber band;60;Acme invention
 giant scissors;60
 giant slalom;50
@@ -37412,6 +37433,7 @@ give me some space;60
 given a say to;40
 given a wide berth;60
 Givenchy;50;French fashion house
+given the axe;60
 given the brush-off;60
 given the green light;60
 given to;40
@@ -37433,6 +37455,8 @@ gives it a go;60
 gives it the old college try;60
 gives it to;40
 gives one's best;60
+gives the ax;60
+gives the axe;60
 gives the brush-off;60
 gives the green light;60
 gives the lie to;40
@@ -37442,6 +37466,8 @@ gives the stink eye;60
 gives way;50
 gives way to;40
 gives zero fucks;10
+give the ax;60
+give the axe;60
 give the brush-off;60
 give the green light;60
 give the lie to;40
@@ -37467,6 +37493,8 @@ giving it a go;60
 giving it the old college try;60
 giving it to;40
 giving one's best;60
+giving the ax;60
+giving the axe;60
 giving the brush-off;60
 giving the green light;60
 giving the lie to;40
@@ -37848,6 +37876,7 @@ God help me;60
 God help us;60
 God help us all;60
 go dim;30
+go directly to jail;60
 God is dead;60
 Godiva;50;Lady Godiva, or the chocolatier
 godlily;30;Weird adverb
@@ -42822,7 +42851,8 @@ Hillenburg;40;Stephen Hillenburg, SpongeBob creator
 Hillerman;40;Tony Hillerman, Navajo Tribal Police novelist
 Hillquit;40;Morris Hillquit, American socialist leader
 Hillsong;40;Australian megachurch and worship band
-Hilma;40;Hilma af Klint, Swedish abstract painting pioneer
+Hilma;30;Hilma af Klint, Swedish abstract painting pioneer
+Hilma af Klint;40;Swedish abstract painting pioneer
 Hilo;40;City on the Big Island of Hawaii
 Hilson;40;Keri Hilson, R&B singer
 Hilton;50;Hotel chain, or Paris Hilton
@@ -43619,8 +43649,10 @@ hoofed it;60
 hoofing it;60
 hoof it;60
 hoofs it;60
-hoo-hah;50;Kerfuffle
-hoo-hahs;50
+hoo-ha;40
+hoo-hah;40;Kerfuffle
+hoo-hahs;40
+hoo-has;40
 hooka;20;Variant of hookah
 Hooke;40;Robert Hooke, scientist behind Hooke's law
 Hooked on a Feeling;60
@@ -43640,8 +43672,12 @@ Hoople;40;Mott the Hoople
 hoopoe;20;Colorful bird
 hoopoes;20;Colorful birds
 hoorah;40
-hoorahs;30
+hoorahed;40
+hoorahing;40
+hoorahs;40
 hooray;50
+hoorayed;40
+hooraying;40
 hoorays;40
 hoosegow;60
 hoosgow;60
@@ -44618,7 +44654,18 @@ Hydro Flask;60
 Hydro Flasks;60
 hydrofoil;60
 hydrofoils;60
-hydrogen fuel;60
+hydrogenated fat;50
+hydrogenated fats;50
+hydrogen bromide;40
+hydrogen carbonate;40
+hydrogen fuel;50
+hydrogen fuel cell;60
+hydrogen fuel cells;60
+hydrogen ion;50
+hydrogen ion concentration;50
+hydrogen ions;50
+hydrogen power;50
+hydrogen-powered;50
 hydrolytic;40
 Hydrox;50;Cookie brand that predated Oreos
 hyena cub;50
@@ -57285,11 +57332,12 @@ Mainwaring;40;George Mainwaring, "Dad's Army" captain
 Mainz;40;German city on the Rhine, Gutenberg's home
 maiolica;40;Tin-glazed pottery
 Mairzy;40;"Mairzy Doats," novelty song
+mais;40;"Mais oui!"
 Maisel;40;Mrs Maisel of the Amazon comedy
 Maisie;40;"Game of Thrones" actress Maisie Williams
 maison;40;French house
 maisons;40
-mais oui;50
+mais oui;40
 Mai Tai cocktail;50
 Mai Tai cocktails;50
 Maitland;40;Maitland Ward, "Boy Meets World" actress
@@ -59649,7 +59697,9 @@ Meighen;40;Arthur Meighen, Canadian prime minister
 Meijer;40;Midwest supermarket chain
 Meijers;40;Meijer supermarkets
 Meiji;30;Japanese emperor
+mein;40
 Meineke;40;Car care chain
+Mein Kampf;10
 meioses;30
 meiotic;30
 Meir;40;Israeli PM Golda Meir
@@ -66635,6 +66685,7 @@ official pronouncer;50
 official pronouncers;50
 official stories;60
 official story;60
+official time in locality;20
 officinal;30
 Offill;40;Jenny Offill, "Dept. of Speculation" novelist
 offings;30
@@ -67369,6 +67420,8 @@ once and for all;60
 once daily;60
 oncee;20
 Once-ler;50
+Once Upon a Time in Hollywood;60
+Once Upon a Time in the West;60
 once you pop, you can't stop;60
 oncle;30;French for uncle
 on clearance;50
@@ -67691,6 +67744,7 @@ on LSD;50
 only a;20
 onlyagame;0
 OnlyFans;60
+only game in town;60
 only human;60
 Only Murders in the Building;60
 only scratched the surface;60
@@ -74247,6 +74301,7 @@ primatology;60
 Prime Directive;60
 prime factor;50
 prime factors;50
+prime interest rate;50
 prime meridian;60
 prime minister;50
 prime ministers;50
@@ -75171,6 +75226,7 @@ put one's feet up;50
 put one's finger on;60
 put one's house in order;60
 put one's mind to;50
+put one's name in;50
 put on ice;60
 put on the line;60
 put onto;40
@@ -75208,6 +75264,7 @@ puts one's feet up;50
 puts one's finger on;60
 puts one's house in order;60
 puts one's mind to;50
+puts one's name in;50
 puts on ice;60
 puts on the line;60
 puts out of one's misery;60
@@ -75249,6 +75306,7 @@ putting one over on;50
 putting one's feet up;50
 putting one's house in order;60
 putting one's mind to;50
+putting one's name in;50
 putting on ice;60
 putting on the line;60
 putting out of one's misery;60
@@ -75815,6 +75873,7 @@ radio antenna;50
 radio antennas;50
 radio button;50
 radio buttons;50
+radiocarbon dating;60
 Radio City;60
 Radio City Music Hall;60
 radioed in;40
@@ -80863,12 +80922,13 @@ saag;40
 Saale;30;River in Germany
 Saale glaciation;50;Glacial period in Europe
 Saale river;40;River in Germany
-Saar;40;Saar River / Betye Saar, assemblage artist
+Saar;30;Saar River / Betye Saar, assemblage artist
 Saarbrucken;40;German city near the French border
 Saaremaa;30;Estonian island
 Saariaho;40;Kaija Saariaho, Finnish composer
 Saarinen;40;Eero Saarinen, Gateway Arch architect
 Saarland;40;Smallest German state
+Saar River;40;River in France and Germany
 SaaS;30;Cloud software model
 Saatchi;30;Ad agency Saatchi & Saatchi
 sab;20
@@ -87499,6 +87559,7 @@ SodaStreams;40;Home carbonation machines
 sodded;50
 sodding;50
 Soderbergh;50;Steven Soderbergh, "Ocean's Eleven" director
+sodium hydrogen carbonate;40
 sodiumna;0
 Sodom;40;Biblical city destroyed alongside Gomorrah
 Sodor;40;Island of Sodor, "Thomas the Tank Engine" setting
@@ -89043,6 +89104,8 @@ spyglass;50
 spyglasses;50
 spying on;40
 Spy in the House of Love;50
+Spy Kids: All the Time in the World;50
+Spy Kids All the Time in the World;0
 spymaster;50
 spymasters;50
 spy movie;50
@@ -92515,6 +92578,7 @@ take for granted;60
 take from;40
 take heat from;50
 take him away boys;60
+take home income;60
 Takei;40;"Star Trek" actor George Takei
 take in;40
 take in vain;50
@@ -92648,6 +92712,7 @@ takes the fall;60
 takes the field;60
 takes the heat;60
 takes the L;60
+takes the Lord's name in vain;60
 takes the oath;50
 takes the reins;60
 takes the scenic route;50
@@ -92670,6 +92735,7 @@ take the fall;60
 take the field;60
 take the heat;60
 take the L;60
+take the Lord's name in vain;60
 take the oath;50
 take the scenic route;50
 take the wheel;50
@@ -92751,6 +92817,7 @@ taking the fall;60
 taking the field;60
 taking the heat;60
 taking the L;60
+taking the lord's name in vain;60
 taking the oath;50
 taking the reins;60
 taking the scenic route;50
@@ -95380,6 +95447,7 @@ the Once-ler;60
 the one;60
 The One Ring;60
 the one to beat;60
+the only game in town;60
 The Onset;40;Frost poem
 theopen;0
 the Open Era;40
@@ -97480,6 +97548,7 @@ took the fall;60
 took the field;60
 took the heat;60
 took the L;60
+took the Lord's name in vain;60
 took the oath;50
 took the reins;60
 took the scenic route;50
