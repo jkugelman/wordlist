@@ -2272,8 +2272,8 @@ air departure;40
 air departures;40
 airdock;50
 airdocks;50
+-aire;40
 aire;40
--aire;30
 Airedale;50;Largest terrier breed
 Airedales;40;Largest terriers
 Airedale Terrier;50
