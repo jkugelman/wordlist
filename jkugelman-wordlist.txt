@@ -2604,6 +2604,8 @@ Albrecht;40;???
 Albright;50;Madeleine Albright, first female secretary of state
 albs;20;Priestly robes
 album art;60
+album release parties;60
+album release party;60
 album sleeve;60
 album sleeves;60
 album title;50
@@ -7749,8 +7751,10 @@ Bacharach;50
 bachata;40;Dominican dance
 Bachchan;50;Amitabh Bachchan, Bollywood superstar
 bached it;30
-bachelor parties;50
-bachelor party;50
+bachelorette parties;60
+bachelorette party;60
+bachelor parties;60
+bachelor party;60
 bachelor's degrees;50
 baches it;30
 baching it;30
@@ -13180,6 +13184,8 @@ brick wall;60
 brick walls;60
 BRICS;20;Brazil, Russia, India, China, South Africa
 BRICS countries;40
+bridal parties;60
+bridal party;60
 bride and groom;50
 Brideshead;50
 bridesmaid dress;50
@@ -14212,6 +14218,7 @@ business course;50
 business courses;50
 business expense;50
 business expenses;50
+business in the front party in the back;60
 business is booming;60
 business owner;50
 business owners;50
@@ -16176,8 +16183,8 @@ cast one's lot with;60
 castor oil;50
 castors;20
 cast over;50
-cast parties;50
-cast party;50
+cast parties;60
+cast party;60
 castrato;50
 Castries;40;Capital of Saint Lucia
 Castro;50;Fidel Castro, or San Francisco's Castro District
@@ -19865,6 +19872,8 @@ coming-of-age story;60
 coming on to;40
 coming out ahead;50
 coming out even;50
+coming-out parties;60
+coming-out party;60
 coming right out and saying it;60
 coming right out with it;60
 coming to bed;50
@@ -20834,8 +20843,8 @@ costume design;50
 costume designer;50
 costume designers;50
 costume jewelry;50
-costume parties;50
-costume party;50
+costume parties;60
+costume party;60
 costume shop;50
 costume shops;50
 cosy;20;Variant of cozy
@@ -24607,6 +24616,7 @@ did good;50
 did hard time;60
 did honor;30
 did honor to;40
+did I?;50
 Didi;40;Didi Conn, Frenchy in "Grease"
 did I ask?;60
 did I ask you;60
@@ -36393,6 +36403,8 @@ gender euphoria;60
 gender identities;60
 gender identity;60
 gender pay gap;60
+gender reveal parties;60
+gender reveal party;60
 gender role;60
 gender roles;60
 gender wage gap;60
@@ -36937,6 +36949,7 @@ gets the creative juices flowing;60
 gets the hint;60
 gets the ick;60
 gets the nod;50
+gets the party started;60
 gets there;50;Makes one's hand, in poker
 gets the sack;50
 gets the scoop;60
@@ -36960,6 +36973,7 @@ get the creative juices flowing;60
 get the hint;60;Finally notice a subtle cue
 get the ick;60
 get the nod;50
+get the party started;60
 get there;50;Make one's hand, in poker
 get the sack;50
 get the scoop;60
@@ -37064,6 +37078,7 @@ getting the creative juices flowing;60
 getting the hint;60
 getting the ick;60
 getting the nod;50
+getting the party started;60
 getting there;50;Making one's hand, in poker
 getting the sack;50
 getting the scoop;60
@@ -38930,6 +38945,7 @@ got the creative juices flowing;60
 got the hint;60
 got the ick;60
 got the nod;50
+got the party started;60
 got there;50;Made one's hand, in poker
 got the sack;50
 got the scoop;60
@@ -40088,6 +40104,8 @@ guilt trip;50
 guilt trips;50
 guilty;50
 guilty of;40
+guilty parties;60
+guilty party;60
 Guimarães;40;Portuguese city / João Guimarães Rosa, Brazilian novelist
 Guimaraes;0
 Guin;40;Ursula K. Le Guin, science fiction author
@@ -40713,6 +40731,8 @@ Halloweekend;50;Halloween party weekend
 Halloweekends;40;Cedar Point Halloween event
 Halloween;60
 Halloween night;60
+Halloween parties;60
+Halloween party;60
 Halloweens;40;October 31sts
 Halloween special;60
 Halloween specials;60
@@ -44186,6 +44206,8 @@ house of mirrors;60
 House of Representatives;60
 House of the Rising Sun;60
 house of worship;60
+house parties;60
+house party;60
 house pet;60
 house pets;60
 house red;60
@@ -44198,8 +44220,8 @@ house sitter;50
 house sitters;50
 houses of mirrors;60
 houses of worship;60
-housewarming parties;50
-housewarming party;50
+housewarming parties;60
+housewarming party;60
 house white;60
 house whites;60
 housing crisis;60
@@ -54286,6 +54308,7 @@ let's get on it;60
 let's get on with it;60
 let's get out of here;60
 let's get outta here;60
+let's get this party started;60
 let's get this straight;60
 let's give it a go;60
 let's give it a whirl;60
@@ -59787,6 +59810,7 @@ Mehldau;40;Brad Mehldau, jazz pianist
 Mehmed;40;Mehmed II, Ottoman sultan who took Constantinople
 Mehmet Oz, MD;40
 mehndi;40;Henna tattoo
+mehndi party;40
 Mehretu;40;Julie Mehretu, abstract painter
 Mehta;30;Conductor Zubin ___
 Mehwish;40;Mehwish Hayat, Pakistani actor
@@ -97299,8 +97323,10 @@ to eat;20
 toe bean;60
 toe beans;60
 toed in;30
+toed the party line;60
 TOEFL;20;Test of English as a Foreign Language
 toe-in;40;Wheel alignment
+toeing the party line;60
 toe of frog;60;Witches' brew ingredient in Macbeth
 toe-out;40;Wheel alignment
 toe-poke;30;Australian soccer technique
@@ -97309,8 +97335,10 @@ toe-pokes;30;Australian soccer technique
 toe punt;30;Australian soccer technique
 toe punts;30;Australian soccer technique
 toesin;30
+toes the party line;60
 toe-tapper;60
 toe-tappers;60
+toe the party line;60
 Toews;40;Jonathan Toews, Blackhawks captain / Miriam Toews, novelist
 Toffifay;40;Caramel-hazelnut candy brand
 Toffler;40;Alvin Toffler, author of "Future Shock"
@@ -105850,6 +105878,8 @@ wrangled;50
 wrangles;50
 wrangling;50
 wrap one's mind around;60
+wrap parties;60
+wrap party;60
 wrapped one's mind around;60
 wrapping one's mind around;60
 wraps one's mind around;60
@@ -106963,6 +106993,7 @@ you got moxie, kid;60
 you got off easy;60
 you gotta be joking;60
 you gotta be kidding me;60
+You Gotta Fight for Your Right to Party;60
 you gotta get out more;60
 you got that right;60
 YouGov;40;Polling and market research firm
