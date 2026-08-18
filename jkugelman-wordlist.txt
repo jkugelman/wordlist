@@ -15043,6 +15043,7 @@ came to bed;40
 came to blows;50
 came to earth;50
 came to mind;50
+came to see;50
 came to the rescue;50
 came under attack;50
 came up to;40
@@ -19805,6 +19806,7 @@ comes to bed;40
 comes to blows;50
 comes to earth;50
 comes to mind;50
+comes to see;50
 comes to the rescue;50
 comes under attack;50
 comes up dry;50
@@ -19820,6 +19822,7 @@ come to earth;50
 come-to-Jesus talk;60
 come-to-Jesus talks;60
 come to mind;50
+come to see;50
 come to the rescue;50
 come under attack;50
 come up to;40
@@ -19880,6 +19883,7 @@ coming to bed;50
 coming to blows;50
 coming to earth;50
 coming to mind;50
+coming to see;50
 coming to the rescue;50
 coming under attack;50
 coming up to;40
@@ -38091,6 +38095,7 @@ goes to the polls;60
 goes up to;40
 goes vegan;60
 goes west;40;Green paint???
+goes whole hog;60
 goes with;40
 goes yard;50
 goeth;40
@@ -38241,6 +38246,7 @@ going to seed;60
 going to the polls;60
 going up to;40
 going vegan;60
+going whole hog;60
 going with;40
 go in on;50
 go insane;50
@@ -38999,6 +39005,7 @@ Gowanus;40;Polluted Brooklyn canal
 go way back;60
 Gowdy;40;Curt Gowdy, sportscaster / Trey Gowdy, politician
 Gower Champion;30
+go whole hog;60
 go with;40
 goy;20
 Goya;50;Francisco Goya, Spanish painter / Latin food brand
@@ -67341,6 +67348,8 @@ olingo;20
 olio;30;Mishmash [common]
 olios;30;Mishmashes [common]
 olive;50
+olive brine;50
+olive brown;50
 olive drab;50
 Oliveira;40;Manoel de Oliveira, Portuguese director
 Oliver;50;Oliver Twist, Dickens orphan / John Oliver, comedian
@@ -94480,6 +94489,7 @@ Texas Tailgaters;60;Banana Ball team
 Texas two-step;50
 Texas two-steps;50
 Texas wedge;60;Golf slang for using a putter off the green
+Texas White House;60;LBJ Ranch
 Tex Avery;50
 Texcoco;40;Mexican city/lake
 Texian;40;Anglo settler of Mexican Texas
@@ -103907,6 +103917,7 @@ went to seed;60
 went to the polls;60
 went up to;40
 went vegan;60
+went whole hog;60
 went with;40
 went with it;50
 Wentworth;40;Wentworth Miller, "Prison Break" actor
@@ -104698,6 +104709,7 @@ who is this;60
 who is this for;60;Question regarding something that nobody seems to want
 who knew;60
 who knows how long;60;Ages
+whole hog;60
 whole new ball game;60
 whole shooting match;60
 whole story;50
