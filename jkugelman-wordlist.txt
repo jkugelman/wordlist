@@ -15562,15 +15562,24 @@ capstone;50
 capstone project;50
 capstone projects;50
 Capt.;40
+Captain America;60
 Captain Buzzkill;60
 Captain EO;20
+Captain Hook;60
+Captain Jack Sparrow;60
 Captain James Cook;60;First European to visit Hawaii
+Captain Kirk;60
 captain of industry;60
-Captain Planet;50
+Captain Planet;60
 Captain Planet and the Planeteers;50
 Captain Pollution;50;Captain Planet's opposite
 captains of industry;60
 CaptainSparklez;40;Minecraft YouTuber
+Captain Sparrow;50
+captain speaking;60
+Captain Sully;50
+captain's uniform;50
+Captain Underpants;60
 Captcha;60
 CAPTCHA image;60
 CAPTCHA images;60
@@ -17432,6 +17441,8 @@ Chee;40;Alexander Chee, novelist / Karen Chee, comedy writer
 Cheech;50;Cheech Marin, of Cheech and Chong
 Cheekface;40;Los Angeles indie rock band
 cheer apparel;60
+cheer captain;60
+cheer captains;60
 cheered on;40
 cheered up;50
 cheering on;40
@@ -75199,6 +75210,8 @@ Punky;50;Punky Brewster, 80s sitcom title character
 Punnett;40;Reginald Punnett, of the genetics Punnett square
 pun numbers;50
 Punta;40;Various towns, Punta Cana
+Punta Arenas, Chile;50
+Punta Arenas Chile;0
 punted on;40
 punting on;40
 Puntland;40;Autonomous region of Somalia
@@ -78082,7 +78095,9 @@ renails;30
 Renaissance;50;Europe's rebirth of art and learning
 Renaldo;30;Who???
 Renard;20;Playwright Jules Renard
-renascent;30;Becoming popular again
+renascence;40;Renewal, revival
+renascences;40;Renewals, revivals
+renascent;40;Becoming popular again
 Renata;30;Any of several opera singers
 Renate;40;Renate Reinsve, Norwegian actress
 Renato;30;"La Cage aux Folles" character
