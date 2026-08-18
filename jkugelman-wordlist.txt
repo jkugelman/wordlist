@@ -31053,6 +31053,11 @@ ex-ally;30
 exalts;50
 examination room;50
 ex ante;40;Ex-ante or notional demand refers to the desire for goods and services that is not backed by the ability to pay for those goods and services
+exapt;30
+exaptation;40;Shift in the function of a trait during evolution
+exapted;30
+exapting;30
+exapts;30
 exarch;30;Ancient governor
 Exarchopoulos;40;Adèle Exarchopoulos, French actress
 exarchs;30
@@ -41823,6 +41828,7 @@ headcanon;60
 headcanons;60
 head chain;50;Metal hair accessory
 head chains;50;Metal hair accessories
+head cheese;60
 head chef;60
 head chefs;60
 head count;60
@@ -43951,6 +43957,7 @@ horoscope signs;60
 Horowitz;50;Vladimir Horowitz, pianist, or Cher of "Clueless"
 horror show;60
 horrorshows;60
+horror-struck;50
 horrowshow;0
 hors;40
 hors de;20
@@ -53749,7 +53756,9 @@ Leaves of Grass;60
 leave some for the rest of us;60
 leaves on;40
 leaves on read;60
+leave speechless;50
 leaves right away;30;Green paint
+leaves speechless;50
 leaves standing;50
 leave standing;50
 leaves the flock;60
@@ -53772,6 +53781,7 @@ leaving on read;60
 leaving right away;30;Green paint
 leaving so soon?;60
 leaving so soon;0
+leaving speechless;50
 leaving standing;40
 leaving the flock;60
 leaving to;40
@@ -53899,6 +53909,7 @@ leftovers;50
 left-right;50
 left right and centre;20
 left right away;30;Green paint
+left speechless;50
 left standing;50
 left the flock;60
 left to;40
@@ -60471,8 +60482,8 @@ Mezzrow;40;Mezz Mezzrow, jazz clarinetist and "Really the Blues" memoirist
 MFA;40
 MFAs;40;Art school degrees
 MF Doom;60
-MFer;40;Cussword, abbreviated
-MFers;40;Vulgar abbreviation, pluralized
+MFer;10;Cussword, abbreviated
+MFers;10;Vulgar abbreviation, pluralized
 mfg;20
 mfr;20
 mg;40
@@ -91063,6 +91074,7 @@ strewers;40
 stria;20;Narrow groove
 striae;30;Stretch marks
 striate;40
+stricken speechless;50
 Strickland;40;Donna Strickland, Nobel-winning physicist
 stride in;40
 strides in;40
@@ -91076,16 +91088,31 @@ stridulation;30
 stridulations;30
 strifes;30
 strigil;20;Ancient body cleaning tool
+strike a deal with;50
 strike a nerve;60
 strike a raw nerve;60
+strike it rich;60
 strike one;50
+strikes a deal with;50
 strikes a nerve;60
 strikes a raw nerve;60
+strikes it rich;60
+strike speechless;50
+strikes speechless;50
+strikes up a conversation;60
+strikes while the iron is hot;60
 strikethrough;60
 strike two;50
+strike up a conversation;60
+strike while the iron is hot;60
 strike zone;50
+striking a deal with;50
 striking a nerve;60
 striking a raw nerve;60
+striking it rich;60
+striking speechless;50
+striking up a conversation;60
+striking while the iron is hot;60
 Strindberg;50;August Strindberg, Swedish playwright
 Strindbergian;40;Like the Swedish playwright's grim dramas
 Strine;40;Australian
@@ -91176,8 +91203,13 @@ Stroumboulopoulos;50;George Stroumboulopoulos, Canadian TV host
 Stroustrup;40;Bjarne Stroustrup, creator of C++
 Strout;40;Elizabeth Strout, "Olive Kitteridge" author
 strs;30
+struck a deal with;50
 struck a nerve;60
 struck a raw nerve;60
+struck it rich;60
+struck speechless;50
+struck up a conversation;60
+struck while the iron was hot;60
 Strug;40;Kerri Strug, gymnast who won gold in 1996 with an injured ankle
 struggle bus;60
 struma;20;Disease, river, ship
@@ -105156,6 +105188,7 @@ win an Oscar;50
 Winans;40;BeBe Winans and CeCe Winans, gospel siblings
 win a prize;50
 win at;40
+win at life;60
 win bronze;50
 wince at;40
 winced at;40
@@ -105345,6 +105378,7 @@ Winnie-the-Pooh;60
 winning an Oscar;50
 winning a prize;50
 winning at;40
+winning at life;60
 winning on a technicality;60
 winning silver;50
 winning the pot;60
@@ -105361,6 +105395,7 @@ winos;10
 wins an Oscar;50
 wins a prize;50
 wins at;40
+wins at life;60
 wins bronze;50
 win silver;50
 wins it;20
@@ -105638,6 +105673,7 @@ won;50
 won an Oscar;50
 won a prize;50
 won at;40
+won at life;60
 won bronze;50
 Wonderbra;60
 Wonderbras;60
