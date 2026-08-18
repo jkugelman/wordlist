@@ -1579,6 +1579,7 @@ Adventism;40;Seventh-day Christian denomination
 Adventist;50;Member of a Seventh-day church
 Adventists;50;Seventh-day denomination
 Adventureland;50;Disneyland themed area
+Adventure Time;60
 adverb;50
 adverbs;50
 advertence;30
@@ -2110,6 +2111,7 @@ a hat on a hat;60;Comedy mistake (something unnecessary)
 Ah, broken is the golden bowl!;50;Opening line of Poe's "Lenore"
 ahchoo;20;Sneeze sound: Var.
 ahead of;40
+ahead of one's time;60
 A Heartbreaking Work of Staggering Genius;60
 Ahed;40;Ahed Tamimi, Palestinian activist
 a hell of a lot;60
@@ -2529,7 +2531,7 @@ Alan White;40
 alapa;20
 Alapalooza;50;"Weird Al" Yankovic album
 Alaqua;40;Alaqua Cox, Marvel's Echo
-Alar;40;Apple chemical of a 1980s scare
+Alar;30;Apple chemical of a 1980s scare
 Alarcon;40;Daniel Alarcón, Peruvian-American novelist
 Alaric;40;Visigoth king who sacked Rome in 410
 à la rigueur;20;To the fullest extent: Fr.
@@ -3142,6 +3144,8 @@ allurer;30
 allurers;30
 allying with;40
 all you;60
+all you can eat buffet;60
+all you can eat buffets;60
 all you need;40;Big partial
 Allyson;40;Allyson Felix, Olympic sprinter / June Allyson, actress
 ally with;40
@@ -6164,7 +6168,14 @@ as God as my witness;60
 as God intended;60
 as God is my witness;60
 as good;20
+as good as;40
+as good as dead;60
+as good as done;60
+as good as ever;60
+as good as gold;60
+as good as it gets;60
 as good as new;60
+as good as one's word;50
 ash;50
 Asha;20;Theon Greyjoy's sister + other meanings
 a shade;20
@@ -6271,6 +6282,8 @@ Asian predatory wasps;60
 Asians;50;People from the largest continent
 Asia's;30;As in "Asia's Got Talent"
 Asiatic;40;Of Asia
+Asiatic buffalo;50
+Asiatic buffalos;50
 Asics;40;Athletic shoe brand
 as I do;40
 as if I didn't know;60
@@ -7053,6 +7066,8 @@ audio feed;50
 audio feeds;50
 audio format;50
 audio formats;50
+audio guide;50
+audio guides;50
 Audioslave;50;Rock supergroup fronted by Chris Cornell
 audio tour;50
 audio tours;50
@@ -7807,6 +7822,7 @@ back tire;50
 back tires;50
 back to life;50
 back to square one;60
+back to the drawing board;60
 Back to the Future;60
 Back to the Hotel;50;1992 rap song by N2Deep
 back up;50
@@ -9347,16 +9363,16 @@ Beale;40;Famous Memphis street
 Be a Lion;40;"The Wiz" song
 beallears;0
 Beals;40;Jennifer Beals, "Flashdance" star
-beam aboard;60
+beam aboard;50
 be a man;50
-beamed aboard;60
+beamed aboard;50
 Beamer;50;BMW
 Beamers;50
-beaming aboard;60
+beaming aboard;50
 beam me up, Mr. Scott;60
 beam of light;50
 Beamon;40;Bob Beamon, record-shattering long jumper
-beams aboard;60
+beams aboard;50
 beams of light;50
 beanballs;50
 Bean Bunny;50;Muppet
@@ -9408,6 +9424,7 @@ bear suit;50
 bear suits;50
 Beart;40;Emmanuelle Béart, French actress
 bear that in mind;60
+be as good as;20
 be asleep at the switch;20
 Beasley;20;Athlete Michael or Cole or Malik...?
 be a sport;60
@@ -9794,6 +9811,7 @@ before common era;60
 before golf;20
 before I go;60
 before I knew it;60
+before one's time;60
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
 before you rush to judgment;60
@@ -10260,6 +10278,7 @@ besmeared;40
 besmearing;40
 besmears;40
 beso;40
+be so good as to;50
 be somebody;50
 be sore;20
 besot;40
@@ -10565,11 +10584,15 @@ bidding for;40
 bidding on;40
 bidding war;50
 bidding wars;50
+bided one's time;60
 Biden;50;Joe Biden, 46th US president
 Bidenomics;50;Joe Biden's economic program
 Bidens;40;Joe and Jill, e.g.
+bide one's time;60
+bides one's time;60
 bid for;40
 Bidi;40;"Bidi Bidi Bom Bom", Selena hit / Indian cigarette
+biding one's time;60
 bid on;40
 bids adieu;60
 bids adieu to;40
@@ -11619,6 +11642,7 @@ blue in the face;60
 blue law;60
 blue laws;60
 blue lips;50
+Blue Man Group;60
 Blue Meanie;60;Music-hating creature in the film "Yellow Submarine"
 Blue Meanies;60;Music-hating creatures in the film "Yellow Submarine"
 Blue Moon Odom;50;Pitcher "Blue Moon" Odom (active 1964-76)
@@ -11641,6 +11665,7 @@ blue-ribbon committees;60
 blue ribbons;60
 blue rinse;60;Hair coloring
 blue rinses;60;Hair colorings
+blue screen of death;60
 blue sea;20
 blue shell;60;Mario Kart powerup
 blue shells;60
@@ -12964,7 +12989,8 @@ breaker box;50
 breaker boxes;50
 Breakfast Baconator;60
 Breakfast Baconators;60
-breakfast buffet;50
+breakfast buffet;60
+breakfast buffets;60
 Breakfast Croissan'wich;60;Burger King breakfast sandwich
 breakfast in bed;60
 breakfast item;50
@@ -14156,9 +14182,13 @@ bus driver;60
 bus drivers;60
 Busey;40;Gary Busey, actor
 bush;50
+Bush administration;50
+Bush administrations;50
+Bush-Clinton;50
 Bushell;40;Nandi Bushell, British drumming prodigy
 bush food;60;Food eaten by Indigenous Australians
 bushido;60
+bushido code;60
 Bushism;50
 Bushisms;50
 bushman poison;60;African shrubs/insects used to tip hunting arrows
@@ -16422,6 +16452,8 @@ cavalry swords;50
 Cavani;40;Edinson Cavani, Uruguayan striker / Liliana Cavani, Italian director
 Cavapoo;40;Cavalier-poodle mix
 Cavapoos;40;Cavalier-poodle mixes
+cave drawing;60
+cave drawings;60
 Cavell;40;Edith Cavell, WWI nurse executed by the Germans
 Cavendish;50;Banana variety / Henry Cavendish, physicist
 C average;40
@@ -23104,7 +23136,9 @@ day planner;60
 day planners;60
 DayQuil;50;Daytime cold medicine
 day's end;50
+Days of Our Lives;60
 days of rest;60
+Days of Thunder;60
 days to come;50
 Dayton;40;Ohio city, and the Bosnia peace accords
 Daytona;50;Florida beach and speedway
@@ -25601,6 +25635,7 @@ dog catcher;50
 dog catchers;50
 Dog Chow;50
 dog days;60
+dog days of summer;60
 dogdom;40
 dog door;50
 dog doors;50
@@ -25864,6 +25899,7 @@ Dominica;40;Caribbean island nation
 Dominican;50;Of the Dominican Republic, or a friars' order
 Dominicans;50;Caribbean nation's people, or an order of friars
 Dominick;40;Dominick Dunne, "Vanity Fair" crime writer
+Dominic Toretto;60;Vin Diesel's "Fast & Furious" character
 dominie;20;Clergyman
 dominies;20;Clergyman
 Dominik;40;Dominik Hasek, Hall of Fame goalie / Andrew Dominik, director
@@ -25884,6 +25920,7 @@ domo arigato Mr. Roboto;60
 domo arigato Mr Roboto;0
 do more with less;60
 doms;40
+Dom Toretto;60;Vin Diesel's "Fast & Furious" character
 Domus;40;Latin for "house," as in the Domus Aurea
 Domus Aurea;40;Roman palace
 don;50
@@ -26613,6 +26650,7 @@ drawing attention to;40
 drawing a veil over;50
 drawing away;40
 drawing away from;40
+drawing dead;60;Having a 0% chance to win, in poker
 drawing first blood;60
 drawing from;40
 drawing into;30
@@ -31765,6 +31803,7 @@ fanboyed;60
 fanboying;60
 fanboys;60
 fancy Dan;60;Showy, fancy
+fancy meeting you here;60
 fancy-pants;60
 fancy-pantses;60
 fandango;50
@@ -38449,8 +38488,11 @@ good a guess as any;60
 good aim;50
 Goodall;50;Jane Goodall, chimpanzee researcher
 good as;20
+good as dead;60
+good as gold;60
 good as grits;60
 good as new;60
+good as one's word;50
 good at;40
 Goodbar;50;Mr. Goodbar candy
 goodby;30
@@ -44207,6 +44249,10 @@ how delicious;60
 how delightful;60
 how did I miss that?;60
 how did I miss that;0
+how did you guys meet?;50
+how did you guys meet;0
+how did you two meet?;50
+how did you two meet;0
 how'd it go;60
 how does he do it;60;"What's that man's secret?!"
 how does it feel;60
@@ -44224,7 +44270,11 @@ how do I delete someone else's post?;60
 How Do I Make You;50;1980 single by Linda Ronstadt
 how do you like that;60
 how do you like them apples;60
+how'd you guys meet?;50
+how'd you guys meet;0
 how'd you miss that?;60
+how'd you two meet?;50
+how'd you two meet;0
 Howe;40
 Howell;40;Thurston Howell III of "Gilligan's Island"
 Howells;40;William Dean Howells, American novelist and critic
@@ -45698,6 +45748,7 @@ I'll make it a true Daily Double;60
 I'll manage;60
 ill-mannered;50
 Illmatic;50;Nas's classic debut album
+I'll Meet You Halfway;50;1971 single by The Partridge Family
 Illness as Metaphor;60;Susan Sontag book
 I'll pass;60
 I'll see myself out;60
@@ -48132,6 +48183,7 @@ it's bad;50
 it's been a long time;60
 it's been a minute;60
 it's been fun;60
+it's been one of those days;60
 it's classified;60
 it's crazy;60
 it's dope;50
@@ -48287,6 +48339,7 @@ it was I;40
 it was just a dream;60
 it was just a thought;60
 it was meant to be;60
+it was nice meeting you;60
 it wasn't me;60
 it wasn't meant to be;60
 it wasn't not my finest hour;60
@@ -48329,6 +48382,7 @@ IV drug;50
 IV drugs;50
 I've;50
 I've been a fool;60
+I've been dying to meet you;60
 I've been framed;60
 I've been had;60
 I've been selfish;60
@@ -48617,6 +48671,7 @@ Jagiellonian;40;Polish-Lithuanian dynasty and Krakow university
 Jagiellons;40;Polish-Lithuanian royal dynasty
 Jaglom;30;Henry Jaglom, indie filmmaker
 Jagmeet;40;Jagmeet Singh, Canadian NDP leader
+Jagmeet Singh;40;Canadian NDP leader
 Jagr;40;Jaromir Jagr, NHL scoring great
 jaguar;50
 Jaguar;50;British motor car manufacturer
@@ -51453,8 +51508,10 @@ Kiyoshi;40;Kiyoshi Kurosawa, Japanese horror director
 Kizzmekia;40;Kizzmekia Corbett, COVID vaccine scientist
 KJV;30;King James Version
 KKHH;20;Radio station in Houston, Texas
-kkk;10
+KKK;10
 K-K-K-Katy;30;WWI parody song
+KKK meeting;10
+KKK meetings;10
 Klaatu;40;"The Day the Earth Stood Still" alien, or his phrase "klaatu barada nikto"
 Klaebo;40;Cross country skier Johannes Høsflot Klæbo with 6 golds in the 2026 Olympics
 Klagenfurt;40;Austrian city on Lake Wörthersee
@@ -53474,6 +53531,8 @@ leaners;30
 leaning into;40
 leaning on;40
 leaning to;40
+Leaning Tower;60
+Leaning Tower of Pisa;60
 lean into;40
 LeAnn;40;LeAnn Rimes, country singer
 Leanna;40
@@ -54239,6 +54298,7 @@ let's just move past it;60
 let's just say;60
 let's keep in touch;60
 let's make it a true Daily Double;60
+let's meet halfway;60
 let's move past it;60
 lets nature take its course;60
 let's not be hasty;60;"We should avoid jumping to conclusions"
@@ -56533,6 +56593,8 @@ lunch break;50
 lunch breaks;50
 lunch date;60
 lunch dates;60
+luncheon meeting;50
+luncheon meetings;50
 luncher;40
 lunchers;40
 lunch money;60
@@ -57020,6 +57082,7 @@ made big bucks;60
 made biscuits;60
 made by hand;60
 made do with;40
+made ends meet;60
 made faces;50
 made for;40
 made from scratch;60
@@ -57471,6 +57534,7 @@ make by hand;60
 make do;50
 make-do;50
 make do with;40
+make ends meet;60
 make faces;50
 make good;50
 make good on;50
@@ -57537,6 +57601,7 @@ makes big bucks;60
 makes biscuits;60
 makes by hand;60
 makes do with;40
+makes ends meet;60
 make sense;50
 make sense of;50
 makes faces;50
@@ -57637,6 +57702,7 @@ making big bucks;60
 making biscuits;60
 making by hand;60
 making do with;40
+making ends meet;60
 making faces;50
 making from scratch;60
 making good;50
@@ -57939,6 +58005,7 @@ Maneskin;40;Måneskin, Eurovision-winning Italian rock band
 Manet;50;Edouard Manet, French Impressionist painter
 Manets;40;Paintings by Edouard Manet
 Manette;40;Lucie Manette, "A Tale of Two Cities" heroine
+man flu;50;A cold, influenza, or similar minor ailment as suffered by a male seen as wildly exaggerating the severity of his symptoms
 Manfred;40;Manfred Mann, bandleader / Rob Manfred, MLB commissioner
 Manfred von Richthofen;50;Manfred von Richthofen, the Red Baron
 man Friday;50
@@ -65278,6 +65345,7 @@ Norelco;40;Electric shaver brand
 no remorse;60
 no respect;50
 no rest;40
+no rest for the wicked;60
 Norfolk;50;Virginia port city, or English county
 Norfolk, VA;30
 Norgay;40;Edmund Hillary's sherpa, first to summit Everest
@@ -67629,6 +67697,7 @@ OneNote;50;Microsoft note-taking software
 one no trump;40
 one-o'-cat;20;Old ball game
 one o'clock;40
+one of these days;60
 one of us;50
 one of us! one of us!;60
 one of us one of us;0
@@ -71206,6 +71275,8 @@ persons of substance;60
 person who does stunts for an actor;0
 perspective shift;50
 perspective shifts;50
+perspesctive drawing;0
+perspesctive drawings;0
 Perspex;40;British brand of acrylic glass
 Persson;40;Markus Persson, creator of Minecraft
 perter;30
@@ -78384,6 +78455,7 @@ restain;20
 restained;20
 restaining;20
 restains;20
+rest and relaxation;60
 Restaurant at the End of the Universe;60
 restaurant week;50
 rest day;60
@@ -78399,6 +78471,7 @@ resting on;40
 resting place;50
 resting places;50
 resting upon;40
+rest in peace;60
 restir;30
 restirred;30
 restirring;30
@@ -81357,7 +81430,8 @@ sales assistant;60
 sales assistants;60
 sales drive;60
 sales drives;60
-sales force;50
+sales force;60
+Salesforce;60
 sales forces;50
 Salesian;30;???
 sales lead;50
@@ -94041,7 +94115,8 @@ Tenerife;40;Largest Canary Island
 ten feet;40
 tenfold;50
 Ten Forward;50;ST:TNG lounge
-Teng;40;Teresa Teng, Taiwanese singer
+Teng;40;Teresa Teng, Taiwanese singer / Vienna Teng, pianist and singer (born 1978)
+ten G;30;$10,000
 ten hours;20
 ten-in-one;30
 ten-K run;30;???
@@ -94182,6 +94257,7 @@ te reo Māori;40;Eastern Polynesian language
 te reo Maori;0
 Teresa;50;Mother Teresa, or a common first name
 Teresas;30;Plural name
+Teresa Teng;40;Taiwanese singer (1953–1995)
 Tereshkova;50;Valentina Tereshkova, first woman in space
 TERF;10
 TERFs;40;Trans-exclusionary radical feminists
@@ -95063,7 +95139,7 @@ the five W's;50
 The Flea;40;John Donne poem
 the floor is lava;60
 the floor is yours;60
-the flu;20
+the flu;40
 The Fool;60;Tarot card
 The Foot Book;60;Dr. Seuss book
 The Force Awakens;60
@@ -97780,7 +97856,7 @@ tore one's hair out;60
 torero;40
 toreros;40
 to rest;30
-Toretto;50;Dom Toretto, "The Fast and the Furious" hero
+Toretto;50;Dom Toretto, Vin Diesel's "Fast & Furious" character
 Tori;40
 toric;30
 Tories;50;British conservatives
@@ -101895,6 +101971,7 @@ vie for;40
 Vieira;40;Meredith Vieira
 Vienna;50;Austrian capital
 Viennale;40;Vienna's international film festival
+Vienna Teng;40;Pianist and singer (born 1978)
 Viennese;50;Of Vienna
 Vientiane;40;Capital of Laos
 viernes;40
@@ -103005,17 +103082,20 @@ Wassily;40;Wassily Kandinsky, abstract painter
 was sweet on;40
 wast;20
 wasted no time;60
+wasted one's time;50
 wasted potential;60
 wasteland;60
 waste management;50
 waste no time;60
 waste of space;60
 waste of time;60
+waste one's time;50
 waste precious time;60
 waster;40
 wasters;40
 wastes no time;60
 wastes of space;60
+wastes one's time;50
 wastewater;50
 wastewater treatment;60
 wastewater treatment plant;60
@@ -103023,6 +103103,7 @@ wastewater treatment plants;60
 was that so hard?;60
 was that so hard;0
 wasting no time;60
+wasting one's time;50
 wastrel;30
 wat;40;Angkor Wat
 Wata;30;Mami Wata, African water spirit
@@ -106085,6 +106166,8 @@ Xmas trees;50
 X-Men;50
 X-Men: Apocalypse;50;2016 film
 X-Men Apocalypse;0
+X-Men: Days of Future Past;50
+X-Men Days of Future Past;0
 X-Men United;50;"X2: X-Men United", 2003 superhero film
 XML;40
 Xochimilco;40;Mexico City canal district
@@ -107046,6 +107129,7 @@ you're up;60
 you're up early;60
 Your Friendly Neighborhood Spider-Man;60;2025 Marvel Studios animated series
 your grace;50
+your guess is as good as mine;60
 your honor;50
 your loss;60
 your money back;60
