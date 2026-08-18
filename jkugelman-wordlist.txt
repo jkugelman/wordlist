@@ -12582,6 +12582,8 @@ Bouchard;40;Loren Bouchard, "Bob's Burgers" creator
 bouche;40;Amuse-bouche
 Boucher;40;François Boucher, Rococo painter
 bouches;40;Amuse-bouches
+bouclé;30;Looped yarn
+bouclés;30;Looped yarns
 Boudica;50;Celtic queen who revolted against Rome
 Boudicea;30;Ancient queen
 Bougainville;50;Papua New Guinea island / Louis de Bougainville, explorer
@@ -28396,7 +28398,8 @@ eephus;30;Difficult baseball pitch
 E equals m c squared;60
 e'er;40
 eerie calm;50
-Eero;50;Eero Saarinen, architect
+Eero;40;Eero Saarinen, architect
+Eero Aarnio;40;Finnish industrial designer (born 1932)
 eertylimaf;0
 eery;20;Eerie: Var.
 EEs;40
@@ -42960,6 +42963,7 @@ Hilary Duff;50
 Hilbert;50;David Hilbert, mathematician of Hilbert space fame
 Hilbert's;40;Hilbert's problems, David Hilbert's math challenges
 Hilda;40;Hilda Doolittle, poet known as H.D.
+Hilda Solis;40;US labor secretary under Obama
 Hildebrand;40;Birth name of Pope Gregory VII
 Hildegard;50;Hildegard of Bingen, medieval abbess and composer
 Hilfiger;50;Tommy Hilfiger, fashion designer
@@ -87994,7 +87998,7 @@ solid-state;60
 solid-state drive;60
 solid-state drives;60
 solidus;30;Old Roman coin
-Solis;40;Hilda Solis, former US labor secretary
+Solis;40;Hilda Solis, US labor secretary under Obama
 so listen;60
 soliton;20;In physics, a solitary wave
 solitons;20;In physics, solitary waves
