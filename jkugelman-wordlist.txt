@@ -48672,7 +48672,8 @@ Jagiellons;40;Polish-Lithuanian royal dynasty
 Jaglom;30;Henry Jaglom, indie filmmaker
 Jagmeet;40;Jagmeet Singh, Canadian NDP leader
 Jagmeet Singh;40;Canadian NDP leader
-Jagr;40;Jaromir Jagr, NHL scoring great
+Jágr;40;Jaromír Jágr, NHL scoring great
+Jagr;0
 jaguar;50
 Jaguar;50;British motor car manufacturer
 jaguar cub;50
@@ -48801,8 +48802,9 @@ James Watt;60
 James Webb;50;James Webb Space Telescope
 James Webb Space Telescope;60
 James Whistler;60
-Jami;40;Jami Gertz, actress
+Jami;30;Jami Gertz, actress
 Jamie;50;Jamie Foxx, actor / common first name
+Jami Gertz;40;Minor actress, the citified fiancee in "Twister"
 Jamil;40;Jameela Jamil, actress and activist
 Jamila;40;Jamila Woods, Chicago singer and poet
 jam in;40
@@ -48919,6 +48921,8 @@ Jarman;40;Derek Jarman, British filmmaker
 Jarmusch;40;Jim Jarmusch, indie filmmaker
 Jarndyce;40;Jarndyce and Jarndyce, the endless "Bleak House" suit
 Jaromir;40;Jaromir Jagr, NHL scoring great
+Jaromír Jágr;40;NHL scoring great
+Jaromir Jagr;0
 Jaroslav;40;Jaroslav Hasek, "Good Soldier Svejk" author / Jaroslav Seifert, Nobel poet
 Jaroslav Hašek;40;Czech humorist, satirist, writer and anarchist
 Jaroslav Hasek;0
@@ -82068,6 +82072,7 @@ saturant;30
 saturants;30
 Saturday;50;Weekend day
 Saturdays;50;Weekend days
+Satureja grandiflora;20;Species of flowering plant
 Saturn;50
 Saturnalia;50;Roman festival
 Saturnian;40;Of the ringed planet
@@ -98591,6 +98596,7 @@ tremblers;30
 Treme;40;New Orleans neighborhood and HBO series
 Tremeloes;40;1960s beat group (?)
 tremolos;30
+tren;40;Train, in Spanish / Trenbolone steroid
 trencher;30
 trenchers;30
 trendsetter;60
