@@ -17733,6 +17733,11 @@ chicken dumplings;50
 chickened out;60
 chickening out;60
 chicken Kyiv;60
+chicken manure;50
+Chicken McNugget;60
+Chicken McNuggets;60
+chicken mole;50
+chicken mousse;50
 chicken nugget;60
 chicken nuggets;60
 Chicken of the Sea;60
@@ -27161,6 +27166,8 @@ drum solos;60
 drums out;50
 drunkard;10
 drunkards;10
+Drunken Master;60
+Drunken Monkey;60;Chinese martial art
 drunk from a firehose;60
 drunk from the firehose;60
 Drunk History;60
@@ -34640,6 +34647,8 @@ Franka;40;Franka Potente, "Run Lola Run" star
 Frankel;40;Bethenny Frankel, Skinnygirl founder
 Frankenheimer;50;John Frankenheimer, "The Manchurian Candidate" director
 Frankenmuth;40;Michigan's "Little Bavaria"
+Frankenmuth, Michigan;50
+Frankenmuth Michigan;0
 Frankenstein;60
 Frankensteined;50;Cobbled together from mismatched parts
 Frankensteinian;50;Like Mary Shelley's monster maker
@@ -50851,6 +50860,8 @@ Keneally;40;Thomas Keneally, "Schindler's Ark" author
 Kenilworth;40;English castle and Walter Scott novel
 Kenji;40;J. Kenji Lopez-Alt, food writer
 KenKen;50;Arithmetic logic puzzle
+Ken M;20
+Ken Marino;40
 Kenmore;40;Sears appliance brand
 Kennan;30;???
 Kennebunk;40;Town in Maine
@@ -104841,6 +104852,7 @@ why don't we start over?;60
 why don't you give it a go?;60
 why don't you make like a tree and get out of here?;60
 why else;50
+why hast thou forsaken me?;60
 why, I'd be delighted;60
 why I never;60
 why is it?;50
