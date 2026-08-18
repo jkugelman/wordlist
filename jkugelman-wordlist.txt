@@ -391,7 +391,7 @@ AA meeting;60
 AA meetings;60
 A A Milne;50
 Aamir;30;Indian actor Aamir Khan
-Aamir Khan;50;Indian actor
+Aamir Khan;40;Indian actor
 aand;20
 aande;30
 A and P;20;Defunct grocery store chain
@@ -1885,6 +1885,8 @@ Agadir;40;Moroccan port city
 Agag;20;Biblical king
 Against Me!;40;Pink rock band
 Against Me;0
+Aga Khan;40
+Aga Khan IV;40
 a galaxy far, far away;60
 Agalloch;40;American folk metal band
 agallop;30
@@ -5676,6 +5678,7 @@ Arkells;40;Canadian rock band
 Arkestra;40;Sun Ra's band
 Arkham;50;Batman's asylum, and Lovecraft's town
 Arkhangelsk;40;Russian Arctic port city
+Arkhangelsk Russia;40
 Arkin;40
 Arkite;20;Biblical inhabitant
 Arkites;20;Biblical inhabitants
@@ -7781,6 +7784,8 @@ background actor;50
 background actors;50
 background extra;50
 background extras;50
+backhanded compliment;60
+backhanded compliments;60
 back handspring;50
 back handsprings;50
 back in a bit;60
@@ -31960,6 +31965,7 @@ Farquhar;40;George Farquhar, Restoration playwright / Peyton Farquhar of "An Occ
 Farr;40
 Farragut;40;David Farragut, "Damn the torpedoes" admiral
 Farrah;50;Farrah Fawcett, "Charlie's Angels" star
+Farrakhan;50
 Farrar;30;Publisher, or original NYT crossword editor
 Farrell;40;Colin Farrell, "The Penguin" star
 Farrelly;40;Bobby and Peter Farrelly, "Dumb and Dumber" directors
@@ -46221,6 +46227,7 @@ imputes to;40
 impute to;40
 imputing to;40
 Imran;40;Imran Khan, Pakistani PM 2018-2022
+Imran Khan;40
 Imre;40;Imre Nagy, Hungarian PM / Imre Kertesz, Nobel novelist
 I'm rich;60
 IMs;40
@@ -47612,6 +47619,7 @@ irredentists;40
 Irresistabubble;40;Aero chocolate bar slogan
 irreverence;50
 Irrfan;40;Irrfan Khan, "Life of Pi" actor
+Irrfan Khan;40
 irrupt;30
 irrupted;30
 irrupting;30
@@ -50256,13 +50264,16 @@ kale salads;60
 Kalevala;40;Finnish national epic
 Kaley;40;"The Big Bang Theory" actress Kaley Cuoco
 Kalgoorlie;40;Western Australian gold mining town
-Kali;50;Hindu goddess of destruction
+Kali;40;Hindu goddess of destruction
 Kalidasa;40;Classical Sanskrit poet and dramatist
+Kali Fajardo-Anstine;40
+Kali Malone;40
 Kalimantan;40;Indonesian Borneo
 Kaline;40;Al Kaline, MLB Hall of Famer
 Kaling;40;Mindy Kaling, "The Office" writer and actress
 Kaliningrad;50;Russian exclave on the Baltic
 Kalinskaya;40;Anna Kalinskaya, Russian tennis pro
+Kali Uchis;40
 Kalkan;30;Brand of dog food? (used four times, don't see it at Petco/PetSmart)
 Kalki;40;Final avatar of Vishnu
 Kalmar;40;Swedish city, seat of the Kalmar Union
@@ -50282,6 +50293,7 @@ Kamadeva;40;Hindu god of love
 Kamakawiwo'ole;50;Israel Kamakawiwo'ole, Hawaiian ukulele singer
 Kamal;40
 Kamala;50;Kamala Harris, US vice president
+Kamala Khan;40
 Kamal Haasan;40
 Kamali;40;Norma Kamali, fashion designer
 Kamasi;40;Kamasi Washington, jazz saxophonist
@@ -50866,6 +50878,7 @@ Kenmore;40;Sears appliance brand
 Kennan;30;???
 Kennebunk;40;Town in Maine
 Kennebunkport;50;Maine town of the Bush compound
+kenned;40
 Kennedy;50;JFK's family name
 Kennedy Center;60
 Kennedycurse;40;Alleged run of tragedies in one political family
@@ -50887,7 +50900,7 @@ Kenobi;50;Obi-Wan Kenobi, Jedi master
 Kenojuak;40;Kenojuak Ashevak, Inuit artist
 Kenosha;40;Wisconsin city
 Kenough;60
-kens;50
+kens;40
 Kens;40;"Barbie" characters
 Kenshin;40;"Rurouni Kenshin" swordsman
 kenshō;30;Buddhist term for seeing one's "true nature" as inherently empty of a personal self
@@ -50951,6 +50964,8 @@ Kerberos;40;Network authentication protocol, or a moon of Pluto
 kerbs;30;British curbs
 Kerch;40;Crimean city and strait
 Kerensky;40;Alexander Kerensky, Russian provisional government leader
+kerf;30;Width of material removed by a saw blade
+kerfs;30;Widths of material removed by a saw blade
 Kerguelen;40;Remote French islands in the southern Indian Ocean
 Keri;40
 Kerman;40;Piper Kerman, "Orange Is the New Black" author, or Iranian city
@@ -50958,6 +50973,11 @@ Kermanshah;40;Iranian city
 Kermie;40;Miss Piggy's pet name for Kermit
 Kermit;50;Kermit the Frog, Muppet
 Kermit Roosevelt;20
+kern;40
+kerned;40
+kernels of truth;60
+kerning;50
+kerns;40
 kerosenes;40
 Kerouac;50;Jack Kerouac, "On the Road" author
 kerplop;50
@@ -51140,8 +51160,10 @@ Khalifa;40;Burj Khalifa, tallest building / Wiz Khalifa, rapper
 khalifs;30
 Khalil;40;Khalil Gibran, author of "The Prophet"
 Khalsa;40;Collective body of initiated Sikhs
+Khan Academy;60
 khanate;40
 Khanna;40;Ro Khanna, congressman, or Rajesh Khanna, Bollywood star
+Khan Noonien Singh;60
 khansentrayshun;0
 khao soi;40;Thai noodle soup
 khao soy;40;Thai noodle soup
@@ -51150,6 +51172,7 @@ Kharijites;40;Early Islamic sect
 Kharis;20
 Kharkiv;40;Ukraine's second-largest city
 Khartoum;50;Capital of Sudan
+khat;30;AKA qat, Bushman's tea
 Khatami;40;President of Iran 1997-2005
 Khayyam;30;Ancient mathematician Omar Khayyam
 Khazar;40;Medieval Turkic people
@@ -51234,6 +51257,7 @@ kid sisters;50
 kids will be kids;60
 Kidz;40;Kidz Bop, kids' cover-song series
 Kiedis;40;Anthony Kiedis, Red Hot Chili Peppers frontman
+kief;20
 Kiefer;40;Kiefer Sutherland, "24" star / Anselm Kiefer, German artist
 Kiel;40;German port city on its namesake canal
 Kienholz;40;Edward Kienholz, assemblage artist
@@ -51314,6 +51338,7 @@ Kimes;40;Mina Kimes, ESPN sportswriter
 Kimi;40;2022 Steven Soderbergh thriller film
 Kimiko;40;Kimiko Glenn, "Orange Is the New Black" actress
 Kim Il Sung;50;Leader of North Korea from 1948 to 1994
+Kim K;40
 Kimmel;50;Jimmy Kimmel, late-night host
 kimmelweck;50
 kimmelweck roll;50
@@ -51780,6 +51805,7 @@ Kobe;50;Kobe Bryant, NBA legend / Japanese city known for beef
 Kobe beef;60
 Kobo;40;Kobo Abe, Japanese novelist / e-reader brand
 Kobra;40;???
+kobs;20
 Koch;40;Ed Koch, NYC mayor, or the Koch brothers
 Kochiyama;40;Yuri Kochiyama, civil rights activist
 KO'd;40
@@ -51920,7 +51946,11 @@ Kops;40
 KO punch;60
 KO punches;60
 kor;20
+kora;30;West African harp
+Koran;40;Dated spelling of Qur'an
 Koranic;40
+Korans;40;Dated spelling of Qu'rans
+koras;50;West African harps
 Korbut;40;Gymnast Olga Korbut
 Korchnoi;40;Viktor Korchnoi, chess grandmaster
 Korda;30;Various last name
@@ -52167,6 +52197,8 @@ Kuang;40;R.F. Kuang, author of "Babel"
 Kubernetes;50;Container orchestration system
 Kubla;40;"Kubla Khan," Coleridge poem
 Kublai;50;Kublai Khan, Mongol emperor
+Kublai Khan;60
+Kubla Khan;60
 Kubo;40;"Kubo and the Two Strings" hero
 Kubota;40;Tractor maker
 Kubrick;50;Stanley Kubrick, director
@@ -54967,6 +54999,7 @@ linac;20;Linear accelerator, cancer treatment device
 linacs;20
 linage;30;Number of lines in printed or written matter, especially when used to calculate payment
 linages;20
+Lina Khan;40
 Linaria;30;Flower genus
 Linc;30;Eagles stadium, "Mod Squad" role
 Lin Carter;50;Fantasy writer, editor, poet and critic (1930-1988)
@@ -56186,6 +56219,7 @@ Louis C.K.;10
 Louis Daguerre;50
 Louis de Broglie;60;Physicist
 Louise;50;"Thelma & Louise," or "Jeez Louise"
+Louis Farrakhan;50
 Louisiana;50;Pelican State
 Louisianan;50
 Louisianans;50
@@ -58727,6 +58761,7 @@ Marxist;50;Follower of Karl
 Marxists;50;Followers of Marx
 Mary;50;Common first name, as in the Virgin Mary or a Bloody Mary
 Maryam;30;First name, who???
+Maryam Mirzakhani;40
 Mary Hart;50
 Mary Higgins Clark;50
 Mary I;40;"Bloody Mary"
@@ -59831,6 +59866,7 @@ Megxit;50;Harry and Meghan's royal exit
 Megyn;40;Former Fox News host Megyn Kelly
 meh;50
 Mehboob;40;Mehboob Khan, "Mother India" director
+Mehboob Khan;40
 me hearties;60
 Meher;30;Meher Baba, Indian spiritual master
 Meher Baba;40;Indian spiritual master
@@ -62909,6 +62945,7 @@ murex;20;Type of sea snail
 murexes;20
 Murfreesboro;50;Tennessee city
 Murgatroyd;60;Heavens to Murgatroyd
+murgh makhani;40
 muriate;30;Chloride, archaic
 muriatic;40
 Muriel;40;Common first name (Muriel Spark, Muriel Bowser)
@@ -63282,6 +63319,7 @@ nah I'm good;60
 nah, I'm just browsing;60
 nah, just browsing;60
 Nahnatchka;40;Nahnatchka Khan, "Fresh Off the Boat" creator
+Nahnatchka Khan;40
 nahs;40
 Nahua;40;Indigenous Mexican people who speak Nahuatl
 Nahuas;40;Indigenous people of central Mexico
@@ -84467,6 +84505,7 @@ Shahadi;40;Shahadi Wright Joseph, actress
 Shaheen;40;Jeanne Shaheen, New Hampshire senator
 Shahidi;40;Yara Shahidi, "Black-ish" actress
 Shahnameh;50;Persian epic poem
+Shah Rukh Khan;40
 Shahryar;40;"Arabian Nights" king
 Shai;40;NBA 2024-25 MVP Shai Gilgeous-Alexander
 Shailene;40;Shailene Woodley, "Big Little Lies" actor
@@ -89547,7 +89586,7 @@ stakeout;50
 stakeouts;50
 stakes out;50
 Stakhanovism;40;Soviet cult of the overachieving worker
-Stakhanovite;50;Prodigiously productive Soviet worker
+Stakhanovite;40;Prodigiously productive Soviet worker
 Stakhanovites;40;Soviet model workers
 staking out;50
 stale beer;50
@@ -89849,6 +89888,8 @@ Start Me Up;50;Rolling Stones song
 start on;40
 star tour;50
 star tours;50
+Star Trek II: The Wrath of Khan;50
+Star Trek II The Wrath of Khan;0
 starts all over;50
 starts at;40
 starts a tab;50
@@ -92391,6 +92432,7 @@ Sydneysiders;60
 Sydow;40;Max von Sydow
 sye;20
 Syed;40;Adnan Syed of the "Serial" podcast
+Syed Ahmad Khan;40
 syenite;30;Type of rock
 Syfy;40;Sci-Fi Channel
 Sy Hersh;40;Pulitzer-winning journalist who exposed the My Lai massacre
@@ -102087,6 +102129,7 @@ Vil;20
 Vila;40;Bob Vila, "This Old House" host / Port Vila, Vanuatu's capital
 Vilanch;40;Bruce Vilanch, awards-show comedy writer
 Vilayat;40;Vilayat Khan, sitar master
+Vilayat Khan;40
 V.I. Lenin;20
 Vilhelm;40;Vilhelm Moberg, Swedish novelist
 Vilissa;40;Vilissa Thompson, disability rights activist
