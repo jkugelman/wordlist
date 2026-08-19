@@ -65102,6 +65102,7 @@ nitty-gritty;60
 Niue;40;Pacific island country
 Niuean;40;Of Niue, Pacific island nation
 Niueans;40;People of Niue
+Ni-Vanuatu;40
 Nivea;40;Skin care brand
 Niven;40
 Nivens;20
@@ -95772,6 +95773,7 @@ the nosebleeds;60
 the now;30
 the NRA;20
 the NSA;20
+then say so;60
 The Nude Bomb;50;1980 American spy comedy film
 The Nude Maja;60;Goya painting
 The Number of the Beast;60
@@ -101682,7 +101684,7 @@ Vannelli;40;Gino Vannelli, "I Just Wanna Stop" singer
 Vannevar;40;Vannevar Bush, "As We May Think" engineer
 van Rijn;40;Rembrandt's last name
 Vantablack;60;The blackest black coating
-Vanuatu;50;Pacific island nation
+Vanuatu;40;Pacific island nation
 Vanuatuan;40;From Vanuatu
 Vanuatuans;40;South Pacific islanders
 Vanunu;40;Mordechai Vanunu, Israeli nuclear whistleblower
