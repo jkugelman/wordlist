@@ -396,6 +396,7 @@ aand;20
 aande;30
 A and P;20;Defunct grocery store chain
 aandw;30
+A and W Root Beer;30
 Aang;40;"Avatar: The Last Airbender" protagonist
 AA online;40;Alcoholics Anonymous online
 AAPI;30;Asian American and Pacific Islander
@@ -5423,6 +5424,8 @@ Arctic;50;Far northern region
 arctics;30
 Arctic seal;50
 Arctic seals;50
+Arctocebus;20;Genus of primates
+Arctocebus calabarensis;20;Species of primate
 arctophile;30;One who collects teddy bears
 Arcturus;50;Bright star in Bootes
 arcuate;40;Shaped like a bow, curved
@@ -6257,6 +6260,7 @@ ash pans;40
 ash pit;40;???
 Ashraf;30
 Ashtabula;40;Ohio city on Lake Erie
+ashtanga;40
 ash to ash;60
 ash to ash, dust to dust;60
 Ashton;40;Ashton Kutcher, actor, among others
@@ -7466,6 +7470,7 @@ AWOLs;40
 a work of art;50
 a world of hurt;60
 a wrap;20
+A&W Root Beer;60
 AWS;40
 aw snap;60
 aw, thanks;60
@@ -8752,6 +8757,8 @@ barouche;30;???
 barouches;30;???
 Barq;40;Barq's root beer
 Barq's;40;Root beer
+Barq's Famous Olde Tyme Root Beer;60
+Barq's root beer;60
 barque;30
 barques;30
 Barr;40
@@ -16626,8 +16633,11 @@ CDV;20
 CDVI;20
 CDX;20
 CDXXI;20
-Cebu;40;Philippine city and island
+Cebu;30;Philippine city and island
 Cebuano;40;Philippine language
+Cebu City;40
+Cebu City, Philippines;40
+Cebu City Philippines;0
 Cecco;40;De Cecco, Italian pasta brand
 CeCe;40
 Cecelia;30
@@ -17713,6 +17723,7 @@ Chicago, IL;30
 Chicagoland;50;The Chicago metro area
 Chicago Marathon;50
 Chicago PD;30
+Chicago Root Beer;50
 Chicago Seven;60;Defendants in a 1969–70 trial
 Chicana;50;Mexican American woman
 Chicanas;40;Mexican American women
@@ -22520,6 +22531,7 @@ dad movies;60
 dado;30
 dadoes;30
 dad rock;60
+Dad's Root Beer;50
 dads-to-be;50
 dad-to-be;50
 Dae;40
@@ -26575,6 +26587,7 @@ draftnik;50
 draftniks;50
 draft notice;50
 draft notices;50
+draft root beer;50
 drag ball;60
 drag balls;60
 drag behind;40
@@ -52647,6 +52660,7 @@ Lake Charles Louisiana;0
 LaKeith;40;LaKeith Stanfield, "Atlanta" actor
 Laker;50;L.A. basketball player
 Lakers;50;Los Angeles NBA team
+Lake Tanganyika;40
 Lake Wobegon effect;60;Cognitive bias
 lakier;20
 lakiest;20
@@ -52760,6 +52774,7 @@ Lancashire;50;English county, and a cheese
 Lancaster;50;Burt Lancaster, actor / English royal house
 Lancastrian;50;Red rose partisan in the Wars of the Roses
 Lancastrians;40;Wars of the Roses faction
+Lance Burton;50;Stage magician (born 1960)
 lancelet;30;Small eel-like organism
 lancelets;30
 Lancelot;50;Knight of the Round Table
@@ -56719,7 +56734,9 @@ Lunfardo;40;Buenos Aires slang
 lunge at;40
 lunged at;40
 lunges at;40
+lungi;30;Men's skirt from the Indian subcontinent
 lunging at;40
+lungis;30;Men's skirts from the Indian subcontinent
 lung power;50
 lungwort;50
 lungworts;50
@@ -62800,6 +62817,8 @@ Mughal;40;Ancient empire
 Mughals;40;Rulers of a long-lived Indian empire
 Mugler;40;Thierry Mugler, fashion designer
 mug of tea;50
+Mug Root Beer;60
+Mug root beer;0
 mugs for the camera;60
 mugs of tea;50
 Muhammad;50;The Prophet / Muhammad Ali
@@ -64070,6 +64089,7 @@ neguses;20
 neh;20
 Nehemiah;30
 Nehi;40
+Nehi root beer;40
 Nehis;40
 Nehisi;40;Author Ta-Nehisi Coates
 Nehru;40;Jawaharlal Nehru, first prime minister of independent India (1947-64)
@@ -64640,6 +64660,7 @@ Niccolò Machiavelli;60;Writer of "The Prince"
 Niccolo Machiavelli;0
 Niccolo Paganini;60
 nice ass;10
+nice bum, where ya from?;60
 nice butt;60
 nice catch;60
 nice dog;60
@@ -80253,6 +80274,12 @@ rooster sauce;60
 rooster tail;50
 rooster tails;50
 root around;50
+root beer;60
+root beer barrel;60;Classic hard candy
+root beer barrels;60;Classic hard candy
+root beer float;60
+root beer floats;60
+root beers;60
 root cause;50
 root causes;50
 rooted around;50
@@ -93292,7 +93319,10 @@ Tanega;40;Norma Tanega, "You're Dead" singer
 Ta-Nehisi;60;Author Ta-Nehisi Coates
 Ta-Nehisi Coates;60
 Taney;40;Dred Scott Chief Justice Roger B. Taney
-Tanganyika;50;African lake, or Tanzania's predecessor
+tanga;30
+tanga briefs;40
+Tanganyika;40;African lake, or Tanzania's predecessor
+tangas;30
 Tange;40;Kenzo Tange, Japanese architect
 tangencies;40
 tangency;40
@@ -97126,6 +97156,7 @@ tinks;50;Unknits
 tinner;30;Tin miner or tinsmith
 tinners;30
 Tino;40;Tino Martinez, Yankees first baseman
+tino rangatiratanga;40;Māori language term
 tin ore;40
 tin ores;40
 tinsels;30
