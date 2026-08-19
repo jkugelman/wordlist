@@ -39112,7 +39112,10 @@ grabs a cab;50
 grabs at;40
 grabs on;40
 grab the bull by the horns;60
-Graca;40;Graça Machel, Mozambican activist and Nelson Mandela's widow
+Graça;40;Graça Machel, Mozambican activist and Nelson Mandela's widow
+Graca;0
+Graça Machel;40;Mozambican activist and Nelson Mandela's widow
+Graca Machel;0
 Gracchi;40;Roman reformer brothers
 Gracchus;40;Tiberius and Gaius Gracchus, Roman reformers
 Grace Hopper;60;Pioneer of computer programming
@@ -41930,6 +41933,10 @@ heady mixtures;40
 heady perfume;40
 heady perfumes;40
 heady stuff;60
+heal-all;40
+healall;40
+heal-alls;40
+healalls;40
 Healey;40;Maura Healey, Massachusetts governor / Austin-Healey sports cars
 healheal;0
 health bar;60
