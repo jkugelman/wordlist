@@ -1447,6 +1447,7 @@ ad nauseam;60
 adnoun;20
 ado;50
 Ado Annie;40;Oklahoma! character
+adobada;40;Mexican dish
 Adobe Flash;50
 a dog's age;60
 A Dog's Life;50
@@ -2829,7 +2830,10 @@ Al Hedison;20;Actor
 Al Hirt;40;Trumpeter and bandleader (1922–1999)
 Ali;50
 Alia;40
-Ali Baba;50
+Ali Baba;60
+Alibaba;40;Chinese e-commerce company
+Ali Baba and the;0
+Ali Baba and the Forty Thieves;60
 Alicante;40;Province and city in Spain
 Alicante, Spain;50
 Alicante Spain;0
@@ -5854,6 +5858,7 @@ Aronson;40;Elliot Aronson, social psychologist
 aroo;30;Suffix with buck/switch [common]
 Arooj;40;Arooj Aftab, Grammy-winning Pakistani American singer
 Aroostook;40;Maine county, and a bloodless border war
+aros;30;Aromantics
 arose from;40
 a rose is a rose is a rose;60
 around in circles;40
@@ -10781,11 +10786,14 @@ bildungsromans;60
 Biles;50;Simone Biles, gymnastics great
 bilge rat;50
 bilge rats;50
+biliary;40
 Bilibili;40;Chinese video-sharing site
 Bilitis;40;Daughters of Bilitis, pioneering lesbian rights group
 bilker;30
 bilkers;30
 Bilko;40
+bill;50
+Bill;50
 billboard;50
 Billboard 200;60;American weekly album chart
 billboard advertising;60
@@ -10797,6 +10805,7 @@ Billboard Music Awards;60
 Billboard top ten;30;Does this exist?
 Bill Bruford;60
 Bill Burr;50
+Bill Clinton;50
 Bill Cosby;10
 Bill Cowher;50;Pittsburg Steelers head coach 1992-2006
 billed to;40
@@ -11021,7 +11030,7 @@ Birtwistle;40;Harrison Birtwistle, British composer
 bis;40;Biceps
 Bisan;40;Bisan Owda, Palestinian journalist
 bis and tris;60;Arm muscles
-Bisan Owda;50;Palestinian journalist and activist
+Bisan Owda;40;Palestinian journalist and activist
 Biscay;40;Bay of Biscay
 Biscayne;40;Biscayne Bay, off Miami
 biscuit tortoni;50
@@ -12231,8 +12240,8 @@ book drops;50
 Booker;40;Booker Prize, or Booker T. Washington, educator
 Bookers;40;Booker Prizes
 Booker T. and the M.G.'s;50
-book fair;50
-book fairs;50
+book fair;60
+book fairs;60
 Bookforum;40;Book review magazine
 book group;50
 book groups;50
@@ -15099,7 +15108,7 @@ Campania;40;Italian region around Naples
 campanile;40;Italian bell tower
 campaniles;40
 campanula;30;Bellflower genus
-Campari;50;Bitter red Italian aperitif
+Campari;40;Bitter red Italian aperitif
 Camparis;40;Italian aperitifs
 camp bed;50
 Campbell;50;Naomi Campbell, model / Bruce Campbell, actor / the soup brand
@@ -15808,6 +15817,7 @@ cariole;30;One-horse carriage
 carioles;30
 Cariou;40;Len Cariou of the original Sweeney Todd cast
 carious;20;Decayed, as teeth
+caritas;30
 carjack;30
 carjacked;30
 carjacker;30
@@ -16638,6 +16648,7 @@ Cebuano;40;Philippine language
 Cebu City;40
 Cebu City, Philippines;40
 Cebu City Philippines;0
+ceca;20
 Cecco;40;De Cecco, Italian pasta brand
 CeCe;40
 Cecelia;30
@@ -16649,6 +16660,7 @@ Cecily;40;Cecily Strong, "SNL" cast member
 ceci n'est pas une pipe;60
 Cecred;40;Beyoncé's hair care brand
 cecropia;30;???
+cecum;30;Pouch in the large intestine
 cedarbalsamaple;0
 Cedar Falls;50
 Cedar Rapids Iowa;30;???
@@ -19093,7 +19105,7 @@ Cluedo;40;British name for Clue
 Clueless Smurf;60
 clue stick;60
 cluing;30
-Cluj;40;Romanian city, formally Cluj-Napoca
+Cluj;30;Romanian city, formally Cluj-Napoca
 Clumber;40;Clumber spaniel, the largest spaniel breed
 Clumsy Smurf;60
 clung onto;40
@@ -20819,7 +20831,7 @@ Cosi;40
 cosier;20
 cosily;20;Variant of cozily
 Cosima;30;Always clued as Wagner's wife, only used once in Shortz era
-Cosimo;20;Couple old Italians
+Cosimo;40;Couple old Italians
 Cosimo I;30;Cosimo I de' Medici, duke of Florence
 Cosimo II;20;Cosimo II de' Medici
 Cosimo III;30
@@ -26967,6 +26979,8 @@ DRM;30;Digital rights management
 Drndić;30;Daša Drndić, Croatian writer
 Drndic;0
 Dr. Octopus;60
+Dr. Oetker;40;German food manufacturer
+Dr Oetker;0
 Drogba;40;Didier Drogba, Ivorian soccer star
 Drogheda;40;Irish town sacked by Cromwell
 Drogo;40;Game of Thrones's Khal Drogo
@@ -34119,7 +34133,7 @@ Folkvangr;40;Freyja's afterlife field in Norse myth
 Follett;40;Ken Follett, "The Pillars of the Earth" novelist
 Followill;40;Caleb Followill of Kings of Leon
 follow the money;60
-Folsom;50;California prison of Johnny Cash fame
+Folsom;40;California prison of Johnny Cash fame
 folx;40;Folks, used especially to explicitly signal the inclusion of groups commonly marginalized
 Fomalhaut;50;Bright star in Piscis Austrinus
 FOMO;40;Fear of missing out
@@ -36524,6 +36538,10 @@ Genoese;40;Of Genoa
 Genovese;40;Kitty Genovese, bystander effect case / New York crime family
 Genovia;40;"The Princess Diaries" kingdom
 Genshin;40;Genshin Impact, blockbuster video game
+gente;30
+Gente de Zona;40
+genteeler;40
+genteelest;40
 gentian;30;???
 gentians;30;???
 Gentileschi;50;Artemisia Gentileschi, Baroque painter
@@ -42162,7 +42180,8 @@ hehe;50
 heh-hehs;30
 He Hit Me;60
 hehs;30
-Heian;40;Japanese period of Murasaki and "The Tale of Genji"
+Heian;30;Japanese period of Murasaki and "The Tale of Genji"
+Heian period;40
 Heidecker;40;Tim Heidecker, "Tim and Eric" comedian
 Heidelberg;50;German university city
 Heiden;40;Speedskater Eric Heiden with five golds in 1980
@@ -43263,7 +43282,7 @@ Hoang;40;Helen Hoang, romance novelist
 hoar;40
 HOAs;40;Homeowners associations
 hob;20
-Hoban;40;Russell Hoban, author of "Riddley Walker"
+Hoban;30;Russell Hoban, author of "Riddley Walker"
 Hobart;40;Capital of Tasmania
 Hobbema;20;Dutch painter
 Hobbes;50;Thomas Hobbes, "Leviathan" philosopher / Calvin's tiger
@@ -43344,6 +43363,10 @@ Hofmannsthal;40;Hugo von Hofmannsthal, Strauss's librettist
 Hofstadter;50;Douglas Hofstadter, "Godel, Escher, Bach" author
 Hofstra;40;Long Island university
 hog;50
+Hogan;50
+hogan;40
+Hogan's;40;"Hogan's Heroes"
+hogans;40
 Hogarth;50;William Hogarth, "A Rake's Progress" painter
 hog call;50
 hog caller;50
@@ -43918,6 +43941,7 @@ hora;40
 Horace;50;Roman poet of the Odes, or Horace Mann
 Horae;30;Greek goddesses of the seasons
 Horan;40;One Direction member Niall Horan
+horas;40
 Horatii;30
 Horatio;50;"Hamlet" confidant / Horatio Hornblower
 horchata;50;Milky Mexican drink
@@ -45983,6 +46007,7 @@ imbedded;20
 imbedding;20
 imbeds;20
 I'm behind;50
+I'm bi;40
 I'm Blue;40;Ike & Tina Turner song
 I'm bored;60
 imbricate;40;Overlapping
@@ -48590,9 +48615,9 @@ I wouldn't dream of it;60
 IWW;20;Industrial Workers of the World
 IX;40
 Ixion;30;Tartarus captive
-Iyar;40;Hebrew calendar month
+Iyar;30;Hebrew calendar month
 Iyaric;40;Rastafarian dialect of English
-Iyer;40;Pico Iyer, travel writer / Vijay Iyer, jazz pianist
+Iyer;30;Pico Iyer, travel writer / Vijay Iyer, jazz pianist
 IYKYK;40
 Iz;40;Oy vey iz mir / Israel "IZ" Kamakawiwo'ole, ukulele singer
 Izaak;40;Izaak Walton, "The Compleat Angler" author
@@ -54941,8 +54966,12 @@ Lili;40;Lili Reinhart, actress, or "Lili Marleen"
 Lilian;40;Lilian Lee, "Farewell My Concubine" novelist
 Liliana;40;Liliana Cavani, Italian director / Magic planeswalker
 Lilibet;40;Queen Elizabeth II's family nickname
-Lili St. Cyr;50;Model and burlesque performer (1917–1999)
+Lili Elbe;40;Danish painter, transgender woman, and one of the earliest recipients of gender-affirming surgery (1882-1931)
+Lili Marleen;40;German love song
+Lili Reinhart;40;"Riverdale" actress (2017-2023)
+Lili St. Cyr;40;Model and burlesque performer (1917–1999)
 Lili St Cyr;0
+Lili Taylor;40;Actress in the 1990s
 Lilith;40;Adam's mythical first wife, or Lilith Fair
 Lili'uokalani;60;Last sovereign monarch of the Hawaiian Kingdom (1891-93)
 Lil'Kinz;50
@@ -55914,6 +55943,7 @@ looked down on;50
 looked down one's nose;60
 looked down one's nose at;60
 looked fishy;60
+looked for;40
 looked forward;50
 looked forward to;50
 looked into;40
@@ -55926,6 +55956,7 @@ lookee;40
 looker-on;40
 lookers-on;40
 look fishy;60
+look for;40
 look forward;50
 look forward to;50
 look here;60
@@ -55939,6 +55970,7 @@ looking down on;50
 looking down one's nose;60
 looking down one's nose at;60
 looking fishy;60
+looking for;40
 looking forward;50
 looking forward to;50
 looking glass;60
@@ -55969,6 +56001,7 @@ looks down one's nose at;60
 look-see;50;Gander
 look-sees;30
 looks fishy;60
+looks for;40
 looks forward;50
 looks forward to;50
 looks great;60
@@ -56194,7 +56227,7 @@ Lothair;30;Holy Roman emperor
 Lothar;40;Sidekick to Mandrake the Magician
 Lothario;60
 Lotharios;60
-Loti;40;Pierre Loti, French novelist, or Lesotho currency
+Loti;30;Pierre Loti, French novelist, or Lesotho currency
 lotl;20
 LOTR;40
 lotsa;40
@@ -57306,7 +57339,7 @@ Maeby;40;Maeby Funke, "Arrested Development" character
 Maeby Fünke;60;"Arrested Development" character
 Maeby Funke;0
 Maecenas;40;Roman arts patron, hence any patron
-Mael;40;Ron Mael, Sparks keyboardist
+Mael;30;Ron Mael, Sparks keyboardist
 maenad;30;Female followers of Dionysus
 maenads;30
 Maersk;20;Danish shipping company
@@ -61716,8 +61749,8 @@ Molokai;40;Hawaiian island
 Molotov;50;Vyacheslav Molotov, Soviet diplomat with a cocktail named for him
 Molotov cocktail;60
 Molotov cocktails;60
-Molson;40;Canadian beer brand
-Molsons;40;Canadian beers
+Molson;50;Canadian beer brand
+Molsons;50;Canadian beers
 molten lava;50
 molten lava cake;50
 molten lava cakes;50
@@ -61934,6 +61967,7 @@ Montand;30;Actor Yves Montand, "one of France's greatest 20th-century artists" p
 montane;30;Growing in elevated regions
 Montauk;40;Long Island resort town
 Montcalm;30;Louis-Joseph de Montcalm, French Royal Army officer (1712–1759)
+monte;40
 Montego;40;Montego Bay, Jamaica
 Montel;40;Montel Williams, talk show host
 Montell;40;"This Is How We Do It" singer Montell Jordan
@@ -62075,6 +62109,7 @@ Mootoo;40;Shani Mootoo, Trinidadian Canadian novelist
 moot point;60
 moot points;50
 moots;30
+Moo U;40;Agricultural university or college
 Moovit;40;Transit app
 mop;50
 moper;40
@@ -63720,7 +63755,7 @@ NATO states;50
 NATO summit;50
 NATO summits;50
 natron;30;Mineral
-Nats;40;Washington Nationals, informally
+Nats;50;Washington Nationals, informally
 Nat Smurfling;50;Formerly Natural Smurf
 Natsume;40;Natsume Soseki, "Kokoro" novelist
 nattered on;40
@@ -65262,6 +65297,7 @@ Nolans;30;Plural name
 Nole;40;Novak Djokovic's nickname
 no leads;20
 Noles;40;Florida State Seminoles, familiarly
+noli;30;Noli me tangere (touch-me-not)
 no likey;10
 no limit Texas hold 'em;60
 Nolita;30
@@ -65350,6 +65386,7 @@ nonjudgemental;60
 nonlicit;20
 nonmale;20
 nonmotile;40
+nonna;40
 no noise;40
 nonomino;40;Geometric shape formed from nine squares
 nonominoes;40;Geometric shapes formed from nine squares
@@ -66741,6 +66778,7 @@ oculomotor nerve;50
 oculomotor nerves;50
 Oculus Rift;50;VR headset 2013-21
 Oculus Rifts;50;VR headsets 2013-21
+ocupado;40
 od;10
 Oda;20
 odalisque;30;Female slave or concubine in an Ottoman seraglio
@@ -66870,7 +66908,7 @@ oersted;30;Physicist
 Oerter;30;Discus champion Al Oerter
 oes;20
 oeste;40
-Oetker;40;Dr. Oetker, German food brand
+Oetker;40;Dr. Oetker, German food manufacturer
 oeuf;40
 oeufs;30
 of;50
@@ -67227,7 +67265,7 @@ OK but;50;"Yeah, except..."
 OKC;40;Oklahoma City Thunder, on scoreboards
 OK Computer;60
 OkCupid;50
-OK'd;50
+OK'd;40
 OK dear;50
 oke;20
 OKed;50
@@ -68388,6 +68426,7 @@ optatives;30;Verbs in the optative mood
 opted for;40
 opted to;30
 opt for;40
+opti;30
 optical scan;60
 optical scans;60
 Opticks;40;Isaac Newton's treatise on light
@@ -69855,6 +69894,7 @@ pani puri;40;Indian street food
 Panjabi;40;Archie Panjabi, "The Good Wife" actor
 Pankhurst;50;Emmeline Pankhurst, suffragette leader
 Pankhursts;40;Emmeline Pankhurst and her suffragette family
+panko;40
 panky;40
 Panmunjom;40;Truce village in the Korean DMZ
 panned for gold;50
@@ -72021,6 +72061,7 @@ picky picky picky;60
 picnic basket;50
 picnic baskets;50
 pico;40
+Pico Iyer;40
 Picone;40;Evan Picone, clothing label
 piconet;40;Ad hoc bluetooth network
 piconets;40
@@ -72077,6 +72118,9 @@ pierced nose;60
 pierced noses;60
 Piercy;40;Marge Piercy, novelist and poet
 Pieris;30;Flower genus
+Piero;40
+Piero della Francesca;40;Italian painter, mathematician and geometer (c. 1414 – 1492)
+Piero di Cosimo;40;Italian Renaissance painter (1462-1522)
 Pierpont;40;J. Pierpont Morgan's middle name / James Pierpont, "Jingle Bells" composer
 Pierre;50;Capital of South Dakota, or a French first name
 Pierre Menard;40;Jorge Luis Borges short story "Pierre Menard, Author of the Quixote"
@@ -72423,7 +72467,9 @@ Pisans;40;Residents of the leaning tower's city
 piscator;20;Fisherman, or theater director Erwin
 piscatorial;40;Of or concerning fishermen or fishing
 Pisces;50;Zodiac's fish
+pisco;40;Grape spirit made in Peru and Chile
 Piscopo;40;Joe Piscopo, SNL alum
+piscos;40;Grape spirits made in Peru and Chile
 pisco sour;50;Peruvian cocktail
 Pisgah;30;Pisgah National Forest in North Carolina
 pismire;20;Ant, archaic
@@ -77769,6 +77815,8 @@ reetches;20
 reetching;20
 Reeve;40;Christopher Reeve
 reeved;20
+Reeves;50
+reeves;40
 Reeve's Tale;40;One of Chaucer's Canterbury Tales, with "The"
 reeving;20
 ref;50
@@ -80274,6 +80322,7 @@ rooster sauce;60
 rooster tail;50
 rooster tails;50
 root around;50
+root around for;40
 root beer;60
 root beer barrel;60;Classic hard candy
 root beer barrels;60;Classic hard candy
@@ -80283,16 +80332,18 @@ root beers;60
 root cause;50
 root causes;50
 rooted around;50
+rooted around for;40
 rooted for;40
 rooted for the underdog;60
 rooted on;50
-root for;50
+root for;40
 root for the underdog;60
 rootier;30;More root-filled or earthy in flavor
 rootiest;30;Most root-filled or earthy in flavor
 rootinest tootinest;60
 rooting around;50
-rooting for;50
+rooting around for;40
+rooting for;40
 rooting for the underdog;60
 rooting on;50
 rootlet;40
@@ -80300,7 +80351,8 @@ rootlets;40
 root mean square;50
 root on;50
 roots around;50
-roots for;50
+roots around for;40
+roots for;40
 roots for the underdog;60
 roots on;50
 rootstalk;50
@@ -81007,10 +81059,10 @@ RuPaul;50;RuPaul, "Drag Race" host
 RuPaul's;40;"RuPaul's Drag Race"
 Rupert;40;Rupert Murdoch, media mogul / Rupert Grint, actor
 Rupert's;40;Prince Rupert's drops
-Rupi;40;Poet Rupi Kaur (big on Instagram)
+Rupi;30;Poet Rupi Kaur (big on Instagram)
 rupiah;30;Indonesian currency
 rupiahs;30
-Rupi Kaur;50;Poet Rupi Kaur (big on Instagram)
+Rupi Kaur;40;Poet (big on Instagram)
 Rupp;40;Adolph Rupp, Kentucky basketball coach
 Rupp Arena;40;Where the University of Kentucky Wildcats play
 RUR;20
@@ -81290,10 +81342,11 @@ sacroiliac;40
 sacrosanct;50
 sacrum;30;Lower back bone
 sad;50
-Sada;40;Sada Thompson, "Family" actress
+Sada;30;Sada Thompson, "Family" actress
 Sadaharu;40;Sadaharu Oh, Japan's home run king
 Sadaharu Oh;30;Japanese baseball player (all-time great, but in Japan, never played in the MLB)
 Sadat;40
+Sada Thompson;40;"Family" actress (1976-80)
 Sadats;30
 sad beige;60
 sad beige baby;60
@@ -82037,6 +82090,7 @@ Saranac;30;New York river / lakes
 Sarandon;50;Susan Sarandon, "Thelma & Louise" star
 sarans;20
 Sara Paretsky;40;Author of detective fiction
+sarapes;30
 Sarasate;40;Pablo de Sarasate, Spanish violin virtuoso
 Sara Smile;50;???
 Sarasota;50;Florida Gulf Coast city
@@ -83358,7 +83412,7 @@ security leaks;50
 security smoke;60
 security theater;60
 sed;20
-Seda;40;Jon Seda, actor
+Seda;30;Jon Seda, actor
 Sedaka;40
 Sedalia;20;Missouri town
 Sedaris;50;David Sedaris, humorist / Amy Sedaris, comedian
@@ -85553,9 +85607,11 @@ shuffles the deck;50
 Shug;40;Shug Avery, "The Color Purple" singer
 Shuggie;40;"Shuggie Bain", Booker-winning novel / Shuggie Otis, musician
 shui;40;Feng shui
+shul;40;Synagogue
 Shula;40;NFL coach Don Shula
 Shulamith;40;Shulamith Firestone, radical feminist author
 Shulman;40
+shuls;40;Synagogues
 Shum;40;Harry Shum Jr., "Glee" dancer-actor
 shumai;40
 Shumway;40;Gordon Shumway, ALF's real name
@@ -87961,6 +88017,8 @@ solar flares;60
 solar halo;60;Optical phenomenon
 solar halos;60
 Solaris;50;Stanisław Lem novel filmed by Tarkovsky
+solar map;50;Map of how much sunlight places receive
+solar maps;50;Maps of how much sunlight places receive
 solar panel;60
 solar panels;60
 solar plexus;60
@@ -93148,6 +93206,7 @@ talesman;20;Person added to a jury
 talesmen;20;Persons added to a jury
 Tales of Dune;60;Short story collection by Frank Herbert
 tales of woe;60
+tali;30;Ankle bones
 Talia;40
 talias;30
 Talib;30;Name
@@ -93233,7 +93292,7 @@ Talmudic law;50
 Talmudist;50;Talmud scholar
 Talmudists;40;Students of the Talmud
 Talos;20;Mythological guardian of Crete
-talus;20
+talus;40;Ankle bone
 taluses;20
 tam;40
 Tama;30;Tama Janowitz, "Slaves of New York" author
@@ -94641,6 +94700,7 @@ Teyana;30;???
 Teyonah;40;Teyonah Parris, "WandaVision" actress
 Tezcatlipoca;40;Aztec smoking mirror god
 Tezuka;40;Osamu Tezuka, "Astro Boy" creator
+T-fal;40;Nonstick cookware brand
 T formation;50
 TFW;30
 T. Geisel;20
@@ -97960,6 +98020,7 @@ top hits;50
 top-hole;30;First rate, in British slang
 top honor;60
 top honors;60
+topi;20;Antelope / pith helmet
 topiaries;50
 topiary;50
 topical steroid;50
@@ -97969,6 +98030,7 @@ topic sentence;50
 topic sentences;50
 Topikachu;40;???
 toping;10;Drinking to excess
+topis;20;Antelopes / pith helmets
 top job;40;Green paint?
 Topkapi;30;1964 movie, or Istanbul palace
 top left corner;40
@@ -101064,7 +101126,7 @@ Urbanspoon;40;Restaurant review app
 Urban V;20
 Urban VI;20
 Urban VII;20
-Urbi;40;___ et Orbi, papal blessing
+Urbi;30;___ et Orbi, papal blessing
 Urbino;40;Italian city, Raphael's birthplace
 Urbino, Italy;40;Birthplace of Raphael
 Urbino Italy;0
@@ -101458,6 +101520,9 @@ vacuum hoses;50
 vacuum sealed;50
 vacuum tube;60
 vacuum tubes;60
+vade;20
+vade mecum;40
+vade mecums;40
 Vader;50;Darth Vader, "Star Wars" villain
 Vadim;40;Roger Vadim, French director
 Vaduz;40;Capital of Liechtenstein
@@ -101658,7 +101723,7 @@ Varsoviana;40;Old ballroom dance of Polish origin
 Varuna;40;Vedic god of the waters
 varying degrees;50
 vas;40;Mil. hospitals, or vas deferens
-Vasa;40;Salvaged Swedish warship and Stockholm museum, or the royal dynasty
+Vasa;30;Salvaged Swedish warship and Stockholm museum, or the royal dynasty
 Vasarely;40;Victor Vasarely, Op art pioneer
 Vasari;40;Giorgio Vasari, "Lives of the Artists" author
 Vasco;40
@@ -101678,7 +101743,7 @@ vaticani;30
 vaticinator;30;???
 Vatnajokull;40;Vatnajökull, Iceland's largest glacier
 vau;20
-Vaud;40;Swiss canton
+Vaud;30;Swiss canton
 vaudeville;60
 vaudeville act;60
 vaudeville acts;60
@@ -101726,10 +101791,10 @@ Vecchio;40;Ponte Vecchio or Palazzo Vecchio
 Vechten;40;Carl Van Vechten, Harlem Renaissance photographer
 Vecna;20;"Stranger Things" villain, also a D&D lich
 ved;20
-Veda;40;Hindu scripture / Veda Pierce of "Mildred Pierce"
+Veda;30;Hindu scripture / Veda Pierce of "Mildred Pierce"
 Vedanta;40;School of Hindu philosophy
 Vedantic;40
-Vedas;50;Hindu scriptures
+Vedas;30;Hindu scriptures
 Vedder;50;Eddie Vedder, Pearl Jam frontman
 Vedic;40;Relating to the Vedas
 vee;30
@@ -102186,6 +102251,7 @@ VII;30
 VIII;30
 Vijay;40;Vijay Singh, Fijian golfer / Vijay Iyer, jazz pianist
 Vijayanagara;50;Medieval South Indian empire
+Vijay Iyer;40
 Vikander;40;Alicia Vikander, Oscar-winning actress
 Viking;50;Norse raider, or Minnesota NFLer
 Vikings;50;Minnesota NFL team, or Norse seafarers
@@ -102661,6 +102727,7 @@ VPN;40
 VPNs;40;Encrypted network tunnels
 VPOTUS;40;Vice President of the United States
 VPs;40
+vrai;30;Real, in French
 Vrbo;40
 Vreeland;40;Diana Vreeland, Vogue editor
 VR game;50
@@ -106814,7 +106881,8 @@ yensid;0
 yenta;40
 yentas;40
 Yente;40;"Fiddler on the Roof" matchmaker
-Yentl;50;Streisand title role
+yentes;30
+Yentl;40;Streisand title role
 yeo;20
 Yeoh;40;Actress Michelle Yeoh
 yeows;40
@@ -106917,6 +106985,7 @@ yippy;50
 Yitzhak;50;Yitzhak Rabin, Israeli prime minister
 Yi Yi;40;2000 award-winning Taiwanese drama film
 Yiyun;40;Yiyun Li, novelist
+YKK;30;Zipper manufacturer
 y'know;40
 ylang-ylang;40;Tropical tree
 Ylvis;40;Norwegian duo behind "The Fox"
@@ -106927,6 +106996,8 @@ YMHA;30;Young Men's Hebrew Association
 YMHAs;30;Young Men's Hebrew Associations
 Ymir;20;Giant slain by Odin, from his flesh was fashioned the Earth, from his blood the oceans
 YMMV;30;Your mileage may vary
+Y-neck;40
+Y-necks;40
 Ynez;30;Santa Ynez, California wine valley
 Yngwie;50
 Yngwie Malmsteen;50
@@ -107698,6 +107769,7 @@ Zeinabu;40;Zeinabu irene Davis, filmmaker
 Zeke;40;Nickname for Ezekiel
 Zelazny;40;Roger Zelazny, "Chronicles of Amber" author
 Zelda;50;"The Legend of Zelda" princess
+Zelda II;40
 Zeldas;30
 Zelenskyy;50;Volodymyr Zelenskyy, Ukrainian president
 Zelig;40;Woody Allen film
