@@ -3919,6 +3919,12 @@ Amur;30;River on the Russia-China border
 Amur River;40
 Amur tiger;50
 Amur tigers;50
+amusement park;60
+amusement park ride;60
+amusement park rides;60
+amusement parks;60
+amusement ride;50
+amusement rides;50
 amuser;30
 amusers;30
 a must;40
@@ -26583,7 +26589,8 @@ drachmas;50
 drachms;30
 Draco;40;Constellation
 Draco Malfoy;10;Harry Potter
-Draconids;50;Meteor shower
+Draconid;40
+Draconids;40;Meteor shower
 Dracula;60
 Draculas;50;More than one vampire count
 draft card;50
@@ -45555,6 +45562,7 @@ if you don't mind me saying;60
 if you don't mind my asking;60
 if you don't mind my saying so;60
 if you know you know;60
+if you'll excuse me;60
 if you please;60
 If You See Something, Say Something;60;Public awareness campaign
 if you snooze, you lose;60
@@ -65975,6 +65983,7 @@ now get this;60
 now hear me out;60
 nowheres;40
 now I feel silly;60
+now if you'll excuse me;60
 nowise;30
 Nowitzki;50;Dirk Nowitzki, NBA Hall of Famer
 now I've heard everything;60
@@ -67074,6 +67083,7 @@ O Henry Award;50
 O Henry Awards;50
 O. Henry-esque;50
 O'Herlihy;40;Dan O'Herlihy, "RoboCop" actor
+oh excuse me;50
 oh fine;60
 oh for crying out loud;60
 oh for heaven's sake;60
