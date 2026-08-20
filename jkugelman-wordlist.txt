@@ -67779,6 +67779,7 @@ on a train;20
 on a trial basis;60
 on a trip;40
 on autopilot;60
+on aux;50
 on a visa;40
 on a visit;30
 on a wire;30
