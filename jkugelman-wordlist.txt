@@ -40576,6 +40576,8 @@ had a cow;50
 had a crush on;60
 had a drink;50
 had a go at it;50
+had a hankering;50
+had a hankering for;50
 had a heart;60
 had a heart of gold;60
 had a hunch;50
@@ -41149,6 +41151,10 @@ Hanh;40;Thich Nhat Hanh, Vietnamese Zen monk
 Hanif;40;Poet Hanif Abdurraqib (2021 MacArthur Fellow)
 Hanif Abdurraqib;60;Poet Hanif Abdurraqib (2021 MacArthur Fellow)
 Hanja;40;Chinese characters used in Korean
+hankered for;40
+hanker for;40
+hankering for;40
+hankers for;40
 Hank Hill;60
 hank of hair;40
 hanky panky;60
@@ -41460,6 +41466,8 @@ has a cow;50
 has a crush on;60
 has a drink;50
 has a go at it;50
+has a hankering;50
+has a hankering for;50
 has a heart;60
 has a heart of gold;60
 has a hunch;50
@@ -41684,6 +41692,8 @@ have a crush on;60
 have a drink;50
 have a go at it;50
 have a good trip;50
+have a hankering;50
+have a hankering for;50
 have a heart;60
 have a hunch;50
 have a kid;40
@@ -41773,6 +41783,8 @@ having a cow;50
 having a crush on;60
 having a drink;50
 having a go at it;50
+having a hankering;50
+having a hankering for;50
 having a heart;60
 having a hunch;60
 having a kid;40
