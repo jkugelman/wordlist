@@ -94152,6 +94152,8 @@ Tebows;20
 tec;20
 Tecate;40;Mexican beer and border town
 Tecates;40;Mexican beers
+tech boom;60
+tech booms;60
 tech bro;60
 tech bros;60
 tech CEO;60
