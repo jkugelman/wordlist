@@ -9916,6 +9916,10 @@ Beiyang;40;Chinese army and government of the early 1900s
 bejesus;60
 Bejo;40;Berenice Bejo, actress in "The Artist"
 be kind rewind;60
+beknight;50
+beknighted;50
+beknighting;50
+beknights;50
 Bektashi;40;Sufi order headquartered in Albania
 Bektashis;40;Members of a Sufi order
 Bektashism;40;Sufi order centered in Albania
@@ -18905,7 +18909,7 @@ click farm;60
 click farming;60
 click farms;60
 click here;60
-ClickHole;40;The Onion's clickbait parody site
+ClickHole;60;The Onion's clickbait parody site
 clicking on;40
 click on;40
 clicks and mortar;40
@@ -33673,6 +33677,8 @@ fleabag hotels;60
 fleabag motel;60
 fleabag motels;60
 fleabane;50
+flea bite;50
+flea bites;50
 Fleance;30;Banquo's son
 flèche;30;Fencing move?
 Flecktones;40;Bela Fleck's band
@@ -74625,6 +74631,7 @@ prevote;50
 prevoted;50
 prevotes;50
 prevoting;50
+prewritten;50
 prez;40
 Prezi;40;Presentation software
 PR firm;50
