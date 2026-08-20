@@ -3996,6 +3996,7 @@ analogize;50
 analogized;50
 analogizes;50
 analogizing;50
+anal phase;60
 anal probe;10
 anal probes;10
 analysand;30;Person undergoing psychoanalysis
@@ -21263,6 +21264,8 @@ CPR class;60
 CPR classes;60
 CPR trainer;60
 CPR trainers;60
+C. P. Snow;40;English novelist and physical chemist (1905–1980)
+C P Snow;0
 CPU;40
 CPUs;40
 CQD;30;Morse code distress call in the early 20th century (come quick distress)
@@ -31693,7 +31696,8 @@ fae;30;Fairy race, used twice in 2025??? Sus!
 fae/faer;30;Fae/faer neopronouns
 Faenza;40;Italian city that gave faience its name
 Faeroe;20
-Faerun;40;"Forgotten Realms" continent
+Faerûn;30;D&D "Forgotten Realms" continent
+Faerun;0
 faff;50
 faff about;50
 faff around;50
@@ -36632,9 +36636,12 @@ geocache;50
 geocached;50
 geocaches;50
 geocaching;50
-geocentrism;50
-geocentrist;50
-geocentrists;50
+geocentric orbit;60
+geocentric orbits;60
+geocentric universe;60
+geocentrism;60
+geocentrist;60
+geocentrists;60
 GeoCities;60;1990s free web host
 geodesical;50
 geodesic grid;50
@@ -60418,6 +60425,7 @@ mescals;50
 meseems;40
 Meshach;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 Meshell;40;Meshell Ndegeocello, singer and bassist
+Meshell Ndegeocello;40
 Meshuggah;60
 meshugge;60;Senseless, in Yiddish
 Mesmer;40;Franz Mesmer, source of "mesmerize"
@@ -64045,7 +64053,7 @@ N. Dakota;40
 Ndamukong;40;Ndamukong Suh, NFL defensive tackle
 NDAs;40
 Ndebele;30;People of Zimbabwe
-Ndegeocello;50;Meshell Ndegeocello, bassist and singer
+Ndegeocello;40;Meshell Ndegeocello, bassist and singer
 N'Diaye;40;Marie NDiaye, French novelist
 N'Djamena;40;N'Djamena, capital of Chad
 N'Dour;40;Youssou N'Dour, Senegalese singer
