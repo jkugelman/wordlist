@@ -653,7 +653,9 @@ abominate;40
 abominated;40
 abominates;40
 abominating;40
+a bone of contention;60
 a boner;20
+a bone to pick;60
 a book within a book;60
 Aboriginal land;50
 abort! abort!;50
@@ -3108,6 +3110,7 @@ all sewn up;50
 all shapes and sizes;60
 all sizzle and no steak;60
 all sizzle, no steak;60
+all skin and bones;60
 All Souls College;50
 all-star;60
 All-Star break;60
@@ -3802,6 +3805,7 @@ amities;30
 am I too late;60
 Amityville;60
 am I up?;60
+am I worried?;50
 am I wrong;60
 AmiYumi;40;Puffy AmiYumi, J-pop duo
 Aml;30;Aml Ameen, British actor and filmmaker (born 1985)
@@ -6331,6 +6335,7 @@ ask dad;60
 asked a favor of;40
 asked a lot of;50
 asked for;40
+asked for nothing;50
 asked for the hand of;60
 asked in;40
 asked no favors;50
@@ -6340,6 +6345,7 @@ as keen;20
 asker;50
 askers;50
 ask for;40
+ask for nothing;20
 ask for the hand of;60
 AskHistorians;40;Reddit history forum
 Askia;30;Askia Muhammad, Songhai emperor
@@ -6349,6 +6355,7 @@ asking a favor of;40
 asking a lot of;50
 asking for;40
 asking for it;60
+asking for nothing;50
 asking for the hand of;60
 asking in;40
 asking no favors;50
@@ -6369,6 +6376,7 @@ AskReddit;40;Question-posing subreddit
 asks a favor of;40
 asks a lot of;50
 asks for;40
+asks for nothing;50
 asks for the hand of;60
 asks in;40
 asks no favors;50
@@ -7999,6 +8007,7 @@ bad tip;50
 bad tipper;60
 bad tippers;60
 bad tips;50
+bad to the bone;60
 bad toupee;10
 bad toupees;10
 bad trip;60
@@ -10923,6 +10932,7 @@ bio-ink;50;Used to 3D print artificial tissue
 bio-inks;50;Used to 3D print artificial tissue
 Bioko;40;Island of Equatorial Guinea
 biol;30
+bio major;50
 biomimicry;50
 bio mom;60
 bio moms;50
@@ -12125,23 +12135,33 @@ bonehead;60
 boneheaded;60
 boneheads;60
 boneless chicken;50
+boneless pork chop;50
+boneless pork chops;50
 boneless spare ribs;60
+boneless wing;60
+boneless wings;60
 bonelet;40
 bonelets;40
 bone marrow donation;50
 bone marrow donations;50
 bone marrow donor;50
 bone marrow donors;50
+bone marrow transplant;50
+bone marrow transplants;50
 bone of contention;60
 bone picker;50
 bone pickers;50
+boner-killing;10
 boneset;40;Perennial wildflower
 bonesets;40
 bone-shaking;50
 Bonesman;50;Member of the Skull and Bones society (many presidents)
 Bonesmen;50;Members of the Skull and Bones society (many presidents)
+bones to pick;60
 bones up;50
 Bonet;40
+Bone Thugs-n-Harmony;60
+bone to pick;60
 bone up;50
 bone white;50
 Boney;40;Boney M, disco group
@@ -12274,6 +12294,8 @@ bookstagram;60
 bookstore;60
 bookstores;60
 BookTok;60
+book tour;60
+book tours;60
 BookTube;40;YouTube's book community
 BookTuber;40;Book reviewer on YouTube
 BookTubers;40;Book reviewers on YouTube
@@ -17879,9 +17901,13 @@ chili pepper;50
 chili peppers;50
 chili powder;50
 chillaxed;60
+chilled to the bone;60
 chillily;30;Weird adverb
+chilling to the bone;60
 Chillingworth;50;Roger Chillingworth, "The Scarlet Letter" husband
 Chilliwack;40;British Columbia city
+chills to the bone;60
+chill to the bone;60
 Chillun;40;"All God's Chillun Got Wings", O'Neill play
 chillwave;60
 Chiloe;40;Chiloé, Chilean island and archipelago
@@ -19071,17 +19097,33 @@ cloven hooves;50
 Cloverfield;60
 Cloverfield Paradox;60
 Clovis;40;Prehistoric spear point, or the Frankish king
+clown around with;40
+clown car;60
+clown cars;60
+clown college;60
 clowncore;60
+clown costume;60
+clown costumes;60
 clown doctor;60;Entertainer who cheers up patients at hospitals
 clown doctors;60
-clownfish;50
+clowned around with;40
+clownery;50
+clownfish;60
+clownfishes;60
 Clown Hall of Fame;60
+clowning around with;40
+clown makeup;60
+clown nose;60
+clown noses;60
 clown prince;60
 Clown Prince of Crime;60;The Joker
 Clown Prince of Denmark;60;Nickname for pianist Victor Borge
+clowns around with;40
+clown shoe;60
 clown shoes;60
 clown suit;60
 clown suits;60
+clown white;60
 cloy;50
 cloyed;50
 cloying;50
@@ -21202,6 +21244,7 @@ Cozumel;40;Mexican resort island
 cozy fantasy;60
 cozy game;60
 cozy games;60
+cozy gaming;60
 CPA;40
 CPAP;40
 CPAP machine;60
@@ -21448,6 +21491,8 @@ creeping buttercups;50
 creeping into;40
 creep into;40
 creeps into;40
+creepy clown;60
+creepy clowns;60
 Crees;50
 Cregg;40;C.J. Cregg, "The West Wing" press secretary
 Cregger;40;Zach Cregger, "Barbarian" director
@@ -21832,9 +21877,11 @@ crowd surfers;60
 crowd surfing;60
 crowd surfs;60
 Crowe;50;Russell Crowe, actor / Cameron Crowe, director
+crowed over;40
 crower;30
 crowers;30
 Crowes;40;The Black Crowes, "Hard to Handle" band
+crowing over;40
 Crowley;50;Aleister Crowley
 Crowne;40;Crowne Plaza hotels
 crowngrass;40
@@ -21842,8 +21889,10 @@ Crowninshield;40;Frank Crowninshield, founding Vanity Fair editor
 Crown Royal;50
 Crown Vic;50
 Crown Vics;50
+crow over;40
 crow pose;50
 crow's nest;50
+crows over;40
 Crowther;40;Bosley Crowther, New York Times film critic
 Croydon;40;South London borough
 crozier;40;Bishop's staff
@@ -23463,6 +23512,7 @@ deathwatch beetles;60
 Deaver;40;Jeffery Deaver, thriller novelist
 Deavere;40;Anna Deavere Smith, playwright and actor
 deb;40
+Deb;40
 DeBakey;40;Michael DeBakey, pioneering heart surgeon
 debar;40
 DeBarge;30
@@ -26193,6 +26243,7 @@ don't you remember;60
 don't you see?;60
 don't you see;0
 don't you think;60
+don't you worry;60
 donut hole;60
 donut holes;60
 donut shop;60
@@ -27040,6 +27091,8 @@ drop a truth bomb;60
 drop A tuning;40
 drop B;20
 drop bars;60;Rap well
+drop bear;60;Hoax in Australian folklore
+drop bears;60;Hoaxes in Australian folklore
 drop behind;50
 drop B tuning;40
 drop by drop;50
@@ -27145,7 +27198,8 @@ Dr. Seuss's Sleep Book;60;1962 children's book by Dr. Seuss
 Dr. Seuss stories;20
 Dr Spock;50
 Dr Strangelove;60
-Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb;60
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;60
+Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb;0
 Dr T;20
 Dru;30;Dru Hill, or Gru's twin
 Drucker;40;Peter Drucker, management thinker / Mort Drucker, Mad caricaturist
@@ -27709,6 +27763,7 @@ dye jobs;60
 dye lot;50;Record for identifying dyed yarn
 dye lots;50;Records for identifying dyed yarn
 dyer;40
+Dyer;40;Natalia Dyer, "Stranger Things" actress
 dyers;40
 dying a death;50
 dying back;40
@@ -30077,6 +30132,8 @@ Ernest;50;Ernest Hemingway, author, among many
 Ernestine;50;Given name: Lily Tomlin's phone operator
 Ernesto;50;Common Spanish first name
 Ernesto Zedillo;50;Mexican president Ernesto Zedillo (1994-2000)
+Ernest P. Worrell;60
+Ernest P Worrell;0
 Ernie;50;"Sesame Street" roommate of Bert / Ernie Banks, Cubs great
 Ernie Ford;50
 Erno;40;Erno Rubik, cube inventor
@@ -30974,6 +31031,7 @@ everts;40
 Everwood;40;WB family drama
 Every 1's a Winner;40;1978 album by British band Hot Chocolate
 everybody knows;60
+Everybody Loves a Clown;50
 Everybody Poops;60
 Everybody's;40;Possessive of everybody
 everybody's a comedian;60
@@ -31002,6 +31060,8 @@ evidence-based;50
 evidence board;60
 evidence boards;60
 Evie;40
+evil clown;60
+evil clowns;60
 Evil Dead;60
 evildoer;60
 evildoers;60
@@ -43699,6 +43759,7 @@ Homestuck;50;Sprawling Andrew Hussie webcomic
 home sweet;20
 home theater;50
 home theaters;50
+Homey the Clown;60;"In Living Color" character
 Homi;20;Smart home device brand
 homicide;50
 homicides;50
@@ -48627,6 +48688,7 @@ I would eat you alive;60
 I would never;60
 I wouldn't bother;60;"It's not worth the trouble"
 I wouldn't dream of it;60
+I wouldn't worry about it;60
 IWW;20;Industrial Workers of the World
 IX;40
 Ixion;30;Tartarus captive
@@ -58388,6 +58450,7 @@ Mao suits;50
 Maotai;30;Chinese liquor
 Mao Tse;40
 Mao Tse-tung;50
+Ma'oz Tzur;40
 map;50
 Mapes;20;Shadout ___, "Dune" character
 Maphead;40;Ken Jennings book about map lovers
@@ -65995,6 +66058,8 @@ now look here;60
 now me;60
 now now;60
 no wonder;60
+no worries;60
+no worries at all;60
 Nowruz;40;Persian New Year
 now streaming;60
 now that's an idea;60
@@ -72853,6 +72918,7 @@ played it smart;60
 played nice;60
 played on;40
 played second fiddle;60
+played the clown;60
 played the slots;60
 played to;40
 played to the balcony;60
@@ -72887,6 +72953,7 @@ playing it smart;60
 playing nice;60
 playing on;40
 playing second fiddle;60
+playing the clown;60
 playing the slots;60
 playing to;40
 playing to the balcony;60
@@ -72924,6 +72991,7 @@ PlayStation game;60
 PlayStation games;60
 PlayStation Portable;60
 PlayStations;60
+plays the clown;60
 plays the slots;60
 plays to;40
 plays to the balcony;60
@@ -72947,6 +73015,7 @@ Playtex bra;50
 Playtex bras;50
 Play That Funky Music;60
 play that funky music white boy;60
+play the clown;60
 play the slots;60
 play to;40
 play to the balcony;60
@@ -73409,6 +73478,8 @@ police slang;50
 police sting;50
 police stings;50
 police tape;60
+police task force;50
+police task forces;20
 policewomen;50
 policy research;50
 policy wonk;60
@@ -79979,6 +80050,8 @@ rodeo athlete;50
 rodeo athletes;50
 rodeo bull;50
 rodeo bulls;50
+rodeo clown;60
+rodeo clowns;60
 Rodeo Drive;60
 rode on;40
 rode out the storm;50
@@ -81370,6 +81443,8 @@ sad beige;60
 sad beige baby;60
 sad but true;60
 Sad But True;50;1993 single by Metallica
+sad clown;60
+sad clowns;60
 SADD;40
 Saddams;20
 saddhu;20
@@ -82615,6 +82690,8 @@ Scarpia;30;Villain of the Puccini opera "Tosca"
 scarps;30
 Scarry;50;Richard Scarry, "Busytown" children's author
 Scarsdale;40;Wealthy Westchester suburb and namesake diet
+scary clown;60
+scary clowns;60
 scary good;60
 scary movie;60
 Scary Spice;60
@@ -85443,6 +85520,7 @@ shoulder brace;50
 shoulder braces;50
 shoulder injuries;50
 shoulder injury;50
+should I be worried;60
 should I care?;60
 should I say something?;60
 Should I Stay or Should I Go;60;The Clash song
@@ -85716,6 +85794,7 @@ sickly sweet;60
 sicko;60
 Sicko Mode;60
 sickos;60
+sick with worry;60
 sic on;40
 sics on;40
 sics the dog on;50
@@ -87087,6 +87166,7 @@ slop bucket;60
 slop buckets;60
 sloper;50;Rock climbing hold
 slopers;50
+slopover;40;Fire that spreads beyond the firebreak or fireline
 Sloppy Smurf;60
 slot canyon;50
 slot canyons;50
@@ -88766,7 +88846,10 @@ spavined;20
 spawner;30
 SPCA;40;Society for the Prevention of Cruelty to Animals
 Speakerboxxx;50;"Speakerboxxx/The Love Below", OutKast album
+speak for;40
+speak for yourself;60
 speak ill of;50
+speaking for;40
 speaking ill of;50
 speaking in riddles;60
 speaking of;60
@@ -88774,11 +88857,13 @@ speaking on;40
 speaking one's mind;60
 speaking to;40
 speaking truth to power;60
+speaking up for;40
 speak in riddles;60
 speak no evil;60
 speak of;40
 speak on;40
 speak one's mind;60
+speaks for;40
 speaks ill of;50
 speaks in riddles;60
 speaks of;40
@@ -88786,11 +88871,13 @@ speaks on;40
 speaks one's mind;60
 speaks to;40
 speaks truth to power;60
+speaks up for;40
 speaks well of;50
 speak to;40
 speak to me;50
 Speak to Me;50;First track on Pink Floyd's "Dark Side of the Moon"
 speak truth to power;60
+speak up for;40
 speak well for;20
 speak well of;50
 spear carrier;60
@@ -89204,8 +89291,10 @@ Spohr;40;Louis Spohr, German composer and violinist
 spoiler tag;60
 spoiler tags;60
 Spokane;50;Washington state city
+spoke for;40
 spoke ill of;50
 spoke in riddles;60
+spoken for;40
 spoken in riddles;60
 spoke of;40
 spoke on;40
@@ -89213,6 +89302,7 @@ spoke one's mind;60
 spokescow;60
 spoke to;40
 spoke truth to power;60
+spoke up for;40
 spoke well of;50
 spoliation;30;Spoilment, destruction
 spoliator;30
@@ -93687,6 +93777,7 @@ taste of;40
 taste OK;40
 tastes of;40
 tastes OK;40
+tastes so good cats ask for it by name;50
 taste test;60
 taste tester;60
 taste testers;60
@@ -96364,9 +96455,12 @@ things just got real;60
 things to do;20;Partial?
 Thing Two;60
 think ahead;50
+think before you speak;60
+think better of it;60
 think he bought it;60
 think he's buying it;60
 thinking ahead;50
+thinking better of it;60
 thinking of;40
 thinking on;40
 thinking outside the box;60
@@ -96380,6 +96474,7 @@ ThinkPad;50;Lenovo laptop line
 ThinkPads;40;Lenovo laptops
 think piece;60
 thinks ahead;50
+thinks better of it;60
 think she bought it;60
 think she's buying it;60
 think so;60;"Think so?"
@@ -96567,6 +96662,7 @@ those were the days;60
 Thoth;30;Egyptian god
 though as I recall;60
 thought ahead;50
+thought better of it;60
 thought of;40
 thought on;40
 thought outside the box;60
@@ -103504,11 +103600,13 @@ waving hi to;40
 waving to;40
 WAVs;40;Audio files
 wavy wall;60
-Wawa;30
+waw;20
+Wawa;40
 wa-wa pedal;30
 wa-wa pedals;30
 Wawas;40;Wawa convenience stores
 Wawrinka;40;Tennis player Stan Wawrinka (b. 1985)
+waws;20
 wax;50
 Waxahachie;50;Texas town near Dallas
 Waxahatchee;40;Katie Crutchfield's indie rock project
@@ -104458,7 +104556,8 @@ what it is is;20
 what it's all about;50
 what just happened;60
 what'll be your pleasure?;60
-what me worry;60
+What, me worry?;60;Mad magazine motto
+what me worry;0
 what next?;50
 what next;0
 what nonsense;50
@@ -105006,6 +105105,8 @@ who's the lucky girl?;60
 who's the lucky guy;60
 who's the lucky lady?;60
 who's this;60
+who's this clown?;60
+who's this clown;0
 who's we;60
 who's who;60
 Whovian;50;"Doctor Who" fan
@@ -105829,6 +105930,8 @@ wooden clog;50
 wooden clogs;50
 wooden doll;50
 wooden dolls;50
+woodener;40
+woodenest;40
 wooden leg;60
 wooden legs;60
 wooden roller coaster;60
