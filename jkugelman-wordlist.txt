@@ -17815,6 +17815,8 @@ chicken strips;60
 chicken tendies;60
 chicken teriyaki dinner;20
 chickenveik;0
+chick flick;60
+chick flicks;60
 chick magnet;60
 chick magnets;60
 chicks;50
@@ -22865,6 +22867,7 @@ Danites;30
 Danity;30;Danity Kane, girl group
 Danity Kane;40;Girl group
 D'Anjou;40;Pear variety
+danke;40
 Dan Marino;50
 Danner;40;Blythe Danner, actress
 Dannii;40;Dannii Minogue, singer and Kylie's sister
