@@ -106811,7 +106811,7 @@ yank on;40
 Yankovic;60
 yanks on;40
 Yann;30;Yann Martel, author of "Life of Pi"
-Yanni;50;New age keyboardist
+Yanni;40;New age keyboardist
 Yannick;40;Yannick Noah, French Open champion turned singer
 Yanomami;40;Population of native people living in the Amazon rainforest
 Yanomamö;40;Population of native people living in the Amazon rainforest / Their language
