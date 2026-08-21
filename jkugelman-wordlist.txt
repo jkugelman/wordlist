@@ -2225,6 +2225,10 @@ Aina;30;Jackie Aina, beauty YouTuber
 Ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
 Aino;20
 ain't hay;30;Is of value, slangily
+aint I;20
+ain't I a stinker?;60
+ain't I a stinker;0
+ain't it?;40
 ain't life grand?;60
 ain't love grand?;60
 ain't no thang;60
@@ -15418,6 +15422,8 @@ Canterville;40;"The ___ Ghost," Oscar Wilde story
 can't go on;50
 can't help you there;60
 can't hold a candle to;60
+can't I?;50
+can't I;0
 Canticle for Leibowitz;50
 can't imagine why;60
 Cantinflas;50;Beloved Mexican comic actor
@@ -20340,6 +20346,7 @@ Connie Willis;50;Science fiction writer with 11 Hugos and 7 Nebulas
 Connolly;40;Billy Connolly, Scottish comedian / Maureen Connolly, tennis champion
 Connor;50;Connor McDavid, hockey star, or John Connor of "The Terminator"
 Connors;40;Jimmy Connors, tennis great / Chuck Connors, "The Rifleman" star
+conns;40
 Conoco;30;Midwest gas brand, formerly Continental Oil
 ConocoPhillips;50;Oil and gas giant
 conoidal;30;Nearly conical
@@ -60320,6 +60327,7 @@ mentioning to;40
 mentions to;40
 mention to;40
 mentis;40
+mento;30;Style of Jamaican folk music
 Mentos;50;Mints of Diet Coke geyser fame
 menu bar;50
 menu bars;50
@@ -97347,20 +97355,20 @@ tin helmet;50
 tin helmets;50
 tinhorn;60;Old West slang for a phony
 tinhorns;60
-tink;50;Unknit
-tinked;50;Unknitted
+tink;40;Unknit
+tinked;40;Unknitted
 Tinker Bell;60
 tinkers;50
 Tinkertoy;50;Construction toy brand
 Tinkertoys;50;Construction toy sets
-tinking;50;Unknitting
+tinking;40;Unknitting
 tinkled the ivories;60;Tickle is better
 tinkles the ivories;60;Tickle is better
 tinkle the ivories;60;Tickle is better
 tinklier;30
 tinkliest;30
 tinkling the ivories;60;Tickle is better
-tinks;50;Unknits
+tinks;40;Unknits
 tinner;30;Tin miner or tinsmith
 tinners;30
 Tino;40;Tino Martinez, Yankees first baseman
@@ -97932,7 +97940,7 @@ Toni;40
 Tonio;30;"Pagliacci" role
 tonite;40
 tonk;40;Honky-tonk
-Tonka;50;Toy truck brand
+Tonka;40;Toy truck brand
 Tonkas;40;Tonka toy trucks
 Tonkin;40;Gulf of Tonkin, Vietnam War flashpoint
 tonne;40
@@ -97951,7 +97959,7 @@ tonsure;40;Monk's bald spot
 tonsured;40
 tonsures;40
 tonsuring;40
-Tonto;50;The Lone Ranger's sidekick
+Tonto;40;The Lone Ranger's sidekick
 tonus;30;???
 tonuses;30;???
 Tony;50;Common first name, or the Broadway award
@@ -102060,6 +102068,7 @@ Venmos;50
 Venn;40
 venose;30;Veined
 Venter;40;Craig Venter, genomics pioneer
+venti;40
 Ventidius;40;Publius Ventidius Bassus, Roman general, and a Shakespeare character
 Ventimiglia;40;Milo Ventimiglia, "This Is Us" actor
 ventis;40;Starbucks orders
@@ -105939,7 +105948,7 @@ Wonderwall;50;Oasis song
 Wong;40
 Wong Kar-wai;40;Hong Kong filmmaker (born 1958)
 won it;20
-Wonka;60;Willy Wonka, chocolate factory owner
+Wonka;50;Willy Wonka, chocolate factory owner
 Wonkavator;50;Glass elevator in "Willy Wonka"
 Wonkette;40;Snarky political blog
 won on a technicality;60
