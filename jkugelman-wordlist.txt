@@ -14824,6 +14824,8 @@ Cajun;50;Louisiana cuisine style
 Cajuns;50;Louisiana French folks
 cake cutting;60;Traditional wedding activity done by the couple
 cake decorating;60
+cake decoration;50
+cake decorations;50
 cake decorator;50
 cake decorators;50
 caked on;40
@@ -18398,6 +18400,8 @@ Christmas cards;60
 Christmas carol;60
 Christmas carols;60
 Christmas cheer;60
+Christmas decoration;60
+Christmas decorations;60
 Christmas episode;60
 Christmas episodes;60
 Christmases;50;Yuletides
@@ -30743,6 +30747,7 @@ espresso cart;50
 espresso carts;50
 espressotini;60
 espressotinis;60
+esprit de corps;60
 ESP test;60
 ESP tests;60
 ESPYs;40;ESPN's sports awards
@@ -41380,6 +41385,8 @@ hallowed ground;60
 Halloweekend;50;Halloween party weekend
 Halloweekends;40;Cedar Point Halloween event
 Halloween;60
+Halloween decoration;60
+Halloween decorations;60
 Halloween night;60
 Halloween parties;60
 Halloween party;60
@@ -44115,6 +44122,8 @@ hole saws;50
 holes in one;50
 holes out;50
 Holi;40;Hindu festival of colors
+holiday decoration;50
+holiday decorations;50
 holiday shopping;60
 Holies;40;Holy of Holies
 holily;30;Weird adverb
@@ -44231,7 +44240,7 @@ home-cooked meal;60
 home-cooked meals;60
 home cooking;60
 home cooks;60
-home decor;50
+home decor;60
 homed in on;40
 home DP;20
 home ec;50
@@ -47791,6 +47800,10 @@ interfere with;40
 interfering with;40
 interim tag;50
 interim tags;50
+interior decorating;50
+interior decorations;50
+interior decorator;60
+interior decorators;60
 interlaid;30
 Interlaken;50;Swiss resort town between two lakes
 interlay;30
@@ -58152,6 +58165,7 @@ made bail;50
 made big bucks;60
 made biscuits;60
 made by hand;60
+made corrections to;40
 made do with;40
 made ends meet;60
 made faces;50
@@ -58606,6 +58620,7 @@ make believe;60
 make big bucks;60
 make biscuits;60;Knead, like a cat
 make by hand;60
+make corrections to;40
 make do;50
 make-do;50
 make do with;40
@@ -58679,6 +58694,7 @@ makes bail;50
 makes big bucks;60
 makes biscuits;60
 makes by hand;60
+makes corrections to;40
 makes do with;40
 makes ends meet;60
 make sense;50
@@ -58784,6 +58800,7 @@ making bail;50
 making big bucks;60
 making biscuits;60
 making by hand;60
+making corrections to;40
 making do with;40
 making ends meet;60
 making faces;50
@@ -61793,6 +61810,8 @@ Milioti;40;Cristin Milioti, "Palm Springs" actress
 military aid;50
 military coup;60
 military coups;60
+military decoration;60
+military decorations;60
 military service;60
 military time;60
 military uniform;50
@@ -70652,6 +70671,7 @@ painted ponies;60
 painted pony;60
 painted the corners;60;Threw precisely onto the outer edges of home plate, as a baseball pitcher
 painted the town;50;Alternative form of painted the town red
+painted the town red;60
 Painter Smurf;60
 paint fleck;50
 paint flecks;50
@@ -70661,14 +70681,18 @@ paint guns;50
 paint horse;50;Breed of horse
 painting the corners;60;Throwing precisely onto the outer edges of home plate, as a baseball pitcher
 painting the town;50;Alternative form of painting the town red
+painting the town red;60
 Paint It Black;60;Rolling Stones song
 paint it red;20;???
 paint mixer;50
 paint mixers;50
 paints the corners;60;Throws precisely onto the outer edges of home plate, as a baseball pitcher
 paints the town;50;Alternative form of paints the town red
+paints the town red;60
 paint the corners;60;Throw precisely onto the outer edges of home plate, as a baseball pitcher
+paint the outside corner;20
 paint the town;50;Alternative form of paint the town red
+paint the town red;60
 pair-bond;50
 pair-bonded;50
 pair-bonds;50
