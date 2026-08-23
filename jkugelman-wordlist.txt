@@ -42533,7 +42533,7 @@ heme;30;Blood pigment
 hemi-;40
 hemidemisemiquaver;60;64th note
 hemidemisemiquavers;60
-hem in;40
+hem in;50
 Hemings;40;Sally Hemings, enslaved by Jefferson
 Hemingway;50
 Hemingway champagne;60;Cocktail
@@ -42547,14 +42547,14 @@ hemmed in;50
 hemmed in by;40
 hemmer;30
 hemmers;30
-hemming in;40
+hemming in;50
 hemo-;40;Blood prefix
 hemorrhoid;30
 hemorrhoidectomy;30
 hemorrhoids;30
 Hemphill;40;Essex Hemphill, poet
 Hempstead;40;Long Island town
-hems in;40
+hems in;50
 Hemsley;40;Sherman Hemsley who played George Jefferson
 Hemsworth;50;Chris Hemsworth, Thor actor
 hen;50
