@@ -5774,6 +5774,7 @@ Arminians;40;Followers of the theologian Jacobus Arminius
 Arminius;40;Germanic chief who crushed Rome at Teutoburg Forest
 Armisen;50
 Armistead;40;Armistead Maupin, "Tales of the City" author
+Armistead Maupin;40;"Tales of the City" novelist (born 1944)
 Armitage;40;Richard Armitage, actor / Simon Armitage, poet
 armlike;30
 arm loads;50
@@ -6892,6 +6893,8 @@ Atmos;40;Dolby Atmos, surround sound format
 atmospheric river;60
 atmospheric rivers;60
 ATMs;50
+ATM skimmer;60
+ATM skimmers;60
 at my age;50
 at night;30
 at nine;20
@@ -27297,6 +27300,8 @@ drives stick;60
 drives stick shift;60
 drive stick;60
 drive stick shift;60
+drive-through ATMs;60
+drive-thru ATMs;60
 drivetrain;50
 drivetrains;50
 driving at;40
@@ -60091,7 +60096,7 @@ maumets;20
 Mauna;40
 Maundy;40
 Maupassant;50;Guy de Maupassant, short-story master
-Maupin;30;Novelist
+Maupin;40;Armistead Maupin, "Tales of the City" novelist (born 1944)
 Maura;40;Maura Tierney of "E.R."
 Maureen;50;Given name, as in Maureen Dowd or Maureen O'Hara
 Mauriac;40;François Mauriac, Nobel-winning French novelist
@@ -88664,6 +88669,7 @@ smorgasbord;60
 smorgasbords;60
 Smosh;40;YouTube comedy channel
 SMS;30
+smslkldtms;0
 SMTWTFS;30
 SMU;40;Southern Methodist University
 Smucker;40;J.M. Smucker, jam company founder
@@ -94077,8 +94083,8 @@ Taconic;30;Appalachian sub-range
 taco night;60
 taco nights;60
 taconite;20;Iron ore
-taco pie;40
-taco pies;40
+taco pie;50
+taco pies;50
 taco salad;60
 taco salads;60
 tacos al pastor;60
@@ -95657,6 +95663,7 @@ telphers;30
 tels;30
 Telstar;40;Pioneering communications satellite
 Telugu;30;South Indian language
+Telugu language;40
 tem;40
 temaki;40;Type of sushi in the form of a cone
 temblor;20;Earthquake
@@ -99055,7 +99062,8 @@ toils over;40
 toity;40
 Tojo;40;WWII leader Hideki Tojo
 Tok;30;Ke$ha song "Tik Tok"
-Tokaj;20;Hungarian wine region
+Tokaj;40;Hungarian wine region
+Tokaji;40;Hungarian and Slovak variety of wine
 Tokarczuk;40;Olga Tokarczuk, Nobel-winning Polish novelist
 Tokay;30;Hungarian wine
 Tokay gecko;50
@@ -99501,8 +99509,8 @@ top the ball;50
 top this;60
 top time;30
 to put it mildly;60
-toque;30;Woman's hat
-toques;30
+toque;50;Chef's hat
+toques;50;Chefs' hats
 tor;40
 Tora;40
 Torah;50;Jewish scripture
@@ -99532,7 +99540,7 @@ Toretto;50;Dom Toretto, Vin Diesel's "Fast & Furious" character
 Tori;40
 toric;30
 Tories;50;British conservatives
-torii;20;Japanese gate
+torii;40;Shinto temple gateway
 Torino;40;Turin, to Italians, or "Gran Torino"
 Toriyama;40;Akira Toriyama, "Dragon Ball" creator
 Tork;40;Peter Tork, Monkees member
@@ -100880,7 +100888,7 @@ tteokbokki;50;Korean spicy rice cake dish
 tteokguk;50;Korean sliced rice cake soup
 t-test;40
 t-tests;40
-TTFN;20
+TTFN;30;Ta-ta for now
 tthhrreeee;0
 ttiimmeenosee;0
 ttoe;20
@@ -101141,7 +101149,7 @@ turned to gold;50
 turned to the left;50
 turned to the right;50
 turned traitor;50
-turned two;30
+turned two;50;Completed a double play, in baseball
 turned up one's nose;60
 turned up one's nose at;60
 turned upside down;50
@@ -101177,7 +101185,7 @@ turning to gold;50
 turning to the left;50
 turning to the right;50
 turning traitor;50
-turning two;30
+turning two;50;Completing a double play, in baseball
 turning up one's nose;60
 turning up one's nose at;60
 turning upside down;50
@@ -101230,7 +101238,7 @@ turns to gold;50
 turns to the left;50
 turns to the right;50
 turns traitor;50
-turns two;30
+turns two;50;Completes a double play, in baseball
 turns up one's nose;60
 turns up one's nose at;60
 turns upside down;50
@@ -101245,7 +101253,7 @@ turn to gold;50
 turn to the left;50
 turn to the right;50
 turn traitor;50
-turn two;30;Green paint
+turn two;50;Complete a double play, in baseball
 turn up one's nose;60
 turn up one's nose at;60
 turn upside down;50
@@ -101301,7 +101309,7 @@ Tuvans;30;Turkish ethnic group
 tux;50
 Tuzigoot;40;Arizona national monument with Sinagua ruins
 TV;50
-TVA;20
+TVA;30;Tennessee Valley Authority 
 TV actor;50
 TV actors;50
 TV ad;40
