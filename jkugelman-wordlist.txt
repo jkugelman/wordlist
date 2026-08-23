@@ -16509,6 +16509,8 @@ caught strays;60
 caught waves;50
 caul;30;Various rare meanings
 Caulfield;50;Holden Caulfield, "The Catcher in the Rye" narrator
+causal loop;60
+causal loops;60
 cause a riot;50
 caused a riot;50
 causer;30
@@ -20447,6 +20449,8 @@ Control key;50
 Control keys;50
 controlled the centre;20
 controlling the centre;20
+control loop;50
+control loops;50
 control room;50
 control rooms;50
 controls the centre;20
@@ -23508,6 +23512,7 @@ death glare;60
 death grip;60
 death grips;30
 Death in the Afternoon;60;Wine cocktail
+Deathloop;50;2021 video game
 Death of a Salesman;60
 death of the author;60
 Death Row Records;60
@@ -32458,6 +32463,8 @@ fee;50
 Feebles;40;"Meet the Feebles," Peter Jackson puppet film
 feed a cold;50
 feed a cold starve a fever;60
+feedback loop;60
+feedback loops;60
 feed in;40
 feeding in;40
 feeding into;40
@@ -33081,12 +33088,14 @@ financials;50
 financial sector;50
 Fincher;40;David Fincher, "Zodiac" director
 find a home;50
+find a loophole;60
 find a penny and pick it up;50
 find a penny, pick it up;50
 finder's fee;60
 finder's fees;60
 find God;60
 finding a home;50
+finding a loophole;60
 finding God;60
 finding it in one's heart;60
 finding lacking;50
@@ -33097,6 +33106,7 @@ Findlay;40;Ohio city, or Maude Findlay of "Maude"
 Findley;40;Timothy Findley, Canadian novelist
 Find my iPhone;60
 finds a home;50
+finds a loophole;60
 finds God;60
 finds it in one's heart;60
 finds lacking;50
@@ -34610,6 +34620,7 @@ foul shooting;50
 foul shot;60
 foul shots;60
 found a home;50
+found a loophole;60
 foundation;50
 found God;60
 found it in one's heart;60
@@ -38880,6 +38891,8 @@ Gord;40;Gord Downie, Tragically Hip frontman
 Gordian;40;Gordian knot
 Gordie;50;Gordie Howe, "Mr. Hockey"
 Gordimer;40;Nadine Gordimer, Nobel-winning novelist
+gordita;40
+gorditas;40
 gordo;40
 Gordon;50;Gordon Ramsay, chef / Flash Gordon, comics hero
 Gordon Lish;40;Editor of Raymond Carver
@@ -50884,6 +50897,7 @@ keeping close to;40
 keeping from;40
 keeping in;40
 keeping in line;50
+keeping in the loop;60
 keeping it in-house;60
 keeping it PG;60
 keeping kosher;50
@@ -50899,6 +50913,7 @@ keeping tabs;50
 keeping tabs on;50
 keeping to;40
 keep in line;50
+keep in the loop;60
 keep it a secret;50
 keep it in-house;60
 keep it light;60;"Woah, positive vibes only here!"
@@ -50928,6 +50943,7 @@ keep secrets;50
 keeps from;40
 keeps in;40
 keeps in line;50
+keeps in the loop;60
 keeps it in-house;60
 keeps it PG;60
 keeps kosher;50
@@ -51098,6 +51114,7 @@ kept close to;40
 kept from;40
 kept in;40
 kept in line;50
+kept in the loop;60
 kept it in-house;60
 kept it PG;60
 kept kosher;50
@@ -53887,6 +53904,7 @@ Leatherstocking;50;Natty Bumppo, hero of Cooper's tales
 Leaud;40;Jean-Pierre Léaud, French New Wave actor
 leave a comment;60
 leave a comment down below;60
+leave a loophole;50
 leave a mark;60
 leave a message after the beep;60
 leave a penny;50
@@ -53906,6 +53924,7 @@ leaver;30
 leave right away;30;Green paint
 leavers;30
 leaves a comment;60
+leaves a loophole;50
 leaves a mark;60
 leaves in;40
 Leaves of Grass;60
@@ -53930,6 +53949,7 @@ leave unsaid;50
 leave while you still can;60
 leave your ego at the door;60
 leaving a comment;60
+leaving a loophole;50
 leaving a mark;60
 leaving in;40
 leaving on;40
@@ -54040,6 +54060,7 @@ Leeves;40;Jane Leeves of "Frasier"
 Leeza;40;Leeza Gibbons, talk show host
 Lefebvre;40;Henri Lefebvre, French Marxist philosopher
 left a comment;60
+left a loophole;50
 left a mark;60
 left for;40
 left for dead;60
@@ -56151,11 +56172,17 @@ loonie bar;50;Canadian wedding or event bar where guests pay $1 or $2 for drinks
 loonie bars;50;Canadian wedding or event bars where guests pay $1 or $2 for drinks
 loop back;50
 looped back;50
+looped over;40
 loopgnimmiws;0
 loophole;60
+loopholed;50
 loopholes;60
+loopholing;50
 looping back;50
+looping over;40
+loop over;40
 loops back;50
+loops over;40
 loose connection;50
 loose connections;50
 loose end;50
@@ -61692,7 +61719,7 @@ mob ties;50
 Mobutu;40;President of Zaire 1971-97
 Moby;50;Electronica musician, or the whale of "Moby-Dick"
 moc;40;Moccasin
-MoCA;40;Museum of Contemporary Art
+MoCA;30;Museum of Contemporary Art
 Mocambo;40;Old Hollywood nightclub
 mo-cap suit;60
 mo-cap suits;60
@@ -81563,6 +81590,8 @@ safety harness;60
 safety harnesses;60
 safety hazard;50
 safety hazards;50
+safety loop;40;???
+safetyloops;40;???
 safety net;60
 safety nets;60
 safety patrol;50
@@ -83028,6 +83057,7 @@ Scottie Scheffler;60;Golfer Scottie Scheffler, two-time Masters winner (2022, 20
 Scottish;50;Of Edinburgh and environs
 Scottish accent;60
 Scottish accents;60
+Scott Moir;40
 Scotto;30;Soprano Renata Scotto
 Scott Rudin;40;EGOT-winning producer Scott Rudin
 Scotts;50;Miracle-Gro maker
@@ -91133,6 +91163,8 @@ strake;20;Boat planking
 strakes;20
 Stranded (Haiti Mon Amour);50;Song by Jay-Z, Bono, The Edge and Rihanna
 strange, isn't it?;60
+strange loop;60
+strange loops;60
 Strangelove;50;Dr. Strangelove, Kubrick title character
 strange ordeal;60
 strange quark;60
@@ -101947,10 +101979,10 @@ Vecchio;40;Ponte Vecchio or Palazzo Vecchio
 Vechten;40;Carl Van Vechten, Harlem Renaissance photographer
 Vecna;20;"Stranger Things" villain, also a D&D lich
 ved;20
-Veda;30;Hindu scripture / Veda Pierce of "Mildred Pierce"
+Veda;40;Hindu scripture / Veda Pierce of "Mildred Pierce"
 Vedanta;40;School of Hindu philosophy
 Vedantic;40
-Vedas;30;Hindu scriptures
+Vedas;40;Hindu scriptures
 Vedder;50;Eddie Vedder, Pearl Jam frontman
 Vedic;40;Relating to the Vedas
 vee;30
