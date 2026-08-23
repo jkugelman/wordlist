@@ -684,6 +684,8 @@ about-turn;50
 about-turns;50
 above-average effect;60;Cognitive bias
 aboveboard;60
+above one's pay grade;50
+above one's station;50
 above the fold;60
 above the fray;60
 ABQ;40;Albuquerque airport code
@@ -929,6 +931,7 @@ aces in the hole;60
 aces it;40
 aces over;20
 Aces Up;30
+aces up one's sleeve;50
 acetabula;20;Hip sockets
 acetals;30
 acetamide;30;Industrial solvent
@@ -1101,6 +1104,7 @@ acted in;40
 acted in concert;60
 acted naive;40
 acted on;40
+acted one's age;50
 acted upon;40
 act fast;60
 act fast, supplies are limited;60
@@ -1125,6 +1129,7 @@ acting in;40
 acting in concert;60
 acting naive;40
 acting on;40
+acting one's age;50
 acting president;50
 acting upon;40
 actinic;30
@@ -1182,6 +1187,7 @@ act of war;50
 Acton;40
 Acton Bell;60;Anne Brontë
 Act One;50
+act one's age;50
 Actor Smurf;60
 ACT prep;50
 acts as;40
@@ -1192,6 +1198,7 @@ acts naive;40
 acts of Congress;60
 acts of war;50
 acts on;40
+acts one's age;50
 acts sad;30
 acts sore;30
 acts upon;40
@@ -1889,6 +1896,8 @@ Agadir;40;Moroccan port city
 Agag;20;Biblical king
 Against Me!;40;Pink rock band
 Against Me;0
+against one's better judgement;50
+against one's better judgment;50
 Aga Khan;40
 Aga Khan IV;40
 a galaxy far, far away;60
@@ -2580,6 +2589,8 @@ Albans;20;Ancient Italians
 Albany;50;New York capital
 Albarn;50
 al-Bashir;40;Sudanese military leader Omar al-Bashir (1993-2019)
+albatross around one's neck;50
+albatrosses around one's neck;50
 albedo;50
 Albee;40
 Albemarle;40;Albemarle Sound, NC - site of Kitty Hawk
@@ -4787,6 +4798,7 @@ Antony;50;Mark Antony, or Antony Blinken
 ant paste;30
 antpolly;0
 Antrim;40;Northern Ireland county
+ants in one's pants;50
 ant trail;60
 ant trails;60
 ant tree;40
@@ -4824,6 +4836,7 @@ any moment now;60
 any objections;60;"Is everyone okay with this?"
 anyone else;60
 anyone know?;60
+anyone's;50
 any port in a storm;60
 any reason in particular?;60
 any second now;60
@@ -5116,6 +5129,7 @@ Apple logos;40
 apple martini;60
 apple martinis;60
 appleof;0
+apple of one's eye;50
 Apple Park;60;Name for the corporate headquarters of Apple, based in Cupertino CA
 apple picker;50
 apple pickers;50
@@ -6784,6 +6798,7 @@ atemoyas;30;Hybrid fruit popular in Taiwan
 Aten;30;Egyptian sun disk deity
 ate no;20
 ate of;40
+ate one's fill;50
 ate one's hat;60
 ate one's words;60
 ate over;30
@@ -6927,9 +6942,15 @@ atoned for;40
 atone for;40
 atoner;40
 atoners;40
+at one's beck and call;50
 at one's best;50
 at one's door;20
+at one's doorstep;50
+at one's fingertips;50
 atones for;40
+at one's leisure;50
+at one's own risk;50
+at one's wits' end;50
 atonies;20
 atoning for;40
 a ton of;40
@@ -7031,11 +7052,15 @@ at the bottom;40
 at the bottom of;40
 at the drop of a hat;60
 at the end of;40
+at the end of one's rope;50
+at the end of one's tether;50
 at the end of the day;60
 at the half;50
 At the Mountains of Madness;60;H. P. Lovecraft novella
 at the net;30
 at the seams;50
+at the top of one's lungs;50
+at the top of one's voice;50
 at this rate;50
 Attiah;40;Karen Attiah, Washington Post columnist
 Attica;50;New York prison, or the Greek region
@@ -7377,6 +7402,14 @@ avernal;30;Hellish
 Avernus;20
 Averroes;40;Medieval Islamic philosopher and Aristotle commentator
 averse to;40
+averted one's eyes;50
+averted one's gaze;50
+averting one's eyes;50
+averting one's gaze;50
+avert one's eyes;50
+avert one's gaze;50
+averts one's eyes;50
+averts one's gaze;50
 Avery;50;Tex Avery, cartoon director / label brand
 Aves;40
 Avesta;40;Zoroastrian scripture
@@ -8651,6 +8684,8 @@ bare all;60
 bare-boned;50
 bare-bones;50
 bared it all;60
+bared one's soul;50
+bared one's teeth;50
 bare essence;50
 bare essentials;50
 barefoot;50
@@ -8679,9 +8714,13 @@ bare minimums;50
 Barenboim;40;Daniel Barenboim, pianist and conductor
 bare necessities;50
 Barents;40;Arctic sea between Norway and Russia
+bare one's soul;50
+bare one's teeth;50
 barer;30
 bares all;60
 bares it all;60
+bares one's soul;50
+bares one's teeth;50
 barf;40
 barfed;10
 bar fight;50
@@ -8713,6 +8752,8 @@ bar-hop;50
 Bari;40;Italian port city, or a baritone sax for short
 Barilla;50;Pasta brand
 baring it all;60
+baring one's soul;50
+baring one's teeth;50
 barista;50
 barite;30;???
 barites;30;???
@@ -9230,7 +9271,11 @@ B average;40
 B averages;40
 Bawitdaba;40;Kid Rock hit
 bawled like a baby;20
+bawled one's eyes out;50
 bawlers;30
+bawling one's eyes out;50
+bawl one's eyes out;50
+bawls one's eyes out;50
 Bax;20;Arnold Bax, English composer (1883-1953)
 Baxoje;40;The Ioway people's name for themselves
 Baxter;40;Anne Baxter, actress / Ron Burgundy's dog
@@ -9489,13 +9534,17 @@ beat cop;60
 beat cops;60
 be at ease;20
 beaten at;40
+beaten at one's own game;50
 beaten down;50
 beating a dead horse;60
 beating a hasty retreat;60
 beating at;40
 beating back;50
 beating in;40
+beating one's breast;50
 beating one's gums;50
+beating one's swords into ploughshares;50
+beating one's swords into plowshares;50
 beating the clock;60
 beating the crowd;60
 beating the heat;60
@@ -9511,7 +9560,10 @@ Beatles songs;20
 beatnik;60
 beatniks;60
 beat on;40
+beat one's breast;50
 beat one's gums;50
+beat one's swords into ploughshares;50
+beat one's swords into plowshares;50
 Beat poet;60
 Beat poetry;60
 Beat poets;60
@@ -9526,7 +9578,10 @@ beats back;50
 Beats by Dre;60
 beats me;60
 beats on;40
+beats one's breast;50
 beats one's gums;50
+beats one's swords into ploughshares;50
+beats one's swords into plowshares;50
 beats the clock;60
 beats the crowd;60
 beats the heat;60
@@ -9852,6 +9907,7 @@ before common era;60
 before golf;20
 before I go;60
 before I knew it;60
+before one's eyes;50
 before one's time;60
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
@@ -11095,11 +11151,13 @@ bite into;40
 bite me;60
 bite on;40
 bite one's head off;60
+bite one's tongue;50
 bites at;40
 bites down;50
 bites into;40
 bites on;40
 bites one's head off;60
+bites one's tongue;50
 bites the dust;60
 bite the dust;60
 bite to eat;60
@@ -11110,6 +11168,7 @@ biting into;40
 biting it;40;???
 biting on;40
 biting one's head off;60
+biting one's tongue;50
 biting the dust;60
 bit into;40
 bit it;50
@@ -11122,6 +11181,7 @@ bit of a stretch;60;Reach
 bit on;30;Dog breed???
 bitonal;40
 bit one's head off;60
+bit one's tongue;50
 bit player;60
 bit players;60
 bit role;50
@@ -11418,6 +11478,7 @@ blew on;40
 blew one's cool;60
 blew one's mind;60
 blew one's own horn;50
+blew one's stack;50
 blew one's top;60
 blew smoke;50
 blew the joint;60
@@ -11599,6 +11660,7 @@ blowing on;40
 blowing one's cool;60
 blowing one's mind;60
 blowing one's own horn;50
+blowing one's stack;50
 blowing one's top;60
 blowing smoke;50
 blowing the joint;60
@@ -11620,6 +11682,7 @@ blow on;40
 blow one's cool;60
 blow one's mind;60
 blow one's own horn;50
+blow one's stack;50
 blow one's top;60
 blowpipe;60
 blowpipes;60
@@ -11634,6 +11697,7 @@ blows on;40
 blows one's cool;60
 blows one's mind;60
 blows one's own horn;50
+blows one's stack;50
 blows one's top;60
 blows smoke;50
 blows the joint;60
@@ -12493,6 +12557,7 @@ born into;40
 Born Sexy Yesterday;60
 Bornstein;40;Kate Bornstein, "Gender Outlaw" author
 born to;40
+born with a silver spoon in one's mouth;50
 Borobudur;50;Javanese Buddhist temple complex
 Borodin;40;Alexander Borodin, "Prince Igor" composer
 Borodino;40;Napoleonic battle outside Moscow
@@ -13067,6 +13132,7 @@ breaking bread with;50
 breaking character;60
 breaking into;40
 breaking loose;50
+breaking one's word;50
 breaking out in a sweat;60
 breaking out in song;60
 breaking out into song;60
@@ -13079,6 +13145,7 @@ breaking up the band;60
 break into;40
 break it up you two;60
 break loose;50
+break one's word;50
 breakout artist;60
 breakout artists;60
 break out in a sweat;60
@@ -13092,6 +13159,7 @@ breaks character;60
 break serve;50
 breaks into;40
 breaks loose;50
+breaks one's word;50
 breaks out in a sweat;60
 breaks out in song;60
 breaks out into song;60
@@ -13405,9 +13473,13 @@ broadband;50
 Broadbent;40;Jim Broadbent, Oscar-winning actor
 broad brushstrokes;60
 Broadchurch;50;British crime drama with David Tennant
+broadened one's horizons;50
 broadened one's mind;60
+broadening one's horizons;50
 broadening one's mind;60
+broaden one's horizons;50
 broaden one's mind;60
+broadens one's horizons;50
 broadens one's mind;60
 broad jump;50
 broad jumped;50
@@ -13512,6 +13584,7 @@ broken taillight;50
 broken taillights;50
 broken the fourth wall;60
 broken the sound barrier;60
+broke one's word;50
 broke out in a sweat;60
 broke out in song;60
 broke out into song;60
@@ -13699,14 +13772,22 @@ Brunson;40;Quinta Brunson, "Abbott Elementary" creator / Jalen Brunson, NBA guar
 Brunswick;50;Bowling brand / German duchy
 bruschetta;50
 brushed on;40
+brushed one's hair;50
+brushed one's teeth;50
 brushes on;40
+brushes one's hair;50
+brushes one's teeth;50
 brush-footed butterflies;50
 brush-footed butterfly;50
 brushing on;40
+brushing one's hair;50
+brushing one's teeth;50
 brush off;50
 brush-off;50
 brush-offs;50
 brush on;40
+brush one's hair;50
+brush one's teeth;50
 Brussels;50;Belgian capital
 Brussels Belgium;30;???
 brut cocktail;50
@@ -14173,21 +14254,25 @@ burn centres;20
 burn daylight;60
 Burne;40;Edward Burne-Jones, Pre-Raphaelite painter
 burned daylight;60
+burned one's bridges;50
 burned to a crisp;60
 burned up;50
 Burnett;50;Carol Burnett, comedian
 Burney;40;Fanny Burney, "Evelina" novelist
 Burnham;40;Bo Burnham, comedian / Daniel Burnham, architect
 burning daylight;60
+burning one's bridges;50
 burning to a crisp;60
 burning up;50
 burn one;50
+burn one's bridges;50
 burn rate;50
 burn rates;50
 Burns and Allen;50
 burns daylight;60
 Burnsian;40;Of poet Robert Burns
 Burnside;40;Ambrose Burnside, Civil War general and sideburns namesake
+burns one's bridges;50
 burns to a crisp;60
 burns up;50
 burn to a crisp;60
@@ -14308,7 +14393,9 @@ busted a gut;60
 busted a rib;60
 busted in on;40
 busted on;40
+busted one's ass;50
 busted ones butt;60
+busted one's butt;50
 busted one's chops;60
 busted taillight;60
 busted taillights;60
@@ -14319,6 +14406,7 @@ busting a gut;60
 busting a rib;60
 busting in on;40
 busting on;40
+busting one's ass;50
 busting one's butt;60
 busting one's chops;60
 busting one's hump;60
@@ -14328,6 +14416,7 @@ bust into;40
 bustline;50
 bustlines;50
 bust on;40
+bust one's ass;50
 bust one's butt;60
 bust one's chops;60
 Bustopher;40;Bustopher Jones, "Cats" character
@@ -14335,6 +14424,7 @@ busts a gut;60
 busts a rib;60
 busts in on;40
 busts on;40
+busts one's ass;50
 busts one's butt;60
 busts one's chops;60
 busts up;50
@@ -14434,15 +14524,18 @@ buttkissing;60
 buttload;60
 buttloads;60
 button;50
+buttoned one's lip;50
 button flies;50
 button fly;50
 button-fly jeans;50
+buttoning one's lip;50
 button mash;60
 button mashed;60
 button masher;60
 button mashers;60
 button mashes;60
 button mashing;60
+buttons one's lip;50
 butt out;60
 butt out of it;60
 butt plug;10
@@ -14524,6 +14617,7 @@ by night;20
 Bynum;40;Andrew Bynum, NBA center
 BYO;30
 BYOB;40
+by one's lonesome;50
 by phone;40
 by pure chance;60
 by pure luck;60
@@ -14541,6 +14635,7 @@ Bysshe;30;Poet Percy Bysshe Shelley
 ByteDance;50;TikTok's parent company
 by the same token;60
 By the Sea;50
+by the skin of one's teeth;50
 Bytown;40;Ottawa's original name
 BYU;40
 Byung-hun;40;Lee Byung-hun, actor in "Squid Game" and "KPop Demon Hunters"
@@ -15049,6 +15144,7 @@ came in first;50
 came in last;50
 came into;40
 came into being;60
+came into one's own;50
 came into play;50
 CamelBak;40;Hydration pack brand
 CamelBaks;40;Hydration backpacks
@@ -15077,6 +15173,7 @@ cameo ring;50
 cameo rings;50
 came out ahead;50
 came out even;50
+came out of one's shell;50
 camera angle;50
 camera angles;50
 camera crew;50
@@ -15103,6 +15200,7 @@ came to bed;40
 came to blows;50
 came to earth;50
 came to mind;50
+came to one's senses;50
 came to see;50
 came to the rescue;50
 came under attack;50
@@ -16013,7 +16111,9 @@ Carrie;50;Common first name: Stephen King's telekinetic teen
 Carrie Catt;50;Suffragist Carrie Catt
 Carrie Chapman Catt;50;Suffragist Carrie Catt
 carried in;40
+carried one's weight;50
 carries in;40
+carries one's weight;50
 Carrington;40;Leonora Carrington, surrealist painter
 carrions;30
 Carroll;50;Lewis Carroll, "Alice" author / Diahann Carroll, singer and actress
@@ -16027,6 +16127,8 @@ carroty;40
 Carruthers;40;Stock British surname
 carry in;40
 carrying in;40
+carrying one's weight;50
+carry one's weight;50
 carry-on item;50
 carry-on items;50
 Carry On Wayward Son;60
@@ -16148,13 +16250,17 @@ cash crops;50
 cash desk;40;Checkout counter: Br.
 cash desks;40
 cashed in on;40
+cashed in one's chips;50
 cashes in on;40
+cashes in one's chips;50
 cashew nut;50
 cashew nuts;50
 cash grab;60
 cash grabs;60
 cashing in on;40
+cashing in one's chips;50
 cash in on;40
+cash in one's chips;50
 cashless society;60
 cash poor;60
 cash value;50
@@ -16326,6 +16432,8 @@ catches feelings for;60
 catches fire;50
 catches hell;60
 catches off guard;50
+catches one's breath;50
+catches one's death;50
 catches on fire;50
 catches strays;60
 catches waves;50
@@ -16342,10 +16450,14 @@ catching feelings for;60
 catching fire;50
 catching hell;60
 catching off guard;50
+catching one's breath;50
+catching one's death;50
 catching on fire;50
 catching strays;60
 catching waves;50
 catch off guard;50
+catch one's breath;50
+catch one's death;50
 catch on fire;50
 cat chow;50
 catch strays;60
@@ -16504,6 +16616,8 @@ caught fire;50
 caught hell;60
 caught in 4K;60
 caught off guard;50
+caught one's breath;50
+caught one's death;50
 caught on fire;50
 caught strays;60
 caught waves;50
@@ -17136,6 +17250,8 @@ changed back;50
 changed back into;40
 changed key;60
 changed keys;60
+changed one's mind;50
+changed one's tune;50
 changed the channel;60
 changed to;40
 change key;60
@@ -17143,6 +17259,7 @@ change keys;60
 change of perspective;50
 change of state;50
 change one's mind;50
+change one's tune;50
 changer;40
 changers;40
 changesare;0
@@ -17155,6 +17272,7 @@ changes of perspective;50
 changes of state;50
 Changesonebowie;40;"ChangesOneBowie," David Bowie compilation
 changes one's mind;50
+changes one's tune;50
 changes the channel;60
 changes to;40
 change the channel;60
@@ -17165,6 +17283,7 @@ changing back into;40
 changing key;60
 changing keys;60
 changing one's mind;50
+changing one's tune;50
 changing the channel;60
 changing to;40
 chango;40;Presto chango
@@ -17472,6 +17591,7 @@ checked into;40
 checked it out;50
 checked on;40
 checked one's privilege;60
+checked one's work;50
 checked with;40
 checkerboard pattern;60
 checkerboard patterned;60
@@ -17486,6 +17606,7 @@ checking into;40
 checking it out;50
 checking on;40
 checking one's privilege;60
+checking one's work;50
 checking with;40
 check in on;50
 check into;40
@@ -17494,6 +17615,7 @@ checkmate;60
 check me out;50
 check on;40
 check one's privilege;60
+check one's work;50
 checkout counter;50
 checks for;40
 checks in on;50
@@ -17501,6 +17623,7 @@ checks into;40
 checks it out;50
 checks on;40
 checks one's privilege;60
+checks one's work;50
 check stub;50
 check stubs;50
 checks with;40
@@ -18144,15 +18267,18 @@ choo-choo train;60
 Chooglin';40;Creedence Clearwater Revival's "Keep On Chooglin'"
 Choos;40;Jimmy Choos, designer shoes
 Choose Me;40
+choose one's fighter;50
 choose one's words;60
 choose one's words carefully;60
 choose sides;60
+chooses one's fighter;50
 chooses one's words;60
 chooses one's words carefully;60
 chooses sides;60
 chooses up;30
 choose up;30
 choose your words carefully;60
+choosing one's fighter;50
 choosing one's words;60
 choosing one's words carefully;60
 choosing sides;60
@@ -18192,6 +18318,7 @@ chortles;60
 chortling;60
 chorus line;50
 chorus lines;50
+chose one's fighter;50
 chose one's words;60
 chose one's words carefully;60
 chose sides;60
@@ -18699,18 +18826,22 @@ clap for;40
 Clapham;40;London district with the famous junction
 clap-o-meter;60
 clap-o-meters;60
+clap one's hands;50
 clap on the back;60
 clapped back;60
 clapped back at;60
 clapped for;40
+clapped one's hands;50
 clapped to;40
 clapping back;60
 clapping back at;60
 clapping for;40
+clapping one's hands;50
 clapping to;40
 claps back;60
 claps back at;60
 claps for;40
+claps one's hands;50
 claps to;40
 clap to;40
 claptrap;60
@@ -18793,12 +18924,16 @@ claw at;40
 claw crane;60
 claw cranes;60
 clawed at;40
+clawed one's way up;50
 clawfoot bathtub;60
 clawfoot bathtubs;60
 clawfoot tub;60
 clawfoot tubs;60
 clawing at;40
+clawing one's way up;50
+claw one's way up;50
 claws at;40
+claws one's way up;50
 Clayface;50;Batman's shape-shifting villain
 Claypool;40;Les Claypool, Primus bassist
 clay tablet;50
@@ -18811,9 +18946,11 @@ clean cars;20
 clean clothes;50
 clean coal;60
 cleaned house;60
+cleaned up one's act;50
 clean forgot;60
 clean house;60
 cleaning house;60
+cleaning up one's act;50
 cleanlily;30;Weird adverb
 cleanliness is next to godliness;60
 clean living;50
@@ -18827,7 +18964,9 @@ cleans house;60
 clean slate;50
 clean slates;50
 clean spoons;60;Ice cream shop jar
+cleans up one's act;50
 clean up on aisle six;60
+clean up one's act;50
 clean up this pigsty;60
 clean water;50
 clearance centre;20
@@ -18839,17 +18978,21 @@ Clearasil;40;Acne treatment brand
 Clearblue;40;Pregnancy test brand
 cleared a path;50
 cleared one's mind;60
+cleared one's throat;50
 cleared the board;60;Started over, or won everything
 clear idea;60
 clearing a path;50
 clearing one's mind;60
+clearing one's throat;50
 clearing the board;60;Starting over, or winning everything
 clearish;40;Somewhat clear
 clearly visible;60
 clear nail polish;60
 clear one's mind;60
+clear one's throat;50
 clears a path;50
 clears one's mind;60
+clears one's throat;50
 clear soup;50
 clears the board;60;Starts over, or wins everything
 Clearstream;40;Luxembourg financial clearing house
@@ -18912,6 +19055,7 @@ CLI;20
 Cliburn;40;Van Cliburn, pianist who won in Moscow in 1958
 click anywhere;60
 clicked on;40
+clicked one's tongue;50
 clicker game;60
 clicker games;60
 clickety-clack;60
@@ -18921,9 +19065,12 @@ click farms;60
 click here;60
 ClickHole;60;The Onion's clickbait parody site
 clicking on;40
+clicking one's tongue;50
 click on;40
+click one's tongue;50
 clicks and mortar;40
 clicks on;40
+clicks one's tongue;50
 click the bell;60
 click-through rate;60
 click-through rates;60
@@ -19043,6 +19190,7 @@ closed door;50
 closed down;50
 closed in on;40
 closed on;30
+closed one's eyes;50
 close down;50
 closed shop;50
 closed system;60
@@ -19055,11 +19203,13 @@ close look;50
 close looks;50
 closely related;50
 close on;30
+close one's eyes;50
 closeout sale;50
 closeout sales;50
 closes down;50
 closes in on;40
 closes on;30
+closes one's eyes;50
 closes the loop;50
 closes up shop;60
 close talker;60
@@ -19081,6 +19231,7 @@ closing in on;40
 closing number;60
 closing numbers;60
 closing on;30
+closing one's eyes;50
 closing the loop;50
 closing up shop;60
 Clostridium;40;Bacteria genus including the botulism bug
@@ -19174,6 +19325,10 @@ Clumsy Smurf;60
 clung onto;40
 clung to;40
 Cluny;40;French abbey town / "Cluny Brown"
+clutched one's pearls;50
+clutches one's pearls;50
+clutching one's pearls;50
+clutch one's pearls;50
 CLV;20
 CLVI;20
 CLX;20
@@ -19862,6 +20017,7 @@ come in last;50
 come in threes;50
 come into;40
 come into being;60
+come into one's own;50
 come into play;50
 comelily;30;Weird adverb
 comemoonderfire;0
@@ -19904,17 +20060,20 @@ comes in last;50
 comes in threes;20
 comes into;40
 comes into being;60
+comes into one's own;50
 comes into play;50
 comes nowhere near;50
 comes on to;40
 comes out ahead;50
 comes out even;50
+comes out of one's shell;50
 comes right out and says it;60
 comes right out with it;60
 comes to bed;40
 comes to blows;50
 comes to earth;50
 comes to mind;50
+comes to one's senses;50
 comes to see;50
 comes to the rescue;50
 comes under attack;50
@@ -19931,6 +20090,7 @@ come to earth;50
 come-to-Jesus talk;60
 come-to-Jesus talks;60
 come to mind;50
+come to one's senses;50
 come to see;50
 come to the rescue;50
 come under attack;50
@@ -19967,6 +20127,7 @@ coming in first;50
 coming in last;50
 coming into;40
 coming into being;60
+coming into one's own;50
 coming into play;50
 comingle;20;Less common spelling
 comingled;20;Less common spelling
@@ -19984,6 +20145,7 @@ coming-of-age story;60
 coming on to;40
 coming out ahead;50
 coming out even;50
+coming out of one's shell;50
 coming-out parties;60
 coming-out party;60
 coming right out and saying it;60
@@ -19992,6 +20154,7 @@ coming to bed;50
 coming to blows;50
 coming to earth;50
 coming to mind;50
+coming to one's senses;50
 coming to see;50
 coming to the rescue;50
 coming under attack;50
@@ -20555,6 +20718,8 @@ cool one's jets;60
 cool ranch;60
 Cool Ranch Doritos;60
 cool reception;50
+cools one's heels;50
+cools one's jets;50
 cools to;40
 cool story bro;60
 cool table;20;???
@@ -21049,6 +21214,8 @@ Count Chocula;60
 counted calories;50
 counted cards;50
 counted on;40
+counted one's blessings;50
+counted on one's fingers;50
 Countee;40;Countee Cullen, Harlem Renaissance poet
 counterbalance;50
 counterbalanced;50
@@ -21065,11 +21232,15 @@ counter to;40
 counting calories;50
 counting cards;50
 counting on;40
+counting one's blessings;50
+counting on one's fingers;50
 counting the days;50
 Count of Monte Cristo;60
 Count Olaf;60;"A Series of Unfortunate Events" villain
 count on;40
+count one's blessings;50
 Count On Me;50;Various
+count on one's fingers;50
 Count Orlok;60;From "Nosferatu"
 count palatine;30;Feudal lord
 country album;50
@@ -21086,6 +21257,8 @@ country stores;60
 counts calories;50
 counts cards;50
 counts on;40
+counts one's blessings;50
+counts on one's fingers;50
 county jail;60
 county judge;60
 county judges;60
@@ -21156,16 +21329,22 @@ cover bands;50
 Coverdale;40;David Coverdale, Whitesnake frontman
 covered a beat;50
 covered for;40
+covered one's ass;50
+covered one's bases;50
 covered one's tracks;60
 covered the spread;60
 cover for;40
 covering a beat;50
 covering for;40
+covering one's ass;50
+covering one's bases;50
 covering one's tracks;60
 covering the spread;60
 cover me;60
 cover name;50
 cover names;50
+cover one's ass;50
+cover one's bases;50
 cover one's tracks;60
 cover photo;60
 cover photos;60
@@ -21173,6 +21352,8 @@ covers a beat;50
 covers for;40
 coverslip;50
 coverslips;50
+covers one's ass;50
+covers one's bases;50
 covers one's tracks;60
 cover song;60
 cover songs;60
@@ -21593,11 +21774,13 @@ cricket player;60
 cricket players;60
 cricket team;60
 cricket teams;60
+cried one's eyes out;50
 cried out for;40
 cried out to;40
 cries;50
 cries of derision;50
 cries off;30
+cries one's eyes out;50
 cries out for;40
 cries out to;40
 Crimea;50;Black Sea peninsula
@@ -21790,6 +21973,9 @@ cross-cutting concern;60
 cross-cutting concerns;60
 crosse;30;La crosse stick
 crossed off the list;60
+crossed one's arms;50
+crossed one's fingers;50
+crossed one's legs;50
 crossed one's mind;50
 crossed party lines;60
 crossed paths;60
@@ -21799,6 +21985,9 @@ crossed the picket line;60
 crossed T's;50
 crosser;50
 crossers;40
+crosses one's arms;50
+crosses one's fingers;50
+crosses one's legs;50
 crosses one's mind;50
 crosses party lines;60
 crosses paths;60
@@ -21829,6 +22018,9 @@ crosshatch;50
 crosshatched;50
 crosshatches;50
 crosshatching;50
+crossing one's arms;50
+crossing one's fingers;50
+crossing one's legs;50
 crossing one's mind;50
 crossing party lines;60
 crossing paths;60
@@ -21838,6 +22030,9 @@ crosslet;40;Small cross in heraldry
 crosslets;40
 cross my heart, hope to die;60
 cross off the list;60
+cross one's arms;50
+cross one's fingers;50
+cross one's legs;50
 cross one's mind;50
 cross ones T's;60
 cross over;50
@@ -21981,6 +22176,7 @@ cry;50
 Cryer;40;Jon Cryer, "Two and a Half Men" star
 cry harder;60
 Cryin';40;As in "for cryin' out loud"
+crying one's eyes out;50
 crying on the inside;60
 crying out for;40
 crying out to;40
@@ -21990,6 +22186,7 @@ cryin' shame;60
 cry of derision;50
 cryofreeze;60
 cryolite;30;Mineral
+cry one's eyes out;50
 cry on the inside;60
 cryosleep;60
 cry out for;40
@@ -22383,7 +22580,9 @@ cutman;50;Fighter's corner person
 cutmen;50
 cut me some slack;60
 cut no ice;30
+cut off one's nose to spite one's face;50
 cut one's losses;60
+cut one's teeth;50
 cut one's teeth on;60
 cut open;50
 cutpurse;60
@@ -22403,7 +22602,9 @@ cuts down to size;60
 cuts in on;40
 cuts into;40
 cuts no ice;40
+cuts off one's nose to spite one's face;50
 cuts one's losses;60
+cuts one's teeth;50
 cuts one's teeth on;60
 cuts school;50
 cuts to;40
@@ -22424,7 +22625,9 @@ cutting down to size;60
 cutting in on;40
 cutting into;40
 cutting no ice;30
+cutting off one's nose to spite one's face;50
 cutting one's losses;60
+cutting one's teeth;50
 cutting one's teeth on;60
 cutting school;50
 cutting to;40
@@ -23415,6 +23618,7 @@ deadnamed;60
 deadnames;60
 deadnaming;60
 dead on;50
+dead on one's feet;50
 deadpan;60
 deadpanned;60
 deadpanning;60
@@ -24782,8 +24986,18 @@ didn't you hear;0
 Dido;50;Queen of Carthage, or the singer
 DiDonato;40;Joyce DiDonato, opera mezzo-soprano
 did one a solid;40
+did one's best;50
+did one's business;50
+did one's damnedest;50
+did one's darnedest;50
 did one's fair share;50
 did one's homework;60
+did one's job;50
+did one's level best;50
+did one's part;50
+did one's thing;50
+did one's utmost;50
+did one's worst;50
 Dido's;30;Dido's Lament, Purcell aria
 did poorly;50
 Didrikson;40;Babe Didrikson Zaharias, all-around athlete
@@ -24914,6 +25128,8 @@ digging deep;50
 digging down deep;50
 digging in one's heels;60
 digging into;40
+digging one's heels in;50
+digging one's own grave;50
 digging up dirt on;50
 Diggins;40;Skylar Diggins, WNBA star / Jessie Diggins, Olympic skier
 Diggler;50;Dirk Diggler, "Boogie Nights" character
@@ -24938,12 +25154,16 @@ Digital Shorts;60
 digital SLR;50
 digital SLRs;50
 Diglett;50;Pokeyman
+dig one's heels in;50
+dig one's own grave;50
 digs a hole;50
 digs at;40
 digs deep;50
 digs down deep;50
 digs in one's heels;60
 digs into;40
+digs one's heels in;50
+digs one's own grave;50
 digs up dirt on;50
 dig up dirt on;50
 dihedral;30
@@ -25722,8 +25942,18 @@ doesn't hurt;60
 doesn't sit right with;40
 doesntsitrightwith;20
 does one a solid;40
+does one's best;50
+does one's business;50
+does one's damnedest;50
+does one's darnedest;50
 does one's fair share;50
 does one's homework;60
+does one's job;50
+does one's level best;50
+does one's part;50
+does one's thing;50
+does one's utmost;50
+does one's worst;50
 does poorly;50
 does shots;50
 does so;40;Playground retort
@@ -25931,8 +26161,18 @@ doing laps;50
 doing lunch;50
 doing more with less;60
 doing one a solid;40
+doing one's best;50
+doing one's business;50
+doing one's damnedest;50
+doing one's darnedest;50
 doing one's fair share;50
 doing one's homework;60
+doing one's job;50
+doing one's level best;50
+doing one's part;50
+doing one's thing;50
+doing one's utmost;50
+doing one's worst;50
 doing poorly;50
 doing shots;50
 doing the conga;50
@@ -26310,9 +26550,19 @@ Doona Bae;40;South Korean actress (born 1979)
 Doone;40
 do one a solid;40
 do one in;40
+do one's best;50
 Doonesbury;50;Garry Trudeau comic strip
+do one's business;50
+do one's damnedest;50
+do one's darnedest;50
 do one's fair share;50
 do one's homework;60
+do one's job;50
+do one's level best;50
+do one's part;50
+do one's thing;50
+do one's utmost;50
+do one's worst;50
 doorbuster;60
 doorbuster deal;60
 doorbuster deals;60
@@ -26565,6 +26815,7 @@ down goes Frazier;60
 Downie;40;Gord Downie, The Tragically Hip frontman
 downloadable content;60
 down on;40
+down on one's luck;50
 down on the corner;50
 downright;50
 downscale;60
@@ -26688,9 +26939,13 @@ drag brunches;60
 dragged behind;40
 dragged in;40
 dragged into;40
+dragged one's feet;50
+dragged one's heels;50
 dragging behind;40
 dragging in;40
 dragging into;40
+dragging one's feet;50
+dragging one's heels;50
 drag in;40
 drag into;40
 drag king;50
@@ -26704,6 +26959,8 @@ Drago;40;Ivan Drago from "Rocky IV"
 Dragonborn;50;Skyrim hero, or a D&D race
 dragon carp;50
 Dragon Con;50
+drag one's feet;50
+drag one's heels;50
 dragonet;30
 DragonForce;50;Power metal band of "Through the Fire and Flames"
 dragonhead;50
@@ -26726,6 +26983,8 @@ drag show;60
 drag shows;60
 drags in;40
 drags into;40
+drags one's feet;50
+drags one's heels;50
 DRAG-U-LA;40;Car in the television show "The Munsters"
 drained;50
 drainer;40;Kitchen device
@@ -26797,6 +27056,7 @@ drawing first blood;60
 drawing from;40
 drawing into;30
 drawing on;40
+drawing one's last breath;50
 drawing the line at;50
 drawing to;40
 drawing to a close;60
@@ -26809,6 +27069,7 @@ drawn a veil over;50
 drawn out;50
 drawn to;50
 draw on;40
+draw one's last breath;50
 draws a bead;50
 draws a bead on;60
 draws a blank;60
@@ -26825,6 +27086,7 @@ draws first blood;60
 draws from;40
 draws into;30
 draws on;40
+draws one's last breath;50
 draws the line at;50
 draws to a close;60
 draws up;40
@@ -26949,6 +27211,7 @@ drew first blood;60
 drew from;40
 drew into;30
 drew on;40
+drew one's last breath;50
 drew the line at;50
 drew to;40
 drew to a close;60
@@ -26973,8 +27236,10 @@ Dr Horrible's Sing-Along Blog;0
 dri;20
 driblet;30
 driblets;30
+dried one's eyes;50
 dried prune;50
 dried prunes;50
+dries one's eyes;50
 driftages;30
 driftier;30
 driftiest;30
@@ -27204,8 +27469,12 @@ drove at;40
 drove in;40
 drove stick;60
 drove stick shift;60
+drowned one's sorrows;50
 drowner;40
 drowners;40
+drowning one's sorrows;50
+drown one's sorrows;50
+drowns one's sorrows;50
 Dr. Oz;50
 Dr. Oz Show;50
 Dr Phil;50
@@ -27318,6 +27587,7 @@ dryer sheets;60
 dry gas;50;Automobile fuel additive
 dry goods store;50
 dry goods stores;50
+drying one's eyes;50
 drying pistol;50
 drying pistols;50
 drying rack;50
@@ -27326,6 +27596,7 @@ dry lake;50
 dry lakes;50
 dry martini;50
 dry martinis;50
+dry one's eyes;50
 Drysdale;40;Don Drysdale, Dodgers Hall of Fame pitcher
 dry suit;60
 dry suits;60
@@ -27481,6 +27752,8 @@ dug down deep;60
 Duggar;30;"19 Kids and Counting" family
 dug in one's heels;60
 dug into;40
+dug one's heels in;50
+dug one's own grave;50
 dugong calf;50
 dugong calves;50
 dug up dirt on;50
@@ -27901,11 +28174,15 @@ early warning system;60
 early warning systems;60
 earmark;50
 earmarks;50
+earned one's keep;50
 earned one's stripes;60
 Earnhardt;50;Dale Earnhardt, NASCAR legend
+earning one's keep;50
 earning one's stripes;60
+earn one's keep;50
 earn one's stripes;60
 Earnshaw;40;Catherine Earnshaw, "Wuthering Heights" heroine
+earns one's keep;50
 earns one's stripes;60
 earny;20
 earou;20
@@ -28077,6 +28354,7 @@ eating kosher;50
 eating like an animal;60
 eating local;60
 eating lunch;30
+eating one's fill;50
 eating one's hat;60
 eating one's words;60
 eating over;30
@@ -28094,6 +28372,7 @@ eat no;20
 eat of;40
 Eaton;40;Peggy Eaton, Jackson-era scandal figure / Toronto's Eaton Centre
 Eaton Centre;40;Canadian shopping centres
+eat one's fill;50
 eat one's hat;60
 eat one's heart out;60
 eat one's words;60
@@ -28120,6 +28399,7 @@ eats local;60
 eats lunch;30
 eats no;20
 eats of;40
+eats one's fill;50
 eats one's hat;60
 eats one's words;60
 eats over;30
@@ -28607,6 +28887,7 @@ eggnog;50
 eggnog latte;50
 eggnog lattes;50
 Eggo;50;Waffle brand ("Leggo my Eggo")
+egg on one's face;50
 Eggos;50;Kellogg's waffles
 eggplant emoji;60
 eggplant emojis;60
@@ -31065,6 +31346,7 @@ everyman;60
 every now and then;50
 everyone knows;60
 everyone makes mistakes;60
+everyone's;50
 everyone's a comedian;60
 everyone's a critic;60
 every single time;60
@@ -31599,6 +31881,7 @@ face card;60
 face cards;60
 faced facts;60
 faced it;30
+faced one's fears;50
 faced out;40
 faced the facts;60
 faced the rap;20
@@ -31617,6 +31900,7 @@ face-melting guitar solo;60
 face-melting solo;60
 face-melting solos;60
 face of evil;50
+face one's fears;50
 face out;40
 face paint;60
 face painting;60
@@ -31633,6 +31917,7 @@ face shield;60
 face shields;60
 Faceshopping;40;SOPHIE song
 faces it;30
+faces one's fears;50
 faces out;40
 faces the facts;60
 faces the rap;20
@@ -31661,6 +31946,7 @@ facial profiling;60
 facial recognition;60
 facing facts;60
 facing it;30
+facing one's fears;50
 facing out;40
 facings;30
 facing the facts;60
@@ -31808,19 +32094,23 @@ faith healer;60
 faith healers;60
 Faiyum;40;Egyptian oasis region known for mummy portraits
 fake book;60
+faked one's own death;50
 fake entries;50
 fake entry;50
 fake meat;50
 fake meats;50
 Fakemon;40;Fan-invented Pokemon
 fake nails;60
+fake one's own death;50
 fake painting;60
 fake paintings;60
 fake punt;60
 fake punts;60
+fakes one's own death;50
 fake teeth;50
 fake tree;50
 fake trees;50
+faking one's own death;50
 Fala;40;FDR's Scottish terrier
 falafel;50
 falafels;40
@@ -31854,27 +32144,35 @@ fall colors;50
 fallen all over oneself;60
 fallen at the feet of;60
 fallen on;40
+fall flat on one's face;50
 fall in;50
 falling all over oneself;60
 falling all over oneself apologizing;50
 falling at the feet of;60
+falling flat on one's face;50
 falling in;40
 falling in line;60
 falling into;40
+falling off one's chair;50
 falling on;40
+falling on one's face;50
+falling on one's sword;50
 falling out of love;50
 falling shy;50
 falling shy of;40
 falling to;40
+falling to one's knees;50
 falling upon;40
 Fallingwater;50;Frank Lloyd Wright's house over a waterfall
 fall in line;60
 fall into;40
+fall off one's chair;50
 fall-off-the-bone;60
 Fall of the House of Usher;60
 Fallon;50
 fall on;40
 fall on one's face;60
+fall on one's sword;50
 fall out of love;50
 fallout shelter;60
 fallout shelters;60
@@ -31882,24 +32180,29 @@ fall sale;50
 fall sales;50
 falls all over oneself;60
 falls at the feet of;60
+falls flat on one's face;50
 fall shy;50
 fall shy of;40
 falls in;40
 falls in line;60
 falls into;40
+falls off one's chair;50
 falls off the bone;60
 falls on;40
 falls on one's face;60
 fallsononesfeet;0
+falls on one's sword;50
 falls out of love;50
 falls shy;50
 falls shy of;40
 falls to;40
+falls to one's knees;50
 fallstreak;50
 fallstreak hole;50;Cloud phenomenon
 fallstreak holes;50
 falls upon;40
 fall to;40
+fall to one's knees;50
 Fallujah;50;Iraqi city of two 2004 battles
 fall upon;40
 Falmouth;40;Cape Cod town, or a Cornwall port
@@ -32372,6 +32675,8 @@ fears to;40
 fear to;40
 Feastables;40;MrBeast chocolate brand
 feasted on;40
+feasted one's eyes;50
+feasted one's eyes on;50
 feasted upon;50
 feaster;40
 feasters;40
@@ -32379,10 +32684,16 @@ Feast for Crows;60;A Song of Ice and Fire book #4, with "A"
 feast for the eyes;60
 feast for the senses;60
 feasting on;40
+feasting one's eyes;50
+feasting one's eyes on;50
 feasting upon;50
 feast on;40
+feast one's eyes;50
+feast one's eyes on;50
 feast or famine;60
 feasts on;40
+feasts one's eyes;50
+feasts one's eyes on;50
 feasts upon;50
 feast upon;50
 feather;50
@@ -32392,8 +32703,12 @@ feather boa;60
 feather boas;60
 feathered bangs;60
 feathered hair;60
+feathered one's nest;50
 feathered side bangs;60
+feathering one's nest;50
 feather in one's cap;60
+feather one's nest;50
+feathers one's nest;50
 feathers the nest;60
 Feathertop;40;Hawthorne story about a scarecrow
 feature article;60
@@ -32602,6 +32917,7 @@ fellatio;10
 fellations;10
 fellatios;10
 fell at the feet of;60
+fell flat on one's face;50
 fellie;20;Part of a wheel rim
 fellies;20;Parts of a wheel rim
 fell in;40
@@ -32612,7 +32928,10 @@ fell in line;60
 fell into;40
 felloe;20;Part of a wheel rim
 felloes;20;Parts of a wheel rim
+fell off one's chair;50
 fell on;40
+fell on one's face;50
+fell on one's sword;50
 fell out of love;50
 fellow citizens;60
 Fellowes;40;Julian Fellowes, "Downton Abbey" creator
@@ -32620,6 +32939,7 @@ Fellowship of the Ring;60
 fell shy;50
 fell shy of;40
 fell to;40
+fell to one's knees;50
 fell upon;40
 felo-de-se;20;Felo-de-se, felon of himself: suicide
 felones de se;20
@@ -32946,10 +33266,12 @@ fighter jets;60
 fighter kite;60
 fighter kites;60
 fight for;40
+fight for one's life;50
 fighting against;40
 fighting a losing battle;60
 fighting crime;60
 fighting for;40
+fighting for one's life;50
 Fighting Illini;60;Athletics teams of the University of Illinois Urbana-Champaign
 Fighting Irish;60
 fighting with;40
@@ -32959,8 +33281,11 @@ fights against;40
 fights a losing battle;60
 fights crime;60
 fights for;40
+fights for one's life;50
 fights with;40
 fight with;40
+figment of one's imagination;50
+figments of one's imagination;50
 Figueroa;40;Los Angeles street, or a common Spanish surname
 figural;30
 figured it out;50
@@ -33100,16 +33425,31 @@ finding God;60
 finding it in one's heart;60
 finding lacking;50
 Finding Me;40;2009 drama film
+finding one's calling;50
+finding one's feet;50
+finding one's place;50
+finding one's tongue;50
+finding one's way;50
 find it in one's heart;60
 find lacking;50
 Findlay;40;Ohio city, or Maude Findlay of "Maude"
 Findley;40;Timothy Findley, Canadian novelist
 Find my iPhone;60
+find one's calling;50
+find one's feet;50
+find one's place;50
+find one's tongue;50
+find one's way;50
 finds a home;50
 finds a loophole;60
 finds God;60
 finds it in one's heart;60
 finds lacking;50
+finds one's calling;50
+finds one's feet;50
+finds one's place;50
+finds one's tongue;50
+finds one's way;50
 find the key of;20
 find the key to;20
 find time;50
@@ -33660,6 +34000,7 @@ Flatley;40;Michael Flatley, "Riverdance" star
 flat nine;50
 flat nose;50
 flat nose pliers;50
+flat on one's back;50
 flat-out refusal;50
 flat-out refusals;50
 flat-out refuse;50
@@ -33737,6 +34078,7 @@ fleurs-de-lys;60
 Fleury;40
 flew a kite;50
 flew at;40
+flew by the seat of one's pants;50
 flew first class;50
 flew in;40
 flew into;40
@@ -33775,6 +34117,7 @@ flied;40;Baseball meaning, flied out
 flied out;40
 flies a kite;50
 flies at;40
+flies by the seat of one's pants;50
 flies down;20;???
 flies first class;50
 flies in;40
@@ -33814,6 +34157,7 @@ Flipnotes;40;Animations made in Nintendo's Flipnote Studio
 flip of a switch;50
 flip off;60
 flip on;40
+flip one's lid;50
 flip out on;40
 flip out over;50
 flipped a coin;50
@@ -33821,6 +34165,7 @@ flipped a house;40
 flipped around;50
 flipped off;60
 flipped on;40
+flipped one's lid;50
 flipped out on;40
 flipped out over;50
 flipped the bird;60
@@ -33830,6 +34175,7 @@ flipping a house;40
 flipping around;40
 flipping off;60
 flipping on;40
+flipping one's lid;50
 flipping out on;40
 flipping out over;50
 flipping the bird;60
@@ -33838,6 +34184,7 @@ flips a house;40
 flips around;40
 flips off;60
 flips on;40
+flips one's lid;50
 flips out on;40
 flips out over;50
 flips the bird;60
@@ -34018,6 +34365,7 @@ fly at;40
 fly-by-night;60
 fly-by-night operation;60
 fly-by-night operations;60
+fly by the seat of one's pants;50
 fly first class;50
 fly-fish;50
 fly fisherman;50
@@ -34030,6 +34378,7 @@ flying a kite;50
 flying at;40
 flying broomstick;60
 flying broomsticks;60
+flying by the seat of one's pants;50
 flying first class;50
 flying in;40
 flying into;40
@@ -34228,7 +34577,15 @@ folk tale;60
 folk tales;60
 Folkvangr;40;Freyja's afterlife field in Norse myth
 Follett;40;Ken Follett, "The Pillars of the Earth" novelist
+followed one's heart;50
+followed one's nose;50
 Followill;40;Caleb Followill of Kings of Leon
+following one's heart;50
+following one's nose;50
+follow one's heart;50
+follow one's nose;50
+follows one's heart;50
+follows one's nose;50
 follow the money;60
 Folsom;40;California prison of Johnny Cash fame
 folx;40;Folks, used especially to explicitly signal the inclusion of groups commonly marginalized
@@ -34519,6 +34876,7 @@ fornicates;50
 fornicating;50
 fornication;50
 for once and for all;60
+for one's own good;50
 for one thing;60
 for real;60
 for reals;60
@@ -34609,6 +34967,7 @@ fought against;40
 fought a losing battle;60
 fought crime;60
 fought for;40
+fought for one's life;50
 fought with;40
 foulard;30;Lightweight fabric, or kerchief made from it
 foulards;30;Kerchief made from foulard fabric
@@ -34628,6 +34987,11 @@ found lacking;50
 found object;50
 found objects;50
 found one;20
+found one's calling;50
+found one's feet;50
+found one's place;50
+found one's tongue;50
+found one's way;50
 fount;50
 fountain drink;50
 fountain drinks;50
@@ -35203,6 +35567,7 @@ frog;50;Rip out knitting
 frogged;50;Ripped out knitting
 Frogger;50;Road-crossing arcade game
 frogging;50;Ripping out knitting
+frog in one's throat;50
 frog leg;50
 frog legs;50
 frogman;60
@@ -35227,6 +35592,7 @@ Frommer;40;???
 from pessimists;20
 from rags to riches;60
 from sea to shining sea;50
+from the bottom of one's heart;50
 from the hip;60
 from where I stand;60
 from zero to sixty;60
@@ -35607,6 +35973,10 @@ Fur Peak;40;Chinese tea
 Fur Peak tea;50
 furrieries;40
 furriery;40;Fur business
+furrowed one's brow;50
+furrowing one's brow;50
+furrow one's brow;50
+furrows one's brow;50
 fursona;60
 fursonas;60
 Furstenberg;50;Diane von Furstenberg, fashion designer
@@ -36956,6 +37326,7 @@ get in a pickle;50
 get in here;60;"My office, now!"
 get in line;60
 get in on a deal;50
+get in one's own way;50
 get into;40
 get into a rut;50
 Get Into It;50
@@ -36973,16 +37344,28 @@ get naked;50
 get near;40
 get off my case;60
 get off on a technicality;60
+get off one's ass;50
+get off one's chest;50
 get off one's high horse;60
 get off on the right foot;60
 get off to a late start;60
 get off your high horse;60
 get on;40
 get on board;50
+get one's act together;50
+get one's bearings;50
+get one's ducks in a row;50
+get one's feet wet;50
 get one's goat;60
 get one's hackles up;60
+get one's hopes up;50
 get one's house in order;60
+get one's knickers in a twist;50
+get one's mind out of the gutter;50
+get one's money's worth;50
+get one's priorities straight;50
 get one's shit together;10
+get one's steps in;50
 get on in the world;60
 get on in years;60
 get on it;60
@@ -36995,6 +37378,7 @@ get onto;40
 get out alive;60
 get out of a jam;60
 get out of my head;60
+get out of one's own way;50
 get out of sight;60
 get out of the kitchen;60
 get out the vote;60
@@ -37064,6 +37448,7 @@ gets in a bind;50
 gets in a mess;50
 gets in a pickle;50
 gets in on a deal;50
+gets in one's own way;50
 gets into;40
 gets into a rut;50
 gets into it;50
@@ -37078,15 +37463,27 @@ gets mossed;60;Gets dominated by a wide receiver's showy catch, a la Randy Moss
 gets naked;50
 gets near;40
 gets off on a technicality;60
+gets off one's ass;50
+gets off one's chest;50
 gets off on the right foot;60
 gets off to a late start;60
 gets on;40
 gets on board;50
+gets one's act together;50
+gets one's bearings;50
+gets one's ducks in a row;50
+gets one's feet wet;50
 gets one's goat;60
 gets one's hackles up;60
+gets one's hopes up;50
 gets one's house in order;60
+gets one's knickers in a twist;50
+gets one's mind out of the gutter;50
 gets one's mitts on;60
+gets one's money's worth;50
+gets one's priorities straight;50
 gets one's shit together;10
+gets one's steps in;50
 gets on in the world;60
 gets on in years;60
 gets on it;50
@@ -37094,6 +37491,7 @@ gets onto;40
 get sore;40
 gets out alive;60
 gets out of a jam;60
+gets out of one's own way;50
 gets out of sight;60
 gets out the vote;60
 gets plowed;50;Gets drunk / Vulgar
@@ -37126,6 +37524,7 @@ gets the scoop;60
 gets the stink eye;60
 gets to;40
 gets to first base;60
+gets to one's feet;50
 gets to second base;60
 gets to the bottom of;60
 gets to third base;60
@@ -37203,6 +37602,7 @@ getting in a bind;50
 getting in a mess;50
 getting in a pickle;50
 getting in on a deal;50
+getting in one's own way;50
 getting into;40
 getting into a rut;50
 getting into it;50
@@ -37213,19 +37613,32 @@ getting mossed;60;Getting dominated by a wide receiver's showy catch, a la Randy
 getting naked;50
 getting near;40
 getting off on a technicality;60
+getting off one's ass;50
+getting off one's chest;50
 getting off on the right foot;60
 getting off to a late start;60
 getting on;40
 getting on board;50
+getting one's act together;50
+getting one's bearings;50
+getting one's ducks in a row;50
+getting one's feet wet;50
 getting one's goat;60
 getting one's hackles up;60
+getting one's hopes up;50
 getting one's house in order;60
+getting one's knickers in a twist;50
+getting one's mind out of the gutter;50
+getting one's money's worth;50
+getting one's priorities straight;50
 getting one's shit together;10
+getting one's steps in;50
 getting on in the world;60
 getting on in years;60
 getting onto;40
 getting out alive;60
 getting out of a jam;60
+getting out of one's own way;50
 getting out of sight;60
 getting out the vote;60
 getting plowed;50;Getting drunk / Vulgar
@@ -37255,6 +37668,7 @@ getting the scoop;60
 getting the stink eye;60
 getting to;40
 getting to first base;60
+getting to one's feet;50
 getting to second base;60
 getting to the bottom of;60
 getting to third base;60
@@ -37267,6 +37681,7 @@ get to;40
 get to first base;60
 get to know you game;60
 get to know you games;60
+get to one's feet;50
 get to second base;60
 get to the bottom of;60
 get to third base;60
@@ -37594,6 +38009,10 @@ Girardi;40
 girasol;20;Fire opal
 girasols;20;Fire opals
 Giraudoux;40;Jean Giraudoux, French playwright
+girded one's loins;50
+girding one's loins;50
+gird one's loins;50
+girds one's loins;50
 girlboss;60
 girlbosses;60
 Girlfight;40;2000 boxing film that launched Michelle Rodriguez
@@ -38005,6 +38424,8 @@ gnudi;30;Gnocchi-like dumplings
 GNX;40;2024 Kendrick Lamar album
 go;50
 Goa;30;Indian's smallest state
+go about one's business;50
+go about one's day;50
 Goade;40;Michaela Goade, Caldecott-winning illustrator
 goaded on;20
 goaded to action;50
@@ -38063,6 +38484,7 @@ Go Away Green;60;Disney color that diverts attention away from infrastructure
 go awry;50
 gob;50
 G.O.B.;40;"Arrested Development" character
+go back on one's word;50
 go back to;40
 go back to sleep;50
 go back to square one;60
@@ -38155,6 +38577,8 @@ Godzilla x Kong The New Empire;50
 Goeppert;40;Maria Goeppert Mayer, Nobel-winning physicist
 goer;30
 goers;30
+goes about one's business;50
+goes about one's day;50
 goes all in;50
 goes all out;50
 goes antiquing;60
@@ -38168,6 +38592,7 @@ goes astray;50
 goes at;40
 goes away;50
 goes awry;50
+goes back on one's word;50
 goes back to;40
 goes back to square one;60
 goes back to the drawing board;60
@@ -38228,7 +38653,9 @@ goes on a jag;50
 goes on a journey;60
 goes on a spree;50
 goes on a tear;60
+goes one's separate ways;50
 goes on leave;50
+goes on one's merry way;50
 goes on record;60
 goes on record as;40
 goes on safari;60
@@ -38236,6 +38663,7 @@ goes on sale;60
 goes on tour;60
 goes on vacation;50
 goes out;50
+goes out of one's way;50
 goes out on a limb;60
 goes out with;50
 goes over the line;60
@@ -38263,6 +38691,7 @@ goes vegan;60
 goes west;40;Green paint???
 goes whole hog;60
 goes with;40
+goes with one's gut;50
 goes yard;50
 goeth;40
 Goethe;50;Johann Wolfgang von Goethe, "Faust" author
@@ -38312,6 +38741,8 @@ go home;50
 goi;20
 go in;40
 go in circles;60
+going about one's business;50
+going about one's day;50
 going all in;50
 going all out;50
 going antiquing;60
@@ -38327,6 +38758,7 @@ going as;40
 going astray;50
 going at;40
 going awry;50
+going back on one's word;50
 going back to;40
 going back to square one;60
 going back to the drawing board;60
@@ -38381,7 +38813,9 @@ going on a jag;50
 going on a journey;60
 going on a spree;50
 going on a tear;60
+going one's separate ways;50
 going on leave;50
+going on one's merry way;50
 going on record;60
 going on record as;40
 going on safari;60
@@ -38389,6 +38823,7 @@ going on sale;60
 going on tour;60
 going on vacation;50
 going out;50
+going out of one's way;50
 going out on a limb;60
 going out with;50
 going over the line;60
@@ -38414,6 +38849,7 @@ going up to;40
 going vegan;60
 going whole hog;60
 going with;40
+going with one's gut;50
 go in on;50
 go insane;50
 go into;40
@@ -38681,6 +39117,7 @@ good as grits;60
 good as new;60
 good as one's word;50
 good at;40
+good at one's job;50
 Goodbar;50;Mr. Goodbar candy
 goodby;30
 good call;60
@@ -38835,11 +39272,13 @@ go on a jag;50
 go on a journey;60
 go on a spree;50
 go on a tear;60
+go one's separate ways;50
 gooney;20;Black-footed albatross
 gooney bird;30
 gooney birds;30
 gooneys;20
 go on leave;50
+go on one's merry way;50
 go on record;60
 go on record as;40
 go on safari;60
@@ -38872,6 +39311,7 @@ goosier;30
 goosiest;30
 go out;50
 go out like a light;60
+go out of one's way;50
 go out on a limb;60
 gooutonatim;0
 go out with;50
@@ -39041,6 +39481,7 @@ got in a bind;50
 got in a mess;50
 got in a pickle;50
 got in on a deal;50
+got in one's own way;50
 got into;40
 got into a rut;50
 got into it;50
@@ -39059,6 +39500,8 @@ got no shot;50
 go to;50
 go toe to toe;60
 got off on a technicality;60
+got off one's ass;50
+got off one's chest;50
 got off on the right foot;60
 got off to a late start;60
 go together;50
@@ -39069,9 +39512,19 @@ go to hell and back;60
 go to jail;60;Monopoly square
 got on;40
 got on board;50
+got one's act together;50
+got one's bearings;50
+got one's ducks in a row;50
+got one's feet wet;50
 got one's goat;60
 got one's hackles up;60
+got one's hopes up;50
+got one's knickers in a twist;50
+got one's mind out of the gutter;50
+got one's money's worth;50
+got one's priorities straight;50
 got one's shit together;10
+got one's steps in;50
 got on in the world;60
 got on in years;60
 got onto;40
@@ -39082,6 +39535,7 @@ go to sleep;50
 go to the polls;60
 got out alive;60
 got out of a jam;60
+got out of one's own way;50
 got out of sight;60
 got out the vote;60
 got plowed;50;Got drunk / Vulgar
@@ -39128,6 +39582,7 @@ Gotthold;40;Gotthold Lessing, German dramatist
 Gotti;50;John Gotti, Teflon Don mob boss
 got to;40
 got to first base;60
+got to one's feet;50
 got to second base;60
 got to the bottom of;60
 got to third base;60
@@ -39175,6 +39630,7 @@ Gowdy;40;Curt Gowdy, sportscaster / Trey Gowdy, politician
 Gower Champion;30
 go whole hog;60
 go with;40
+go with one's gut;50
 goy;20
 Goya;50;Francisco Goya, Spanish painter / Latin food brand
 Goyas;40;Works by Francisco Goya, or Spain's film awards
@@ -39221,14 +39677,18 @@ Graça Machel;40;Mozambican activist and Nelson Mandela's widow
 Graca Machel;0
 Gracchi;40;Roman reformer brothers
 Gracchus;40;Tiberius and Gaius Gracchus, Roman reformers
+graced with one's presence;50
 Grace Hopper;60;Pioneer of computer programming
 Grace Kelly;60
 Graceland;50;Elvis's Memphis mansion
+graces with one's presence;50
+grace with one's presence;50
 gracias a Diós;40
 gracias a Dios;0
 Gracie;40;Gracie Allen, comedian / Gracie Abrams, singer
 Gracies;40;Brazilian jiu-jitsu family
 gracile;30;Slender
+gracing with one's presence;50
 gracious me;60
 grackle;30;Kind of bird
 grackles;30
@@ -39771,6 +40231,10 @@ Grisham;50;John Grisham, legal-thriller novelist
 Grissom;40;Gus Grissom, Mercury astronaut / Gil Grissom of "CSI"
 grists;40;Plural? Verb?
 Griswold;40;Clark Griswold, "Vacation" patriarch / Griswold v. Connecticut
+grit one's teeth;50
+grits one's teeth;50
+gritted one's teeth;50
+gritting one's teeth;50
 Grizabella;50;"Cats" cat who sings "Memory"
 Grizz;40;Memphis Grizzlies nickname, or the "30 Rock" bodyguard
 grizzly bear cub;50
@@ -40694,6 +41158,7 @@ had no time for;40
 had on;40
 had one's;20
 had one's druthers;60
+had one's way;50
 had one too many;60
 Hadouken;50;Street Fighter fireball
 had out;40
@@ -41136,6 +41601,7 @@ hanging a Uie;30
 hanging in;40
 hanging in the air;60
 hanging on;40
+hanging one's hat;50
 hanging onto;40
 hanging out with;40
 hanging tough;50
@@ -41151,6 +41617,7 @@ hang on a second;60
 hang on before you answer;60
 hang on before you rush to judgment;60
 hang on before you say anything;60
+hang one's hat;50
 hang on, hear me out;60
 hang onto;40
 hang out with;40
@@ -41161,6 +41628,7 @@ hangs a Uie;30
 hangs in;40
 hangs in the air;60
 hangs on;40
+hangs one's hat;50
 hangs onto;40
 hangs out with;40
 hangs tough;50
@@ -41586,6 +42054,7 @@ has no time;50
 has no time for;40
 hasn't got time;50
 has on;40
+has one's way;50
 has one too many;60
 has prior knowledge;50
 has prior knowledge of;50
@@ -41791,6 +42260,7 @@ have no time;50
 have no time for;40
 haven't got time;50
 have on;40
+have one's way;50
 have one too many;60
 have prior knowledge;50
 have prior knowledge of;50
@@ -41863,6 +42333,7 @@ having no life;50
 having no shot;60
 having no time for;40
 having on;40
+having one's way;50
 having one too many;60
 having prior knowledge;50
 having prior knowledge of;50
@@ -42249,13 +42720,17 @@ Hedda;40;Ibsen play "Hedda Gabler" (highly esteemed), or '40s gossip columnist H
 Hedden;30;Nix v Hedden, the Supreme Court tomato case
 Heder;40;Jon Heder, star of "Napoleon Dynamite"
 hedged in;40
+hedged one's bets;50
 hedge fund;60
 hedge funds;60
 hedge in;40
+hedge one's bets;50
 hedges in;40
+hedges one's bets;50
 hedge trimmer;50
 hedge trimmers;50
 hedging in;40
+hedging one's bets;50
 Hedi;30;Hedi Slimane, French photographer and fashion designer (born 1968)
 Hedi Slimane;50;French photographer and fashion designer (born 1968)
 Hedison;30;Actor David Hedison???
@@ -42353,8 +42828,13 @@ held back;50
 held dear;60
 held firm;60
 held forth about;40
+held one's breath;50
 held one's hand out;50
+held one's head high;50
 held one's head up;60
+held one's horses;50
+held one's own;60
+held one's tongue;50
 held onto;40
 held responsible;50
 held scoreless;50
@@ -42974,15 +43454,19 @@ Hideko;40;Hideko Takamine, Japanese screen star
 hide me;20
 Hideo;40;Hideo Kojima of Metal Gear Solid, baseball's Hideo Nomo
 Hideo Kojima;60;Hideo Kojima of Metal Gear Solid
+hide one's light under a bushel;50
 hider;30
 hiders;30
 hides from;40
 hides in;40
+hides one's light under a bushel;50
 Hideyoshi;40;Toyotomi Hideyoshi, Japanese unifier
 hid from;40
 hid in;40
 hiding from;40
 hiding in;40
+hiding one's light under a bushel;50
+hid one's light under a bushel;50
 hie;40
 hied;40
 hierarch;40;Chief priest, archbishop, or other leader
@@ -43041,6 +43525,7 @@ highly qualified;50
 highly respected;60
 highly skilled;60
 high off the hog;60
+high on one's own supply;50
 high on the hog;60
 high prices;50
 high-priority;50
@@ -43324,6 +43809,7 @@ Hitler;10
 Hitlerian;10
 hitmaker;60
 hitmakers;60
+hit one's stride;60
 hit parade;50
 hit parades;50
 hit pause;50
@@ -43339,6 +43825,7 @@ hits close to home;60
 hits different;60
 hit show;50
 hit snooze;50
+hits one's stride;60
 hit song;60
 hit songs;60
 hits out;30
@@ -43366,6 +43853,7 @@ hitting a wall;60
 hitting close to home;60
 hitting coach;60
 hitting coaches;60
+hitting one's stride;60
 hitting snooze;50
 hitting the pavement;60
 hitting the scene;60
@@ -43519,8 +44007,10 @@ Ho-Ho-Kus;20;New Jersey borough
 ho-hums;20
 hoi;40
 hoicks;20
+hoist by one's own petard;50
 hoister;40
 hoisters;40
+hoist with one's own petard;50
 hoity;40
 HoJo;40
 HoJos;40
@@ -43546,8 +44036,13 @@ holding back;50
 holding dear;60
 holding firm;60
 holding forth about;40
+holding one's breath;50
 holding one's hand out;50
+holding one's head high;50
 holding one's head up;60
+holding one's horses;50
+holding one's own;60
+holding one's tongue;50
 holding onto;40
 holding the key;50
 holding the key to;50
@@ -43560,8 +44055,13 @@ hold on;60
 hold on before you answer;60
 hold on before you rush to judgment;60
 hold on before you say anything;60
+hold one's breath;50
 hold one's hand out;50
+hold one's head high;50
 hold one's head up;60
+hold one's horses;50
+hold one's own;60
+hold one's tongue;50
 hold on, hear me out;60
 hold on one second;60
 hold onto;40
@@ -43575,8 +44075,13 @@ holds dear;60
 holds firm;60
 holds forth about;40
 holds on;50
+holds one's breath;50
 holds one's hand out;50
+holds one's head high;50
 holds one's head up;60
+holds one's horses;50
+holds one's own;60
+holds one's tongue;50
 holds onto;40
 holds scoreless;50
 holds the key;50
@@ -44302,6 +44807,7 @@ hot messes;60
 hot off the presses;60
 hot on;40
 Hot Ones;60;Hot wings interview show
+hot on one's heels;50
 hot on the heels;50
 hot on the heels of;60
 hot pastrami;50
@@ -44811,6 +45317,7 @@ hung in the air;60
 hung juries;50
 hung jury;50
 hung on;40
+hung one's hat;50
 hung onto;40
 hung out with;40
 hung tough;50
@@ -46493,6 +47000,7 @@ in a jiffy;50
 in a knot;40
 in alarm;40
 in a lather;50
+in a league of one's own;50
 in a lie;20
 in a limo;20
 in a line;40
@@ -47045,6 +47553,7 @@ inner planet;60
 inner planets;60
 inners;30;Inside parts
 Innerspeaker;40;Tame Impala's debut album
+inner turmoil;60
 innervate;30
 innervated;30
 innervates;30
@@ -47080,13 +47589,18 @@ in one ear;40;Partial idiom
 in one fell swoop;60
 in one fluid motion;50
 in one piece;60
+in one's birthday suit;50
 in one's DNA;60
+in one's own right;50
+in one's prime;50
+in one's right mind;50
 in or;20
 inositol;30
 inositols;30
 in OT;40
 in-out;40
 Inouye;40;Hawaii's Daniel Inouye
+in over one's head;60
 inpank;0
 inparis;0
 in pawn;30
@@ -50900,11 +51414,32 @@ keeping in line;50
 keeping in the loop;60
 keeping it in-house;60
 keeping it PG;60
+keeping it under one's hat;50
 keeping kosher;50
 keeping mum;50
 keeping on;40
+keeping one's cards close to one's chest;50
 keeping one's cool;50
+keeping one's distance;50
+keeping one's ears open;50
+keeping one's ear to the ground;50
+keeping one's end up;50
+keeping one's eyes on the prize;50
 keeping one's eyes peeled;60
+keeping one's fingers crossed;50
+keeping one's hands off;50
+keeping one's head;50
+keeping one's head above water;50
+keeping one's head down;50
+keeping one's mouth shut;50
+keeping one's nose to the grindstone;50
+keeping one's options open;50
+keeping one's pants on;50
+keeping one's pecker up;50
+keeping one's powder dry;50
+keeping one's shirt on;50
+keeping one's side of the bargain;50
+keeping one's word;50
 keeping pace;50
 keeping pace with;50
 keeping secret;60
@@ -50921,12 +51456,33 @@ keep it PG;60
 keep it secret;50
 keep it short;60
 keep it to yourself;60
+keep it under one's hat;50
 keep kosher;50
 keep me in the loop;60
 keep mum;50
 keep on;40
+keep one's cards close to one's chest;50
 keep one's cool;50
+keep one's distance;50
+keep one's ears open;50
+keep one's ear to the ground;50
+keep one's end up;50
+keep one's eyes on the prize;50
 keep one's eyes peeled;60
+keep one's fingers crossed;50
+keep one's hands off;50
+keep one's head;50
+keep one's head above water;50
+keep one's head down;50
+keep one's mouth shut;50
+keep one's nose to the grindstone;50
+keep one's options open;50
+keep one's pants on;50
+keep one's pecker up;50
+keep one's powder dry;50
+keep one's shirt on;50
+keep one's side of the bargain;50
+keep one's word;50
 keep-out sign;60
 keep-out signs;60
 keep pace;50
@@ -50946,11 +51502,32 @@ keeps in line;50
 keeps in the loop;60
 keeps it in-house;60
 keeps it PG;60
+keeps it under one's hat;50
 keeps kosher;50
 keeps mum;50
 keeps on;40
+keeps one's cards close to one's chest;50
 keeps one's cool;50
+keeps one's distance;50
+keeps one's ears open;50
+keeps one's ear to the ground;50
+keeps one's end up;50
+keeps one's eyes on the prize;50
 keeps one's eyes peeled;60
+keeps one's fingers crossed;50
+keeps one's hands off;50
+keeps one's head;50
+keeps one's head above water;50
+keeps one's head down;50
+keeps one's mouth shut;50
+keeps one's nose to the grindstone;50
+keeps one's options open;50
+keeps one's pants on;50
+keeps one's pecker up;50
+keeps one's powder dry;50
+keeps one's shirt on;50
+keeps one's side of the bargain;50
+keeps one's word;50
 keeps pace;50
 keeps pace with;50
 keeps secret;60
@@ -51117,11 +51694,32 @@ kept in line;50
 kept in the loop;60
 kept it in-house;60
 kept it PG;60
+kept it under one's hat;50
 kept kosher;50
 kept mum;50
 kept on;40
+kept one's cards close to one's chest;50
 kept one's cool;50
+kept one's distance;50
+kept one's ears open;50
+kept one's ear to the ground;50
+kept one's end up;50
+kept one's eyes on the prize;50
 kept one's eyes peeled;60
+kept one's fingers crossed;50
+kept one's hands off;50
+kept one's head;50
+kept one's head above water;50
+kept one's head down;50
+kept one's mouth shut;50
+kept one's nose to the grindstone;50
+kept one's options open;50
+kept one's pants on;50
+kept one's pecker up;50
+kept one's powder dry;50
+kept one's shirt on;50
+kept one's side of the bargain;50
+kept one's word;50
 kept pace;50
 kept pace with;50
 kept secret;60
@@ -51397,18 +51995,26 @@ kickboxing;50
 kick butt;60
 kicked ass;60
 kicked butt;60
+kicked off one's shoes;50
 kicked oneself;60
+kicked one's heels;50
 kicked out;50
 kicked up one's heels;60
 kicking ass;60
 kicking butt;60
+kicking off one's shoes;50
+kicking one's heels;50
 kicking out;50
 kicking up one's heels;60
+kick off one's shoes;50
 kickoff return;50
 kickoff returns;50
+kick one's heels;50
 kick out;50
 kicks ass;60
 kicks butt;60
+kicks off one's shoes;50
+kicks one's heels;50
 kicks out;50
 kickstart;50
 kickstarted;50
@@ -51473,6 +52079,7 @@ Kilkennycats;40;Proverbially ferocious fighters
 Killam;40;Taran Killam, SNL cast member
 Killarney;40;Town in County Kerry, Ireland
 Killebrew;50;Harmon Killebrew, Hall of Fame slugger
+killed one's darlings;50
 killed time;50
 killer bee;50
 killer bees;50
@@ -51486,9 +52093,12 @@ killer whales;50
 kill fee;50
 kill fees;50
 Killian;40;Irish given name
+killing one's darlings;50
 killing time;50
 Killmonger;50;Erik Killmonger, "Black Panther" villain
+kill one's darlings;50
 kills it;60
+kills one's darlings;50
 kills time;50
 Killswitch Engage;60
 kill time;50
@@ -51873,7 +52483,11 @@ Knesset;40;Israel's legislature
 knew as;40
 knew it by heart;60
 knew of;40
+knew one's onions;50
+knew one's own mind;50
 knew one's shit;10
+knew one's stuff;50
+knew one's way around;50
 knew the score;60
 knew too much;60
 K'Nex;40
@@ -51943,7 +52557,11 @@ knowers;40
 knowing as;40
 knowing it by heart;60
 knowing of;40
+knowing one's onions;50
+knowing one's own mind;50
 knowing one's shit;10
+knowing one's stuff;50
+knowing one's way around;50
 knowing the score;60
 knowing too much;60
 know it by heart;60
@@ -51952,11 +52570,19 @@ Knowles;40;Beyoncé Knowles, singer
 known as;50
 know-nothing;60
 know of;40
+know one's onions;50
+know one's own mind;50
 know one's shit;10
+know one's stuff;50
+know one's way around;50
 knows as;40
 knows it by heart;60
 knows of;40
+knows one's onions;50
+knows one's own mind;50
 knows one's shit;10
+knows one's stuff;50
+knows one's way around;50
 knows the score;60
 knows too much;60
 know the score;60
@@ -52775,6 +53401,7 @@ laid anchor;50
 laid an egg;60
 laid awake;50
 laid claim to;40
+laid down one's arms;50
 laid flat;50
 laid in;40
 laid into;40
@@ -52785,6 +53412,7 @@ Laidlaw;40;???
 laid low;50
 laid odds;50
 laid on;40
+laid one's hands on;50
 laid on the line;60
 laid siege;50
 laid siege to;50
@@ -52954,6 +53582,7 @@ landaus;20;Four-wheeled carriages
 landed at;30
 landed in;40
 landed on;40
+landed on one's feet;50
 landed up;40
 landform;50
 landforms;50
@@ -52965,6 +53594,7 @@ landing at;30
 Landingham;40;Mrs. Landingham, "The West Wing" secretary
 landing in;40
 landing on;40
+landing on one's feet;50
 landing pad;60
 landing pads;60
 landing up;40
@@ -52981,6 +53611,7 @@ Lando Calrissian;60
 Land of Ooo;60;Main setting of "Adventure Time"
 Land of Oz;60
 land on;40
+land on one's feet;50
 Landowska;40;Wanda Landowska, harpsichord reviver
 Land Rover;60
 Land Rovers;60
@@ -52993,6 +53624,7 @@ lands in;40
 landslide victories;60
 landslide victory;60
 lands on;40
+lands on one's feet;50
 Landsteiner;40;Karl Landsteiner, discoverer of blood types
 lands up;40
 land up;40
@@ -53468,11 +54100,19 @@ laugh-a-minute;60
 laugh at;40
 Laugh at Me;40;1965 single by Sonny Bono
 laughed at;40
+laughed one's ass off;50
+laughed one's head off;50
 laughed with;40
 laughing at;40
 laughing gas;60
+laughing one's ass off;50
+laughing one's head off;50
 laughing with;40
+laugh one's ass off;50
+laugh one's head off;50
 laughs at;40
+laughs one's ass off;50
+laughs one's head off;50
 laughs with;40
 Laughton;40;Charles Laughton, star of "Mutiny on the Bounty"
 laugh track;60
@@ -53605,6 +54245,7 @@ lay an egg;60
 lay awake;50
 lay claim to;40
 lay dormant;50
+lay down one's arms;50
 Laye;40;Camara Laye, Guinean novelist
 layered bangs;60
 lay flat;50
@@ -53612,6 +54253,7 @@ lay in;30;Stock up on
 laying anchor;50
 laying an egg;60
 laying claim to;40
+laying down one's arms;50
 laying flat;50
 laying in;30
 laying into;40
@@ -53621,6 +54263,7 @@ laying it on the line;60
 laying low;50
 laying odds;50
 laying on;40
+laying one's hands on;50
 laying on the line;60
 laying siege;50
 laying siege to;50
@@ -53640,11 +54283,13 @@ lay odds;50
 layoff;50
 layoffs;50
 lay on;40
+lay one's hands on;50
 lay on the line;60
 lays anchor;50
 lays an egg;60
 lays awake;50
 lays claim to;40
+lays down one's arms;50
 lays flat;50
 Layshia;30;???
 lay siege;50
@@ -53657,6 +54302,7 @@ lays it on the line;60
 lays low;50
 lays odds;50
 lays on;40
+lays one's hands on;50
 lays on the line;60
 lays siege;50
 lays siege to;50
@@ -53864,13 +54510,16 @@ learning aids;50
 learning curves;60
 learning from;40
 learning from one's mistakes;60
+learning one's lesson;50
 learning to;30
 learning to take a joke;60
 learn of;40
+learn one's lesson;50
 learns about;40
 learns from;40
 learns from one's mistakes;60
 learns of;40
+learns one's lesson;50
 learns to;30
 learns to take a joke;60
 learnt about;40
@@ -54488,6 +55137,8 @@ let at;40
 let back in;40
 letch;10
 letches;10
+let down one's guard;50
+let down one's hair;50
 let 'em;30
 let 'em have it;60
 Let 'Em In;40;1976 Wings song
@@ -54532,6 +55183,9 @@ let nature take its course;60
 let not;20
 Leto;40
 let off;40
+let one's freak flag fly;50
+let one's guard down;50
+let one's hair down;50
 LeToya;40;LeToya Luckett, original Destiny's Child singer
 let rip;50
 let's admit it;60
@@ -54546,6 +55200,8 @@ let's call it a tie;60
 let's call it a wrap;60
 let's do the thing;60
 let's do this;60
+lets down one's guard;50
+lets down one's hair;50
 let's drop it;60
 letsee;20
 letsfree;0
@@ -54585,6 +55241,9 @@ let's not panic;60
 let's not turn it into a whole thing;60
 let's not waste time;60
 lets off;40
+lets one's freak flag fly;50
+lets one's guard down;50
+lets one's hair down;50
 let's party;50
 let's put our heads together;60
 lets rip;50
@@ -54645,12 +55304,17 @@ let this be a lesson;60
 let this be a lesson to you;60
 let this be a lesson to you all;60
 letting back in;40
+letting down one's guard;50
+letting down one's hair;50
 letting in on;40
 letting into;40
 letting it be known;60
 letting it lie;50
 letting nature take its course;60
 letting off;40
+letting one's freak flag fly;50
+letting one's guard down;50
+letting one's hair down;50
 letting rip;50
 letting things play out;60
 letting up on;40
@@ -54864,11 +55528,19 @@ Lichtenberg;40;Georg Christoph Lichtenberg, of the branching electrical figures
 Lichtenstein;50;Roy Lichtenstein, comic-panel pop artist
 lick and a promise;50
 licked one's chops;60
+licked one's lips;50
+licked one's wounds;50
 licker;30
 lickers;30
 licking one's chops;60
+licking one's lips;50
+licking one's wounds;50
 lick one's chops;60
+lick one's lips;50
+lick one's wounds;50
 licks one's chops;60
+licks one's lips;50
+licks one's wounds;50
 lictor;20
 lictors;20
 lid;50
@@ -54904,6 +55576,7 @@ lied for;40
 lied like a cheap rug;60
 lie dormant;50
 lied over;40
+lied through one's teeth;50
 lied to;40
 liefer;20
 lie flat;50
@@ -54935,10 +55608,12 @@ lies like a rug;60
 lies low;50
 lies on;40
 lies over;40
+lies through one's teeth;50
 lies to;40
 lies under;30
 lie test;30;Made up
 lie tests;30
+lie through one's teeth;50
 lie to;40
 Lieutenant Commander Geordi La Forge;50
 lieuts;20
@@ -55020,6 +55695,7 @@ Lightning McQueen;60
 lightning never strikes twice;60
 lightnings;40;Weird plural
 light of my life;60
+light on one's feet;50
 light opera;50
 light operas;50
 light rum;50
@@ -55440,6 +56116,7 @@ listee;20;Person on a list
 listened for;40
 listened in on;40
 listened to;40
+listened to one's heart;50
 listen for;40
 listen here;60
 listen, I just work here;60
@@ -55447,12 +56124,15 @@ listening device;50
 listening for;40
 listening in on;40
 listening to;40
+listening to one's heart;50
 listen in on;40
 listens for;40
 listens in on;40
 listens to;40
+listens to one's heart;50
 listen to;40
 listen to me;60
+listen to one's heart;50
 listen you;60
 Lister;40;Joseph Lister, antiseptic pioneer / Anne Lister, diarist
 Listerine;50;Mouthwash brand
@@ -55558,6 +56238,7 @@ Liv;50
 live-action remake;60
 live-action remakes;60
 live at;40
+live beyond one's means;50
 live by;40
 live by the sword;60
 live by the sword, die by the sword;60
@@ -55567,6 +56248,7 @@ live cams;50
 live coal;50
 live coals;50
 lived at;40
+lived beyond one's means;50
 lived by;40
 live debate;50
 live debates;50
@@ -55577,6 +56259,8 @@ lived high on the hog;60
 lived-in;40
 lived it up;60
 lived on;50
+lived one's life;50
+lived one's truth;50
 lived the high life;60
 lived to;30
 Live Eight;40;Live 8 concert
@@ -55611,6 +56295,7 @@ Liverpool accent;50
 Liverpudlian;50;Native of Liverpool
 Liverpudlians;50;Natives of Liverpool
 lives at;40
+lives beyond one's means;50
 lives by;40
 lives green;50
 lives happily ever after;60
@@ -55619,6 +56304,8 @@ lives high on the hog;60
 lives in;40
 lives it up;60
 lives on;50
+lives one's life;50
+lives one's truth;50
 live sports;50
 livest;30
 lives the high life;60
@@ -55630,6 +56317,7 @@ live updates;60
 Livia;40;Wife of Augustus, or Livia Soprano
 Livin';40;Livin' la Vida Loca
 living at;40
+living beyond one's means;50
 living by;40
 living death;60
 living expenses;50
@@ -55642,6 +56330,8 @@ living in;40
 living it up;60
 living on;50
 living on borrowed time;60
+living one's life;50
+living one's truth;50
 living right;50
 Livingston;40;Jonathan Livingston Seagull / Ron Livingston, actor
 Livingstone;50;David Livingstone, "I presume?" explorer
@@ -56062,6 +56752,7 @@ look after;50
 look after number one;60
 lookalike contest;60
 lookalike contests;60
+look as if one's seen a ghost;50
 look at;40
 look at that;60
 look at you;60
@@ -56080,8 +56771,11 @@ looked for;40
 looked forward;50
 looked forward to;50
 looked into;40
+looked one's age;50
+looked one's best;50
 looked out for;40
 looked out for number one;60
+looked over one's shoulder;50
 looked the fool;50
 looked to;40
 looked up to;50
@@ -56098,6 +56792,7 @@ lookie-loos;60
 looking a fool;50
 looking after;50
 looking after number one;60
+looking as if one's seen a ghost;50
 looking at;40
 looking down on;50
 looking down one's nose;60
@@ -56108,8 +56803,12 @@ looking forward;50
 looking forward to;50
 looking glass;60
 looking into;40
+looking like one's seen a ghost;50
+looking one's age;50
+looking one's best;50
 looking out for;40
 looking out for number one;60
+looking over one's shoulder;50
 looking the fool;50
 looking to;40
 looking up to;50
@@ -56120,13 +56819,16 @@ look Ma, no hands;60
 look ma no hands;0
 look me in the eye;60
 look me in the eye and say that;60
+look one's age;50
 look one's best;50
 look out for;40
 look out for number one;60
 lookout man;60
+look over one's shoulder;50
 looks a fool;50
 looks after;50
 looks after number one;60
+looks as if one's seen a ghost;50
 looks at;40
 looks down on;50
 looks down one's nose;60
@@ -56139,6 +56841,7 @@ looks forward;50
 looks forward to;50
 looks great;60
 looks into;40
+looks like one's seen a ghost;50
 looks like shit;10
 looksmax;60
 looksmaxing;60
@@ -56146,8 +56849,11 @@ looksmaxx;60
 looksmaxxer;60
 looksmaxxers;60
 looksmaxxing;60
+looks one's age;50
+looks one's best;50
 looks out for;40
 looks out for number one;60
+looks over one's shoulder;50
 looks the fool;50
 looks to;40
 looks up to;50
@@ -56277,8 +56983,22 @@ lose it;60
 lose-lose;60
 lose momentum;60
 lose my number;60
+lose one's appetite;50
+lose one's balance;50
+lose one's cool;50
+lose one's grip;50
+lose one's head;50
+lose one's looks;50
 lose one's marbles;60
+lose one's mind;50
+lose one's nerve;50
+lose one's shirt;50
 lose one's shit;10
+lose one's temper;50
+lose one's touch;50
+lose one's virginity;50
+lose one's voice;50
+lose one's way;50
 lose out on;40
 lose out to;40
 Loser Smurf;60
@@ -56290,8 +57010,22 @@ loses at;40
 loses face;50
 loses it;60
 loses momentum;60
+loses one's appetite;50
+loses one's balance;50
+loses one's cool;50
+loses one's grip;50
+loses one's head;50
+loses one's looks;50
 loses one's marbles;60
+loses one's mind;50
+loses one's nerve;50
+loses one's shirt;50
 loses one's shit;10
+loses one's temper;50
+loses one's touch;50
+loses one's virginity;50
+loses one's voice;50
+loses one's way;50
 loses out on;40
 loses out to;40
 loses steam;60
@@ -56314,8 +57048,22 @@ losing battles;60
 losing face;50
 losing it;60
 losing momentum;60
+losing one's appetite;50
+losing one's balance;50
+losing one's cool;50
+losing one's grip;50
+losing one's head;50
+losing one's looks;50
 losing one's marbles;60
+losing one's mind;50
+losing one's nerve;50
+losing one's shirt;50
 losing one's shit;10
+losing one's temper;50
+losing one's touch;50
+losing one's virginity;50
+losing one's voice;50
+losing one's way;50
 losing out on;40
 losing out to;40
 losing steam;60
@@ -56346,9 +57094,23 @@ lost it;50
 lost lamb;50
 lost momentum;60
 lost my touch;20
+lost one's appetite;50
+lost one's balance;50
+lost one's cool;50
 lost one's footing;50
+lost one's grip;50
+lost one's head;50
+lost one's looks;50
 lost one's marbles;60
+lost one's mind;50
+lost one's nerve;50
+lost one's shirt;50
 lost one's shit;10
+lost one's temper;50
+lost one's touch;50
+lost one's virginity;50
+lost one's voice;50
+lost one's way;50
 lost out on;40
 lost out to;40
 Lostprophets;40;Welsh rock band
@@ -56491,6 +57253,7 @@ love nests;60
 love note;60
 love notes;60
 love of money;60
+love of one's life;50
 love on;40;To show affection to
 love on the inside;60
 love potion;60
@@ -56573,7 +57336,15 @@ lower-class households;50
 lower cost;50
 lower court;50
 lower courts;50
+lowered one's guard;50
+lowered one's voice;50
+lowering one's guard;50
+lowering one's voice;50
 lower jaw;50
+lower one's guard;50
+lower one's voice;50
+lowers one's guard;50
+lowers one's voice;50
 Lowery;30;Gloomy
 Lowe's;50;Home improvement chain
 Lowestoft;40;Easternmost town in England
@@ -57083,6 +57854,7 @@ lying low;50
 lying on;40
 lying over;40
 lyings;20
+lying through one's teeth;50
 lying to;40
 Lykke;40;Lykke Li, Swedish singer
 Lyle;40;Lyle Lovett, singer / "Lyle, Lyle, Crocodile"
@@ -57400,9 +58172,13 @@ made noises;50
 made of;40
 made off;30
 madeofhonor;0
+made one's bed;50
+made one's bed and lay in it;50
 made oneself miserable;50
 made one's mark;60
 made one's mind up;60
+made one's presence felt;50
+made one's way;50
 made plans;50
 made possible by viewers like you;60
 made proud;50
@@ -57856,9 +58632,13 @@ make me understand;60
 make nice;60
 make noises;50
 make off;30
+make one's bed;50
+make one's bed and lie in it;50
 make oneself miserable;50
 make one's mark;60
 make one's mind up;60
+make one's presence felt;50
+make one's way;50
 makeover montage;60
 makeover montages;60
 make plans;50
@@ -57919,9 +58699,13 @@ makes nice;60
 makes noises;50
 makes of;20;???
 makes off;30
+makes one's bed;50
+makes one's bed and lies in it;50
 makes oneself miserable;50
 makes one's mark;60
 makes one's mind up;60
+makes one's presence felt;50
+makes one's way;50
 makes plans;50
 makes proud;50
 makes room;50
@@ -58014,9 +58798,13 @@ making matters worse;60
 making nice;60
 making noises;50
 making off;40
+making one's bed;50
+making one's bed and lying in it;50
 making oneself miserable;50
 making one's mark;60
 making one's mind up;60
+making one's presence felt;50
+making one's way;50
 making plans;50
 making proud;50
 making room;50
@@ -60013,16 +60801,22 @@ meeting links;50
 meeting of minds;60
 meeting of the minds;60
 meeting one's maker;60
+meeting one's match;50
+meeting one's Waterloo;50
 meeting payroll;50
 meeting with;40
 meetly;20;Fittingly
 meet me;20
 meet me halfway;60
 meet one's maker;60
+meet one's match;50
+meet one's Waterloo;50
 meet payroll;50
 meets at;40
 meets head on;60
 meets one's maker;60
+meets one's match;50
+meets one's Waterloo;50
 meets payroll;50
 meets with;40
 meet with;40
@@ -60274,6 +61068,7 @@ Menards;40;Midwest home improvement chain
 Menchu;40;Rigoberta Menchú, 1992 Nobel Peace laureate
 Mencius;40;Confucian philosopher
 Mencken;40;H.L. Mencken, the Sage of Baltimore
+mended one's ways;50
 Mendel;50;Gregor Mendel, father of genetics
 Mendeleev;50;Dmitri Mendeleev, periodic table creator
 Mendelian;50;Of inherited traits, per the pea-plant monk
@@ -60284,10 +61079,13 @@ menders;40
 Mendes;50;Eva Mendes, actress / Sam Mendes, director / Shawn Mendes, singer
 Mendez;40;Sylvia Mendez, school desegregation pioneer
 Mendieta;40;Ana Mendieta, Cuban American performance artist
+mending one's ways;50
 mendings;40;Weird plural
 Mendler;40;Bridgit Mendler, actress and singer
 Mendocino;40;California coastal county
+mend one's ways;50
 Mendoza;40;Mendoza line of baseball futility / Jason Mendoza of "The Good Place"
+mends one's ways;50
 Menelaus;30
 Menelik;40;Menelik II, Ethiopian emperor
 menemen;30
@@ -60604,6 +61402,8 @@ me time;60
 Metis;20;Aboriginal people of Canada
 MetLife;40;Insurance giant with a namesake stadium
 met one's maker;60
+met one's match;50
+met one's Waterloo;50
 metonym;40
 metonymic;40
 metonymies;40
@@ -61098,16 +61898,24 @@ minced words;60
 minces no words;60
 Minchin;40;Tim Minchin, comedian and "Matilda the Musical" composer
 Mindanao;40;Second largest island in the Philippines
+minded one's manners;50
+minded one's own business;50
 minded one's P's and Q's;60
 mind eraser;50;Drink
 Minderbinder;50;Milo Minderbinder, "Catch-22" profiteer
 Mindhunter;50;Netflix serial-killer series
+minding one's manners;50
+minding one's own business;50
 minding one's P's and Q's;60
 mind-killer;60;Fear, in "Dune"
 Mind of Mencia;50
+mind one's manners;50
+mind one's own business;50
 mind one's P's and Q's;60
 mind palace;60
 mind palaces;60
+minds one's manners;50
+minds one's own business;50
 minds one's P's and Q's;60
 Mindstorms;40;Lego robotics line
 Mindy;50;Mindy Kaling, comedian and "The Office" writer
@@ -61418,6 +62226,7 @@ Miss Daisy;50
 missed a cue;40
 missed exam;20
 missed me;60
+missed one's calling;50
 missed the bus;50
 missed the target;50
 Miss Egypt;50
@@ -61425,6 +62234,7 @@ Miss Ellie;40;"Dallas" character
 missend;40
 missent;40
 misses a cue;40
+misses one's calling;50
 misses the bus;50
 misses the target;50
 Miss Firecracker;50
@@ -61434,6 +62244,7 @@ missile silo;50
 missile silos;50
 missing a cue;40
 MissingNo;50;Glitch Pokemon
+missing one's calling;50
 missing piece;50
 missing pieces;50
 missing the bus;50
@@ -61454,6 +62265,7 @@ Miss Marple;60
 miss me;60
 Miss Mississippi;60
 Missolonghi;40;Greek town where Byron died
+miss one's calling;50
 Miss Otis;40;Cole Porter song "Miss Otis Regrets"??
 Missoula;40;Montana college town
 Missoula Montana;30
@@ -61816,8 +62628,8 @@ moi;50
 moieties;20;Parts or portions
 moiety;20;Part or portion
 moil;40;Work hard, archaic
-moiled;30
-moiling;30
+moiled;40
+moiling;40
 moils;40
 moi moi;40;Nigerian bean pudding
 Moines;40
@@ -62007,6 +62819,7 @@ Monkee;40;Davy Jones, e.g.
 Monkees;50;"Daydream Believer" band
 monkey bread;60
 monkey mind;60
+monkey on one's back;50
 monkey paw;60
 monkey's paw;60
 monkey stick;60;Percussion instrument
@@ -67113,6 +67926,8 @@ off-leash dog park;50
 off-leash dog parks;50
 off-off-Broadway show;60
 off-off-Broadway shows;60
+off one's game;50
+off one's guard;50
 Offred;50;"The Handmaid's Tale" narrator
 offroad bike;60
 offroad bikes;60
@@ -67129,6 +67944,7 @@ offstream;50
 off-target;50
 off the beaten path;60
 off the hip;60;Off the cuff
+off the top of one's head;50
 off to a great start;60
 off to a late start;60
 off-tone;40;Off-key, dissonant
@@ -67137,6 +67953,7 @@ ofiwo;20
 O'Flaherty;40;Liam O'Flaherty, Irish novelist
 ofo;20
 of old;50
+of one's own accord;50
 ofrenda;30;Día de los Muertos offering
 ofrendas;30;Día de los Muertos offerings
 of sound mind;60
@@ -68188,8 +69005,17 @@ on on;20
 Onondaga;40;New York tribe / county
 on one;40;Quick football snap
 on one knee;50
+on one's conscience;50
+on one's feet;50
 on one's high horse;60
 on one's mind;50
+on one's own;50
+on one's own initiative;50
+on one's own time;50
+on one's person;50
+on one's plate;50
+on one's radar;50
+on one's way;50
 on or;20
 onos;20
 On Our Own;40;One-season '90s sitcom
@@ -68227,6 +69053,7 @@ on the bottle;30
 on the company dime;60
 on the count of three;60
 on the dance floor;50
+on the edge of one's seat;50
 on the fence;60
 on the hairy edge;60
 on the hairy edge of;60
@@ -68250,6 +69077,7 @@ on the ropes;60
 on the run;50
 on the spectrum;60
 on the struggle bus;60
+on the tip of one's tongue;50
 on the town;50
 on the warpath;60
 on thin ice;60
@@ -68403,6 +69231,7 @@ opened in;40
 opened in on;40
 opened into;40
 opened on;40
+opened one's eyes;50
 opened Pandora's box;60
 opened up to;40
 open-end;40;Like a fund or loan that can be added to
@@ -68426,6 +69255,7 @@ opening monologues;60
 opening number;50
 opening numbers;50
 opening on;40
+opening one's eyes;50
 opening Pandora's box;60
 opening up to;40
 open in new tab;60
@@ -68459,6 +69289,7 @@ open note exams;60
 open note test;60
 open note tests;60
 open on;40
+open one's eyes;50
 open onto;40
 open other end;50
 open other side;50
@@ -68472,6 +69303,7 @@ open since;50
 opens in on;40
 opens into;40
 opens on;40
+opens one's eyes;50
 open source;50
 open-source software;50
 opens Pandora's box;60
@@ -69276,13 +70108,20 @@ out of love;50
 out of mind;50
 out of nothing;50
 out of obligation;50
+out of one's depth;50
+out of one's element;50
 out of one's hands;50
+out of one's head;50
+out of one's league;50
 out of one's mind;60
+out of one's own pocket;50
+out of one's senses;50
 out of our hands;20
 out of school;50
 outofseas;0
 out of season;60
 out of the cold;50
+out of the corner of one's eye;50
 out of the frying pan;50
 out of the house;50
 out of thin air;50
@@ -69322,6 +70161,10 @@ outspeaks;30
 outspoke;30
 outspoken;50
 outstanding work;60
+outstayed one's welcome;50
+outstaying one's welcome;50
+outstay one's welcome;50
+outstays one's welcome;50
 outtake;60
 outtakes;60
 outtalk;30
@@ -69416,9 +70259,14 @@ overlying;50
 overman;30
 overnight bags;50
 over one's dead body;50
+over one's head;50
 over par;50
 overperforming;50
 overpessimistic;50
+overplayed one's hand;50
+overplaying one's hand;50
+overplay one's hand;50
+overplays one's hand;50
 overpromise;60
 overpromise and underdeliver;60
 overpromise, underdeliver;60
@@ -69438,6 +70286,10 @@ overseer;50
 overseers;50
 oversees;50
 oversight;50
+overstayed one's welcome;50
+overstaying one's welcome;50
+overstay one's welcome;50
+overstays one's welcome;50
 Overstreet;40;Chord Overstreet, actor on "Glee"
 overstuffed chair;60
 overstuffed chairs;60
@@ -69661,18 +70513,22 @@ package;50
 Packard;40;Defunct luxury car brand / Josie Packard of "Twin Peaks"
 packed in;40
 packed in it;40;British
+packed one's bags;50
 Packer;50;Green Bay football player
 packer;40
 pack in;40
 packing in;40
 packing in it;40;British
+packing one's bags;50
 pack in it;40;British
+pack one's bags;50
 pack rat;50
 pack rats;50
 packrinkscraper;0
 packs in;40
 packs in it;40;British
 packs of lies;60
+packs one's bags;50
 pack your bags;60
 pack your stuff;60
 pack your things;60
@@ -69698,8 +70554,12 @@ padder;40
 padders;40
 paddings;40;Weird plural
 Paddington;50;Marmalade-loving bear
+paddled one's own canoe;50
+paddle one's own canoe;50
+paddles one's own canoe;50
 paddle wheel;50
 paddle wheels;50
+paddling one's own canoe;50
 paddy wagon;60
 paddy wagons;60
 Paderewski;50;Ignacy Jan Paderewski, pianist and Polish premier
@@ -69763,6 +70623,8 @@ paid in;40
 paid into;40
 paid one's dues;60
 paid one's fair share;50
+paid one's respects;50
+paid one's way;50
 paid retail;50
 paid the price;60
 paid the tab;50
@@ -70628,6 +71490,7 @@ past lives;50
 past me;50
 past one's bedtime;60
 past one's best;50
+past one's prime;50
 Pastoralia;40;George Saunders story collection
 pastorate;40
 pastorates;40
@@ -70853,6 +71716,8 @@ paying in;40
 paying into;40
 paying one's dues;60
 paying one's fair share;50
+paying one's respects;50
+paying one's way;50
 paying retail;50
 paying the price;60
 paying the tab;50
@@ -70866,6 +71731,8 @@ paynim;20;Heathen, archaic
 paynims;20;Heathens, archaic
 pay one's dues;60
 pay one's fair share;50
+pay one's respects;50
+pay one's way;50
 pay or play;60
 PayPal;50;Online payment service
 pay-per-view;50
@@ -70878,6 +71745,8 @@ pays into;40
 Payson;20;???
 pays one's dues;60
 pays one's fair share;50
+pays one's respects;50
+pays one's way;50
 pays retail;50
 pays the price;60
 pays the tab;50
@@ -72154,6 +73023,8 @@ pick at;40
 picked an it;50
 picked apart;50
 picked at;40
+picked one's battles;50
+picked one's nose;50
 picked teams;50
 picked up on;50
 picked up the bill;40
@@ -72167,6 +73038,8 @@ Pickford;50;Mary Pickford, silent film star
 picking an it;50
 picking apart;50
 picking at;40
+picking one's battles;50
+picking one's nose;50
 picking teams;50
 picking up on;50
 picking up the bill;40
@@ -72181,6 +73054,8 @@ pickle juice;60
 Picklesburgh;50;Pittsburgh pickle festival
 pickle spear;60
 pickle spears;60
+pick one's battles;50
+pick one's nose;50
 pickpocket;50
 pickpocketed;50
 pickpocketing;50
@@ -72189,6 +73064,8 @@ picks and shovels;50
 picks an it;50
 picks apart;50
 picks at;40
+picks one's battles;50
+picks one's nose;50
 picks teams;50
 picks up on;50
 picks up the bill;40
@@ -72797,6 +73674,7 @@ plaguey;30;Troublesome
 plaguily;30;Annoyingly
 plaguy;20;Variant of plaguey
 plaice;30;Fish
+plain as the nose on one's face;50
 plain bagel;60
 plain bagels;60
 Plaines;40
@@ -72982,10 +73860,13 @@ played golf;50
 played it smart;60
 played nice;60
 played on;40
+played one's cards right;50
 played second fiddle;60
 played the clown;60
+played the hand one's dealt;50
 played the slots;60
 played to;40
+played to one's strengths;50
 played to the balcony;60
 played to the camera;60
 played to the cheap seats;60
@@ -73017,10 +73898,13 @@ playing golf;50
 playing it smart;60
 playing nice;60
 playing on;40
+playing one's cards right;50
 playing second fiddle;60
 playing the clown;60
+playing the hand one's dealt;50
 playing the slots;60
 playing to;40
+playing to one's strengths;50
 playing to the balcony;60
 playing to the camera;60
 playing to the cheap seats;60
@@ -73035,6 +73919,7 @@ play mats;50
 Playmobil;40;German toy figure brand
 play nice;60
 play on;40
+play one's cards right;50
 plays a gig;40
 plays a role;60
 plays at;40
@@ -73050,6 +73935,7 @@ plays it smart;60
 Playskool;40;Preschool toy brand
 plays nice;60
 plays on;40
+plays one's cards right;50
 plays second fiddle;60
 PlayStation;60
 PlayStation game;60
@@ -73057,8 +73943,10 @@ PlayStation games;60
 PlayStation Portable;60
 PlayStations;60
 plays the clown;60
+plays the hand one's dealt;50
 plays the slots;60
 plays to;40
+plays to one's strengths;50
 plays to the balcony;60
 plays to the camera;60
 plays to the cheap seats;60
@@ -73081,8 +73969,10 @@ Playtex bras;50
 Play That Funky Music;60
 play that funky music white boy;60
 play the clown;60
+play the hand one's dealt;50
 play the slots;60
 play to;40
+play to one's strengths;50
 play to the balcony;60
 play to the camera;60
 play to the cheap seats;60
@@ -73175,6 +74065,10 @@ plica;20;Band of tissue
 plicae;20;Bands of tissue
 plicate;20;Folded (biology/geology)
 plication;20
+plied one's trade;50
+plied one's wares;50
+plies one's trade;50
+plies one's wares;50
 Plimpton;40;Writer/actor George Plimpton, or actress Martha Plimpton
 Plinko;50;"The Price Is Right" chip-dropping game
 Pliny;50;Pliny the Elder or the Younger, Roman writers
@@ -73290,7 +74184,11 @@ plutons;40
 plutos;20
 Pluto TV;50;Free ad-supported streaming service
 ply;50
+plying one's trade;50
+plying one's wares;50
 Plymouth;50;Pilgrims' landing place
+ply one's trade;50
+ply one's wares;50
 plz;40
 Plzen;30;Czech city, home of pilsner
 PM;40
@@ -73454,11 +74352,13 @@ Pokedexes;40;Pokémon encyclopedias
 poked fun at;50
 poked holes in;50
 poked into;40
+poked one's nose into;50
 poked the bear;60
 poke fun at;50
 poke holes in;50
 poke into;40
 Pokemon;60
+poke one's nose into;50
 Pokerap;40;Pokémon song listing all 151
 poker bets;20
 poker game;50
@@ -73474,6 +74374,7 @@ pokes at;40
 pokes fun at;50
 pokes holes in;50
 pokes into;40
+pokes one's nose into;50
 pokes the bear;60
 Pokey;50;Gumby's horse / the hokey pokey
 Pokimane;40;Imane Anys, Twitch streamer
@@ -73483,6 +74384,7 @@ poking at;40
 poking fun at;50
 poking holes in;50
 poking into;40
+poking one's nose into;50
 pol;40
 Pola;20
 Polachek;40;Caroline Polachek, art-pop singer
@@ -74581,10 +75483,13 @@ press clubs;50
 press corps;60
 press coverage;60
 pressed ham;50
+pressed one's luck;50
+presses one's luck;50
 press event;60
 press events;60
 press F;20
 press F to pay respects;60
+pressing one's luck;50
 press junket;60
 press junkets;60
 press kit;50
@@ -74593,6 +75498,7 @@ Pressley;40;Ayanna Pressley, Massachusetts congresswoman
 Pressly;40;Jaime Pressly, "My Name Is Earl" actress
 pressman;40;Journalist or printing press operator
 pressmen;40
+press one's luck;50
 press-on nail;50
 press-on nails;50
 press-ons;50
@@ -74687,11 +75593,15 @@ price points;50
 price war;50
 price wars;50
 PricewaterhouseCoopers;50;Big Four accounting firm
+pricked up one's ears;50
 pricker;30
 pricket;20
 prickets;20
+pricking up one's ears;50
 prickly pear;60
 prickly pears;60
+pricks up one's ears;50
+prick up one's ears;50
 pride flag;60
 pride flags;60
 pride goes before a fall;60
@@ -75121,14 +76031,18 @@ Proust;50;Marcel Proust, "In Search of Lost Time" author
 Proustian;50;Evocative in the way of involuntary memory
 prov;40;Province
 proved a point;60
+proved one's love;50
 Provencal;40;Language of southern France (Provençal)
 Provence;40;Southern French region
+prove one's love;50
 prover;40
 provers;40
 proves a point;60
+proves one's love;50
 Provigil;40;Medication
 Provincetown;50;Cape Cod resort town
 proving a point;60
+proving one's love;50
 Provo;50;Home of Brigham Young University
 Provo, UT;30;Provo, UT
 Provo Utah;50
@@ -75387,6 +76301,8 @@ pulled at;40
 pulled a uey;50
 pulled on;40
 pulled one's punches;60
+pulled one's socks up;50
+pulled one's weight;50
 pulled out all the stops;60
 pulled out by the roots;50
 pulled out of;40
@@ -75396,12 +76312,15 @@ pulled rank;60
 pulled rank on;60
 pulled the goalie;60
 pulled up by the roots;50
+pulled up one's socks;50
 pulled up stakes;60
 pulling a rabbit out of a hat;60
 pulling at;40
 pulling a uey;50
 pulling on;40
 pulling one's punches;60
+pulling one's socks up;50
+pulling one's weight;50
 pulling out all the stops;60
 pulling out by the roots;50
 pulling out of;40
@@ -75409,11 +76328,14 @@ pulling rank;60
 pulling rank on;60
 pulling the goalie;60
 pulling up by the roots;50
+pulling up one's socks;50
 pulling up stakes;60
 Pullman;50;Philip Pullman, author / the railroad sleeper car
 Pullmans;20;???
 pull on;40
 pull one's punches;60
+pull one's socks up;50
+pull one's weight;50
 pull out all the stops;60
 pull out by the roots;50
 pull out of;40
@@ -75430,6 +76352,8 @@ pulls at;40
 pulls a uey;50
 pulls on;40
 pulls one's punches;60
+pulls one's socks up;50
+pulls one's weight;50
 pulls out all the stops;60
 pulls out by the roots;50
 pulls out of;40
@@ -75437,9 +76361,11 @@ pulls rank;60
 pulls rank on;60
 pulls the goalie;60
 pulls up by the roots;50
+pulls up one's socks;50
 pulls up stakes;60
 pull the goalie;60
 pull up by the roots;50
+pull up one's socks;50
 pull up stakes;60
 pull yourself together;60
 pulp fiction;60
@@ -75463,15 +76389,23 @@ pumpkin patches;50
 pumpkin spice;50
 pumps iron;50
 pun;50
+punch above one's weight;50
+punch below one's weight;50
 punch buggies;60
 punch buggy;60
 punch buggy, no punch-backs;60
 punch card;50
 punch cards;50
+punched above one's weight;50
+punched below one's weight;50
 punched out early;60
+punches above one's weight;50
+punches below one's weight;50
 punches out early;60
 Punchinello;50;Commedia dell'arte clown
+punching above one's weight;50
 punching bag;50
+punching below one's weight;50
 punching out early;60
 punch list;50
 punch lists;50
@@ -75589,16 +76523,20 @@ push bikes;50
 push day;50
 push days;50
 pushed it to the limit;60
+pushed one's luck;50
 Pusheen;40;Chubby cartoon cat
 pushes it to the limit;60
+pushes one's luck;50
 pushful;40;Self-assertive, pushy
 pushing it to the limit;60
+pushing one's luck;50
 push it to the limit;60
 Pushkin;50;Alexander Pushkin, Russian poet
 push mower;50
 push mowers;50
 push notification;60
 push notifications;60
+push one's luck;50
 Pushover Smurf;60
 push pop;50
 push pops;50
@@ -75627,6 +76565,7 @@ put a curse on;50
 put a hat on a hat;60;Comedy mistake (something unnecessary)
 put a hex on;50
 put a lid on it;60
+put all one's eggs in one basket;50
 put a pin in it;60
 put butts in seats;60
 put by;40;???
@@ -75646,6 +76585,7 @@ put down to timing;60
 put down to youth;60
 put down your pens;60
 Puth;40;Charlie Puth, pop singer
+put hair on one's chest;50
 put in a good word for;50
 put into;40
 put into action;50
@@ -75666,12 +76606,21 @@ Putnam;40
 put on a brave face;60
 put one out of one's misery;60
 put one over on;50
+put one's back into;50
 put one's feet up;50
 put one's finger on;60
+put one's foot down;50
+put one's foot in it;50
+put one's foot in one's mouth;50
+put one's hands together;50
 put one's house in order;60
 put one's mind to;50
+put one's money where one's mouth is;50
 put one's name in;50
+put one's shoulder to the wheel;50
+put one's thinking cap on;50
 put on ice;60
+put on one's thinking cap;50
 put on the line;60
 put onto;40
 put on your big boy pants;60
@@ -75688,10 +76637,12 @@ puts a curse on;50
 puts a hat on a hat;60;Comedy mistake (something unnecessary)
 puts a hex on;50
 puts a lid on it;50
+puts all one's eggs in one basket;50
 puts butts in seats;60
 puts down in words;50
 puts down in writing;50
 puts down on paper;50
+puts hair on one's chest;50
 puts in;40
 puts in a good word for;50
 puts into;40
@@ -75704,12 +76655,21 @@ puts lipstick on a pig;60
 puts on a brave face;60
 puts one out of one's misery;60
 puts one over on;50
+puts one's back into;50
 puts one's feet up;50
 puts one's finger on;60
+puts one's foot down;50
+puts one's foot in it;50
+puts one's foot in one's mouth;50
+puts one's hands together;50
 puts one's house in order;60
 puts one's mind to;50
+puts one's money where one's mouth is;50
 puts one's name in;50
+puts one's shoulder to the wheel;50
+puts one's thinking cap on;50
 puts on ice;60
+puts on one's thinking cap;50
 puts on the line;60
 puts out of one's misery;60
 puts paid to;40
@@ -75719,6 +76679,7 @@ puts the pedal to the metal;60
 puts the pieces together;60
 puts to;40
 puts under;50
+puts up one's dukes;50
 puttee;30;Legwrap
 puttees;30
 puttering around;60
@@ -75731,10 +76692,12 @@ putting a brave face on;60
 putting a curse on;50
 putting a hat on a hat;60;Comedy mistake (something unnecessary)
 putting a hex on;50
+putting all one's eggs in one basket;50
 putting butts in seats;60
 putting down in words;50
 putting down in writing;50
 putting down on paper;50
+putting hair on one's chest;50
 putting in a good word for;50
 putting into;40
 putting into action;50
@@ -75747,11 +76710,21 @@ putting lipstick on a pig;60
 putting on a brave face;60
 putting one out of one's misery;60
 putting one over on;50
+putting one's back into;50
 putting one's feet up;50
+putting one's finger on;50
+putting one's foot down;50
+putting one's foot in it;50
+putting one's foot in one's mouth;50
+putting one's hands together;50
 putting one's house in order;60
 putting one's mind to;50
+putting one's money where one's mouth is;50
 putting one's name in;50
+putting one's shoulder to the wheel;50
+putting one's thinking cap on;50
 putting on ice;60
+putting on one's thinking cap;50
 putting on the line;60
 putting out of one's misery;60
 putting paid to;40
@@ -75759,14 +76732,17 @@ putting the finisher on;60
 putting the pedal to the metal;60
 putting the pieces together;60
 putting to;40
+putting up one's dukes;50
 put to;40
 putt-putt;60
 putt-putted;60
 putt-putting;60
 putt-putts;60
+putty in one's hands;50
 put under;50
 put-up job;60
 put-up jobs;60
+put up one's dukes;50
 put up or shut up;60
 put your big boy pants on;60
 put your big girl panties on;60
@@ -75934,13 +76910,17 @@ quail hunts;50
 quailing at;40
 quails at;40
 quaked in one's boots;60
+quaked in one's shoes;50
 quake in one's boots;60
+quake in one's shoes;50
 Quaker;50;Member of the Society of Friends
 Quakerism;40;Faith of the Society of Friends
 Quaker Oatmeal;50
 Quakers;50;Society of Friends
 quakes in one's boots;60
+quakes in one's shoes;50
 quaking in one's boots;60
+quaking in one's shoes;50
 Qualcomm;50
 quality of life;50
 Qualley;50;Actress Margaret Qualley
@@ -76131,6 +77111,9 @@ quite so;60
 quite sure;50
 QuitGPT;40;???
 Quito;50;Capital of Ecuador
+quits while one's ahead;50
+quitting while one's ahead;50
+quit while one's ahead;50
 quit yapping;60
 quit your bellyaching;60
 quit your yapping;60
@@ -76273,8 +77256,12 @@ racino;40;Racetrack/casino
 racinos;50;Racetrack/casinos
 racist;30
 racists;30
+racked one's brain;50
 racker;30
 rackers;30
+racking one's brain;50
+rack one's brain;50
+racks one's brain;50
 racoon;20
 racoons;20
 rad;50
@@ -76540,7 +77527,9 @@ raised eyebrow;50
 raised havoc;60
 raised hell;60
 raised one's hackles;60
-raised one's hat;40
+raised one's hand;50
+raised one's hat;50
+raised one's voice;50
 raised red flags;60
 raised the curtain;50
 raised the roof;50
@@ -76549,7 +77538,9 @@ raised the subject of;50
 raise havoc;60
 raise hell;60
 raise one's hackles;60
-raise one's hat;40
+raise one's hand;50
+raise one's hat;50
+raise one's voice;50
 raiser;40
 raise red flags;60
 raisers;40
@@ -76562,7 +77553,9 @@ raises havoc;60
 raise sheep;50
 raises hell;60
 raises one's hackles;60
-raises one's hat;40
+raises one's hand;50
+raises one's hat;50
+raises one's voice;50
 raises red flags;60
 raises the curtain;50
 raises the roof;50
@@ -76586,7 +77579,9 @@ raising awareness of;50
 raising havoc;60
 raising hell;60
 raising one's hackles;60
-raising one's hat;40
+raising one's hand;50
+raising one's hat;50
+raising one's voice;50
 raising red flags;60
 raising the curtain;50
 raising the roof;50
@@ -76771,6 +77766,7 @@ ran for;40
 ran for Congress;60
 ran for home;40
 ran for it;60
+ran for one's life;50
 rang a bell;60
 ran game on;60
 rang around;40;Called around
@@ -77248,12 +78244,14 @@ reached for;40
 reached for the stars;60
 reached in;40
 reached into;40
+reached one's limit;50
 Reacher;50;Jack Reacher, Lee Child's drifter hero
 reaches for;40
 reaches for the stars;60
 reaches in;40
 reaches into;40
 reaches legal age;50
+reaches one's limit;50
 reach for;40
 reach for the stars;60
 reach in;40
@@ -77261,7 +78259,9 @@ reaching for;40
 reaching for the stars;60
 reaching in;40
 reaching into;40
+reaching one's limit;50
 reach into;40
+reach one's limit;50
 reacted to;40
 reacting to;40
 reaction GIF;60
@@ -77830,6 +78830,10 @@ redosed;20
 redoses;20
 red-osier;30;Type of dogwood tree
 redosing;20
+redoubled one's efforts;50
+redouble one's efforts;50
+redoubles one's efforts;50
+redoubling one's efforts;50
 redox;40;Oxidation-reduction reaction
 red panda;60
 red panda cub;50
@@ -78802,12 +79806,16 @@ rest day;60
 rest days;60
 rest easy;50
 rested on;40
+rested on one's laurels;50
+rested on one's oars;50
 rested upon;40
 restep;20
 rester;30
 resters;30
 resteth;40
 resting on;40
+resting on one's laurels;50
+resting on one's oars;50
 resting place;50
 resting places;50
 resting upon;40
@@ -78817,12 +79825,14 @@ restirred;30
 restirring;30
 restirs;30
 restless feeling;50
+rest on one's laurels;50
 rest on one's oars;50
 Restorationism;40;Movement to restore the early Christian church
 Restorationist;40;Member of a Christian restoration movement
 Restorationists;40;Adherents of Restorationism
 restrip;20
 rests on;40
+rests on one's laurels;50
 rests on one's oars;50
 rests upon;40
 rest upon;40
@@ -78979,6 +79989,10 @@ retow;20
 retowed;20
 retowing;20
 retows;20
+retraced one's steps;50
+retrace one's steps;50
+retraces one's steps;50
+retracing one's steps;50
 retractor;30
 retractors;30
 retrade;20
@@ -79548,6 +80562,8 @@ right quick;60
 right smart;60
 right to bare arms;60
 right to bear arms;60
+right under one's nose;50
+right up one's alley;50
 right-wing group;50
 right-wing groups;50
 right-wing parties;50
@@ -79783,12 +80799,20 @@ rising to the top;50
 risk assessment;50
 risk assessment matrix;50
 risked it all;60
+risked one's life;50
+risked one's neck;50
 risking it all;60
+risking one's life;50
+risking one's neck;50
 risk inventory;50;Risk management log
 risk it all;60
 risk management;50
+risk one's life;50
+risk one's neck;50
 risk register;50;Risk management log
 risks it all;60
+risks one's life;50
+risks one's neck;50
 risk-taker;50
 risk-takers;50
 Risky Business;60
@@ -80237,10 +81261,12 @@ rolled by;40
 rolled into;40
 rolled on;40
 rolled one's eyes;50
+rolled one's own;50
 rolled over an IRA;20
 rolled R;50
 rolled R's;50
 rolled up into a ball;30
+rolled up one's sleeves;50
 rolled up to;40
 roller bearing;30
 roller coaster;60
@@ -80262,11 +81288,13 @@ rolling by;40
 rolling into;40
 rolling on;40
 rolling one's eyes;50
+rolling one's own;50
 rolling pin;50
 rolling pins;50
 rollings;30;Weird plural
 rolling sea;50
 rolling up into a ball;30
+rolling up one's sleeves;50
 rolling up to;40
 Rollins;50;Various: Sonny Rollins, Henry Rollins, Seth Rollins
 roll into;40
@@ -80274,6 +81302,7 @@ Rollo;40;"Nancy" character
 roll of tape;50
 roll-on;50;Roll-on deodorant
 roll one's eyes;50
+roll one's own;50
 roll over a CD;30;Green paint
 roll over and play dead;60
 roll over an IRA;30;Green paint
@@ -80283,11 +81312,14 @@ rolls into;40
 rolls of tape;50
 rolls on;40
 rolls one's eyes;50
+rolls one's own;50
 Rolls-Royce;50
 Rolls-Royces;50
 rolls up into a ball;30
+rolls up one's sleeves;50
 rolls up to;40
 roll up into a ball;30
+roll up one's sleeves;50
 roll up to;40
 Rolo;40;Caramel candy brand
 Rolodex;50;Desktop contact file
@@ -80442,6 +81474,7 @@ roof antenna;50
 roof antennae;50
 roof antennas;50
 Roofman;40;Jeffrey Manchester, McDonald's roof burglar, and the film about him
+roof over one's head;50
 rooftop;50
 rooftop bar;50
 rooftop bars;50
@@ -81067,6 +82100,7 @@ run for;40
 run for Congress;60
 run for home;40
 run for it;60
+run for one's life;50
 run game on;60
 Rungano;30;Rungano Nyoni, Zambian-Welsh director
 Rungano Nyoni;40;Zambian-Welsh filmmaker
@@ -81103,6 +82137,7 @@ running for;40
 running for Congress;60
 running for home;40
 running for it;60
+running for one's life;50
 running game on;60
 running home;50
 running interference;60
@@ -81165,6 +82200,7 @@ runs for;40
 runs for Congress;60
 runs for home;40
 runs for it;60
+runs for one's life;50
 runs game on;60
 runs home;50
 run short;50
@@ -82128,6 +83164,7 @@ sangaree;40;Cocktail
 sangeet;40;Indian wedding celebration
 Sanger;40;Margaret Sanger, birth control pioneer / Frederick Sanger, chemist
 sang for;20
+sang for one's supper;50
 Sangiovese;50;Italian wine grape
 sang like a canary;60
 sang of;40
@@ -82154,6 +83191,7 @@ Sankas;40
 sank into;40
 sank one's teeth into;50
 Sankore;40;Sankore Madrasa, ancient university of Timbuktu
+sank to one's knees;50
 San Mateo, CA;30
 sannyasa;30
 sannyasi;30;Hindu ascetic
@@ -82393,6 +83431,8 @@ sat next to;40
 Satō;30;Common Japanese surname, or Takuma Sato, Indy 500 winner
 Sato;0
 sat on;40
+sat on one's ass;50
+sat on one's hands;50
 Sator;40;Sator Square, ancient Latin palindrome
 satori;40;Buddhist enlightenment
 satoris;30;Plural??
@@ -82559,6 +83599,7 @@ sawmill;50
 sawmills;50
 sawn;30
 sawn up;40
+saw one's way clear to;50
 saw over;30
 saw reason;50
 saw right through me;20
@@ -83445,6 +84486,7 @@ seated twists;50
 seating on;30
 sea toad;40
 sea toads;40
+seat of one's pants;50
 seat on;40
 Seaton;40;A number of places in England
 seat on the board;60
@@ -83646,6 +84688,7 @@ seeing into;40
 seeing it;40
 seeing it all;40
 seeing land;50
+seeing one's way clear to;50
 seeing over;30
 seeing red;50
 seeings;30;Weird plural
@@ -83701,6 +84744,7 @@ See 'n Say;30
 seen, says;30
 seen to;40
 seen with the naked eye;60
+see one's way clear to;50
 see over;30
 seepage;30
 seepages;40
@@ -83731,6 +84775,7 @@ sees in;40
 sees into;30
 sees it;40
 sees land;50
+sees one's way clear to;50
 See Spot;40;Dick and Jane line
 sees reason;50
 sees sense;60
@@ -84412,6 +85457,7 @@ Seth;50;Common first name, or Adam and Eve's third son
 Sethe;40;"Beloved" protagonist
 Seths;30
 SETI;40
+set in one's ways;50
 set in stone;50
 set into;40
 set it and forget it;60
@@ -84422,6 +85468,7 @@ set on;40
 set one's;20
 set one's house in order;60
 set one's mind to;50
+set one's sights on;50
 Setons;30;Family name
 setose;20;Bristly
 set out for;40
@@ -84443,6 +85490,7 @@ set shots;50
 sets on;40
 sets one's house in order;60
 sets one's mind to;50
+sets one's sights on;50
 sets out for;40
 sets the clock back;60
 sets the tone;50
@@ -84466,6 +85514,7 @@ setting eyes on;50
 setting fire to;40
 setting one's house in order;60
 setting one's mind to;50
+setting one's sights on;50
 setting out for;40
 setting the clock back;60
 setting the tone;50
@@ -84746,6 +85795,7 @@ shadowboxing;50
 Shadowfax;50;Gandalf's horse
 Shadowlands;40;C.S. Lewis biopic, or a WoW expansion
 shadow of a doubt;60
+shadow of one's former self;50
 Shadrach;30;Shadrach, Meshach, and Abednego: biblical figures thrown into a fiery furnace
 shad roe;40
 Shafak;40;Elif Shafak, Turkish novelist, essayist and women's rights activist (born 1971)
@@ -84780,9 +85830,13 @@ Shake Me, Wake Me (When It's Over);50;1966 single by Four Tops
 shaken not stirred;60
 shake on;40
 shake one's booty;60
+shake one's head;50
+shake one's moneymaker;50
 Shakermaker;40;Oasis song
 shakes on;40
 shakes one's booty;60
+shakes one's head;50
+shakes one's moneymaker;50
 Shakespeare;60;William Shakespeare, the Bard
 Shakespearean;50;Like the Bard's sonnets
 Shakespearean actor;60
@@ -84794,6 +85848,8 @@ Shakespearian actors;60
 Shakina;40;Shakina Nayfack, actress and activist
 shaking on;40
 shaking one's booty;60
+shaking one's head;50
+shaking one's moneymaker;50
 Shakira;50;Colombian pop superstar
 shako;30;Military cap
 shakos;30
@@ -85429,6 +86485,8 @@ shooing in;20
 shoo-ins;50
 shook on;40
 shook one's booty;60
+shook one's head;50
+shook one's moneymaker;50
 S-hooks;30
 Shoop;40;Salt-N-Pepa hit, or the Shoop Shoop Song
 shoos in;20
@@ -85451,6 +86509,8 @@ shooting craps;60
 shooting gallery;60
 shooting hoops;50
 shooting off;50
+shooting one's mouth off;50
+shooting one's shot;50
 shooting pool;50
 shooting range;50
 shooting ranges;50
@@ -85460,6 +86520,8 @@ shooting stars;50
 shooting the moon;60
 shooting the shit;10
 shoot off;50
+shoot one's mouth off;50
+shoot one's shot;50
 shoot pool;50
 shoots at;40
 shoots blanks;50
@@ -85468,6 +86530,8 @@ shoots craps;60
 shoots hoops;50
 shoot skeet;50
 shoots off;50
+shoots one's mouth off;50
+shoots one's shot;50
 shoots pool;50
 shoots skeet;50
 shoots the moon;60
@@ -85572,6 +86636,8 @@ shot off;50
 shot of tequila;50
 shot of whiskey;50
 Shotokan;40;Style of karate
+shot one's mouth off;50
+shot one's shot;50
 shot pool;50
 shot put;50
 shot puts;50
@@ -85622,7 +86688,12 @@ showboater;60
 showboating;60
 showboats;60
 showed a profit;60
+showed one's age;50
+showed one's ass;50
 showed one's best side;60
+showed one's true colors;50
+showed one's true colours;50
+showed one's work;50
 showed remorse;50
 showed respect;50
 showed respect for;40
@@ -85657,7 +86728,12 @@ show horses;50
 show ID;50
 show IDs;50
 showing a profit;60
+showing one's age;50
+showing one's ass;50
 showing one's best side;60
+showing one's true colors;50
+showing one's true colours;50
+showing one's work;50
 showing remorse;50
 showing respect;50
 showing respect for;40
@@ -85683,7 +86759,12 @@ show of respect;60
 show of restraint;60
 show of strength;60
 show of support;60
+show one's age;50
+show one's ass;50
 show one's best side;60
+show one's true colors;50
+show one's true colours;50
+show one's work;50
 showreel;60;video portfolio demonstrating the talents of an actor, director, etc.
 showreels;60;Video portfolios demonstrating the talents of an actor, director, etc.
 show remorse;50
@@ -85705,7 +86786,12 @@ shows of restraint;60
 shows of strength;60
 shows of support;60
 show some class;60
+shows one's age;50
+shows one's ass;50
 shows one's best side;60
+shows one's true colors;50
+shows one's true colours;50
+shows one's work;50
 shows remorse;50
 shows respect;50
 shows respect for;40
@@ -86334,10 +87420,12 @@ Singaporean;50;Person from Singapore
 Singaporeans;50;People of Singapore
 singer Garfunkel;0
 sing for;20
+sing for one's supper;50
 Singh;40;Lilly Singh, comedian / Jagmeet Singh, Canadian politician
 Singha;30;Thai beer
 Singin';40
 singing for;20
+singing for one's supper;50
 singing of;40
 singing to;40
 sing it;40
@@ -86360,6 +87448,7 @@ Singles' Day;50
 Singlish;40;Singaporean English
 sing of;40
 sings for;20
+sings for one's supper;50
 sings of;40
 Singspiel;40;German comic opera form
 Singspiele;40;German operas with spoken dialogue
@@ -86372,10 +87461,13 @@ sinking feeling;60
 sinking feelings;60
 sinking into;40
 sinking one's teeth into;50
+sinking to one's knees;50
 sink into;40
 sink one's teeth into;50
 sinks into;40
 sinks one's teeth into;50
+sinks to one's knees;50
+sink to one's knees;50
 Sinn;40;Sinn Féin, Irish political party
 Sino-;40
 Sinologist;50;Scholar of China
@@ -86516,6 +87608,8 @@ sit near;40;Green paint
 sit next to;40
 sit next to me;50
 sit on;40
+sit on one's ass;50
+sit on one's hands;50
 sit poolside;50
 sit pretty;50
 sitrep;40;Military situation report
@@ -86539,6 +87633,8 @@ sit-skis;50
 sits near;40
 sits next to;40
 sits on;40
+sits on one's ass;50
+sits on one's hands;50
 sit spin;50
 sits poolside;50
 sits pretty;50
@@ -86564,6 +87660,8 @@ sitting in traffic;50
 sitting near;40
 sitting next to;40
 sitting on;40
+sitting on one's ass;50
+sitting on one's hands;50
 sitting poolside;50
 sitting pretty;60
 sitting shiva;60
@@ -86959,8 +88057,12 @@ slack-jawed;60
 Slade;40;British glam rock band ("Cum On Feel the Noize")
 slag heap;50
 slag heaps;50
+slaked one's thirst;50
+slake one's thirst;50
 slaker;30
 slakers;30
+slakes one's thirst;50
+slaking one's thirst;50
 Slama;30;Phi Slama Jama, Houston's dunking basketball team
 slam-bang;60
 slam-dance;50
@@ -87340,8 +88442,12 @@ sly wink;50
 sly winks;50
 Sm;40;Samarium symbol
 sma;20
+smacked one's lips;50
 smackeroo;60
 smackeroos;60
+smacking one's lips;50
+smack one's lips;50
+smacks one's lips;50
 smack talk;60
 smack-talked;60
 smack-talking;60
@@ -87648,9 +88754,12 @@ Snape;10;Harry Potter
 snapless;50
 snap line;50;Chalked string used in construction
 snap lines;50
+snap one's fingers;50
 snapped at;40
+snapped one's fingers;50
 snapped to;40;Snapped to (attention)
 snapping at;40
+snapping one's fingers;50
 snapping to;40;Snapping to (attention)
 Snapple;50;Iced tea brand with facts under the cap
 Snapples;40
@@ -87658,6 +88767,7 @@ Snappy Smurf;60
 Snappy Smurfling;60
 snappysmurfling;20
 snaps at;40
+snaps one's fingers;50
 snaps to;40;Snaps to (attention)
 Snap stories;60
 Snap story;60
@@ -88309,6 +89419,7 @@ some friend you are;60
 some nerve you have;60
 some nerve you've got;60
 someone once said;60
+someone's;50
 Somers;40
 Somerset;50;English county, or W. Somerset Maugham
 Somerville;40;City next door to Cambridge, Massachusetts
@@ -88725,6 +89836,7 @@ Soviet war in Afghanistan;20
 sow;50
 sowbug;40;Woodlouse
 sowbugs;40
+sowed one's wild oats;50
 Sowell;40;Thomas Sowell, conservative economist
 so we meet again;60
 sower;30
@@ -88738,6 +89850,9 @@ so what's the plan;60
 so what's the story;60
 so what's the word on the street?;60
 so why not?;60
+sowing one's wild oats;50
+sow one's wild oats;50
+sows one's wild oats;50
 Sox;50
 soy;50
 soy dog;60
@@ -88924,6 +90039,7 @@ speaking in riddles;60
 speaking of;60
 speaking on;40
 speaking one's mind;60
+speaking one's piece;50
 speaking to;40
 speaking truth to power;60
 speaking up for;40
@@ -88932,12 +90048,14 @@ speak no evil;60
 speak of;40
 speak on;40
 speak one's mind;60
+speak one's piece;50
 speaks for;40
 speaks ill of;50
 speaks in riddles;60
 speaks of;40
 speaks on;40
 speaks one's mind;60
+speaks one's piece;50
 speaks to;40
 speaks truth to power;60
 speaks up for;40
@@ -89090,6 +90208,7 @@ sperm donation;60
 sperm donations;60
 sperm donor;60
 sperm donors;60
+sperm oil;50;Waxy liquid obtained from sperm whales
 Sperry;40;Boat shoe brand
 Sperrys;40;Boat shoes
 spewed up;10
@@ -89195,8 +90314,12 @@ spile;20;Fit with a spigot
 spiled;20;Fitted with a spigot
 spiles;20;Fits with a spigot
 Spillane;50;Mickey Spillane, Mike Hammer's creator
+spilled one's guts;50
 Spillers;40;Hortense Spillers, literary scholar
+spilling one's guts;50
 spill it;60
+spill one's guts;50
+spills one's guts;50
 spilth;20;Archaic spill
 spilt milk;50
 spinaches;30
@@ -89368,6 +90491,7 @@ spoken in riddles;60
 spoke of;40
 spoke on;40
 spoke one's mind;60
+spoke one's piece;50
 spokescow;60
 spoke to;40
 spoke truth to power;60
@@ -89517,12 +90641,15 @@ spread 'em;50
 spreader;40
 spreaders;40
 spreading on;30
+spreading one's wings;50
 spreading out;50
 spreading rumors;50
 spreading the good word;60
 spread on;30
+spread one's wings;50
 spread out;50
 spreads on;30
+spreads one's wings;50
 spreads out;50
 spreads the good word;60
 spread the good word;60
@@ -89858,13 +90985,17 @@ StairMasters;40;Stair-climbing exercise machines
 stairstep;50
 stairsteps;50
 staked;50
+staked one's life on;50
 staked out;50
+stake one's life on;50
 stakeout;50
 stakeouts;50
+stakes one's life on;50
 stakes out;50
 Stakhanovism;40;Soviet cult of the overachieving worker
 Stakhanovite;40;Prodigiously productive Soviet worker
 Stakhanovites;40;Soviet model workers
+staking one's life on;50
 staking out;50
 stale beer;50
 Staley;40;Dawn Staley, South Carolina basketball coach / Layne Staley, Alice in Chains singer
@@ -89916,6 +91047,7 @@ standing atop;40
 standing next to;40
 standing O;60
 standing on;40
+standing one's ground;50
 standing O's;60
 standing ovation;60
 standing over;40
@@ -89929,6 +91061,7 @@ stand-ins;50
 Standish;30;Pilgrim Miles Standish
 stand next to;40
 stand on;40
+stand one's ground;50
 stand over;40
 stands apart;50
 stands at;30
@@ -89936,6 +91069,7 @@ stands at ease;50
 stands atop;40
 stands next to;40
 stands on;40
+stands one's ground;50
 stands over;40
 stands to;30
 stands trial;60
@@ -90192,6 +91326,7 @@ Stassens;20
 Stastny;20;NHLer Paul Stastny, or his uncles
 state debt;50
 State Department;50
+stated one's case;50
 state fair;60
 state fairs;60
 state flag;50
@@ -90202,6 +91337,7 @@ state lottery;60
 state lotto;60
 state lottos;60
 Staten;40;Staten Island, NYC borough
+state one's case;50
 state quarter;50
 state quarters;50
 stater;40
@@ -90216,6 +91352,7 @@ state senate;60
 state senates;60
 state senator;60
 state senators;60
+states one's case;50
 state television;60
 Statham;50;Jason Statham, action star
 statice;30;Flower
@@ -90223,6 +91360,7 @@ static electricity;60
 static IP;50
 static IPs;50
 statin;50;Cholesterol-lowering drug
+stating one's case;50
 statins;50
 station house;60
 station houses;50
@@ -90608,6 +91746,7 @@ stepped on;40
 stepped on it;60
 stepped onto;40
 stepped out of;40
+stepped up one's game;50
 Steppenwolf;50;Hesse novel, or "Born to Be Wild" band
 stepper;40;Showhorse or motor part
 steppers;40
@@ -90618,6 +91757,7 @@ stepping into;40
 stepping on;40
 stepping onto;40
 stepping out of;40
+stepping up one's game;50
 steps in;40
 steps in for;40
 steps in shit;10
@@ -90625,11 +91765,13 @@ steps into;40
 steps on;40
 steps onto;40
 steps out of;40
+steps up one's game;50
 step to;30
 Steptoe;40;"Steptoe and Son", British sitcom behind "Sanford and Son"
 step two;30
 stepuncle;50
 stepuncles;40
+step up one's game;50
 -ster;30
 steradian;30;Unit of solid angle
 stere;20;Unit of volume
@@ -90700,14 +91842,18 @@ STI;20
 Stickell;40;Luther Stickell, "Mission: Impossible" hacker
 stick horse;50
 stick horses;50
+sticking in one's head;50
 sticking it to;40
 sticking it to the man;60
 sticking on;40
 sticking one's neck out;60
 sticking one's nose in;60
 sticking to;40
+sticking to one's guns;50
+sticking to one's knitting;50
 sticking to the script;60
 sticking with;40
+stick in one's head;50
 stick insect;60
 stick insects;60
 stick it to;40
@@ -90721,6 +91867,7 @@ sticks and stones;60
 sticks and stones may break my bones;60
 stick shift;60
 stick shifts;60
+sticks in one's head;50
 sticks it to;40
 sticks it to the man;60
 sticks of gum;50
@@ -90728,10 +91875,14 @@ sticks on;40
 sticks one's neck out;60
 sticks one's nose in;60
 sticks to;40
+sticks to one's guns;50
+sticks to one's knitting;50
 sticks to the script;60
 sticks with;40
 stick to;40
 stick-to-itiveness;60
+stick to one's guns;50
+stick to one's knitting;50
 stick to the script;60
 stickum;40;Sports adhesive
 stick with;40
@@ -91000,6 +92151,7 @@ stood at ease;50
 stood atop;40
 stood next to;40
 stood on;40
+stood one's ground;50
 stood over;20
 stood to;30
 stood trial;60
@@ -91021,14 +92173,17 @@ stop at;40
 stop at nothing;60
 stop bath;60;Photo development aid
 stop baths;60
+stop in one's tracks;50
 stop-loss;60;Trading policy to limit downside
 Stop Making Sense;60
 Stoppard;50;Tom Stoppard, "Rosencrantz and Guildenstern Are Dead" playwright
 stopped at;40
 stopped at nothing;60
+stopped in one's tracks;50
 stopped the clock;60
 stopping at;40
 stopping at nothing;60
+stopping in one's tracks;50
 stopping the clock;60
 stopple;30;Stopper/plug
 stoppled;30
@@ -91036,6 +92191,7 @@ stopples;30
 stoppling;30
 stops at;40
 stops at nothing;60
+stops in one's tracks;50
 stopsit;0
 stops the clock;60
 stop that;60
@@ -91327,13 +92483,17 @@ stress mark;50
 stress marks;50
 stretch across;40
 stretched across;40
+stretched one's legs;50
 stretches across;40
+stretches one's legs;50
 stretch goal;60
 stretch goals;60
 stretching across;40
 stretching it;60
+stretching one's legs;50
 stretch mark;60
 stretch marks;60
+stretch one's legs;50
 strette;20
 stretti;30;Fugue parts
 stretto;40;Fugue technique
@@ -91487,7 +92647,11 @@ strung out;50
 strung up;40
 Strunk;50;William Strunk, of Strunk and White
 Struthers;40;Sally Struthers, Gloria on "All in the Family"
+strut one's stuff;50
+struts one's stuff;50
+strutted one's stuff;50
 strutting;50
+strutting one's stuff;50
 Struwwelpeter;50;German children's book of cautionary tales
 Struycken;40;Carel Struycken, Lurch in "The Addams Family"
 Stryker;30;???
@@ -91504,6 +92668,7 @@ stubbed thumb;50;Genetic trait with one short, wide thumb
 Stubbs;40
 StubHub;50;Ticket resale site
 stub thumb;50;Genetic trait with one short, wide thumb
+stuck in one's head;50
 Stuckism;40;British anti-conceptual art movement
 Stuckist;40;Member of the Stuckism art movement
 Stuckists;40;Members of an anti-conceptual art movement
@@ -91513,6 +92678,8 @@ stuck on;50
 stuck one's neck out;60
 stuck one's nose in;60
 stuck to;40
+stuck to one's guns;50
+stuck to one's knitting;50
 stuck to the script;60
 stuck with;40
 Stucky;40;Steve and Bucky Marvel fandom ship name
@@ -91753,23 +92920,27 @@ sucked at;40
 sucked in one's gut;60
 sucked into;50
 sucked on;40
+sucked one's thumb;50
 sucked out;60
 sucked out on;40
 suckiness;60
 sucking at;40
 sucking in one's gut;60
 sucking on;40
+sucking one's thumb;50
 sucking out;50
 sucking out on;40
 suck in one's gut;60
 suckitude;60
 suck on;40
+suck one's thumb;50
 suck out;60
 suck out on;40
 suckouts;60
 sucks at;40
 sucks in one's gut;60
 sucks on;40
+sucks one's thumb;50
 sucks out;60
 sucks out on;40
 sucks to be you;60
@@ -92399,6 +93570,10 @@ swai;20;Species of shark
 SWAK;20
 swale;20;Marshy area
 swales;20;Marshy areas
+swallowed one's pride;50
+swallowing one's pride;50
+swallow one's pride;50
+swallows one's pride;50
 swam laps;50
 swamp frog;50
 swamp frogs;50
@@ -93111,6 +94286,7 @@ takeitto;0
 take it to the grave;60
 take it to the rack;60;Aggressively drive a basketball down court and attempt a shot
 take liberties;50
+take matters into one's own hands;50
 take me as I am;60
 Takemitsu;40;Toru Takemitsu, Japanese composer
 take my wife please;60
@@ -93143,6 +94319,8 @@ take off after;50
 take on;40
 take one's cue from;50
 take one's mind off;50
+take one's place;50
+take one's sweet time;50
 take one's time;60
 Take on Me;60;A-ha song
 take orders;50
@@ -93215,10 +94393,13 @@ takes it all in;60
 takes it in;50
 takes it to the grave;60
 takes liberties;50
+takes matters into one's own hands;50
 takes off after;50
 takes on;40
 takes one's cue from;50
 takes one's mind off;50
+takes one's place;50
+takes one's sweet time;50
 takes one's time;60
 takes orders;50
 takes orders from;40
@@ -93322,10 +94503,13 @@ taking it all in;60
 taking it in;50
 taking it to the grave;60
 taking liberties;50
+taking matters into one's own hands;50
 taking off after;50
 taking on;40
 taking one's cue from;50
 taking one's mind off;50
+taking one's place;50
+taking one's sweet time;50
 taking one's time;60
 taking orders;50
 taking orders from;40
@@ -93402,17 +94586,21 @@ talk back to;40
 talked at;40
 talked back;50
 talked back to;40
+talked in one's sleep;50
 talked in riddles;60
 talked into;40
 talked on;30
 talked shit;10
 talked shop;60
+talked through one's hat;50
 talked to;40
 talked up a storm;60
+talked with one's mouth full;50
 Talkin';40;"Jive Talkin'", Bee Gees hit
 talking at;40
 talking back;50
 talking back to;40
+talking in one's sleep;50
 talking in riddles;60
 talking into;40
 talking on;30
@@ -93423,8 +94611,11 @@ talking points;60
 talking shit;10
 talking shop;60
 talking stage;60;Early dating stage
+talking through one's hat;50
 talking to;50
 talking up a storm;60
+talking with one's mouth full;50
+talk in one's sleep;50
 talk into;40
 talk like a book;60;Speak in flowery language
 talk like a pirate;60
@@ -93435,17 +94626,22 @@ talks back;50
 talks back to;40
 talk shit;10
 talk shop;60
+talks in one's sleep;50
 talks in riddles;60
 talks into;40
 talks on;30
 talk soon;60
 talks shit;10
 talks shop;60
+talks through one's hat;50
 talks to;40
 talks up a storm;60
+talks with one's mouth full;50
 talk, text, and data;60
+talk through one's hat;50
 talk to;40
 talk up a storm;60
+talk with one's mouth full;50
 Talladega;50;NASCAR superspeedway, and a Will Ferrell "Nights"
 tallage;30;Historical tax
 Tallahassee;50;Florida's capital
@@ -94158,6 +95354,7 @@ tear gasses;40
 tear gassing;40
 tearing at;40
 tearing into;40
+tearing one's hair out;50
 tear into;40
 tearjerker;60
 tearjerkers;60
@@ -94170,6 +95367,7 @@ tears into;40
 tears of joy emoji;60
 tears of joy emojis;60
 Tears of the Kingdom;60
+tears one's hair out;50
 tear strip;50
 tear strips;50
 tear to pieces;60
@@ -94510,8 +95708,12 @@ ten-day;40
 ten days;20
 tended to;40
 tender age;60
+tendered one's resignation;50
 tenderer;30
 tenderest;30
+tendering one's resignation;50
+tender one's resignation;50
+tenders one's resignation;50
 tendies;60
 tending to;40
 ten-dollar word;60
@@ -94925,7 +96127,10 @@ Thandiwe;50;Actress Thandiwe Newton (formerly Thandie)
 Thandiwe Newton;60;Actress Thandiwe Newton (formerly Thandie)
 thane;40
 Thanh;40;Viet Thanh Nguyen, author of "The Sympathizer"
+thanked one's lucky stars;50
 thank God;60
+thanking one's lucky stars;50
+thank one's lucky stars;50
 thanks a bunch;60
 thanks again;60
 thanks a heap;60
@@ -94955,6 +96160,7 @@ Thanksgivukkah;50;2013 Thanksgiving-Hanukkah mashup
 thanks I hate it;60
 thanks, it means a lot;60
 thanks, it means a lot to me;60
+thanks one's lucky stars;50
 thanks to;40
 Thank U;40
 thank your lucky stars;60
@@ -96536,12 +97742,14 @@ thinking ahead;50
 thinking better of it;60
 thinking of;40
 thinking on;40
+thinking on one's feet;50
 thinking outside the box;60
 thinking up;50
 think nothing of it;60
 think of;40
 think of that;60
 think on;40
+think on one's feet;50
 think outside the box;60
 ThinkPad;50;Lenovo laptop line
 ThinkPads;40;Lenovo laptops
@@ -96553,6 +97761,7 @@ think she's buying it;60
 think so;60;"Think so?"
 thinks of;40
 thinks on;40
+thinks on one's feet;50
 thinks outside the box;60
 thinks up;50
 think they bought it;60
@@ -96720,6 +97929,7 @@ Thornberrys;40;"The Wild Thornberrys" family
 Thorndike;40;Edward Thorndike, psychologist / Sybil Thorndike, actress
 Thorne;40;Kip Thorne, Nobel physicist / Bella Thorne, actor
 Thornfield;40;Rochester's hall in "Jane Eyre"
+thorn in one's side;50
 Thornton;50;Billy Bob Thornton, actor / Thornton Wilder, playwright
 thorny question;30
 thorny questions;30
@@ -96738,6 +97948,7 @@ thought ahead;50
 thought better of it;60
 thought of;40
 thought on;40
+thought on one's feet;50
 thought outside the box;60
 thought-terminating;60
 thought-terminating cliché;60
@@ -96830,12 +98041,16 @@ threw a tantrum;50
 threw a veil over;50
 threw away;50
 threw darts;50
+threw down one's arms;50
 threw for a loop;60
 threw games;20;???
 threw good money after bad;60
 threw in the discard pile;50
+threw one's hat in the ring;50
+threw one's weight around;50
 threw to;40
 threw under the bus;60
+threw up one's hands;50
 thrift shop;60
 thrift shopped;60
 thrift shopper;60
@@ -96873,6 +98088,7 @@ throw a tantrum;50
 throw a veil over;50
 throw away;50
 throw darts;50
+throw down one's arms;50
 thrower;40
 throwers;40
 throw for a loop;60
@@ -96888,15 +98104,19 @@ throwing a tantrum;50
 throwing a veil over;50
 throwing away;50
 throwing darts;50
+throwing down one's arms;50
 throwing for a loop;60
 throwing games;20;???
 throwing good money after bad;60
 throwing in the discard pile;50
+throwing one's hat in the ring;50
+throwing one's weight around;50
 throwing pots;50
 throwing star;60
 throwing stars;60
 throwing to;40
 throwing under the bus;60
+throwing up one's hands;50
 throw in the discard pile;50
 throw it in the discard pile;60
 thrown a curve;60
@@ -96906,6 +98126,8 @@ thrown a veil over;50
 thrown for a loop;60
 thrown in the discard pile;50
 thrown under the bus;60
+throw one's hat in the ring;50
+throw one's weight around;50
 throw pots;50
 throws a curve;60
 throws a curveball;60
@@ -96918,16 +98140,21 @@ throws a veil over;50
 throws away;50
 throws darts;50
 throws down a dunk;50
+throws down one's arms;50
 throws for a loop;60
 throws games;20;???
 throws good money after bad;60
 throws in the discard pile;50
+throws one's hat in the ring;50
+throws one's weight around;50
 throws pots;50
 throws to;40
 throws under the bus;60
+throws up one's hands;50
 throw to;40
 throw under the bus;60
 throw up;40
+throw up one's hands;50
 thru;30
 thrus;40;Drive-thrus
 thrusted out;50
@@ -97168,6 +98395,10 @@ tiger teams;60
 Tigger;50;Bouncy "Winnie-the-Pooh" tiger
 tight end;60
 tight ends;60
+tightened one's belt;50
+tightening one's belt;50
+tighten one's belt;50
+tightens one's belt;50
 tighten the noose;60
 tight fit;50
 tightrope;60
@@ -97297,6 +98528,7 @@ time locks;50
 Time Lord;60;Doctor Who race
 Time Magazine;60
 time of day;50
+time on one's hands;50
 times;50
 timesed;30;Multiplied
 time served;50
@@ -97447,9 +98679,13 @@ tip of one's tongue;60
 Tip O'Neill;50
 tip one's cap;60
 tip one's cap to;60
+tip one's hand;50
+tip one's hat;50
 Tippecanoe;50;Battle site in "Tippecanoe and Tyler Too"
 tipped one's cap;60
 tipped one's cap to;60
+tipped one's hand;50
+tipped one's hat;50
 Tipperary;50;Irish county of "It's a Long Way to Tipperary"
 tippet;30;Hanging end of a sleeve, cap, or hood
 tippets;30
@@ -97457,12 +98693,16 @@ Tippett;40;Michael Tippett, composer / Phil Tippett, effects artist
 Tippi;40;Tippi Hedren, star of "The Birds"
 tipping one's cap;60
 tipping one's cap to;60
+tipping one's hand;50
+tipping one's hat;50
 tip roast;50
 tips and tricks;60
 tip sheet;60
 tip sheets;60
 tips one's cap;60
 tips one's cap to;60
+tips one's hand;50
+tips one's hat;50
 tipster;50
 tipsters;50
 Tiptoe Through the Tulips;50
@@ -98012,6 +99252,7 @@ Tony Soprano;60
 Tony Stark;60
 Tony Wilson;40;British impressario and TV presenter (1950–2007)
 too;50
+too big for one's britches;50
 too big to fail;60
 too careful;50
 too close for comfort;60
@@ -98078,10 +99319,13 @@ took it easy;60
 took it in;50
 took it to the grave;60
 took liberties;50
+took matters into one's own hands;50
 took off after;50
 took on;40
 took one's cue from;50
 took one's mind off;50
+took one's place;50
+took one's sweet time;50
 took one's time;60
 took orders;50
 took orders from;40
@@ -98443,6 +99687,7 @@ totes up;40
 tote up;40
 Toth;30;Laszlo Toth, hero of "The Brutalist"
 to the best of;20
+to the best of one's ability;50
 to the bone;30
 to the death;60
 to the manner born;60
@@ -99148,7 +100393,8 @@ tried for;40
 tried it;40
 tried on;40
 tried one's best;60
-tried one's best at;40
+tried one's best at;50
+tried one's hand at;50
 tried out for;40
 tried out on;40
 tried to;30
@@ -99163,7 +100409,8 @@ tries for;40
 tries it;40
 tries on;40
 tries one's best;60
-tries one's best at;40
+tries one's best at;50
+tries one's hand at;50
 tries out for;40
 tries out on;40
 Trieste;40;Italian port city / record-setting bathyscaphe
@@ -99484,6 +100731,7 @@ Truro;40;Cornwall cathedral city
 trusser;40;Poultry trussing device
 trussers;40
 trusted in;40
+trusted one's gut;50
 trusted to;40
 truster;30
 trusters;30
@@ -99496,8 +100744,11 @@ trust fund kids;60
 trusties;30;Convict allowed special privileges
 trust in;40
 trusting in;40
+trusting one's gut;50
 trusting to;40
+trust one's gut;50
 trusts in;40
+trusts one's gut;50
 trusts to;40
 trust the process;60
 trust to;40
@@ -99527,7 +100778,8 @@ trying for;40
 trying it;40
 trying on;40
 trying one's best;60
-trying one's best at;40
+trying one's best at;50
+trying one's hand at;50
 trying out for;40
 trying out on;40
 trying to;30
@@ -99536,7 +100788,8 @@ try me later;60
 tryna;40
 try on;40
 try one's best;60
-try one's best at;40
+try one's best at;50
+try one's hand at;50
 try out for;40
 try out on;40
 trypanophobe;50
@@ -99846,6 +101099,9 @@ Turks;50;People of Turkey
 Turku;40;Finnish city, its former capital
 Turlington;40;Christy Turlington, supermodel
 Turman;40;Glynn Turman, actor
+turmoiled;40
+turmoiling;40
+turmoils;40
 turn a new leaf;20
 turn back;50
 turn back into;40
@@ -99868,6 +101124,7 @@ turned heads;60
 turned inside out;50
 turned into;40
 turned on;50
+turned one's back on;50
 turned one's nose up;60
 turned one's nose up at;60
 turned on the charm;60
@@ -99903,6 +101160,7 @@ turning heads;60
 turning inside out;50
 turning into;40
 turning on;50
+turning one's back on;50
 turning one's nose up;60
 turning one's nose up at;60
 turning on the charm;60
@@ -99931,6 +101189,7 @@ turn lane;50
 turn lanes;50
 turn me loose;50
 turn-on;50
+turn one's back on;50
 turn one's nose up;60
 turn one's nose up at;60
 turn-ons;50
@@ -99951,6 +101210,7 @@ turns heads;60
 turns inside out;50
 turns into;40
 turns on;50
+turns one's back on;50
 turns one's nose up;60
 turns one's nose up at;60
 turns on the charm;60
@@ -100148,6 +101408,10 @@ Twi;20
 twibe;20;Twitter tribe
 twibes;20
 twice-baked bread;60
+twiddled one's thumbs;50
+twiddle one's thumbs;50
+twiddles one's thumbs;50
+twiddling one's thumbs;50
 Twiggy;50;1960s supermodel
 twig tea;50
 Twihard;60;"Twilight" superfan
@@ -100788,6 +102052,7 @@ underglass;50
 underground comix;60
 under medical supervision;50
 under oath;50
+under one's breath;50
 Underoos;50;Kids' underwear with superheroes on it
 under par;50
 under penalty of death;50
@@ -101121,6 +102386,7 @@ Untermeyer;40;Louis Untermeyer, poetry anthologist
 untidier;30
 untied shoelace;60
 untied shoelaces;60
+until one's dying day;50
 until recently;50
 untimeschicagos;0
 Untouchables;50;Eliot Ness's squad
@@ -101159,6 +102425,10 @@ upcurve;40
 upcurved;40
 upcurves;40
 upcurving;40
+updated one's priors;50
+update one's priors;50
+updates one's priors;50
+updating one's priors;50
 Updike;50;John Updike, "Rabbit, Run" novelist
 updog;60
 UPenn;40;Ivy League school, informally
@@ -101174,7 +102444,9 @@ upma;30;Semolina or rice dish from India
 UPN;20
 upness;30
 Upolu;40;Main island of Samoa
+up one's alley;50
 up one's game;60
+up one's sleeve;50
 upon my soul;60
 UPPAbaby;40;Stroller brand
 upped one's game;60
@@ -101261,6 +102533,8 @@ up the creek;60
 up the creek without a paddle;60
 up to here;20
 Upton;40;Upton Sinclair, author / Kate Upton, model
+up to one's eyeballs;50
+up to one's neck;50
 up top;60
 up to scratch;60
 up to speed;50
@@ -101441,6 +102715,8 @@ used caution;50
 used drugs;40
 used for;40
 used on;40
+used one's head;50
+used one's noodle;50
 used pot;30
 use drugs;40
 used to;40
@@ -101454,6 +102730,8 @@ US embassy;50
 Use Me;40
 Usenet;50;Early internet discussion network
 use on;40
+use one's head;50
+use one's noodle;50
 use other door;60
 use pot;30
 user experience;60
@@ -101471,6 +102749,8 @@ uses caution;50
 uses drugs;40
 uses for;40
 uses on;40
+uses one's head;50
+uses one's noodle;50
 uses pot;30
 uses up;50
 use the old noodle;60
@@ -101495,6 +102775,7 @@ using caution;50
 using drugs;40
 using for;40
 using on;40
+using one's head;50
 using one's noodle;60
 using pot;30
 using up;50
@@ -102330,6 +103611,7 @@ Vicodin;50;Painkiller brand
 Vicodins;40;Painkiller pills
 victimless crime;60
 victimless crimes;60
+victim of one's own success;50
 Victoire;40;Montreal's PWHL team, or French for "victory"
 Victoria;50;British queen or British Columbia capital
 Victorian;50;Of Queen Victoria's era
@@ -102886,10 +104168,13 @@ Vosges;40;French mountain range
 Vostok;40;Soviet spacecraft, or an Antarctic lake
 voted for;40
 voted on;40
+voted with one's feet;50
 vote for;40
 vote on;40
 votes for;40
 votes on;40
+votes with one's feet;50
+vote with one's feet;50
 voting bloc;50
 voting blocs;50
 voting for;40
@@ -103081,6 +104366,7 @@ waited around for;40
 waited for;40
 waited for the other shoe to drop;60
 waited on;40
+waited one's turn;50
 waited up for;40
 waiters;50
 wait for;40
@@ -103092,6 +104378,7 @@ waiting for;40
 waiting for the other shoe to drop;60
 waiting on;40
 Waiting on a War;50;2021 single by Foo Fighters
+waiting one's turn;50
 waiting up for;40
 Waititi;50;Taika Waititi, "Jojo Rabbit" director
 wait just a minute;60
@@ -103103,6 +104390,7 @@ waitlisted;50
 waitlisting;50
 waitlists;50
 wait on;40
+wait one's turn;50
 wait really;60
 waitresses;50
 waitron;60
@@ -103112,6 +104400,7 @@ waits around for;40
 waits for;40
 waits for the other shoe to drop;60
 waits on;40
+waits one's turn;50
 waits up for;40
 Wait Till Next Year;50
 wait up for;40
@@ -103471,9 +104760,15 @@ Washburn;40;Guitar maker, or Washburn University in Topeka
 Washburne;40;Hoban Washburne, "Firefly" pilot
 wash day;50
 wash days;50
+washed one's hands;50
+washed one's hands of;50
+washes one's hands;50
+washes one's hands of;50
 washi;40;Washi tape, decorative Japanese masking tape
 washier;40
 washiest;40
+washing one's hands;50
+washing one's hands of;50
 Washington;50;State, capital, or the first president
 Washingtonian;50
 Washingtonians;50
@@ -103481,6 +104776,8 @@ Washingtons;40;More than one Washington
 washi tape;50;Decorative Japanese masking tape
 washi tapes;50;Decorative Japanese masking tapes
 Washoe;40;Nevada county with Reno and Lake Tahoe
+wash one's hands;50
+wash one's hands of;50
 washtub bass;50
 washtub basses;50
 WashU;40;Washington University in St. Louis, informally
@@ -103518,6 +104815,7 @@ Wassily;40;Wassily Kandinsky, abstract painter
 was sweet on;40
 wast;20
 wasted no time;60
+wasted one's breath;50
 wasted one's time;50
 wasted potential;60
 wasteland;60
@@ -103525,12 +104823,14 @@ waste management;50
 waste no time;60
 waste of space;60
 waste of time;60
+waste one's breath;50
 waste one's time;50
 waste precious time;60
 waster;40
 wasters;40
 wastes no time;60
 wastes of space;60
+wastes one's breath;50
 wastes one's time;50
 wastewater;50
 wastewater treatment;60
@@ -103539,6 +104839,7 @@ wastewater treatment plants;60
 was that so hard?;60
 was that so hard;0
 wasting no time;60
+wasting one's breath;50
 wasting one's time;50
 wastrel;30
 wat;40;Angkor Wat
@@ -103547,14 +104848,29 @@ Watanabe;40;Ken Watanabe, Japanese actor
 watch;50
 watchdog group;60
 watchdog groups;60
+watched one's back;50
+watched one's language;50
+watched one's mouth;50
+watched one's step;50
 watches;50
+watches one's back;50
+watches one's language;50
+watches one's mouth;50
+watches one's step;50
 watch fob;50
 watch fobs;50
 watch I'll show you;60
+watching one's back;50
+watching one's language;50
+watching one's mouth;50
+watching one's step;50
 watch it;60
 watchlist;50
 watchlists;50
 WatchMojo;40;YouTube top-10 list channel
+watch one's language;50
+watch one's mouth;50
+watch one's step;50
 watch parties;60
 watch party;60
 watch stand;50
@@ -103777,11 +105093,17 @@ wear in;40;More commonly "break in"
 wearing a wire;60
 wearing in;40
 wearing on;40
+wearing one's heart on one's sleeve;50
+wearing out one's welcome;50
 wearing upon;40
 wear on;40
+wear one's heart on one's sleeve;50
+wear out one's welcome;50
 wears a wire;60
 wears in;40
 wears on;40
+wears one's heart on one's sleeve;50
+wears out one's welcome;50
 wears upon;40
 wear the trousers;60
 wear upon;40
@@ -104015,11 +105337,15 @@ we have food at home;60
 Wei;20
 Weibo;40;Chinese social media site
 weighed in on;40
+weighed one's words;50
 weigher;40
 weighers;40
 weighing in on;40
+weighing one's words;50
 weigh in on;40
+weigh one's words;50
 weighs in on;40
+weighs one's words;50
 weighted blanket;50
 weightlift;60
 weightlifted;60
@@ -104198,6 +105524,8 @@ Wendell;40;Oliver Wendell Holmes, justice / Wendell Berry, writer
 Wenders;40;Wim Wenders, "Wings of Desire" director
 Wendi;40;Wendi McLendon-Covey, actress on "The Goldbergs"
 Wendie;40;Actress Wendie Malick
+wending one's way;50
+wends one's way;50
 Wendt;40
 Wendy;50;Common first name, or Peter Pan's friend
 Wendy's;50;Fast food joint
@@ -104211,6 +105539,8 @@ Wenjun;40;Ju Wenjun, women's world chess champion
 Wenner;40;Jann Wenner, Rolling Stone founder
 wens;30
 Wensleydale;50;Wallace and Gromit's favorite cheese
+went about one's business;50
+went about one's day;50
 went all in;50
 went all out;50
 went antiquing;60
@@ -104223,6 +105553,7 @@ went as;40
 went astray;50
 went at;40
 went awry;50
+went back on one's word;50
 went back to;40
 went back to square one;60
 went back to the drawing board;60
@@ -104281,6 +105612,7 @@ went on a journey;60
 went on a spree;50
 went on a tear;60
 went on leave;50
+went on one's merry way;50
 went on record;60
 went on record as;40
 went on safari;60
@@ -104289,6 +105621,7 @@ went on tour;60
 went on vacation;50
 went out;50
 went out like a light;60
+went out of one's way;50
 went out on a limb;60
 went out with;50
 went over the line;60
@@ -104314,6 +105647,7 @@ went vegan;60
 went whole hog;60
 went with;40
 went with it;50
+went with one's gut;50
 Wentworth;40;Wentworth Miller, "Prison Break" actor
 went yard;50;Hit a home run
 Wentz;40;Pete Wentz from Fall Out Boy
@@ -105495,6 +106829,7 @@ Winchesters;40;"Supernatural" brothers / repeating rifles
 wincing at;40
 Winckelmann;40;Johann Joachim Winckelmann, father of art history
 wind;50
+wind at one's back;50
 wind chime;50
 wind chimes;50
 winded;50
@@ -105506,6 +106841,7 @@ Windhoek;40;Capital of Namibia
 Windhover;50;Kestrel, and the Hopkins poem about one
 winding;50
 winding to a close;60
+wind in one's sails;50
 windmilled;50
 windmilling;50
 windmill jam;50
@@ -105796,6 +107132,7 @@ wiseass;60
 wiseasses;60
 wise as Solomon;60
 Wiseau;40;Tommy Wiseau, creator of "The Room"
+wise beyond one's years;50
 wise choice;60
 wise choices;50
 wisecracker;60
@@ -105833,6 +107170,8 @@ with;50
 with a bullet;50;#1 with a bullet
 withagoat;0
 withal;30
+with all one's heart;50
+with all one's might;50
 with all the bells and whistles;60
 with all the trimmings;60
 with a moo moo here;30;???
@@ -105846,6 +107185,8 @@ withering away;50
 withers away;50
 Witherspoon;50;Reese Witherspoon, actress
 withes;20
+with every fiber of one's being;50
+with every fibre of one's being;50
 withies;30;Plural withy
 within driving distance;50
 within walking distance;50
@@ -106081,6 +107422,8 @@ Wordsworthian;50;Like the Lake District poet
 wore a wire;60
 wore in;40;More commonly "broke in"
 wore on;40
+wore one's heart on one's sleeve;50
+wore out one's welcome;50
 wore upon;40
 Worf;40
 work a room;50
@@ -106098,8 +107441,12 @@ worked like a well-oiled machine;60
 worked like magic;60
 worked magic;60
 worked on;40
+worked one's ass off;50
+worked one's butt off;50
 worked one's magic;60
 worked one's magic on;60
+worked one's way;50
+worked one's way up;50
 worked the night shift;60
 worked up the courage;60
 work environment;50
@@ -106125,8 +107472,12 @@ working like a well-oiled machine;60
 working like magic;60
 working magic;60
 working on;40
+working one's ass off;50
+working one's butt off;50
 working one's magic;60
 working one's magic on;60
+working one's way;50
+working one's way up;50
 working the night shift;60
 working theories;60
 working theory;60
@@ -106142,8 +107493,11 @@ work magic;60
 workman's compensation;50
 workmen's compensation;50
 work on;40
+work one's ass off;50
+work one's butt off;50
 work one's magic;60
 work one's magic on;60
+work one's way;50
 workplace comedy;60
 works a room;50
 works for;40
@@ -106154,8 +107508,11 @@ works like a well-oiled machine;60
 works like magic;60
 works magic;60
 works on;40
+works one's ass off;50
+works one's butt off;50
 works one's magic;60
 works one's magic on;60
+works one's way;50
 workstation;50
 workstations;50
 works the night shift;60
@@ -106209,6 +107566,7 @@ worm burners;60
 worm drive;50
 worm drives;50
 wormed one's way into;50
+wormed one's way out of;50
 wormer;40;Anti-worm medicine
 wormers;40
 worm farm;50
@@ -106217,14 +107575,17 @@ worm gears;50
 wormier;30
 wormiest;30
 worming one's way into;50
+worming one's way out of;50
 worm one's way in;60
 worm one's way into;60
+worm one's way out of;50
 worms and dirt;60;Chocolate pudding + gummy worms
 worms and mud;60;Chocolate pudding + gummy worms
 worm screw;50
 worm screws;50
 worms in dirt;60;Chocolate pudding + gummy worms
 worms one's way into;50
+worms one's way out of;50
 Wormtongue;50;Gríma Wormtongue, Tolkien schemer
 wormy;30
 worn tire;50
@@ -106241,6 +107602,9 @@ worth a shot;60
 Worthington;40;Sam Worthington, "Avatar" star
 worth it;60
 worth noting;50
+worth one's salt;50
+worth one's weight in gold;50
+worth one's while;50
 worth reading;50
 worths;30
 worts;40
@@ -106293,11 +107657,15 @@ wrangle;50
 wrangled;50
 wrangles;50
 wrangling;50
+wrap around one's little finger;50
 wrap one's mind around;60
 wrap parties;60
 wrap party;60
+wrapped around one's little finger;50
 wrapped one's mind around;60
+wrapping around one's little finger;50
 wrapping one's mind around;60
+wraps around one's little finger;50
 wraps one's mind around;60
 wrasse;20;Aquarium fish
 wrasses;20
@@ -106315,6 +107683,10 @@ wrestling meets;60
 Wrexham;40;Welsh town and football club owned by Ryan Reynolds
 Wrigley;50;Chicago ballpark, or the gum company
 Wrigley's;40;Gum brand
+wrinkled one's brow;50
+wrinkle one's brow;50
+wrinkles one's brow;50
+wrinkling one's brow;50
 Wriothesley;40;Henry Wriothesley, Shakespeare's patron
 wrist pad;50
 wrist pads;50
@@ -106338,6 +107710,7 @@ writing group;50
 writing in;40
 writing on;40
 writing to;40
+written all over one's face;50
 written in the stars;60
 Wrld;40;Juice Wrld, rapper
 Wroclaw;40;Polish city
@@ -108165,10 +109538,14 @@ Ziploc baggie;50
 Ziploc baggies;50
 Ziploc bags;50
 Ziplocs;40;Storage bags
+zip one's lip;50
 zipped file;20
+zipped one's lip;50
+zipping one's lip;50
 Zippo;50;Lighter brand
 Zipporah;40;Wife of Moses
 Zippos;40;Flip-top lighters
+zips one's lip;50
 zip tie;50
 zip-tied;50
 zip ties;50
