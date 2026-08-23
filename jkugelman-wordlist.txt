@@ -100171,6 +100171,7 @@ Traylor;40;Bill Traylor, self-taught folk artist
 Traynor;40;"Pie" Traynor, MLB manager in the 1920s, all time great third baseman
 Trayvon;40;Trayvon Martin, whose 2012 killing galvanized Black Lives Matter
 tre;40;Italian three
+Tré;40;Tré Cool, Green Day drummer
 Trea;30;Trea Turner, All-Star shortstop
 Treacher;40
 Treacy;30;Philip Treacy, Irish hat designer
@@ -100221,6 +100222,8 @@ Trebek;50;Alex Trebek, "Jeopardy!" host
 Treble C;20;Flour brand
 trebly;40
 trece;40;13 in Spanish
+Tré Cool;50;Green Day drummer
+Tre Cool;0
 tree;50
 tree bark;50
 Treebeard;60
