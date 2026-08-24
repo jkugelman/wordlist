@@ -6190,6 +6190,7 @@ as dead as a;20
 ASDF;30
 ASDFGHJKL;30
 as did I;50
+as different as night and day;60
 as dull as dishwater;60
 -ase;20
 asea;50
@@ -9523,8 +9524,11 @@ Beastars;40;Anime and manga series
 Beastie Boys;60
 Beastmaster;40;1982 sword-and-sorcery film
 beast mode;60
+beast of burden;60
+beasts of burden;60
 Beast Wars;60;Classic Transformers storyline in the 90s, later adapted into a 2023 blockbuster
 beast within;50
+beast with two backs;60
 beat a dead horse;60
 beat a hasty retreat;60
 beat all;40
@@ -9612,6 +9616,7 @@ Beaumont;40;Francis Beaumont, Jacobean playwright / Texas city
 Beaumont, Texas;50
 Beauregard;40;P. G. T. Beauregard, Confederate general
 Beauregarde;50;Violet Beauregarde, gum-chewing Wonka kid
+Beauty and the Beast;60
 Beautyblender;50;Makeup sponge brand
 Beautyblenders;40;Makeup sponges
 beauty shot;60
@@ -10067,6 +10072,7 @@ belly bumps;60
 belly button lint;50
 belly fat;50
 bellyful;50
+belly of the beast;60
 belly scratch;60
 belly scratches;60
 Belmondo;40;Jean-Paul Belmondo, "Breathless" star
@@ -25106,6 +25112,8 @@ Die with a Smile;60;Grammy-winning Lady Gaga & Bruno Mars duet
 diez;40;Ten in Spanish
 dif;20
 diff;40
+different animal;60
+different as night and day;60
 differential diagnoses;60
 differential diagnosis;60
 differential equation;60
@@ -38505,6 +38513,7 @@ gobbet;40;Lump of flesh, spit, etc.
 gobbets;40
 Gobbledy;40;Gobbledy Gooker, WWE turkey mascot
 Gob Bluth;60;"Arrested Development" character
+go beast mode;60
 go behind;40
 Gobert;40;Rudy Gobert, NBA Defensive Player of the Year
 Gobi;50;Asian desert / Indian cauliflower dish
@@ -38607,6 +38616,7 @@ goes back to;40
 goes back to square one;60
 goes back to the drawing board;60
 goes batty;50
+goes beast mode;60
 goes behind;40
 goes big;50
 goes blank;50
@@ -38773,6 +38783,7 @@ going back to;40
 going back to square one;60
 going back to the drawing board;60
 going batty;50
+going beast mode;60
 going behind;40
 going big;50
 going blank;50
@@ -49061,6 +49072,7 @@ it's that simple;60
 it's the best of both worlds;60
 it's the eternal question;60
 it's the law;60
+it's the nature of the beast;60
 It's The Truth Ruth;50;1958 song by The Big Bopper
 it's time;50
 it's time to move on;60
@@ -64755,6 +64767,7 @@ natural minor scales;60
 Natural Smurf;60
 natural world;60
 nature hike;50
+nature of the beast;60
 nature walk;50
 Naturi;40;Naturi Naughton, actress and 3LW singer
 Naugahyde;50;Fake-leather brand
@@ -96528,6 +96541,7 @@ The Beard;60
 the bearer of bad news;20
 The Beastie Boys;60
 the beast within;50
+the beast with two backs;60
 the beat;20
 the beaten path;60
 The Beatles;60
@@ -105593,6 +105607,7 @@ went back to;40
 went back to square one;60
 went back to the drawing board;60
 went batty;50
+went beast mode;60
 went behind;40
 went big;50
 went blank;50
