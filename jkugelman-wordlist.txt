@@ -7512,6 +7512,7 @@ aw hell naw;60
 a whole lot;50
 a whole new ballgame;60
 a whole nother;60
+a whole other beast;60
 a win is a win;60
 a win's a win;60
 a wise guy, eh?;60
@@ -106490,6 +106491,7 @@ who knew;60
 who knows how long;60;Ages
 whole hog;60
 whole new ball game;60
+whole other beast;60
 whole shooting match;60
 whole story;50
 whole thing;60
