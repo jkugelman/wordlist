@@ -11269,6 +11269,8 @@ Blackburne;40;Anna Blackburne, English botanist / Joseph Blackburne, chess maste
 black caraway;50
 black carpet beetle;60
 black carpet beetles;60
+black cloud;60
+black clouds;60
 black cow;30;???
 black diamond;60
 black diamond run;60
@@ -16368,6 +16370,7 @@ cast-iron pots;50
 cast-iron skillet;50
 cast-iron skillets;50
 Castle in the Sky;60;Studio Ghibli movie
+Castle on a Cloud;60;Les Mis song
 Castle Rock;60
 Castlevania;60
 cast one's lot with;60
@@ -19255,7 +19258,11 @@ clothings;30
 Clotho;30;One of the Three Fates in Greek myth
 Clotilde;40;Frankish queen and saint
 cloture;50
+Cloud Atlas;60;David Mitchell novel / Tom Hanks movie
+cloud backup;60
+cloud backups;60
 Cloudbusting;50;Kate Bush song
+cloud computing;60
 Clouddead;40;cLOUDDEAD, experimental hip-hop group
 Cloudflare;40;Internet infrastructure company
 cloud formation;50
@@ -19263,6 +19270,7 @@ cloud formations;50
 Cloud Gate;60;Shiny steel sculpture in Chicago aka "The Bean"
 cloud kitchen;60;Virtual restaurant
 cloud kitchens;60
+cloud nine;60
 cloudscape;50;Painting of the sky
 cloudscapes;50
 Cloudsplitter;40;Russell Banks novel about John Brown
@@ -21262,6 +21270,10 @@ country albums;50
 Countryballs;40;Internet comic meme genre
 country boy;50
 country boys;50
+country club jail;60
+country club jails;60
+country club prison;60
+country club prisons;60
 country home;50
 country homes;50
 country star;60
@@ -37979,6 +37991,8 @@ ginglymi;30
 ginglymus;30;Hinge-like joint such as the elbow or knee
 Gingold;40;Hermione Gingold, actress in "Gigi"
 Gingrich;40;Newt Gingrich, Speaker of the House 1995-1999
+gin joint;60
+gin joints;60
 gin martini;50
 gin martinis;50
 Ginnie;40
@@ -38311,6 +38325,9 @@ Glo;40
 gloam;50
 Global 200;60;Weekly global songs chart published by Billboard
 global macro;50;Investment strategy that leverages large-scale macroeconomic and geopolitical data
+global superpower;50
+global superpowers;50
+global workforce;50
 globose;20;Spherical
 Glock;50;Handgun brand
 Glocks;40;Austrian pistols
@@ -46795,6 +46812,7 @@ immuring;30
 I'm next;50
 I'm No Angel;60
 I'm no fool;60
+I'm no slouch;60
 I'm not a bad person;60
 I'm not afraid of you;60
 I'm not a robot;60;CAPTCHA checkbox
@@ -66366,6 +66384,7 @@ none of;20
 none of this is true;60
 nonesuches;40
 nonet;40
+none the worse for wear;60
 none too soon;60
 nonets;40
 no never;50
@@ -66975,6 +66994,7 @@ now now;60
 no wonder;60
 no worries;60
 no worries at all;60
+no worse for wear;60
 Nowruz;40;Persian New Year
 now streaming;60
 now that's an idea;60
@@ -83494,6 +83514,7 @@ satraps;20
 satrapy;20;Ancient Persian province
 Satriani;50
 SATs;50
+sats;40;Oxygen saturation levels
 SAT score;60
 SAT scores;60
 sat shiva;60
@@ -92561,30 +92582,39 @@ stridulations;30
 strifes;30
 strigil;20;Ancient body cleaning tool
 strike a deal with;50
+strike a match;50
 strike a nerve;60
 strike a raw nerve;60
+strike dumb;50
 strike it rich;60
 strike one;50
 strikes a deal with;50
+strikes a match;50
 strikes a nerve;60
 strikes a raw nerve;60
+strikes dumb;50
 strikes it rich;60
 strike speechless;50
 strikes speechless;50
 strikes up a conversation;60
 strikes while the iron is hot;60
+strikes with;40
 strikethrough;60
 strike two;50
 strike up a conversation;60
 strike while the iron is hot;60
+strike with;40
 strike zone;50
 striking a deal with;50
+striking a match;50
 striking a nerve;60
 striking a raw nerve;60
+striking dumb;50
 striking it rich;60
 striking speechless;50
 striking up a conversation;60
 striking while the iron is hot;60
+striking with;40
 Strindberg;50;August Strindberg, Swedish playwright
 Strindbergian;40;Like the Swedish playwright's grim dramas
 Strine;40;Australian
@@ -92676,12 +92706,16 @@ Stroustrup;40;Bjarne Stroustrup, creator of C++
 Strout;40;Elizabeth Strout, "Olive Kitteridge" author
 strs;30
 struck a deal with;50
+struck a match;50
 struck a nerve;60
 struck a raw nerve;60
+struck by;40
+struck dumb;50
 struck it rich;60
 struck speechless;50
 struck up a conversation;60
 struck while the iron was hot;60
+struck with;40
 Strug;40;Kerri Strug, gymnast who won gold in 1996 with an injured ankle
 struggle bus;60
 struma;20;Disease, river, ship
@@ -93251,6 +93285,7 @@ sun-ripens;60
 Sunrise Serenade;30
 sunshine law;60
 sunshine laws;60
+sunstruck;50
 suntanning;50
 suntan oil;50
 suntan oils;50
@@ -98240,6 +98275,7 @@ Thundercat;40;Grammy-winning bassist and singer
 ThunderCats;50;1980s cartoon
 Thunderdome;60
 Thunder Road;60
+thunderstruck;60
 Thur;40
 Thurber;40;James Thurber, humorist and cartoonist
 Thurgood;50;Thurgood Marshall, first Black Supreme Court justice
