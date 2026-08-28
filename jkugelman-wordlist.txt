@@ -61550,6 +61550,8 @@ mgt;20
 mho;20;Conductance unit
 MHz;40
 mi;40
+MI5;40;British domestic intelligence agency
+MI6;40;British foreign intelligence agency
 Mia;50;Various people
 M.I.A.;40;British singer, rapper, songwriter, record producer, and activist
 MIA;40;Missing in action
