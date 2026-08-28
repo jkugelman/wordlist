@@ -87609,6 +87609,7 @@ sirup;20
 sirups;20
 sir yes sir;50
 sis;50
+SIS;40;British Secret Intelligence Service AKA MI6
 sisal;30;Rope fiber
 sisals;30;Rope fibers
 sí señor;40
