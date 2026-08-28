@@ -11408,6 +11408,8 @@ blast beat;60;Extreme metal drumming
 blast beats;60;Extreme metal drumming
 blast chiller;50
 blast chillers;50
+blast door;60
+blast doors;60
 blaster;50
 blasters;50
 blast fishing;60;Dynamite fishing
@@ -11415,6 +11417,8 @@ blasting cap;50
 blasting caps;50
 blast it;60
 Blastoise;50;Pokeyman
+blast shelter;60
+blast shelters;60
 blast shield;60
 blast shields;60
 blastula;40
@@ -88813,6 +88817,7 @@ Snapchatted;60
 Snapchatting;60
 snap count;60;Quarterback's count
 snap counts;60
+Snap! Crackle! Pop!;60;Kellog's slogan
 snapdragon;60
 snapdragons;60
 Snape;10;Harry Potter
@@ -88822,9 +88827,11 @@ snap lines;50
 snap one's fingers;50
 snapped at;40
 snapped one's fingers;50
+snapped out of it;60
 snapped to;40;Snapped to (attention)
 snapping at;40
 snapping one's fingers;50
+snapping out of it;60
 snapping to;40;Snapping to (attention)
 Snapple;50;Iced tea brand with facts under the cap
 Snapples;40
@@ -88833,9 +88840,12 @@ Snappy Smurfling;60
 snappysmurfling;20
 snaps at;40
 snaps one's fingers;50
+snaps out of it;60
 snaps to;40;Snaps to (attention)
 Snap stories;60
 Snap story;60
+Snap streak;60
+Snap streaks;60
 snap to;40;Snap to (attention)
 snarer;40
 snarers;40
