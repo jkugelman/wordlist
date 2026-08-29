@@ -64594,7 +64594,8 @@ Nansen;30;Fridtjof Nansen (1861-1930), Arctic explorer and Nobel Peace Prize lau
 Nantes;40;French port
 Nantucket;50;Massachusetts island of limerick fame
 Nantz;50;Sports broadcaster Jim
-Nanu;30;Half of Mork's catchphrase
+nanu;30;Half of Mork's catchphrase
+nanu nanu;40
 Naoero;40;Official name of Nauru, as of 2026
 NaOH;30;Sodium hydroxide (lye)
 Naomi;50;Common first name: Campbell, Watts, Osaka
