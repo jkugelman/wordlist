@@ -99947,7 +99947,7 @@ T pose;40
 TPP;20
 TPs;40
 Tr;20;Two-letter fragment
-tra;20
+tra;30
 Trabant;40;East German car
 Trabants;40;East German cars
 trabecula;20;Anatomical partition
@@ -100928,7 +100928,7 @@ Tsar Ivan IV;50;Ivan the Terrible
 Tsar of all Russia;60;Ivan the Terrible was the first
 tsars;50
 Tschabalala;40;Tschabalala Self, American painter
-tse;20
+tse;30
 T. S. Eliot;60;Poet
 T S Eliot;0
 Tseng;40;LPGA #1 golfer 2011-2013 Yani Tseng, or tennis's Jason Tseng
@@ -103003,7 +103003,7 @@ utility belt;50
 utility belts;50
 utilizer;30
 utilizers;30
-UTIs;40;Urinary tract infections
+UTIs;20;Urinary tract infections
 Utley;40;Chase Utley
 Utnapishtim;50;Flood survivor in the "Epic of Gilgamesh"
 Utne;30;Eric who founded "the best of the alternative press" in 1984 [common]
