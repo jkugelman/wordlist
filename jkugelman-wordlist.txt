@@ -108755,7 +108755,7 @@ YOLOs it;40
 Yom;40
 yo mama;60
 yo mamma;60
-yon;50
+yon;40
 Yona;40;Yona Harvey, poet
 Yonatan;40;Hebrew form of Jonathan
 Yonce;50;Beyoncé nickname and song
