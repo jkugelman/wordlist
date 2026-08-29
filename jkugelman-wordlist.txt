@@ -10740,6 +10740,7 @@ big 3-0;60
 biga;20
 Bigalow;40;Deuce Bigalow, Rob Schneider's male gigolo
 Big Apple;60
+big-ass;60
 Big Bad;60;Trope
 Big Bads;60
 big band;60
