@@ -44212,6 +44212,7 @@ Holofcener;40;Nicole Holofcener, film director
 Holofernes;50;General beheaded by Judith in the Apocrypha
 hologram;60
 holograms;60
+holographic principle;60
 HoloLens;50
 Hololive;40;VTuber agency
 Holst;40
