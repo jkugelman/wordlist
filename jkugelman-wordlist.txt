@@ -14901,6 +14901,7 @@ Caleb Carr;50
 Caledonia;50;Scotland, poetically
 Caledonian;50;Scottish, poetically
 Caledonians;40;Scots, poetically
+Cale Makar;40;Captain of the Colorado Avalanche, 2022 MVP
 calendar;50
 calendaring;40
 calendars;50
@@ -15973,7 +15974,7 @@ Cariocas;30
 cariole;30;One-horse carriage
 carioles;30
 Cariou;40;Len Cariou of the original Sweeney Todd cast
-carious;20;Decayed, as teeth
+carious;40;Decayed, as teeth
 caritas;30
 carjack;30
 carjacked;30
@@ -29097,6 +29098,7 @@ Ejogo;40;Carmen Ejogo, actress
 Ek;40;Daniel Ek, Spotify cofounder
 ekacnapota;0
 Ekaterina;40;Russian form of Catherine
+Ekaterina Makarova;40
 Ekberg;40;Anita Ekberg, "La Dolce Vita" actress
 EKCO;40;Former kitchenware brand (changed to Corelle Brands in 2018)
 eke;50
@@ -58619,6 +58621,7 @@ Major Walter Reed;50
 Majumdar;40;Megha Majumdar, "A Burning" novelist
 Majuro;40;Capital of the Marshall Islands
 makable;20;Variant of makeable
+Makar;40
 Makarios;30
 Makarios III;30;Greek Cypriot prelate and politician (1913–1977)
 Makarova;40;Natalia Makarova, ballerina
@@ -58811,6 +58814,7 @@ make war on;40
 make waves;60
 Makhmalbaf;40;Mohsen Makhmalbaf, Iranian filmmaker
 maki;40;Sushi roll
+makimono;40
 Makin';40;"Makin' Whoopee"
 making a bundle;60
 making a cameo;50
@@ -77582,6 +77586,7 @@ rainmaker;60
 rainmakers;60
 Rainn;40;Actor Rainn Wilson
 rain on;40
+Rain on Me;50;2020 song by Ariana Grande and Lady Gaga
 rains on;40
 rainstorm;50
 rainstorms;50
