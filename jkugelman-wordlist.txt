@@ -12165,6 +12165,7 @@ Boltzmann;40;Ludwig Boltzmann, physicist of the constant
 Bolu;40;Bolu Babalola, British-Nigerian novelist
 Bolzano;40;Bernard Bolzano, mathematician / city in northern Italy
 Bombadil;50;Tom Bombadil, "Lord of the Rings" oddity
+bomb-ass;60
 Bombay;50;Mumbai, formerly
 Bombays;40;Indian city, pluralized
 Bomb Balloon Basket;60;Acme invention
@@ -49115,6 +49116,7 @@ it's what we've all been thinking;60
 it's when, not if;60
 it's you;60
 it's you and me against the world;60
+it's your ass;60
 it's your funeral;60
 it's your lucky day;60
 Itt;40;Cousin Itt from "The Addams Family"
@@ -87348,6 +87350,7 @@ Silkwood;50;Karen Silkwood, nuclear whistleblower
 sillily;30;Weird adverb
 Silliman;40;Ron Silliman, Language poet / Benjamin Silliman, Yale chemist
 Sillitoe;40;Writer Alan Sillitoe, or a type of tartan pattern
+silly-ass;60
 silly me;60
 Silmarillion;50;Tolkien's mythology tome
 silted up;30
