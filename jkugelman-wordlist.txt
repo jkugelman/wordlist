@@ -3529,6 +3529,7 @@ a man a plan;30
 a man a plan a canal;40
 a man a plan a canal Panama;60
 Amanas;40
+A Man Called Ove;40
 Amanda;50;Amanda Gorman, poet / common first name
 Amandla;40;Amandla Stenberg, actress / Zulu for "power"
 amanita;40;Mushroom genus
@@ -44619,6 +44620,7 @@ hop to it;60
 hor;20
 hora;40
 Horace;50;Roman poet of the Odes, or Horace Mann
+Horace Ove;40
 Horae;30;Greek goddesses of the seasons
 Horan;40;One Direction member Niall Horan
 horas;40
@@ -49382,6 +49384,7 @@ Jack Kennedy;50
 Jacklight;40;Hunting lamp / Louise Erdrich poetry collection
 Jack Lord;40;"Hawaii Five-O" star
 Jackman;50;Hugh Jackman, Wolverine actor
+Jack Napier;50;Joker's real name in "Batman" (1989)
 Jack Nicholson;50
 jack of clubs;50
 Jack of Coins;60;Tarot card
@@ -50368,6 +50371,7 @@ John Locke;50
 John Lomax;50
 John Millington Synge;40;Irish writer and collector of folklore (1871–1909)
 John Muir;50
+John Napier;50;Inventor of logarithms (1550-1617)
 John Nash;60
 Johnnie;40;Johnnie Walker, Scotch brand / Johnnie Cochran, lawyer
 Johnnie Taylor;50;Singer and songwriter (1934–2000)
@@ -51222,6 +51226,7 @@ Karla;40;John le Carré villain
 Karlheinz;40;Karlheinz Stockhausen, avant-garde composer
 Karlie;30;Model Kloss, host of "Project Runway"
 Karloff;50;Boris Karloff, Frankenstein's monster actor
+Karl Ove Knausgaard;40
 Karlovy;40;Karlovy Vary, Czech spa town
 Karlsruhe;40;German city near the French border
 Karlstad;40;Swedish city, don't know if notable didn't check
@@ -64619,7 +64624,7 @@ naperies;20
 Naperville;40;Chicago suburb
 napery;30;Table linens
 Napheesa;40;Napheesa Collier, WNBA All-Star
-Napier;40;John Napier, inventor of logarithms
+Napier;40;Jack Napier, the Joker / John Napier, inventor of logarithms (1550-1617)
 Naples;50;Italian city on the bay
 Napoleon;50;Napoleon Bonaparte, French emperor
 Napoleon Dynamite;60
@@ -70263,8 +70268,10 @@ ovally;40
 Ovaltine;50;Malted milk drink
 ovarial;40;Variant of ovarian
 ovate;30
-Ove;40;"A Man Called Ove" title character
+Ove;30;Various
 Ovechkin;50;Alex Ovechkin, NHL's all-time goals leader
+Ove Glove;40;Brand of oven mitt
+Ove Gloves;40;Brand of oven mitts
 oven mitt;50
 oven mitts;50
 oven timer;50
