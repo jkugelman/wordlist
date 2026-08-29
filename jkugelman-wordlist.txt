@@ -25998,6 +25998,7 @@ doest;30
 does that change anything?;60
 does that make sense;60
 does that sound right?;60
+does that sound right to you?;60
 does that work?;60
 does that work;0
 does that work for you?;60
@@ -96442,6 +96443,7 @@ that so;60
 thatsocool;0
 that's odd;60
 that's on me;60
+that sound right to you?;60
 that sounds awful;60
 that sounds delicious;60
 that sounds easy;60
