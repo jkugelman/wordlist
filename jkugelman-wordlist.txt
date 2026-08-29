@@ -43464,7 +43464,7 @@ Hibernian;50;Irish, poetically
 Hibernians;40;Irish, poetically
 Hiberno;20;Irish-
 hi, Billy Mays here;60
-Hi-C;50;Hi-C
+Hi-C;40;Hi-C
 hiccough;50
 Hicham;40;Hicham El Guerrouj, world-record miler
 Hicham El Guerrouj;60;Hicham El Guerrouj, mile run world record holder
