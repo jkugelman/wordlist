@@ -50360,6 +50360,7 @@ John I;30
 John II;30
 John IX;30
 John Kruk;50
+John Lasseter;10;Former head of Pixar, accused of sexual misconduct in 2017
 John Lennon;60
 John Locke;50
 John Lomax;50
