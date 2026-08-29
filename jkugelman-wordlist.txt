@@ -84431,8 +84431,8 @@ sea eels;40
 sea egg;40;Type of sea urchin
 sea eggs;40
 seaes;0
-sea fan;40
-sea fans;40
+sea fan;50
+sea fans;50
 seafarer;50
 seafarers;50
 seafaring;50
