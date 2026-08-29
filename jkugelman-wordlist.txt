@@ -2540,6 +2540,7 @@ Alanis;40
 Alan Lomax;50
 Alan Moore;60
 Alannah;40;Alannah Myles, "Black Velvet" singer
+Alan Napier;40;Actor who played Alfred in the 1960s "Batman" TV series
 Alan O'Day;50
 Alans;30;Plural name
 Alan Seeger;20;Poet uncle of folk singer Pete
