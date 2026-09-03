@@ -10227,6 +10227,8 @@ Benthamites;40;Utilitarian followers of Jeremy Bentham
 benthos;20
 Bentley;50;Luxury car marque
 Bentleys;40;British luxury cars
+bento box;60
+bento boxes;60
 bentonite;30;Type of clay
 Bentonville;40;Arkansas city, Walmart's home
 Bentsen;40;Lloyd Bentsen, "You're no Jack Kennedy" senator
@@ -10756,6 +10758,8 @@ Big Bertha;60
 Big Berthas;50
 Big Bird;60
 big blind;60
+big-box store;60
+big-box stores;60
 big-boy pants;60
 big-brained;60
 big brother;60
@@ -22251,6 +22255,8 @@ crystal set;50
 crystal sets;50
 CS;40
 CSA;30;Community-supported agriculture
+CSA box;40
+CSA boxes;40
 C scale;30
 C scales;30
 C-section;50
@@ -49280,6 +49286,7 @@ I was framed;60
 I was going to say;60
 I was gonna say;60
 I was just checking;60
+I was just gonna say;60
 I was like;60
 I wasn't here;60
 I was right;60
@@ -50863,6 +50870,10 @@ just fuckin' with ya;10
 just fuckin' with you;10
 just give it time;60
 just goes to show;60
+just gonna sneak past ya;60
+just gonna sneak past you;60
+just gonna sneak right past ya;60
+just gonna sneak right past you;60
 justice system;60
 just imagine;60
 Justin;50;Common given name / Justin Bieber, singer
@@ -56970,6 +56981,8 @@ loose tongues;50
 loot;50
 loot bag;60
 loot bags;60
+loot box;60
+loot boxes;60
 looted;50
 looting;50
 loots;50
@@ -70227,6 +70240,9 @@ outrunner;50;Type of motor
 outrunners;50
 outsat;30
 outside the box;60
+outside-the-box thinker;60
+outside-the-box thinkers;60
+outside-the-box thinking;60
 outsit;30
 outsits;30
 outsitting;30
@@ -74310,8 +74326,8 @@ poblano pepper;50
 poblano peppers;50
 PO box;50
 PO boxes;50
-PO Box No.;30
-PO Box Nos.;30
+PO box no.;40
+PO box nos.;40
 PO box number;50
 PO box numbers;50
 POC;40
@@ -76841,8 +76857,8 @@ put your house in order;60
 Puyi;20;Last emperor of China
 PUZ file;20
 Puzo;50;Mario Puzo, author of "The Godfather"
-puzzle box;50
-puzzle boxes;50
+puzzle box;60
+puzzle boxes;60
 PVC;40
 pvt;40
 pvts;30
@@ -101423,7 +101439,7 @@ Tuvans;30;Turkish ethnic group
 tux;50
 Tuzigoot;40;Arizona national monument with Sinagua ruins
 TV;50
-TVA;30;Tennessee Valley Authority 
+TVA;30;Tennessee Valley Authority
 TV actor;50
 TV actors;50
 TV ad;40
