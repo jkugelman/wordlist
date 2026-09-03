@@ -34949,8 +34949,17 @@ Fortaleza;40;Brazilian coastal city
 Fortas;40;Abe Fortas, Supreme Court justice
 for the birds;60
 for the first time;50
+for the longest time;50
+for the long haul;50
+for the love of;60
 for the love of all that is holy;60
 for the love of all that's holy;60
+For the Love of Benji;50;Second film in the Benji series (1977)
+for the love of God;60
+For the Love of Him;50;1969 single by Bobbi Martin
+for the love of it;50
+For the Love of Money;50;1974 single by The O'Jays
+for the love of Pete;60
 for the public good;50
 Forti;40;Simone Forti, postmodern dance pioneer
 fortieth;40
@@ -47553,6 +47562,7 @@ Inisherin;40;"The Banshees of Inisherin" island
 Inishmaan;40;Aran island of "The Cripple of Inishmaan"
 Inishmore;40;Largest Aran island
 Initech;50;"Office Space" company
+in it for the long haul;60
 initial reaction;50
 initial reactions;50
 initio;40
@@ -68128,8 +68138,10 @@ oh excuse me;50
 oh fine;60
 oh for crying out loud;60
 oh for heaven's sake;60
+oh for the love of;60
 oh for the love of all that is holy;60
 oh for the love of all that's holy;60
+oh for the love of Pete;60
 oh fuck;10
 oh fudge;60
 oh fun;60
@@ -97988,6 +98000,7 @@ this is a total nightmare;60
 this is big;60
 this is easy;60
 this is for all the marbles;60
+This Is for the Lover in You;50;1981 R&B single by Shalamar
 this is how it's going to be?;60
 this is how it's gonna be?;60
 This Is How We Do It;60
