@@ -25474,15 +25474,20 @@ dirt poor;60
 dirt pudding;60;Chocolate pudding + gummy worms
 dirt stain;50
 dirt stains;50
+dirty bird;50
 dirty blond;60
 dirty blonde;60
 dirty blondes;60
 dirty blonds;60
 dirty cop;50
 dirty cops;50
+dirty deed;50
+dirty deeds;50
 dirty dog;50
 Dirty Harry;60
 dirty laundry;60
+dirty liar;60
+dirty liars;60
 dirty linen;50
 dirty linens;50
 dirty look;60
@@ -25492,10 +25497,21 @@ dirty-minded;50
 dirty minds;60
 dirty mouth;60
 dirty mouths;60
+dirty movie;50
+dirty movies;50
 dirty picture;50
 dirty pictures;50
+dirty politician;50
+dirty politicians;50
+dirty politics;50
 dirty rice;50
+dirty shame;50
 dirty spoons;60;Ice cream shop jar
+dirty trick;60
+dirty tricks;60
+dirty word;60
+dirty words;60
+dirty work;60
 dis;40
 disagreed with;40
 disagreeing with;40
@@ -25549,10 +25565,14 @@ diseurs;20;Male monologists
 diseuse;20;Female monologist
 diseuses;20;Female monologists
 dishabille;40;State of being partly or scantily clothed
+dish dirt;60
+dished dirt;60
 dished it;40
 dished on;40
+dishes dirt;60
 dishes it;40
 dishes on;40
+dishing dirt;60
 dishing it;40
 dishing on;40
 dish it;40
@@ -33310,6 +33330,7 @@ Figgis;40;Cyril Figgis, "Archer" character / Mike Figgis, director
 fight against;40
 fight a losing battle;60
 fight crime;60
+fight dirty;60
 fighter jet;60
 fighter jets;60
 fighter kite;60
@@ -33319,6 +33340,7 @@ fight for one's life;50
 fighting against;40
 fighting a losing battle;60
 fighting crime;60
+fighting dirty;60
 fighting for;40
 fighting for one's life;50
 Fighting Illini;60;Athletics teams of the University of Illinois Urbana-Champaign
@@ -33329,6 +33351,7 @@ fight or flight response;60
 fights against;40
 fights a losing battle;60
 fights crime;60
+fights dirty;60
 fights for;40
 fights for one's life;50
 fights with;40
@@ -35024,6 +35047,7 @@ Foucault's;40;___ pendulum
 fought against;40
 fought a losing battle;60
 fought crime;60
+fought dirty;60
 fought for;40
 fought for one's life;50
 fought with;40
@@ -36752,6 +36776,7 @@ gauze pads;50
 gauzes;30
 gauzy;30
 gave a black eye;60
+gave a dirty look;60
 gave a hand;50
 gave air to;40
 gave a lift;50
@@ -38127,6 +38152,7 @@ Giulio;40;Italian first name
 Giuseppe;50;Giuseppe Garibaldi, Italian unifier / common Italian name
 Givaudan;40;Swiss flavors and fragrances giant
 give a black eye;60
+give a dirty look;60
 give a dog a bone;60
 give a hand;50
 give air to;40
@@ -38161,6 +38187,7 @@ give one a black eye;20
 give one's best;60
 Giverny;40;French village of Monet's garden
 gives a black eye;60
+gives a dirty look;60
 gives a hand;50
 gives air to;40
 gives a lift;50
@@ -38199,6 +38226,7 @@ give way to;40
 give you one guess;60
 give zero fucks;10
 giving a black eye;60
+giving a dirty look;60
 giving a hand;50
 giving air to;40
 giving a lift;50
@@ -82064,6 +82092,7 @@ rub noses with;40
 rub-offs;20
 rubrical;40
 rubs noses with;40
+rub some dirt on it;60
 rubs the wrong way;60
 rub the wrong way;60
 Ruby Foo's;50
@@ -92651,12 +92680,14 @@ strike a raw nerve;60
 strike dumb;50
 strike it rich;60
 strike one;50
+strike pay dirt;60
 strikes a deal with;50
 strikes a match;50
 strikes a nerve;60
 strikes a raw nerve;60
 strikes dumb;50
 strikes it rich;60
+strikes pay dirt;60
 strike speechless;50
 strikes speechless;50
 strikes up a conversation;60
@@ -92674,6 +92705,7 @@ striking a nerve;60
 striking a raw nerve;60
 striking dumb;50
 striking it rich;60
+striking pay dirt;60
 striking speechless;50
 striking up a conversation;60
 striking while the iron is hot;60
@@ -92775,6 +92807,7 @@ struck a raw nerve;60
 struck by;40
 struck dumb;50
 struck it rich;60
+struck pay dirt;60
 struck speechless;50
 struck up a conversation;60
 struck while the iron was hot;60
@@ -97768,6 +97801,7 @@ the West;40
 the West Bank;40
 the west wind;40
 The West Wing;60
+The Wet Bandits;60
 The Whale;60
 the Whiskey Rebellion;40
 The White Lotus;60
@@ -105906,6 +105940,10 @@ West Wing;60
 Westwood;50;Vivienne Westwood, fashion designer
 Westworld;50;HBO sci-fi western, from the 1973 Crichton film
 wet;50
+we take those;60
+we talked about this;60
+Wet Bandits;60
+wet behind the ears;60
 wet cell;50
 wet cells;50
 wet cement;50
@@ -108907,6 +108945,7 @@ you didn't hear that from me;60
 you didn't say the magic word;60
 you died;60
 you dig?;60
+you dirty rat;60
 you don't have to tell me twice;60
 you don't know how it feels;60
 You Don't Know Jack;60
