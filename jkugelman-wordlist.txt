@@ -67251,7 +67251,7 @@ nullius filius;50;Illegitimate child, in common law
 null modem;50
 null value;60
 null values;60
-num;20
+num;40
 Numan;30;Musician Gary Numan
 numans;20
 Numb3rs;50;CBS crime drama (2005–2010)
