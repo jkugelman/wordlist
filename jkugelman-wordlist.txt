@@ -16502,6 +16502,7 @@ cat door;50
 cat doors;50
 Cate;50;Cate Blanchett, Australian actress
 cat ears;20;Green paint
+Cate Blanchett;60
 category killer;60
 category killers;60
 catena;20
@@ -23407,15 +23408,19 @@ data scrapers;50
 data scraping;50
 data storage medium;20
 dat dere;60
+date back to;40
 date bread;60
+dated back to;40
 datedesignation;0
 dated up;50
 dateline;60
 dater;30
 daters;30
+dates back to;40
 dates up;50
 date up;50
 Dathan;40;Biblical rebel against Moses
+dating back to;40
 dating site;60
 dating sites;60
 dating up;50
@@ -29710,6 +29715,7 @@ Emperor's New Groove;60;2000 animated Disney film, with "The"
 emphasis added;60
 emping;30;Indonesian cracker
 Empire State Bldg;30
+Empire State Building;60
 Empire Strikes Back;60;"Star Wars" sequel, with "The"
 empirical fact;60
 empirical facts;60
@@ -51227,6 +51233,8 @@ karaoke singers;60
 Kara Sea;40
 Kara Swisher;50;Tech journalist Kara Swisher
 karate;50
+karate belt;60
+karate belts;60
 karate class;60
 karate classes;60
 karate dojo;60
@@ -73610,6 +73618,7 @@ pirana;20
 piranas;20
 Pirandello;40;Playwright Luigi Pirandello, 1934 Nobel Prize in Literature
 Piranesi;40;Giovanni Battista Piranesi, engraver of imaginary prisons
+pirate booty;50
 pirate captain;60
 pirate captains;60
 pirate copies;60
@@ -75900,6 +75909,8 @@ Priuses;40;Toyota hybrids
 privacies;30
 privacy policies;60
 privacy policy;60
+private balconies;50
+private balcony;50
 private bathroom;50
 private box;50
 private boxes;50
@@ -85375,6 +85386,7 @@ Sep;40
 sepal;30;Flower part
 sepaloid;30
 sepals;30;Flower parts
+separate but equal;50
 Sephardi;50;Jew of Spanish or Portuguese descent
 Sephardic;50;Of Spanish-descended Jews
 Sephardim;50;Jews of Iberian descent
@@ -87923,6 +87935,8 @@ skat;40;Three-player trick-taking card game
 Skateaway;40;Dire Straits song
 skateboard park;60
 skateboard parks;60
+skateboard trick;60
+skateboard tricks;60
 skated on thin ice;60
 skate guard;50
 skate guards;50
@@ -105095,6 +105109,7 @@ waterfront home;50
 waterfront homes;50
 water gas;40;???
 Watergate;50
+Watergate break-in;60
 Waterhouse;40;TD Waterhouse, brokerage / John William Waterhouse, painter
 waterish;40;Somewhat watery
 water jet cutters;50
