@@ -93163,8 +93163,15 @@ Sudetenland;40;Historical area in present-day Czechoslovakia
 Sudhir;40;Sudhir Venkatesh, "Gang Leader for a Day" sociologist
 Sudoku;50;Number placement puzzle
 Sudokus;40;Number puzzles
+sudsed;50
+sudsed up;50
 sudser;40;Soap opera?
 sudsers;40
+sudses;50
+sudses up;50
+sudsing;50
+sudsing up;50
+suds up;50
 sue;50
 Sue Ane;30;???
 sueded;40
