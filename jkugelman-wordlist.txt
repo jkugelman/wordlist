@@ -106394,6 +106394,18 @@ what the dealio?;60
 what the dillio?;60
 what the frick;60
 what the fuck;10
+what the heck;60
+what the heck?;60
+what the heck happened?;60
+what the heck happened;0
+what the heck just happened?;60
+what the heck just happened;0
+what the hell;60
+what the hell?;60
+what the hell happened?;60
+what the hell happened;0
+what the hell just happened?;60
+what the hell just happened;0
 what the hell, sure;60
 what the hey;60
 what was all that about?;60
