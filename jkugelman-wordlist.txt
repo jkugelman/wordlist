@@ -85143,6 +85143,7 @@ selling snow to Eskimos;60
 selling to;40
 selling up;40
 sell like hotcakes;60
+sell me this pen;60
 sell one's soul;60
 Sellotape;40;British sticky tape brand
 sells a bill of goods;60
@@ -93577,6 +93578,11 @@ sure signs;60
 Surete;20
 sure to;40
 surette;20
+sure what the hell;60
+sure why not;60
+sure will;50
+sure winner;50
+sure winners;50
 sure you have;60
 sure you will;60
 surface-active;40
@@ -106446,6 +106452,12 @@ where do I begin;0
 where do I sign up;60
 where do you draw the line?;60
 where do you draw the line;0
+where do you get off?;60
+where do you get off;0
+where do you live?;50
+where do you live;0
+where do you think you're going?;60
+where do you think you're going;0
 wherefore art thou;40;Partial
 wherefore art thou Romeo;60
 where have you gone, Joe DiMaggio?;60
