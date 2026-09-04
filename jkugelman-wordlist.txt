@@ -93592,7 +93592,7 @@ sure signs;60
 Surete;20
 sure to;40
 surette;20
-sure what the hell;60
+sure, what the hell;60
 sure why not;60
 sure will;50
 sure winner;50
