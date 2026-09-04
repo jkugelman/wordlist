@@ -22716,6 +22716,8 @@ cyanosed;30
 cyanosis;30;Skin discoloration
 cyans;40
 Cybele;40;Phrygian mother goddess
+Cybercab;60;Tesla robotaxi
+Cybercabs;60;Tesla robotaxis
 Cyberchase;40;PBS math cartoon
 cybercrime;60
 cybercrimes;60
@@ -96165,6 +96167,10 @@ Tesco;40
 Tesfaye;40;Abel Tesfaye, better known as The Weeknd
 Tesh;40
 Tesla cars;20
+Tesla Cybercab;60
+Tesla Cybercabs;60
+Tesla Robotaxi;60
+Tesla Robotaxis;60
 Tesori;40;Jean Tesori, most honored female theatrical composer in history
 tesoro;30
 Tess;40
