@@ -75228,6 +75228,8 @@ pot smoker;60
 pot smokers;60
 pot smoking;60
 pots of tea;50
+pottage;40
+pottages;40
 pot tea;50;Cannabis tea
 potted meat;50
 Pottermore;50
