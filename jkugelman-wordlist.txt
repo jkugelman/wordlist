@@ -27016,6 +27016,7 @@ dragging in;40
 dragging into;40
 dragging one's feet;50
 dragging one's heels;50
+draggy;40
 drag in;40
 drag into;40
 drag king;50
