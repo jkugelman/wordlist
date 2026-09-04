@@ -35966,6 +35966,8 @@ full marathons;60
 Fullmetal;50;"Fullmetal Alchemist" anime
 Fullmetal Alchemist;60
 full of shit;10
+Full Self Driving;60
+Full Self Driving (Supervised);60
 full send;60
 full spectrum;50
 full spread;50
@@ -62695,13 +62697,21 @@ Moctezuma;40;Aztec emperor, aka Montezuma
 mod;50
 ModCloth;40;Online clothing retailer
 model;50;One who might say "Take your best shot!"
+Model 3;40
+Model 3s;40
 Model A;40;Old Ford model
 Model A's;40
 Modelo;40;Mexican beer brand
 model rocket kit;60
 model rocket kits;60
 models;50;They might say "Take your best shot!"
+Model S;40
+Model Ss;40
 Model UN;60
+Model X;40
+Model Xs;40
+Model Y;40
+Model Ys;40
 Modena;30;Italian city
 Moderat;40;German electronic music group
 moderate breeze;50;4 on the Beaufort wind force scale
@@ -96169,6 +96179,14 @@ Tesh;40
 Tesla cars;20
 Tesla Cybercab;60
 Tesla Cybercabs;60
+Tesla Model 3;50
+Tesla Model 3s;40
+Tesla Model S;50
+Tesla Model Ss;40
+Tesla Model X;50
+Tesla Model Xs;40
+Tesla Model Y;50
+Tesla Model Ys;40
 Tesla Robotaxi;60
 Tesla Robotaxis;60
 Tesori;40;Jean Tesori, most honored female theatrical composer in history
