@@ -41978,6 +41978,7 @@ Harlem;50;Manhattan neighborhood
 Harlemite;30
 Harlemites;30
 Harley;50;Harley-Davidson hog / Harley Quinn
+Harley Quinn;60
 Harleys;50;Milwaukee-made motorcycles
 Harlow;50
 Harman;40
@@ -45576,6 +45577,7 @@ hydrogen power;50
 hydrogen-powered;50
 hydrolytic;40
 Hydrox;50;Cookie brand that predated Oreos
+hydroxychloroquine;50;Antimalarial medication
 hyena cub;50
 hyena cubs;50
 Hyksos;40;Ancient invaders of Egypt
@@ -82905,6 +82907,7 @@ Saint Olave;40
 Saint Omer;40;French town Saint-Omer, or a 2022 movie set there
 Saint Osmund;40
 Saint Patrick;60
+Saint Thomas Aquinas;50
 Saint-Tropez;50
 Saint Vitus;40
 Saipan;30;Marianas island
