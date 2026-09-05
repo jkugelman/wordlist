@@ -25619,6 +25619,7 @@ Disney on Ice;50
 Disney park;60
 Disney parks;60
 Disney's;40;Possessive of the studio
+Disney's Hollywood Studios;60;Disney World theme park
 Disney World;60
 dispensed with;40
 dispenses with;40
@@ -25907,6 +25908,7 @@ Dobson;40;Dobson unit of ozone, or Fefe Dobson, singer
 do business;40
 doc;50
 doce;40;Twelve in Spanish
+Doc Hollywood;50;1991 Michael J. Fox film
 Dockery;40;Michelle Dockery, "Downton Abbey" actress
 docking stations;50
 dockominium;60
@@ -31070,6 +31072,8 @@ e-Transfers;20
 etrog;30;Yellow citron used by Jews during the weeklong holiday of Sukkot
 etrogim;30;Yellow citrons used by Jews during the weeklong holiday of Sukkot
 etrogs;30;Yellow citrons used by Jews during the weeklong holiday of Sukkot
+E! True Hollywood Stories;20
+E! True Hollywood Story;50
 Etruria;30;Ancient region of Italy, home of Etruscans
 Etrurian;30
 Etrurians;30
@@ -35260,6 +35264,7 @@ Frank Frazetta;40;Fantasy illustrator
 Frankfurt;50;German financial hub
 Frank Gehry;50
 Frankie;50;Common nickname: Frankie Valli / Frankie Avalon
+Frankie Goes to Hollywood;60;1980s English pop band
 Frankish;40;Of Charlemagne's people
 Frankl;40;Viktor Frankl, author of "Man's Search for Meaning"
 Franklin;50;Ben Franklin, or Aretha Franklin
@@ -38731,6 +38736,7 @@ goes gold;50
 goes green;50
 goes ham;60
 goes hard;50
+goes Hollywood;60
 goes in;40
 goes in circles;60
 goes in on;50
@@ -38841,6 +38847,7 @@ go gunning for;20
 Goguryeo;40;Ancient Korean kingdom
 go ham;60
 go hard;50
+go Hollywood;60
 go home;50
 goi;20
 go in;40
@@ -38895,6 +38902,7 @@ going gold;40
 going green;50
 going ham;60
 going hard;50
+going Hollywood;60
 going in;40
 going in circles;60
 going in on;50
@@ -39165,6 +39173,7 @@ gone flat;40
 gone for a dip;50
 Gone Girl;60
 gone ham;60
+gone Hollywood;60
 gone in;40
 gone in an instant;60
 gone in circles;60
@@ -44257,12 +44266,31 @@ Holly Golightly;60
 Hollyoaks;40;British soap opera
 Hollywoo;40;"BoJack Horseman" version of Hollywood
 Hollywood;50;Tinseltown
+Hollywood accounting;60;Opaque or creative accounting methods
 Hollywood agent;60
 Hollywood agents;60
+Hollywood blacklist;60
+Hollywood bookkeeping;60;Opaque or creative accounting methods
+Hollywood Center Studios;50
+Hollywood ending;60
+Hollywood, Ending;50;2026 John Greek book
+Hollywood endings;60
+Hollywood Hills;60
 Hollywoodland;60;Original wording of the Hollywood sign
+Hollywood, Los Angeles;50
+Hollywood moment;50
+Hollywood moments;50
+Hollywood Renaissance;60;1960s–1980s American film movement
+Hollywood Sign;60
 Hollywood Squares;50
 Hollywood star;60
 Hollywood stars;60
+Hollywood studio;50
+Hollywood Studios;60;Disney World theme park
+Hollywood studios;50
+Hollywood Studio Symphony;50
+Hollywood Vampires;50;Rock supergroup with Alice Cooper, Johnny Depp, and Joe Perry
+Hollywood Walk of Fame;60
 Holm;40;Actor Ian Holm, or Celeste Holm from "All About Eve"
 Holmes;50;Sherlock Holmes, detective / Katie Holmes, actress
 Holmesian;50;Of Sherlock Holmes
@@ -48866,6 +48894,7 @@ IT band;50
 IT bands;50
 it beats me;60
 it beats the alternative;60
+It Came from Hollywood;50;1982 comedy film
 it can't be;60
 it can't be that bad;60
 it can't be that hard;60
@@ -65566,6 +65595,7 @@ Newhart;50;Bob Newhart, deadpan comedian
 New Haven, CT;30
 new hire;50
 new hires;50
+New Hollywood;50;1960s–1980s American film movement
 new in town;50
 NewJeans;40;K-pop girl group
 New Jersey;50
@@ -68505,6 +68535,7 @@ old habits die hard;60
 Oldham;40;Will Oldham, aka Bonnie "Prince" Billy / English town
 old hat;60;Last year
 old heave-ho;60
+Old Hollywood;50
 Old King Cole;60
 old-line;50;Established, like a firm or a family
 Old Maid;60
@@ -71782,6 +71813,7 @@ Paulette;40;Paulette Goddard, "Modern Times" actress
 Paulette Goddard;50;Golden Age of Hollywood actress
 paulettegoodard;0
 Pauley;40;Jane Pauley, "CBS Sunday Morning" host
+Paul Hollywood;50;Judge on "The Great British Bake Off"
 Pauli;40
 Paulie;40;Paulie Walnuts, "Sopranos" mobster
 paulii;20
@@ -73876,6 +73908,7 @@ Planeteer;50;Captain Planet sidekick
 Planeteers;50
 planetesimal;60
 planetesimals;60
+Planet Hollywood;60
 planetshine;60
 plan for;40
 plangent;40;Loud and melancholy
@@ -97082,6 +97115,7 @@ the High Priestess;60;Tarot card
 The Hitchhiker's Guide to the Galaxy;60
 The Hobbit;50
 the Hollister riot;30;1947 motorcycle rally
+The Hollywood Vampires;50;Celebrity drinking club formed by Alice Cooper
 the Home Depot beat;60
 The Honeymooners;60
 the Hoover Dam;50
@@ -102447,6 +102481,7 @@ unit tests;30
 univ;40
 UNIVAC;40;Universal Automatic Computer
 universal design;60;The process of creating products to be accessible to as many people as possible
+Universal Studios Hollywood;60;California theme park
 Universal Uclick;30
 Universite;40;University, in French
 university town;60
@@ -105830,6 +105865,7 @@ went gold;50
 went green;50
 went ham;60
 went hard;50
+went Hollywood;60
 went in;40
 went in circles;60
 went in on;50
