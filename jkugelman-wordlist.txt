@@ -72601,6 +72601,7 @@ perorating;40
 peroration;40
 perorations;40
 Perot;40;Ross Perot
+perotonitis;0;Misspelling of peritonitis
 Perots;20
 peroxidase;40
 peroxidases;40
