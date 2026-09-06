@@ -7492,8 +7492,13 @@ avulses;20
 aw;50;Used to express disappointment or dismay
 A&W;40;Root beer brand
 Awaara;30;Classic Raj Kapoor Bollywood film (1951)
+awac;20
+AWACS;30;Airborne Warning and Control System plane
+a wad;20
+awag;30;Wagging
 awake at dawn;50
 Awami;40;Awami League, Bangladeshi political party
+a war;20
 awardee;30
 award gala;50
 award galas;50
@@ -8393,8 +8398,8 @@ Bamberg;40;Bavarian city
 Bambi;50;Disney deer
 bamboo pole;50
 bamboo poles;50
-bamboo shoot;50
-bamboo shoots;50
+bamboo shoot;60
+bamboo shoots;60
 bamboozle;60
 bamboozled;60
 bamboozles;60
@@ -11558,6 +11563,8 @@ Blistex;40;Lip balm brand
 Blitzen;50;Santa's reindeer
 Blix;40;Hans Blix, UN weapons inspector
 Blixen;40;Karen Blixen, "Out of Africa" author
+BLL;20;Bachelor of Laws degree
+BLLs;20;Bachelor of Laws degrees
 BLM;40
 blo;20
 bloater;30
@@ -12544,6 +12551,7 @@ Bored Apes;60
 bored in on;30
 Boredoms;40;Japanese experimental rock band
 bored out of one's mind;60
+bored to tears;60
 bore fruit;60
 bore in on;30
 bore on;40
@@ -12556,6 +12564,8 @@ boresighters;50
 boresighting;50
 boresights;50
 bores in on;30
+bores to tears;60
+bore to tears;60
 Borg;50;"Star Trek" collective, or Bjorn Borg, tennis great
 Borge;40;Comedy pianist Victor Borge
 Borgen;40;Danish political drama
@@ -12570,6 +12580,7 @@ boric;40;Boric acid
 Boricua;50;Puerto Rican, informally
 Boricuas;40;Puerto Ricans, colloquially
 boring;50
+boring to tears;60
 Boris;50;Boris Badenov, "Rocky and Bullwinkle" villain / Boris Becker, tennis champ
 Boris Karloff;60
 Borisov;40;Yura Borisov, "Anora" actor
@@ -13157,6 +13168,7 @@ breaking bread;60
 breaking bread with;50
 breaking character;60
 breaking into;40
+breaking into tears;60
 breaking loose;50
 breaking one's word;50
 breaking out in a sweat;60
@@ -13169,6 +13181,7 @@ breaking the fourth wall;60
 breaking the sound barrier;60
 breaking up the band;60
 break into;40
+break into tears;60
 break it up you two;60
 break loose;50
 break one's word;50
@@ -13184,6 +13197,7 @@ breaks bread with;50
 breaks character;60
 break serve;50
 breaks into;40
+breaks into tears;60
 breaks loose;50
 breaks one's word;50
 breaks out in a sweat;60
@@ -13398,6 +13412,7 @@ bring 'em on;60
 bringing into question;50
 bringing on;40
 bringing one's A game;60
+bringing to tears;60
 bring into question;50
 bring it on;60
 bring on;40
@@ -13406,7 +13421,9 @@ brings into question;50
 brings on;40
 brings one's A game;60
 brings to;40
+brings to tears;60
 bring to;40
+bring to tears;60
 Brinker;40;Hans Brinker, of the silver skates
 Brinkley;40;Christie Brinkley, model / David Brinkley, newscaster
 brio;50
@@ -13586,6 +13603,7 @@ broke bread;60
 broke bread with;50
 broke character;60
 broke into;40
+broke into tears;60
 broke loose;50
 broken bat;50
 broken bats;50
@@ -13690,6 +13708,7 @@ brotox;50;Botox for men, slangily
 brought into question;50
 brought on;40
 brought one's A game;60
+brought to tears;60
 brouhaha;60;Fun word
 brouhahas;60
 Broward;40;Florida county
@@ -14327,10 +14346,13 @@ bursted in on;0
 burster;30
 bursters;30
 bursting in on;40
+bursting into tears;60
 bursting out laughing;60
 burst in on;40
+burst into tears;60
 burst out laughing;60
 bursts in on;40
+bursts into tears;60
 bursts out laughing;60
 Burstyn;40;Ellen Burstyn, "The Exorcist" actress
 Burt;50;Common first name (Reynolds, Lancaster, Bacharach)
@@ -15221,6 +15243,7 @@ came right out with it;60
 camerlengo;40;Italian title of medieval origin
 camerlengos;40;Italian titles of medieval origin
 Cameron;50;Common given name and surname
+Cameron Diaz;60
 Cameroon;50;West African country
 Cameroonian;50;African nationality
 Cameroonians;50;People of Cameroon
@@ -16157,9 +16180,13 @@ Carruthers;40;Stock British surname
 carry in;40
 carrying in;40
 carrying one's weight;50
+carry-on bag;60
+carry-on baggage;60
+carry-on bags;60
 carry one's weight;50
-carry-on item;50
-carry-on items;50
+carry-on item;60
+carry-on items;60
+carry-on luggage;60
 Carry On Wayward Son;60
 car sale;50
 car sales;50
@@ -16666,6 +16693,7 @@ causes a riot;50
 causeys;20
 causing a riot;50
 cautery;30;Instrument used for cauterizing
+caution tape;60
 Cav;40;Cleveland hoopster
 cava;40
 Cavafy;40;C. P. Cavafy, Greek poet of "Ithaka"
@@ -17043,6 +17071,9 @@ centre stage;20
 centrifugal pump;50
 centrifugal pumps;50
 centro;40
+centrosome;40;Cell organelle in an animal cell helping in cell division
+centrosomes;40;Cell organelles in animal cells helping in cell division
+centrosomic;40
 centuple;40
 centupled;40
 centuples;40
@@ -21680,6 +21711,7 @@ crazy wall;60;Conspiracy board
 crazy walls;60
 Creach;40;Papa John Creach, violinist with Jefferson Airplane
 cream-filled cake;50
+cream of potato soup;60
 cream pie;60
 cream pies;60
 cream puff;60
@@ -23182,6 +23214,7 @@ Dardanelles;50;Turkish strait
 Dardenne;40;Jean-Pierre and Luc Dardenne, Belgian filmmaking brothers
 Dardennes;40;Jean-Pierre and Luc Dardenne, Belgian filmmakers
 dared to;40
+dared to dream;60
 dare I;40
 dare me;60
 darer;40
@@ -23189,7 +23222,9 @@ darers;40
 daresay;50
 Dar es Salaam;40;Largest city in Tanzania (but not the capital)
 dares to;40
+dares to dream;60
 dare to;40
+dare to dream;60
 Darfur;40;Region of western Sudan
 Darger;40;Henry Darger, outsider artist
 Dari;30;Afghan variety of the Persian language
@@ -23197,6 +23232,7 @@ Daria;50;MTV cartoon
 Darien;40;Darien Gap, Panama-Colombia jungle
 Darin;40;"Mack the Knife" singer Bobby Darin
 daring to;40
+daring to dream;60
 Dario;40;Filmmaker Argento
 Dario Franchitti;30;British motor racing driver
 Darius;40;Darius the Great, Persian king / Darius Rucker, singer
@@ -51565,6 +51601,7 @@ keep a secret;60
 keep at;40
 keep at it;50
 Keep Austin Weird;60
+keep calm and carry on;60
 keep close to;40
 keep digging;60
 Keeper of the Keys;50;Charlie Chan mystery novel
@@ -57742,6 +57779,14 @@ Lula;40;Luiz Inacio Lula da Silva, Brazilian president
 LuLaRoe;40;Leggings MLM
 Lullaby of Broadway;50
 lullay;30
+lulled into a false sense of security;60
+lulled to sleep;60
+lulling into a false sense of security;60
+lulling to sleep;60
+lull into a false sense of security;60
+lulls into a false sense of security;60
+lulls to sleep;60
+lull to sleep;60
 Lully;40;Jean-Baptiste Lully, Baroque composer to Louis XIV
 lulu;40
 Lululemon;50;Athleisure brand
@@ -63646,6 +63691,7 @@ moves in on;40
 moves into;40
 moves the goalposts;60
 moves to;40
+moves to tears;60
 move the goalposts;60
 move to;40
 move to strike;60
@@ -63706,6 +63752,7 @@ moving into;40
 moving the goalposts;60
 moving the sticks;50
 moving to;40
+moving to tears;60
 mow;50
 Mowat;30;Author Farley Mowat
 Mowbray;40;Melton Mowbray, English town known for pork pies
@@ -69567,6 +69614,7 @@ Opill;40;First over-the-counter birth control pill in the US
 opiner;40
 opiners;40
 opinionate;40
+opinionated;50
 opium;50
 opium den;50
 opium dens;50
@@ -75228,6 +75276,8 @@ potato race;60
 potato races;60
 potato sack race;60
 potato sack races;60
+potato salad;60
+potato salads;60
 Potawatomi;40;Great Lakes Native nation
 potboiler;60
 potboilers;60
@@ -75332,14 +75382,22 @@ Poundstone;40;Paula Poundstone, comedian
 Poupon;50;Grey Poupon mustard
 poured in;40
 poured it on;50
+poured one out;60
+poured one out for;60
 pourer;40
 pourers;40
 pour in;40
 pouring in;40
 pouring it on;50
+pouring one out;60
+pouring one out for;60
 pour it on;50
+pour one out;60
+pour one out for;60
 pours in;40
 pours it on;50
+pours one out;60
+pours one out for;60
 Poussin;30;17th century painter Nicolas Poussin
 pouter;40
 pouters;40
@@ -79106,8 +79164,12 @@ redthermometers;0
 red tie;20;Green paint
 red ties;20
 RedTube;10;Pornographic video site
+reduced to tears;60
 reducer;40
 reducers;40
+reduces to tears;60
+reduce to tears;60
+reducing to tears;60
 Reductress;40;Satirical women's news site
 redundances;30
 Redwall;40;Brian Jacques' mouse-abbey book series
@@ -81597,6 +81659,8 @@ Roman numeral one;20
 Roman numerals;60
 Romano;50;Ray Romano, comedian / hard Italian cheese
 Romanoff;40;Natasha Romanoff, the Black Widow
+Roman orator;50
+Roman orators;50
 Romanov;50;Russian imperial dynasty
 Romanova;40;Natasha Romanova, Black Widow's real name
 Romanovs;50;Russian imperial dynasty
@@ -86264,6 +86328,8 @@ Shazams;40;IDs a song by app
 Sh-Boom;40;1954 doo-wop song by The Chords
 she;50
 shea;50
+shearling;40;A sheep that has been shorn for the first time
+shearlings;40;Sheep that have been shorn for the first time
 sheave;40
 sheaved;30
 Sheb;40;Sheb Wooley, "The Purple People Eater" singer
@@ -86305,6 +86371,8 @@ sheer will;50
 sheer willpower;50
 sheesh;60
 sheet anchor;40;Reliable person, nautical etymology
+sheet cake;60
+sheet cakes;60
 sheet of ice;50
 sheets of ice;50
 Sheetz;40;Convenience store chain
@@ -86372,8 +86440,8 @@ sher;30;"Fer sher!"
 Sher;30;Eden Sher, "The Middle" actress / Sher Shah Suri, Indian emperor
 She-Ra;40
 Sherald;40;Amy Sherald, Michelle Obama portraitist
-Sheraton;40;Hotel chain
-Sheratons;40;Hotel chain locations
+Sheraton;50;Hotel chain
+Sheratons;50;Hotel chain locations
 Sherbrooke;40;City in Quebec
 Shere;40;Shere Khan, tiger in "The Jungle Book"
 Sheree;40;Sheree North, actress
@@ -95247,6 +95315,7 @@ tarter;50
 tartest;50
 tartine;40;French open-faced sandwich
 Tartini;40;Baroque violin composer Giuseppe Tartini
+tartish;40
 tartlet;50
 tartlets;50
 tartrate;30;Wine crystal
@@ -99231,6 +99300,7 @@ to-do lists;60
 toe;50
 to each his own;60
 to each their own;60
+to Earth;40
 to eat;20
 toe bean;60
 toe beans;60
@@ -99905,6 +99975,7 @@ Toshiba;50;Japanese electronics brand
 Toshiro;40;Toshiro Mifune, Kurosawa's go-to actor
 Toshiro Mifune;60;Toshiro Mifune, Kurosawa's go-to actor
 Tosi;30;Christina Tosi, chef, author and TV personality (born 1981)
+to sleep, perchance to dream;60;"Hamlet" line in the "to be, or not to be" soliloquy
 to spare;40;Extra
 toss at;40
 tossedanddenrut;0
@@ -102548,6 +102619,7 @@ unofficial mottos;60
 uno momento;60;Common broken Spanish
 uno momento por favor;60;Common broken Spanish
 unopen;30
+unopinionated;50
 unorganic;40
 unos;40
 unpause;50
@@ -103603,6 +103675,12 @@ Velcro;50;Hook-and-loop fastener brand
 Velcroed;40;Fastened with hook-and-loop
 Velcroing;40;Fastening with hook-and-loop
 Velcros;40;Hook-and-loop fasteners, brand-wise
+Velcro shoe;50
+Velcro shoes;60
+Velcro strap;50
+Velcro straps;50
+Velcro strip;50
+Velcro strips;50
 veld;40;African grassland
 velds;40
 veldt;40;African grassland
