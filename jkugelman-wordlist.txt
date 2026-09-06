@@ -24636,6 +24636,8 @@ designated proxy;50
 design by committee;60
 designer board game;60
 designer board games;60
+design flaw;60
+design flaws;60
 Desiigner;40;Desiigner, "Panda" rapper
 Desilu;40;Desi and Lucille's production company
 Desiree;40;Girl's name
