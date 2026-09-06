@@ -7619,6 +7619,7 @@ Ayra Starr;50;Nigerian singer (born 2002)
 Ayres;20;Actor Lew
 Ayrshire;40;Scottish county and cattle breed
 Ayrton;40;Ayrton Senna, Formula One champion
+Ayrton Senna;40;Brazilian racing driver (1960-1994)
 ays;30;Shakespearean cries
 Ayton;40;Deandre Ayton in the NBA, 1st overall draft pick in 2018
 Ayumi;40;Ayumi Hamasaki, pop singer, best-selling solo artist in Japan
@@ -85559,9 +85560,11 @@ senior staffers;50
 senior theses;50
 senior thesis;50
 Senior Week;60
-Senna;30;Medicinal plant [common]
+senna;40;Medicinal plant [common]
+Senna;40
 Sennacherib;50;Assyrian king in a Byron poem
 sennas;30
+senna tea;40
 sennet;20
 sennets;20
 Sennett;30;???
