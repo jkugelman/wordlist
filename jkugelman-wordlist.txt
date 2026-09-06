@@ -37453,6 +37453,9 @@ get fat;10
 get fired;60
 get fucked up;10
 Gethard;20
+get her out of here;60
+Get Him Back;50;2006 single by Fiona Apple
+get him out of here;60
 get hitched;50
 get home safe;50
 Gethsemane;50
@@ -37478,6 +37481,7 @@ get it through your thick skull;60
 get loose;50
 get lost;50
 get made;60
+get me out of here;60
 get mossed;60;Get dominated by a wide receiver's showy catch, a la Randy Moss
 get naked;50
 get near;40
@@ -37516,6 +37520,8 @@ Get on the Good Foot - Pt. 2;50;1972 James Brown song
 get onto;40
 get out alive;60
 get out of a jam;60
+get out of hand;60
+get out of here;60
 get out of my head;60
 get out of one's own way;50
 get out of sight;60
@@ -37630,6 +37636,7 @@ gets onto;40
 get sore;40
 gets out alive;60
 gets out of a jam;60
+gets out of hand;60
 gets out of one's own way;50
 gets out of sight;60
 gets out the vote;60
@@ -37680,6 +37687,7 @@ get the axe;60
 get the creative juices flowing;60
 get the hint;60;Finally notice a subtle cue
 get the ick;60
+get them out of here;60
 get the nod;50
 get the party started;60
 get there;50;Make one's hand, in poker
@@ -37777,6 +37785,7 @@ getting on in years;60
 getting onto;40
 getting out alive;60
 getting out of a jam;60
+getting out of hand;60
 getting out of one's own way;50
 getting out of sight;60
 getting out the vote;60
@@ -39689,6 +39698,7 @@ go to sleep;50
 go to the polls;60
 got out alive;60
 got out of a jam;60
+got out of hand;60
 got out of one's own way;50
 got out of sight;60
 got out the vote;60
@@ -46747,6 +46757,7 @@ I'm;50
 Ima;20;I'm a partial
 I'm a big fan;60
 I'm a catch;60
+I'm a Celebrity Get Me Out of Here;60
 iMac Pro;50
 iMac Pros;50
 I'm Adam;20
