@@ -15687,36 +15687,61 @@ Capgras;40;Capgras delusion, the impostor belief
 caping for;40;Fiercely defending, slangily
 Capistrano;50;San Juan Capistrano, where the swallows return
 capital A;40
+capital A's;40
 capital B;40
+capital B's;40
 capital C;40
+capital C's;40
 capital D;40
+capital D's;40
 capital E;40
+capital E's;40
 capital F;40
+capital F's;40
 capital G;40
+capital G's;40
 capital H;40
+capital H's;40
 capital I;40
+capital I's;40
 capital J;40
+capital J's;40
 capital K;40
+capital K's;40
 capital L;40
+capital L's;40
 capital M;40
+capital M's;40
 capital N;40
+capital N's;40
 capital O;40
 capital of Afghanistan;20
 capital of Arkansas;20
 capital of Oregon;20
 capital of Texas;20
 capitalofturkey;0
+capital O's;40
 capital P;40
 capital P's;40
 capital Q;40
+capital Q's;40
 capital R;40
+capital R's;40
+capital S's;40
 capital T;40
+capital T's;40
 capital U;40
+capital U's;40
 capital V;40
+capital V's;40
 capital W;40
+capital W's;40
 capital X;40
+capital X's;40
 capital Y;40
+capital Y's;40
 capital Z;40
+capital Z's;40
 Capitan;40;El Capitan, Yosemite cliff
 capitate;40
 capitol building;50
@@ -57523,29 +57548,55 @@ low-energy;60
 low energy level;50
 low energy levels;50
 lowercase a;40
+lowercase a's;40
 lowercase b;40
+lowercase b's;40
 lowercase c;40
+lowercase c's;40
+lowercase d's;40
 lowercase e;40
+lowercase e's;40
 lowercase f;40
+lowercase f's;40
 lowercase g;40
+lowercase g's;40
 lowercase h;40
+lowercase h's;40
 lowercase i;40
+lowercase i's;40
 lowercase j;40
+lowercase j's;40
 lowercase k;40
+lowercase k's;40
 lowercase l;40
+lowercase l's;40
 lowercase m;40
+lowercase m's;40
 lowercase n;40
+lowercase n's;40
 lowercase o;40
+lowercase o's;40
 lowercase p;40
+lowercase p's;40
 lowercase q;40
+lowercase q's;40
 lowercase r;40
+lowercase r's;40
+lowercase s's;40
 lowercase t;40
+lowercase t's;40
 lowercase u;40
+lowercase u's;40
 lowercase v;40
+lowercase v's;40
 lowercase w;40
+lowercase w's;40
 lowercase x;40
+lowercase x's;40
 lowercase y;40
+lowercase y's;40
 lowercase z;40
+lowercase z's;40
 lower-class families;50
 lower-class family;50
 lower-class home;50
