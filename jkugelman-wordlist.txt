@@ -7459,6 +7459,7 @@ avlub;0
 avo;30;Avocado
 avocado mask;50
 avocado masks;50
+avocado salsa;50
 avocado seed;50
 avocado seeds;50
 avocado toast;60
@@ -45057,6 +45058,7 @@ Hot Pockets;60
 hot pursuit;60
 hot sake;50
 hot salsa;60
+hot salsas;50
 hot sauce;50
 hot sauces;50
 (Hot Shit) Country Grammar;10;2000 single by Nelly
@@ -83287,6 +83289,8 @@ salsa danced;60
 salsa dancer;60
 salsa dancers;60
 salsa dancing;60
+salsa dip;50
+salsa dips;50
 salsa music;60
 salsa verde;60
 sal soda;40;Sal soda aka washing soda (sodium carbonate)
