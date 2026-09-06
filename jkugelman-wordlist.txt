@@ -16944,6 +16944,7 @@ celebrity sex tape;60
 celebrity sex tapes;60
 celebrity status;60
 Celentano;40;Adriano Celentano, Italian singer and actor
+celeriac;40
 Celeron;20;Intel chip discontinued in 2023
 celery-leaved buttercup;50
 celery-leaved buttercups;50
@@ -72990,6 +72991,8 @@ Petrucci;50
 Petruchio;40;"The Taming of the Shrew" suitor
 Petrushka;40;Stravinsky ballet
 Petry;40;Ann Petry, author of "The Street"
+pet scorpion;60
+pet scorpions;60
 Pet Sematary;50
 pet sitter;60
 pet sitters;60
@@ -91461,6 +91464,7 @@ stand in;50
 standing at;30
 standing at ease;50
 standing atop;40
+standing in;40
 standing next to;40
 standing O;60
 standing on;40
@@ -91484,6 +91488,7 @@ stands apart;50
 stands at;30
 stands at ease;50
 stands atop;40
+stands in;40
 stands next to;40
 stands on;40
 stands one's ground;50
@@ -92566,6 +92571,7 @@ stoney lonesome;60
 stood at;30
 stood at ease;50
 stood atop;40
+stood in;40
 stood next to;40
 stood on;40
 stood one's ground;50
