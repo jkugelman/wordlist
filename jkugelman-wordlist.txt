@@ -107695,8 +107695,8 @@ WNBA MVP;50
 WNBA MVPs;50
 WNBA ring;50
 WNBA rings;50
-WNBA team;50
-WNBA teams;50
+WNBA team;60
+WNBA teams;60
 WNW;30
 WNYC;30
 Wobblies;50;IWW members
