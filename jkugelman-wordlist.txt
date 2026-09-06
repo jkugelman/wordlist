@@ -890,6 +890,7 @@ Accra;40;Capital of Ghana
 accretion disk;60
 accretion disks;60
 acculturation;30
+accumulated wisdom;60
 accusable;50
 Accutane;50;Acne medication
 AccuWeather;50;Weather forecasting service
@@ -20722,6 +20723,7 @@ conus;40
 convenience food;50
 convenience foods;50
 convenience sampling;60
+conventional wisdom;60
 convention centre;20
 convention centres;20
 conversation pit;60;Depressed section of flooring in a larger room
@@ -21757,6 +21759,7 @@ creating a stir;60
 Creation of Adam;60;Fresco by Michelangelo on the Sistine Chapel ceiling
 Creative Commons;60
 creative mode;60;Sandbox video game option
+creatives;60
 creature feature;60
 creature features;60
 Crecy;40;Battle of Crécy, 1346 English victory
@@ -26458,7 +26461,7 @@ Donald Trump suit;0
 Don Ameche;40;"Cocoon" actor Don Ameche (1908-93)
 donated to;40
 Donatella;40;Donatella Versace, fashion designer
-Donatello;50;Renaissance sculptor, or the Ninja Turtle
+Donatello;60;Renaissance sculptor, or the Ninja Turtle
 donates to;40
 donate to;40
 donating to;40
@@ -32571,6 +32574,13 @@ fashion don't;50
 fashion don'ts;50
 fashion dos;50
 fashion dos and don'ts;60
+fashion icon;60
+fashion icons;60
+fashion industry;60
+fashion influencer;60
+fashion influencers;60
+fashionista;60
+fashionistas;60
 fashion mag;60
 fashion magazine;60
 fashion magazines;60
@@ -38105,6 +38115,7 @@ Gilroy;40;Gilroy, California, garlic capital / Dan Gilroy, "Nightcrawler" direct
 Gil Vicente;40
 Gimbels;40;Defunct department store chain
 Gimli;50;Dwarf in "The Lord of the Rings"
+gimme one sec;60
 gimp;10
 gimped;10
 Gimpel;40;"Gimpel the Fool," Isaac Bashevis Singer story
@@ -41747,6 +41758,7 @@ hand puppets;60
 hands down;50
 hands it to;40
 hand soap;50
+Handsome Dan;60;Yale's bulldog mascot
 handsomer;30
 handsomest;30
 handsome sum;60
@@ -47595,6 +47607,7 @@ infinite money glitch;60
 infinite money glitches;60
 infinite monkey theorem;60
 infinites;30;Weird plural
+infinite wisdom;60
 Infiniti;50;Nissan's luxury car brand
 Infinitis;40;Luxury cars
 in fits and starts;60
@@ -58448,6 +58461,7 @@ made mad;50
 made matters worse;60
 made nice;60
 made noises;50
+made no sense;60
 made of;40
 made off;30
 madeofhonor;0
@@ -58912,6 +58926,7 @@ make me;60
 make me understand;60
 make nice;60
 make noises;50
+make no sense;60
 make off;30
 make one's bed;50
 make one's bed and lie in it;50
@@ -58979,6 +58994,7 @@ makes mad;50
 makes matters worse;60
 makes nice;60
 makes noises;50
+makes no sense;60
 makes of;20;???
 makes off;30
 makes one's bed;50
@@ -59081,6 +59097,7 @@ making mad;40
 making matters worse;60
 making nice;60
 making noises;50
+making no sense;60
 making off;40
 making one's bed;50
 making one's bed and lying in it;50
@@ -62960,6 +62977,8 @@ Moldau;40;Smetana tone poem, or the Vltava river
 Moldova;50;Eastern European country
 Moldovan;40;From Chisinau, e.g.
 Moldovans;40;People of Moldova
+moldy oldie;60
+moldy oldies;60
 Molech;30;Biblical fire god
 Molek;30;Biblical fire god
 Moleman;50;Hans Moleman, hapless "Simpsons" geezer
@@ -64580,6 +64599,8 @@ nacres;30
 nacrite;30;Mineral
 nacrous;40;Of or resembling pearl
 nada;50
+nada colada;60
+nada coladas;60
 Nadal;50;Rafael Nadal, tennis great
 Nada Surf;50
 Nadella;50;Satya Nadella, Microsoft CEO
@@ -72826,6 +72847,8 @@ Pessl;20
 Pessoa;40;Fernando Pessoa, Portuguese poet of many heteronyms
 pesterer;40
 pesterers;40
+pest strip;60
+pest strips;60
 pet;50
 PETA;40
 Pétain;30;Philippe Pétain, French general and dictator (1856–1951)
@@ -72865,6 +72888,7 @@ Peter II;30
 Peterloo;40;1819 Manchester massacre
 Peterman;40;J. Peterman, "Seinfeld" catalog magnate
 Peter Opie;40;English folklorist
+Peter O'Toole;60
 Peter Pan;60
 Peter Pan syndrome;60;Pop psychology term for men who have never grown up
 Peter Peter Pumpkin Eater;60
@@ -74061,6 +74085,8 @@ Plantagenet;50;English royal house
 Plantagenets;50;English royal dynasty
 plant a seed;50
 plant cells;50
+plant dad;60
+plant dads;60
 Plante;30
 plant eater;50
 plant eaters;50
@@ -76170,6 +76196,7 @@ Procol;40;Procol Harum, "A Whiter Shade of Pale" band
 pro con list;50;Brainstorming diagram to evaluate the merits of a decision
 pro con lists;50
 Procopius;40;Byzantine historian
+procreative sex;50
 Procrustean;50;Forcing conformity, as a bed
 Procrustes;50
 proctologist;50
@@ -81752,7 +81779,7 @@ Rombauer;40;Irma Rombauer, "Joy of Cooking" author
 Rome;50;Italian capital
 Rome Italy;50
 Romeo;50;Shakespeare's lovestruck Montague
-Romeo, O Romeo;50
+Romeo, O Romeo;60
 Romero;40;George A Romero, zombie film director / Cesar Romero, the Joker
 romeros;20
 Romijn;40;Rebecca Romijn, actress and model
@@ -82728,7 +82755,7 @@ Ry;40;Ry Cooder, slide guitarist
 rya;20
 Ryan;50;Very common given name and surname
 Ryanair;40;Irish budget airline
-Ryan Coogler;50;Director
+Ryan Coogler;60;"Sinners" director
 Ryan Gosling;60
 Ryan's;30
 Ryanverse;40;Tom Clancy's Jack Ryan world
@@ -93091,6 +93118,8 @@ studied up on;50
 studies hard;50
 studies up on;50
 studio;50
+studio album;60
+studio albums;60
 StudioCanal;40;French film studio
 studio exec;60
 studio execs;60
@@ -97898,7 +97927,7 @@ the Steroid Era;20;Why "the"?
 the sticks;60
 the Stilt;50;Wilt Chamberlain's nickname
 the Stone Age;40
-The Stones;50
+The Stones;60
 the Stonewall Inn;50
 the storms of life;60;Metaphor for trials and tribulations
 The Strip;60
@@ -107575,12 +107604,13 @@ Wisconsin;50;Badger State
 Wisconsinite;50
 Wisconsinites;50
 Wisconsin River;50
-Wisdom of Solomon;50
+Wisdom of Solomon;60
+wisdom of the crowd;60
 wisdoms;40
-wisdom teeth;50
-wisdom tooth;50
-wisdom tree;50
-wisdom trees;50
+wisdom teeth;60
+wisdom tooth;60
+wisdom tree;60
+wisdom trees;60
 wiseacre;60
 wiseacres;60
 wiseass;60
@@ -107610,6 +107640,7 @@ Wislawa;40;Wislawa Szymborska, Nobel-winning Polish poet
 Wisniewski;40;Common Polish surname
 Wister;40;Owen Wister, author of "The Virginian", the first western novel
 wit;50
+wit and wisdom;60
 witch;50
 witch doctor;60
 witch doctors;60
@@ -107871,6 +107902,7 @@ word search;60
 word searches;60
 word search puzzle;60
 word search puzzles;60
+words of wisdom;60
 words to live by;60
 Wordsworth;50;William Wordsworth, Romantic poet
 Wordsworthian;50;Like the Lake District poet
