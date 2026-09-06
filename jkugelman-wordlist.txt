@@ -1968,6 +1968,7 @@ age nine;40
 age nineteen;40
 age ninety;40
 agent;50
+agential;40
 agentic;50;Self-sufficient A.I.
 agentic AI;60
 agentic coding;60
@@ -7029,6 +7030,8 @@ attendance board;50
 attendance boards;50
 attended on;30
 attended to;40
+attender;40
+attenders;40
 attending on;30
 attending physician;60
 attending physicians;60
@@ -22176,6 +22179,7 @@ crosswords;60
 CrosswordTok;20;???
 Crossy;40;"Crossy Road," mobile game
 cross your heart;50
+crotales;40;Percussion instrument
 Crothers;40;Scatman Crothers, actor and voice of Hong Kong Phooey
 Croton;30;New York reservoir
 Crouchin';30;Hunkering down, casually
@@ -40494,13 +40498,18 @@ Gropius;40;Walter Gropius, Bauhaus founder
 Gros;30;Fat, in French / Antoine-Jean Gros, French Romantic painter
 Grosjean;40;Romain Grosjean, F1 driver
 Grosse;40;Grosse Pointe, Michigan
+grossed out;60
 grossed up;40
+grosses out;60
 grosses up;40
 Grossglockner;40;Highest mountain in Austria
+grossing out;60
 grossing up;40
 gross misdemeanor;60
 gross misdemeanors;60
 grosso;40
+gross out;60
+gross-out humor;60
 gross up;40
 gross weight;50
 gross zero;60;Theoretical elimination of all greenhouse gas emissions
@@ -48786,6 +48795,8 @@ isomorph;40
 isomorphs;40
 is on the blink;20
 is on to;40
+isopleth;40;Curve along which a 3-D surface is at equal elevation
+isopleths;40;Curves along which a 3-D surface is at equal elevation
 isopod;40
 isopods;40
 Isoroku;40;Isoroku Yamamoto, Japanese WWII admiral
@@ -48938,6 +48949,7 @@ I swear by it;60
 I swear it;60
 it;50
 -ita;30
+it adds up;50
 it ain't;20
 it ain't me;60
 it ain't over till it's over;60
@@ -58002,13 +58014,17 @@ Luray Caverns;50
 lurcher;40;Dog breed
 lurchers;40
 lured in;50
+lured into;40
 lured on;40;???
 lure in;50
+lure into;40
 lures in;50
+lures into;40
 Lurex;40;Metallic yarn brand
 Luria;40;Isaac Luria, kabbalist / Salvador Luria, Nobel biologist
 Lurie;40;Alison Lurie, novelist / John Lurie, musician
 luring in;50
+luring into;40
 lurked in the shadows;60
 lurking in the shadows;60
 lurk in the shadows;60
@@ -61080,6 +61096,7 @@ Meena;40;Meena Kumari, Bollywood tragedienne
 meeny;40
 meeple;40
 meeples;40
+meep meep;60
 Meereen;20;Game of Thrones slave city
 meerkat pup;50
 meerkat pups;50
@@ -83417,6 +83434,7 @@ sampling error;50
 Sampras;50;Pete Sampras, tennis great
 Sam's;40;Sam's Club, warehouse chain
 Samsa;40;Gregor Samsa, Kafka's transformed salesman
+Sam's Club;60
 Sam Shepard;50
 Sam Shepherd;20;???
 samshu;40;Chinese liquor
@@ -88897,6 +88915,8 @@ smart ring;60
 smart rings;60
 smart tag;50
 smart thinking;60
+smart TV;60
+smart TVs;60
 Smashburger;60
 smash cut;60;Abrupt film transition
 smash cuts;60
@@ -96056,6 +96076,7 @@ telling to;40
 tell it to the judge;60
 tell me more;60
 tell me the truth;60
+tell me what to do;60
 tell me without telling me;60
 tell no one;60
 tell of;40
@@ -106661,6 +106682,7 @@ what the hell just happened?;60
 what the hell just happened;0
 what the hell, sure;60
 what the hey;60
+what to do;60
 what was all that about?;60
 what was I thinking?;60
 what was I thinking;0
@@ -108084,6 +108106,7 @@ worst-case scenario;60
 worst-case scenarios;60
 worsted;30;Wool yarn
 worsteds;30
+worsting;30
 wort;50
 worth a shot;60
 Worthington;40;Sam Worthington, "Avatar" star
@@ -109313,6 +109336,7 @@ you know the rest;60
 you know what;60
 you know what I mean;60
 you know what I'm saying;60
+you know what to do;60
 you know who you are;60
 you know you like it;60
 you know you want to;60
