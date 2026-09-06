@@ -946,6 +946,8 @@ acetous;30;Producing or resembling vinegar
 ace up one's sleeve;60
 Acevedo;40;Elizabeth Acevedo, "The Poet X" author
 Ace Ventura;60
+Ace Ventura: When Nature Calls;60
+Ace Ventura When Nature Calls;0
 acey;40;Acey-deucey
 acey-deucey;50
 acey-deucy;50
@@ -17779,7 +17781,9 @@ Cheng;30;Not sure who's notable???
 Chengdu;40;Chinese city known for pandas
 Chénier;30;French revolution poet André Chénier
 Chenin;40;Chenin blanc wine
-Chennai;50;Indian city formerly called Madras
+Chennai;40;Indian city formerly called Madras
+Chennai, India;50
+Chennai India;0
 Chenoweth;50;Kristin Chenoweth, original Glinda in "Wicked"
 Cheops;40;Egyptian pharaoh AKA Khufu
 Chepng'etich;40;Ruth Chepng'etich, marathon world record holder
@@ -43170,6 +43174,8 @@ Henie;30;Sonja Henie, 1930s top figure skater and actress
 Henin;30;Justine Henin, Belgian tennis champion
 Henkel;40;German consumer products giant
 Henle;20
+henna tattoo;60
+henna tattoos;60
 Hennchata;40;Hennessy and horchata cocktail
 Hennchatas;40;Hennessy-and-horchata cocktails
 Hennepin;40;Louis Hennepin, priest and Mississippi explorer
