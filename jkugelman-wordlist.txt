@@ -73784,6 +73784,7 @@ pirana;20
 piranas;20
 Pirandello;40;Playwright Luigi Pirandello, 1934 Nobel Prize in Literature
 Piranesi;40;Giovanni Battista Piranesi, engraver of imaginary prisons
+Pirate Bay;50;Website providing torrent files and magnet links, with "The"
 pirate booty;50
 pirate captain;60
 pirate captains;60
@@ -97637,6 +97638,7 @@ the pie;20
 the Piña Colada Song;60
 the Pinta;20
 The Pirate;40;Walter Scott novel
+The Pirate Bay;50;Website providing torrent files and magnet links
 The Pit;20
 The Pitt;60
 The Pixies;60
