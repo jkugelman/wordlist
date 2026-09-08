@@ -46431,6 +46431,8 @@ if you please;60
 If You See Something, Say Something;60;Public awareness campaign
 if you snooze, you lose;60
 Iga;40;Iga Swiatek, current women's champion tennis player, or grocery store
+I gave;40
+I gave at the office;50
 Igbo;30;Ethnic group in Nigeria
 Igboland;40;Igbo homeland in Nigeria
 Igby;30;Movie "Igby Goes Down"
@@ -97662,6 +97664,7 @@ The Old Vic;40
 the ol' heave-ho;60
 the Once-ler;60
 the one;60
+The One I Gave My Heart To;50;1997 single by Aaliyah
 The One Ring;60
 the one to beat;60
 the only game in town;60
@@ -107724,6 +107727,7 @@ without a sound;50
 without a word of a lie;50
 without warning;60
 With Reagan;40;Book
+with the love I gave in May;20
 with the naked eye;50
 with time to spare;60
 withy;30;Willow branch used in basketry
