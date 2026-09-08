@@ -31035,7 +31035,7 @@ etatist;20;Statist
 etavilas;0
 etc.;50
 etceteras;40;Plural???
-Etch A;30;Etch A Sketch
+Etch A;20;Etch A Sketch
 etchant;30;Corrosive acid used in etching
 etchants;30;Corrosive acids used in etching
 Etch A Sketch;60
