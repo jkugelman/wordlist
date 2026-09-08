@@ -51262,6 +51262,8 @@ Kalukango;40;Joaquina Kalukango, Tony-winning "Paradise Square" star
 Kaluuya;40;Daniel Kaluuya, "Get Out" star
 kam;20
 Kama;40;Kama sutra
+kamaage;40;Udon dish
+kamaage udon;40
 Kamadeva;40;Hindu god of love
 Kamakawiwo'ole;50;Israel Kamakawiwo'ole, Hawaiian ukulele singer
 Kamal;40
@@ -58400,7 +58402,7 @@ MacNeille;40;Tress MacNeille, "Simpsons" voice actor
 Macon;40;Macon, GA
 Macondo;40;Fictional town of "One Hundred Years of Solitude"
 Macon, GA;30;???
-Mac OS X;30
+Mac OS X;40
 Macphail;40;Agnes Macphail, first woman in Canada's Parliament
 MacPherson;40;Elle Macpherson, supermodel / James Macpherson, Ossian poet
 Mac Pro;50;Apple desktop computer
@@ -70260,6 +70262,8 @@ Oswalt;40;Patton Oswalt, comedian
 Oswego;40
 Oswego tea;40
 OS X;40
+OS X Lion;30;2011 operating system version
+OS X Tiger;30;2005 operating system version
 OT;40
 ota;20
 otaku;40;Anime fan
