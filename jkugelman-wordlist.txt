@@ -505,6 +505,7 @@ ABBA's hit single;0
 Abbasid;40;Medieval Islamic caliphate
 Abbasids;40;Baghdad-based caliphal dynasty
 Abbass;40;Hiam Abbass, "Succession" actress
+abbatial;40;Pertaining to an abbey or abbot
 Abba-Zaba;40;Taffy candy bar
 Abba-Zabas;40;Taffy candy bars
 Abbe;20
@@ -830,6 +831,7 @@ AC;40;Alternating current / Air conditioning
 ACA;40
 ACAB;10;All cops are bastards
 academic robes;60
+academic standards;60
 academic year;50
 academic years;50
 Academie;40;Académie Française, guardian of the French language
@@ -2640,7 +2642,8 @@ Albuquerque;50;New Mexico's largest city
 Albus;10;Harry Potter
 alc;20
 alcaide;20;Prison warden: Sp.
-alcaldes;30
+alcalde;30;Spanish municipal magistrate
+alcaldes;30;Spanish municipal magistrates
 Al Capone;50
 Alcaraz;40;Top tennis player Carlos Alcaraz (2018-current)
 Alcatraz;60
@@ -4387,6 +4390,7 @@ Angus, Thongs and Perfect Snogging;40;2008 film
 anhedonia;50
 Anheuser;40;Anheuser-Busch brewer
 an honest mistake;60
+An Horse;40;Australian pop and rock duo formed in 2007
 Anhui;30;Eastern Chinese province
 Ani;40
 an I for an eye;0
@@ -8057,6 +8061,8 @@ bad spell;50
 bad spells;50
 bad sport;60
 bad sports;60
+bad start;60
+bad starts;60
 bad taste;50
 bad temper;50
 bad thing;20
@@ -13866,6 +13872,8 @@ Bryter;40;"Bryter Layter," Nick Drake album
 Brzezinski;50;Zbigniew Brzezinski, Carter's national security adviser / Mika Brzezinski, host
 BS;40
 BSA;40
+BS artist;60
+BS artists;60
 bsc;20
 B scale;30
 B scales;30
@@ -24347,7 +24355,7 @@ Delphi;50;Home of the ancient Greek oracle
 Delphic;50;Of the Delphi oracle, or deliberately obscure
 Delphine;40;French first name
 Delphinus;40;Dolphin constellation
-del Potro;20;Retired unremarkable tennis player
+del Potro;40;Juan Martín del Potro, Argentine tennis player (born 1988)
 Delpy;40;Julie Delpy, "Before Sunrise" actress
 Delroy;40;Delroy Lindo, actor
 dels;30
@@ -45078,6 +45086,8 @@ hot spring;50
 hotspur;40;Quick-tempered person, Shakespearean
 hot stock;50
 hot stocks;50
+hot stone pot;50
+hot stone pots;50
 hot swap;60
 hot swapped;60
 hot swapping;60
@@ -47227,6 +47237,7 @@ I'm your biggest fan;60
 in;50
 Ina;40;Chef Ina Garten, or partial/suffix [extremely common]
 Inaba;40;"Dancing with the Stars" judge Carrie Ann Inaba, Japanese province/cat food
+in a bad state;50
 in a bad way;60
 Ina Balin;30;Actress
 in a bar;20
@@ -50830,6 +50841,8 @@ Juan;50;Don Juan, legendary seducer / common Spanish first name
 Juana;40;Sor Juana Ines de la Cruz, Mexican poet and nun
 Juanes;40;Colombian rock singer
 Juanita;40;Spanish given name
+Juan Martín del Potro;40;Argentine tennis player (born 1988)
+Juan Martin del Potro;0
 Juan Peron;50
 Juarez;40;Benito Juárez, Mexican president / Ciudad Juárez
 Juba;40;Capital of South Sudan
@@ -54197,6 +54210,7 @@ last call;50
 last calls;50
 last century;60
 last chance;60
+Last Comic Standing;60
 last dance;60
 last day of school;60
 last-ditch attempt;60
@@ -61939,7 +61953,8 @@ micropayment;60
 micropayments;60
 microphone cable;50
 microphone cables;50
-microphone stand;50
+microphone stand;60
+microphone stands;60
 microscale;60
 microscopemount;0
 microservice;60;Loosely coupled service used to build computer applications
@@ -61958,6 +61973,8 @@ microtone;60
 microtones;60
 microtransaction;60
 microtransactions;60
+mic stand;60
+mic stands;60
 Mictlan;40;Aztec underworld
 micturate;10
 micturated;10
@@ -72270,6 +72287,8 @@ pearler;30
 pearlers;30
 Pearl Harbor;60
 Pearl Jam;60
+pearly white;50
+pearly white teeth;50
 Pearse;20;Irish activist
 Pearson;40;Lester B. Pearson, Canadian PM, among others
 Peart;40;Neil Peart from Rush
@@ -75439,7 +75458,7 @@ potoroo;20;Rat-like marsupial
 potoroos;20;Rat-like marsupials
 Potosi;30;City in Bolivia
 Potrero;40;Potrero Hill, San Francisco neighborhood
-Potro;40;Juan Martín del Potro, US Open tennis champion
+Potro;30;Juan Martín del Potro, Argentine tennis player (born 1988)
 Potsdam;50;German city of the 1945 conference
 Potsdamer;40;___ Platz, Berlin square
 pot shop;60
@@ -83808,6 +83827,7 @@ satellite dish;50
 satellite dishes;50
 satellite image;60
 satellite images;60
+satellite telephone;50
 satellite town;60
 satellite towns;60
 satellite TV;50
@@ -88372,6 +88392,8 @@ skirt chasers;60
 skirt chasing;60
 skirter;30
 skirters;30
+skirtini;50;Skirt + bikini top
+skirtinis;50;Skirts + bikini tops
 skirts;50
 ski season;50
 ski seasons;50
@@ -88416,6 +88438,8 @@ Skunk River;50
 SKUs;40
 sky;50
 skyaking;50
+sky atlas;50
+sky atlases;50
 skybox;50
 skyboxes;50
 skybox seat;50
@@ -91477,6 +91501,7 @@ standing one's ground;50
 standing O's;60
 standing ovation;60
 standing over;40
+standing pat;60
 standing splits;60;Gymnastic split done while standing on one leg
 standing to;30
 standing trial;60
@@ -91489,6 +91514,7 @@ stand next to;40
 stand on;40
 stand one's ground;50
 stand over;40
+stand pat;60
 stands apart;50
 stands at;30
 stands at ease;50
@@ -91498,6 +91524,7 @@ stands next to;40
 stands on;40
 stands one's ground;50
 stands over;40
+stands pat;60
 stands to;30
 stands trial;60
 stands trial for;50
@@ -92581,6 +92608,7 @@ stood next to;40
 stood on;40
 stood one's ground;50
 stood over;20
+stood pat;60
 stood to;30
 stood trial;60
 stood trial for;50
@@ -92604,15 +92632,18 @@ stop baths;60
 stop in one's tracks;50
 stop-loss;60;Trading policy to limit downside
 Stop Making Sense;60
+stoppage time;60
 Stoppard;50;Tom Stoppard, "Rosencrantz and Guildenstern Are Dead" playwright
 stopped at;40
 stopped at nothing;60
 stopped in one's tracks;50
 stopped the clock;60
+stopped time;60
 stopping at;40
 stopping at nothing;60
 stopping in one's tracks;50
 stopping the clock;60
+stopping time;60
 stopple;30;Stopper/plug
 stoppled;30
 stopples;30
@@ -92622,10 +92653,12 @@ stops at nothing;60
 stops in one's tracks;50
 stopsit;0
 stops the clock;60
+stops time;60
 stop that;60
 stop that now;40
 stop the clock;60
 stop the fight;60
+stop time;60
 stop yapping;60
 stop your yapping;60
 storage media;50
@@ -92793,6 +92826,7 @@ strato;40;Prefix
 Stratocaster;50;Fender electric guitar
 Stratocasters;50;Fender electric guitars
 stratosphere;50
+Stratton;40
 Straub;40;Peter Straub, horror novelist / Jean-Marie Straub, filmmaker
 Strauss;50;Johann Strauss, waltz king / Levi Strauss, jeans maker
 Strava;40;Fitness tracking app
@@ -93333,6 +93367,10 @@ subspace;50
 subspaces;50
 Substack;50;Newsletter platform
 Substacks;40;Newsletters on Substack
+substitute teach;50
+substitute teacher;60
+substitute teachers;60
+substitute teaching;60
 subteen;30
 subtone;30
 subtracted;50
@@ -96474,9 +96512,13 @@ Tết;40;Vietnamese New Year celebration
 Tet;0
 tetanic;30;Relating to tetanus
 tetany;30;Spasms caused by low calcium
+tete;40
 tête;40
-tete-a-tete;50
+tête-à-tête;50
 tete-a-tetes;50
+tête-à-têtes;50
+tetes;40
+têtes;40
 Tethys;30;Moon of Saturn
 Tetley;50;Tea brand
 Tetleys;30
@@ -103212,6 +103254,7 @@ used one's noodle;50
 used pot;30
 use drugs;40
 used to;40
+used to it;50
 used up;50
 use for;20
 use in;20
@@ -106890,6 +106933,7 @@ white room;50
 Whiteside;40;Hassan Whiteside, NBA center
 white smoke;60;Vatican signal
 Whitesnake;50;"Here I Go Again" hair metal band
+white tea;50
 white tie;60
 white tie affair;60
 white tie affairs;60
