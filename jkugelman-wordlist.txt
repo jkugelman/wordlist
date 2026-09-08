@@ -10109,6 +10109,8 @@ belt and suspenders;60
 Beltane;40;Gaelic May Day festival
 belt drive;50
 belt it out;50
+belt notch;50
+belt notches;50
 belt of bourbon;60
 belt of scotch;60
 belt of whiskey;60
@@ -38283,6 +38285,7 @@ give it to;40
 give it to me straight;60
 give me a hand;60
 give me a ring;60
+give me one good reason;60
 Give Me One Reason;60
 give me some space;60
 given a say to;40
@@ -39382,7 +39385,7 @@ good PR;50
 good press;50
 good publicity;50
 good question;60
-Goodreads;50;Book-rating social site
+Goodreads;60;Book-rating social site
 good rep;50
 Goodrich;40;BF Goodrich, tire maker
 Good Sams;50;???
@@ -98078,6 +98081,7 @@ the Vegas Strip;40
 The Venetian;50
 the very best thing of all;60
 the Vet;20;Old Phillies ballpark
+the VMAs;40
 the Volga;20
 The Wailers;50
 The Wall;60
@@ -108629,6 +108633,7 @@ yabbering;30
 yabbers;30
 YA book;20
 YA books;20
+yab-yum;40;Symbol in Tibetan Buddhist art
 yacht rock;60
 yacht rock band;60
 yacht rock bands;60
@@ -109156,12 +109161,12 @@ Yolo County;40
 Yolo County, California;40
 Yolo County California;0
 YOLOed;40
-YOLOed it;40
+YOLOed it;60
 YOLOing;40
-YOLOing it;40
-YOLO it;40
+YOLOing it;60
+YOLO it;60
 YOLOs;40
-YOLOs it;40
+YOLOs it;60
 Yom;40
 yo mama;60
 yo mamma;60
