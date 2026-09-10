@@ -2524,7 +2524,8 @@ Alain Delon;40;French actor Alain Delon (1935-2024)
 Alakazam;60;Magic word, or Pokémon
 à la maison;40;???
 Alamance;30
-alamedas;30;Tree-lined walks
+alameda;40
+alamedas;40;Tree-lined walks
 Alamein;40;WWII battle site El Alamein
 A Lament;40;Shelley poem
 Alamo;50;San Antonio mission / rental car chain
@@ -3775,7 +3776,9 @@ am I cooked;60
 Amidah;40;Central standing prayer of Jewish liturgy
 Amidala;40
 amides;20;Chemicals
-amidone;60
+am I doing it right?;60
+am I doing it right;0
+am I done?;60
 A Midsummer Night's Sex Comedy;60;1982 film by Woody Allen
 amie;40
 Amiel;40;Henri-Frédéric Amiel, Swiss diarist
@@ -6760,6 +6763,7 @@ Atari Corp;50
 Ataris;40;The Ataris, punk band, or old game consoles
 at a slant;30
 at a standstill;60
+a taste;40
 at a stop;30
 AT-AT;40
 at a trot;40
@@ -37471,6 +37475,8 @@ get a say;50
 get a silly answer;60
 get a stupid answer;60
 get at;40
+get a taste;50
+get a taste for;50
 get a tip;50
 get a toehold;60
 get attached;40
@@ -37611,6 +37617,8 @@ gets around to;40
 gets a run;30
 gets a say;50
 gets at;40
+gets a taste;50
+gets a taste for;50
 gets a tip;50
 gets a toehold;60
 gets attached;40
@@ -37769,6 +37777,8 @@ getting around to;40
 getting a run;30
 getting a say;50
 getting at;40
+getting a taste;50
+getting a taste for;50
 getting a toehold;60
 getting attached;40
 getting attached to;40
@@ -39646,6 +39656,8 @@ got a say;50
 got a second;60
 got a staring problem;60
 got at;40
+got a taste;50
+got a taste for;50
 got a tip;50
 got a toehold;60
 got attached;40
@@ -45210,6 +45222,8 @@ Hovhaness;40;Alan Hovhaness, American composer
 how;50
 how about no;60
 how about we start over?;60
+how am I doing?;60
+how am I doing;0
 Howard;50;Ron Howard, director / Howard University
 Howardena;40;Howardena Pindell, abstract painter
 Howard Hesseman;40;Actor in "WKRP in Cincinatti" and "Head of the Class"
@@ -48347,13 +48361,20 @@ Ipcress;30;"The ___ File"
 ipecacs;40;Weird plural
 Iphigenia;40;Figure in Greek myth
 iPhone;60
-iPhone air;60
+iPhone Air;60
+iPhone air;0
+iPhone Airs;50
+iPhone airs;0
 iPhone app;60
 iPhone apps;60
+iPhone camera;50
 iPhone case;60
 iPhone cases;60
 iPhone charger;60
 iPhone chargers;60
+iPhone Duo;60
+iPhone Duos;50
+iPhone notch;50
 IPhone Pro;60
 iPhone Pro Max;60
 iPhones;60
@@ -49847,10 +49868,10 @@ jam nut;40
 jam nuts;40
 jamón;40
 jamón serrano;50;Spanish dry-cured ham
-jam-pack;40
+jam-pack;50
 jam-packed;60
-jam-packing;40
-jam-packs;40
+jam-packing;50
+jam-packs;50
 jam roll;50
 jam rolls;50
 jams in;40
@@ -52784,8 +52805,8 @@ knew too much;60
 K'Nex;40
 Knick;40;New York NBA player
 Knicks;50;New York NBA team
-Knid;40;Vermicious Knid, Roald Dahl creature
-Knids;40;Vermicious Knids, Roald Dahl creatures
+Knid;20;Vermicious Knid, Roald Dahl creature
+Knids;20;Vermicious Knids, Roald Dahl creatures
 Knievel;50;Evel Knievel, daredevil
 knife;50
 knife edge;50
@@ -69814,6 +69835,8 @@ oralers;20
 orales;20
 oral health;50
 oralism;30
+oral report;50
+oral reports;50
 oral test;50
 oral tests;50
 Oran;30;Algerian city, setting of Camus's "The Plague"
@@ -76401,6 +76424,7 @@ pro soccer;50
 prosocial;50
 Prosopium williamsonii;20;Mountain whitefish species
 Prospero;50;"The Tempest" sorcerer
+Prospero Lambertini;40;Pope Benedict XIV (1740-1758)
 prost;30;German toast
 pro surfer;50
 pro surfers;50
@@ -82315,6 +82339,8 @@ ruasogets;0
 rub;50
 rub-a-dub-dub;60
 Rubaiyat;50;Omar Khayyam's quatrains
+rub and tug massage parlor;10
+rub and tug massage parlors;10
 rubbed noses with;40
 rubbed the wrong way;60
 rubber baby buggy bumper;60
@@ -85637,6 +85663,7 @@ sent a fax;50
 sent by;40
 sent flowers;60
 sent for;40
+sent from my iPhone;60
 sentimentalizer;50
 sentimental lady;50
 Sentimental Me;40;1949 song
@@ -95374,6 +95401,7 @@ tapes to;30
 tapes up;40
 tapeta;20;Retina layers
 tape to;30
+tapetum;30
 tape up;40
 tap-in;40
 taping on;40
@@ -96347,6 +96375,7 @@ Teo;20
 Teodoro;40;Spanish and Italian form of Theodore
 Teotihuacan;50;Ancient Mexican city of pyramids
 tep;20
+tepache;40;Mexican pineapple-based fermented beverage
 tepidaria;40;Warm bathrooms of the Roman baths
 tepidarium;40;Warm bathroom of the Roman baths
 tequila slammer;60
@@ -106405,6 +106434,10 @@ what a fool I've been;60
 what a hoot;60
 what a joke;60
 what a mess;60
+what am I doing?;60
+what am I doing;0
+what am I doing here?;60
+what am I doing here;0
 what am I forgetting?;60
 what an idea;60
 what a nightmare;60
@@ -106991,6 +107024,7 @@ who does he think he is?;60
 who does she think she is?;60
 who does that;60
 who do they think they are?;60
+who'd've;50
 who else;50
 who gives a crap?;50
 who gives a crap;0
@@ -107116,6 +107150,8 @@ who ya gonna call;60
 who ya gonna call? Ghostbusters.;60
 WHSmith;40;British travel retailer
 why;50
+why am I doing this?;60
+why am I doing this;0
 why am I seeing this?;60
 why are we whispering?;60
 why are we whispering;0
