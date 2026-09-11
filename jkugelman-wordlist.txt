@@ -81090,12 +81090,15 @@ Ring Around a Rosie;60
 Ring Around a Rosy;60
 Ring Around the Rosie;60
 Ring Around the Rosy;60
-ring bearer;50
-ring bearers;50
+ring bearer;60
+ring bearers;60
+Ring Cycle;60
 Ring Ding;50
 Ring Dings;50
 ringed seal;50
 ringed seals;50
+ring finger;60
+ring fingers;60
 ring for;40
 ringgit;40;Malaysian currency
 Ringgold;40;Faith Ringgold, story quilt artist
@@ -81684,6 +81687,9 @@ Rokus;40;Streaming devices
 Rolaids;50;Antacid brand
 Roland;50;"The Song of Roland" hero / Roland Barthes, French critic
 Rold;40;Rold Gold pretzels
+role model;60
+role modeling;50
+role models;60
 roleo;30
 roleos;30
 role-play;60
@@ -90339,7 +90345,8 @@ sower;30
 sowers;30
 Soweto;40;Johannesburg township
 so what;60
-so what do you say;60
+so what do you say?;60
+so what do you say;0
 so what's the deal?;60
 so what's the game plan;60
 so what's the plan;60
@@ -97339,6 +97346,8 @@ The Fountainhead;60
 The Fountain of Youth;60
 The Four Aces;50;1950s male pop quartet
 The Four Horsemen of the Apocalypse;60
+The Fox (What Does the Fox Say?);60
+The Fox What Does the Fox Say;0
 The Freewheelin' Bob Dylan;60;1963 studio album by Bob Dylan
 the French Alps;60
 the French Quarter;60
@@ -98622,7 +98631,8 @@ threw for a loop;60
 threw games;20;???
 threw good money after bad;60
 threw in the discard pile;50
-threw one's hat in the ring;50
+threw one's hat in the ring;60
+threw one's hat into the ring;60
 threw one's weight around;50
 threw to;40
 threw under the bus;60
@@ -98685,7 +98695,8 @@ throwing for a loop;60
 throwing games;20;???
 throwing good money after bad;60
 throwing in the discard pile;50
-throwing one's hat in the ring;50
+throwing one's hat in the ring;60
+throwing one's hat into the ring;60
 throwing one's weight around;50
 throwing pots;50
 throwing star;60
@@ -98701,8 +98712,10 @@ thrown at;40
 thrown a veil over;50
 thrown for a loop;60
 thrown in the discard pile;50
+thrown one's hat into the ring;60
 thrown under the bus;60
-throw one's hat in the ring;50
+throw one's hat in the ring;60
+throw one's hat into the ring;60
 throw one's weight around;50
 throw pots;50
 throws a curve;60
@@ -98721,7 +98734,8 @@ throws for a loop;60
 throws games;20;???
 throws good money after bad;60
 throws in the discard pile;50
-throws one's hat in the ring;50
+throws one's hat in the ring;60
+throws one's hat into the ring;60
 throws one's weight around;50
 throws pots;50
 throws to;40
@@ -105836,6 +105850,8 @@ wedding reception;50
 wedding receptions;50
 wedding registries;50
 wedding registry;50
+wedding ring;60
+wedding rings;60
 wedding shower;60
 wedding showers;60
 wedding soup;50
@@ -106496,14 +106512,26 @@ what could go wrong;60
 what could have been;60;Trope
 what did I just read;60
 what does it matter;60
+what does it say?;60
 what does that even mean;60
 what does that have to do with the price of tea in China?;60
 what does that mean;60
-what do you say;60
+What Does the Fox Say?;60
+What Does the Fox Say;0
+what do we say?;60
+what do we say;0
+what do you have to say for yourself?;60
+what do you have to say for yourself;0
+what do you say?;60
+what do you say;0
+what do you say to that?;60
+what do you say to that;0
 what do you think you're doing?;60
 what do you want, a biscuit?;60
 what do you want a cookie;60
 what do you want, a medal?;60
+what do you want me to say?;60
+what do you want me to say;0
 what else is left?;60
 what exactly is the point?;60
 what for;60
@@ -107834,6 +107862,7 @@ without warning;60
 With Reagan;40;Book
 with the love I gave in May;20
 with the naked eye;50
+with this ring I thee wed;60
 with time to spare;60
 withy;30;Willow branch used in basketry
 Witi;30;Witi Ihimaera, New Zealand writer (born 1944)
