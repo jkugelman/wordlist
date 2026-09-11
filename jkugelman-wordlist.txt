@@ -31616,6 +31616,7 @@ exacting revenge upon;50
 exact likeness;50
 exact likenesses;50
 exactly what it says on the tin;60;Trope
+exactly what you'd expect;60
 Exacto knife;50
 Exacto knives;50
 exactor;30
@@ -50898,12 +50899,19 @@ Judeo;40
 Judeo-Christian;50
 Judex;40;Masked hero of the French silent serial
 Judge Doom;60
+Judge Holden;60;"Blood Meridian" outlaw
+Judge Judy;60
 judge jury and executioner;60
 judgement;40;UK spelling
+judgement-free zone;60
+judgement-free zones;60
 judgements;40
+judge not lest ye be judged;60
+judge not that ye be not judged;60
 judges;50
 judgment call;50
 judgment calls;50
+judgment day;60
 judgment-free zone;60
 judgment-free zones;60
 Judi;50;Judi Dench, Oscar-winning actress
@@ -54072,10 +54080,14 @@ Lapps;10;Historical term for the Sámi people, sometimes considered offensive
 La Prensa;30
 laps at;40
 lapsed into;40
+lapse in judgment;60
 lapse into;40
+lapse of judgment;60
 lapser;30
 lapsers;30
+lapses in judgment;60
 lapses into;40
+lapses of judgment;60
 lapsing into;40
 Laptev;40;Laptev Sea, off Siberia
 La Puente;40;L.A. suburb
@@ -89246,6 +89258,8 @@ Snap! Crackle! Pop!;60;Kellog's slogan
 snapdragon;60
 snapdragons;60
 Snape;10;Harry Potter
+snap judgment;60
+snap judgments;60
 snapless;50
 snap line;50;Chalked string used in construction
 snap lines;50
@@ -103673,6 +103687,8 @@ valse;40
 Valspeak;50;Valley girl dialect
 value at;40
 valued at;50
+value judgment;60
+value judgments;60
 value meal;50
 value meals;50
 value-neutral;50
@@ -109397,6 +109413,7 @@ you can't do this to me;60
 you can't fix stupid;60
 you can't get there from here;60
 you can't have it both ways;60
+you can't judge a book by its cover;60
 you can't lose;60
 you can't make me;60
 you can't mean that;60
@@ -109411,6 +109428,8 @@ you could say that;60
 you could've fooled me;60
 you dare me;60
 you'd better not;60;"Be warned— that's a bad idea!"
+you decide;60
+you deserve each other;60
 you did good;60
 you did good kid;60
 you did it;50
