@@ -78891,6 +78891,10 @@ rearresting;40
 rearrests;40
 rear-view mirror;50
 rear-view mirrors;50
+rear-wheel drive;60
+Rear Window;60;1954 film by Alfred Hitchcock
+rear wiper;50
+rear wipers;50
 reascend;40
 reascended;40
 reascending;40
