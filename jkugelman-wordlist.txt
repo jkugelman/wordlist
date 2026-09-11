@@ -52372,7 +52372,8 @@ Kigali;40;Capital of Rwanda
 Kiiara;40;Pop singer of "Gold"
 Kije;40;Lieutenant Kijé, Prokofiev suite
 Kijiji;40;Canadian classified ads site
-Kiki;30;???
+Kiki;40
+kikis;30;???
 Kiki's Delivery Service;60;Studio Ghibli movie
 Kikkoman;50;Soy sauce brand
 Kikuchi;40;Rinko Kikuchi, "Babel" actress
@@ -86570,8 +86571,10 @@ Shelagh;40;Shelagh Delaney, "A Taste of Honey" playwright
 Shelby;40;Carroll Shelby, car designer / Shelby Foote, historian
 Shelbyville;50;Springfield's rival town on "The Simpsons"
 Sheldon;50;Sheldon Cooper, "The Big Bang Theory" physicist
-shelduck;30
-shelducks;30
+sheldrake;40;Male shelduck
+sheldrakes;40;Male shelduck
+shelduck;40
+shelducks;40
 shelf talker;50
 shelf talkers;50
 shell;50
@@ -90123,6 +90126,8 @@ sorry to bother you;60
 sorry we're closed;60
 sorry wrong number;60
 sorry you're mad;60
+sortable;40
+sortably;40
 sort data;30;Green paint, not an actual spreadsheet command
 sorter;40
 sorters;40
@@ -107748,11 +107753,13 @@ wise choice;60
 wise choices;50
 wisecracker;60
 wisecrackers;60
+wised;50
 wised up to;40
 wise Latina;20
 wise men;50
 wise move;60
 wisent;20
+wises;50
 wises up to;40
 wise up to;40
 wishbone;60
@@ -107761,6 +107768,7 @@ wisher;40
 wishers;40
 Wishman;40;Doris Wishman, exploitation filmmaker
 wishy;40
+wising;50
 wising up to;40
 Wislawa;40;Wislawa Szymborska, Nobel-winning Polish poet
 Wisniewski;40;Common Polish surname
