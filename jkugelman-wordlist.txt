@@ -110226,7 +110226,7 @@ Zissou;40;Steve Zissou of "The Life Aquatic"
 zit;50
 zit cream;50
 Zito;40;All-Star pitcher Barry Zito
-Zitti;40;"Zitti e buoni," Eurovision-winning Maneskin song
+Zitti;20;"Zitti e buoni," Eurovision-winning Maneskin song
 Zitti e buoni;40;Eurovision-winning Maneskin song
 Ziva;40;Ziva David, "NCIS" agent
 Ziwe;40;Ziwe Fumudoh, comedian and talk show host
