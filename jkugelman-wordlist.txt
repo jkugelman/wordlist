@@ -78893,6 +78893,7 @@ rear-view mirror;50
 rear-view mirrors;50
 rear-wheel drive;60
 Rear Window;60;1954 film by Alfred Hitchcock
+rear window;50
 rear wiper;50
 rear wipers;50
 reascend;40
