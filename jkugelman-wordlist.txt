@@ -8127,6 +8127,7 @@ Bagram, Afghanistan;50
 Bagram Afghanistan;0
 bags it;40
 bag tag;50;Golf accessory
+bag tags;50;Golf accessories
 Baguio;40;Philippine mountain city
 bah;50
 Baha;40;Baha Men, "Who Let the Dogs Out" group
