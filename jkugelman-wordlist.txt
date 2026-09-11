@@ -3542,6 +3542,7 @@ A Man Called Ove;40
 Amanda;50;Amanda Gorman, poet / common first name
 Amandla;40;Amandla Stenberg, actress / Zulu for "power"
 amanita;40;Mushroom genus
+amanitas;40
 a man or a mouse;60
 Amanpour;40;Christiane Amanpour, CNN journalist
 A Map of the World;50;1994 novel by Jane Hamilton, Oprah's Book Club selection
@@ -6955,7 +6956,7 @@ atomies;40;???
 atomist;40
 atomists;40
 Atomium;40;Brussels landmark shaped like an iron crystal
-a ton;40
+a ton;50
 atoned for;40
 atone for;40
 atoner;40
@@ -10006,6 +10007,8 @@ be in the way;20
 Beirut;50;Lebanese capital
 Beiruti;40;Of Lebanon's capital
 Beirutis;40;Beirut residents
+be it;20
+be it so;40
 Beiyang;40;Chinese army and government of the early 1900s
 bejesus;60
 Bejo;40;Berenice Bejo, actress in "The Artist"
@@ -32506,6 +32509,7 @@ Farah;40;Mo Farah, Olympic distance runner
 Faramir;50;Boromir's brother in "The Lord of the Rings"
 far and away;50
 farandole;30;French dance
+far be it;40
 Farber;40;Sidney Farber, namesake of the Dana-Farber Cancer Institute
 far beyond;50
 Farbissina;40;Frau Farbissina, "Austin Powers" villain
@@ -45229,6 +45233,7 @@ Howardena;40;Howardena Pindell, abstract painter
 Howard Hesseman;40;Actor in "WKRP in Cincinatti" and "Head of the Class"
 Howards;40;"Howards End" novel
 how bad could it be;60
+howbeit;40;Although, nevertheless
 how bizarre;60
 how 'bout we start over?;60
 how can I;60
@@ -60533,6 +60538,7 @@ Mayas;40;Mesoamerican people
 Maybach;40;Luxury car marque
 Maybachs;40;Ultra-luxury Mercedes cars
 maybe don't;60
+maybe it's for the best;60
 maybe it's just me;60
 maybe it's just me but;60
 Maybelle;40;Maybelle Carter, country music matriarch
@@ -96736,6 +96742,7 @@ that can't be real;60;"No way it's true..."
 Thatcherism;50;The Iron Lady's political creed
 Thatcherite;50;Follower of Margaret Thatcher
 Thatcherites;50;Margaret Thatcher's followers
+that could be it;60
 that doesn't add up;60
 that doesn't count;60
 that dog don't hunt;60
@@ -96754,6 +96761,7 @@ that just happened;60
 that just might work;60
 that'll do;60
 that'll never work;60
+that must be it;60
 that one;40
 that's a big ask;60
 that's a big if;60
