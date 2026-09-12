@@ -609,6 +609,7 @@ Abimelech;40;Biblical king in Genesis and Judges
 ab intra;30;From within: Lat.
 a bit;50
 a bit behind;50
+a bit more;50
 a bit much;50
 a bit of a character;60
 a bit of a stretch;60;Reaching
@@ -4418,7 +4419,10 @@ animal crackers;60
 animal crossing;60
 animalcule;40;Microscopic organism, archaic
 animalcules;40
+Animal House;60
 Animalia;40;The animal kingdom
+animal instinct;60
+animal instincts;60
 animal kingdom;60
 animal lover;60
 animal lovers;60
@@ -22025,7 +22029,7 @@ Croatan;40;Word carved at the Roanoke colony
 Croatia;50;Adriatic country
 Croatian;50;From Zagreb
 Croatians;50;People of Croatia
-Croats;50;Zagreb natives
+Croats;50;People from Croatia
 Croce;40;Jim Croce, singer of "Time in a Bottle"
 croci;30;Crocuses
 Crocker;50;Betty Crocker, baking icon
@@ -89869,6 +89873,7 @@ solider;30
 solid food;50
 solid foods;50
 solidi;30;Old Roman coins
+solid matter;50
 Solid Snake;60
 Solid South;60
 solid-state;60
@@ -103372,17 +103377,18 @@ use the old noodle;60
 use up;50
 USG;20
 USGS;30;United States Geological Survey
-ush;20
+ush;30
 ushabti;20
 ushabtis;20
 ushanka;40;Russian hat with flaps over the ears
 U shape;30
 U-shaped;30
 U shapes;30
-ushed;20
+ushed;30
 usherette;30
 usherettes;30
-ushes;20
+ushes;30
+ushing;30
 US history;50
 Ushuaia;40;Argentine city at the world's end
 using as bait;50
