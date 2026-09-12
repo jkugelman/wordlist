@@ -1613,6 +1613,10 @@ advisory group;50
 advisory groups;50
 advocacy group;60
 advocacy groups;60
+advocated for;40
+advocate for;40
+advocates for;40
+advocating for;40
 ad war;40
 ad wars;40
 Adweek;40;Advertising trade magazine
@@ -4625,16 +4629,20 @@ Anson;40;Anson Mount, actor, or Cap Anson, early baseball star
 Ansonia;30;Luxurious, or Connecticut city
 Anspach;40;Actress Susan Anspach of "Five Easy Pieces"
 ansu;20
+answered for;40
 answered the call of nature;60
 answered the door;50
 answered to;40
 answerer;40
 answerers;40
+answer for;40
+answering for;40
 answering the call of nature;60
 answering to;40
 answer key;50
 answer keys;50
 answer me;60
+answers for;40
 answers the call of nature;60
 answers to;40
 answer the call of nature;60
@@ -5174,12 +5182,16 @@ Apple Vision Pro;60;Apple mixed-reality headset
 Apple Watch;60
 Apple Watches;60
 applicable laws;60
+applied for;40
 applied research;50
 applied to;40
 applier;40
 appliers;40
+applies for;40
 applies to;40
+apply for;40
 apply for college;50
+applying for;40
 applying to;40
 apply to;40
 Appomattox;50;Virginia site of Lee's surrender
@@ -5635,12 +5647,16 @@ argon lasers;50
 Argonne;30;W.W. I battle site
 Argos;30
 argosy;20;Large ship
+argued for;40
 argued with;40
+argue for;40
 arguer;40
 arguers;40
+argues for;40
 argues with;40
 argue the hindlegs off a donkey;60
 argue with;40
+arguing for;40
 arguing with;40
 A. R. Gurney;40;Playwright A. R. Gurney
 Argus;30;100-eyed giant slain by Hermes
@@ -6309,6 +6325,7 @@ a shot;20
 as hot;20
 as hot as;20
 a shot in the arm;60
+A Shot in the Dark;60
 ash pan;40
 ash pans;40
 ash pit;40;???
@@ -12964,10 +12981,14 @@ bra;50
 Brabant;40;Historic duchy of the Low Countries
 Bracco;40;Lorraine Bracco, "The Sopranos" actress
 Bracebridge;40;Ontario town / "Bracebridge Hall," Washington Irving book
+braced for;40
+brace for;40
 bracero;30
 braceros;30
+braces for;40
 brachiate;40
 Brachiosaurus;50;Long-necked dinosaur
+bracing for;40
 bracketologist;60
 bracketologists;60
 bracketology;60
@@ -14010,10 +14031,14 @@ budgetary limit;50
 budgetary limits;50
 budget committee;50
 budget committees;50
+budgeted for;40
+budget for;40
 budget hotel;50
 budget hotels;50
+budgeting for;40
 budget office;50
 budget offices;50
+budgets for;40
 Bud Light;60
 Budokan;40;Tokyo arena of the Cheap Trick live album
 Bud Powell;40;Jazz pianist
@@ -18931,6 +18956,10 @@ Clamato;50;Clam and tomato juice
 Clamatos;40;Clamato drinks
 clam bed;50
 clam beds;50
+clamored for;40
+clamor for;40
+clamoring for;40
+clamors for;40
 clamped on;40
 Clampett;50;Jed Clampett of "The Beverly Hillbillies"
 Clampetts;50;"The Beverly Hillbillies" family
@@ -20398,6 +20427,10 @@ comped meal;50
 comped meals;50
 compeer;20
 compeers;20
+compensated for;40
+compensate for;40
+compensates for;40
+compensating for;40
 compere;20
 compered;20
 comperes;20
@@ -22287,6 +22320,10 @@ Crunchyroll;50;Anime streaming service
 crupper;40;Horseriding strap
 cruppers;40
 crus;20;French vineyards
+crusaded for;40
+crusade for;40
+crusades for;40
+crusading for;40
 crusado;20;Old Portuguese coin
 crusados;20
 Crushcrushcrush;40;Paramore single
@@ -27905,6 +27942,7 @@ Dudley;50;Dudley Do-Right, cartoon Mountie / Dudley Moore, actor
 due;50
 due bill;30
 due bills;30
+due for;40
 duel wield;60
 duel wielded;60
 duel wielding;60
@@ -33950,12 +33988,14 @@ fish bombing;60
 Fishburne;50;Laurence Fishburne, "The Matrix" actor
 Fish Called Wanda;50
 fish drum;50;Percussion instrument
+fished for;40
 fished for compliments;60
 fish egg;50
 fish eggs;50
 Fishel;40;Danielle Fishel, Topanga on "Boy Meets World"
 Fisher Ames;40;Early American politician
 Fisher Smurf;60
+fishes for;40
 fishes for compliments;60
 fish farm;60
 fish farmed;20
@@ -33966,10 +34006,12 @@ fish farms;60
 fish fin;20
 fish fins;20
 fish food;60
+fish for;40
 fish for compliments;60
 fish hook;50
 fishhooked;50
 fish hooks;50
+fishing for;40
 fishing for compliments;60
 fishing industry;50
 fishing license;60
@@ -35569,6 +35611,7 @@ Freire;40;Paulo Freire, "Pedagogy of the Oppressed" author
 Freleng;40;Friz Freleng, Looney Tunes director
 Fremantle;40;Port city near Perth
 Fremont;40;John C. Frémont, explorer / California city
+Frémont;40;John C. Frémont, United States Army officer, explorer, and politician (1813–1890)
 Fremulon;40;Michael Schur's production company
 french;50
 French;50
@@ -48129,6 +48172,10 @@ interregna;40
 interregnum;40;Pause, period of British history
 interregnums;40
 inter se;30
+interviewed for;40
+interview for;40
+interviewing for;40
+interviews for;40
 Interview with the Vampire;60
 intestacy;40
 in that;40
@@ -49060,6 +49107,10 @@ it can't be;60
 it can't be that bad;60
 it can't be that hard;60
 it can wait;60
+itched for;40
+itches for;40
+itch for;40
+itching for;40
 Itchy and Scratchy;60
 Itchy & Scratchy Show;60
 it comes and goes;50
@@ -50605,11 +50656,14 @@ John Bonham;60;Led Zeppelin drummer
 John Cage;60
 John Cameron Swayze;50;News commentator and game show panelist (1906–1995)
 John Cena;60
+John C. Frémont;50;United States Army officer, explorer, and politician (1813–1890)
+John C Fremont;0
 John Cheever;50;Novelist John Cheever (1912-82)
 John Duns Scotus;40
 John Endicott;40;Governor of Massachusetts Bay Colony (1600–1664)
 Johnetta;40;Johnetta Elzie, activist
 John Fred;50
+John Frémont;50;United States Army officer, explorer, and politician (1813–1890)
 John Frusciante;50;Red Hot Chili Peppers guitarist
 John Hughes;60
 John I;30
@@ -50734,9 +50788,12 @@ Jones;50;Common surname, as in Indiana Jones
 Jo Nesbø;40;Most successful Norwegian author of all time
 Jo Nesbo;0
 Jonesboro;40;Arkansas city
+jonesed for;40
 Joneses;60
+joneses for;40
+jones for;40
 jonesing;60
-jonesing for;60
+jonesing for;40
 Jonestown;50;Site of the 1978 mass suicide
 Jonesy;40;Cat in "Alien"
 Jong;40;"Fear of Flying" author Erica Jong
@@ -56265,6 +56322,7 @@ line dancers;60
 line dances;60
 line dancing;60
 lined one's pockets;60
+lined up for;40
 line-item veto;60
 line-item vetoes;60
 line-item vetos;60
@@ -56280,8 +56338,10 @@ lines of succession;60
 lines one's pockets;60
 line space;50
 line spacing;50
+lines up for;40
 line three;40
 line two;40
+line up for;40
 Ling;40
 Lingala;40;Congolese language
 lingam;30;Phallic object as a symbol of Shiva
@@ -56295,6 +56355,7 @@ lingos;30
 linguistic atlas;40
 Lingus;40
 lining one's pockets;60
+lining up for;40
 LinkedIn;50
 linked to;40
 linker;40
@@ -56781,6 +56842,10 @@ Loba;40;"Apex Legends" thief character
 Lobachevsky;50;Nikolai Lobachevsky, non-Euclidean geometer and Tom Lehrer subject
 Lobamba;40;Legislative capital of Eswatini
 lobate;30;Having lobes, like leaves
+lobbied for;40
+lobbies for;40
+lobby for;40
+lobbying for;40
 Lobel;40;Arnold Lobel, "Frog and Toad" author
 Loblaw;50;Bob Loblaw
 lobo;40
@@ -58576,6 +58641,7 @@ made the butt of the joke;60
 made the scene;60
 made time;50
 made time for;50
+made up for;40
 made up of;40
 made up one's mind;60
 made use;40
@@ -59106,6 +59172,7 @@ makes the butt of the joke;60
 makes the scene;60
 makes time;50
 makes time for;50
+makes up for;40
 makes up one's mind;60
 makes use;40
 makes use of;40
@@ -59125,6 +59192,7 @@ makeup brush;60
 makeup brushes;60
 makeup case;60
 makeup cases;60
+make up for;40
 makeup kit;60
 makeup kits;60
 makeup lesson;60
@@ -59208,6 +59276,7 @@ making the butt of the joke;60
 making the scene;60
 making time;50
 making time for;50
+making up for;40
 making up one's mind;60
 making use;40
 making use of;40
@@ -62684,9 +62753,13 @@ Miss Thing;60
 Miss Torso;40;"Rear Window" character
 Missundaztood;40;Pink album
 Mistah J;60;How Harley Quinn refers to the Joker
+mistake for;40
+mistaken for;40
 mistaken identity;60
+mistakes for;40
 mistakes were made;60
 mistakeweremade;0
+mistaking for;40
 Mister Christian;30
 Mister Ed;50
 Mister Fantastic;60
@@ -62696,6 +62769,7 @@ Mister Toad;50;"The Wind in the Willows" character
 Misti;40;El Misti, Peruvian volcano
 Místico;40;???
 Mistoffelees;50;Mister Mistoffelees, "Cats" conjuring cat
+mistook for;40
 mistral;30;Cold wind of France
 mistrals;30
 Mistress of the Dark;60
@@ -63826,13 +63900,17 @@ Mountweazel;60;Plagiarism trap
 Mountweazels;60;Plagiarism traps
 Moura;40;Wagner Moura, Brazilian actor in "Narcos"
 Mourinho;30;Soccer manager, one of the greatest of all time
+mourned for;40
 mourned the loss;60
 mourned the loss of;60
+mourn for;40
 mourning cloak;60;Species of butterfly
 mourning cloak butterflies;60
 mourning cloak butterfly;60
+mourning for;40
 mourning the loss;60
 mourning the loss of;60
+mourns for;40
 mourns the loss;60
 mourns the loss of;60
 mourn the loss;60
@@ -64867,14 +64945,17 @@ namecheck;60
 namechecked;60
 namechecking;60
 namechecks;60
+named for;40
 named one's price;50
 named to;40
+name for;40
 name of;40
 name one;60
 name one's price;50
 namer;40
 name recognition;60
 namers;40
+names for;40
 names one's price;50
 names to;40
 name to;40
@@ -64883,6 +64964,7 @@ Namib;40;African desert
 Namibia;50;Country in southern Africa
 Namibian;40;Of Namibia
 Namibians;40;People of Namibia
+naming for;40
 naming one's price;50
 namings;30
 naming to;40
@@ -74590,6 +74672,10 @@ plummier;30
 plummiest;30
 plummy;30;Like a plum (color)
 plumose;30
+plumped for;40
+plump for;40
+plumping for;40
+plumps for;40
 Plumr;40;Liquid-Plumr, drain opener
 plum sauce;50
 plunder;50
@@ -75946,13 +76032,17 @@ press club;50
 press clubs;50
 press corps;60
 press coverage;60
+pressed for;40
 pressed ham;50
 pressed one's luck;50
+presses for;40
 presses one's luck;50
 press event;60
 press events;60
 press F;20
+press for;40
 press F to pay respects;60
+pressing for;40
 pressing one's luck;50
 press junket;60
 press junkets;60
@@ -76767,6 +76857,7 @@ pull days;50
 pulled a rabbit out of a hat;60
 pulled at;40
 pulled a uey;50
+pulled for;40
 pulled on;40
 pulled one's punches;60
 pulled one's socks up;50
@@ -76782,9 +76873,11 @@ pulled the goalie;60
 pulled up by the roots;50
 pulled up one's socks;50
 pulled up stakes;60
+pull for;40
 pulling a rabbit out of a hat;60
 pulling at;40
 pulling a uey;50
+pulling for;40
 pulling on;40
 pulling one's punches;60
 pulling one's socks up;50
@@ -76818,6 +76911,7 @@ pull requests;60
 pulls a rabbit out of a hat;60
 pulls at;40
 pulls a uey;50
+pulls for;40
 pulls on;40
 pulls one's punches;60
 pulls one's socks up;50
@@ -78797,6 +78891,7 @@ read that back to me;60
 read to;40
 read/write errors;30
 ready as I'll ever be;60
+ready for;40
 ready Freddy;60
 ready or not;60
 ready room;50
@@ -80147,8 +80242,12 @@ resemblant;30
 reserpine;30;Blood pressure drug
 reserve a table;50
 reserved a table;50
+reserved for;40
+reserve for;40
 reserves a table;50
+reserves for;40
 reserving a table;50
+reserving for;40
 Resetti;40;Mr. Resetti, "Animal Crossing" mole
 resew;20
 resewed;20
@@ -84938,13 +85037,17 @@ search bot;60
 search bots;60
 search box;60
 search boxes;60
+searched for;40
 search engine;60
 search engines;60
+searches for;40
+search for;40
 search hijack;60;Type of attack
 search hijacker;60
 search hijackers;60
 search hijacking;60
 searchin';50
+searching for;40
 search me;60;"No idea"
 search result;60
 search results;60
@@ -86021,9 +86124,13 @@ setting the clock back;60
 setting the tone;50
 setting upon;40
 setting up shop;60
+settled for;40
 settled into;40
+settle for;40
 settle into;40
+settles for;40
 settles into;40
+settling for;40
 settling into;40
 set-to;40
 set-top;50
@@ -86766,6 +86873,10 @@ shikari;20;India tribe
 shikaris;20;India tribe
 Shikibu;40;Murasaki Shikibu, "The Tale of Genji" author
 Shikoku;40;Smallest of Japan's four main islands
+shilled for;40
+shill for;40
+shilling for;40
+shills for;40
 Shiloh;50;Civil War battle site
 Shilts;40;Randy Shilts, "And the Band Played On" author
 Shimabukuro;50;Jake Shimabukuro, ukulele virtuoso
@@ -86997,6 +87108,7 @@ shook one's moneymaker;50
 S-hooks;30
 Shoop;40;Salt-N-Pepa hit, or the Shoop Shoop Song
 shoos in;20
+shoot around;40
 shoot at;40
 shoot blanks;50
 shoot by;40
@@ -87007,16 +87119,23 @@ shoot 'em;20;Long partial
 shoot 'em up;60
 shoot 'em ups;60
 shoot first and;20
+shoot for;40
+shoot for the stars;60
 shoot from the hip;60
-shoot hoops;50
+shoot hoops;60
+shooting around;40
 shooting at;40
 shooting blanks;50
 shooting by;40
 shooting craps;60
+shooting for;40
+shooting for the moon;60
+shooting for the stars;60
+shooting from the hip;60
 shooting gallery;60
-shooting hoops;50
+shooting hoops;60
 shooting off;50
-shooting one's mouth off;50
+shooting one's mouth off;60
 shooting one's shot;50
 shooting pool;50
 shooting range;50
@@ -87024,25 +87143,33 @@ shooting ranges;50
 shooting skeet;50
 shooting star;50
 shooting stars;50
+shooting the messenger;60
 shooting the moon;60
 shooting the shit;10
 shoot off;50
-shoot one's mouth off;50
+shoot one's mouth off;60
 shoot one's shot;50
 shoot pool;50
+shoots around;40
 shoots at;40
 shoots blanks;50
 shoots by;40
 shoots craps;60
-shoots hoops;50
+shoots for;40
+shoots for the moon;60
+shoots for the stars;60
+shoots from the hip;60
+shoots hoops;60
 shoot skeet;50
 shoots off;50
-shoots one's mouth off;50
+shoots one's mouth off;60
 shoots one's shot;50
 shoots pool;50
 shoots skeet;50
+shoots the messenger;60
 shoots the moon;60
 shoots the shit;10
+shoot the messenger;60
 shoot the moon;60
 shoot the shit;10
 shoot your shot;60
@@ -87124,6 +87251,8 @@ Shoshones;40;Great Basin people
 Shoshoni;40;Uto-Aztecan language
 Shostakovich;60
 shot;50
+shot across the bow;60
+shot around;40
 shot at;40
 shot blanks;50
 shot blocker;50
@@ -87132,9 +87261,17 @@ shot by;40
 shot clock;60
 shot clocks;60
 shot craps;60
+shot for;40
+shot for the moon;60
+shot for the stars;60
+shot from the hip;60
 shot glass;50
 shot glasses;50
-shot hoops;50
+shotgun formation;60
+shotgun formations;60
+shotgun wedding;60
+shotgun weddings;60
+shot hoops;60
 ShoTime;60;Nickname for Shohei Ohtani
 shot length;50
 shot lengths;50
@@ -87143,7 +87280,7 @@ shot off;50
 shot of tequila;50
 shot of whiskey;50
 Shotokan;40;Style of karate
-shot one's mouth off;50
+shot one's mouth off;60
 shot one's shot;50
 shot pool;50
 shot put;50
@@ -87151,10 +87288,13 @@ shot puts;50
 shot putter;50
 shot putters;50
 shots;50
+shots across the bow;60
+shots fired;60
 shot skeet;50
 shots of espresso;50
 shots of tequila;50
 shots of whiskey;50
+shot the messenger;60
 shot the moon;60
 shot the shit;10
 shot to shit;10
@@ -91570,10 +91710,12 @@ standee;30
 standees;30
 stander;30
 standers;30
+stand for;40
 stand in;50
 standing at;30
 standing at ease;50
 standing atop;40
+standing for;40
 standing in;40
 standing next to;40
 standing O;60
@@ -91600,6 +91742,7 @@ stands apart;50
 stands at;30
 stands at ease;50
 stands atop;40
+stands for;40
 stands in;40
 stands next to;40
 stands on;40
@@ -91626,7 +91769,7 @@ standup guys;0
 stand up in court;60
 stand up to;40
 Stanfield;40;LaKeith Stanfield, actor / Marlo Stanfield, "The Wire" villain
-stan for;50
+stan for;40
 Stanford;50;California university
 'Stang;40;Ford Mustang, familiarly
 Stang;0
@@ -91648,16 +91791,16 @@ Stanley Elkin;40;Novelist, short story writer, and essayist
 Stanleys;30
 Stan Musial;50
 St. Anne;40
-stanned for;50
+stanned for;40
 stannic;30;Of tin
-stanning for;50
+stanning for;40
 Stannis;30
 Stannis Baratheon;50
 stanno-;20;Tin: Prefix
 stannous;40;Of tin
 stannum;30;Latin for tin, source of "Sn"
 stans;50;Bad plural, fine as superfans (or verb)
-stans for;50
+stans for;40
 Stan the Man;60
 Stanton;40;Elizabeth Cady Stanton, suffragist / Edwin Stanton, Lincoln's war secretary
 Stanwyck;50;Barbara Stanwyck, "Double Indemnity" star
@@ -92684,6 +92827,7 @@ stoney lonesome;60
 stood at;30
 stood at ease;50
 stood atop;40
+stood for;40
 stood in;40
 stood next to;40
 stood on;40
@@ -93135,8 +93279,11 @@ stripteases;60
 striptt;0
 St. Rita;40;St. Rita of Cascia
 Stritch;30;Broadway actress Elaine Stritch
+strive for;40
 striver;30
 strivers;30
+strives for;40
+striving for;40
 strobel;30;???
 strobic;30;Spinning, like a fan
 strobili;20;Pine cone structures
@@ -93185,6 +93332,7 @@ Stroud;40;Robert Stroud, the Birdman of Alcatraz / C.J. Stroud, NFL quarterback
 Stroumboulopoulos;50;George Stroumboulopoulos, Canadian TV host
 Stroustrup;40;Bjarne Stroustrup, creator of C++
 Strout;40;Elizabeth Strout, "Olive Kitteridge" author
+strove for;40
 strs;30
 struck a deal with;50
 struck a match;50
@@ -93306,8 +93454,12 @@ stultified;50
 stultifies;40
 stultify;40
 stultifying;50
+stumped for;40
 stumpf fiddle;50;Musical instrument
 stump fiddle;50;Musical instrument
+stump for;40
+stumping for;40
+stumps for;40
 Stumptown;50;Portland, Oregon's nickname
 stun gun;50
 stun guns;50
@@ -105484,22 +105636,29 @@ Watanabe;40;Ken Watanabe, Japanese actor
 watch;50
 watchdog group;60
 watchdog groups;60
+watched for;40
 watched one's back;50
 watched one's language;50
 watched one's mouth;50
 watched one's step;50
+watched out for;40
 watches;50
+watches for;40
 watches one's back;50
 watches one's language;50
 watches one's mouth;50
 watches one's step;50
+watches out for;40
 watch fob;50
 watch fobs;50
+watch for;40
 watch I'll show you;60
+watching for;40
 watching one's back;50
 watching one's language;50
 watching one's mouth;50
 watching one's step;50
+watching out for;40
 watch it;60
 watchlist;50
 watchlists;50
@@ -105507,6 +105666,7 @@ WatchMojo;40;YouTube top-10 list channel
 watch one's language;50
 watch one's mouth;50
 watch one's step;50
+watch out for;40
 watch parties;60
 watch party;60
 watch stand;50
@@ -106564,7 +106724,7 @@ what do you want me to say?;60
 what do you want me to say;0
 what else is left?;60
 what exactly is the point?;60
-what for;60
+what for;50
 what happens in Vegas stays in Vegas;60
 what happens next;60
 what have I become;60
@@ -107835,8 +107995,12 @@ wises up to;40
 wise up to;40
 wishbone;60
 wishbones;60
+wished for;40
 wisher;40
 wishers;40
+wishes for;40
+wish for;40
+wishing for;40
 Wishman;40;Doris Wishman, exploitation filmmaker
 wishy;40
 wising;50
