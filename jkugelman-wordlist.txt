@@ -80966,6 +80966,7 @@ riel;40;Cambodian currency
 riels;40;Cambodian currency
 Riemann;50;Bernhard Riemann, mathematician of the hypothesis
 Riemannian;50;Of Riemann's curved geometry
+rien;40;Nothing: Fr.
 Rienzi;30;Wagner opera
 Riesen;40;Caramel candy
 Riesling;50;German white wine
