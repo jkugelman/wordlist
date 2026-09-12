@@ -12733,6 +12733,7 @@ Bottlegate;40;2001 Browns bottle-throwing melee
 bottle list;60
 bottlenose whale;60
 bottle of wine;50
+bottle service;60
 bottle shop;50
 bottle shops;50
 bottles of wine;50
