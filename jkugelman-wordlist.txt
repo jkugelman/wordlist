@@ -6654,6 +6654,7 @@ Astolat;30;Castle of Arthurian legends
 as told to;40
 Astolfo;40;Knight of "Orlando Furioso"
 Aston;40
+a stone's throw;60
 Astor;40
 Astor Bar;40
 Astoria;40;Queens neighborhood / Oregon city
@@ -7559,6 +7560,7 @@ AWOLs;40
 a work of art;50
 a world of hurt;60
 a wrap;20
+A Wrinkle in Time;60;1962 science fantasy novel by Madeleine L'Engle
 A&W Root Beer;60
 AWS;40
 aw snap;60
@@ -37290,6 +37292,8 @@ Geordie;40;Newcastle native
 Geordies;40;Newcastle natives
 Georg;40;Mathematician Cantor, composer Solti, and others
 George;50;Common given name
+George A. Romero;50
+George A Romero;0
 George Bluth Sr.;60;"Arrested Development" character
 George Enescu;40;Romanian composer and violinist (1881–1955)
 George Harrison;60
@@ -55204,6 +55208,7 @@ Leicestershire;50;English county
 Lei Day;60
 Leiden;40;Dutch city, birthplace of Rembrandt
 Leif;40;Leif Erikson, Norse explorer
+Leif Erickson;50
 Leifers;30
 Leigh;50;Vivien Leigh, "Gone with the Wind" star / Janet Leigh, actress
 Leighs;30;Janet and Vivien
@@ -56083,6 +56088,7 @@ like hotcakes;60
 like I said;60
 like it matters;60
 like it or not;60
+likely story;50
 like magic;60
 likened to;40
 likening to;40
@@ -108372,6 +108378,7 @@ Wrexham;40;Welsh town and football club owned by Ryan Reynolds
 Wrigley;50;Chicago ballpark, or the gum company
 Wrigley's;40;Gum brand
 wrinkled one's brow;50
+Wrinkle in Time;50;1962 science fantasy novel by Madeleine L'Engle, with "A"
 wrinkle one's brow;50
 wrinkles one's brow;50
 wrinkling one's brow;50
