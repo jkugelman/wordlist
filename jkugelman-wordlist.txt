@@ -72466,7 +72466,7 @@ peanut farmer;50
 peanut farmers;50
 peanut farming;50
 peanut farms;50
-peanut galleries;60
+peanut galleries;50
 peanut gallery;60
 peanut M and M;40
 peanut M and Ms;40
