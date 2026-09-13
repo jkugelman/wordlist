@@ -2686,7 +2686,7 @@ Al Davis;40;NFL coach
 Aldebaran;30;Brightest star in Taurus
 Alden;40;John Alden on the Mayflower, Star Wars actor Alden Ehrenreich, or others
 Alderaan;50;Leia's doomed home planet
-al desko;60;Eating at one's desk, humorously
+al desko;50;Eating at one's desk, humorously
 Al Dexter;50
 Aldi;40;Grocery store
 Aldine;40;Of the Aldine Press, early Venetian printer
@@ -3599,6 +3599,7 @@ amaxophobic;40
 amazeballs;60
 amazed at;40
 Amazin';40;Amazin' Mets, the 1969 champs
+amazing, isn't it?;50
 Amazing Randi;60
 Amazon;50
 Amazon ant;50
@@ -28773,7 +28774,9 @@ economies of scale;50
 economy of scale;50
 eConsent;40
 eContent;40
-ecotage;40;Eco-sabotage
+ecotage;30;Eco-sabotage
+ecoteur;30;Environmental saboteur
+ecoteurs;30;Environmental saboteurs
 ecotone;30
 ecotones;30
 eco-warrior;50
@@ -36189,6 +36192,7 @@ Funnie;40;Doug Funnie, cartoon title character
 funny car;50
 funny face;60
 funny faces;60
+funny, isn't it?;60
 funny that;60
 funny you should ask;60
 fun police;60
@@ -48617,6 +48621,8 @@ iron hat;40;???
 iron hats;40;???
 Ironheart;40;Marvel's Riri Williams
 ironical;30
+ironic, isn't it?;60
+ironic isn't it;0
 ironing on;40
 ironings;40
 ironist;40
@@ -48862,7 +48868,26 @@ is not;40;Playground retort
 is nothing sacred;60
 isn't;50
 isn't home;20
+isn't it?;50
+isn't it;0
+isn't it a;20
+isn't it a pity?;60
+isn't it a pity;0
+isn't it a shame?;60
+isn't it a shame;0
+isn't it exciting?;60
+isn't it exciting;0
+isn't it ironic?;60
+isn't it ironic;0
+isn't it just?;50
+isn't it nice?;50
+isn't it poor;0
 isn't it rich?;60
+isn't it rich;0
+isn't it sad?;60
+isn't it though?;60
+isn't it though;0
+isn't it time;50
 isn't meant to be;60
 isn't OK;20
 isn't sure;40
@@ -49356,6 +49381,7 @@ it's not without its charm;60
 it's not your problem;60
 it's no use;60
 it's odd;50
+it's odd isn't it?;60
 it's often said;60
 it's OK;50
 it's okay;50
@@ -68254,7 +68280,8 @@ odd;50
 oddball;50
 oddballs;50
 oddish;40;Somewhat odd
-odd isn't it;60
+odd, isn't it?;60
+odd isn't it;0
 Odditorium;50;Ripley's Believe It or Not! museum
 odd job;60
 odd jobs;60
