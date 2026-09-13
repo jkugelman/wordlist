@@ -12163,6 +12163,8 @@ Bohr atom;50
 Bohr model;50
 Bohuslaw;40;Bohuslav Martinu, Czech composer
 boi;30
+boiled peanut;50
+boiled peanuts;50
 boilermaker;60
 boilermakers;60
 Boingo;40;Oingo Boingo, Danny Elfman's band / Wi-Fi provider
@@ -18846,6 +18848,8 @@ circus classes;60
 circus clown;60
 circus clowns;60
 circus cyaneus;20;Species of bird, hen harrier
+circus peanut;60
+circus peanuts;60
 circus shot;50
 circus shots;50
 circusy;30
@@ -38139,6 +38143,7 @@ Giffen;40;Giffen good, economics curiosity
 GIF file;40;Image
 Gifford;40;Kathie Lee Gifford, TV host / Frank Gifford, NFL Hall of Famer
 Giffords;40;Gabby Giffords, congresswoman and gun safety advocate
+gif peanut butter;0
 GIFs;50
 gift exchange;50
 gift exchanges;50
@@ -50464,6 +50469,7 @@ Jidenna;40;Rapper of "Classic Man"
 Jif;50
 Jiffy Lube;50
 Jiffy Pop;50
+Jif peanut butter;50
 jig;50
 Jigglypuff;50;Pokeyman
 jigsaw;50
@@ -64121,7 +64127,8 @@ Mr Noodle;40;"Sesame Street" character
 Mr. Novak;30;1963-65 TV series
 Mr Orange;60;From "Reservoir Dogs"
 Mr. Ouch;60;Mr. Ouch, electrical hazard symbol for kids
-Mr Peanut;50
+Mr. Peanut;60;Mascot for Planters Peanuts
+Mr Peanut;0
 Mr Pink;60;From "Reservoir Dogs"
 Mr. Red;40;Cincinatti Reds mascot
 Mr. Ree;30;Captain Underpants janitor, first name Toilette
@@ -71066,6 +71073,8 @@ pack in;40
 packing in;40
 packing in it;40;British
 packing one's bags;50
+packing peanut;60
+packing peanuts;60
 pack in it;40;British
 pack one's bags;50
 pack rat;50
@@ -71881,6 +71890,8 @@ party men;60
 party official;60
 party officials;60
 party on;60
+party peanut;50
+party peanuts;50
 Party Planner Smurf;60
 party playlist;60
 party playlists;60
@@ -72434,18 +72445,36 @@ peak time;60
 peak times;60
 Peale;40;Norman Vincent Peale, author of "The Power of Positive Thinking"
 Peales;20
+peanut allergies;60
+peanut allergy;60
+peanut brittle;60
+peanut butter;60
 peanutbutterand;0
+peanut butter and jelly;60
+peanut butter and jelly sandwich;60
+peanut butter and jelly sandwiches;60
+peanut butter cookie;60
+peanut butter cookies;60
 peanut butter cup;60
 peanut butter cups;60
+Peanut Butter Jelly Time;60
+peanut butter pie;60
+peanut butter pies;60
+peanut butter toast;50
 peanut farm;50
 peanut farmer;50
 peanut farmers;50
 peanut farming;50
 peanut farms;50
-peanut galleries;50
+peanut galleries;60
+peanut gallery;60
 peanut M and M;40
 peanut M and Ms;40
+peanut M&M;40
+peanut M&Ms;40
 peanut oils;40;Bad plural???
+peanut sauce;60
+peanut sauces;50
 pea patch;50
 pea patches;50
 Pearce;40;Actor Guy Pearce
@@ -74420,6 +74449,7 @@ played chicken;60
 played fair;50
 played for;40
 played for laughs;50
+played for peanuts;60
 played games;60
 played golf;50
 played it smart;60
@@ -74444,6 +74474,7 @@ player trades;60
 play fair;50
 play for;40
 play for laughs;50
+play for peanuts;60
 play games;60
 play golf;50
 playground;50
@@ -74458,6 +74489,7 @@ playing chicken;60
 playing fair;50
 playing for;40
 playing for laughs;50
+playing for peanuts;60
 playing games;60
 playing golf;50
 playing it smart;60
@@ -74494,6 +74526,7 @@ play second fiddle;60
 plays fair;50
 plays for;40
 plays for laughs;50
+plays for peanuts;60
 plays games;60
 plays golf;50
 plays it smart;60
@@ -83539,6 +83572,7 @@ salt-cured meat;50
 salted away;30
 salted butter;50
 salted nuts;50
+salted peanuts;60
 Salten;30;Bambi creator
 salter;40
 saltern;40;Saltworks, building where salt is made by boiling or evaporation
