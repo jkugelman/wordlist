@@ -1743,6 +1743,10 @@ a few words;50
 affair of the heart;60;Phrase, or Rick Springfield song
 Affenpinscher;40;Monkey-faced dog breed
 Affenpinschers;50;Monkey-faced toy dogs
+affiance;40
+affianced;40
+affiances;40
+affiancing;40
 affine;40
 affirmer;30
 affirmers;30
