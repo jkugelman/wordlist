@@ -13969,6 +13969,9 @@ Bubly;40;Sparkling water brand
 Buc;40
 Buca;40;Buca di Beppo, Italian restaurant chain
 bucatini;40;Hollow spaghetti-like pasta
+buccal fat;60
+buccal fat extraction;60
+buccal fat removal;60
 Bucephalus;50;Alexander the Great's horse
 Buchan;40;John Buchan, "The Thirty-Nine Steps" author
 Buchanan;50;James Buchanan, 15th US president
@@ -14180,6 +14183,8 @@ bull;50
 bullace;30;European plum
 bulldog edition;50
 bulldog editions;50
+bullet arts;60;Hong Kong action style aka gun fu
+bullet ballet;60;Hong Kong action style aka gun fu
 Bullet Bill;60
 bullet bra;60
 bullet bras;60
@@ -18003,6 +18008,7 @@ Chewbacca;60
 Chewbacca defense;60
 chewed at;30
 chewed on;40
+chewed the fat;60
 chewed the scenery;60
 chewed up the scenery;60
 chewer;40
@@ -18010,13 +18016,16 @@ chewers;40
 Chewie;50
 chewing at;30
 chewing on;40
+chewing the fat;60
 chewing the scenery;60
 chewing up the scenery;60
 chew on;40
 chews at;30
 chews on;40
+chews the fat;60
 chews the scenery;60
 chews up the scenery;60
+chew the fat;60
 chew the scenery;60
 chew up the scenery;60
 chewy granola bar;20
@@ -41134,6 +41143,7 @@ gunfights;50
 gunfire;50
 gun for;40
 gun for hire;60
+gun fu;60;Gun + kung fu
 gung;40;Gung ho
 Gunga;40;Gunga Din, Kipling poem hero
 gun mount;50
@@ -41261,6 +41271,7 @@ gym mat;50
 gym mats;50
 gym membership;50
 gym memberships;50
+gymnastic gunplay;60;Hong Kong action style aka gun fu
 Gymnopaedia;40;Ancient Spartan festival, and Satie's inspiration
 Gymnopedie;40;Erik Satie's "Gymnopédies"
 Gymnopedies;40;Erik Satie's "Gymnopédies"
