@@ -474,6 +474,8 @@ abandonware;60
 a bargain;30;Cheap
 a barrel of laughs;60
 A Bar Song;50;Chart topping Shaboozey song
+A Bar Song (Tipsy);50;2024 single by Shaboozey
+A Bar Song Tipsy;0
 abase;50
 abased;50
 abasement;40
@@ -2133,6 +2135,7 @@ a guy thing;60
 ah;50
 aha;50
 Ahab;50;"Moby-Dick" captain
+a hard bargain;50
 Aharon;40;Aharon Appelfeld, Israeli novelist
 ahas;40
 Ahasuerus;40;Persian king in the Book of Esther
@@ -2547,6 +2550,7 @@ Alamosa;20;Colorado city
 Alan;50;Common first name
 Alana;40;Cook (USWNT team), Beard (WNBA great), Springsteen (singer), plus the classics: Stewart, Davis, Haim, De La Garza
 Alan-a-Dale;40;Alan-a-Dale, member of Robin Hood's outlaw band
+Alan Bartlett Shepard Jr.;50;First American in space
 Aland;40;Åland Islands, Finnish archipelago
 Alan Dale;40;???
 Alan Dershowitz;50
@@ -2622,6 +2626,8 @@ Albert and David Maysles;40;Documentarian brothers
 Albertans;50;Calgarians and Edmontonians
 Alberta postal code;0
 Alberta postal codes;0
+Albert C. Barnes;40;American art collector and educator (1872–1951)
+Albert C Barnes;0
 Alberti;40;Alberti bass
 Albertina;40;Albertina Sisulu, South African anti-apartheid leader
 Albertine;40;Proust's beloved in "In Search of Lost Time"
@@ -4702,6 +4708,7 @@ anti-anti-;30
 anti-anti-American;50
 anti-anti-Americanism;50
 anti-anti-Americanist;50
+antibark;40
 antibaryon;50
 antibaryons;50
 Antibes;20
@@ -5856,6 +5863,7 @@ Armstrong;50;Neil Armstrong, moonwalker / Louis Armstrong, jazz great
 arms wide open;60
 army ant;50
 army ants;50
+army barracks;50
 army base;50
 army bases;50
 army blanket;50
@@ -6760,6 +6768,8 @@ as you suspect;60
 as you suspected;60
 at;50
 Ata;20
+at a bare minimum;60
+at a bargain;50
 at about;30
 Atacama;40;Chilean desert
 at a cost;40
@@ -7749,6 +7759,9 @@ Babaloo;30;Screenwriter Babaloo Mandel
 Babalú;30;Song, comedian???
 Baba O'Riley;60
 Babar;40;Babar the Elephant
+B. A. Baracus;50;A-Team TV show character
+B A Baracus;0
+Babar the Elephant;60
 babas;40;Rum-soaked cakes
 babas au rhum;40
 Baba Yaga;60
@@ -7830,6 +7843,8 @@ baby names;60
 baby on board;60
 baby pose;60
 baby powder;60
+Baby Ruth bar;50
+Baby Ruth bars;50
 baby seal;60
 baby seals;60
 Babyshambles;40;Pete Doherty's band
@@ -7968,6 +7983,8 @@ back up the truck;50
 Backus;40;Jim Backus, voice of Mr. Magoo / John Backus, FORTRAN creator
 backwards day;60
 Backxwash;40;Zambian-Canadian rapper
+backyard barbecue;50
+backyard barbecues;50
 Backyardigans;50;Nick Jr. cartoon
 backyard pool;60
 backyard pools;60
@@ -8261,6 +8278,8 @@ balaclava;60;Cool word
 balaclavas;60
 Balakirev;40;Mily Balakirev, Russian composer of The Five
 balalaika;50;Triangular Russian guitar
+balance bar;50
+balance bars;50
 balanced budgets;50
 Balanchine;50;George Balanchine, ballet choreographer
 balata;30;???
@@ -8334,6 +8353,8 @@ ball dropping;60
 ball drops;60
 Ballerini;40;Kelsea Ballerini, country singer
 Ballesteros;40;Seve Ballesteros, Spanish golf great
+ballet barre;50
+ballet barres;50
 ballet companies;60
 ballet company;60
 ballet dancer;60
@@ -8620,13 +8641,18 @@ Bara;30;Theda Bara, silent film vamp
 Barabajagal;40;Donovan song
 Barabbas;40;Prisoner freed instead of Jesus
 Barack;50;Barack Obama, 44th president
+Barack Obama;60
 Baracus;50;B. A. Baracus, Mr. T's "A-Team" role
 bar admission;60
 Barajas;40;Madrid's airport
 Barak;40;Israeli PM Ehud Barak 1999-2001
 Baraka;40;Amiri Baraka, poet
+barandgri;0
+bar and grill;60
+bar and grills;60
 Baranski;40;Christine Baranski, "The Good Wife" actress
-bar associations;50
+bar association;60
+bar associations;60
 Baratheon;50;"Game of Thrones" family
 Baratheons;50
 Barbadian;50;Rihanna, e.g.
@@ -8637,7 +8663,10 @@ Barbados dollar;50
 bar band;50
 bar bands;50
 Barbara;50;Common first name
+Barbara Ehrenreich;50;American writer and journalist (1941–2022)
+Barbaras;30;Plural name
 Barbarella;60
+Barbarians at the Gate;60
 Barbarino;40;Vinnie Barbarino of "Welcome Back, Kotter"
 Barbaro;40;Monica Barbaro, actress, or the racehorse
 Barbarossa;50;Frederick Barbarossa, Holy Roman Emperor / the Nazi invasion of the USSR
@@ -8648,6 +8677,8 @@ barbecue apron;60
 barbecue aprons;60
 barbecue beef;60
 barbecue brisket;60
+barbecue brush;50
+barbecue brushes;50
 barbecue burger;60
 barbecue burgers;60
 barbecue chicken;60
@@ -8680,6 +8711,8 @@ barbecue stands;60
 barbecue wing;60
 barbecue wings;60
 barbecuing;60
+barbed wire fence;60
+barbed wire fences;60
 barbel;20;Fish
 barbell curl;60
 barbell curls;60
@@ -8692,19 +8725,29 @@ barben;20
 Barbenheimer;60;2023 double feature of "Barbie" and "Oppenheimer"
 barbeque chicken;50
 Barbera;40;Hanna-Barbera
+Barber of Seville;60
 barber pole;60
 barber poles;60
+barbershop quartet;60
+barbershop quartets;60
 Barber Smurf;60
 Barbery;40;Muriel Barbery, "The Elegance of the Hedgehog" novelist
 Barbi;30;Model Benton married to Hugh Hefner
 Barbie;50;Mattel doll and 2023 blockbuster
 Barbiecore;60
-Barbieland;50;"Barbie" movie setting
+Barbie Dreamhouse;60
+Barbie Dreamhouses;60
+Barbieland;60;"Barbie" movie setting
+Barbie pink;60
 Barbies;50;Mattel dolls
 Barbizon;40;French village and school of landscape painters
 bar-b-q;40
 bar-b-qs;40
 Barbra;50;Barbra Streisand, singer and actress
+Barbra Joan Streisand;50
+Barbra Streisand;60
+bar brawl;50
+bar brawls;50
 Barbuda;50;Caribbean island paired with Antigua
 Barbudan;50;Antigua and Barbuda native
 Barbudans;50;People of Barbuda
@@ -8717,8 +8760,9 @@ Barcaloungers;40;Brand-name recliners
 bar cart;50
 bar carts;50
 Barcelona;50;Catalonia's capital
-Barcelonan;40;Of Barcelona
-Barcelonans;40;People of Barcelona
+Barcelona metro;50
+Barcelonan;50;Of Barcelona
+Barcelonans;50;People of Barcelona
 barchan;20
 barchans;20
 Barchester;40;Setting of Trollope's cathedral novels
@@ -8743,8 +8787,8 @@ bare all;60
 bare-boned;50
 bare-bones;50
 bared it all;60
-bared one's soul;50
-bared one's teeth;50
+bared one's soul;60
+bared one's teeth;60
 bare essence;50
 bare essentials;50
 barefoot;50
@@ -8764,37 +8808,61 @@ bare-knuckle fighting;60
 bare-knuckle fights;60
 bare knuckles;60
 barely an inconvenience;60
+barely breathing;50
 barely get by;50
 barely gets by;50
 barely getting by;50
 barely got by;50
 barely see;40
+barely sufficient;50
 bare minimums;50
+Barenaked Ladies;60
 Barenboim;40;Daniel Barenboim, pianist and conductor
 bare necessities;50
 Barents;40;Arctic sea between Norway and Russia
-bare one's soul;50
-bare one's teeth;50
+bare one's soul;60
+bare one's teeth;60
+bare possibility;50
 barer;30
 bares all;60
 bares it all;60
-bares one's soul;50
-bares one's teeth;50
+bares one's soul;60
+bares one's teeth;60
 barf;40
 barfed;10
-bar fight;50
-bar fights;50
+bar fight;60
+bar fights;60
 barfing;10
 barflies;60
 barfly;60
 barfs;10
 barfy;10
+bargain basement;60
+bargain basements;60
+bargain bin;60
+bargain bins;60
+bargained for;40
+bargain for;40
 bargain hunt;60
 bargain hunted;60
 bargain hunter;60
 bargain hunters;60
 bargain hunting;60
 bargain hunts;60
+bargaining chip;60
+bargaining chips;60
+bargaining for;40
+bargaining power;60
+bargaining session;50
+bargaining sessions;50
+bargaining table;60
+bargaining tables;60
+bargain price;50
+bargain priced;50
+bargain prices;50
+bargain rate;50
+bargain rates;50
+bargains for;40
 Bargatze;60;Nate Bargatze
 barged in on;40
 barged into;40
@@ -8811,8 +8879,8 @@ bar-hop;50
 Bari;40;Italian port city, or a baritone sax for short
 Barilla;50;Pasta brand
 baring it all;60
-baring one's soul;50
-baring one's teeth;50
+baring one's soul;60
+baring one's teeth;60
 barista;50
 barite;30;???
 barites;30;???
@@ -8844,9 +8912,13 @@ barks up the wrong tree;60
 bark up the wrong tree;60
 barley water;50
 Barlow;40;Joel Barlow, poet
+bar magnet;60
+bar magnets;60
 barmaid;50
 barmaids;50
 Bar Mitts;60;Short for handlebar mittens, product for keeping your hands warm as a cyclist
+bar mitzvah;60
+bar mitzvahs;60
 Barnabas;40;Apostle, or the "Dark Shadows" vampire
 Barnaby;40;"Barnaby Rudge," Dickens novel / Barnaby Jones, TV detective
 Barnard;40;Christiaan Barnard, first heart transplanter / NYC women's college
@@ -8946,8 +9018,8 @@ Bartel;40;Paul Bartel, "Eating Raoul" director
 bartender;50
 bartenders;50
 Barth;40;John Barth, postmodern novelist / Karl Barth, Swiss theologian
-bar the door;50
-bar the doors;50
+bar the door;60
+bar the doors;60
 Barthelme;40;Donald Barthelme, short story writer
 Barthes;40;Roland Barthes, literary theorist
 Bartholdi;40;Auguste Bartholdi, Statue of Liberty sculptor
@@ -8966,6 +9038,9 @@ Bartolome;40;Bartolomé de las Casas, defender of the Indies
 Bartolomeo;40;Bartolomeo Vanzetti, of Sacco and Vanzetti
 Bartolomeu;40;Bartolomeu Dias, Cape of Good Hope explorer
 Barton;40;Clara Barton, Red Cross founder / Clint Barton, Hawkeye
+bar trick;60
+bar tricks;60
+bar trivia;60
 Barts;40;St. Barts
 Bart Starr;50
 Barty;40;Ashleigh Barty, No. 1 tennis champ / Billy Barty, actor
@@ -97319,9 +97394,10 @@ the ball's in your court;60
 Theban;40
 Thebans;40;Ancient Greek city dwellers
 the bar;40
-The Barber of Seville;50
+The Barber of Seville;60
 The Bard of Avon;40
 The Barefoot Contessa;60
+the bar is on the floor;60
 The Bat;60;Batman, to goons
 the Batpole;20
 the Battle of Bunker Hill;50
