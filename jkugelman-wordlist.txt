@@ -20516,6 +20516,7 @@ Conagra;40;Packaged foods giant
 Conakry;40;Capital of Guinea
 con amore;40
 Conan;50;Conan O'Brien, talk show host, or the Barbarian
+Conan the Barbarian;60
 con artist;50
 con artists;50
 conation;30;Inclination, volition
@@ -37510,7 +37511,7 @@ gerundial;30
 gerundive;30
 Gerwig;40;Greta Gerwig, "Barbie" director
 Geryon;40;Three-bodied giant of Greek myth
-GEs;20
+GEs;40
 Gesaffelstein;40;French electronic music producer
 Gesamtkunstwerk;50;Total work of art, per Wagner
 Gesamtkunstwerks;40;Total works of art, in Wagner's sense
@@ -44667,6 +44668,8 @@ homies;30
 homing in on;40
 homing shell;60;Mario Kart powerup
 homing shells;60
+hominin;30
+hominins;30
 homme;40;Man: Fr.
 hommes;30
 Homo;40
@@ -62511,6 +62514,8 @@ mini-moons;60
 minims;40;Half notes: Br.
 minimum word count;50
 minimum word counts;50
+minimus;40
+minimuses;40
 mining;50
 minion;50
 Minionese;60;Minion language
@@ -98191,7 +98196,7 @@ there's no way out;60
 there's no way to be sure;60
 there's nowhere to go but up;60
 there's simply no excuse;60
-the rest;30
+the rest;40
 The Restaurant at the End of the Universe;60
 there's that then;60
 the rest is history;60
@@ -99015,12 +99020,16 @@ thuggees;30
 thugmuffinc;0;???
 thugs;40
 Thule;40;Ultima Thule, mythical far north
+thumb a ride;60
+thumbed a ride;60
 thumbed one's nose at;60
 Thumbelina;60
+thumbing a ride;60
 thumbing one's nose at;60
 thumb one's nose at;60
 thumb ring;50
 thumb rings;50
+thumbs a ride;60
 thumbs down emoji;60
 thumbs down emojis;60
 thumbs one's nose at;60
