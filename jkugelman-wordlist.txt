@@ -5814,11 +5814,13 @@ Armey;40;Dick Armey, former House majority leader
 Armie;40;Actor Armie Hammer
 armiger;20;Squire
 armigers;20
-Armin;40;Armin van Buuren, Dutch DJ / Armin Shimerman, actor
+Armin;30;Armin van Buuren, Dutch DJ / Armin Shimerman, actor
 Arminian;40;Anti-Calvinist Protestant
 Arminianism;40;Protestant doctrine rejecting predestination
 Arminians;40;Followers of the theologian Jacobus Arminius
 Arminius;40;Germanic chief who crushed Rome at Teutoburg Forest
+Armin Shimerman;40
+Armin van Buuren;40
 Armisen;50
 Armistead;40;Armistead Maupin, "Tales of the City" author
 Armistead Maupin;40;"Tales of the City" novelist (born 1944)
@@ -29276,7 +29278,7 @@ Eh Eh;0
 Eh, Eh (Nothing Else I Can Say);50;2009 single by Lady Gaga
 Eh Eh Nothing Else I Can Say;0
 eher;20
-ehh;50
+ehh;40
 Ehle;30;Jennifer Ehle, actress
 eHow;30;Learning web site
 Ehrenburg;40;Ilya Ehrenburg, Soviet writer
@@ -30742,7 +30744,7 @@ Erling;40;Erling Haaland, Norwegian footballer (born 2000)
 Erling Haaland;60;Norwegian footballer (born 2000)
 Erl-King;40
 Erlkonig;40;Goethe's "Erlkönig," set to music by Schubert
-erm;50
+erm;40
 Erma;40
 Ermanno;40;Ermanno Wolf-Ferrari, Italian composer
 Ermey;40;R. Lee Ermey, "Full Metal Jacket" drill sergeant
@@ -102784,7 +102786,7 @@ ugsomeness;20
 uh;50
 UHD;30;Ultra-high-definition
 UHF;40
-uhh;50
+uhh;40
 uh, I dunno;50
 uhnak;0
 uh-oh is right;60
@@ -102923,7 +102925,7 @@ umiak;40;Inuit boat
 umiaks;40
 UMiami;40;University of Miami
 UMich;40;University of Michigan, informally
-umm;50
+umm;40
 Ummagumma;40;Pink Floyd album
 UMN;30;University of Minnesota
 um no;50
@@ -103343,10 +103345,10 @@ unsportsmanlike conduct;60;Football penalty
 unsportsmanlike conduct penalties;60
 unsportsmanlike conduct penalty;60
 unstagy;30
-unstan;50;Stop being an obsessive fan
-unstanned;50;Stopped being an obsessive fan
-unstanning;50;Stopping being an obsessive fan
-unstans;50;Stops being an obsessive fan
+unstan;40;Stop being an obsessive fan
+unstanned;40;Stopped being an obsessive fan
+unstanning;40;Stopping being an obsessive fan
+unstans;40;Stops being an obsessive fan
 unstoned;30
 unstow;40
 unstowed;40
