@@ -64209,6 +64209,8 @@ MRI study;50
 Mr Know-It-All;60
 Mr Lee;30;From Bobbettes song "I Shot Mr. Lee"
 Mr Mayor;60
+Mr. Men;40;Children's book series since 1971
+Mr Men;0
 Mr Mime;50;Pokeyman
 Mr. Moneybags;60;Nickname for a rich person
 Mr Moto;50
@@ -69297,6 +69299,7 @@ oncee;20
 Once-ler;50
 Once Upon a Time in Hollywood;60
 Once Upon a Time in the West;60
+once you get;20
 once you pop, you can't stop;60
 oncle;30;French for uncle
 on clearance;50
@@ -78502,12 +78505,14 @@ Rango;40;Johnny Depp chameleon
 rang true;60
 rangy;30
 ran home;50
+rani;40;Hindu princess
 ran in;40
 ranine;20;Frog-related, or region under the tongue
 ran interference;60
 ran interference for;50
 ran in the family;60
 ran into;40
+ranis;40;Hindu princesses
 ran it;40;Did a runthrough, in theater
 ran it by;40
 Ranjit;40;Ranjit Singh, Sikh Empire maharaja
@@ -89114,6 +89119,9 @@ slipcovered;50
 slipcovers;50
 slip in;40
 slip into;40
+Slipknot;60
+slip knot;50
+slip knots;50
 slip on;40
 slip one's mind;60
 slipped in;40
@@ -89894,6 +89902,7 @@ sob stories;60
 sob story;60
 Sobule;40;Jill Sobule, "I Kissed a Girl" singer
 soc;20
+soca;30;Caribbean music genre
 socage;20
 SoCal;50;Southern California, informally
 so can I;50
@@ -99996,6 +100005,8 @@ Tokay gecko;50
 Tokays;30;Hungarian wines
 Tokelau;40;New Zealand territory in the Pacific
 tokened;30
+token limit;60;AI token limit
+token limits;60;AI token limits
 to kill a;20
 Tokio;30;Tokio Hotel, German band, or a variant spelling of Tokyo
 Toklas;40;Alice B. Toklas
@@ -103552,6 +103563,8 @@ Uriahs;20;Plural name
 Urich;40;Robert Urich of "Vega$" and "Spenser: For Hire"
 Urie;40;Brendan Urie of My Chemical Romance, or Michael Urie of "Ugly Betty"
 Uriel;30;Archangel
+urinal;10
+urinals;10
 urines;10
 Urinetown;50;Tony-winning musical
 Uris;30;Author Leon
@@ -108780,6 +108793,7 @@ Wurlitzers;40;Jukeboxes and electric pianos
 Wurtz;40;Bill Wurtz, YouTube musician / the Wurtz reaction in chemistry
 Wurzburg;40;German city, properly Würzburg
 WUSTL;30;Washington University in St. Louis
+wut;30
 Wu-Tang;60
 Wu-Tang Clan;60
 Wuthering;60
