@@ -6250,6 +6250,7 @@ aseethe;30
 aseptate;40;Without a separating membrane, in biology
 Asereje;40;"The Ketchup Song (Aserejé)"
 a set;20
+as fate would have it;60
 as flat;20
 as for;40
 Asgard;50;Home of the Norse gods
@@ -6464,6 +6465,7 @@ asleep at the switch;60
 asleep at the wheel;60
 Asleep in the Deep;60
 asleep on the job;60
+as luck would have it;60
 a small price to pay;60
 Asmara;40;Capital of Eritrea
 Asmaran;30;From Asmara, Eritrea's capital
@@ -14740,6 +14742,7 @@ butt texted;60
 butt texting;60
 butt texts;60
 butt-ugly;60
+but what would I know?;60
 butyrate;40;Fatty acid
 Butz;40;Norbert Leo Butz, Broadway actor / Earl Butz, Nixon agriculture secretary
 Buuren;40;Armin van Buuren, trance DJ
@@ -20965,7 +20968,9 @@ cooling rack;50
 cooling racks;50
 cooling to;40
 cool it;60
-cool it would you;60
+cool it, would ya?;60
+cool it, would you?;60
+cool it would you;0
 cool kids;60
 cool mil;60
 cool million;60
@@ -21441,6 +21446,7 @@ couching one's words;60
 couch one's words;60
 Coughlan;40;Nicola Coughlan, "Bridgerton" and "Derry Girls" actress
 coulda fooled me;60
+coulda woulda shoulda;60
 could be fun;60
 could have fooled me;60
 could he be the one?;60
@@ -25093,6 +25099,7 @@ dialing down;50
 dialing in;40
 dial it back a bit;60
 dial it back a bit, would you?;60
+dial it back a bit would you;0
 dial it down;60
 dialled;30;British spelling
 dialling;30
@@ -27089,6 +27096,7 @@ Doug Liman;40;"The Bourne Identity" director
 Doukhobor;40;Russian pacifist sect in Canada
 Doukhobors;40;Russian pacifist sect that settled in Canada
 do unto;50
+do unto others as you would have done to you;60
 do up;50
 dourer;50
 dourest;50
@@ -45525,6 +45533,10 @@ how was I to know;0
 how was that a foul?;50
 how was that a foul;0
 how weird;60
+how would I know?;60
+how would I know;0
+how would you feel?;60
+how would you feel;0
 howzit;40
 hoy;40
 Hoya;40;Georgetown athlete, or a wax plant
@@ -46452,7 +46464,7 @@ ID number;50
 ID numbers;50
 I do;50
 I do believe;60
-I do, do I?;50
+I do, do I?;40
 I do do I;0
 I do do that;60
 I do, I do;50
@@ -46592,6 +46604,8 @@ I forget;60
 I for one;50
 I found it;60
 I found myself;60
+if pigs had wings, they would fly;60
+if pigs had wings they would fly;0
 ifrun;20
 ifs;50
 if statement;60
@@ -46603,6 +46617,8 @@ if that's alright with you;60
 if that's OK with you;60
 ifthis;0
 if truth be told;60
+if wishes were horses, beggars would ride;60
+if wishes were horses beggars would ride;0
 if worst comes to worst;60
 -ify;20
 if you can't stand the heat;60
@@ -49579,6 +49595,7 @@ It Welcome to Derry;60;"IT: Welcome to Derry"
 it will cost you nothing;60
 it won't cost you a dime;60
 it won't cost you anything;60
+it would be a shame;60
 -ity;30;Suffix [rare]
 Itza;40
 Itzhak;40;Itzhak Perlman, violinist
@@ -49737,7 +49754,18 @@ iwoodpinefiryew;0
 I would eat you alive;60
 I would never;60
 I wouldn't bother;60;"It's not worth the trouble"
+I wouldn't count on it;60
+I wouldn't do that if I were you;60
 I wouldn't dream of it;60
+I wouldn't have it any other way;60
+I wouldn't have missed it for the world;60
+I wouldn't if I were you;60
+I wouldn't object;60
+I wouldn't put it past her;60
+I wouldn't put it past him;60
+I wouldn't put it past them;60
+I wouldn't say that;60
+I wouldn't say that exactly;60
 I wouldn't worry about it;60
 IWW;20;Industrial Workers of the World
 IX;40
@@ -62721,6 +62749,7 @@ MiO;40
 Miocene;40
 miosis;30;Excessive eye contraction
 miotic;30
+MIPS;20
 Miquelon;40;Saint Pierre and Miquelon island
 Mir;40
 Mira;40
