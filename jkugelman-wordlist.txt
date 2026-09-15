@@ -106988,6 +106988,7 @@ what is your problem;0
 what it is is;20
 what it's all about;50
 what just happened;60
+What Kind of Man Would I Be?;50;1989 single by Chicago
 what'll be your pleasure?;60
 What, me worry?;60;Mad magazine motto
 what me worry;0
@@ -107618,6 +107619,15 @@ why so?;50
 why's that;60
 Whyte;40;William H. Whyte, "The Organization Man" author
 whytheffaaccee;0
+why would I?;50
+why would I;0
+why would I care?;50
+why would I do that?;60
+why would I do that;0
+why would I lie?;60
+why would I lie;0
+why would I lie to you?;60
+why would I lie to you;0
 why you little;60
 Wiazemsky;40;Anne Wiazemsky, French actress and novelist
 Wicca;50;Modern pagan religion
@@ -108675,6 +108685,11 @@ wot;20
 Wotan;40;Wagner's Odin
 Wouk;40;Herman Wouk, "The Caine Mutiny" author
 would as soon;50
+would I ever;60
+would I lie?;60
+would I lie;0
+would I lie to you?;60
+would I lie to you;0
 would it kill her?;60
 would it kill him?;60
 would it kill them?;60
@@ -110223,6 +110238,7 @@ YWCA;40;Young Women's Christian Association
 YWCAs;40;Women's associations
 YWHA;30;Young Women's Hebrew Association
 YWHAs;30;Young Women's Hebrew Associations
+y would i b angry;20
 YY MM DD;40
 yyuryyub;0
 yyyy;30
