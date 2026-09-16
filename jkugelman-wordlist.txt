@@ -59640,6 +59640,8 @@ mañanas;30
 mañana señor;30
 man and wife;50
 Mananitas;40;"Las Mañanitas," Mexican birthday song
+mana pool;60
+mana pools;60
 Manassa;20
 Manassas;50;Virginia city, site of the Bull Run battles
 manatee calf;50
