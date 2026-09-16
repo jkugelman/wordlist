@@ -4553,6 +4553,7 @@ annelid;20;Worm phylum
 annelids;20;Worm phylum
 Anneliese;40;Anneliese van der Pol, "That's So Raven" actor
 Anne Rice;60;Author of "Interview with the Vampire" et al.
+Anne's;40;Auntie Anne's pretzels
 Annette;50;Common first name: Annette Bening, Annette Funicello
 Anne Tyler;50
 anni;30
@@ -11370,6 +11371,7 @@ Biz Stone;50;Co-founder of Twitter Biz Stone
 BJ;40
 Bjarke;40;Bjarke Ingels, Danish architect
 Bjarne;40;Bjarne Stroustrup, creator of C++
+BJJ;40;Brazilian jiu-jitsu
 Bjork;50;Björk, Icelandic singer
 Bjorn;50;Björn Borg, tennis great / Björn Ulvaeus of ABBA
 BJs;40;BJ's Wholesale Club
@@ -33734,6 +33736,7 @@ final cut right;60
 final decision;60
 final edit;60
 Final Fantasy;60
+finalise;30
 finally somebody said it;60
 final offer;50
 final offers;50
@@ -49334,7 +49337,7 @@ it'll turn up;60
 it'll work out in the end;60
 it makes no sense;60
 it makes you think;60
-it me;60;Slang
+it me;50;Slang
 it means a lot;60
 it means a lot to me;60
 itn;20
@@ -62615,6 +62618,7 @@ Mini-Me;50;Austin Powers character
 mini-me;40
 mini-mes;40
 minimi;30;Little fingers or toes
+minimise;30
 mini-moon;60
 mini-moons;60
 minims;40;Half notes: Br.
@@ -63396,6 +63400,7 @@ Monaco;50;Riviera principality
 Monae;40;Janelle Monae
 Monaghan;40;Irish county / Michelle Monaghan, actress
 Monahan;40;Pat Monahan, Train frontman
+Mona Lisa;60
 monarda;30;Plant genus
 mon cher;50;Mon cheri, shortened
 mon cheri;50;My dear, for a man
@@ -63423,6 +63428,7 @@ Monegasque;50;From Monaco
 Monegasques;50;People of Monaco
 Monet;50;Claude Monet, Impressionist painter
 Moneta;30;Juno Moneta, epithet of Juno, Roman goddess, origin of "money"
+monetise;30
 Monets;40;Impressionist paintings
 money;50
 money-back;60
@@ -66542,6 +66548,7 @@ nine-letter word;50
 nine-letter words;50
 Nine Mile;30;Nine Mile Canyon in Utah
 nine-month;40
+Nine-Nine;40
 nine of;20
 ninepence;30
 nine PM;50
@@ -70056,6 +70063,7 @@ Oppenheimer;50;J. Robert Oppenheimer, father of the atomic bomb
 oppo;40
 opposed to;40
 opposin';20
+opps;30
 oppugn;40;Call into question
 oppugned;40
 oppugning;40
@@ -105593,6 +105601,7 @@ Wang;40;Designer Vera Wang
 Wangari;40;Wangari Maathai, Nobel Peace laureate
 Wang Dang Doodle;60;Classic blues song
 Wangechi;40;Wangechi Mutu, Kenyan American artist
+Wangechi Mutu;40;Kenyan sculptor
 wangle;30
 wangled;30
 wangler;30
@@ -109028,6 +109037,7 @@ Xiaolu;40;Xiaolu Guo, Chinese-British novelist
 Xiaoping;50;Deng Xiaoping, Chinese leader
 Xicanisma;40;Chicana feminist philosophy
 Xicanx;40;Gender-neutral term for Chicano
+xie;20
 xie xie;40;Mandarin "thank you"
 XII;40
 XIII;30
@@ -110157,7 +110167,7 @@ Yucatec;40;Mayan language of the Yucatán
 yucca;40;Shrub (not yuca, the food)
 yu choy;30;Chinese leafy green
 Yudhishthira;40;Eldest Pandava of the Mahabharata
-Yue;40;Chinese language group that includes Cantonese
+Yue;20;Chinese language group that includes Cantonese
 Yuen;40;Yuen Woo-ping, Hong Kong martial arts choreographer
 Yuengling;50;America's oldest brewery
 Yuen Woo-ping;50;Hong Kong martial arts choreographer
