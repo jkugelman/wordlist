@@ -38854,7 +38854,8 @@ GMATs;40
 GMC;40
 GMC Envoy;50
 GMCs;40
-GMC truck;50
+GMC truck;40
+GMC trucks;40
 G-men;30
 gmina;20;Administrative division in Poland
 G minor;50
@@ -40231,6 +40232,7 @@ Grafton;40;Sue Grafton, alphabet mystery novelist
 Graham;50;Billy Graham, evangelist, or a cracker
 Grahame;40;Kenneth Grahame, author of "The Wind in the Willows", or Gloria Grahame of "It's a Wonderful Life"
 Graham flour;50
+Graham McTavish;40;Scottish actor (born 1961)
 Grahams;40;Crackers, or Teddy and Golden snacks
 Graham Yost;40;"Justified" and "Silo" creator
 Grainger;40;Percy Grainger, "Country Gardens" composer
@@ -50218,6 +50220,7 @@ Janes;40;Jane's Addiction
 Jane's Addiction;60
 Janesville;40;Wisconsin city
 Janet;50;Common first name
+Janet McTeer;40
 Janets;30;Plural name
 Janeway;40;Kathryn Janeway, "Star Trek: Voyager" captain
 Janey;40;Diminutive of Jane
@@ -50774,6 +50777,8 @@ JK LOL;30
 J.K. Rowling;10
 JLeague;40;Japan's pro soccer league
 JLo;40
+J. M. E. McTaggart;40;English philosopher (1866–1925)
+J M E McTaggart;0
 J. M. Synge;40;Irish writer and collector of folklore (1871–1909)
 J M Synge;0
 JNCO;40;Jeans brand
@@ -56078,7 +56083,7 @@ LGBTQ;60
 LGBTQ flag;60
 LGBTQ flags;60
 LGBTQIA;60
-LGBTQIAactivists;40;Advocates for queer rights
+LGBTQIA+;60
 LGBTQIA plus;60
 LGBTQ rights;60
 LGBT rights;60
@@ -61236,11 +61241,14 @@ McSteamy;50;"Grey's Anatomy" nickname for Mark Sloan
 McStuffins;50;Doc McStuffins, cartoon toy doctor
 McSweeney;40;Timothy McSweeney, namesake of the literary quarterly
 McSweeney's;50;Dave Eggers's publishing house
+MCT;20
 McTaggart;40;J. M. E. McTaggart, philosopher of time's unreality
+McTavish;40;Graham McTavish, Scottish actor (born 1961)
 McTeague;40;Frank Norris novel
 McTeer;30;Actress Janet
 McTell;40;Blind Willie McTell, blues guitarist
 McTiernan;40;John McTiernan, "Die Hard" director
+MCT oil;30
 McTwist;40;Skateboarding aerial trick
 McTwists;40;Snowboarding aerial spins
 MCU;40
@@ -77718,6 +77726,7 @@ Qdobas;40;Mexican fast-casual chains
 QED;50
 Qfwfq;20;Italo Calvino's "Cosmicomics" narrator
 qi;40
+QI;40;British comedy panel game television quiz show
 Qianlong;40;Qing dynasty emperor
 qibla;40;Direction of Muslim prayer
 qid;20
@@ -77731,6 +77740,7 @@ qir;20
 qis;20
 Qiu;40;Qiu Jin, Chinese revolutionary poet
 Qix;20
+QI XL;40;British comedy panel game television quiz show, extended length edition
 Qiyu;30;Qiyu Zhou, Canadian chess player and streamer
 Qom;20
 Qom Iran;40;Iranian city/province
