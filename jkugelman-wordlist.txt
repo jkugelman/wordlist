@@ -5998,11 +5998,15 @@ Arrietty;40;Studio Ghibli borrower
 arrive at;40
 arrived at;40
 arrived on the dot;20
+arrived on the scene;60
+arrive on the scene;60
 arriver;30
 arrivers;30
 arrives at;40
 arrives on the dot;20
+arrives on the scene;60
 arriving at;40
+arriving on the scene;60
 arrogate;40
 arrogated;40
 arrogates;40
@@ -26806,6 +26810,7 @@ don't give up;60
 don't hate;50
 don't have a prayer;50
 don't have time;50
+don't hesitate to ask;60
 don't, I beg of you;50
 don't interrupt;60
 don't just sit there;60
@@ -95881,10 +95886,12 @@ tapir calves;50
 tap light;40;Portable stick-on light
 tap lights;40
 tap on;40
+tap on the shoulder;60
 Tappan;30;Appliance brand???
 tapped in;40
 tapped into;50
 tapped on;40
+tapped on the shoulder;50
 tapped telephone;30
 Tapper;40;Jake Tapper, CNN anchor
 tappers;40;Finger/toe/pencil tappers
@@ -95893,9 +95900,11 @@ tappets;20
 tapping in;40
 tapping into;50
 tapping on;40
+tapping on the shoulder;50
 taps in;40
 taps into;50
 taps on;40
+taps on the shoulder;50
 tapster;30;Bartender
 tapsters;30
 tar;50
