@@ -29033,17 +29033,25 @@ Edisonade;40;Inventor-hero adventure genre
 Edisonades;40;Boy-inventor dime novels
 Edisonian;40;Trial-and-error, like the inventor
 Edison, NJ;40
+edit bay;60
+edit bays;60
 edit down;50
 edited down;50
 edited in;40
 Edith;50;Edith Piaf, singer / common first name
 edit in;40
+editing bay;60
+editing bays;60
 editing down;50
 editing in;40
+editing suite;60
+editing suites;60
 editorial content;50
 Editor Smurf;60
 edits down;50
 edits in;40
+edit suite;60
+edit suites;60
 EDM;40;Electronic dance music
 EDM DJ;40
 EDM DJs;40
