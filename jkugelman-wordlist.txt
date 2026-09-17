@@ -21834,6 +21834,8 @@ crackpots;60
 crackpottery;60
 cracks;50
 cracks and peels;50
+crack shot;60
+crack shots;60
 cracks on;40
 cracks the case;60
 cracks wide open;60
@@ -21872,6 +21874,8 @@ craned one's neck;50
 crane one's neck;50
 craner;30
 craners;30
+crane shot;60
+crane shots;60
 cranes one's neck;50
 Cranford;40;Elizabeth Gaskell novel
 craniate;30;Member of the Craniata, animals with skulls
@@ -32501,6 +32505,7 @@ fait;40;Fait accompli
 Faithfull;40;Marianne Faithfull, singer
 faith healer;60
 faith healers;60
+Faith No More;60
 Faiyum;40;Egyptian oasis region known for mummy portraits
 fake book;60
 faked one's own death;50
@@ -35787,6 +35792,8 @@ freewheelers;60
 Freewheelin' Bob Dylan;60;1963 studio album by Bob Dylan, with "The"
 freewheeling;60
 freez;30;Tastee-Freez restaurant, practically defunct
+freeze frame shot;60
+freeze frame shots;60
 freeze ray;60
 freeze rays;60
 freezes up;50
@@ -36301,6 +36308,8 @@ full body wax;60
 full body waxes;60
 full circle moment;60
 full circle moments;60
+full-court shot;60
+full-court shots;60
 full details;50
 full diva;60
 full dress uniform;60
@@ -37792,6 +37801,7 @@ get loose;50
 get lost;50
 get made;60
 get me out of here;60
+get more than one bargained for;60
 get mossed;60;Get dominated by a wide receiver's showy catch, a la Randy Moss
 get naked;50
 get near;40
@@ -37916,6 +37926,7 @@ gets lost;50
 gets made;60
 get smart;50
 Get Smart, Again!;40;1989 television film
+gets more than one bargained for;60
 gets mossed;60;Gets dominated by a wide receiver's showy catch, a la Randy Moss
 gets naked;50
 gets near;40
@@ -38070,6 +38081,7 @@ getting into it;50
 getting into the swing of things;60
 getting in trouble;50
 getting made;60
+getting more than one bargained for;60
 getting mossed;60;Getting dominated by a wide receiver's showy catch, a la Randy Moss
 getting naked;50
 getting near;40
@@ -39978,6 +39990,7 @@ got lost;50
 got mad;40
 got made;60
 Got Milk;60
+got more than one bargained for;60
 got Mossed;60;Got dominated by a wide receiver's showy catch, a la Randy Moss
 got naked;50
 got near;40
@@ -63874,17 +63887,25 @@ Moreland;40;Bunk Moreland, "The Wire" detective
 Morello;40
 Morellos;40
 Morelos;40;State of Mexico
+more money than God;60
 more, more;20
 Morena;40;Morena Baccarin, "Firefly" and "Deadpool" actress
 Moreno;40;Actress Rita Moreno
+more often than not;60
 more of this, please;60
 more or less;50
 more pay;30
 Moresby;40;Port ___, Papua New Guinea capital
+More Than a Feeling;60
 more than a little;60
+more than a match for;60
+more than a pretty face;60
 more than ever;50
+more than just a pretty face;60
 more than likely;60
+more than meets the eye;60
 Moreton;40
+more trouble than it's worth;60
 Moretti;40;Nanni Moretti, Italian director / Italian beer brand
 Moretz;40;Chloë Grace Moretz, actress
 Morey;20;Comic Amsterdam
