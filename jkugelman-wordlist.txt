@@ -2649,6 +2649,8 @@ Albrecht;40;???
 Albright;50;Madeleine Albright, first female secretary of state
 albs;20;Priestly robes
 album art;60
+album drop;60
+album drops;60
 album release parties;60
 album release party;60
 album sleeve;60
@@ -8158,6 +8160,8 @@ bagel shop;50
 bagel shops;50
 baggage carousel;50
 baggage carousels;50
+baggage check;50
+baggage checks;50
 baggedit;50
 bagged it;40
 baggingit;50
@@ -8585,6 +8589,8 @@ banhammers;50
 Banhart;40;Devendra Banhart, freak-folk musician
 banh mi;50
 Banjul;40;Capital of Gambia
+bank check;50
+bank checks;50
 banked in;40
 banker;50
 bankers;50
@@ -11534,6 +11540,8 @@ Blandings;40;Wodehouse castle, or the turtle
 blank ammunition;50
 blank CD;60
 blank CDs;60
+blank check;60
+blank checks;60
 blanked on;40
 blanket fort;60
 blanket forts;60
@@ -11903,6 +11911,9 @@ blueberries;50
 blueberry;50
 blue blazes;50
 bluecap;20
+blue check;50
+blue checkmark;60
+blue checkmarks;60
 blue curacao;50
 bluefin tuna;60
 blue goose;50
@@ -12154,6 +12165,10 @@ body blow;60
 body blows;60
 body cam;50
 body cams;50
+body check;60
+bodycheck;60
+body checks;60
+bodychecks;60
 bodyguard;50
 body hacker;60
 body hackers;60
@@ -12897,8 +12912,12 @@ Boullosa;40;Carmen Boullosa, Mexican novelist
 Boulogne;40;French port, or the Paris bois
 Boulting;40;Boulting brothers, British filmmakers
 Boulton;40;Matthew Boulton, James Watt's business partner
+bounce a check;50
+bounced a check;50
 bounce house;60
 bounce houses;60
+bounces a check;50
+bouncing a check;50
 bouncing ball;50
 bouncing balls;50
 bouncy castle;60
@@ -14797,6 +14816,7 @@ by a mile;50
 by and by;50
 Byatt;40;A. S. Byatt, author of "Possession"
 Byblos;40;Ancient Phoenician city
+by check;50
 by default;50
 bye;50
 Byelorussia;50;Old name for Belarus
@@ -15525,6 +15545,9 @@ can-can dances;50
 can-can dancing;50
 can-can girls;50
 cancel at any time;60
+canceled check;50
+canceled checks;50
+cancelled check;50
 Cancer;50
 Cancers;40;Zodiac crabs
 CanCon;40;Canadian content quota
@@ -16476,6 +16499,7 @@ cases the joint;60
 case the joint;60
 Casey;50;Common name, as in Casey at the Bat
 cashback;50
+cash, check, or credit?;50
 cash crop;50
 cash crops;50
 cash desk;40;Checkout counter: Br.
@@ -16493,6 +16517,7 @@ cashing in one's chips;50
 cash in on;40
 cash in one's chips;50
 cashless society;60
+cash only no checks;50
 cash poor;60
 cash value;50
 Casimir;40;Casimir Pulaski, Revolutionary War general / the Casimir effect
@@ -17823,6 +17848,9 @@ Chechen;40;Caucasus people and language
 Chechens;40;People of Chechnya
 Chechnya;50;Russian republic
 checkboard square;50
+checkbook environmentalism;60
+checkbook environmentalist;60
+checkbook environmentalists;60
 checked for;40
 checked in on;50
 checked into;40
@@ -17850,13 +17878,20 @@ check in on;50
 check into;40
 check it out;60
 checkmate;60
+checkmate atheists;60
+checkmated;60
+checkmate in one;60
+checkmates;60
+checkmating;60
 check me out;50
 check on;40
 check one's privilege;60
 check one's work;50
 checkout counter;50
+Checkpoint Charlie;60
 checks for;40
 checks in on;50
+check's in the mail;60
 checks into;40
 checks it out;50
 checks on;40
@@ -17864,8 +17899,12 @@ checks one's privilege;60
 checks one's work;50
 check stub;50
 check stubs;50
+checksummed;50
+checksumming;50
 checks with;40
+check the oil;50
 check with;40
+check writing;50
 check your ego at the door;60
 check your privilege;60
 Chee;40;Alexander Chee, novelist / Karen Chee, comedy writer
@@ -18323,6 +18362,7 @@ chine;20
 chines;20
 Chinese;50;Of China
 Chinese American;50
+Chinese checkers;60
 Chinese food box;60
 Chinese food boxes;60
 Chinese lantern;50
@@ -18712,6 +18752,7 @@ chthonian;40
 Chu;40
 Chua;40;Amy Chua, "Tiger Mother" author
 chubby bunny;60;Party game that involves seeing who can stuff the most marshmallows in their mouth
+Chubby Checker;60
 chucked in the discard pile;50
 chucked overboard;50
 chucking in the discard pile;50
@@ -22833,6 +22874,7 @@ custom font;50
 custom fonts;50
 cut;50
 cut above;50
+cut a check to;40
 cut a deal;60
 cut against the grain;60
 cut a rug;60
@@ -22867,6 +22909,7 @@ cut open;50
 cutpurse;60
 cutpurses;60
 cut-rate;60
+cuts a check to;40
 cuts a deal;60
 cuts a rug;60
 cuts a wide swath;60
@@ -22893,6 +22936,7 @@ cut the chitchat;60
 cutthroat compound;60;Verb-object instead of the normal object-verb, like scarecrow and pickpocket
 cutthroat compounds;60
 cutthroat tactic;60
+cutting a check to;40
 cutting a deal;60
 cutting a rug;60
 cutting a wide swath;60
@@ -22979,6 +23023,7 @@ cycad;30;Endangered plant
 cycads;30;Endangered plants
 Cyclades;50;Aegean island group
 cyclecyclecycle;0
+cyclic redundancy check;50
 Cyclo;40;Vietnamese pedicab
 Cyclopes;50;One-eyed giants of Greek myth
 Cyclops;50;One-eyed giant of myth / X-Men leader
@@ -32286,6 +32331,12 @@ facing the wrong way;50
 facing up;40
 facing up to;40
 Fackham;30;"Fackham Hall", 2023 British parody film
+fact-check;60
+fact-checked;60
+fact-checker;60
+fact-checkers;60
+fact-checking;60
+fact-checks;60
 fact is;60
 facto;40
 factory reset;60
@@ -32829,6 +32880,8 @@ Fatboy;40;Fatboy Slim, big-beat DJ
 fat camp;40
 fat cat;60
 fat cats;60
+fat check;60
+fat checks;60
 fat content;50
 fateful day;60
 Fatehi;40;Nora Fatehi, Bollywood dancer and actor
@@ -40142,6 +40195,7 @@ Grameen;40;Grameen Bank, microfinance pioneer
 Gramercy;40;Gramercy Park, Manhattan neighborhood
 Gramm;40;Phil Gramm, Texas senator / Lou Gramm, Foreigner singer
 gramma;20
+grammar check;50
 Grammarly;50;Writing-assistant app
 Grammer;40;Kelsey Grammer, Frasier Crane actor
 Grammy;50
@@ -57508,6 +57562,8 @@ Lord Vader;30
 Lord Voldemort;10;Harry Potter
 lordy;50
 L'Oreal;50;Cosmetics giant
+lore drop;60
+lore drops;60
 Loreen;30;Anyone notable???
 Loreena;40;Loreena McKennitt, Celtic-styled singer
 Lorelai;40
@@ -74950,6 +75006,7 @@ Pnina;30;Pnina Tornai, bridal gown designer
 Pnina Tornai;40;Israeli wedding dress designer and reality television personality
 Pnom;20
 Pnom Penh;20
+P=NP;40
 PNW;30;Pacific Northwest
 Po;40;Italian river
 Poa;30;Bluegrass genus
@@ -75474,6 +75531,7 @@ Popeye;50;Spinach-eating sailor
 Popeyes;50;Fried chicken chain
 pop filter;60;Mesh placed in front of a microphone to reduce explosive consonant sounds
 pop filters;60
+Pop Goes the Weasel;60
 pop gun;50
 pop guns;50
 pop hit;50
@@ -100145,9 +100203,10 @@ Tomie dePaola;40;Children's book illustrator and writer
 Tomine;40;Adrian Tomine, cartoonist
 Tom Izzo;40;Tom Izzo, Michigan State basketball coach in the Hall of Fame
 Tom Kenny;60;Voice of SpongeBob
+tom kha gai;40
 Tomlin;40;Lily Tomlin
 Tomlinson;40;Louis Tomlinson, One Direction singer / Taylor Tomlinson, comedian
-Tom Marvolo Riddle;60
+Tom Marvolo Riddle;10;Harry Potter
 Tommie;40;Tommie Smith, sprinter of the 1968 raised-fist salute
 Tommie Agee;50;Baseball player, one of the "Miracle Mets"
 Tommy;50;The Who rock opera, or a common nickname
@@ -100160,8 +100219,9 @@ tomoooooooo;0
 Tomorrowland;50;Disney park section
 Tomoyuki Yamashita;40;Japanese WWII officer and war criminal (1885–1946)
 Tompkins;40;Daniel Tompkins, Monroe's vice president / Paul F. Tompkins, comedian
-Tom Riddle;60
+Tom Riddle;10;Harry Potter
 Tom Ripley;60
+Tom Sawyer;60
 Tomsk;40;Siberian city
 Tom Sneva;40;Tom Sneva, 1983 Indy 500 winner
 Tom Snyder;50;"The Late Late Show" host in the 1990s
@@ -105369,9 +105429,11 @@ waited a bit;50
 waited around for;40
 waited for;40
 waited for the other shoe to drop;60
+waited in the wings;60
 waited on;40
 waited one's turn;50
 waited up for;40
+waited upon;40
 waiters;50
 wait for;40
 wait for the other shoe to drop;60
@@ -105380,10 +105442,13 @@ waiting a bit;50
 waiting around for;40
 waiting for;40
 waiting for the other shoe to drop;60
+waiting in the wings;60
 waiting on;40
 Waiting on a War;50;2021 single by Foo Fighters
 waiting one's turn;50
 waiting up for;40
+waiting upon;40
+wait in the wings;60
 Waititi;50;Taika Waititi, "Jojo Rabbit" director
 wait just a minute;60
 wait just a moment;60
@@ -105403,12 +105468,15 @@ waits a bit;50
 waits around for;40
 waits for;40
 waits for the other shoe to drop;60
+waits in the wings;60
 waits on;40
 waits one's turn;50
 waits up for;40
+waits upon;40
 Wait Till Next Year;50
 wait up for;40
 wait up for me;60
+wait upon;40
 wait your turn;60
 waiver wire;50
 Wajda;40;Andrzej Wajda, Polish film director
@@ -106942,6 +107010,8 @@ what do you want me to say;0
 what else is left?;60
 what exactly is the point?;60
 what for;50
+what goes around comes around;60
+what goes up must come down;60
 what happens in Vegas stays in Vegas;60
 what happens next;60
 what have I become;60
