@@ -6087,7 +6087,7 @@ Arthur Dent;60;Protagonist of "The Hitchhiker's Guide to the Galaxy"
 Arthurian;50;Of King Arthur's legend
 Arthur's;40;King Arthur's court
 Arthurs;30;Plural name
-Arthur Sze;50;United States poet laureate (2025-27)
+Arthur Sze;40;United States poet laureate (2025-27)
 artichokey;50;"Okey dokey, artichokey"
 artichokie;50;"Okie dokie, artichokie"
 articled;40
@@ -13146,6 +13146,7 @@ brain age;60
 Brainard;40;Joe Brainard, "I Remember" writer and collagist
 brain cell;50
 brain cells;50
+brain drain;60
 Braine;40;John Braine, "Room at the Top" novelist
 Brainerd;40;Minnesota city in "Fargo"
 brain fart;60
@@ -13295,6 +13296,7 @@ Brazzaville;50;Congo Republic capital
 Brazzi;40;Rossano Brazzi, star of "South Pacific" (1958)
 BRB;40
 Brea;40
+bread and butter;60
 bread and circuses;60;A strategy Roman rulers used to keep the populace pacified and politically inert
 breadcrumb;60
 breadcrumbs;60
@@ -14295,6 +14297,7 @@ bullet bra;60
 bullet bras;60
 bullet hell;60
 Bullets Over Broadway;50;1994 film by Woody Allen
+Bullet with Butterfly Wings;60
 bull gun;50
 bull guns;50
 bullheaded;60
@@ -22933,10 +22936,12 @@ cuts one's losses;60
 cuts one's teeth;50
 cuts one's teeth on;60
 cuts school;50
+cuts the mustard;60
 cuts to;40
 cuts to the bone;60
 cuts to the quick;60
 cut the chitchat;60
+cut the mustard;60
 cutthroat compound;60;Verb-object instead of the normal object-verb, like scarecrow and pickpocket
 cutthroat compounds;60
 cutthroat tactic;60
@@ -22957,6 +22962,7 @@ cutting one's losses;60
 cutting one's teeth;50
 cutting one's teeth on;60
 cutting school;50
+cutting the mustard;60
 cutting to;40
 cutting to the bone;60
 cutting to the quick;60
@@ -27357,10 +27363,18 @@ drags one's feet;50
 drags one's heels;50
 DRAG-U-LA;40;Car in the television show "The Munsters"
 drained;50
+drained of color;50
+drained the swamp;60
 drainer;40;Kitchen device
 drainers;40
 drain filter;50
 drain filters;50
+draining of color;50
+draining the swap;60
+drain of color;50
+drains of color;50
+drains the swap;60
+drain the swamp;60
 drake;50
 Drake;50
 Drake "Drake Maye" Maye;50;Funny nickname given to the Patriots quarterback
@@ -34647,6 +34661,8 @@ Flo-Jo;40;Florence Griffith Joyner, track and field hurdle athlete (1959–1998)
 Flonase;40;Allergy nasal spray
 flood damage;60
 flood story;50
+floor drain;50
+floor drains;50
 floorer;40
 floorers;40
 floor leader;50
@@ -39006,6 +39022,7 @@ God no;60
 god of many names;60
 Godot;50;Beckett's famous no-show
 go downhill fast;60
+go down the drain;60
 go down the line;50
 go down to the wire;60
 Godowsky;40;Leopold Godowsky, virtuoso pianist and composer
@@ -39066,6 +39083,7 @@ goes condo;50
 goes deaf;50
 goes deep undercover;60
 goes downhill fast;60
+goes down the drain;60
 goes down the line;50
 goes down to the wire;60
 goes dry;50
@@ -39234,6 +39252,7 @@ going by the book;60
 going condo;50
 going deaf;50
 going deep undercover;60
+going down the drain;60
 going down the line;50
 going down to the wire;60
 going dry;50
@@ -52765,6 +52784,7 @@ kinda sorta maybe;60
 Kinderhook;50;Van Buren's hometown, source of "OK"
 Kinder Joy;50;Chocolate eggs brand
 kindlily;30;Weird adverb
+kind of grease;20
 Kinds of Kindness;60
 Kinect;50;Xbox motion sensor
 Kinects;40;Xbox motion sensors
@@ -52856,7 +52876,8 @@ Kinyarwanda;40;Language of Rwanda
 Kiowa;30;Great Plains tribe
 Kiowan;30
 Kiowas;30
-kip;50
+kip;40
+Kip;40
 Kipchak;40;Medieval Turkic people
 Kipchaks;40;Medieval Turkic people
 Kipchoge;40;Eliud Kipchoge, sub-two-hour marathoner
@@ -70102,6 +70123,8 @@ operated on;40
 operate on;40
 operates on;40
 operating on;40
+Operation Paperclip;60;Secret post-WWII program hat brought more than 1,600  scientists, engineers, and technicians from former Nazi Germany to the U.S. between 1945 and 1959
+Operation Petticoat;50;1959 World War II submarine comedy film
 opercula;30;Botany word
 operculated;30
 operculum;30
@@ -106675,6 +106698,7 @@ went condo;50
 went deaf;50
 went deep undercover;60
 went downhill fast;60
+went down the drain;60
 went down the line;50
 went down to the wire;60
 went dry;50
