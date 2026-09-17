@@ -57316,6 +57316,8 @@ lone holdout;60
 lone holdouts;60
 lonelily;30;Weird adverb
 loneness;30
+lone pine;40;???
+lone pines;40;???
 Lonergan;40;Kenneth Lonergan, "Manchester by the Sea" director
 Lonerism;40;Tame Impala album
 Lone Star State;60
@@ -62818,6 +62820,7 @@ Minutemen;50;Revolutionary War militia
 Minute Rice;60
 Minutewoman;40;UMass Minutewomen, singularly
 Minutewomen;40;UMass women's teams
+minutiae;50
 minuting;40
 minyan;20;Quorum for Jewish worship
 minyanim;20
@@ -69443,6 +69446,7 @@ one and O;40
 one and oh;40
 on-ear;30;Type of headphones
 one arm;40
+One Art;40;Acclaimed 1976 poem by Elizabeth Bishop
 on easy;20
 on easy street;60
 one at a time;60
@@ -75401,8 +75405,8 @@ Pontormo;40;Jacopo Pontormo, Mannerist painter
 Pontypool;40;Welsh town, or the 2008 horror film
 Ponyboy;50;Ponyboy Curtis, "The Outsiders" narrator
 Ponyo;40;Studio Ghibli movie
-pony ride;50
-pony rides;50
+pony ride;60
+pony rides;60
 Ponzi;50;Charles Ponzi, namesake of the scheme
 Ponzi scheme;60
 Ponzi schemer;60
@@ -99120,6 +99124,7 @@ thrived on;40
 thrive on;40
 thrives on;40
 thriving on;40
+thro;30
 Throckmorton;50;Throckmorton Plot against Elizabeth I
 throe;40;Usually plural
 Throggs;30;Throggs Neck, Bronx neighborhood
