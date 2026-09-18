@@ -83530,12 +83530,23 @@ Safdies;40;Josh and Benny Safdie, "Uncut Gems" directors
 safe bet;60
 safe bets;60
 Safeco;40;Insurance company
+safe combination;50
+safe combinations;50
+safe-cracker;60
+safe-crackers;60
+safe-cracking;60
+safe for human consumption;60
+safe journey;60
+safe keeping;50
+safekeeping;50
+safekeepings;50
 safe mode;60
 safe room;60
 safe rooms;60
 SafeSearch;60
 safe seat;60
 safe seats;60
+safe side;50
 safe space;60
 safe spaces;60
 safety deposit box;60
@@ -83547,7 +83558,7 @@ safety harnesses;60
 safety hazard;50
 safety hazards;50
 safety loop;40;???
-safetyloops;40;???
+safety loops;40;???
 safety net;60
 safety nets;60
 safety patrol;50
