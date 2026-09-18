@@ -104105,6 +104105,12 @@ Uzodinma;30;Uzodinma Iweala, Nigerian-American writer
 Uzodinma Iweala;50;Nigerian-American writer
 Uzumaki;40;Junji Ito horror manga, or Naruto's surname
 V;40
+V6;40;Engine
+V6 engine;50
+V6 engines;50
+V8;40;Engine or juice
+V8 engine;50
+V8 engines;50
 VA;40
 vac;40
 vacant seat;50
