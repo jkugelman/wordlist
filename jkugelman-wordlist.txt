@@ -36814,6 +36814,8 @@ gamified;50
 gamifies;50
 gamify;50
 gamifying;60
+gaming chair;60
+gaming chairs;60
 gaming headset;50
 gaming headsets;50
 gaming law;50
