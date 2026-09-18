@@ -14870,7 +14870,9 @@ Byzantines;50;People of the Eastern Roman Empire
 Byzantium;50;Old name for Constantinople
 C;40
 C-;40
+C#;40;Programming language
 C+;40
+C++;40;Programming language
 C-3PO;40;Robot character from Star Wars
 CA;40
 CAA;20;Talent agency
@@ -60547,6 +60549,9 @@ Maserati;50;Italian luxury car
 Maseratis;40;Italian sports cars
 masers;40
 Maseru;40;Capital of Lesotho
+M*A*S*H;50
+mash;50
+MASH;50
 Masha;40;Masha Gessen, journalist / "Masha and the Bear"
 mashed in;40
 mashed potato;60
@@ -77719,7 +77724,9 @@ Qatar;50;Persian Gulf country
 Qataris;40;Persian Gulf peninsula people
 Qattara;40;Qattara Depression, Egyptian lowland
 QB controversies;30
+Q*bert;50
 Qbert;50;Pyramid-hopping arcade game
+Q*bert's Qubes;50
 QBs;50
 QB VII;30;1970 novel by Leon Uris
 Qdoba;50;Mexican fast-casual chain
@@ -97526,6 +97533,7 @@ THC;40
 THD;20
 the;50
 The 120 Days of Sodom;50;Unfinished 1785 erotic novel by the Marquis de Sade
+The 1% Club;40;British game show
 The 40-Year-Old Virgin;60;2005 Steve Carrell comedy
 the 99.9%;60
 Thea;30
