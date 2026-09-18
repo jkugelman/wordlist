@@ -50894,6 +50894,7 @@ Joe Sixpack;60
 Joe Walsh;50;Eagles guitarist
 Joey Chestnut;60
 Joe Young;20;Unnotable NBA player
+Joey Pants;50;Actor Joe Pantoliano
 Joffe;40;Roland Joffé, "The Killing Fields" director
 Joffrey;40;Joffrey Ballet / Joffrey Baratheon of "Game of Thrones"
 Jo Frost;50
