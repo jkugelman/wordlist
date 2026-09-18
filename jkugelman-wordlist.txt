@@ -83563,6 +83563,8 @@ safety net;60
 safety nets;60
 safety patrol;50
 safety rack;50
+safety seat;50
+safetyseats;50
 safety standards;50
 safety valve;50
 safety valves;50
@@ -90790,15 +90792,24 @@ soup spoon;50
 soup spoons;50
 soup to nuts;60
 sour apple;60
+sour apples;50
 sourball;60
 sourballs;60
+source code;60
+source codes;40
+source file;50
+source files;50
 source material;60
 source materials;60
 sourdough bagel;60
 sourdough bagels;60
+sourdough starter;60
+sourdough starters;60
 soured on;40
 souring on;40
 sourish;30
+sour mash whiskey;50
+sour mash whiskeys;50
 sour note;60
 sour notes;60
 sour on;40
