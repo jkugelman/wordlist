@@ -17418,6 +17418,7 @@ Chagos;40;Chagos Archipelago, Indian Ocean islands
 Chahine;40;Youssef Chahine, Egyptian filmmaker
 Chaiken;40;Ilene Chaiken, creator of "The L Word"
 Chaim;40;Chaim Potok, "The Chosen" author / Chaim Weizmann, first Israeli president
+Chained Heat;40;1983 women-in-prison film
 chain mail;60
 chain migration;60
 chain reaction;60
@@ -47551,6 +47552,7 @@ in a cab;20
 in a cage;40;Green paint?
 in a cast;40
 Ina Claire;40;1930s actress Ina Claire
+in a dead heat;50
 in a dilemma;50
 in a dilly of a pickle;60
 in a flat;20
@@ -77153,6 +77155,7 @@ Puff Daddy;10
 Puff Daddy and The Family;10
 puffed out;50
 puffed up;50
+puffed wheat;50
 pufferies;30
 puffing out;50
 puffing up;50
@@ -85413,6 +85416,7 @@ search warrant;60
 search warrants;60
 seared ahi tuna;50
 searer;20
+searing heat;50
 Searle;40;NutraSweet company, or John Searle with the "Chinese room" argument
 sear pin;30;Rifle part
 sear pins;30
