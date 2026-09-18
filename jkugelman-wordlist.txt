@@ -13151,6 +13151,7 @@ Braine;40;John Braine, "Room at the Top" novelist
 Brainerd;40;Minnesota city in "Fargo"
 brain fart;60
 brain farts;60
+Brainfuck;10;Esoteric, minimalist programming language
 brain gray;60;Shade of gray people see in pitch black
 brainiac;60
 brainiacs;60
@@ -14868,11 +14869,11 @@ Byzantine;50
 Byzantine Empire;50
 Byzantines;50;People of the Eastern Roman Empire
 Byzantium;50;Old name for Constantinople
+C++;50;Programming language
 C;40
 C-;40
 C#;40;Programming language
 C+;40
-C++;40;Programming language
 C-3PO;40;Robot character from Star Wars
 CA;40
 CAA;20;Talent agency
@@ -28907,6 +28908,7 @@ Ecko;40;Marc Ecko, streetwear designer
 eclectic mix;60
 eclogue;40;Pastoral poem
 eclogues;40
+ECMAScript;40;JavaScript
 ecnuoeno;0
 eco-;50
 eco-car;20
@@ -53467,6 +53469,7 @@ Kotaku;40;Video game news site
 Kotb;40;Hoda Kotb
 Kotcheff;40;Ted Kotcheff, "First Blood" director
 Kotex;40;Feminine hygiene brand
+Kotlin;40;Programming language
 koto;40;Japanese national instrument
 kotos;40;Japanese national instruments
 Kotsur;40;Troy Kotsur, Oscar winner for "CODA"
