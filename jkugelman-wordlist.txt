@@ -7371,6 +7371,8 @@ author-in-residence;60
 authors-in-residence;60
 autism awareness;60
 Autism Speaks;60
+autist;50
+autists;50
 Autobahn;50;German highway
 Autobahnen;40;German expressways
 Autobahns;50;German superhighways
