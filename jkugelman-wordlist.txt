@@ -55961,6 +55961,7 @@ let's see what happens;60
 let's split up, it'll be faster;60
 let's split up, it's faster;60
 let's start over;60
+let's stick a pin in it;40
 lets things play out;60
 lets up on;40
 let's wrap this up;60
@@ -77574,6 +77575,7 @@ puts a hat on a hat;60;Comedy mistake (something unnecessary)
 puts a hex on;50
 puts a lid on it;50
 puts all one's eggs in one basket;50
+puts a pin in it;50
 puts butts in seats;60
 puts down in words;50
 puts down in writing;50
@@ -77629,6 +77631,7 @@ putting a curse on;50
 putting a hat on a hat;60;Comedy mistake (something unnecessary)
 putting a hex on;50
 putting all one's eggs in one basket;50
+putting a pin in it;50
 putting butts in seats;60
 putting down in words;50
 putting down in writing;50
@@ -92925,9 +92928,11 @@ STFU;10
 stg;20
 stge;20
 STI;20
+stick a pin in it;40
 Stickell;40;Luther Stickell, "Mission: Impossible" hacker
 stick horse;50
 stick horses;50
+sticking a pin in it;40
 sticking in one's head;50
 sticking it to;40
 sticking it to the man;60
@@ -92951,6 +92956,7 @@ stick one's neck out;60
 stick one's nose in;60
 sticks and stones;60
 sticks and stones may break my bones;60
+sticks a pin in it;40
 stick shift;60
 stick shifts;60
 sticks in one's head;50
@@ -93784,6 +93790,7 @@ stubbed thumb;50;Genetic trait with one short, wide thumb
 Stubbs;40
 StubHub;50;Ticket resale site
 stub thumb;50;Genetic trait with one short, wide thumb
+stuck a pin in it;40
 stuck in one's head;50
 Stuckism;40;British anti-conceptual art movement
 Stuckist;40;Member of the Stuckism art movement
