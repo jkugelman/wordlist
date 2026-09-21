@@ -43979,7 +43979,7 @@ hgt;20
 HGTV;40
 H G Wells;50
 hhaerihspmahwen;0
-hhh;20
+HHH;40;Triple H, former American professional wrestler
 H hinge;40
 H hinges;40
 H-hour;40
