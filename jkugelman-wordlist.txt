@@ -45864,6 +45864,7 @@ Hulot;20;Jacques Tati character in '60s
 Hulu;50;Streaming service
 hum;50
 Huma;40;Huma Abedin, Clinton aide / Huma Bhabha, sculptor
+hum along to;50
 Humana;40;Health insurance giant / vox ___, organ stop
 human bean;60
 human behavior;50
@@ -45883,12 +45884,14 @@ humbug;60
 Hume;50;David Hume, Scottish philosopher, or Brit Hume, news anchor
 humeral;40;Relating to the humerus
 humeri;30
+hummed along to;50
 Hummel;30;Hummel figurine
 Hummel figurine;50;Porcelain figurine
 Hummel figurines;50;Series of porcelain figurines
 Hummels;30;Hummel figurines
 Hummer;50;Hulking GM SUV
 Hummers;40;Big SUVs
+humming along to;50
 hummingbird chick;50
 hummingbird chicks;50
 hummock;30;Rounded hill
@@ -45906,6 +45909,7 @@ Humphries;40;Barry Humphries, Dame Edna's creator
 Humphry;40;Humphry Davy, chemist who discovered sodium
 Humpin' Around;50;1992 single by Bobby Brown
 Humpty;50;Humpty Dumpty, wall-sitting egg
+hums along to;50
 humstrum;50;Musical instrument
 humus;40;Soil organic matter
 humuses;20
