@@ -41610,6 +41610,7 @@ had a baby;50
 had a bite;50
 had a blast;50
 had a catch;60
+had access to;50
 had a conniption;60
 had a couple;60
 had a cow;50
@@ -41652,7 +41653,10 @@ had a sip;50
 had ass;20
 Hadassah;40;Jewish women's organization, or Esther's Hebrew name
 had at;40
+had a temper;50
 had at it;40
+had a try;50
+had a try at;40
 had a yen for;40
 had butterflies;60
 Haddad;40;Fernando Haddad, Brazilian politician / Joumana Haddad, Lebanese writer
@@ -41990,6 +41994,7 @@ Hamlisch;50;Composer Marvin Hamlisch with an EGOT and Pulitzer
 Hamm;50;Jon Hamm, actor / Mia Hamm, soccer great
 Hammarskjold;50;Dag Hammarskjöld, UN secretary-general
 hammer;50;Drive home a point?
+hammer and tongs;60
 hammer at;40
 hammer drill;50
 hammer drills;50
@@ -42521,6 +42526,7 @@ has a baby;50
 has a bite;50
 has a blast;50
 has a catch;60
+has access to;50
 has a conniption;60
 has a couple;60
 has a cow;50
@@ -42559,7 +42565,10 @@ has a row;30
 has a shot at;40
 has a sip;50
 has at;40;Attacks, dives into
+has a temper;50
 has at it;50
+has a try;50
+has a try at;40
 has a yen for;40
 Hasbro;50;Toy company
 has butterflies;60
@@ -42747,6 +42756,7 @@ have a bad hair day;60
 have a bite;50
 have a blast;50
 have a catch;60
+have access to;50
 have a conniption;60
 have a couple;60
 have a cow;60
@@ -42785,7 +42795,10 @@ have around;50
 have a row;30
 have a shot at;40
 have a sip;50
+have a temper;50
 have at it;60
+have a try;50
+have a try at;40
 have a yen for;40
 have been around;40
 have butterflies;60
@@ -42841,6 +42854,7 @@ having a baby;50
 having a bite;50
 having a blast;50
 having a catch;60
+having access to;50
 having a conniption;60
 having a cow;50
 having a crush on;60
@@ -42872,6 +42886,9 @@ having around;50
 having a row;30
 having a shot at;40
 having a sip;50
+having a temper;50
+having a try;50
+having a try at;40
 having a yen for;40
 having butterflies;60
 having designs on;50
@@ -43388,6 +43405,7 @@ HeLa cell;40
 HeLa cells;40
 Helberg;40;Simon Helberg, actor on "The Big Bang Theory"
 held at arms length;60
+held a torch;50
 held back;50
 held dear;60
 held firm;60
@@ -44057,6 +44075,7 @@ hi-fi system;40
 Higgins;40;Henry Higgins, "My Fair Lady" professor
 Higginson;40;Thomas Wentworth Higginson, Emily Dickinson's correspondent
 Higgs;50;Peter Higgs, physicist of boson fame
+high and tights;50
 high as a kite;60
 high as fuck;10
 high C;40
@@ -44591,6 +44610,7 @@ hola;40
 Holbein;40;Renaissance painter Hans Holbein the Younger
 Holbrook;40
 hold at arms length;60
+hold a torch;50
 hold back;50
 hold dear;60
 Holden;50;Holden Caulfield, "Catcher in the Rye" narrator / William Holden, actor
@@ -44598,6 +44618,7 @@ hold everything;60
 hold firm;60
 hold forth about;40
 holding at arms length;60
+holding a torch;50
 holding back;50
 holding dear;60
 holding firm;60
@@ -44635,6 +44656,7 @@ hold on to me;50
 hold onto your butts;60
 hold please;60
 holds at arms length;60
+holds a torch;50
 holds back;50
 hold scoreless;50
 holds dear;60
@@ -45546,6 +45568,7 @@ Hova;40;Jay-Z nickname
 Hovhaness;40;Alan Hovhaness, American composer
 how;50
 how about no;60
+how about that;60
 how about we start over?;60
 how am I doing?;60
 how am I doing;0
@@ -45553,6 +45576,8 @@ Howard;50;Ron Howard, director / Howard University
 Howardena;40;Howardena Pindell, abstract painter
 Howard Hesseman;40;Actor in "WKRP in Cincinatti" and "Head of the Class"
 Howards;40;"Howards End" novel
+how are things?;60
+how are things;0
 how bad could it be;60
 howbeit;40;Although, nevertheless
 how bizarre;60
