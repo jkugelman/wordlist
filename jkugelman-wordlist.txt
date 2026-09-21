@@ -42151,7 +42151,11 @@ hanging a Uie;30
 hanging in;40
 hanging in the air;60
 hanging on;40
+hanging on by a thread;60
 hanging one's hat;50
+hanging one's hat up;60
+hanging one's head;60
+hanging on every word;60
 hanging onto;40
 hanging out with;40
 hanging tough;50
@@ -42167,8 +42171,13 @@ hang on a second;60
 hang on before you answer;60
 hang on before you rush to judgment;60
 hang on before you say anything;60
+hang on by a thread;60
 hang one's hat;50
+hang one's hat up;60
+hang one's head;60
+hang on every word;60
 hang on, hear me out;60
+hang on tight;60
 hang onto;40
 hang out with;40
 hangry;60
@@ -42178,7 +42187,11 @@ hangs a Uie;30
 hangs in;40
 hangs in the air;60
 hangs on;40
+hangs on by a thread;60
 hangs one's hat;50
+hangs one's hat up;60
+hangs one's head;60
+hangs on every word;60
 hangs onto;40
 hangs out with;40
 hangs tough;50
@@ -45905,7 +45918,11 @@ hung in the air;60
 hung juries;50
 hung jury;50
 hung on;40
+hung on by a thread;60
 hung one's hat;50
+hung one's hat up;60
+hung one's head;60
+hung on every word;60
 hung onto;40
 hung out with;40
 hung tough;50
@@ -55923,6 +55940,7 @@ let's get this party started;60
 let's get this straight;60
 let's give it a go;60
 let's give it a whirl;60
+let's hang on;50
 let's have a go at it;50
 let's have it;60
 let's hear it;60
