@@ -16074,7 +16074,9 @@ carbuncle;30;Abscess
 carbuncles;30
 car camping;60
 car can ban bun bus;0
-Carcassonne;50;Walled French city, and a board game
+Carcassonne;60;Board game
+Carcassonne, France;50
+Carcassonne France;0
 Carchemish;40;Ancient Hittite city and battle site
 carcinogen;30
 carcinogenesis;30
@@ -31631,7 +31633,7 @@ Euro Disney;60;Original name of Disneyland Paris
 Eurodollar;40;???
 Eurodollars;40
 Eurogame;60;Board game with indirect player interaction and a focus on abstract strategy, such as Carcassone or Ticket to Ride
-Eurogames;60
+Eurogames;60;Board games with indirect player interaction and a focus on abstract strategy, such as Carcassone or Ticket to Ride
 Eurogroup;40;Eurozone finance ministers
 Eurohound;40;Sled dog crossbreed
 Eurohounds;40;Sled dog crossbreeds
@@ -86581,6 +86583,7 @@ settled for;40
 settled into;40
 settle for;40
 settle into;40
+Settlers of Catan;60
 settles for;40
 settles into;40
 settling for;40
@@ -99520,6 +99523,7 @@ Ticino;40;Italian-speaking Swiss canton
 ticker tape;50
 ticker tapes;50
 Ticketmaster;50;Concert ticket seller
+Ticket to Ride;60
 ticking time bomb;60
 ticking time bombs;60
 tickled the ivories;60
