@@ -32780,7 +32780,7 @@ Faraday;50;Michael Faraday, of the cage
 Faraday's;40;Units of charge, replaced by coulombs
 farads;40
 Farah;40;Mo Farah, Olympic distance runner
-Faramir;50;Boromir's brother in "The Lord of the Rings"
+Faramir;40;Boromir's brother in "The Lord of the Rings"
 far and away;50
 farandole;30;French dance
 far be it;40
@@ -73493,6 +73493,7 @@ Peter Pan syndrome;60;Pop psychology term for men who have never grown up
 Peter Peter Pumpkin Eater;60
 Peter Piper;60
 Peter Piper picked a peck of pickled peppers;60
+peters;50
 Peters;40;Bernadette Peters, Broadway star
 Petersburg;40;Saint Petersburg, or the Civil War siege
 Peter Sellers;60
