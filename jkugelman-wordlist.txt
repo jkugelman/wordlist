@@ -5394,6 +5394,8 @@ Aramco;40;Saudi oil giant
 Aramean;30
 Arameans;40;Ancient Semitic people of Aram
 Aramis;40
+A. R. Ammons;40;Poet (1926–2001)
+A R Ammons;0
 Aran;40;Aran Islands, off Ireland / Samus Aran of "Metroid"
 araneid;20;Spider order
 araneids;20;Spider order
@@ -12753,7 +12755,7 @@ Borobudur;50;Javanese Buddhist temple complex
 Borodin;40;Alexander Borodin, "Prince Igor" composer
 Borodino;40;Napoleonic battle outside Moscow
 borogoves;60;From "Jabberwocky"
-Boromir;50;"The Lord of the Rings" son of Denethor
+Boromir;40;"The Lord of the Rings" son of Denethor
 boronic;40
 Borowitz;40;Andy Borowitz, New Yorker satirist
 Borromean;40;Like a trio of interlocked rings
@@ -84082,6 +84084,7 @@ sampling error;50
 Sampras;50;Pete Sampras, tennis great
 Sam's;40;Sam's Club, warehouse chain
 Samsa;40;Gregor Samsa, Kafka's transformed salesman
+saṃsāra;40;Indian concept of the cyclical process of death and rebirth
 Sam's Club;60
 Sam Shepard;50
 Sam Shepherd;20;???
