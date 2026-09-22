@@ -104818,7 +104818,7 @@ Veuve;40;Veuve Clicquot champagne
 Vevo;40;Streaming service
 vex;50
 Vexy Smurf;60
-vey;20
+vey;40;Oy vey
 Veyron;40;Bugatti Veyron, supercar
 Veyrons;40;Bugatti supercars
 Vezina;40;NHL trophy for the top goaltender
