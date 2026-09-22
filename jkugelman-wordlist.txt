@@ -141,13 +141,14 @@
 2-woods;30;Obsolete clubs
 2-year-old;40
 2-year-olds;40
-30 for 30;60;ESPN sports documentary film series
+30 for 30;50;ESPN sports documentary film series
 30 Rock;50;NBC Tina Fey sitcom 2006-13
 3:10 to Yuma;60;Western movie
 .38 Special;50;Smith & Wesson revolver cartridge
 3 AM;40;1996 Matchbox Twenty single
 3am;40
 3D chess;60
+3D glasses;60
 3 Doors Down;60;'90s rock band
 3D print;60
 3D printed;60
@@ -156,6 +157,9 @@
 3D printing;60
 3D prints;60
 3 French hens;60
+3 Musketeers;50;Candy bar
+3 Musketeers bar;50
+3 Musketeers bars;50
 3pm;40
 3rd;50
 3rd-gen console;40
