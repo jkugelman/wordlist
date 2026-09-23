@@ -32473,6 +32473,7 @@ faffs;50
 faffs about;50
 faffs around;50
 Fafnir;40;Dragon of Norse legend
+FAFO;10
 fag;10
 Fagbenle;40;O-T Fagbenle, "The Handmaid's Tale" actor
 Fagen;40;Donald Fagen, Steely Dan co-founder
@@ -94351,6 +94352,14 @@ Sundarbans;40;Tiger-filled mangrove forest of Bengal
 Sunday;50;Day of the week
 Sunday finest;60
 Sundays;50;Days of rest
+Sunday sauce;50
+Sunday scaries;60;Anxiety about the start of the working week
+Sunday school;60
+Sunday school class;50
+Sunday school classes;50
+Sunday schools;50
+Sunday supplement;50
+Sunday supplements;50
 sunderance;40
 Sunderland;40;English city and football club
 Sundfor;40;Susanne Sundfør, Norwegian art-pop singer
