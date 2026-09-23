@@ -18140,6 +18140,7 @@ chest thumps;50
 chest X-ray;50
 chest X-rays;50
 Chet;50;Chet Baker, jazz trumpeter / Chet Atkins, guitarist
+cheugy;50;Uncool, tryhard
 Cheung;40;Leslie Cheung, Hong Kong star / common Cantonese surname
 Cheviot;20;Breed of sheep
 Cheviots;40;English-Scottish border hills, or a sheep breed
@@ -61466,6 +61467,8 @@ meat locker;60
 meat lockers;60
 meat lover;60
 meat lovers;60
+meat proxies;60;Ones who pass along AI work without reading it
+meat proxy;60;One who passes along AI work without reading it
 meat rub;50
 meat rubs;50
 meat skewer;50
