@@ -18338,6 +18338,7 @@ Chilean;50;Chile native
 Chileans;50;People of Chile
 chile con carne;50
 chili con carne;50
+chili crisp;50;Chinese hot sauce made with fried chili peppers infused in oil
 chili dip;50
 chili dips;50
 chili dog;60
