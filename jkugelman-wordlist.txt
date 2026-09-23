@@ -65055,6 +65055,7 @@ Mycroft;50;Mycroft Holmes, Sherlock's smarter brother
 Mycroft Holmes;60
 My Ding-a-Ling;50;Novelty song
 my dog ate it;60
+my dog ate my homework;60
 my ear;40;"Like hell"
 myeloid;30;Bone marrow related, lots of leukemia-related Google results
 myeloma;40
@@ -66850,6 +66851,8 @@ Nintendo eShop;50;Where to buy Switch games
 Nintendo game;60
 Nintendo Game Boy;60
 Nintendo Game Boys;60
+Nintendo GameCube;60
+Nintendo GameCubes;60
 Nintendo games;60
 Nintendogs;50;Nintendo DS puppy simulator
 Nintendo hard;60
@@ -94511,6 +94514,8 @@ supermoon;60
 supermoons;60
 Super Nintendo;60
 Super Nintendo Chalmers;60
+Super Nintendo game;50
+Super Nintendo games;50
 Super Nintendos;60
 supernova;60
 supernovae;50
@@ -97925,6 +97930,7 @@ the dishes;30
 the disrespect;60
 the DJ;20
 the docks;20
+the dog ate my homework;60
 the Dog Star;40
 the domino principle;60
 the Don;20
