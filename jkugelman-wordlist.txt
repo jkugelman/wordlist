@@ -2034,7 +2034,7 @@ aggro;30
 agha;40;Turkish honorific
 aghas;40
 Aghdashloo;40;Shohreh Aghdashloo, "House of Sand and Fog" actress
-AGI;20;Will Shortz won't accept it
+AGI;30;Artificial general intelligence / Adjusted gross income [Will Shortz won't accept it]
 Agincourt;50;1415 battle won by Henry V
 aging like a fine wine;60
 aging like fine wine;60
