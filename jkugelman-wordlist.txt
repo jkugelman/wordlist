@@ -40682,6 +40682,7 @@ Gretel;50;Hansel's sister
 Grete Waitz;40;Norwegian marathon runner and former world record holder
 Gretna;30;___ Green, Scottish wedding destination
 Gretzky;50;Wayne Gretzky, the Great One
+grew a spine;60
 grew dim;30
 grew in;30
 grew into;40
@@ -41039,8 +41040,10 @@ grouses about;40
 grousing about;40
 Grover;50;Grover Cleveland, president / Sesame Street monster
 Grovers;40;Grover's Corner, "Our Town" setting
+grow a spine;60
 grow dim;30;Green paint
 grow in;30;Contrived
+growing a spine;60
 growing dim;30
 growing in;30
 growing into;40
@@ -41056,6 +41059,7 @@ grown upon;40
 grownwrong;0
 grow old together;60
 grow on;40
+grows a spine;60
 grows dim;30
 grows in;30
 grows into;40
@@ -48296,7 +48300,6 @@ In Search of Lost Time;60;1913–1927 novel in seven volumes by Marcel Proust
 in season;60
 inseattle;0
 Insecta;30
-insectivorous;60
 insect repellent;50
 insect repellents;50
 insect spray;50
@@ -91428,6 +91431,7 @@ spider wasps;50
 spider web;60
 spider webs;60
 Spiderwick;40;"The Spiderwick Chronicles" family
+Spiderwick Chronicles;50;Series of children's books, with "The"
 Spider-Woman;60
 Spidey;50
 spidey sense;60
@@ -98709,6 +98713,7 @@ the Sox;20
 the Space Race;60
 the Spanish Steps;40
 the spice trade;40
+The Spiderwick Chronicles;50;Series of children's books
 Thespis;40;Ancient inventor of acting, supposedly
 the splits;30
 Thessalonian;50;Of Thessalonica, as in Paul's epistles
@@ -99278,6 +99283,7 @@ threnody;40;Hymn for the dead
 threonine;30;Essential amino acid
 threw a curveball;60
 threw a scare into;50
+threw a spanner in the works;60
 threw a spiral;60
 threw at;40
 threw a tantrum;50
@@ -99327,6 +99333,7 @@ throw a curve;60
 throw a curveball;60
 throw a pot;50
 throw a scare into;50
+throw a spanner in the works;60
 throw a spiral;60
 throw at;40
 throw a tantrum;50
@@ -99343,6 +99350,7 @@ throwing a curve;60
 throwing a curveball;60
 throwing a pot;50
 throwing a scare into;50
+throwing a spanner in the works;60
 throwing a spiral;60
 throwing at;40
 throwing a tantrum;50
@@ -99381,6 +99389,7 @@ throws a curve;60
 throws a curveball;60
 throws a pot;50
 throws a scare into;50
+throws a spanner in the works;60
 throws a spiral;60
 throws at;40
 throws a tantrum;50
