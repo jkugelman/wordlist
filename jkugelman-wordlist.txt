@@ -17395,6 +17395,7 @@ C-flat;40
 C-flat scale;30
 CFO;40
 CFOs;40
+CFPB;40;Consumer Financial Protection Bureau
 CFs;20;Center fielders
 CGI;40
 CGIed;40;Rendered with computer graphics
@@ -48686,6 +48687,8 @@ inweaves;30
 inweaving;30
 in wet cement;20
 INXS;40;Australian rock band (1977–2012)
+I ❤️ NY;60
+I ❤ NY;60
 Io;40
 Ioannina;40;Greek city in Epirus
 Ioannis;40;Ioannis Kapodistrias, first governor of Greece
