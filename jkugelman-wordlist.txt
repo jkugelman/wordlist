@@ -10071,6 +10071,7 @@ before I go;60
 before I knew it;60
 before one's eyes;50
 before one's time;60
+before pop or roll;20
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
 before you rush to judgment;60
@@ -10597,6 +10598,7 @@ bestowed on;40
 bestowing on;40
 bestow on;40
 bestows on;40
+Best Pop Album;50;Grammy category 1995-2001, now Best Pop Vocal Album
 be straight with me;60
 bestseller;60
 bestsellers;60
@@ -12884,6 +12886,7 @@ bottom dealers;60
 bottom dealing;60
 bottom left corner;40
 bottomless mimosas;60
+bottomless pop;50
 bottom line;60
 bottom of the class;60
 bottom of the hour;60
@@ -14075,6 +14078,8 @@ bubble bath;60
 bubble baths;60
 bubblegum;50
 bubblegum pink;60
+bubblegum pop band;60
+bubblegum pop bands;60
 bubbles;50
 Bubblicious;60;Bubble gum brand
 bubblleeggum;0
@@ -15775,6 +15780,7 @@ cantles;30
 can't make any guarantees;60
 Cantona;40;Eric Cantona, Manchester United striker
 Cantonese;50;Chinese language of Guangdong
+Cantonese pop;50
 cantonment;30
 Canton, OH;40
 Canton Ohio;50
@@ -35841,8 +35847,12 @@ freewheeling;60
 freez;30;Tastee-Freez restaurant, practically defunct
 freeze frame shot;60
 freeze frame shots;60
+freeze pop;60
+freeze pops;60
 freeze ray;60
 freeze rays;60
+freezer pop;60
+freezer pops;60
 freezes up;50
 freeze up;50
 freezing up;50
@@ -37508,6 +37518,7 @@ Genoa;50;Italian port city, and a salami
 Genoese;40;Of Genoa
 Genovese;40;Kitty Genovese, bystander effect case / New York crime family
 Genovia;40;"The Princess Diaries" kingdom
+genpop;40;General population of a prison
 Genshin;40;Genshin Impact, blockbuster video game
 gente;30
 Gente de Zona;40
@@ -40376,6 +40387,7 @@ Grantland Rice;50;Sportswriter (1880–1954)
 grantor;30
 grants amnesty;50
 Grape Ape;60
+grape pop;50
 grape skin;50
 grape skins;50
 graphic art;60
@@ -44296,6 +44308,7 @@ hip-hop skit;60
 hip-hop skits;60
 hip hop trio;50
 hip hop trios;50
+hi pop;20
 hippocampi;60
 hippocampus;60
 hip pocket;50
@@ -53600,6 +53613,8 @@ K-Pg extinction;40;It killed the dinosaurs
 K-Pg extinction event;40
 kph;40
 KPop Demon Hunters;60;Netflix's most-watched movie of all time
+K-pop group;60
+K-pop groups;60
 kps;20
 Kr;40;Krypton symbol
 kra;20
@@ -61058,7 +61073,8 @@ Mayor Pete;60
 mayos;40
 Mayotte;40;French island territory near Madagascar
 Maypo;30;Old cereal brand
-maypop;30;Flower
+maypop;40;Flower
+maypops;40;Flowers
 Mayra;40;Mayra Montero, Cuban-Puerto Rican novelist
 Mays;50;Willie Mays, the Say Hey Kid / Billy Mays, pitchman
 Maysles;40;Albert and David Maysles, "Grey Gardens" documentarians
@@ -65269,6 +65285,8 @@ nailing on;40
 nailing up;40
 nail it;50
 nail-on;40
+nail pop;50
+nail pops;50
 nails;50
 nail salon;60
 nail salons;60
@@ -68863,6 +68881,7 @@ O'Flaherty;40;Liam O'Flaherty, Irish novelist
 ofo;20
 of old;50
 of one's own accord;50
+of pop;20
 ofrenda;30;Día de los Muertos offering
 ofrendas;30;Día de los Muertos offerings
 of sound mind;60
@@ -69933,6 +69952,7 @@ on one's way;50
 on or;20
 onos;20
 On Our Own;40;One-season '90s sitcom
+on pop;20
 on post;40
 on radar;30
 on-ramp;50
@@ -70380,6 +70400,7 @@ orange marmalade;60
 Orangemen;40;Ulster Protestant order, or old Syracuse team name
 orange pip;60
 orange pips;60
+orange pop;50
 Orangina;50;Citrus soda in a bulby bottle
 Oranginas;40;Fizzy orange sodas
 orangs;40
@@ -73363,6 +73384,7 @@ peroxide blonds;60;Without the "e"?
 peroxided;40
 peroxiding;40
 perpetuum mobile;60
+per pop;20
 Perrault;40;Charles Perrault, fairy tale collector
 Perrey;30;Jean-Jacques Perrey, Moog music pioneer
 Perri;40;Christina Perri, "A Thousand Years" singer
@@ -75723,8 +75745,10 @@ pop icon;60
 pop icons;60
 pop idol;50
 pop idols;50
+pop in a DVD;30;Green paint
 pop in a movie;50
 pop into;40
+pop in to say hello;40;Green paint
 poplar tree;50
 poplar trees;50
 PopMatters;40;Pop culture review site
@@ -75739,8 +75763,10 @@ poppa;40;Papa variant
 poppas;20;Papas variant
 popped a squat;60
 popped a wheelie;60
+popped in a DVD;30;Green paint
 popped in a movie;50
 popped into;40
+popped in to say hello;40
 popped off;60
 popped on;40
 popped pills;40
@@ -75751,8 +75777,10 @@ pop pills;40
 Poppin';40;Poppin' Fresh, the Pillsbury Doughboy
 popping a squat;60
 popping a wheelie;60
+popping in a DVD;30;Green paint
 popping in a movie;50
 popping into;40
+popping in to say hello;40;Green paint
 popping off;60
 popping on;40
 popping pills;40
@@ -75770,10 +75798,12 @@ pops a squat;60
 pops a wheelie;60
 pop scene;50
 Pop Secret;60
+pops in a DVD;30;Green paint
 pops in a movie;50
 pop singer;60
 pop singers;60
 pops into;40
+pops in to say hello;40;Green paint
 PopSocket;40;Phone grip
 PopSockets;40;Phone grips
 pops off;60
