@@ -20628,6 +20628,10 @@ complex numbers;50
 complier;40
 compliers;40
 Complimentary Smurf;60
+compliment sandwich;60
+compliment sandwiches;60
+compliments of the chef;60
+compliments of the house;60
 complot;20;Plot, archaic
 complots;20
 complotted;20
@@ -108615,6 +108619,7 @@ with a name like Smucker's it has to be good;60
 with an eye for;20
 with an eye for detail;20
 with a nom de plume;20
+with compliments;50
 wither away;50
 withered away;50
 withering away;50
