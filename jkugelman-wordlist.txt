@@ -36356,6 +36356,7 @@ Fukasaku;40;Kinji Fukasaku, "Battle Royale" director
 Fukunaga;40;Cary Joji Fukunaga, "True Detective" director
 Fukuoka;40;Japanese city
 Fukushima;50;Site of a 2011 Japanese nuclear disaster
+Fukushima meltdown;50
 Fukuyama;40;Francis Fukuyama, "The End of History" author
 -ful;20
 Fula;20;African ethnic group
@@ -41669,6 +41670,7 @@ had a lisp;40
 had a look;50
 had a look around;60
 had a look at;40
+had a meltdown;60
 had an air;40
 had a nap;40
 had an axe to grind;60
@@ -42583,6 +42585,7 @@ has a lisp;40
 has a look;50
 has a look around;50
 has a look at;40
+has a meltdown;60
 Hasan;40;Comedian Hasan Minhaj
 has an air;40
 has a nap;40
@@ -42814,6 +42817,7 @@ have a look around;60
 have a look at;40
 have a lot to do with;50
 have a lot to say about;50
+have a meltdown;60
 have an air;40
 have a nap;40
 have an axe to grind;60
@@ -42908,6 +42912,7 @@ having a line on;60
 having a look;50
 having a look around;50
 having a look at;40
+having a meltdown;60
 having an air;30
 having a nap;50
 having an axe to grind;60
@@ -46385,6 +46390,8 @@ ICBM;40
 ICBMs;40
 ICC;20
 ice;50
+Ice Age: The Meltdown;50
+Ice Age the Meltdown;0
 ice arena;40
 ice arenas;40
 ice bar;50
@@ -47429,6 +47436,7 @@ Immanuel;50;Immanuel Kant, philosopher
 imme;0
 I'm Mean;50;Bluto's song
 Immelmann;40;Max Immelmann, of the aerial turn
+I'm melting;60
 immersed in;40
 immerse in;40
 immerses in;40
@@ -61865,11 +61873,24 @@ Melpomene;30;Greek goddess of tragedy
 Melquiades;40;Gypsy sage of "One Hundred Years of Solitude"
 Melrose;40;"___ Place" / L.A. avenue
 Mel's;30;Plural name
+melted hearts;60
+melted in one's mouth;60
+melted one's heart;50
 melter;30
+melt hearts;60
 melting face;60;Emoji
 melting face emoji;60
 melting face emojis;60
+melting hearts;60
+melting in one's mouth;60
+melting one's heart;50
+melt in one's mouth;60
 Melton;20
+melt one's heart;50
+melts hearts;60
+melts in one's mouth;60
+melts in your mouth, not in your hands;60
+melts one's heart;50
 Melua;30;Katie Melua, British singer (born 1984)
 Melvil;40;Melvil Dewey, decimal-system librarian
 Melville;50;Herman Melville, "Moby-Dick" author
@@ -62345,6 +62366,8 @@ Mexico;50;Country south of the border
 Mexicoke;50;Cane-sugar Coca-Cola from Mexico
 Mexicokes;40;Mexican Coca-Colas, made with cane sugar
 Mexico Trilogy;60
+Meximelt;50;Specialty item at Taco Bell
+Meximelts;50;Specialty items at Taco Bell
 Meyer;50;Meyer lemon / Meyer Lansky, mobster
 Meyerbeer;40;Giacomo Meyerbeer, grand opera composer
 Meyerowitz;40;Joel Meyerowitz, street photographer
@@ -75319,6 +75342,7 @@ Poinsett;40;Joel Roberts Poinsett, namesake of the poinsettia
 point a finger at;50
 point after;20
 point at;40
+point at which something melts;20
 pointe;40
 pointed a finger at;50
 pointed at;40
@@ -77263,6 +77287,8 @@ public library;60
 public masturbation;10
 public masturbator;10
 public masturbators;10
+public meltdown;60
+public meltdowns;60
 public officials;50
 public place;50
 public places;50
@@ -89730,6 +89756,10 @@ smells fishy;60
 smell tests;50
 smell you later;60;Slangy equivalent to "Goodbye!"
 Smelly Smurf;60;a.k.a. Sloppy Smurf
+smelting furnace;50
+smelting furnaces;50
+smelting mill;50
+smelting mills;50
 smelt roe;50
 SMERSH;20;Russian counterintelligence organization
 Smetana;40;Bedřich Smetana, Czech composer of "The Moldau"
@@ -91874,6 +91904,8 @@ springing a leak;50
 springing at;40
 springing for;40
 springing on;40
+spring melt;50
+spring melts;50
 spring on;40
 springs a leak;50
 springs at;40
