@@ -3564,6 +3564,7 @@ a man a plan a canal Panama;60
 Amanas;40
 A Man Called Ove;40
 Amanda;50;Amanda Gorman, poet / common first name
+Amanda Palmer;40;Lead singer of the Dresden Dolls
 Amandla;40;Amandla Stenberg, actress / Zulu for "power"
 amanita;40;Mushroom genus
 amanitas;40
@@ -84840,10 +84841,16 @@ scantly;30;Scarcely
 Scantron;50;Bubble-sheet test forms
 Scantrons;40;Bubble-in test sheets
 Scapa;20;Scapa Flow, Orkney naval anchorage
-scape;40;Suffix
-scapegoat;50
-scapegoats;50
+-scape;40
+scape;30
+scaped;30
+scapegoat;60
+scapegoated;60
+scapegoating;60
+scapegoats;60
+-scapes;40
 scapes;30
+scaping;30
 scapulae;40
 Scaramanga;50;Francisco Scaramanga, "The Man with the Golden Gun" villain
 Scaramouche;60;"Will you do the fandango?"
