@@ -2631,6 +2631,7 @@ Albert and David Maysles;40;Documentarian brothers
 Albertans;50;Calgarians and Edmontonians
 Alberta postal code;0
 Alberta postal codes;0
+Albert Bandura;40;Bobo doll psychologist
 Albert C. Barnes;40;American art collector and educator (1872–1951)
 Albert C Barnes;0
 Alberti;40;Alberti bass
