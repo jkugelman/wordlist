@@ -103927,6 +103927,8 @@ urban hiking;60
 Urban I;20;Pope
 Urban II;20
 Urban IV;20
+urban landscape;60
+urban landscapes;60
 urban menace;50
 urban menaces;50
 urbanmusicgenre;0
