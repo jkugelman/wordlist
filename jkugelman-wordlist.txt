@@ -9715,7 +9715,7 @@ beating the rap;60
 beating the rush;60
 beating to the punch;60
 Beatle;50;John, Paul, George, or Ringo
-Beatlemania;50;Fab Four frenzy
+Beatlemania;60;Fab Four frenzy
 Beatles;50;The Fab Four
 Beatles hits;20
 Beatles song;20
@@ -10373,6 +10373,8 @@ Benny Hill Show;60
 Benoist;40;Melissa Benoist, "Supergirl" star
 Benoit;40;Joan Benoit, first Olympic women's marathon champ / Benoit Blanc, "Knives Out" sleuth
 Benoit Blanc;60;"Knives Out" detective
+Benoit B. Mandelbrot;50
+Benoit B Mandelbrot;0
 Ben Okri;40;Nigerian-born British poet and novelist
 BenQ;40;Monitor and projector brand
 Benson;40;Benson Boone, pop singer / "Benson," 1980s sitcom
@@ -10455,6 +10457,8 @@ Berlin;50;German capital
 Berlinale;40;Berlin Film Festival
 Berliner;50;Berlin resident, or a jelly doughnut
 Berliners;50;Berlin residents, or jelly doughnuts
+Berlin, Germany;50
+Berlin Germany;0
 Berlioz;50;Hector Berlioz, "Symphonie Fantastique" composer
 Berlitz;40;Language school chain
 Berlusconi;50
