@@ -891,6 +891,7 @@ accordion pleats;50
 accounted for;40
 account for;40
 accounting for;40
+account mangers;0
 accounts for;40
 accouter;40;Legitimate variant of accoutre
 accoutered;40
