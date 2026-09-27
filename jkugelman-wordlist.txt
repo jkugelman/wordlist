@@ -32077,6 +32077,8 @@ expanded on;40
 expanding on;40
 expand on;40
 expands on;40
+expansion joint;50
+expansion joints;50
 expansion team;60
 expansion teams;60
 ex-parrot;60
@@ -60241,6 +60243,8 @@ marcato;40
 Marceau;40;Marcel Marceau, mime
 Marcel;50;Marcel Proust, novelist / Marcel Duchamp, artist
 Marceline;40;Marceline the Vampire Queen, "Adventure Time" character
+marcelled;40
+marcelling;40
 Marcellinus;40;Ammianus Marcellinus, Roman historian
 Marcello;40;Marcello Mastroianni, "La Dolce Vita" star
 Marcellus;40;Marcellus Wallace, "Pulp Fiction" crime boss
@@ -60421,6 +60425,8 @@ Mark Cuban;50
 Mark Dery;50;Journalist who coined "Afrofuturism"
 marker gene;50
 marker genes;50
+marker pen;50
+marker pens;50
 Marketa;40;Marketa Irglova, "Once" songwriter / Marketa Vondrousova, tennis player
 market cap;60
 market caps;60
@@ -60857,6 +60863,8 @@ Material Girl;60
 material witness;60
 material witnesses;60
 materiel;40;Military supplies
+maternal leave;50
+maternal leaves;40
 maternity ward;50
 maters;30;Alma maters
 Matewan;40;West Virginia mine-war town and John Sayles film
@@ -62318,6 +62326,7 @@ Met payroll;50
 metre;40
 metres;40
 metric fuckload;10
+metrification;50
 metrist;30;Student of meter/verse
 metrists;30;Students of meter/verse
 Metro Boomin;60;Metro Boomin, influential hip-hop & trap music producer
@@ -62329,6 +62338,7 @@ Metroid;50;Nintendo series starring Samus
 Metroidvania;50;Exploration-heavy video game genre
 metro line;50
 metro lines;50
+metrological;50
 metrology;30
 metronome;50
 metronomes;50
@@ -72529,6 +72539,8 @@ patent leather;50
 patentor;40;One that grants a patent
 patentors;40
 pater;40;Latin father
+paternal leave;50
+paternal leaves;40
 paternity test;50
 paternity tests;50
 Paterno;40
