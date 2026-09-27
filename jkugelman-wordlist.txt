@@ -90652,6 +90652,7 @@ some nerve you have;60
 some nerve you've got;60
 someone once said;60
 someone's;50
+some other;50
 Somers;40
 Somerset;50;English county, or W. Somerset Maugham
 Somerville;40;City next door to Cambridge, Massachusetts
