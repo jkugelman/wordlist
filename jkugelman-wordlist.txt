@@ -4133,6 +4133,7 @@ ancient man;50
 Ancona;40;Italian port city, also a chicken breed
 ancus;20
 and;50
+and a day;40
 ándale;40
 ¡ándale, ándale!;40;Spanish "Let's go, let's go!"
 Andalucia;40;Spanish region, aka Andalusia
@@ -5422,6 +5423,7 @@ Araucanian;40;Mapuche of Chile
 Araucanians;40;Mapuche people of Chile, by an older name
 araucaria;30;Evergreen tree genus "monkey puzzles"
 Aravind;40;Aravind Adiga, "The White Tiger" novelist
+Aravind Adiga;40;Indian journalist and author
 Arawak;40;Caribbean Indigenous people
 Arawakan;40
 Arawaks;40;Indigenous Caribbean people
@@ -7613,6 +7615,7 @@ awninged;40
 AWOL;50
 Awolnation;40;"Sail" rock band
 AWOLs;40
+A Word A Day;50
 a work of art;50
 a world of hurt;60
 a wrap;20
@@ -7668,6 +7671,7 @@ AYCE;30;All you can eat
 Ayckbourn;40;Alan Ayckbourn, English playwright
 aye;50
 a year ago;30
+a year and a day;40
 aye aye sir;50
 Ayelet;40;Ayelet Waldman, novelist
 Ayer;30
@@ -10754,6 +10758,7 @@ Beyoncé Knowles;60
 Beyonce Knowles;0
 Beyoncé Knowles-Carter;60
 Beyonce Knowles-Carter;0
+beyond a doubt;50
 beyond one's reach;50
 beyond question;60
 Beyond the Spider-Verse;60
@@ -11262,6 +11267,8 @@ Birmingham, AL;40
 Birnam;40;Birnam Wood, which comes to Dunsinane in "Macbeth"
 Birobidzhan;40;Capital of Russia's Jewish Autonomous Oblast
 birth control;60
+birth dad;50
+birth dads;50
 birthday boy;60
 birthday boys;50
 birthday cake;50
@@ -11289,6 +11296,8 @@ birthing center;50
 birthing centers;50
 birthing centre;20
 birthing centres;20
+birth mom;50
+birth moms;50
 Birtwistle;40;Harrison Birtwistle, British composer
 bis;40;Biceps
 Bisan;40;Bisan Owda, Palestinian journalist
@@ -15922,8 +15931,10 @@ capital N's;40
 capital O;40
 capital of Afghanistan;20
 capital of Arkansas;20
+capital of India;20
 capital of Oregon;20
 capital of Texas;20
+capital of Trinidad and Tobago;20
 capitalofturkey;0
 capital O's;40
 capital P;40
@@ -23176,13 +23187,18 @@ Dada artist;50
 Dada artists;50
 Dada art movement;50
 dadada;30
-dadager;40
-dadagers;40
+dadager;40;Dad manager
+dadagers;40;Dad managers
+dada movement;50
 dadanddad;0
 dadas;40;Dads
 dad-blasted;60
 dad bod;60
 dad bods;60
+dadchelor;40
+dadchelor parties;50;Baby showers for fathers-to-be
+dadchelor party;50;Baby shower for fathers-to-be
+dadchelors;40
 Daddario;50;Actress Alexandra Daddario
 Daddy Don't You Walk So Fast;50;1972 single by Wayne Newton
 daddylleeggss;0
@@ -28423,6 +28439,7 @@ Dutch;50;Of the Netherlands
 Dutch angle;60
 Dutch angles;60
 Dutch bob;50
+Dutch East India Company;60
 Dutcher;40;Jeremy Dutcher, Canadian Indigenous musician
 Dutchess;40;New York county
 Dutchman;50;Netherlander, or the Flying ghost ship
@@ -28729,6 +28746,7 @@ Eastertime;40;The Easter season
 East Germany;60
 East Ham;40;London district
 Eastham;40;Massachusetts town
+East India Company;60
 easting;30
 eastings;30
 Eastman;40;George Eastman, Kodak founder
@@ -72399,6 +72417,7 @@ Pasquale;40;"Don Pasquale" Donizetti opera / Pasquale Paoli, Corsican patriot
 passade;40;Horse dressage move
 passades;40
 passado;30;Fencing move
+Passage to India;50
 Passaic;40;New Jersey city
 pass a law;40
 Passamaquoddy;50;Indigenous nation of Maine
@@ -99949,6 +99968,7 @@ time sinks;60
 time skip;60
 time skips;60
 Times New Roman;60
+Times of India;50
 Times Square;60
 times symbol;50
 time's up;60
