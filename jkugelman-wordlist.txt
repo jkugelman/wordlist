@@ -31818,6 +31818,7 @@ event planner;50
 event planners;50
 even up the score;50
 Everage;40;Dame Edna Everage
+ever and a day;50
 Everclear;50;Grain alcohol brand / '90s rock band
 Everdeen;50;Katniss Everdeen, "The Hunger Games" heroine
 Eveready;40;Battery brand
@@ -35332,6 +35333,7 @@ forest firefighters;60
 forest fires;60
 foretop;40;Ship platform
 foretops;40
+forever and a day;60
 forever home;60
 forever homes;60
 forex;40;Foreign exchange market
