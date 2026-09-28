@@ -26854,6 +26854,7 @@ don't give a fuck;10
 don't-give-a-fuck attitude;10
 don't-give-a-fuck attitudes;10
 don't give up;60
+don't harp on it;40
 don't hate;50
 don't have a prayer;50
 don't have time;50
@@ -42504,14 +42505,18 @@ Harold;50;Harold Bloom, critic / Harold Lloyd, silent comic
 Harold II;30;Killed at the Battle of Hastings in 1066, succeeded by William the Conqueror
 Harolds;30
 harped on;40
+harped on about;40
 Harper;50;Harper Lee, "To Kill a Mockingbird" author / Bryce Harper, MLB slugger
 HarperCollins;50;Book publisher
 Harper Lee;50
 Harper's;50;Bazaar or Magazine
 harping on;40
+harping on about;40
 Harpo;50;Harpo Marx, silent Marx brother / Oprah's production company
 harp on;40
+harp on about;40
 harps on;40
+harps on about;40
 Harrah;40;Bill Harrah, casino magnate
 Harrah's;40;Casino chain
 Harrelson;50;Woody Harrelson, actor
@@ -97518,7 +97523,7 @@ Thanos;60
 Thant;40;U Thant, UN secretary-general
 thanto;0
 thanx;20
-Tharp;40;Choreographer Twyla Tharp
+Tharp;40;Twyla Tharp, dancer and choreographer (born 1941)
 Tharpe;40;Sister Rosetta Tharpe, rock and roll pioneer
 that;50
 that ain't so;50
@@ -102963,7 +102968,8 @@ twozerozerotwo;0
 twp;20;Township
 twps;20;Townships
 twwooeextremes;0
-Twyla;40
+Twyla;40;Twyla Tharp, dancer and choreographer (born 1941)
+Twyla Tharp;40;Dancer and choreographer (born 1941)
 TX;40
 txt;40
 txtspk;40;Legit?
