@@ -4150,6 +4150,7 @@ and Bob's your uncle;60
 andbows;0
 and co;40
 and counting;60
+and don't you forget it;60
 Andean;50;Of the Andes
 Andeans;40;People of the Andes
 Anders;40;Anders Celsius, temperature scale namesake
@@ -23183,6 +23184,7 @@ dad-blasted;60
 dad bod;60
 dad bods;60
 Daddario;50;Actress Alexandra Daddario
+Daddy Don't You Walk So Fast;50;1972 single by Wayne Newton
 daddylleeggss;0
 Daddy's Home;50
 Dade;40;Miami-Dade County
@@ -26916,11 +26918,31 @@ don't worry I can take it;60
 don't worry I'm a trained professional;60
 don't yell;60
 don't you believe it;60
+don't you believe me?;60
+don't you believe me;0
+don't you care?;60
+don't you care;0
+don't you dare do that;50
+don't you find;50
+don't you forget it;60
+don't you fret;50
+don't you fret now;50
+don't you get it?;60
+don't you get it;0
+don't you hate that?;60
+don't you hate that;0
+don't you knock?;60
+don't you knock;0
+Don't You Know What the Night Can Do?;50;1988 single by Steve Winwood
 don't you like it;60
-don't you remember;60
+don't you remember?;60
+don't you remember;0
 don't you see?;60
 don't you see;0
+don't you start;60
+don't you start with me;60
 don't you think;60
+don't you wish;60
 don't you worry;60
 donut hole;60
 donut holes;60
@@ -66903,6 +66925,7 @@ ninety-two;40
 Nineveh;30;Ancient cultural center
 nine-wood;40
 nine-woods;40
+nine X nine;0
 nine yards;40
 Ningbo;30;Historic Chinese city, population 8 million
 ninja;60
@@ -70418,6 +70441,7 @@ opts for;40
 opts to;30
 opt to;30
 Opuntia;30;Prickly pear cactus genus
+Opus 17 (Don't You Worry 'bout Me);40;1966 single by The Four Seasons
 Opus One;40
 O'Quinn;40;Terry O'Quinn, John Locke on "Lost"
 or;50
@@ -98524,6 +98548,7 @@ The Nun II;40;Eighth installment in "The Conjuring" franchise
 The Nutcracker;60
 The Nutcracker Suite;60
 The Nutty Professor;60
+then why don't you marry it;60
 Theo;50;Theo Huxtable of "The Cosby Show" / common first name
 The Oatmeal;50
 Theobald;40;Lewis Theobald, Shakespeare editor
@@ -108044,8 +108069,10 @@ why, back in my day;60
 why does it matter;60
 why does this always happen to me?;60
 why don't we start over?;60
+Why Don't You Do Right?;50;Blues song popularized by Peggy Lee
 why don't you give it a go?;60
 why don't you make like a tree and get out of here?;60
+why don't you make me;60
 why else;50
 why hast thou forsaken me?;60
 why, I'd be delighted;60
@@ -110341,6 +110368,7 @@ you idiot;60
 you interested?;60
 you jinxed it;60
 you know better;60
+You Know I Love You... Don't You?;50;1986 single by Howard Jones
 you know I'm good for it;60
 you know me;60
 you know me too well;60
