@@ -1936,6 +1936,7 @@ Agamotto;40;Eye of Agamotto, Doctor Strange's amulet
 Agana;20;Capital of Guam, archaic
 agar;40
 agar-agar;30;Thickening agent used in microbiology and food
+agar-agars;20;Thickening agents used in microbiology and food
 agaric;20
 Agario;40;Agar.io, cell-eating browser game
 agarose;30;Red algae extract
@@ -2179,6 +2180,7 @@ Ahmedabad;40;Largest city in Gujarat, India
 Ahn;20
 Ahnold;60
 ahora;40
+a horse, a horse, my kingdom for a horse!;60
 a horse of a different color;60
 a host;40
 a house divided;60
@@ -2191,6 +2193,8 @@ Ahsoka Tano;40;"Star Wars" Jedi
 ahtawaih;0
 ah that's the spot;60
 ah that's the stuff;60
+A Hubba Hubba Hubba;30;Perry Como song
+A Hubba-Hubba-Hubba (Dig You Later);40;1945 hit song by Perry Como
 a hundred pounds soaking wet;60
 Ahura;40;Ahura Mazda, Zoroastrian god
 a hush fell over the crowd;60
@@ -3490,6 +3494,8 @@ Alucard;50;Dracula backward, vampire of "Castlevania"
 aludel;20
 aluminate;30
 aluminium;60
+aluminum ingot;50
+aluminum ingots;50
 alumna;40;Female grad
 alumnal;40
 alumni list;50
@@ -4194,6 +4200,7 @@ And Just Like That;60
 andl;20
 and loan;20
 and make it snappy;60
+and much, much more;50
 and nothing but the truth;60
 andnotthawedout;0
 Ando;30;First or last name, various
@@ -4426,6 +4433,7 @@ Anguses;40;Angus cattle, pluralized
 Angus, Thongs and Perfect Snogging;40;2008 film
 anhedonia;50
 Anheuser;40;Anheuser-Busch brewer
+Anhinga anhinga;20;Species of bird
 an honest mistake;60
 An Horse;40;Australian pop and rock duo formed in 2007
 Anhui;30;Eastern Chinese province
@@ -6557,6 +6565,7 @@ aspirers;40
 aspires to;40
 aspire to;40
 aspiring to;40
+as plain as plain can be;50
 a spot of tea;50
 as pure as the driven snow;60
 asquint;40
@@ -8589,6 +8598,7 @@ Bangalore;50;Indian tech hub
 Bangalter;40;Thomas Bangalter, half of Daft Punk
 Bangarang;50;Lost Boys' cry in "Hook"
 bang away at;50
+bang bang shrimp;60
 banged away at;50
 banged into;40
 banged on;40
@@ -11348,6 +11358,8 @@ bit;50
 bit at;40
 bit cell;50
 bit cells;50
+bitch bitch;10
+bitch bitch bitch;10
 Bitches Ain't Shit;10;1992 song by Dr. Dre
 Bitdefender;40;Antivirus software maker
 bit down;50
@@ -11453,6 +11465,7 @@ Black Beauty;60
 black belt;60
 black belts;60
 blackberry;60
+Black Black Black;30;2020 song by KRS-One?
 blackboard bold;60;Typeface style used in mathematics
 blackboard eraser;50
 blackboard erasers;50
@@ -13474,6 +13487,7 @@ breezing right past;50
 Brehmsstrahlung;0
 Breitbart;10
 Breitbart News;10
+brekekekex koax koax;30;Sound of frogs in Aristophanes's "The Frogs"
 Brel;40;Jacques Brel, Belgian singer-songwriter
 Bremen;40;German city
 Bremerhaven;40;German port city
@@ -13896,6 +13910,7 @@ Brooklyn;50;New York City borough
 Brooklynese;50;Brooklyn accent
 Brooklynite;50;Brooklyn resident
 Brooklynites;50;New York borough residents
+Brooklyn Nine-Nine;60
 Brooklyn's;40;"Brooklyn's Finest," 2009 crime film
 Brookner;40;Anita Brookner, Booker-winning novelist
 broom closet;50
@@ -15229,6 +15244,7 @@ callaloos;40
 Callao;40;Peruvian port city near Lima
 Callar;30;"Morvern Callar", Lynne Ramsay film
 Callas;40;Soprano Maria Callas
+call a spade a spade;60
 call a truce;60
 call back to;40
 call bullshit;10
@@ -15238,6 +15254,7 @@ call centres;20
 call down light;60;Call with a weak hand in poker
 calle;30
 called all the shots;60
+called a spade a spade;60
 called a truce;60
 called back to;40
 called bullshit;10
@@ -15269,6 +15286,7 @@ Callie Khouri;50;Writer of "Thelma & Louise"
 calligram;50
 call in;40
 calling all the shots;60
+calling a spade a spade;60
 calling a truce;60
 calling back to;40
 calling birds;60
@@ -15325,6 +15343,7 @@ call one's bluff;60
 call out to;40
 Calloway;50;Cab Calloway, "Minnie the Moocher" bandleader
 calls all the shots;60
+calls a spade a spade;60
 calls a truce;60
 calls back to;40
 calls bullshit;10
@@ -16002,6 +16021,7 @@ Cappadocians;50;People of ancient Cappadocia
 Capra;50;Frank Capra, "It's a Wonderful Life" director
 Capra-corn;60;Capra-corn, teasing name for "It's a Wonderful Life" and such (mentioned in Wikipedia)
 Capraesque;50;Like "It's a Wonderful Life"
+Capreolus capreolus;20;Species of deer
 Capri;50;Italian island / pants style
 Capriati;40;Jennifer Capriati, tennis champion
 Caprica;40;"Battlestar Galactica" planet and its prequel series
@@ -18193,6 +18213,8 @@ Chevrolets;40;American cars
 chevron;50
 Chevy;50;Chevrolet, informally, or Chevy Chase
 Chevys;40;GM cars
+chewable tablet;50
+chewable tablets;50
 chew at;30
 Chewbacca;60
 Chewbacca defense;60
@@ -18462,6 +18484,7 @@ chinks;10
 chinks in the armor;60
 chinless;50
 chin music;60
+chinny chin chin;60
 chinook;50
 chinquapin;40;Type of oak tree
 Chinua;40;Chinua Achebe
@@ -18616,6 +18639,7 @@ chonkster;60;Fat cat
 chonksters;60;Fat cats
 Choo;40
 choo-choo;60
+Choo-Choo Charlie;50
 choo-choo train;60
 Chooglin';40;Creedence Clearwater Revival's "Keep On Chooglin'"
 Choos;40;Jimmy Choos, designer shoes
@@ -19178,6 +19202,7 @@ clamping on;30
 clamp on;40
 clamps on;40
 Clancy;50;Tom Clancy, thriller novelist / Clancy Wiggum of "The Simpsons"
+clang clang clang;40
 Clannad;40;Irish folk band, or Japanese visual novel
 Clanton;30;OK Corral gunfighter
 clap back;60
@@ -19537,6 +19562,10 @@ Clontarf;40;Dublin suburb, site of a 1014 battle
 Clooney;50
 Clooneys;40;George and Rosemary, e.g.
 clootie;30;Scottish dumpling
+clop clop;40
+clop clopped;40
+clop clopping;40
+clop clops;40
 Clorets;40;Gum/mint brand
 Cloris;40;Actress Cloris Leachman
 Clorox;50;Bleach brand
@@ -23423,6 +23452,7 @@ danas;30
 Danaus;40;Monarch butterfly genus, or the Greek myth king
 Danbury;40;Connecticut city
 Dan Castellaneta;60
+Dance, Dance, Dance (Yowsah, Yowsah, Yowsah);40;1977 single by Chic
 danced to the music;50
 danced up a storm;60
 Dance Monkey;60
@@ -25592,6 +25622,7 @@ digs one's heels in;50
 digs one's own grave;50
 digs up dirt on;50
 dig up dirt on;50
+Dig You Later (A Hubba-Hubba-Hubba);40;1945 hit song by Perry Como
 dihedral;30
 dihydrogen monoxide;60;Water, cheekily
 D-II;20
@@ -32233,6 +32264,8 @@ extends an olive branch;60
 extension ladder;50
 extension ladders;50
 extenuating circumstances;60
+extinction level event;60
+extinction level events;60
 extoller;30
 extollers;30
 extra hot;50
@@ -45938,6 +45971,7 @@ Huastec;40;Mayan people and language of Mexico
 Huasteca;40;Mexican region and its Indigenous people
 Huawei;50;Chinese tech giant
 hub;50
+hubba hubba hubba;30
 Hubbard;40;L. Ron Hubbard, Scientology founder / Mother Hubbard of the bare cupboard
 Hubble;50;Edwin Hubble, astronomer with a space telescope named for him
 Hubble's;40;Hubble's law, on cosmic expansion
@@ -107402,6 +107436,7 @@ we've been over this;60
 we've got it made;60
 we've got you surrounded;60
 Wever;30;Merritt Wever, Emmy-winning actress
+we've tried nothing and we're all out of ideas;60
 we will eat you for breakfast;60
 We Will Rock You;60
 WeWork;50;Coworking company
