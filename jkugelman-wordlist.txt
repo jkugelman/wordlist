@@ -4728,7 +4728,9 @@ anti-anti-Americanist;50
 antibark;40
 antibaryon;50
 antibaryons;50
-Antibes;20
+Antibes;30;French city
+Antibes, France;40
+Antibes France;0
 antibiotic cream;50
 antibiotic creams;50
 antibiotic resistance;60
@@ -59223,7 +59225,7 @@ Maecenas;40;Roman arts patron, hence any patron
 Mael;30;Ron Mael, Sparks keyboardist
 maenad;30;Female followers of Dionysus
 maenads;30
-Maersk;20;Danish shipping company
+Maersk;30;Danish shipping company
 Maes;30
 maestoso;40;Musical term "with majesty"
 maestri;40
@@ -108173,6 +108175,7 @@ why are you like this?;60
 why are you like this;0
 why are you this way?;60
 why, back in my day;60
+Why Can't I Be You?;50;1987 single by the Cure
 why does it matter;60
 why does this always happen to me?;60
 why don't we start over?;60
