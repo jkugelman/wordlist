@@ -20154,7 +20154,7 @@ cold shower;50
 cold showers;50
 cold snap;50
 cold snaps;50
-cold soba;40
+cold soba;50
 cold sober;50
 cold spell;50
 cold spells;50
