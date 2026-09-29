@@ -5013,12 +5013,13 @@ aphotic;40;Ocean zone where there's no light
 Aphra;30;Aphra Behn, first professional English woman writer
 Aphra Behn;40;First professional English woman writer (1640-1689)
 Aphrodite;60
-API;20
+API;30
 Apia;40;Capital of Samoa
 apiano;0
 apical;30
 Apichatpong;40;Apichatpong Weerasethakul, Palme d'Or-winning Thai director
-APIs;20;Roman bull god
+APIs;30
+Apis;20;Roman bull god
 apish;50
 AP Italian;50
 AP Japanese;50
@@ -47080,7 +47081,7 @@ I imagine so;60
 I in;20
 I insist;60
 II Peter;20
-IIRC;30;"To the best of my recollection", in a text
+IIRC;30;If I remember correctly [NYT debut]
 IIS;20
 iissllaanndd;0
 Ijames;40;James Ijames, "Fat Ham" playwright, 2022 Pulitzer winner
@@ -51397,7 +51398,7 @@ J's;40;Capital J's
 J shape;30
 J-shaped;30
 J shapes;30
-JSON;30
+JSON;40
 JSTOR;40;Journal storage, digital library of academic journals and books
 Jswipe;40;Jewish dating app
 JSYK;30;Just so you know
@@ -64570,7 +64571,7 @@ mozza;40
 mozzarella cheese;50
 MP;40
 MPA;40;Motion Picture Association, formerly MPAA
-MPAA;20;Now just MPA
+MPAA;30;Now just MPA
 MPEG;40
 MPEG file;40
 MPEG files;40
@@ -68177,7 +68178,7 @@ Nuevayol;40;Bad Bunny song
 nueve;40
 nuevo;40
 nuevo tango;60;Evolution of tango dance that began in the 1980s
-'nuff;30
+'nuff;40
 nug;30
 nugatory;30;???
 nugs;30
@@ -92795,9 +92796,11 @@ St Clair;20;Michigan city/river
 St Croix;50;U.S. Virgin Island
 St. Cyr;30;Lili St. Cyr, model and burlesque performer (1917–1999)
 St Cyr;0
-STD;40
+std;40;Standard
+STD;10;Sexually transmitted disease
 St Denis;40
-STDs;30
+stds;40;Standards
+STDs;10;Sexually transmitted diseases
 STD test;40
 STD tests;40
 ste.;40
@@ -93184,7 +93187,7 @@ stew pots;50
 STFU;10
 stg;20
 stge;20
-STI;20
+STI;10
 stick a pin in it;40
 Stickell;40;Luther Stickell, "Mission: Impossible" hacker
 stick horse;50
@@ -93338,7 +93341,7 @@ stirs up shit;10
 stir the pot;60
 stir up a hornet's nest;60
 stir up shit;10
-STIs;20
+STIs;10
 Stitcher;40;Podcast app
 stiver;20
 Stivic;30;Mike Stivic, Rob Reiner's "All in the Family" character
@@ -103234,7 +103237,7 @@ UC San Diego;50
 UCSB;30;U.C. Santa Barbara
 UCSC;40;University of California, Santa Cruz
 UCSD;40;University of California, San Diego
-UCSF;30
+UCSF;40
 Udaipur;40;Indian city of lakes
 Udall;40;Mo Udall, Arizona congressman / Mark Udall, Colorado senator
 ude;20
@@ -104280,7 +104283,7 @@ US map;30
 US maps;30
 US Marine;50
 US Marines;50
-USMC;30
+USMC;40
 USMNT;40;Men's national soccer team representing United States
 usmotoristsclub;0
 USN;20
@@ -104377,7 +104380,7 @@ UTF;20
 U Thant;20;U.N. Secretary-General 1961-1971
 Uther;40
 Uthman;40;Third caliph of Islam
-UTI;20
+UTI;10
 Utica;40;New York city
 util;40
 utile;50
@@ -104389,7 +104392,7 @@ utility belt;50
 utility belts;50
 utilizer;30
 utilizers;30
-UTIs;20;Urinary tract infections
+UTIs;10;Urinary tract infections
 Utley;40;Chase Utley
 Utnapishtim;50;Flood survivor in the "Epic of Gilgamesh"
 Utne;30;Eric who founded "the best of the alternative press" in 1984 [common]
