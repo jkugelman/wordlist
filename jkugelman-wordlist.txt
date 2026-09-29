@@ -3627,9 +3627,9 @@ Amazon;50
 Amazon ant;50
 Amazon ants;50
 Amazonas;40;Brazil's largest state
-Amazon.com;20
+Amazon.com;50
 Amazon Delta;50
-Amazon dot com;50
+Amazon dot com;40
 Amazonia;40;The Amazon rainforest region
 Amazonian;50
 Amazonians;50
@@ -4059,7 +4059,9 @@ analysand;30;Person undergoing psychoanalysis
 analysands;30
 analyse;20
 analysed;20
-analyses;20
+analyser;20
+analysers;20
+analyses;50
 analysing;20
 analysts believe;60
 Anamanaguchi;40;Chiptune band behind the "Scott Pilgrim" game score
@@ -10352,6 +10354,8 @@ Benicio;40;Benicio del Toro, actor
 benight;30;Shroud in darkness
 Benigni;40;Roberto Benigni, "Life Is Beautiful" director and star
 Benigno;40;Benigno Aquino, Philippine president
+benign tumor;40
+benign tumors;40
 Benihana;50;Japanese steakhouse chain
 Benihanas;40;Locations of the Japanese steakhouse chain
 Benin;50;West African country
@@ -13196,6 +13200,8 @@ brain power;60
 brain rot;60
 brain scans;50
 Braintree;40;Massachusetts town
+brain tumor;10
+brain tumors;10
 brainwash;60
 brainwashed;60
 brainwasher;60
@@ -13230,7 +13236,7 @@ Brandon;50;Common first name
 Brandon Sanderson;60
 Brandreth;40;Gyles Brandreth, British broadcaster and wordsmith
 brand spanking new;60
-Brandt;20;German chancellor Willy
+Brandt;40;Willy Brandt, chancellor of West Germany from 1969 to 1974
 Brandts;20
 Brandywine;40;Revolutionary War battle site, or an heirloom tomato
 Branford;40;Branford Marsalis, saxophonist
@@ -16974,7 +16980,7 @@ cavil;40;Complain
 caviled;40
 caviler;40
 caviling;40
-Cavill;20
+Cavill;40;Henry Cavill, actor
 cavilled;20
 caviller;20
 cavillers;20
@@ -17401,14 +17407,14 @@ c'est;40
 cesta;40;Jai alai basket
 cestas;40;Jai alai baskets
 cet;20
-Cetacea;30;Order of whales, dolphines, porpoises
-cetacean;20;Whale/dolphin/porpoise
+Cetacea;40;Order of whales, dolphines, porpoises
+cetacean;50;Whale/dolphin/porpoise
 Cetera;40
 cetology;40;Study of whales, dolphins, and porpoises
 Cetus;30;Whale constellation
 Ceuta;40;Spanish enclave in North Africa
 cey;20
-Ceylon;20;Sri Lanka, formerly
+Ceylon;40;Sri Lanka, formerly
 Ceylonese;40;Old term for Sri Lankan
 Cézanne;50;Paul Cézanne, post-impressionist painter
 Cezanne;0
@@ -20148,7 +20154,7 @@ cold shower;50
 cold showers;50
 cold snap;50
 cold snaps;50
-cold soba;0
+cold soba;40
 cold sober;50
 cold spell;50
 cold spells;50
@@ -25211,7 +25217,7 @@ diadems;50;Crowns
 diaereses;50
 diaeresis;50
 Diageo;40;Beverage giant behind Guinness and Smirnoff
-Diaghilev;20;Russian art critic
+Diaghilev;40;Sergei Diaghilev, Russian art critic
 Diagon;10;Harry Potter
 Diagon Alley;10;Harry Potter
 diagraph;20;Misspelling of digraph
@@ -25834,8 +25840,8 @@ Dirie;40;Waris Dirie, Somali model and anti-FGM activist
 dirigism;40;System in which a government has a lot of control over a country's economy
 dirigisme;40
 dirigiste;40
-dirndl;20
-dirndls;20
+dirndl;40;Alpine woman's dress
+dirndls;40;Alpine women's dresses
 Dirrty;40;Christina Aguilera hit
 dirs;30
 dirt and worms;60;Chocolate pudding + gummy worms
@@ -33318,6 +33324,8 @@ Fedspeak;50;Opaque Federal Reserve jargon
 fed the kitty;50
 fed to;40
 fed upon;50
+fed up to here;40
+fed up up to here;40
 Fedwire;40;Federal Reserve funds transfer system
 fee;50
 Feebles;40;"Meet the Feebles," Peter Jackson puppet film
@@ -39129,7 +39137,7 @@ go big or go home;60
 Gobind;40;Guru Gobind Singh, tenth Sikh guru
 go Birds;60;Eagles fan cry
 go blank;50
-Goblet of Fire;50
+Goblet of Fire;10;Harry Potter
 goblin mode;60
 Go Blue;50
 go blue in the face;60
@@ -40408,7 +40416,7 @@ grandfamily;60;Family where children are raised by their grandparents
 grandfather clock;50
 grand final;60
 grand finals;60
-Grandin;20;Animal rights activist Temple ___
+Grandin;30;Animal rights activist Temple Grandin
 grand jete;50;Ballet movement
 Grand Jubilee;60;Music and comedy variety show in Branson, Missouri
 Grand Jubilees;60
@@ -42928,6 +42936,7 @@ have it both ways;50
 have it good;60
 have it in for;50
 have it made;60
+have it up to here;20
 have knowledge;50
 have knowledge of;50
 Havel;50;Vaclav Havel, Czech president and playwright
@@ -43773,6 +43782,7 @@ Henriksen;40;Lance Henriksen, "Aliens" actor
 Henri Poincare;50
 Henry;50;Common given name and surname
 Henry Baskerville;50;Sherlock Holmes character
+Henry Cavill;60
 Henry Hyde;40;House rep Henry Hyde (R-IL, 1975-2007)
 Henry I;40
 Henry II;30
@@ -43894,7 +43904,8 @@ Hermeticism;50;Occult philosophical tradition
 Hermeticist;40;Follower of Hermeticism
 Hermeticists;40;Followers of Hermeticism
 Hermia;40;"A Midsummer Night's Dream" lover
-Hermione;50;Hermione Granger of "Harry Potter"
+Hermione;10;Hermione Granger of "Harry Potter"
+Hermione Granger;10;Harry Potter
 Hermitage Museum;50
 Hermitian;40;Kind of matrix, named for Charles Hermite
 Hermon;40;Mount Hermon, Levantine peak
@@ -47895,7 +47906,7 @@ inclinometers;40
 inclose;20
 inclosed;20
 incloses;20
-in closing;20
+in closing;50
 inclosure;20
 inclusivity;50
 Incogmeato;60;Meat substitute
@@ -50209,6 +50220,7 @@ Jacquards;40;Patterned woven fabrics
 Jacqueline;50;Common first name
 Jacques;50;Common French first name, as in "Frère Jacques"
 Jacques Demy;50;French New Wave film director
+Jacques Lacan;40;French psychoanalyst and writer (1901–1981)
 Jacques Lucien Monod;40;Nobel-winning biologist
 Jacques Monod;40;Nobel-winning biologist
 Jacqui;40;Diminutive of Jacqueline
@@ -54097,7 +54109,7 @@ LaBute;40;Neil LaBute, writer of "In the Company of Men"
 lab work;50
 lac;40;Fond du Lac [common]
 La Cage;40;La Cage aux Folles musical, familiarly
-Lacan;20;Psychoanalyst Jacques
+Lacan;30;Jacques Lacan, French psychoanalyst and writer (1901–1981)
 Lacanian;40;Of psychoanalyst Jacques Lacan
 Lacanianism;40;Jacques Lacan's school of psychoanalysis
 Lacanians;40;Followers of psychoanalyst Jacques Lacan
@@ -59853,6 +59865,8 @@ Malians;40;People of Mali
 Malibu;50;California beach city
 malices;30
 Malick;40;Terrence Malick, "The Tree of Life" director
+malignant tumor;10
+malignant tumors;10
 Malik;30;Zayn Malik, formerly of One Direction
 Malika;40;Malika Andrews, ESPN NBA host
 Malin;40;Malin Akerman, actress
@@ -69781,7 +69795,7 @@ one cent;50;What's printed on the penny
 one chip;30
 oneclass;0
 one color;40
-One Dance;0
+One Dance;50;2016 single by Drake
 one day at a time;60
 One Day More;60
 one day only;60
@@ -71027,7 +71041,7 @@ otter pup;50
 otter pups;50
 Ottessa;40;Ottessa Moshfegh, contemporary award-winning author
 Otto;50;Palindromic name: Otto Frank, Otto Dix, "A Man Called Otto"
-Otto Dix;20;German painter
+Otto Dix;30;German painter
 Otto Heinrich Warburg;50;German physiologist and Nobel laureate (1883–1970)
 Otto I;20;H.R.E. emperor
 Otto II;30
@@ -75177,8 +75191,8 @@ Plemons;40;Actor Jesse Plemons
 plena;20;Puerto Rican music
 plenary;40;Congressional term
 Plenty of Fish;60
-plenum;20
-plenums;20
+plenum;40
+plenums;40
 Pleshette;40;Suzanne Pleshette, "The Bob Newhart Show" actress
 Plesiosaurus;50;Long-necked marine reptile
 Plessy;40;Plessy v. Ferguson
@@ -81093,10 +81107,10 @@ retarded;10
 retarder;40
 retarders;40
 retards;10
-retarget;20
-retargeted;20
-retargeting;20
-retargets;20
+retarget;40
+retargeted;40
+retargeting;40
+retargets;40
 retarred;20
 retarring;20
 retars;20
@@ -81230,8 +81244,8 @@ Retta;30;"Parks and Rec" actress
 Retton;40;Gymnast Mary Lou Retton
 Returnal;40;PlayStation roguelike
 returned to;40
-returnee;20
-returnees;20
+returnee;30
+returnees;30
 returner;40
 returners;40
 returning to;40
@@ -83274,8 +83288,8 @@ rummiest;30;Oddest (British), or most rum-flavored
 Rummikub;50;Tile rummy game
 rumor is;50
 rumor was;50
-rumour;20
-Rumours;20
+rumour;40
+Rumours;50;Fleetwood Mac album
 Rumpelstiltskin;60
 rumply;30
 Rumpole;40;Rumpole of the Bailey, TV barrister
@@ -86555,7 +86569,8 @@ Serers;30
 serfish;40
 serge;40;Fabric
 Sergei;50;Sergei Prokofiev, composer / common Russian first name
-Sergei Diaghilev;20;Russian art critic
+Sergei Diaghilev;40;Russian art critic
+Sergei Pavlovich Diaghilev;40;Russian art critic
 Sergei Prokofiev;60
 serges;40;Fabrics
 serge suit;30
@@ -89209,6 +89224,8 @@ skinny minnies;60
 SkinnyPop;60;Lower calorie popcorn brand
 skins game;50;Type of scoring for various sports
 skins games;50
+skin tumor;10
+skin tumors;10
 skip a beat;50
 ski pass;50
 ski passes;50
@@ -91244,7 +91261,7 @@ spacesuit;50
 spacesuits;50
 space: the final frontier;60;Quotation from ''Star Trek''
 SpaceX;60
-spacey;10
+Spacey;10;Kevin Spacey, actor
 spacings;30
 spa day;60
 spa days;60
@@ -97099,6 +97116,7 @@ temp job;50
 temp jobs;50
 Templar;50;Medieval crusading knight
 Templars;50;Medieval crusading knights
+Temple Grandin;40;Academic and autism activist (born 1947)
 Temple of Artemis;60;One of the Seven Wonders of the Ancient World
 templet;20;Template: Var.
 Templeton;40;"Charlotte's Web" rat
@@ -100021,7 +100039,7 @@ timetable;50
 timetables;50
 time-tested;60
 time to go;60
-time to kill;20
+time to kill;50
 Time Traveler's Wife;50
 time vortex;60;What the Tardis travels through in "Doctor Who"
 Time Warner;50
@@ -100063,7 +100081,7 @@ Tina Fey;60
 Tina Guo;40;Chinese-American cello player (born 1985)
 Tina Marie;40;Perry Como song? Not singer Teena Marie
 Tinariwen;40;Grammy-winning Tuareg desert blues band
-Tinashe;20;Singer
+Tinashe;40;Singer
 Tina Turner;60
 Tinbergen;40;Jan and Niko Tinbergen, Nobel-winning brothers
 tinct;40;Coloring
@@ -102490,10 +102508,11 @@ tumbrils;30
 tumid;40;Swollen
 tumidity;40
 Tumnus;50;Mr. Tumnus, Narnia faun
-tumor;20
-tumor necrosis factor;20
-tumorous;20
-tumors;20
+tumor;10
+tumored;10
+tumor necrosis factor;10
+tumorous;10
+tumors;10
 Tums;50;Antacid brand
 tun;20
 tunacaughwares;0
@@ -102535,8 +102554,8 @@ Tupac;50;Tupac Shakur, rapper
 Tupelo;50;Elvis's Mississippi birthplace, or a honey tree
 tupelos;20;Black gum trees, last used 1992
 Tupi;20;Brazilian people
-tuple;20
-tuples;20
+tuple;40
+tuples;40
 Tupper;40;Earl Tupper who invented Tupperware
 Tupperware;60
 Tupperware parties;60
@@ -104021,6 +104040,8 @@ uptakes;40;Awkward plural
 up the creek;60
 up the creek without a paddle;60
 up to here;20
+up to her neck;20
+up to his neck;20
 Upton;40;Upton Sinclair, author / Kate Upton, model
 up to one's eyeballs;50
 up to one's neck;50
@@ -104377,7 +104398,7 @@ uteri;40
 utero;40
 Utes;40
 UTF;20
-U Thant;20;U.N. Secretary-General 1961-1971
+U Thant;30;U.N. Secretary-General 1961-1971
 Uther;40
 Uthman;40;Third caliph of Islam
 UTI;10
@@ -108383,6 +108404,7 @@ will they or won't they;60
 will they, won't they;60
 Willy;50;Willy Loman of "Death of a Salesman", or Free Willy
 will ya look at that;60
+Willy Brandt;40;Chancellor of West Germany from 1969 to 1974
 Willy Loman;50
 will you be quiet;60
 will you look at that;60
@@ -110761,7 +110783,8 @@ yuzu sour;40
 yuzu sours;40
 yuzu vinegar;40
 yuzu zest;40
-Yves;50;Yves Saint Laurent, fashion designer / Yves Montand, actor
+Yves;40;Yves Saint Laurent, fashion designer / Yves Montand, actor
+Yves Tumor;40;Musician and producer of experimental music
 Yvette;50;Common first name
 Yvettes;30
 Yvie;40;Drag queen Yvie Oddly
