@@ -1429,6 +1429,7 @@ adipic;20;Acid
 adiposis;40;Disease
 Adirondack;50;New York mountain range, or a lawn chair
 Adirondacks;50;New York mountain range
+a dish best served cold;60;Revenge
 Aditya;40;Aditya Chopra, Bollywood filmmaker
 adj;40
 Adjani;20;Actress Isabelle
@@ -6180,6 +6181,7 @@ arugula;50
 Arum;30;Lily genus
 arums;30
 Arunachal;40;Arunachal Pradesh, Indian state
+a runaround;20
 Arundel;40;Anne Arundel County, Maryland
 Arundhati;40
 Arundhati Roy;40
@@ -38147,6 +38149,7 @@ gets the ick;60
 gets the nod;50
 gets the party started;60
 gets there;50;Makes one's hand, in poker
+gets the runaround;60
 gets the sack;50
 gets the scoop;60
 gets the stink eye;60
@@ -38173,6 +38176,7 @@ get them out of here;60
 get the nod;50
 get the party started;60
 get there;50;Make one's hand, in poker
+get the runaround;60
 get the sack;50
 get the scoop;60
 get the stink eye;60
@@ -38296,6 +38300,7 @@ getting the ick;60
 getting the nod;50
 getting the party started;60
 getting there;50;Making one's hand, in poker
+getting the runaround;60
 getting the sack;50
 getting the scoop;60
 getting the stink eye;60
@@ -38781,6 +38786,7 @@ give up, or are you thirsty for more?;60
 give way;50
 give way to;40
 give you one guess;60
+give you the runaround;20
 give zero fucks;10
 giving a black eye;60
 giving a dirty look;60
@@ -39077,12 +39083,16 @@ Goa;30;Indian's smallest state
 go about one's business;50
 go about one's day;50
 Goade;40;Michaela Goade, Caldecott-winning illustrator
-goaded on;20
+goaded into action;50
+goaded on;40
 goaded to action;50
-goading on;20
+goading into action;50
+goading on;40
 goading to action;50
-goad on;20
-goads on;20
+goad into action;50
+goad on;40
+goads into action;50
+goads on;40
 goads to action;50
 goad to action;50
 go ahead I can take it;60
@@ -40227,6 +40237,7 @@ gotten in;40
 gotten one's hackles up;60
 gotten one's shit together;10
 gotten on in the world;60
+gotten the runaround;60
 gotten the wrong idea;60
 gotten to the bottom of;60
 Gotterdammerung;50;Götterdämmerung, Wagner's "Ring" finale
@@ -40239,6 +40250,7 @@ got the ick;60
 got the nod;50
 got the party started;60
 got there;50;Made one's hand, in poker
+got the runaround;60
 got the sack;50
 got the scoop;60
 got the stink eye;60
@@ -53080,6 +53092,7 @@ king of the forest;60
 King of Wands;60;Tarot card
 King Rat;30;Unnoteworthy old movie
 king set;40;Bedroom set
+king's gambit declined;60
 king shit;10
 king-size Butterfinger;60
 king-size Butterfingers;60
@@ -61184,6 +61197,7 @@ mayflies;50
 mayfly;50
 mayhem;50
 Mayhew;40;Peter Mayhew, who played Chewbacca
+may I be excused?;60
 may I be of help;60
 may I have a brief word?;60
 may I have a quick word?;60
@@ -78956,6 +78970,8 @@ Ranaldo;40;Lee Ranaldo, Sonic Youth guitarist
 ran a light;50
 ran along;50
 ran a mile;50;Fled: UK idiom
+ran around in circles;50
+ran around with;40
 ran a scam;50
 ran at;40
 ran a tab;50
@@ -83327,7 +83343,8 @@ run a light;50
 run along;50
 run along now;60
 run a mile;50;Flee: UK idiom
-run around in circles;20
+run around in circles;50
+run around with;40
 run as administrator;60
 run a scam;50
 run at;40
@@ -83373,6 +83390,8 @@ running a close second;60
 running a close second to;50
 running a light;50
 running a mile;50;Fleeing: UK idiom
+running around in circles;50
+running around with;40
 running a scam;50
 running at;40
 running a tab;50
@@ -83436,6 +83455,8 @@ runs a close second to;50
 runs a light;50
 runs along;50
 runs a mile;50;Flees: UK idiom
+runs around in circles;50
+runs around with;40
 runs a scam;50
 runs at;40
 runs a tab;50
@@ -98902,6 +98923,7 @@ the Royal Mint;20
 the Royal Navy;20
 the rule of thirds;60
 The Rum Diary;60;Hunter S. Thompson book
+the runaround;50
 the Russian mob;40
 the Russo brothers;60;Directing duo notable for their work on the Avengers franchise
 the sack;40
@@ -104139,6 +104161,7 @@ urge on;40
 urger;30
 urgers;30
 urges on;40
+urge to run around;20
 urging on;40
 Ur-Hamlet;50
 Uri;40
