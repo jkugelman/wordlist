@@ -1560,7 +1560,7 @@ adspeak;60
 ad spot;40
 ad spots;40
 adt;20
-Adu;30;One-time soccer phenom Freddy Adu
+Adu;30;Singer Sade (Adu) / One-time soccer phenom Freddy Adu
 Aduba;40;Actress Uzo Aduba
 a due;40;Together, in music
 adult ADHD;50
@@ -81983,6 +81983,7 @@ rip at;40
 ripe old age;60
 Riperton;40;Minnie Riperton, "Lovin' You" singer
 ripieno;30;Body of instruments accompanying the concertino in baroque concerto music
+RIP in peace;60
 rip into;40
 rip into shreds;30;Into?
 rip in two;50
