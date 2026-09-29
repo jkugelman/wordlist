@@ -12046,7 +12046,7 @@ blushful;30
 Bluth;40;Don Bluth, animator / "Arrested Development" family
 Bluths;40;"Arrested Development" family
 Bluto;50;Popeye's brawny nemesis, or the "Animal House" frat guy
-blvd;30
+blvd;40
 Bly;40;Journalist Nellie Bly
 Blyleven;40;Bert Blyleven, Hall of Fame pitcher
 B lymphocyte;40;B lymphocyte
@@ -17015,7 +17015,7 @@ CB radios;50
 CBS;50
 CBS logo;50
 CBS TV;30
-CBT;0
+CBT;30;Cognitive behavioral therapy
 CC;40
 CCC;20
 CCCI;20
@@ -31417,6 +31417,7 @@ Eternal Sunshine;60
 Eternal Sunshine of the Spotless Mind;60
 eterne;40
 Eternia;40;He-Man's home world
+étés;30;French summers
 etes;0
 etesian;30;Mediterranean wind
 e-text;30
@@ -32934,7 +32935,8 @@ Farsi;50;Persian language
 far side;60
 farsighted;60
 farsightedness;60
-fart;20;Air offensive?
+fart;10
+farted;10
 fart joke;60
 fart jokes;60
 Fartlek;50;Running workout of alternating speeds
@@ -36946,7 +36948,7 @@ gammon;20;British pork, or insult
 gammons;20;British pork, or insult
 Gamora;40;"Guardians of the Galaxy" assassin
 Gamow;40;George Gamow, Big Bang physicist
-gams;30
+gams;40
 gamuts;40;Bad plural
 Gance;40;Abel Gance, "Napoléon" director
 Gandalf;60;Wizard of "The Lord of the Rings"
@@ -39194,8 +39196,8 @@ Godzilla;60;King of the kaiju
 Godzilla x Kong;60
 Godzilla x Kong The New Empire;50
 Goeppert;40;Maria Goeppert Mayer, Nobel-winning physicist
-goer;30
-goers;30
+goer;40
+goers;40
 goes about one's business;50
 goes about one's day;50
 goes all in;50
@@ -49284,7 +49286,7 @@ Ismailism;40;Branch of Shia Islam
 is meant to be;60
 Ismene;30;Antigone's sister
 ismissing;0
-isms;30
+isms;40
 isn;20
 I snap;20
 is near;20
@@ -63739,9 +63741,10 @@ moment of weakness;60
 moment-to-moment;60
 Mommie;40;"Mommie Dearest" spelling
 Mommsen;40;Theodor Mommsen, Nobel-winning Roman historian
-momo;30;Dumpling
+momo;40;Dumpling
 Momoa;50;Jason Momoa, Aquaman
 Momofuku;50;Momofuku Ando, instant ramen inventor / David Chang's restaurants
+momos;40;Dumplings
 Momotaro;40;Japanese folktale Peach Boy
 mom, please;60
 mom said it's my turn;60
@@ -67336,7 +67339,7 @@ nomophobia;60;Fear of being without a mobile phone
 no more;60
 no more tears;60
 nomothetic;20
-noms;30
+noms;40
 noms de guerre;60
 no MSG;30
 non;40
@@ -70239,7 +70242,7 @@ ooziest;30
 oozing;50
 oozing charm;60
 oozing in;40
-oozy;30
+oozy;40
 op;40
 opa;20
 opah;30;Fish
@@ -103749,7 +103752,7 @@ unpause;50
 unpaused;50
 unpauses;50
 unpausing;50
-un-PC;30
+un-PC;40
 unpeg;30
 unpegged;30
 unpegs;30
