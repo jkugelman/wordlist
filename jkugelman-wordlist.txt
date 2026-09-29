@@ -1173,6 +1173,8 @@ action set piece;60
 action set pieces;60
 action star;50
 action stars;50
+action statement;50
+action statements;50
 Actium;20;Greek battle site
 Act IV;40
 Activa;40
@@ -2603,7 +2605,7 @@ Alateen;40;Alanon for teens
 a laugh a minute;60
 Al-Azhar;40;Egypt's oldest degree-granting university, and one of the oldest universities in the world
 Al-Azhar University;50;Egypt's oldest degree-granting university, and one of the oldest universities in the world
-alb;20;Priestly robe
+alb;30;Priestly robe
 Alba;40
 Alban;40;Alban Berg, composer
 Alban Berg;50;Twelve-tone composer of the Second Viennese School
@@ -2653,7 +2655,7 @@ Albizu;40;Pedro Albizu Campos, Puerto Rican nationalist leader
 Albom;40
 Albrecht;40;???
 Albright;50;Madeleine Albright, first female secretary of state
-albs;20;Priestly robes
+albs;30;Priestly robes
 album art;60
 album drop;60
 album drops;60
@@ -6261,7 +6263,7 @@ ASDFGHJKL;30
 as did I;50
 as different as night and day;60
 as dull as dishwater;60
--ase;20
+-ase;30
 asea;50
 ASEAN;20;Association of Southeast Asian Nations
 a seat;20
@@ -6610,6 +6612,8 @@ assibilate;40
 assibilated;40
 assibilates;40
 assibilating;40
+assignment statement;50
+assignment statements;50
 assignor;30
 assignors;30
 Assiniboine;40;Plains Indigenous nation
@@ -6770,7 +6774,7 @@ Asturian;40;Language of Asturias, in Spain
 Asturians;40;People of Asturias, Spain
 Asturias;50;Spanish region / Miguel Ángel Asturias, Nobel novelist
 Astyanax;40;Hector's doomed son in the "Iliad"
-ASU;20
+ASU;40;Arizona State University
 a summer;20
 Asuncion;40;Capital of Paraguay
 Asura;30;Demigod of Hindu and Buddhist myth
@@ -7441,7 +7445,7 @@ AutoZone;40;Auto parts chain
 Autry;40;Gene Autry, singing cowboy
 Autun;40;French town with Roman ruins
 Auvergne;40;French region
-aux;20
+aux;40
 Ava;50
 avadavat;20;Small bird
 avadavats;20
@@ -9544,7 +9548,7 @@ BCCing;40
 BCCs;40
 bcd;20
 bcde;20
-BCE;20
+BCE;40;Before the Common Era
 B cell;40
 B cells;40
 BCS;20
@@ -9559,6 +9563,7 @@ bdiiiiiiiiiiiii;0
 bds;20
 BDSM;40;Bondage, discipline, sadomasochism
 be;50
+B&E;40;Breaking and entering
 Bea;40
 Beabadoobee;50;Indie singer-songwriter
 be aboveboard;20
@@ -10539,7 +10544,8 @@ Bertuzzi;40;Todd Bertuzzi, NHL forward
 Berwick;40;Berwick-upon-Tweed, English border town
 Berzatto;40;Carmy Berzatto, chef on "The Bear"
 Berzattos;40;Family on "The Bear"
-B&ES;20
+B&E's;40;Breaking and enterings
+B&ES;0
 be sad;20
 Besame;40
 Besancon;40;Besançon, French city
@@ -16993,7 +16999,7 @@ Cayuse;40;Oregon tribe
 Cazale;40;John Cazale, Fredo in "The Godfather"
 CB;40
 CBA;20
-CBC;20
+CBC;40;Canadian Broadcasting Corporation
 CBC News;40
 CBD;40;Cannabanoid oil
 CBer;40
@@ -23290,7 +23296,7 @@ Daisy;50;Daisy Buchanan of "The Great Gatsby" / Daisy Duck
 Daisy ad;30
 Daisyworld;40;Gaia hypothesis climate model
 Daiya;40;Vegan cheese brand
-Dak;20
+Dak;40;Dak Prescott, Dallas Cowboys quarterback
 Dakar;40;Capital of Senegal
 Dakar Rally;50;???
 dakoit;20
@@ -23299,6 +23305,7 @@ Dakota;50;North or South, or Dakota Fanning
 Dakotan;50;North or South Dakota native
 Dakotans;40;North or South Dakota residents
 Dakotas;50;North and South, together
+Dak Prescott;40;Dallas Cowboys quarterback
 Daktari;30;60s TV show
 dal;40;Indian lentils
 Dalai;50;___ Lama
@@ -26223,7 +26230,7 @@ D natural scale;30
 DNC;40
 DNCE;40;Dance-rock band with Joe Jonas
 DNCs;40
-DnD;20
+DnD;40;Dungeons & Dragons
 Dnepr;20;Russian river
 DNF;40;Did not finish
 dnh;20
@@ -28292,7 +28299,7 @@ dumpster;50
 dumpster fire;60
 dumpsters;50
 Dumpty;40;Humpty's other half
-dun;20
+dun;30;Brownish-gray color
 Dunant;40;Henry Dunant, Red Cross founder and first Nobel Peace laureate
 Dunaway;50;Faye Dunaway, "Bonnie and Clyde" star
 Dunbar;40;Paul Laurence Dunbar, poet
@@ -31059,7 +31066,7 @@ Erving;40;Julius Erving, Dr. J of the NBA
 Erwin;40;Erwin Schrödinger, Erwin Rommel
 Erwin Rommel;50;German field marshal in WWII
 Erwin Schrodinger;60
--ery;20
+-ery;30
 Erykah;50;Erykah Badu, neo-soul singer
 erysipelas;30;Skin infection aka St. Anthony's fire
 erythema;30;Skin redness
@@ -31414,7 +31421,7 @@ etes;0
 etesian;30;Mediterranean wind
 e-text;30
 etgal;0
--eth;20
+-eth;30
 Ethan;50;Ethan Hawke, actor / Ethan Coen, filmmaker
 Ethan Coen;60
 ethane;50
@@ -31938,7 +31945,7 @@ e with tilde;50
 Ewok;40
 Ewokese;40;"Star Wars" Ewok language
 Ewoks;40
-EWR;20;Airport
+EWR;30;Newark airport
 ews;40
 E.W. Scripps;40
 eww;50
@@ -36403,7 +36410,7 @@ Fukuoka;40;Japanese city
 Fukushima;50;Site of a 2011 Japanese nuclear disaster
 Fukushima meltdown;50
 Fukuyama;40;Francis Fukuyama, "The End of History" author
--ful;20
+-ful;30
 Fula;20;African ethnic group
 Fulani;20;West African muslims
 Fulbright;50;Scholarship program, or Sen. J. William Fulbright
@@ -37270,6 +37277,7 @@ gave air to;40
 gave a lift;50
 gave a piece of one's mind;60
 gave a say to;40
+gave a statement;60
 gave a wide berth;60
 gave ear;40
 gave ear to;40
@@ -38382,6 +38390,7 @@ ghost towns;60
 ghoti;40
 Ghoulies;40;1985 creature-feature horror film
 GHQ;20
+GHz;40
 GI;40
 Gia;40
 Giacchino;40;Michael Giacchino, film composer
@@ -38670,6 +38679,7 @@ give air to;40
 give a lift;50
 give a piece of one's mind;60
 give a say to;40
+give a statement;60
 give a wide berth;60
 give a wrong idea;20
 give ear;40
@@ -38688,6 +38698,7 @@ give me one good reason;60
 Give Me One Reason;60
 give me some space;60
 given a say to;40
+given a statement;50
 given a wide berth;60
 Givenchy;50;French fashion house
 given the axe;60
@@ -38705,6 +38716,7 @@ gives air to;40
 gives a lift;50
 gives a piece of one's mind;60
 gives a say to;40
+gives a statement;60
 gives a wide berth;60
 gives ear;40
 gives ear to;40
@@ -38744,6 +38756,7 @@ giving air to;40
 giving a lift;50
 giving a piece of one's mind;60
 giving a say to;40
+giving a statement;60
 giving a wide berth;60
 giving ear;40
 giving ear to;40
@@ -44076,7 +44089,7 @@ HHH;40;Triple H, former American professional wrestler
 H hinge;40
 H hinges;40
 H-hour;40
-HHS;20
+HHS;40;Department of Health and Human Services
 hi;50
 Hiaasen;40;Journalist/novelist Carl Hiaasen
 Hialeah;40;Florida city
@@ -44570,7 +44583,7 @@ Hoagy;50;Hoagy Carmichael, "Stardust" composer
 Hoang;40;Helen Hoang, romance novelist
 hoar;40
 HOAs;40;Homeowners associations
-hob;20
+hob;40
 Hoban;30;Russell Hoban, author of "Riddley Walker"
 Hobart;40;Capital of Tasmania
 Hobbema;20;Dutch painter
@@ -45891,7 +45904,8 @@ Huck Finn;50
 huckster;60
 huckstered;60
 hucksters;60
-Hud;20
+Hud;40;Paul Newman title role
+HUD;40;Department of Housing and Urban Development / Heads-up display
 Huda;40;Huda Kattan, founder of Huda Beauty
 Huddersfield;40;West Yorkshire town
 huddler;40
@@ -45902,6 +45916,7 @@ Hudibras;40;"Hudibras," Samuel Butler satire
 Hudibrastic;40;Mock-heroic verse style
 Hudibrastics;40;Mock-heroic couplets in the style of "Hudibras"
 Hudlin;40;Reginald Hudlin, "House Party" director
+HUDs;20;Heads-up displays
 Hudson;50;New York river / Kate Hudson, actor
 Hudson's;40;Hudson's Bay Company, Canadian retailer
 Hudsucker;50;"The Hudsucker Proxy," Coen brothers film
@@ -46633,7 +46648,7 @@ ID chip;40
 ID chips;40
 I'd Do Anything for Love (But I Won't Do That);60;1993 single by Meat Loaf
 I'd do anything for love but I won't do that;0
--ide;20
+-ide;30
 idea;50
 ideal gas;50
 ideal gas law;50
@@ -46901,12 +46916,16 @@ iftar;40;Ramadan meal
 if that's all right with you;60
 if that's alright with you;60
 if that's OK with you;60
+if-then-else statement;50
+if-then-else statements;50
+if-then statement;50
+if-then statements;50
 ifthis;0
 if truth be told;60
 if wishes were horses, beggars would ride;60
 if wishes were horses beggars would ride;0
 if worst comes to worst;60
--ify;20
+-ify;30
 if you can't stand the heat;60
 if you can't stand the heat get out of the kitchen;60
 if you don't mind me saying;60
@@ -48469,6 +48488,8 @@ Instapoet;40;Rupi Kaur, e.g.
 Instapoetry;50;Verse written for social media
 Instapoets;40;Poets who publish on Instagram
 instar;20
+instatement;50
+instatements;50
 Instax;40;Fujifilm instant camera line
 in stealth mode;60
 instil;20;Instill: Br.
@@ -49548,7 +49569,7 @@ it cracks me up;60
 it'd;50
 it doesn't add up;60
 it'd really help me out;60
--ite;20
+-ite;30
 item;50
 item one;50
 items;50
@@ -49890,7 +49911,7 @@ Itza;40
 Itzhak;40;Itzhak Perlman, violinist
 IUD;40
 IUDs;40
--ium;20
+-ium;30
 IUPAC;20;International Union of Pure and Applied Chemistry
 IUPAC name;30
 IUPAC names;30
@@ -52813,7 +52834,7 @@ Khufu;40;Pharaoh who commissioned the Great Pyramid of Giza
 Khusrau;30;Amir Khusrau, Indian poet, writer, singer and scholar (1253–1325)
 Khuzestan;40;Oil-rich Iranian province
 Khyber;40
-kHz;20
+kHz;40
 Kia;50
 kia ora;40;Māori-language greeting
 Kias;40;Korean cars
@@ -53266,7 +53287,7 @@ Klink;40;Colonel Klink, "Hogan's Heroes" commandant
 Klint;40;Hilma af Klint, abstract art pioneer
 Klippenstein;40;Ken Klippenstein, investigative journalist
 Klitschko;50;Vitali Klitschko, boxer and Kyiv mayor, or brother Wladimir
-KLM;20
+KLM;30;National airline of the Netherlands
 KLM flight;20
 KLM flights;20
 KLMN;20
@@ -63385,6 +63406,7 @@ MLX;20
 MLXI;20
 MLXV;20
 MLXX;20
+M&M;50
 mm;40
 MMA;40
 MMA fight;60
@@ -63446,7 +63468,7 @@ Mmm Mmm Mmm Mmm;40
 MMORPG;40
 MMORPGs;40
 MMR;40
-M&M's;30
+M&M's;50
 Mmuseumm;30;Tiny Manhattan museum in a freight elevator shaft
 MMV;20
 MMVI;20
@@ -68419,7 +68441,8 @@ NY Giants;60
 NYK;20
 Nykvist;40;Sven Nykvist, Ingmar Bergman's cinematographer
 Nylund;30;Never-used last name
--nym;20
+-nym;40
+NYM;40;New York Mets, on a scoreboard
 Nyman;40;Michael Nyman, "The Piano" composer
 NY Met;40
 NY Mets;40
@@ -70832,7 +70855,7 @@ osculations;20;Kisses, humorously
 oscule;30;Sponge's opening
 oscules;30;Sponge's openings
 osculum;30;Sea sponge's opening
--ose;20
+-ose;30
 Oseman;40;Alice Oseman, "Heartstopper" creator
 Osgood;40;Charles Osgood, host of "CBS News Sunday Morning" from 1994-2016
 Osh;30;OshKosh B'gosh
@@ -72661,7 +72684,8 @@ Pat Toomey;40;Pennsylvania senator Pat Toomey (2011-2023)
 Patty Hearst;60
 pattypan;40
 pattypans;40
-Pau;20
+Pau;30;Pau Gasol, Spanish basketball player (born 1980)
+Pau Gasol;40;Spanish basketball player (born 1980)
 Paul;50;Common first name, or the apostle
 Paula;50;Common first name: Paula Abdul, Paula Cole
 Paul Atreides;50
@@ -72966,8 +72990,8 @@ peanut galleries;50
 peanut gallery;60
 peanut M and M;40
 peanut M and Ms;40
-peanut M&M;40
-peanut M&Ms;40
+peanut M&M;60
+peanut M&Ms;60
 peanut oils;40;Bad plural???
 peanut sauce;60
 peanut sauces;50
@@ -76048,6 +76072,10 @@ posing as;40
 posing for;40
 posing naked;60
 posing nude;60
+positioning statement;50
+positioning statements;50
+position statement;60
+position statements;60
 positive change;50
 positive effect;50
 Posner;40;Richard Posner, judge / Mike Posner, singer
@@ -76504,6 +76532,8 @@ Prentice;40;Apprentice
 prenticed;40
 prentices;40
 prenticing;40
+prepared statement;60
+prepared statements;60
 prepare presents;20
 Prepon;40;Laura Prepon, "That '70s Show" actress
 prepose;40;Linguistics word
@@ -76995,6 +77025,8 @@ professional golfers;50
 professional murderer;20
 professor;50
 professors;50
+profit and loss statement;60
+profit and loss statements;60
 profit centre;20
 profit centres;20
 pro forma;50
@@ -77951,6 +77983,7 @@ Pythonesque;50;In the manner of Monty Python
 Pythonic;50;In the style of Monty Python, or of Python code
 pyx;20
 Q;40
+Q&A;50
 Qaeda;10
 Q and A;30
 Q and A period;30
@@ -77961,7 +77994,7 @@ Q and A sessions;30
 Q and Z;30
 QAnon;60
 Qantas;50;Australian airline
-Q&As;20
+Q&A's;50
 Qashqai;40;Nissan SUV, or an Iranian ethnic group
 Qashqais;40;Nissan models, or the Iranian ethnic group
 qat;30
@@ -82065,7 +82098,7 @@ RNCs;30;Republican National Committees, in brief
 rnd;20
 rnh;20
 rnr;20
-RNs;20
+RNs;40
 Ro;40;Ro Khanna, California congressman
 roach;50
 roached;40
@@ -89934,7 +89967,7 @@ S'mOREOs;40;S'mores-flavored Oreos
 smorgasbord;60
 smorgasbords;60
 Smosh;40;YouTube comedy channel
-SMS;30
+SMS;40
 smslkldtms;0
 SMTWTFS;30
 SMU;40;Southern Methodist University
@@ -103133,7 +103166,7 @@ UAP;20;Unidentified anomalous phenomenon
 UAPs;20
 UAR;20
 UArizona;40
-UAW;20
+UAW;40;United Auto Workers
 Ub;40;Ub Iwerks, Disney animator who drew Mickey Mouse
 U-Bahn;40;German subway
 Ubangi;30;River in Congo
@@ -109307,7 +109340,7 @@ WSU;20
 WSW;30
 WTA;40;Women's Tennis Association
 WTF;40
-WTO;20
+WTO;40;World Trade Organization
 wts;20
 Wu;40;Constance Wu, actress / Empress Wu, Tang ruler
 wug;20
@@ -111148,7 +111181,7 @@ zlotys;40
 Zmed;40;Adrian Zmed, "T.J. Hooker" actor
 Zn;30
 Zo;40;Alonzo Mourning, NBA center nicknamed Zo
--zoa;20
+-zoa;30
 Zoboi;40;Ibi Zoboi, Haitian-American YA novelist
 Zoboomafoo;50;PBS Kids show with a talking lemur
 Zobrist;40;Ben Zobrist, World Series MVP
