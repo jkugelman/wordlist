@@ -19,21 +19,29 @@
 10 lords a-leaping;60
 10pm;40
 10th;40
+10th Doctor;20
+10th gen;20
 10th-gen console;40
 10th-gen consoles;40
 10th generation;20
 10th-generation console;40
 10th-generation consoles;40
 10 Things I Hate About You;60;1999 Julia Stiles / Heath Ledger movie
+10 to 2;20
 10-year-old;40
 10-year-olds;40
 11/22/63;60;2011 novel by Stephen King
 11am;40
 11 pipers piping;60
 11pm;40
+11th;40
+11th Doctor;20
 11-year-old;40
 11-year-olds;40
 120 Days of Sodom;50;Unfinished 1785 erotic novel by the Marquis de Sade, with "The"
+123;40
+1, 2, 3, 4 (Sumpin' New);50;1996 single by Coolio
+1, 2, 3 Red Light;40;1910 song by Sal Trimachi and Bobbi Trimachi
 12am;50
 12 Angry Men;60;American legal drama film by Sidney Lumet
 12-bar blues;60
@@ -43,22 +51,27 @@
 12-step;50
 12-step program;60
 12-step programs;60
+12th;40
+12th Doctor;20
 12-year-old;40
 12-year-olds;40
 12 Years a Slave;60;1853 memoir by Solomon Northup
 13 Going on 30;20;2004 Jennifer Garner romcom
+13th;40
 13-year-old;40
 13-year-olds;40
+14th;40
 14-year-old;40
 14-year-olds;40
 15 minutes;50
 15 minutes of fame;60;What Andy Warhol said everyone will have, one day
+15th;40
 15-year-old;40
 15-year-olds;40
 16:9;50;Aspect ratio for TV and computer monitors
 16:9 aspect ratio;60
 16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
-16 Candles;20;Spelled out is the norm
+16 Candles;40;Spelled out is the norm
 16-year-old;40
 16-year-olds;40
 17-year-old;40
@@ -71,13 +84,14 @@
 18-wheelers;60;Semi-trailer trucks
 18-year-old;40
 18-year-olds;40
+18 Yellow Roses;40;1963 studio album by Bobby Darin
 1-900 number;60
 1-900 numbers;60
 1910fruitgumco;0
-1910 Fruitgum Company;50;Bubblegum pop band of the 1960s
+1910 Fruitgum Company;40;Bubblegum pop band of the 1960s
 1979;50;Smashing Pumpkins song
 1984;60;George Orwell novel
-1999;40
+1999;50;Prince song
 19-year-old;40
 19-year-olds;40
 1am;40
@@ -88,10 +102,15 @@
 #1 seed;50
 #1 seeds;50
 1st;50
+1st Doctor;20
+1st gear;50
+1st gen;20
 1st-gen console;40
 1st-gen consoles;40
+1st generation;20
 1st-generation console;50
 1st-generation consoles;50
+1st of tha Month;40;1995 single by Bone Thugs-n-Harmony
 1-up;50;Extra life in video games
 1-ups;50;Extra lives in video games
 1v1;50
@@ -101,6 +120,7 @@
 1-woods;30;Nobody says this
 1-year-old;40
 1-year-olds;40
+200 Cigarettes;40;1999 film by Risa Bramon Garcia
 20/20;50
 20/20 eyesight;60
 20/20 vision;60
