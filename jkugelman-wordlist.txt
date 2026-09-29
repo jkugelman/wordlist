@@ -108237,6 +108237,7 @@ widgeon;20;Type of duck
 widgeons;20
 Widmark;40;Richard Widmark, film noir star
 Widor;40;Charles-Marie Widor, French organ composer
+Widow's Bay;60;2026 comedy horror Apple TV series
 Wie;40;Golfer Michelle Wie
 Wiedersehen;50;Auf ___ (German goodbye)
 Wiedlin;40;Jane Wiedlin, Go-Go's guitarist
