@@ -26097,7 +26097,23 @@ divide and conquer;60
 dividend check;50
 dividend checks;50
 Divina;40;Divina Commedia, Dante's epic / La Divina, Maria Callas
+divine being;60
+divine beings;60
+divine decree;50
+divine decrees;50
+divine healer;50
+divine healers;50
+divine inspiration;60
+divine justice;60
+divine messenger;60
+divine messengers;60
+Divine Miss M;50;Nickname for Bette Midler
 divine providence;60
+divine revelation;60
+divine right;60
+divine right of kings;60
+divine rule;50
+Divine Secrets of the Ya-Ya Sisterhood;60;1996 novel by Rebecca Wells
 diving into;40
 diving mask;50
 diving masks;50
@@ -35686,6 +35702,7 @@ Francaise;40;Académie Française, French language authority
 France;50;European country
 Frances;50;Common first name
 Francesca;50;Francesca da Rimini, Dante's doomed lover / common Italian name
+Francesca da Rimini;40;Italian noblewoman portrayed in the Divine Comedy
 Francesco;40;Italian form of Francis
 Franche;40;Franche-Comté, French region
 franchise player;50
@@ -81829,7 +81846,9 @@ Rimes;40
 rimier;30
 rimiest;30
 riming;20;Covering with hoarfrost
-Rimini;20;Italian city
+Rimini;30;Italian city
+Rimini, Italy;40
+Rimini Italy;0
 rimless;40
 rimose;20;Full of crevices, like a mushroom
 rim shot;60
@@ -100462,6 +100481,8 @@ toe-poked;30;Australian soccer technique
 toe-pokes;30;Australian soccer technique
 toe punt;30;Australian soccer technique
 toe punts;30;Australian soccer technique
+to err is human, to forgive, divine;60
+to err is human to forgive divine;0
 toesin;30
 toes the party line;60
 toe-tapper;60
