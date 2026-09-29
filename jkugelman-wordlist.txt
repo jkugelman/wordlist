@@ -28896,7 +28896,9 @@ eavesreader;60
 eavesreaders;60
 eavesreading;60
 eavesreads;60
-Eazy;30
+Eazy;40
+Eazy-Duz-It;40
+Eazy-E;40
 Ebadi;40;Shirin Ebadi, Iranian Nobel Peace laureate
 Eban;20;Abba Eban, Israeli politician
 ebate;20
@@ -29449,8 +29451,8 @@ Ehrenburg;40;Ilya Ehrenburg, Soviet writer
 Ehrlich;40;Paul Ehrlich, author of "The Population Bomb"
 Ehrmantraut;50;Mike Ehrmantraut from "Breaking Bad" / "Better Caul Saul"
 ehs;30
-Ehud;30;Israeli statesman
-Ehud Barak;50
+Ehud;30;Ehud Barak, Prime Minister of Israel from 1999 to 2001
+Ehud Barak;40;Prime Minister of Israel from 1999 to 2001
 Ehud Olmert;40;Israeli PM 2006-09
 Eichner;40;Billy Eichner, comedian
 Eid;50
@@ -34097,7 +34099,7 @@ fior di latte;40;Style of mozzarella or gelato with no added flavor
 Fiorello;40;Fiorello La Guardia, NYC mayor
 Fiorentino;40;Linda Fiorentino, "The Last Seduction" star
 Fiorina;40;Carly Fiorina, HP CEO and presidential candidate
-Fios;30
+Fios;40;Verizon fiber optic Internet service
 fir;50
 Firbank;30;Ronald Firbank, English modernist novelist (1886–1926)
 fire alarm;60
@@ -37407,6 +37409,7 @@ gear train;50
 gear trains;50
 Geary;40
 Geaux;40;LSU cheer, as in "Geaux Tigers"
+G-Eazy;40
 Gebrselassie;50;Haile Gebrselassie, Ethiopian distance running great
 Gebru;40;Timnit Gebru, AI ethics researcher
 Gecs;30;100 gecs, hyperpop duo
@@ -43827,7 +43830,7 @@ herb stuffing;60
 herb tea;40;Herbal tea is more common
 herb teas;40
 herby;40
-Herc;20;"The Wire" character is the best result...
+Herc;40
 Hercule;40;Hercule Poirot, Agatha Christie's Belgian detective
 Herculean;50;Requiring enormous strength
 Hercules;50
@@ -67223,7 +67226,7 @@ nodulose;40;Having minute nodules, knobby
 Noe;20
 no ear;30
 Noelle;40;Clued twice as "festive-sounding girl's name"
-Noem;20;South Dakota governor Kristi Noem
+Noem;40;Kristi Noem, former Secretary of Homeland Security
 Noemie;40;Noémie Merlant, French actress
 no end;40
 no entrance;50
@@ -70262,8 +70265,8 @@ OPEC;40
 op-ed page;50
 op-ed piece;60
 op-ed pieces;60
-Opel;30;European auto brand [common]
-Opels;30
+Opel;40;European auto brand [common]
+Opels;40
 OpenAI;60
 open-air stadiums;50
 open-air street market;60
@@ -73463,7 +73466,7 @@ peritonitis;40;Symptom of a burst appendix
 periwig;50;Powdered wig
 periwigs;50
 Perkins;40;Anthony Perkins, "Psycho" star / Carl Perkins, rockabilly pioneer
-Perl;30
+Perl;40
 Perle;40;Perle Mesta, Washington hostess with the mostest
 perles;20
 Perlman;50;Itzhak Perlman, violinist / Rhea Perlman, actress
@@ -79383,7 +79386,8 @@ razor's edge;60
 razor-thin;60
 razor-thin margin;60
 razor-thin margins;60
-Razr;30
+Razr;40
+Razrs;40
 Razumovsky;40;Beethoven's Razumovsky Quartets
 razz;60
 razzed;60
@@ -92733,7 +92737,7 @@ staven in;20;Crushed
 staves in;40;Crushes
 staving in;40;Crushing
 Stavros;40;Greek given name, as in shipping magnate Stavros Niarchos
-Stax;30
+Stax;40;Classic R&B record label
 stay ahead of the curve;60
 stay at;40
 stay connected;50
@@ -101413,7 +101417,7 @@ traduces;30
 traducing;30
 tradwife;60
 tradwives;60
-Trae;30;Four-time NBA All-Star Trae Young
+Trae;40;Four-time NBA All-Star Trae Young
 Traeger;40;Grill brand, or Chris Traeger of "Parks and Recreation"
 Trafalgar;50;London square and Nelson's battle
 traffic circle;60
@@ -111331,7 +111335,7 @@ Zuma;40;Jacob Zuma, South African president
 Zumba;50;Dance fitness program
 Zumbo;40;Adriano Zumbo, Australian pastry chef
 Zumiez;40;Skate apparel chain
-Zune;30
+Zune;40
 Zunes;40;Microsoft MP3 players
 Zuni;30;New Mexico tribe
 Zuniga;40;Daphne Zuniga, "Melrose Place" actor
