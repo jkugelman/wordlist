@@ -32873,6 +32873,10 @@ Falun;40;Falun Gong, Chinese spiritual movement
 fam;40
 Famagusta;40;Cypriot port city
 familia;40
+familiar figure;50
+familiar figures;50
+familiarity breeds contempt;60
+familiar with;40
 family crest;50
 family crests;50
 family friend;60
@@ -33142,8 +33146,8 @@ fate will find a way;50
 fat farm;40
 fat farms;40
 Fatha;30;Jazz nickname
-father figure;50
-father figures;50
+father figure;60
+father figures;60
 father-in-law;50
 Father of Asahd;50;2019 studio album by DJ Khaled
 father of geometry;50
@@ -33936,14 +33940,34 @@ figment of one's imagination;50
 figments of one's imagination;50
 Figueroa;40;Los Angeles street, or a common Spanish surname
 figural;30
+figured in;40
 figured it out;50
-figure eight;50
-figure eights;50
+figured out how;50
+figured out why;50
+figure drawing;60
+figure drawings;60
+figured things out;50
+figure eight;60
+figure eights;60
+figure-ground illusion;60
+figure-ground illusions;60
+figure in;40
 figure it out;60
+figure out how;50
+figure out why;50
+figures in;40
 figures it out;50
+figures out how;50
+figures out why;50
+figures things out;50
 figure studies;60
 figure study;60
+figure things out;50
+figuring in;40
 figuring it out;50
+figuring out how;50
+figuring out why;50
+figuring things out;50
 Figwit;40;Fan nickname for Bret McKenzie's elf extra in "The Lord of the Rings"
 Fiji;50;Pacific island nation
 Fijian;50;From the South Pacific island nation
@@ -49327,6 +49351,7 @@ Isère;30;French river and department
 Isere;0
 Iseult;20;Isolde
 Isfahan;40;Iranian city of blue mosques
+is familiar with;30
 ish;40
 I shall not want;60
 I shall play you the song of my people;60
@@ -70145,6 +70170,7 @@ one-wood;30;Nobody says this
 one-woods;30;Nobody says this
 one yard;40
 one year;40
+on familiar ground;60
 on feed;40
 on first;40
 Ong;20;Walter J. Ong, Jesuit priest and historian (1912–2003)
@@ -106457,6 +106483,7 @@ was at;40;Attended
 Wasatch;40;Utah mountain range
 was born;20
 was due to;20
+was familiar with;30
 Washburn;40;Guitar maker, or Washburn University in Topeka
 Washburne;40;Hoban Washburne, "Firefly" pilot
 wash day;50
