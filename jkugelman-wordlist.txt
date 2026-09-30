@@ -27497,11 +27497,13 @@ drag brunches;60
 dragged behind;40
 dragged in;40
 dragged into;40
+dragged on;40
 dragged one's feet;50
 dragged one's heels;50
 dragging behind;40
 dragging in;40
 dragging into;40
+dragging on;40
 dragging one's feet;50
 dragging one's heels;50
 draggy;40
@@ -27515,6 +27517,8 @@ drag mother;60;Seasoned, experienced drag queen
 drag mothers;60;Seasoned, experienced drag queens
 dragnet;50
 Drago;40;Ivan Drago from "Rocky IV"
+dragon;50
+drag on;40
 Dragonborn;50;Skyrim hero, or a D&D race
 dragon carp;50
 Dragon Con;50
@@ -27542,6 +27546,7 @@ drag show;60
 drag shows;60
 drags in;40
 drags into;40
+drags on;40
 drags one's feet;50
 drags one's heels;50
 DRAG-U-LA;40;Car in the television show "The Munsters"
@@ -30552,8 +30557,12 @@ enjoy responsibly;60
 Enkidu;20
 enl;20
 Enlai;30
+enlarged on;40
+enlarge on;40
 enlarger;40
 enlargers;40
+enlarges on;40
+enlarging on;40
 enlighten me;60
 enlisted in;40
 enlister;40
@@ -32282,6 +32291,10 @@ exposing to;40
 expositor;30
 expositors;30
 expostulation;30;???
+expounded on;40
+expounding on;40
+expound on;40
+expounds on;40
 ex-POW;20
 expressed regret;50
 expresses regret;50
@@ -33942,6 +33955,7 @@ Figueroa;40;Los Angeles street, or a common Spanish surname
 figural;30
 figured in;40
 figured it out;50
+figured on;40
 figured out how;50
 figured out why;50
 figure drawing;60
@@ -33953,10 +33967,12 @@ figure-ground illusion;60
 figure-ground illusions;60
 figure in;40
 figure it out;60
+figure on;40
 figure out how;50
 figure out why;50
 figures in;40
 figures it out;50
+figures on;40
 figures out how;50
 figures out why;50
 figures things out;50
@@ -33965,6 +33981,7 @@ figure study;60
 figure things out;50
 figuring in;40
 figuring it out;50
+figuring on;40
 figuring out how;50
 figuring out why;50
 figuring things out;50
@@ -34572,6 +34589,10 @@ five-wood;50
 five-woods;50
 Five W's;50
 fix;50
+fixated on;40
+fixate on;40
+fixates on;40
+fixating on;40
 fixe;40
 fixes on;50
 fixes up;50
@@ -35408,6 +35429,7 @@ forborne;40
 Force Awakens;60
 forced from;40
 forced in;40
+forced on;40
 force feedback;60
 force field;60
 force fields;60
@@ -35419,16 +35441,19 @@ ForceFlexPlus;50;Glad trash bag brand
 force from;40
 force in;40
 force of will;60
+force on;40
 force quit;50
 force quits;50
 forcer;50
 forcers;50
 forces from;40
 forces in;40
+forces on;40
 Forché;40;Carolyn Forché, poet
 Forche;0
 forcing from;40
 forcing in;40
+forcing on;40
 for crying out loud;60
 Ford Bronco;50
 Ford Broncos;50
@@ -39410,6 +39435,7 @@ goes offline;50
 goes off without a hitch;60
 goes OK;50
 goes okay;50
+goes on;40
 goes on a date;60
 goes on a diet;60
 goes on a jag;50
@@ -39574,6 +39600,7 @@ going obsolete;50
 going off kilter;50
 going offline;50
 going off without a hitch;60
+going on;40
 going on a date;60
 going on a diet;60
 going on a jag;50
@@ -42404,7 +42431,7 @@ hanging around with;40
 hanging a Uie;30
 hanging in;40
 hanging in the air;60
-hanging on;40
+hanging on;50
 hanging on by a thread;60
 hanging one's hat;50
 hanging one's hat up;60
@@ -42440,7 +42467,7 @@ hangs around with;40
 hangs a Uie;30
 hangs in;40
 hangs in the air;60
-hangs on;40
+hangs on;50
 hangs on by a thread;60
 hangs one's hat;50
 hangs one's hat up;60
@@ -44503,6 +44530,7 @@ hinged on;40
 hingeing on;40
 hinge on;40
 hinges on;40
+hinging on;40
 Hingis;50;Martina Hingis, tennis great
 Hinglish;50;Hindi-English blend
 hinny;30;Horse/mule hybrid
@@ -46214,7 +46242,7 @@ hung in;40
 hung in the air;60
 hung juries;50
 hung jury;50
-hung on;40
+hung on;50
 hung on by a thread;60
 hung one's hat;50
 hung one's hat up;60
@@ -47791,10 +47819,18 @@ imprecates;30
 imprecating;30
 imprecation;30
 imprecations;30
+impressed on;40
+impresses on;40
+impressing on;40
+impress on;40
 imprest;30
 imprests;30
 Impreza;40;Subaru model
 Imprezas;40;Subaru models
+imprinted on;40
+imprinting on;40
+imprint on;40
+imprints on;40
 I'm probably dating myself;60
 I'm probably dating myself but;60
 improbity;30
@@ -48300,6 +48336,10 @@ in fits and starts;60
 infix;50
 in flagrante;60
 in flagrante delicto;60
+inflicted on;40
+inflicting on;40
+inflict on;40
+inflicts on;40
 in-flight entertainment;60
 influencer;60
 influencers;60
@@ -48350,6 +48390,10 @@ InfoSec;40;Information security
 infra-;40
 infrared spectrum;50
 in free fall;60
+infringed on;40
+infringe on;40
+infringes on;40
+infringing on;40
 in full force;60
 -ing;40
 Inga;30;Swenson of "Benson"
@@ -53549,13 +53593,16 @@ knocked for a loop;60
 knocked in;40
 knocked it out of the park;60
 knocked off early;60
+knocked on;40
 knock for a loop;60
 Knockin';40
 knocking for a loop;60
 knocking it out of the park;60
 knocking off early;60
+knocking on;40
 knock it out of the park;60
 knock off early;60
+knock on;40
 knockout;60
 knockout punch;60
 knockout punches;60
@@ -53566,6 +53613,7 @@ knocks for a loop;60
 knocks in;40
 knocks it out of the park;60
 knocks off early;60
+knocks on;40
 knock yourself out;60
 Knope;40;Leslie Knope, "Parks and Recreation" heroine
 Knopf;40;Publishing company Alfred A. Knopf
@@ -107347,6 +107395,7 @@ went obsolete;50
 went off-kilter;50
 went offline;50
 went off without a hitch;60
+went on;40
 went on a date;60
 went on a diet;60
 went on a jag;50
