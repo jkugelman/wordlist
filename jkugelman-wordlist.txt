@@ -39074,6 +39074,8 @@ GMAT;40
 GMAT prep book;40
 GMAT prep books;40
 GMATs;40
+GMAT score;40
+GMAT scores;40
 GMC;40
 GMC Envoy;50
 GMCs;40
@@ -39717,6 +39719,8 @@ golf majors;60
 golf pants;50
 golf pro;60
 golf pros;60
+golf score;40
+golf scores;40
 golf shirt;60
 golf shirts;60
 golf shoes;60
@@ -39902,6 +39906,8 @@ good rep;50
 Goodrich;40;BF Goodrich, tire maker
 Good Sams;50;???
 good save;60
+good score;40
+good scores;40
 good shot;50
 good show;60
 good sport;50
@@ -40857,6 +40863,8 @@ Grenoble;40;French Alpine city
 Grenville;40;George Grenville, British PM behind the Stamp Act
 GRE prep book;50
 GREs;40
+GRE score;40
+GRE scores;40
 Gresham;40;Gresham's law, on bad money driving out good
 Gresham's;40;Gresham's law, bad money drives out good
 Greta;50;Greta Garbo, actress / Greta Gerwig, director
@@ -41845,6 +41853,7 @@ had a rough go;50
 had a rough go of it;60
 had around;50
 had a row;30
+had a score to settle;60
 had a shot at;40
 had a sip;50
 had ass;20
@@ -42764,6 +42773,7 @@ has a rough go;50
 has a rough go of it;60
 has around;50
 has a row;30
+has a score to settle;60
 has a shot at;40
 has a sip;50
 has at;40;Attacks, dives into
@@ -42996,6 +43006,7 @@ have a rough go;50
 have a rough go of it;60
 have around;50
 have a row;30
+have a score to settle;60
 have a shot at;40
 have a sip;50
 have a temper;50
@@ -43089,6 +43100,7 @@ having a rough go;50
 having a rough go of it;60
 having around;50
 having a row;30
+having a score to settle;60
 having a shot at;40
 having a sip;50
 having a temper;50
@@ -44365,6 +44377,8 @@ Hightower;40;Wayne Hightower, NBA forward / "Police Academy" cadet
 high traffic;50
 highway hypnosis;60
 Highwomen;40;Country supergroup with Brandi Carlile
+high word score;50
+high word scores;50
 hi-ho;40
 hi hon;50
 hi honey I'm home;60
