@@ -2834,6 +2834,13 @@ Alexandria Egypt;20
 Alexandrian;50;Of Alexandria, Egypt
 Alexandrians;40;Residents of Alexandria
 Alexandrina;40;Alexandrina Victoria, Queen Victoria's full name
+Alex Colville;40
+Alex Comfort;40
+Alex Consani;40
+Alex Cooper;40
+Alex Cora;40
+Alex Cord;40;Actor on "Airwolf" (1984-86)
+Alex Cox;40
 Alex Cross;50;James Patterson character
 Alexei;40;Alexei Navalny, Russian dissident
 Alexey;40;Alexey Pajitnov, creator of Tetris
