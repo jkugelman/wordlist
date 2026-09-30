@@ -41841,6 +41841,7 @@ habanero;60
 habanero pepper;60
 habanero peppers;60
 habaneros;60
+habeas corpus;60
 Haber;40;Fritz Haber, chemist behind the Haber process
 habergeon;30;Medieval coat of mail
 habergeons;30
@@ -43926,6 +43927,7 @@ hen dos;40
 Hendricks;40;Christina Hendricks, "Mad Men" actress
 Hendrickson;40;Sue Hendrickson, finder of Sue the T. rex
 Hendrix;50;Jimi Hendrix, guitar legend
+Hendrix chord;60;Dominant 7♯9
 Hendryx;40;Nona Hendryx, singer of Labelle
 henfruit;60;Eggs
 henhouse;50
@@ -44397,6 +44399,7 @@ high fade;50;Haircut
 high fades;50
 high fantasy;60
 high fashion;60
+high-fructose corn syrup;60
 Highgate;40;London district with a famous cemetery
 high honor;50
 high horse;60
@@ -51144,6 +51147,7 @@ Jim Davis;50
 Jimenez;40;Juan Ramon Jimenez, Nobel-winning poet
 Jim Hopper;50;"Stranger Things" character played by David Harbour
 Jimi;50;Jimi Hendrix, guitar legend
+Jimi Hendrix Experience;60
 Jimin;40;BTS singer
 jiminy Christmas;60
 Jiminy Cricket;60
@@ -98606,6 +98610,7 @@ the jack of clubs;40
 the jack of diamonds;40
 the jack of hearts;40
 the jack of spades;40
+The Jimi Hendrix Experience;60
 The Jitterbug;60
 the job;40
 The Joe Schmo Show;50;Reality television series (2003-2004, 2013, 2025)
@@ -109600,6 +109605,8 @@ writing group;50
 writing in;40
 writing on;40
 writing to;40
+writ of habeas corpus;60
+writs of habeas corpus;60
 written all over one's face;50
 written in the stars;60
 Wrld;40;Juice Wrld, rapper
