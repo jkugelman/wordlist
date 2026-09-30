@@ -23038,6 +23038,7 @@ cut one's teeth on;60
 cut open;50
 cutpurse;60
 cutpurses;60
+cut quite a figure;60
 cut-rate;60
 cuts a check to;40
 cuts a deal;60
@@ -23058,6 +23059,7 @@ cuts off one's nose to spite one's face;50
 cuts one's losses;60
 cuts one's teeth;50
 cuts one's teeth on;60
+cuts quite a figure;60
 cuts school;50
 cuts the mustard;60
 cuts to;40
@@ -23084,6 +23086,7 @@ cutting off one's nose to spite one's face;50
 cutting one's losses;60
 cutting one's teeth;50
 cutting one's teeth on;60
+cutting quite a figure;60
 cutting school;50
 cutting the mustard;60
 cutting to;40
@@ -49963,6 +49966,8 @@ it's personal;60
 it's pretty simple;60
 it's private;60
 it's quiet too quiet;60
+it's quite all right;60
+it's quite a pickle;60
 it's quite a stretch;60
 it's really in there;60
 it's Saturday night;60
@@ -78434,6 +78439,9 @@ quirt;20;Whip with a braided leather lash
 quirts;20;Whips with a braided leather lash
 quis custodiet ipsos custodes?;60;Who will watch the watchmen?
 quit apologizing;60
+quite all right;60
+quite a stretch;60
+quite awful;40
 quite frankly;50
 quite often;50
 quite possible;50
@@ -97948,6 +97956,7 @@ that sounds right;60
 that sounds right to me;60
 that's personal;60
 that's private;60
+that's quite all right;60
 that's quite a pickle;60
 that's quite a stretch;60
 that's rad;60
