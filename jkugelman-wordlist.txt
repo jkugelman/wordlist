@@ -64506,11 +64506,24 @@ Moto;40;Motorola phone, Mr. Moto, others
 Motomami;40;Rosalía album
 motorcade;50
 motorcades;50
+motor carrier;50
+motor carriers;50
 Motor City;60
+motor cortexes;50
+motor cortices;50
 motorcycle;50
+motorcycle armor;60;Protective clothing for motorcyclists
 motorcycle club;60
 motorcycle clubs;60
+Motorcycle Diaries;50
+motorcycle gang;60
+motorcycle gangs;60
+motorcycle maintenance;50
+motorcycle rider;50
+motorcycle riders;50
 motorcycles;50
+motorcycle track;50
+motorcycle tracks;50
 Motorhead;50
 motorheads;50
 motor inn;50
@@ -89924,6 +89937,7 @@ Smalley;30
 small intestines;50
 small molecule;50;???
 small molecules;50;???
+small motorcycle;20
 small pizza;50
 small pizzas;50
 small price to pay;60
@@ -109959,6 +109973,8 @@ Yama;30;Hindu god of death
 Yamagata;40;Rachael Yamagata, singer / Japanese prefecture
 Yamaguchi;50;Kristi Yamaguchi, Olympic figure skating champion
 Yamaha;50;Motorcycle and instrument maker
+Yamaha motorcycle;40;Green paint?
+Yamaha motorcycles;40;Green paint?
 Yamahas;40;Motorcycles or keyboards
 Yamaha WaveRunner;60
 Yamaha WaveRunners;60
@@ -111138,6 +111154,7 @@ zemstvo;20
 Zen;50
 zenana;30;Part of a house belonging to a Muslim family in the Indian subcontinent
 zenanas;30
+Zen and the Art of Motorcycle Maintenance;60
 Zenda;30;"The Prisoner of Zenda" (1937 movie)
 Zendaya;50;"Euphoria" and "Dune" star
 Zendesk;40;Customer-service software company
