@@ -53792,9 +53792,9 @@ Koreaboos;40;Obsessive fans of Korean culture
 Korean;50;From Seoul, say
 Korean American;50
 Korean Americans;50
-Koreans;50;Seoul residents, e.g.
-Korean spa;50
-Korean spas;50
+Koreans;50
+Korean spa;60
+Korean spas;60
 Korean War vet;60
 Korean War vets;60
 Koreatown;60
