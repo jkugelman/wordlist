@@ -27890,6 +27890,7 @@ Dr Jekyll;60
 Dr Jekyll and Mr Hyde;60
 Dr. John Watson;60;Fictional character, associate and friend of Sherlock Holmes
 Dr John Watson;0
+Dr. Jones;50
 Dr Joyce Brothers;50
 Dr. K;20;Baseball nickname
 Dr. Laura;10
