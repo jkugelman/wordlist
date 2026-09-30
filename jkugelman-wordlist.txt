@@ -4592,6 +4592,7 @@ Annea;30;Annea Lockwood, experimental composer
 annealer;40
 annealers;40
 Anne Boleyn;50
+Anne Frank;60
 Anne Heche;50
 annelid;20;Worm phylum
 annelids;20;Worm phylum
@@ -4776,6 +4777,7 @@ anticlimax;60
 anticlimaxes;60
 anti-comedy;60
 Anticosti;40;Island in the Gulf of St. Lawrence
+antidiarrheal;10
 antidote;50
 antidotes;50
 Antietam;50;Bloodiest single day of the Civil War
@@ -7970,6 +7972,8 @@ Bachs;40;The composing family
 Bach sonata;50
 Bach sonatas;50
 bacillary;40
+bacillary white diarrhea;10
+bacillary white diarrhoea;10
 back a candidate;50
 back day;60
 back days;60
@@ -25347,7 +25351,18 @@ diarchy;30;Government by two independent authorities
 diarist;50
 diarists;50
 diarrhea;10
+diarrheal;10
+diarrhea of the mouth;10
+diarrheas;10
+diarrheic;10
+diarrhetic;10
+diarrhoeal;10
+diarrhoeas;10
+diarrhoeic;10
+diarrhoetic;10
 Diary of Anaïs Nin;60
+Diary of Anne Frank;60
+Diary of a Wimpy Kid;60
 dias;40
 diastema;30;Tooth gap
 diatomite;30;Diatomaceous earth
@@ -32253,6 +32268,7 @@ exploding head emojis;60
 Exploding Kittens;60
 exploit kit;60;Malware deliverer
 exploit kits;60
+explosive diarrhea;10
 explosive tennis ball;60;Acme invention
 explosive tennis balls;60;Acme invention
 expm;30
@@ -61780,6 +61796,8 @@ media literacy;60
 media literate;60
 media player;50
 media players;50
+mediaries;40
+mediary;40
 medias;40;In medias res
 media storm;50
 mediateness;40
@@ -98256,6 +98274,7 @@ the devil's playthings;60;Idle hands, it's said
 the devil's workshop;60;Idle hands, it's said
 thedew;0
 The Diary of Anaïs Nin;60
+The Diary of Anne Frank;60
 the die;20
 the disco era;20
 the dishes;30
@@ -101745,6 +101764,7 @@ travel by train;30;Green paint
 Travel Channel;50
 traveled by train;30;Green paint
 traveled overseas;50
+travelers' diarrhea;10
 travel guide;60
 travel guides;60
 traveling by train;30;Green paint
@@ -105070,6 +105090,7 @@ verandah;40;Acceptable variant spelling
 verandahs;40
 verbal cue;50
 verbal cues;50
+verbal diarrhea;10
 verbena;30;Flower genus
 verbing weirds language;60
 verb phrase;50
