@@ -78439,6 +78439,7 @@ quirt;20;Whip with a braided leather lash
 quirts;20;Whips with a braided leather lash
 quis custodiet ipsos custodes?;60;Who will watch the watchmen?
 quit apologizing;60
+quite a;20
 quite all right;60
 quite a stretch;60
 quite awful;40
