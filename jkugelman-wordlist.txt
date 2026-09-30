@@ -93720,6 +93720,8 @@ stone-cold foxes;60
 Stone Cold Steve Austin;60
 stone-cold stunner;60
 stone-cold stunners;60
+stone figurine;50
+stone figurines;50
 stonefish;50
 stonefishes;50
 Stonehenge;50;Salisbury Plain megaliths
@@ -106800,6 +106802,8 @@ waxes poetic;60
 waxes romantic;60
 wax figure;50
 wax figures;50
+wax figurine;50
+wax figurines;50
 waxing eloquent;60
 waxing lyrical;60
 waxing nostalgic;60
