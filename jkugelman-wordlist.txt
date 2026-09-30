@@ -33953,6 +33953,8 @@ figment of one's imagination;50
 figments of one's imagination;50
 Figueroa;40;Los Angeles street, or a common Spanish surname
 figural;30
+figuratively speaking;60
+figurative sense;50
 figured in;40
 figured it out;50
 figured on;40
@@ -33965,6 +33967,8 @@ figure eight;60
 figure eights;60
 figure-ground illusion;60
 figure-ground illusions;60
+figurehead;50
+figureheads;50
 figure in;40
 figure it out;60
 figure on;40
