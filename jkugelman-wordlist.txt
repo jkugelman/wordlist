@@ -2284,6 +2284,7 @@ ain;20
 Aina;30;Jackie Aina, beauty YouTuber
 Ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
 Aino;20
+Ain't 2 Proud 2 Beg;50;1991 debut single by TLC
 ain't hay;30;Is of value, slangily
 aint I;20
 ain't I a stinker?;60
@@ -3683,6 +3684,7 @@ Amberson;40;"The Magnificent Ambersons" family
 Ambersons;40;"The Magnificent Ambersons", Orson Welles film
 Amber Tamblyn;30
 ambi-;40
+ambidextrously;60;Euryvocalic isogram
 Ambien;50;Sleep aid
 Ambiens;40;Ambien sleeping pills, contrived plural
 ambient music;60
@@ -5675,6 +5677,8 @@ are you hearing yourself;0
 are you hearing yourself right now?;60
 are you hearing yourself right now;0
 are you home?;50
+are you in?;60
+are you in;0
 are you insane?;60
 are you kidding?;60
 are you kidding;0
@@ -6840,6 +6844,7 @@ asylum seeker;50
 asylum seekers;50
 asyndeton;40;Literary device
 as you do;40;Kinda awkward
+as you like;60
 as you may have suspected;60
 as you said;60
 as you suspect;60
@@ -7230,6 +7235,7 @@ ATV;40
 ATVs;40
 Atwell;40;Hayley Atwell, Agent Carter actress
 Atwood;50;Margaret Atwood, author of "The Handmaid's Tale"
+at your side;50
 Au;40;Gold, on the periodic table
 aubade;30;Morning love song
 aubades;30;Morning love songs
@@ -8904,6 +8910,7 @@ barely getting by;50
 barely got by;50
 barely see;40
 barely sufficient;50
+barely touching;40;Green paint
 bare minimums;50
 Barenaked Ladies;60
 Barenboim;40;Daniel Barenboim, pianist and conductor
@@ -9207,12 +9214,20 @@ basinets;30
 Basinger;40;Kim Basinger, "L.A. Confidential" actress
 Basingstoke;40;Hampshire town in England
 Basinski;40;William Basinski, "The Disintegration Loops" composer
+basked in the glory;60
+basked in the glory of;50
 Baskerville;50;Hound of the Baskervilles, and a typeface
 Baskervilles;50;"The Hound of the Baskervilles" family
 basketball team;60
 basketball teams;60
 basket case;60
 basket cases;60
+basking in the glory;60
+basking in the glory of;50
+bask in the glory;60
+bask in the glory of;50
+basks in the glory;60
+basks in the glory of;50
 BASL;30;Black American Sign Language
 Basotho;20;People of South Africa
 Basque;50;Pyrenees people
@@ -11701,6 +11716,7 @@ blasters;50
 blast fishing;60;Dynamite fishing
 blasting cap;50
 blasting caps;50
+blasting powder;60
 blast it;60
 Blastoise;50;Pokeyman
 blast shelter;60
@@ -13041,6 +13057,8 @@ Boulanger;40;Nadia Boulanger, legendary composition teacher
 boulangerie;50
 boulangeries;50
 Boulder, CO;30
+bouldering mat;60
+bouldering mats;60
 boules;20
 Boulez;40;Pierre Boulez, French composer and conductor
 Boulle;40;Pierre Boulle, "Planet of the Apes" author
@@ -15778,7 +15796,8 @@ can I have a quick word?;60
 can I have a word with you?;60
 can I have your attention?;60
 can I have your attention, please?;60
-can I help you;60
+can I help you?;60
+can I help you;0
 canine teeth;50
 canine tooth;50
 Canis;40
@@ -16152,7 +16171,11 @@ Captcha;60
 CAPTCHA image;60
 CAPTCHA images;60
 Captchas;60
+captured on film;60
+capture on film;60
+captures on film;60
 capturethegalf;0
+capturing on film;60
 capuchon;40;Mardi Gras hat
 capuchons;40
 Capulet;50;Juliet's family
@@ -16679,6 +16702,7 @@ cash in one's chips;50
 cashless society;60
 cash only no checks;50
 cash poor;60
+cash up front;60
 cash value;50
 Casimir;40;Casimir Pulaski, Revolutionary War general / the Casimir effect
 casing out;40
@@ -18290,6 +18314,8 @@ Chevrolet;50;Car brand
 Chevrolets;40;American cars
 chevron;50
 Chevy;50;Chevrolet, informally, or Chevy Chase
+Chevy Malibu;60
+Chevy Malibus;60
 Chevys;40;GM cars
 chewable tablet;50
 chewable tablets;50
@@ -19401,6 +19427,7 @@ claws at;40
 claws one's way up;50
 Clayface;50;Batman's shape-shifting villain
 Claypool;40;Les Claypool, Primus bassist
+claypot fish;60
 clay tablet;50
 clay tablets;50
 Clayton;40;Adam Clayton, U2 bassist / Clayton Kershaw, Dodgers pitcher
@@ -22687,6 +22714,7 @@ crying out to;40
 crying over spilled milk;60
 crying shame;60
 cryin' shame;60
+cry of delight;60
 cry of derision;50
 cryofreeze;60
 cryolite;30;Mineral
@@ -35292,6 +35320,8 @@ folded up;40
 folderol;50;Nonsensical fuss
 folderols;50
 fold in;40
+folding camper;50
+folding campers;50
 folding in;40
 folding like a cheap suit;60
 folding like a cheap suitcase;60
@@ -46038,6 +46068,7 @@ Howlin';40;Howlin' Wolf, blues great
 howling at;40
 howls at;40
 Howl's Moving Castle;60;Studio Ghibli movie
+how lucky am I?;60
 how many is that?;50
 how many times?;60
 how many was that?;50
@@ -46111,6 +46142,8 @@ Hozier;40;Irish singer of "Take Me to Church"
 HP;40
 HP bar;40
 HP bars;40
+H. P. Lovecraft;60
+H P Lovecraft;0
 HPs;40
 HPV;30
 HQ;40
@@ -47204,9 +47237,11 @@ if you can't stand the heat get out of the kitchen;60
 if you don't mind me saying;60
 if you don't mind my asking;60
 if you don't mind my saying so;60
+if you have;20
 if you know you know;60
 if you'll excuse me;60
 if you please;60
+if you're at;20
 If You See Something, Say Something;60;Public awareness campaign
 if you snooze, you lose;60
 Iga;40;Iga Swiatek, current women's champion tennis player, or grocery store
@@ -50314,6 +50349,7 @@ I want my money back;60
 I want out;60
 I want to see;60;"Move out of the way!"
 I want U back;20;???
+I warned you;60
 I was;50
 I was about to say;60
 I was afraid I'd lost you;60
@@ -53675,6 +53711,7 @@ Knight of Swords;60;Tarot card
 Knight of the Seven Kingdoms;60
 Knight of Wands;60;Tarot card
 Knightsbridge;50;London district home to Harrods
+knights problem;50
 Knights Who Say "Ni!";60
 knights who say Ni;0
 knives;50
@@ -60821,6 +60858,8 @@ market cycle;60
 market cycles;60
 marketeer;30
 marketeers;30
+marketing ploy;60
+marketing ploys;60
 market jitters;50
 market risk;50
 market risks;50
@@ -62291,6 +62330,7 @@ Melvil;40;Melvil Dewey, decimal-system librarian
 Melville;50;Herman Melville, "Moby-Dick" author
 Melvin;50;Common first name: Melvin Van Peebles, filmmaker
 Melvin and Howard;50;1980 film by Jonathan Demme
+Melvin Schwartz;40;1988 Nobelist in Physics
 Melvyn;40;Melvyn Douglas, actor / Melvyn Bragg, British broadcaster
 mem;20
 memaine;0
@@ -70320,6 +70360,8 @@ one unit;40
 one-up on;40
 one volt;40
 one watt;40
+one way flight;60
+one way flights;60
 onewayyaweno;0
 one who finishes second;0
 One Wish Willow;60;Central prop in "Obsession" (2026)
@@ -71422,6 +71464,7 @@ outbox;50
 outboxes;50
 outbreak;50
 outbreaks;50
+out by a mile;50
 outdoor cat;50
 outdoor cats;50
 outdoor dog;60
@@ -78624,6 +78667,7 @@ Quirinal;40;Roman hill and Italian presidential palace
 quirt;20;Whip with a braided leather lash
 quirts;20;Whips with a braided leather lash
 quis custodiet ipsos custodes?;60;Who will watch the watchmen?
+Quisp;40;Quaker Oats cereal brand
 quit apologizing;60
 quite a;20
 quite all right;60
@@ -83388,6 +83432,7 @@ Royal Mint;50
 Royal Navy;50
 royal subject;60
 royal subjects;60
+royal suite;60
 royal thumb;60;Genetic trait with one short, wide thumb
 royal we;60
 Roy Bean;50
@@ -85126,6 +85171,7 @@ saved game;60
 saved games;60
 saved gas;50
 saved on;40
+saved the world;60
 saved to;40
 save face;60
 save for;40
@@ -85136,6 +85182,7 @@ saves for;40
 saves gas;50
 save some for the rest of us;60
 saves on;40
+saves the world;60
 saves to;40
 save the whales;60
 save to;40
@@ -85145,6 +85192,7 @@ saving face;60
 saving for;40
 saving gas;50
 saving on;40
+saving the world;60
 saving to;40
 Savion;40;Tap dancer Savion Glover, fairly notable
 savoir-faire;60
@@ -90299,6 +90347,10 @@ smoke signal;60
 smoke signals;60
 smokestack;50
 smokestacks;50
+smoke test;60
+smoke tested;60
+smoke testing;60
+smoke tests;60
 Smokey;50;Smokey Bear / Smokey Robinson, Motown star
 Smokeys;40
 Smokey the Bear;60
@@ -103651,6 +103703,7 @@ Ugetsu;40;Mizoguchi's 1953 ghost film
 Ugg;50;Fuzzy boot brand
 Uggs;50
 ugh;50
+ugh no;40
 ughs;40
 UGK;20;1980s hip-hop duo
 ugli;40
@@ -110732,6 +110785,8 @@ you aren't gonna need it;60
 you are what you eat;60
 you awake;60
 you bet;60
+you bet I am;60
+you bet I can;60
 you bet your bottom dollar;60
 you called;60
 you can bet your bottom dollar;60
@@ -110869,8 +110924,10 @@ you look pleased with yourself;60
 you lose;50
 you lost me;60
 youlove;0
+you made it;60
 Youmans;40;Broadway composer Vincent Youmans ("Tea for Two", "No, No, Nanette")
 you may be excused;60
+you mean it?;60
 you mind;60
 you missed;60
 you must be fun at parties;60
