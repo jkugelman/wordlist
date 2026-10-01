@@ -2614,6 +2614,7 @@ alarmism;40
 alarm system;50
 alarm systems;50
 alarm that senses smoke or fire;0
+alarm will sound;60
 alarum;20
 alarums;20
 Alasdair;40;Alasdair MacIntyre, moral philosopher / Alasdair Gray, novelist
@@ -6525,6 +6526,7 @@ ask to;40
 A Sky Full of Stars;50;Coldplay song
 askyou;0
 ask yourself;60
+ask yourself this;60
 ASL;40
 Aslan;40;C.S. Lewis lion
 aslant;30
@@ -6561,6 +6563,7 @@ asonia;20;Tone-deafness, controversial 3/19/23 entry
 a sore;20
 Asos;20;Village on Cephalonia, Ionian Islands, Greece
 Asosan;20
+a sound;20
 asp;50
 asparagine;30;Nonessential amino acid
 asparagus beetle;60
@@ -6700,6 +6703,7 @@ assorter;30
 assorters;30
 assorting;40
 assorts;40
+as sound as;20
 ass pennies;10
 ass penny;10
 ass's;20
@@ -10189,6 +10193,7 @@ Beijing;50;Capital of China
 be-in;30;Hippie protest
 being bad;50
 Being John Malkovich;60;1999 Charlie Kaufman / Spike Jonze film
+being of sound mind;60
 Being the Ricardos;50
 be in need of;30
 be-ins;30;Hippie protests
@@ -11661,6 +11666,9 @@ Blanco;40;Spanish for white, as in queso blanco / Benny Blanco, producer
 bland;50
 Blanda;40;NFL's George Blanda, notable in several ways
 Bland-Allison Act;30;???
+blandiloquence;60
+blandiloquent;60
+blandiloquently;60
 Blandings;40;Wodehouse castle, or the turtle
 blank ammunition;50
 blank CD;60
@@ -12039,6 +12047,8 @@ bluecap;20
 blue check;50
 blue checkmark;60
 blue checkmarks;60
+blue chip companies;60
+blue chip company;60
 blue curacao;50
 bluefin tuna;60
 blue goose;50
@@ -14420,6 +14430,7 @@ bull;50
 bullace;30;European plum
 bulldog edition;50
 bulldog editions;50
+bulldog tenacity;60
 bullet arts;60;Hong Kong action style aka gun fu
 bullet ballet;60;Hong Kong action style aka gun fu
 Bullet Bill;60
@@ -25589,6 +25600,7 @@ dieciseis;40
 diecisiete;40
 died a death;50
 died back;40
+died of laughter;60
 died on;30;Awkward to clue
 Diedrich;40;Diedrich Bader, actor
 Dief;30;Dief the Chief, nickname of Canadian PM John Diefenbaker
@@ -25607,6 +25619,7 @@ Die Lorelei;50
 diem;40
 Diemen;40;Van Diemen's Land, old name for Tasmania
 Dien;40;Dien Bien Phu, decisive 1954 Vietnam battle
+die of laughter;60
 die on;30
 Dieppe;40;French port raided in 1942
 dies a death;50
@@ -25614,6 +25627,7 @@ dies back;40
 Dies Irae;60
 Dieskau;40;Dietrich Fischer-Dieskau, German baritone
 dies non;30;Day when courts are off
+dies of laughter;60
 dies on;30
 dietary fiber;60
 dietary law;60
@@ -28684,6 +28698,7 @@ Dyer;40;Natalia Dyer, "Stranger Things" actress
 dyers;40
 dying a death;50
 dying back;40
+dying of laughter;60
 dying on;30
 dying to;40;"Heck yeah"
 Dyke;10;Dick Van Dyke
@@ -29829,6 +29844,7 @@ electronic bulletin board;50
 electronic bulletin boards;50
 electronic dance music;60
 electronic music;60
+Electronic Sound;50;1969 studio album by George Harrison
 electrons;50
 electropop;60
 electrum;40;Alloy of gold and silver
@@ -32737,6 +32753,8 @@ fainer;20
 fainest;20
 faint heart;50
 faint of heart;60
+faint sound;40
+faint sounds;40
 fair and square;60
 Fairbanks;50;Douglas Fairbanks, silent film star, or the Alaska city
 Fairbanks, AK;30
@@ -33164,6 +33182,7 @@ fasten your seatbelt, it's going to be a bumpy ride;60
 fasten your seatbelt, it's gonna be a bumpy ride;60
 fasten your seatbelts, it's going to be a bumpy night;60
 faster than greased lightning;60
+faster than sound;50
 fast fashion;60
 Fast Five;50
 fast food;60
@@ -34629,6 +34648,7 @@ five-star restaurant;60
 five-star restaurants;60
 five-star review;60
 five-star reviews;60
+five story walkup;40;Green paint
 five-string;60
 five-string bass;60
 five-string basses;60
@@ -35511,6 +35531,7 @@ for dead;30
 Fordham;40;New York City university
 Fordism;50;Mass-production economic system
 Fordlandia;50;Henry Ford's failed Amazon rubber town
+Ford Quadricycle;60
 Ford sedan;40
 Ford sedans;40
 Ford SUV;20;Green paint
@@ -36669,8 +36690,12 @@ Fulton;40;Robert Fulton, steamboat pioneer
 fum;40
 fumble around;50
 fumbled around;50
+fumbled towards;40
 fumbles around;50
+fumbles towards;40
+fumble towards;40
 fumbling around;50
+fumbling towards;40
 Fumero;40;Melissa Fumero, "Brooklyn Nine-Nine" actress
 fumitory;40;Poppy flower known as "earth smoke"
 Fumudoh;40;Ziwe Fumudoh, comedian
@@ -40626,6 +40651,9 @@ grandfamily;60;Family where children are raised by their grandparents
 grandfather clock;50
 grand final;60
 grand finals;60
+grandiloquence;60
+grandiloquent;60
+grandiloquently;60
 Grandin;30;Animal rights activist Temple Grandin
 grand jete;50;Ballet movement
 Grand Jubilee;60;Music and comedy variety show in Branson, Missouri
@@ -41031,6 +41059,7 @@ Greystoke;40;Tarzan's ancestral title
 grf;20
 gridlock;50
 gridlocked;50
+grid sounds like;0
 Grieg;40;Edvard Grieg
 Grier;40;Pam Grier
 Griese;40;Dolphins quarterback Bob Griese during their undefeated season
@@ -42830,6 +42859,7 @@ Harry Potter and the Sorcerer's Stone;10
 Harry's;40;Razor brand, or Harry Styles' "Harry's House"
 Harry Winston;60;Jeweler
 harsh light of day;60
+harsh sounding;50
 Harte;30;19th century writer Bret Harte
 hartebeest;40;Antelope
 Hartford;50;Connecticut capital
@@ -44454,6 +44484,7 @@ highly skilled;60
 high off the hog;60
 high on one's own supply;50
 high on the hog;60
+high pitched sound;50
 high prices;50
 high-priority;50
 high-profile;50
@@ -45965,6 +45996,7 @@ how does that make you feel?;60
 how does that make you feel;0
 how does this look?;60
 how does this sound?;60
+how does this sound;0
 how do I delete someone else's comment?;60
 how do I delete someone else's post?;60
 How Do I Make You;50;1980 single by Linda Ronstadt
@@ -47134,6 +47166,7 @@ If I Ran the Circus;60;Dr. Seuss book
 If I Ran the Zoo;60;Dr. Seuss book
 if it ain't broke don't fix it;60
 If It Ain't Got That Swing;50;2000 non-fiction book by Mark Gauvreau Judge
+if it sounds like;20
 if it works, it works;60
 if I've said it once;60
 if I've told you once;60
@@ -47401,6 +47434,7 @@ Ilia Malinin;50;Skating star Ilia Malinin known as the Quadgod
 Ilich;30;Carlos the Jackal
 Ilie;40;Ilie Nastase, tennis champion
 Ilie Nastase;40;Tennis player Ilie Năstase
+I like the sound of that;60
 I like you;60
 I like your style;60
 I literally died;60
@@ -51773,6 +51807,7 @@ jump bail;50
 jumped at;40
 jumped bail;50
 jumped into;40
+jumped into the fray;60
 jumped on;40
 jumped through hoops;60
 jumper cable;50
@@ -51780,6 +51815,7 @@ jumper cables;50
 jumping at;40
 jumping bail;50
 jumping into;40
+jumping into the fray;60
 jumping jack;60
 jumping jacks;60
 jumping Jehosaphat;0
@@ -51797,6 +51833,7 @@ Jump in the Line (Shake, Senora);50;1961 song by Harry Belafonte
 Jump in the Line Shake Senora;0
 jump into;40
 jump into the fire;60
+jump in to the fray;60
 jump jet;50
 jump jets;50
 Jumpman;50;Air Jordan logo, and a Drake hit
@@ -51810,6 +51847,7 @@ jump shifts;50;American football shift maneuvers
 jump shooter;50
 jump shooters;50
 jumps into;40
+jumps into the fray;60
 jumps on;40
 jump-start;60
 jump-started;60
@@ -57890,6 +57928,8 @@ long time listener first time caller;60
 long U;40
 long U's;20
 Longview;40;"Longview," Green Day hit / Texas city
+long vowel sound;50
+long vowel sounds;50
 long way around;50
 Longworth;40;Alice Roosevelt Longworth, Washington wit / Karina Longworth, film podcaster
 Longyearbyen;50;Northernmost town on Earth, in Svalbard
@@ -59558,6 +59598,9 @@ magnetic tapes;50
 magneto;60
 Magnificat;50;Mary's canticle
 Magnifico;40;Grandee, or a "Bohemian Rhapsody" lyric
+magniloquence;60
+magniloquent;60
+magniloquently;60
 Magnitogorsk;50;Russian steel city in the Urals
 Magnon;40;Cro-Magnon
 Magnum PI;60
@@ -62396,10 +62439,13 @@ mental health walk;60
 mental health walks;60
 mental image;50
 mental images;50
+mentally sound;50
 mental note;50
 mental notes;50
 mental picture;50
 mental pictures;50
+mental soundness;50
+mental unsoundness;50
 menthe;40
 mentioned to;40
 mentioning to;40
@@ -62437,6 +62483,8 @@ Merce;40;Merce Cunningham, choreographer
 Merced;40;California city and UC campus
 Mercedes;50;Luxury car brand, or Mercedes Sosa, Argentine folk singer
 Mercer;40;Johnny Mercer, "Moon River" lyricist
+merchant guild;60
+merchant guilds;60
 merch tent;60
 Mercia;40;Anglo-Saxon kingdom
 Merck;40;Pharmaceutical giant
@@ -67062,6 +67110,7 @@ Niekro;40;Phil "Knucksie" Niekro, greatest knuckleball pitcher of all time
 niello;20;Ornamental metalwork
 Niels;40;Niels Bohr
 Nielsen;50;Leslie Nielsen, actor / TV ratings company
+Nielsen SoundScan;50
 Nieman;40;Harvard's Nieman Foundation for Journalism
 Niemann;40;Hans Niemann, chess grandmaster
 Niemeyer;40;Oscar Niemeyer, Brasilia's architect
@@ -68134,6 +68183,7 @@ not my problem;60
 notnear;0
 notneed;0
 notochordal;30;Type of tumor cell
+not of sound mind;50
 not on;30
 not on a bet;50
 not on a dare;40;Is this a real phrase???
@@ -74038,6 +74088,7 @@ pet sitter;60
 pet sitters;60
 pet sitting;60
 PetSmart;50
+Pet Sounds;60
 pet taxi;60
 pet taxis;60
 petter;40
@@ -96012,6 +96063,7 @@ take in;40
 take in vain;50
 take it all in;60
 take it easy;60
+take it easy on me;60
 take it in;50
 take it slow;50
 takeitto;0
@@ -102808,6 +102860,8 @@ Tulum;40;Mayan ruins on the Yucatan coast
 Tulum, Mexico;40
 Tulum Mexico;0
 tum;40;Belly
+tumbledown shack;50
+tumbledown shacks;50
 tumbleweep;0
 Tumblr;50;Microblogging site
 Tumblrs;40;Blogs on a microblogging site
@@ -108199,6 +108253,8 @@ Whigham;40;Shea Whigham, character actor
 Whigs;50;Historical political party
 whiiiiiiiiiss;0
 whilom;20;Former, archaic
+whip appeal;40;Intense, irresistible attraction to someone to the point of excessive devotion or subservience to them
+Whip Appeal;40;1990 single by Babyface
 whip in;40
 whipped in;40
 whipping in;40
