@@ -11414,6 +11414,7 @@ bitchfaces;10
 bitchier;10
 bitchiest;10
 bitchily;10
+Bitch I'm Madonna;50;2015 single by Madonna
 bitchiness;10
 bitching;10
 bitching about;10
@@ -58425,6 +58426,7 @@ lover's quarrel;60
 lover's quarrels;60
 lovers' spat;50
 lovers' spats;50
+love's a bitch;10
 Love Shack;60
 love shacks;50
 lovesick;60
@@ -64753,6 +64755,7 @@ mouton;20;Processed sheepskin, or mutton: Fr.
 Movado;40;Watch brand
 Movados;40;Movado watches
 move along;50
+Move Bitch;10;2002 single by Ludacris featuring Mystikal and I-20
 moved forward;50
 moved in on;40
 moved into;40
@@ -98296,6 +98299,7 @@ the Big Unit;60;Nickname for 6'10" tall pitcher Randy Johnson
 the Bill of Rights;50
 thebingbangtheory;0
 the bit;40
+The Bitch Is Back;50;1974 single by Elton John
 the bitten end;20
 the bitter end;60
 The Blacklist;60
