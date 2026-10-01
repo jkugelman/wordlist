@@ -2296,6 +2296,7 @@ Aintree;40;English racecourse
 ain't seen nothing yet;60
 Ain't She Sweet;60
 ain't so;50
+ain't that a bitch;10
 ain't that a crying shame;60
 ain't that a cryin' shame;60
 ain't that a shame;60
@@ -9677,6 +9678,7 @@ beaming aboard;50
 beam me up, Mr. Scott;60
 beam of light;50
 Beamon;40;Bob Beamon, record-shattering long jumper
+be a mother to;20
 beams aboard;50
 beams of light;50
 beanballs;50
@@ -11354,6 +11356,7 @@ birthing centre;20
 birthing centres;20
 birth mom;50
 birth moms;50
+birth mother or father;20
 Birtwistle;40;Harrison Birtwistle, British composer
 bis;40;Biceps
 Bisan;40;Bisan Owda, Palestinian journalist
@@ -11389,9 +11392,40 @@ bit;50
 bit at;40
 bit cell;50
 bit cells;50
+bitch about;10
+BitChat;20;Offline Bluetooth messaging app
+bitch at;10
+Bitch Better Have My Money;10
 bitch bitch;10
 bitch bitch bitch;10
+bitched;10
+bitched about;10
+bitched at;10
+bitched to;10
+bitchery;10
+bitches;10
+bitches about;10
 Bitches Ain't Shit;10;1992 song by Dr. Dre
+bitches at;40
+Bitches Brew;60
+bitches to;10
+bitchface;10
+bitchfaces;10
+bitchier;10
+bitchiest;10
+bitchily;10
+bitchiness;10
+bitching;10
+bitching about;10
+bitching at;10
+bitching to;10
+bitch mother;10
+bitch, please;10
+bitchslap;10
+bitchslapped;10
+bitchslapping;10
+bitchslaps;10
+bitch to;10
 Bitdefender;40;Antivirus software maker
 bit down;50
 bite at;40
@@ -13906,6 +13940,7 @@ Brom;40;Brom Bones, "Sleepy Hollow" rival
 bromance;60
 bromances;60
 Brom Bones;50;"Sleepy Hollow" rival
+bromothymol;40
 Bromus arvensis;20;Species of grass
 Bron;40;LeBron James, NBA star's nickname
 bronchi;40;Lung tubes
@@ -21505,6 +21540,7 @@ Cosimo;40;Couple old Italians
 Cosimo I;30;Cosimo I de' Medici, duke of Florence
 Cosimo II;20;Cosimo II de' Medici
 Cosimo III;30
+Cosimo the Elder;50;Cosimo de' Medici, establisher of the Medici dynasty in Florence
 co-sleep;50
 co-sleeper;50
 co-sleepers;50
@@ -22073,6 +22109,7 @@ cray-cray;60
 Crayola;50;Crayon brand
 Crayolas;40;Crayons, brand-wise
 crays;30
+crazy bitch;10
 Crazy Harry;50;Muppet
 Crazylegs;50;Crazylegs Hirsch, NFL Hall of Fame receiver
 Crazy Little Thing Called Love;60
@@ -52250,6 +52287,7 @@ Karl the Fog;60
 Karmann;40;Karmann Ghia, classic Volkswagen
 Karma Police;60
 karmas;30;Weird plural
+karma's a bitch;10
 karma yoga;60
 karma yogi;60
 Karnak;40;Egyptian temple complex at Luxor
@@ -53788,6 +53826,7 @@ Kongo;30;Central African kingdom
 Kongos;30;Band behind "Come with Me Now"
 Kong the Master;50;Alternative name or title for Confucius
 Konica;40;Camera brand, now Konica Minolta
+Konichiwa Bitches;10;2007 single by Robyn
 König;30;Burger king?
 Konigsberg;40;Königsberg, Prussian city of the seven bridges
 Konkani;40;Language of Goa
@@ -54240,6 +54279,7 @@ Kyla;40;Kyla Pratt, actor
 Kyle;50;Common first name / Kyle Busch, NASCAR driver
 Kyler;40;Cardinals quarterback Kyler Murray (2023-)
 Kyles;30;Plural name
+Kyle's mom's a big fat bitch;10
 Kylian;30;???
 Kylie;50;Kylie Jenner or Minogue
 Kylo;40
@@ -56742,6 +56782,7 @@ life lesson;60
 life lessons;60
 lifelong learners;60
 life partner;50
+life's a bitch;10
 life skill;50
 life skills;50
 life's not fair;60
@@ -73032,6 +73073,7 @@ Paxton;40;Bill Paxton, actor
 pay;50
 pay at the pump;50
 paybacks;40
+payback's a bitch;10
 pay cut;60
 pay cuts;60
 payday;50
@@ -80892,6 +80934,7 @@ renrocaotni;0
 renrocehtdnuora;0
 Rensselaer;40;New York city
 Renta;40;Oscar de la Renta, fashion designer
+rental car pickup;20
 rental contract;50
 rental contracts;50
 rental tux;50
@@ -81264,6 +81307,7 @@ restep;20
 rester;30
 resters;30
 resteth;40
+resting bitch faces;10
 resting on;40
 resting on one's laurels;50
 resting on one's oars;50
@@ -89460,6 +89504,7 @@ skinheads;10
 skin mag;50
 skin mags;50
 Skinner;50;B. F. Skinner, behaviorist, or Seymour Skinner, Springfield principal
+skinny bitch;10
 skinny mini;60
 skinny minis;60
 skinny minnie;60
@@ -89470,6 +89515,7 @@ skins games;50
 skin tumor;10
 skin tumors;10
 skip a beat;50
+skip a car payment;20
 ski pass;50
 ski passes;50
 ski patrol;50
@@ -89651,6 +89697,8 @@ Slankets;40;Blankets with sleeves
 slantier;50
 slantiest;50
 slant rhyme;60
+slant route;60
+slant routes;60
 slanty;10
 slap at;40
 slap bass;60
@@ -91089,7 +91137,7 @@ so no;40
 son of;40
 son of a;60
 son of a biscuit;60
-son of a bitch;60
+son of a bitch;10
 son of Adam;50
 son of a gun;60
 Son of Baconator;60
@@ -91312,6 +91360,8 @@ sound advice;50
 sound asleep;50
 SoundCloud;50;Audio streaming platform
 Sound Effects Smurf;60
+sound foundation;50
+sound foundations;50
 Soundgarden;60
 sound hole;60
 sound holes;60
@@ -98047,6 +98097,7 @@ that sounds perfect;60
 that sounds reasonable;60
 that sounds right;60
 that sounds right to me;60
+that sounds rough;60
 that's personal;60
 that's private;60
 that's quite all right;60
@@ -99187,9 +99238,11 @@ The Social Contract;40
 the Son;40;Trinity member
 the Sonics;30
 the Sopwith Camel;30
+the sound barrier;40
 the Sox;20
 the Space Race;60
 the Spanish Steps;40
+the speed of sound;40
 the spice trade;40
 The Spiderwick Chronicles;50;Series of children's books
 Thespis;40;Ancient inventor of acting, supposedly
@@ -103248,6 +103301,7 @@ two AM;50
 two-bagger;50
 two-baggers;50
 two bars;50;OK signal
+two-bit chiselers;40
 two-by-four;60
 two-by-fours;60
 two-car;50
@@ -111075,6 +111129,7 @@ za'atar;40;Za'atar Middle Eastern spice blend
 Zabar's;40;Famous NYC deli
 Zabka;40;William Zabka, "The Karate Kid" and "Cobra Kai" actor
 Zabriskie;40;Zabriskie Point, Death Valley overlook
+Zabriskie Point;50;Death Valley overlook
 Zac;50
 Zacatecas;40;Mexican state and its capital
 Zach;50;Zach Braff / Zach Bryan, common first name
