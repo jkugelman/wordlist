@@ -36427,6 +36427,8 @@ Frontalot;40;MC Frontalot, nerdcore rapper
 front and centre;20
 front desk;50
 Frontera;40;???
+front gate;50
+front gates;50
 frontlet;40;Forehead band
 frontlets;40
 front of the line;50
@@ -37474,6 +37476,8 @@ gateleg tables;40
 gateless;30
 Gaten;40;Gaten Matarazzo, actor who plays Dustin on "Stranger Things"
 Gaten Matarazzo;50;Actor who plays Dustin on "Stranger Things"
+gate number;50
+gate numbers;50
 Gathegi;40;Edi Gathegi, actor
 gathered steam;60
 gathering steam;60
@@ -48522,6 +48526,9 @@ Inga;30;Swenson of "Benson"
 Ingalls;40;Laura Ingalls Wilder, "Little House" author
 in-game;40
 Inga Swenson;40
+ingathered;30
+ingathering;30
+ingathers;30
 Inge;40;Playwright William Inge
 Ingeborg;40;Ingeborg Bachmann, Austrian poet
 Ingels;40;Bjarke Ingels, Danish architect
@@ -59756,6 +59763,7 @@ Maines;30;Natalie Maine of The (Dixie) Chicks
 main event;60
 main events;60
 main gate;50
+main gates;50
 main ingredient;60
 main ingredients;60
 mainland China;50
@@ -66755,6 +66763,7 @@ neuronal;40
 neurone;20;Neuron
 neurones;20;Neurons
 neuroplastic;50
+neurospicy;60
 Neutra;40;Richard Neutra, modernist architect
 neutral color;50
 neutral colors;50
@@ -95613,8 +95622,11 @@ swinge;30;???
 swinger;60
 swing era;50
 swingers;60
+swinges;30
 swing for the fences;60
 swing from the rafters;60
+swing gate;50
+swing gates;50
 swinging at;40
 swinging away;50
 swinging for the fences;60
@@ -100640,7 +100652,7 @@ Tisha;40;Tisha B'Av, Jewish fast day / Tisha Campbell, "Martin" actress
 Tisha B'Av;40;Tisha B'Av, Jewish holiday
 Tishri;30;Hebrew month
 Tisiphone;40;One of the three Furies
-tism;40;Autism
+'tism;40;Autism
 tisn't;40
 Tissot;40;James Tissot, French painter, or the watch brand
 tissued;40
