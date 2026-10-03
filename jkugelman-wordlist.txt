@@ -5642,6 +5642,7 @@ are tied;20
 Aretino;20;Renaissance author
 are too;40;Playground retort
 aretreat;0
+are up;20
 Areus;30;Spartan king
 are useless;20
 are we clear;60
@@ -10805,6 +10806,7 @@ Betye Saar;40;Artist in the Black Arts Movement in the 1970s
 bet your bottom dollar;60
 Beulah;40;Beulah Land of Scripture / Beulah Bondi, actress
 be unaware of;20
+be up;20
 beurre;30;Butter: French
 Beuys;40;Joseph Beuys, German conceptual artist
 bev;40
@@ -49823,6 +49825,7 @@ Istrians;40;People of the Adriatic peninsula
 ists;30
 Istvan;40;István Szabó, Hungarian director
 isu;20
+is up;20
 I suppose so;60
 I sure can't;60
 I suspect;30
@@ -106814,6 +106817,7 @@ wasting no time;60
 wasting one's breath;50
 wasting one's time;50
 wastrel;30
+was up;20
 wat;40;Angkor Wat
 Wata;30;Mami Wata, African water spirit
 Watanabe;40;Ken Watanabe, Japanese actor
