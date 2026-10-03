@@ -47245,7 +47245,13 @@ I don't give a damn;60
 I don't give a flip;60
 I don't give two shits;10
 I don't got all day;60;"This is taking too long"
+I don't hate it;60
 I don't have all day;60
+I don't have any;50
+I don't have a thing to wear;60
+I don't have the foggiest;60
+I don't have the heart;60
+I Don't Have the Heart;50;1990 single by James Ingram
 I don't have to;60
 I don't know;50
 I don't know can you;60
