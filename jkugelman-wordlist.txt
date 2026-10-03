@@ -44648,6 +44648,7 @@ hi-fi system;40
 Higgins;40;Henry Higgins, "My Fair Lady" professor
 Higginson;40;Thomas Wentworth Higginson, Emily Dickinson's correspondent
 Higgs;50;Peter Higgs, physicist of boson fame
+high and mightiness;50
 high and tights;50
 high as a kite;60
 high as fuck;10
@@ -52124,6 +52125,7 @@ junglleeggym;0
 jungly;30
 Junichiro;40;Junichiro Tanizaki, novelist / Junichiro Koizumi, prime minister
 Junie;40;Junie B. Jones, children's book heroine
+junior high and high school;20
 Junior Miss;50
 Junior Seau;50
 juniper berries;50
@@ -86349,16 +86351,20 @@ search bots;60
 search box;60
 search boxes;60
 searched for;40
+searched high and low;60
 search engine;60
 search engines;60
 searches for;40
+searches high and low;60
 search for;40
+search high and low;60
 search hijack;60;Type of attack
 search hijacker;60
 search hijackers;60
 search hijacking;60
 searchin';50
 searching for;40
+searching high and low;60
 search me;60;"No idea"
 search result;60
 search results;60
