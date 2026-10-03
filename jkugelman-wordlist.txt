@@ -44648,6 +44648,7 @@ hi-fi system;40
 Higgins;40;Henry Higgins, "My Fair Lady" professor
 Higginson;40;Thomas Wentworth Higginson, Emily Dickinson's correspondent
 Higgs;50;Peter Higgs, physicist of boson fame
+high and;20
 high and mightiness;50
 high and tights;50
 high as a kite;60
@@ -46560,11 +46561,14 @@ hunt around;50
 hunt around for;40
 hunted around;50
 hunted around for;40
+hunted high and low;50
 hunter;50
 Hunter Biden;50
 Hunter Smurf;60
+hunt high and low;50
 hunting around;50
 hunting around for;40
+hunting high and low;50
 hunting license;60
 hunting licenses;60
 Huntington;50;Huntington Beach, California, among others
@@ -46574,6 +46578,7 @@ Huntrix;40;"KPop Demon Hunters" band
 Huntr/x;40;"KPop Demon Hunters" band
 hunts around;50
 hunts around for;40
+hunts high and low;50
 Huntsville;50;Alabama's Rocket City
 Huntsville, AL;40
 hup;40
@@ -55990,6 +55995,7 @@ leave a mark;60
 leave a message after the beep;60
 leave a penny;50
 leave go;20
+leave high and dry;60
 leave in;40
 leave me;50
 leave me alone;60
@@ -56007,6 +56013,7 @@ leavers;30
 leaves a comment;60
 leaves a loophole;50
 leaves a mark;60
+leaves high and dry;60
 leaves in;40
 Leaves of Grass;60
 leave some for the rest of us;60
@@ -56032,6 +56039,7 @@ leave your ego at the door;60
 leaving a comment;60
 leaving a loophole;50
 leaving a mark;60
+leaving high and dry;60
 leaving in;40
 leaving on;40
 leaving on read;60
@@ -56151,6 +56159,7 @@ left-handed shop;60
 left-handed shops;60
 left-handed store;60
 left-handed stores;60
+left high and dry;60
 left in;40
 leftist element;60
 leftist elements;60
@@ -58224,6 +58233,7 @@ looked fishy;60
 looked for;40
 looked forward;50
 looked forward to;50
+looked high and low for;50
 looked into;40
 looked one's age;50
 looked one's best;50
@@ -58241,6 +58251,7 @@ look for;40
 look forward;50
 look forward to;50
 look here;60
+look high and low for;50
 lookie-loo;60
 lookie-loos;60
 looking a fool;50
@@ -58256,6 +58267,7 @@ looking for;40
 looking forward;50
 looking forward to;50
 looking glass;60
+looking high and low for;50
 looking into;40
 looking like one's seen a ghost;50
 looking one's age;50
@@ -58294,6 +58306,7 @@ looks for;40
 looks forward;50
 looks forward to;50
 looks great;60
+looks high and low for;50
 looks into;40
 looks like one's seen a ghost;50
 looks like shit;10
@@ -86352,12 +86365,15 @@ search box;60
 search boxes;60
 searched for;40
 searched high and low;60
+searched high and low for;50
 search engine;60
 search engines;60
 searches for;40
 searches high and low;60
+searches high and low for;50
 search for;40
 search high and low;60
+search high and low for;50
 search hijack;60;Type of attack
 search hijacker;60
 search hijackers;60
@@ -86365,6 +86381,7 @@ search hijacking;60
 searchin';50
 searching for;40
 searching high and low;60
+searching high and low for;50
 search me;60;"No idea"
 search result;60
 search results;60
