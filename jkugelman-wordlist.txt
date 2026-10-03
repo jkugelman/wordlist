@@ -47754,8 +47754,11 @@ I mean you;60
 I'm eating;60;"Gross!"
 I'm eating here;60;"Gross!"
 IMed;40
+I meet;20
+iMeet;20
 Imelda;40;Imelda Marcos, or Imelda Staunton who played Dolores Umbridge
 Imeldas;20
+I met;20
 I met someone;50
 IMF;40
 I'm fangirling hard;60
