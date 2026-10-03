@@ -105099,8 +105099,8 @@ US Treasury;40
 usufruct;30;Legal term
 usufructs;30
 usufructuary;30
-US vet;40;Green paint? Veteran's Day honoree
-US vets;40;Green paint? Veteran's Day honorees
+U.S. vet;30;Green paint
+U.S. vets;30;Green paint
 US visa;40
 US visas;40
 USWNT;40;US Women's National Team (soccer)
