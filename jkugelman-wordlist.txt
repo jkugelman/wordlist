@@ -26568,6 +26568,7 @@ Doctor Octopus;60
 Doctorow;40;E. L. Doctorow, "Ragtime" author / Cory Doctorow, sci-fi writer
 Doctor Quinn;50
 doctor-recommended;60
+doctorship;50
 doctor shop;60
 doctor shopped;60
 doctor shopping;60
@@ -46207,6 +46208,7 @@ how does this sound;0
 how do I delete someone else's comment?;60
 how do I delete someone else's post?;60
 How Do I Make You;50;1980 single by Linda Ronstadt
+how do you;20
 how do you like that;60
 how do you like them apples;60
 how'd you guys meet?;50
@@ -70014,6 +70016,7 @@ old dogs;60
 Old Dominion;60
 Old Eli;40;Nickname for Yale
 Oldenburg;30;German city
+older pipes;30;Green paint
 old fart;60
 old favorite;60;Something loved since way back when
 old favorites;60
@@ -80523,6 +80526,7 @@ rectangle face shapes;60
 recto;40;Right-hand page, opposite of verso
 rectorate;40
 rectorates;40
+rectorship;50
 rectos;30
 reçu;20;Received: Fr.
 recurring dreams;60
