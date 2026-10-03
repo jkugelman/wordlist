@@ -6089,6 +6089,7 @@ arrogates;40
 arrogating;40
 arrogation;40
 arrogations;40
+arrow-leaved aster;50
 Arrowsmith;50;Sinclair Lewis novel
 Arrowverse;50;CW's DC superhero TV universe
 arroyo;40;Southwestern gully
@@ -43771,6 +43772,10 @@ heat-setting;50
 heat that radiates;0
 heat wave;50
 heat waves;50
+heave a sigh;50
+heave a sigh of relief;60
+heaved a sigh;50
+heaved a sigh of relief;60
 heaved to;20
 heaved up;40
 heave-ho;50
@@ -43778,10 +43783,14 @@ heaven help us;60
 heaven help us all;60
 heaver;30;Dockyard worker
 heavers;30
+heaves a sigh;50
+heaves a sigh of relief;60
 heaves to;20
 heaves up;40
 heave to;20
 heave up;40
+heaving a sigh;50
+heaving a sigh of relief;60
 heaving to;20
 heaving up;40
 Heaviside;40;Oliver Heaviside, physicist of the Heaviside layer
@@ -49645,6 +49654,7 @@ is a penny earned;20
 is apt to;40
 Isar;30;River through Munich
 is at one's leisure;20
+I saved you a seat;60
 I saw;50
 I saw it;40
 I Saw Mommy Kissing Santa Claus;60
@@ -55171,6 +55181,7 @@ large intestine;50
 large intestines;50
 large language model;60
 large language models;60
+large-leaved aster;50
 L'Argent;40;NFL player/Rep. Steve Largent
 large OJ;40
 large OJs;40
@@ -65031,6 +65042,7 @@ Movado;40;Watch brand
 Movados;40;Movado watches
 move along;50
 Move Bitch;10;2002 single by Ludacris featuring Mystikal and I-20
+moved as one;50
 moved forward;50
 moved in on;40
 moved into;40
@@ -65044,6 +65056,7 @@ move it;50
 move it or lose it;60
 Movember;50;Mustache-growing charity month
 move past it;60
+moves as one;50
 moves forward;50
 moves in on;40
 moves into;40
@@ -65103,6 +65116,7 @@ movie trope;60
 movie tropes;60
 movie within a movie;60
 Movin';40
+moving as one;20
 moving boxes;50
 moving forward;50
 moving in on;40
@@ -85390,6 +85404,7 @@ saved gas;50
 saved on;40
 saved the world;60
 saved to;40
+saved you a seat;60
 save face;60
 save for;40
 save gas;50
@@ -93320,6 +93335,7 @@ star turn;60
 star turns;60
 start without me;60
 starve a fever;50
+starved aster;50
 Star Wars: Episode III – Revenge of the Sith;50
 Star Wars Episode III Revenge of the Sith;0
 Starz;40;Premium cable channel
@@ -107232,6 +107248,10 @@ WAV;20
 wave a flag;50
 wave at;40
 waved a flag;50
+wavedash;60
+wavedashed;60
+wavedashes;60
+wavedashing;60
 waved at;40
 waved hi to;40
 waved to;40
