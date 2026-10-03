@@ -39422,6 +39422,7 @@ Goddard;40;Robert Goddard, rocketry pioneer
 Godden;40;Rumer Godden, English novelist
 goddess;60
 goddesses;60
+go dead;50
 go deaf;50
 go deep undercover;60
 Gödel;50;Kurt Gödel, logician of the incompleteness theorems
@@ -39442,14 +39443,17 @@ godlily;30;Weird adverb
 God no;60
 god of many names;60
 Godot;50;Beckett's famous no-show
+go down;50
+godown;30;Warehouse
 go downhill fast;60
+godowns;30;Warehouses
 go down the drain;60
 go down the line;50
 go down to the wire;60
 Godowsky;40;Leopold Godowsky, virtuoso pianist and composer
 Godric;40;Godric Gryffindor of Hogwarts
 Godrich;40;Nigel Godrich, Radiohead's producer
-go dry;40
+go dry;50
 God's Acre;50
 God's acres;50
 Gods and Monsters;60
@@ -39501,6 +39505,7 @@ goes blue in the face;60
 goes by;40
 goes by the book;60
 goes condo;50
+goes dead;50
 goes deaf;50
 goes deep undercover;60
 goes downhill fast;60
@@ -39672,6 +39677,7 @@ going blue in the face;60
 going by;40
 going by the book;60
 going condo;50
+going dead;50
 going deaf;50
 going deep undercover;60
 going down the drain;60
@@ -39959,11 +39965,22 @@ gone AWOL;40
 gone awry;50
 gone ballistic;40
 gone batty;50
-gone dark;40
+gone cold;50
+gone corporate;50
+gone crazy;60
+gone dark;50
+gone dead;50
+gone deaf;50
+gone down;50
+gone downhill;50
+gone dry;50
+gone easy on;50
+gone fast;50
 gone fishin';60
 gone fishing;60
 gonefission;0
 gone flat;40
+gone flying;50
 gone for a dip;50
 Gone Girl;60
 gone ham;60
@@ -107558,6 +107575,7 @@ went blue in the face;60
 went by;40
 went by the book;60
 went condo;50
+went dead;50
 went deaf;50
 went deep undercover;60
 went downhill fast;60
