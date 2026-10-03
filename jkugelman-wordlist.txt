@@ -3144,6 +3144,7 @@ allied with;40
 allies with;40
 alligator;50
 alligators;50
+All I Have to Give;50;1998 single by Backstreet Boys
 Alliluyeva;20;Stalin's wife
 all in a;20
 all in a row;50
@@ -7683,6 +7684,7 @@ award galas;50
 aware of;50
 awaste;20
 a ways away;60
+aw, do I have to?;60
 awe;50
 aweary;30
 aweather;30;Windward
@@ -26850,6 +26852,7 @@ do I have a choice;60
 do I have any choice;60
 do I have to?;60
 do I have to;0
+Do I Have to Say the Words?;50;1992 single by Bryan Adams
 do I look stupid?;10
 Doinel;40;Antoine Doinel, Truffaut's recurring hero
 doing a backflip;50
@@ -47538,6 +47541,10 @@ I have standards;60;"Please, that's beneath me"
 I have the worst luck;60
 I have time;50
 I have to;50
+I have to admit;60
+I have to go;60
+I have to go now;60
+I have to go pee;10
 I have to take that;60
 I heard ya;50
 I heard you;60
@@ -91640,12 +91647,14 @@ sorrowers;30
 sorry for;40
 sorry for the spam;60
 sorry if I upset you;60
+sorry I have to take this;60
 sorry I'm awful at names;60
 sorry I'm awful with names;60
 sorry I'm bad with names;60
 sorry I'm late;60
 sorry I'm terrible at names;60
 sorry I'm terrible with names;60
+sorry I need to take this;60
 sorry lot;60
 sorry lots;50
 sorry, no refund;20
