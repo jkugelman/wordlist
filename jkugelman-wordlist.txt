@@ -435,6 +435,7 @@ Aaron;50;Aaron Burr, dueling vice president / Moses' brother
 Aaron Burr;60
 Aaron Burr, Sir;60
 Aaron Burr Sir;0
+Aaron Bushnell;40;2024 suicide protesting Israel's invasion of Gaza
 Aaronic;40;Of the priesthood of Aaron
 Aaronite;40;Priestly descendant of Aaron
 Aaronites;40;Priestly descendants of Aaron
@@ -484,6 +485,8 @@ abaft;40
 Abagnale;50;Frank Abagnale, "Catch Me If You Can" con man
 Abakanowicz;40;Magdalena Abakanowicz, Polish sculptor
 a ball;20
+abandoned house;50
+abandoned houses;50
 abandoned one's post;60
 abandoned ship;50
 abandonee;40
@@ -563,6 +566,8 @@ ABCs;50;Alphabet basics
 ABC TV;30
 ABD;20
 Abdel;40;Gamal Abdel Nasser, Egyptian president
+abdominal external oblique muscle;50
+abdominal nerve plexus;50
 Abdul;50;Paula Abdul, singer and "American Idol" judge
 Abdullah;40;Abdullah II, king of Jordan
 Abdulrazak;40;Abdulrazak Gurnah, Nobel-winning novelist
@@ -592,6 +597,9 @@ abeles;20;White poplars
 Abel Gance;40;French director Abel Gance (1889-1981)
 Abelia;30;Plant genus
 Abelian;40
+Abelmoschus;20;Genus of flowering plants
+Abelmoschus esculentus;20;Okra
+Abelmoschus moschatus;20;Musk okra
 Abels;40;Michael Abels, composer for "Get Out"
 Abenaki;40;Northeastern Native people
 Abenakis;40;Northeastern Indigenous people
@@ -612,6 +620,7 @@ abetment;30
 abettal;30
 abettals;30
 A Better Man;50;2003 Clint Black song
+a better mouse trap;60
 abettor;30
 abeyance;30
 abeyances;30
@@ -626,6 +635,7 @@ abiders;40
 Abidjan;40;Largest city of Ivory Coast
 Abie;20
 a bientot;40;French "see you soon"
+Abies venusta;20;Bristlecone fir
 Abigail;50;Common first name
 Abigail Fillmore;50
 Abigails;30;Plural name
@@ -664,6 +674,7 @@ a blessing in disguise;40
 ablest;50
 able was I ere I saw Elba;60
 Abloh;40;Virgil Abloh, fashion designer and entrepreneur (1980–2021)
+ablush;40;Blushing
 ABM;20
 abnegate;40
 abnegated;40
@@ -801,6 +812,7 @@ absorbents;30
 abstract algebra;50
 abstracter;40
 abstracters;40
+abstract music;50
 abstractor;40
 abstractors;40
 absurder;20
@@ -829,8 +841,15 @@ Abulhawa;40;Susan Abulhawa, "Mornings in Jenin" novelist
 Abu Musab al-Zarqawi;40;Jordanian jihadist (1966–2006)
 abundances;40;Weird plural
 aburglarstoleit;0
+Abu Sayyaf;40;Jihadist militant group in the Philippines
 abuser;40
 abusers;40
+Abu Simbel;40
+Abu-Sittah;40
+abusive;40
+abusive language;40
+abusively;40
+abusiveness;40
 abutilon;30;Flower genus
 a, but not the;60
 abut on;30
@@ -872,7 +891,8 @@ acai purees;20
 a cake;20
 a canal;20
 a can a week, that's all we ask;50;1980s advertising slogan for Blue Diamond Almonds
-acanthus;20;Plant genus
+acanthus;30;Prickly herb
+acanthuses;30;Prickly herbs
 A Canticle for Leibowitz;50
 Acapulco;50;Mexican resort city
 acaricide;30;Pesticide
@@ -892,6 +912,8 @@ accent light;50
 accent lights;50
 accentor;30
 Accenture;40;Consulting giant
+acceptable use policies;60
+acceptable use policy;60
 acceptant;30
 accepter;30
 accepters;30
