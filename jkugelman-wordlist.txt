@@ -794,8 +794,14 @@ absinthe;50
 absit;20
 Absolut;50;Vodka brand
 absolute cinema;60
+absolutely adore;50
+absolutely adored;50
+absolutely adores;50
+absolutely adoring;50
+absolutely everybody;50
 absolutely not;60
 absolutely right;60
+Absolutely (Story of a Girl);50;2000 single by Nine Days
 absolute monarchs;50
 absolute pitch;60
 absolute power;60
@@ -47371,6 +47377,8 @@ I felt seen;20
 ifes;20
 iff;30;If and only if
 ifi;20
+if I could;50
+If I Could Turn Back the Hands of Time;10;R. Kelly song
 If I Did It;60
 If I Didn't Have You;50;Song by various artists
 if I do say so myself;60
@@ -47527,6 +47535,7 @@ I hate this;50
 I hate to burst your bubble;60
 I hate war;50;FDR speech
 I hate you;60
+I have absolutely no idea;60
 I have a love;50;???
 I have a question;60
 I have a thought;60
@@ -68303,6 +68312,7 @@ nosysmurf;0
 not;50
 nota;40
 nota bene;50
+not absolutely;20
 not a dry eye in the house;60
 not again;60
 not a happy camper;60
@@ -70016,7 +70026,7 @@ old dogs;60
 Old Dominion;60
 Old Eli;40;Nickname for Yale
 Oldenburg;30;German city
-older pipes;30;Green paint
+older pipes;20;Green paint
 old fart;60
 old favorite;60;Something loved since way back when
 old favorites;60
@@ -85919,6 +85929,8 @@ scient;30;Knowing
 Scientologist;50;Church member since 1954
 Scientologists;50;Followers of L. Ron Hubbard
 Scientology;50;L. Ron Hubbard's church
+sci-fi convention;60
+sci-fi conventions;60
 SciFri;40;NPR's Science Friday, familiarly
 scilicet;30;Legal term
 scilla;30;Flower
@@ -102213,6 +102225,8 @@ traffic jam;60
 traffic jams;60
 trafficked in;40
 trafficking in;40
+traffic officer;50
+traffic officers;50
 traffic sign;60
 traffic signal;60
 traffic signals;60
@@ -108634,6 +108648,7 @@ when has that stopped you;0
 when in doubt, don't;60;Popular piece of advice
 when is enough enough?;60
 when is it?;50
+when it absolutely positively has to be there overnight;60
 when the shoe fits;60
 when the shoe fits, wear it;60
 when will I see you again?;60
@@ -110929,6 +110944,7 @@ Yertle;50;Dr. Seuss turtle king
 Yertle the Turtle;60
 Yertle the Turtle and Other Stories;50;Dr. Seuss book
 yes;50
+yes absolutely;50
 yes and;60
 yes and amen;60
 yes-anded;60
@@ -111344,12 +111360,14 @@ You 'n' Me;30;1960 Al Cohn song "You 'n' Me"
 Yount;30;Baseball Hall-of-Famer Robin Yount
 you owe me;60
 you pick;50;"I can't decide..."
+Your Absolutely Right;40;2016 EP by ByLwansta
 your argument is invalid;60
 your ball;60
 your call;60
 Yourcenar;40;Marguerite Yourcenar, "Memoirs of Hadrian" author
 your darn tootin';0
 your deal;60
+you're absolutely right;50
 you read my mind;60
 you read that right;60
 you're a genius;60
