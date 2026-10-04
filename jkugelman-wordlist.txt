@@ -6760,6 +6760,7 @@ ass's;20
 asst;40
 asst DA;40
 as steady as a rock;60
+as stiff as a board;60
 asst prof;40
 asst profs;40
 assumable;30
@@ -13798,7 +13799,9 @@ brimmer;20
 brimstone;50
 Brin;50;Sergey Brin, Google cofounder
 Brindisi;40;Italian port, or an operatic drinking song
+bring aboard;50
 bring 'em on;60
+bringing aboard;50
 bringing into question;50
 bringing on;40
 bringing one's A game;60
@@ -13807,6 +13810,7 @@ bring into question;50
 bring it on;60
 bring on;40
 bring one's A game;60
+brings aboard;50
 brings into question;50
 brings on;40
 brings one's A game;60
@@ -14100,6 +14104,7 @@ brothers in arms;60
 brothers-in-law;50
 Broti;30;Broti Gupta, TV comedy writer
 brotox;50;Botox for men, slangily
+brought aboard;50
 brought into question;50
 brought on;40
 brought one's A game;60
@@ -30245,8 +30250,8 @@ eMac;20;Old Macintosh
 Emacs;20;Old Macintoshes
 e-magazine;30
 e-magazines;30
-email alert;50
-email alerts;50
+email alert;40
+email alerts;40
 email alias;50
 email aliases;50
 email attachment;50
@@ -32792,6 +32797,7 @@ FaceTiming;50
 Facetune;40;Selfie-retouching app
 face up;50
 face up to;40
+facia board;0
 facial profiling;60
 facial recognition;60
 facing facts;60
@@ -33276,6 +33282,8 @@ Fartlek;50;Running workout of alternating speeds
 Fartleks;40;Speed-play running workouts
 far worse;50
 fas;30;Scale notes [occasional]
+fascia board;40
+fascia boards;40
 fasciae;30
 fascicle;30
 fascicles;30
@@ -39446,6 +39454,7 @@ gnudi;30;Gnocchi-like dumplings
 GNX;40;2024 Kendrick Lamar album
 go;50
 Goa;30;Indian's smallest state
+go aboard;40
 go about one's business;50
 go about one's day;50
 Goade;40;Michaela Goade, Caldecott-winning illustrator
@@ -39611,6 +39620,7 @@ Godzilla x Kong The New Empire;50
 Goeppert;40;Maria Goeppert Mayer, Nobel-winning physicist
 goer;40
 goers;40
+goes aboard;40
 goes about one's business;50
 goes about one's day;50
 goes all in;50
@@ -39781,6 +39791,7 @@ go home;50
 goi;20
 go in;40
 go in circles;60
+going aboard;40
 going about one's business;50
 going about one's day;50
 going all in;50
@@ -52065,8 +52076,10 @@ Jumanji;50;Board game movie franchise
 jumbled thought;50
 jumbled thoughts;50
 jumbo loan;50
+jump aboard;40
 jump at;40
 jump bail;50
+jumped aboard;40
 jumped at;40
 jumped bail;50
 jumped into;40
@@ -52075,6 +52088,7 @@ jumped on;40
 jumped through hoops;60
 jumper cable;50
 jumper cables;50
+jumping aboard;40
 jumping at;40
 jumping bail;50
 jumping into;40
@@ -52101,6 +52115,7 @@ jump jet;50
 jump jets;50
 Jumpman;50;Air Jordan logo, and a Drake hit
 jump on;40
+jumps aboard;40
 jumps at;40
 jumps bail;50
 jump scare;60
@@ -57128,6 +57143,8 @@ liger;50;Lion/tiger
 ligers;50
 Ligeti;40;20th century composer György Ligeti
 light air;50;1 on the Beaufort wind force scale
+light as a feather, stiff as a board;60;Children's game
+light as a feather stiff as a board;0
 light breeze;50;2 on the Beaufort wind force scale
 light echo;50
 light-emitting diode;60
@@ -96398,6 +96415,7 @@ Takashi;40;Takashi Murakami, artist / Takashi Miike, director
 takatāpui;40;LGBT people in Māori culture
 take a bath;50
 take a bath on;60
+take aboard;40
 take a bus;30
 take a cab;30
 take action;50
@@ -96519,6 +96537,7 @@ takeover targets;50
 take pains;50
 Takeru;40;Takeru Kobayashi, competitive eater
 takes a bath;50
+takes aboard;40
 takes a bus;30
 takes a cab;30
 takes action;50
@@ -96638,6 +96657,7 @@ take wing;60
 take your cue from;20
 Taki;40
 Takin';40;"Takin' Care of Business"
+taking aboard;40
 taking a bus;30
 taking a cab;30
 taking action;50
@@ -101541,6 +101561,7 @@ too foreboding;20
 too hot for TV;60
 too hot to handle;60
 took a bath;50
+took aboard;40
 took a bus;30
 took a cab;30
 took action;50
@@ -107760,16 +107781,20 @@ wekas;20
 Welby;40;Marcus Welby, TV doctor / Justin Welby, Archbishop of Canterbury
 Welch;50;Raquel Welch, actor / Welch's grape juice
 Welch's;50;Grape juice brand
+welcome aboard;60
+welcomed aboard;50
 welcome mat;50
 welcome mats;50
 welcomer;30
 welcomers;30
+welcomes aboard;50
 Welcome to Derry;60;"IT: Welcome to Derry"
 Welcome to Marwen;50;Steve Carell movie
 welcome to my world;60
 Welcome to the Black Parade;60
 welcome to the club;60
 welcome to the real world;60
+welcoming aboard;50
 welding glove;50
 welding gloves;50
 welding torch;50
@@ -107904,6 +107929,7 @@ Wenjun;40;Ju Wenjun, women's world chess champion
 Wenner;40;Jann Wenner, Rolling Stone founder
 wens;30
 Wensleydale;50;Wallace and Gromit's favorite cheese
+went aboard;40
 went about one's business;50
 went about one's day;50
 went all in;50
