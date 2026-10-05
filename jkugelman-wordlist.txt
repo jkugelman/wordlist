@@ -963,7 +963,7 @@ ACDelco;40;Auto parts brand
 AC duct;30
 AC ducts;30
 ace;50
-aceae;20
+-aceae;20
 ace-deuce;30
 acedia;20;Mental sloth
 aced it;40
@@ -1011,7 +1011,7 @@ Acevedo;40;Elizabeth Acevedo, "The Poet X" author
 Ace Ventura;60
 Ace Ventura: When Nature Calls;60
 Ace Ventura When Nature Calls;0
-acey;40;Acey-deucey
+acey-;40;Acey-deucey
 acey-deucey;50
 acey-deucy;50
 ach;40
@@ -1048,7 +1048,7 @@ a chip on;20
 Acholi;40;Ugandan people and language
 achs;30
 acht;40;German eight
-aci;20
+aci-;20
 acid bath;50
 acid house;60
 acidness;30
@@ -4401,7 +4401,8 @@ and you are;60
 and you call yourself a detective;60
 and your little dog too;60
 Andy Razaf;40;"Ain't Misbehavin'" lyricist
-Ane;30;Suffix
+-ane;30;Suffix
+Ane;0
 a needle;20
 an elephant in the room;50;"An"?
 anema;20
@@ -4814,7 +4815,7 @@ anthers;30
 anthesis;40;Event of a flower opening
 Anthony;50;Susan B Anthony, suffragist, among others
 Anthozoa;30;Class of corals and sea anemones
-anthro;40
+anthro-;40
 Anthrocon;40;Pittsburgh furry convention
 anthropic;60
 Anthropocene;50;Our proposed geological epoch
@@ -5640,7 +5641,7 @@ arctophile;30;One who collects teddy bears
 Arcturus;50;Bright star in Bootes
 arcuate;40;Shaped like a bow, curved
 arcw;0
-ard;20
+-ard;20
 Ardbeg;40;Islay Scotch whisky
 Arden;40
 ardency;30
@@ -6072,7 +6073,7 @@ aromatize;40
 Aron;40;Elvis Aron Presley
 Aronofsky;40;Darren Aronofsky, "Black Swan" director
 Aronson;40;Elliot Aronson, social psychologist
-aroo;30;Suffix with buck/switch [common]
+-aroo;30;Suffix with buck/switch [common]
 Arooj;40;Arooj Aftab, Grammy-winning Pakistani American singer
 Aroostook;40;Maine county, and a bloodless border war
 aros;30;Aromantics
@@ -6306,7 +6307,7 @@ A Rush of Blood to the Head;60;2002 studio album by Coldplay
 a rut;30
 Arvo;40;Arvo Pärt, Estonian composer
 Arwen;50;"Lord of the Rings" elf princess
-ary;20
+-ary;20
 Arya;40
 Aryabhata;40;Ancient Indian mathematician and astronomer
 Aryan;10
@@ -7059,7 +7060,7 @@ at-homes;20
 Athos;40
 a thread;20;Twitter convention for indicating a thread
 athwart;40;Contrary to, or across
-ati;20
+-ati;20
 atidein;0;???
 a tie;20
 A-tier;40
@@ -7436,7 +7437,7 @@ Aunt Bee Taylor;40;"The Andy Griffith Show" character
 Aunt Jemima;10
 Aunt Selma;50
 Aunt Viv;40
-aur;20
+aur-;20
 aurae;30;Extremely uncommon vs. auras
 aura farm;60
 aura farmed;60
@@ -7511,7 +7512,7 @@ Austroasiatic;40;Language family including Vietnamese
 Austronesia;40;Pacific island language region
 Austronesian;50;Vast Pacific language family
 Austronesians;40;Peoples of the Pacific and Southeast Asia
-aut;20
+aut-;20
 autarkic;40
 autarkical;40
 autarkies;40
@@ -7647,7 +7648,7 @@ Avett;40;The Avett Brothers, folk rock band
 avg;40
 avgolemono;40;Greek lemon chicken soup
 Avi;30;Avi Arad, Marvel producer
-avi;20
+avi-;20
 Avia;40
 Avianca;40;Colombian airline
 avianize;30
@@ -16391,7 +16392,7 @@ Caravaggisti;40;Followers of Caravaggio
 caravaned;30
 Carax;40;Leos Carax, French filmmaker
 Caray;40;Harry Caray, Cubs broadcaster
-carbo;40;Carbo-loading
+carbo-;40;Carbo-loading
 car bomb;10
 car bombs;10
 Carbonari;40;19th-century Italian revolutionary society
@@ -19139,7 +19140,7 @@ chrome dome;60
 chrome domes;50
 Chromeo;40;Electrofunk duo
 ChromeOS;50;Google's laptop operating system
-chromo;40
+chromo-;40
 chromos;20;Colored pictures, last used 1966
 chronically online;60
 Chronicle of a Death Foretold;60;1981 novella by Gabriel García Márquez
@@ -19399,7 +19400,7 @@ Ciroc;0
 cirrhosis;30
 cirrhotic;30
 cirri;40
-cirro;30
+cirro-;30
 cirrose;30;Of or like cirrus clouds
 cis;50
 Cisatlantic;40;On this side of the ocean
@@ -21057,7 +21058,7 @@ comrade in arms;50
 comradely;30
 Comrade Napoleon;50
 comrades unite;50
-coms;30
+-coms;30
 comsat;40
 Comstock;50;Anthony Comstock, anti-vice crusader / Nevada's Comstock Lode
 comte;30;French count
@@ -29071,12 +29072,12 @@ Eagleton;30
 eaglets;50
 eagye;20
 Eakins;40;Thomas Eakins, American realist painter
-eal;20
+-eal;20
 Ealing;40;London district known for its film studios
 Eames;30;Chair brand
 Eamon;40;Éamon de Valera, Irish statesman
 Eamonn;40;Actor Eamonn Walker
-ean;20
+-ean;20
 Ea-nāṣir;40;Target of the oldest known written complaint (1750 BC)
 Ea-nasir;0
 eanto;20
@@ -29525,7 +29526,7 @@ eCrime;20
 ecru;40;Light beige
 ecrus;30;Bad plural
 E C Segar;30;Popeye's creator
-ect;20
+ect-;20
 ecto-;40
 ectoderm;40
 ectoderms;40
@@ -30498,7 +30499,7 @@ embryonic stem cell research;50
 emc;20
 E = mc²;60
 E=mc²;60
-eme;20
+-eme;20
 Emecheta;40;Buchi Emecheta, Nigerian novelist
 e-meet;30
 Emeka;30;Basketball player ___ Okafor
@@ -31448,7 +31449,7 @@ Ermey;40;R. Lee Ermey, "Full Metal Jacket" drill sergeant
 ermine;40;Weasel
 ermined;30;Clothed in ermine
 ermines;40
-ern;30
+-ern;30
 Ernani;20;Verdi opera
 Ernaux;40;Annie Ernaux, Nobel-winning French author
 erne;30;Bird
@@ -31651,7 +31652,7 @@ escarping;30
 escarpment;50
 escarpments;50
 escarps;30
-esce;20
+-esce;20
 eschalot;40;Type of onion
 eschalots;40
 escheat;20
@@ -31689,7 +31690,7 @@ esculents;20;Edibles
 esd;20
 EsDeeKid;40;???
 Esdras;20
-ese;40
+-ese;40
 E sharp;40
 E-sharp scale;30
 Eshkol;30;???
@@ -44535,7 +44536,7 @@ heptarch;40
 heptarchs;40
 heptarchy;40;Government of seven people
 Heptarchy;40;Seven kingdoms of Anglo-Saxon England
-hepto;30
+hepto-;30
 Hepworth;40;Barbara Hepworth, British sculptor
 her;50
 Hera;50;Greek queen of the gods
@@ -44842,7 +44843,7 @@ hibernal;30
 Hibernia;50;Latin name for Ireland
 Hibernian;50;Irish, poetically
 Hibernians;40;Irish, poetically
-Hiberno;20;Irish-
+Hiberno-;20;Irish-
 hi, Billy Mays here;60
 Hi-C;40;Hi-C
 hiccough;50
@@ -45676,7 +45677,7 @@ holy synod;50
 Holy Writ;50
 Holzer;40;Jenny Holzer, conceptual artist
 Holzhauer;40;James Holzhauer, "Jeopardy!" record breaker
-hom;20
+hom-;20
 Home Alone;60
 home alone;50
 home automation;60
@@ -47049,7 +47050,7 @@ I act;20
 I admit it;60
 Iago;50;"Othello" villain
 Iain;40;Iain Banks, Scottish novelist / Iain Glen, "Game of Thrones" actor
-ial;30;Suffix [occasional]
+-ial;30;Suffix [occasional]
 I alone;50
 I am;50
 I am Alpha and Omega;60;Revelation 22:13
@@ -47391,7 +47392,7 @@ ICP;20;Insane Clown Posse
 ICQ;30;Cross-platform instant messaging system and VoIP client
 I cried;30;Song title
 I Cry;30;Song title
-ics;20
+-ics;20
 Ictinus;20;Co-architect of the Parthenon
 ictus;20
 ictuses;20
@@ -47453,7 +47454,7 @@ identify;50
 identify as;40
 identifying;50
 identifying as;40
-ideo;40
+ideo-;40
 ideologist;40
 Ides;50;Mid-month days in the Roman calendar
 I deserve it;60
@@ -49070,7 +49071,8 @@ inhume;30;Bury, poetically
 inhumed;30;Buried, poetically
 inhumer;30;Burier, poetically
 inhumes;30;Buries, poetically
-Ini;20
+-ini;20
+Ini;0
 in idle;30
 Iniesta;40;Andres Iniesta, scorer of Spain's 2010 World Cup winner
 Inigo;40;Inigo Montoya
@@ -49651,7 +49653,7 @@ ions;50
 ion storm;50;Geomagnetic disturbance
 ion storms;50;Geomagnetic disturbances
 ioo;20
-ior;30;Suffix [rare]
+-ior;30;Suffix [rare]
 iOS;40
 IOU;50
 IOUs;50;Debt markers
@@ -50318,7 +50320,7 @@ is too;40;Playground retort
 Istria;30;Peninsula shared by Croatia, Slovenia, and Italy
 Istrian;40;Of the Istrian Peninsula
 Istrians;40;People of the Adriatic peninsula
-ists;30
+-ists;30
 Istvan;40;István Szabó, Hungarian director
 isu;20
 is up;20
@@ -53463,7 +53465,7 @@ kept tabs;50
 kept tabs on;50
 kept to;40
 kept woman;50
-ker;20
+ker-;20
 Kerala;30;Indian state
 Kérastase;40;Luxury hair care brand
 Kerastase;0
@@ -66236,7 +66238,7 @@ mynahs;40
 mynas;40
 my neck;20
 My Neighbor Totoro;60;Studio Ghibli movie
-myo;20;Muscular prefix
+myo-;20;Muscular prefix
 MYOB;30;Mind your own business
 my oh my;60
 my old;20
@@ -67857,7 +67859,8 @@ nihilo;40
 Niihau;40;Hawaiian island
 Nijinsky;50;Vaslav Nijinsky, legendary ballet dancer
 Nijmegen;40;Oldest city in the Netherlands
-Nik;30;Suffix
+-nik;30;Suffix, as in beatnik or refusenik
+Nik;30;Name, as in Nik Wallenda
 nikah;30;Muslim wedding
 nikahceremonies;50;Muslim weddings
 nikah ceremony;50;Muslim wedding
@@ -69801,7 +69804,7 @@ Octonauts;40;Undersea kids' cartoon
 Octopoda;40
 Octopussy;60
 octroi;20
-ocu;20
+ocu-;20
 ocular pat-down;60
 oculars;30
 oculi;40
@@ -69896,7 +69899,7 @@ Odonata;30;Dragonfly genus
 O'Donnell;50;Rosie O'Donnell, comedian / Chris O'Donnell, actor
 O'Donovan;40;Aoife O'Donovan, folk singer
 odontalgia;40;Tooth pain
-odonto;20;Dental prefix
+odonto-;20;Dental prefix
 odontoid process;40
 odor;50;Air offensive?
 Odorama;60
@@ -69927,8 +69930,8 @@ OECD;30;Organisation for Economic Co-operation and Development
 OED;40
 Oedipal;60
 Oedipus;60
-oen;20
-oeno;30
+oen-;20
+oeno-;30
 oenologist;50
 oenologists;50
 oenomel;20;Greek beverage
@@ -71262,7 +71265,7 @@ oom-pah-pahs;40
 oompahs;40
 oomph;50
 oomphs;20
-oon;20
+-oon;20
 Oona;40
 oons;20
 OOO;40;Out of office [common as tic-tac-toe]
@@ -71523,7 +71526,7 @@ optatives;30;Verbs in the optative mood
 opted for;40
 opted to;30
 opt for;40
-opti;30
+opti-;30
 optical scan;60
 optical scans;60
 Opticks;40;Isaac Newton's treatise on light
@@ -71791,7 +71794,7 @@ ornamental tree;60
 ornamental trees;60
 Ornette;30;Last name
 ornith;20;Bird subj.
-ornitho;20
+ornitho-;20
 ornithopter;60
 ornithopters;60
 or not;60
@@ -71865,7 +71868,7 @@ Orville;50;Orville Wright, aviation pioneer / Orville Redenbacher, popcorn magna
 Orville Redenbacher;60
 Orwell;50;George Orwell, "1984" author
 Orwellian;50;Dystopian, in the manner of "1984"
-ory;20
+-ory;20
 or your money back;60
 OS;40
 osa;20
@@ -72014,7 +72017,7 @@ OS X;40
 OS X Lion;30;2011 operating system version
 OS X Tiger;30;2005 operating system version
 OT;40
-ota;20
+-ota;20
 otaku;40;Anime fan
 otalgia;20;Ear pain
 otalgias;20;Ear pains
@@ -72026,7 +72029,7 @@ otary;20;Eared seal
 OTB;30;Off-track betting
 OTBs;40;Off-track betting parlors
 OTC;40
-ote;20
+-ote;20
 Otello;40
 Oteri;40
 Othello;50;Shakespeare tragedy, or the board game
@@ -72116,7 +72119,7 @@ our loss;60
 ouroboros;60
 ours;50
 our time;20;Partial
-ous;20
+-ous;20
 Ouse;40;English river
 ousel;20
 ousels;20
@@ -72529,7 +72532,7 @@ Oxford comma;60
 Oxford commas;60
 Oxfords;50;Lace-up dress shoes
 Oxfordshire;40;English county
-oxi;20
+oxi-;20
 OxiClean;40;Stain remover brand
 oxidase;40;Enzyme
 oxidic;40
@@ -73312,7 +73315,7 @@ par fives;50
 par four;50
 par fours;50
 parfum;30
-pari;40;Pari-mutuel betting
+pari-;40;Pari-mutuel betting
 Paricutín;40;Mexican volcano born in a cornfield
 Paricutin;0
 parietals;30
@@ -86408,7 +86411,7 @@ sclera;40;White of the eye
 sclerae;40
 scleral;40
 scleras;40
-sclero;30
+sclero-;30
 sclerotomy;40;Eye operation
 scm;20
 SCOBY;20;Symbiotic culture of bacteria and yeast
@@ -89454,7 +89457,7 @@ side pots;60
 side quest;60
 side quests;60
 sider;40
-sidero;20
+sidero-;20
 siders;40
 side salad;60
 side salads;60
@@ -94383,7 +94386,7 @@ stertorous;50;Noisy, as breathing
 stes.;40
 Stes.;40
 stet;50
-stetho;40
+stetho-;40
 stets;40
 Stetson;50;Cowboy hat
 Stetson hat;60
@@ -94957,7 +94960,7 @@ Strathairn;40;David Strathairn, "Good Night, and Good Luck" star
 strathspey;30;???
 strathspeys;30;???
 strati;40;Certain clouds
-strato;40;Prefix
+strato-;40;Prefix
 Stratocaster;50;Fender electric guitar
 Stratocasters;50;Fender electric guitars
 stratosphere;50
@@ -100914,7 +100917,7 @@ thrusted out;50
 thrusting out;50
 thrust out;50
 thrusts out;50
-ths;20
+-ths;20
 Thu;40
 Thucydides;50;Athenian historian and general
 thug;40;Offensive?
@@ -102397,7 +102400,7 @@ Torvalds;50;Linus Torvalds, creator of Linux
 Torvill;40;Jayne Torvill, ice dancer of Torvill and Dean
 Tory;50;Conservative, in Britain / Tory Burch, fashion designer
 Toryism;40;British conservative doctrine
-tos;40;Lean-tos, talking-tos, go-tos, how-tos, etc.
+-tos;40;Lean-tos, talking-tos, go-tos, how-tos, etc.
 TOS;40;Terms of service
 Tosca;40
 Toscanini;50
@@ -104475,7 +104478,7 @@ Tywin Lannister;60;Tywin Lannister from "Game of Thrones"
 Tzara;40;Tristan Tzara, founder of Dada
 tzarina;30
 tzarinas;30
-tze;20
+-tze;20
 Tzi;30;Tzi Ma, Hong Kong-American actor
 Tzi Ma;40;Hong Kong-American actor
 tzimmes;30;Jewish stew
@@ -104636,7 +104639,7 @@ Ukraina;40;Ukraine, in Ukrainian
 Ukraine;50;Country in Eastern Europe
 Ukraini;40;Slava Ukraini, Ukrainian rallying cry
 Ukrainians;50;People of Kyiv's country
-ula;20
+-ula;20
 Ulaanbaatar;50;Capital of Mongolia
 Ulalume;30
 Ulan;20;Ulan Bator, outdated anglicization of Mongolia's capital (now Ulaanbaatar)
@@ -104646,7 +104649,7 @@ Ulan-Ude;20;Siberian city
 Ulbricht;40;Walter Ulbricht, East German leader / Ross Ulbricht, Silk Road founder
 ulceration;40
 ulcerative;40
-ule;20
+-ule;20
 Ulee;20
 Ulee's;40;"Ulee's Gold," 1997 Peter Fonda film
 Ulf;30;Swedish PM Ulf Kristersson
@@ -105377,7 +105380,7 @@ Uranian moons;50
 Uranians;40
 uranic;40
 uranite;40;Mineral source of uranium and radium
-urano;30;Prefix
+urano-;30;Prefix
 Uranus;50
 uranyl;30
 urb;20
@@ -105410,7 +105413,7 @@ Urbino;40;Italian city, Raphael's birthplace
 Urbino, Italy;40;Birthplace of Raphael
 Urbino Italy;0
 Urdu;50;Pakistan's national language
-ure;20
+-ure;20
 urea;20
 uremia;20
 uremic;20
@@ -106232,7 +106235,7 @@ ventis;40;Starbucks orders
 Ventnor;40;Monopoly avenue
 ventral fin;50
 ventral fins;50
-ventro;20
+ventro-;20
 Ventura;50;Ace Ventura, pet detective, or Jesse Ventura
 venture a guess;50
 venture-backed;50
@@ -111510,7 +111513,7 @@ yessing;30
 yes siree;50
 yes sirree;50
 yes sirree, Bob;60
-yester;40
+yester-;40
 yes this;40
 yes we do;40;Green paint
 yet;50
