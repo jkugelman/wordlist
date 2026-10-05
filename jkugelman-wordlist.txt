@@ -3220,7 +3220,8 @@ allness;30
 all-night session;50
 all-night sessions;50
 Allô;30;French greeting "Allô"
-'Allo 'Allo;20
+'Allo 'Allo!;20
+'Allo 'Allo;0
 allocator;50
 allocators;50
 allocution;50
@@ -3944,7 +3945,8 @@ Amilcare;40;Amilcare Ponchielli, "Dance of the Hours" composer
 A Milli;40;Lil Wayne hit
 a million;40
 amilne;0
-am I making that up;60
+am I making that up?;60
+am I making that up;0
 Amin;10
 amines;20;Chemicals
 Amini;10;Mahsa Amini, woman killed in 2022 in Tehran, Iran for not wearing a hijab
@@ -3953,7 +3955,7 @@ amino acids;60
 A minor;50
 aminos;40
 A minus;50
-amion;20
+am I on?;20
 amioolate;0
 Amir;40;Common Arabic name, or a prince
 Amira;30;???
@@ -4411,7 +4413,8 @@ and yet;60
 Andy Gibb;50
 Andy Kim;50
 Andy Kirk;50
-and you are;60
+and you are?;60
+and you are;0
 and you call yourself a detective;60
 and your little dog too;60
 Andy Razaf;40;"Ain't Misbehavin'" lyricist
@@ -5008,7 +5011,8 @@ any day now;50
 any day of the week;50
 any guess?;50
 anyhoo;60
-any ideas;60
+any ideas?;60
+any ideas;0
 any last requests?;60
 any last words;60
 any luck;60
@@ -5730,12 +5734,14 @@ aretreat;0
 are up;20
 Areus;30;Spartan king
 are useless;20
-are we clear;60
+are we clear?;60
+are we clear;0
 are we done here?;60
 are we done here;0
 are we done yet?;60
 are we getting this?;60
-are we live;60;"Is this thing on?"
+are we live?;60;"Is this thing on?"
+are we live;0
 are we not?;20
 are we the baddies;60
 are we there yet;60
@@ -5756,7 +5762,8 @@ are you getting this;60
 are you going to eat that;60
 are you gonna eat that;60
 are you gonna eat those?;60
-are you good;60
+are you good?;60
+are you good;0
 are you happy;60
 are you hearing yourself?;60
 are you hearing yourself;0
@@ -5770,13 +5777,15 @@ are you kidding?;60
 are you kidding;0
 are you kidding me?;60
 are you kidding me;0
-are you mad;60
+are you mad?;60
+are you mad;0
 are you me?;60
 are you nuts?;60
 are you open?;60
 are you out of your mind?;60
 are your ears burning?;60
-are you serious;60
+are you serious?;60
+are you serious;0
 are you sleeping?;50
 are you sure about that;60
 are you thinking what I'm thinking?;60
@@ -18383,7 +18392,8 @@ cheese festivals;60
 cheesehead;60
 cheeseheads;60
 cheese it;50
-cheese it the cops;60
+cheese it, the cops!;60
+cheese it the cops;0
 cheesemonger;60
 cheesemongers;60
 Cheese Olympics;60
@@ -18869,7 +18879,8 @@ chippier;50
 chippiest;50
 chipping up;50;Gaining chips, in a poker tournament
 chippy;50
-Chips Ahoy;60
+Chips Ahoy!;60
+Chips Ahoy;0
 chips and dip;60
 chips and dips;50
 chips and salsa;60
@@ -20774,7 +20785,8 @@ come from;40
 come full circle;60
 come get me;50
 come get some;60
-come here often;60
+come here often?;60
+come here often;0
 come home soon;60
 come in first;50
 come in last;50
@@ -21000,8 +21012,11 @@ commuter towns;60
 Como;40
 cómo está;60
 como esta;0
-como estas;60
-como esta usted;60
+¿cómo estás?;60
+como estas;0
+¿cómo está usted?;60
+¿Cómo está usted?;0
+como esta usted;0
 Comorian;40;Of the Comoros
 Comorians;40;People of the Comoros
 Comoro;40
@@ -23337,7 +23352,9 @@ curse of the ninth;60;Superstition that a ninth symphony is destined to be the c
 curser;40
 cursers;40
 curses at;40
-curses foiled again;60
+curses, foiled again!;60
+curses foiled again;0
+Curses, foiled again!;0
 curses like a sailor;60
 curse word;60
 curse words;60
@@ -25849,7 +25866,8 @@ did I?;50
 Didi;40;Didi Conn, Frenchy in "Grease"
 did I ask?;60
 did I ask you;60
-did I do that;60
+did I do that?;60
+did I do that;0
 Didier;40
 Didier Drogba;40;Ivorian soccer star
 Did I Ever Tell You How Lucky You Are?;60;Dr. Seuss book
@@ -28736,7 +28754,8 @@ dude not funny;60
 dude ranch;60
 dude ranches;60
 dudes and dudettes;60
-Dude Where's My Car;60
+Dude, Where's My Car?;60
+Dude Where's My Car;0
 dude you're getting a Dell;50
 Dudley;50;Dudley Do-Right, cartoon Mountie / Dudley Moore, actor
 due;50
@@ -40554,7 +40573,8 @@ Good Housekeeping Seal of Approval;60
 good impression;50
 good impressions;50
 Gooding;40;Cuba Gooding Jr, "Jerry Maguire" actor
-Good Luck Babe;60;Chappell Roan song
+Good Luck, Babe!;60;Chappell Roan song
+Good Luck Babe;0
 Goodman;50;John Goodman, actor / Benny Goodman, bandleader
 good morning text;60
 good news everyone;60
@@ -40812,7 +40832,8 @@ got a leg up on;60
 got all butthurt;60
 got a lock on;50
 got a match;50
-got a minute;60
+got a minute?;60
+got a minute;0
 got an A;50
 got an edge;50
 got an F;50
@@ -40892,7 +40913,8 @@ Gotland;40;Swedish island in the Baltic
 got lost;50
 got mad;40
 got made;60
-Got Milk;60
+Got Milk?;60
+Got Milk;0
 got more than one bargained for;60
 got Mossed;60;Got dominated by a wide receiver's showy catch, a la Randy Moss
 got naked;50
@@ -47690,7 +47712,8 @@ I don't have the heart;60
 I Don't Have the Heart;50;1990 single by James Ingram
 I don't have to;60
 I don't know;50
-I don't know can you;60
+I don't know, can you?;60
+I don't know can you;0
 I don't know if I can;60
 I don't know if I can do it;60
 I don't know if I can do that;60
@@ -48034,7 +48057,8 @@ I know this one;60
 I know what I saw;60
 I know what you mean;60
 I know you;60
-I know you are but what am I;60
+I know you are, but what am I?;60
+I know you are but what am I;0
 iko;20
 Iko Iko;30;Mardis Gras song
 IKR;30
@@ -50407,7 +50431,8 @@ is that so wrong?;60
 is that so wrong;0
 is that the best you can do?;60
 is that the best you can do;0
-is that you;60
+is that you?;60
+is that you;0
 is there a catch?;60
 is there a catch;0
 is there anyone home?;60
@@ -50661,7 +50686,9 @@ it's a lot to unpack;60
 It's Always Sunny in Philadelphia;60
 it's a matter of public record;60
 it's a matter of time;60
-it's a me Mario;60
+it's-a me, Mario!;60
+it's a me Mario;0
+It's-a me, Mario!;0
 it's an honor;60
 it's a no;50
 it's a no-brainer;60
@@ -52752,7 +52779,8 @@ Kahn;40
 Kahnawake;40;Mohawk territory near Montreal
 Kahneman;50;Daniel Kahneman, author of "Thinking, Fast and Slow"
 Kahoolawe;40;Smallest of Hawaii's main islands
-Kahoot;40;Online learning game site, seems popular
+Kahoot!;40;Online learning game site, seems popular
+Kahoot;0
 Kahoots;40;Online learning games
 kahuna;50
 Kai;40;Kai Ryssdal of N.P.R.
@@ -58762,7 +58790,7 @@ looking to;40
 looking up to;50
 look into;40
 lookkcabinanger;0
-look, Ma;50
+look, Ma!;50
 look Ma, no hands;60
 look ma no hands;0
 look me in the eye;60
@@ -71433,7 +71461,8 @@ oohing;40
 oohing at;40
 oohs;50
 oohs at;40
-ooh shiny;60
+ooh, shiny!;60
+ooh shiny;0
 ooh that's gotta hurt;60
 ooky;40
 oo la la;40
@@ -84819,7 +84848,8 @@ run with it;50
 run with scissors;60
 Runyan;20;Football player / politician Jon
 Runyon;30;Writer Damon
-R U OK;30
+R U OK?;30
+R U OK;0
 RuPaul;50;RuPaul, "Drag Race" host
 RuPaul's;40;"RuPaul's Drag Race"
 Rupert;40;Rupert Murdoch, media mogul / Rupert Grint, actor
@@ -85873,7 +85903,8 @@ sarabands;20;Dances
 Sarabi;30;Simba's mom
 Saracen;20;Arab during the Crusades
 Saracens;20;Arabs during the Crusades
-Sarafina;40;South African musical and film
+Sarafina!;40;South African musical and film
+Sarafina;0
 Sarah;50;Common given name / Sarah Bernhardt, actress
 Sarah Dessen;50;YA author Sarah Dessen
 Sarah McBride;60;First transgender member of Congress
@@ -96401,7 +96432,8 @@ sushi burrito;50
 sushi burritos;50
 sushi chef;60
 sushi chefs;60
-Sushi Go;60;Card game
+Sushi Go!;60;Card game
+Sushi Go;0
 sushi joint;60
 sushi joints;60
 sushi menu;60
@@ -99307,7 +99339,8 @@ that's not what I meant;60
 that's not what I'm saying;60
 that's not what I said;60
 that's no way to act;60
-that so;60
+that so?;60
+that so;0
 thatsocool;0
 that's odd;60
 that's on me;60
@@ -99380,7 +99413,8 @@ that's wild;60
 that's you;60
 that's you, not me;60
 that thing;0
-That Thing You Do;60
+That Thing You Do!;60
+That Thing You Do;0
 that thought;0
 that tracks;60
 that was a good one;50
@@ -100871,7 +100905,9 @@ this is how it's gonna be?;60
 This Is How We Do It;60
 this is huge;60
 this is it;60
-this is Jeopardy;60
+this is Jeopardy!;60
+this is Jeopardy;0
+This is Jeopardy!;0
 this is just a test;60
 this is me you're talking to;60
 this is my jam;60
@@ -107542,7 +107578,8 @@ waitlisting;50
 waitlists;50
 wait on;40
 wait one's turn;50
-wait really;60
+wait, really?;60
+wait really;0
 waitresses;50
 waitron;60
 waitrons;60
@@ -107765,7 +107802,8 @@ wangling;30
 Wankel;40;Felix Wankel, rotary engine inventor
 wanna bite?;60
 wanna go;60
-wanna trade;60
+wanna trade?;60
+wanna trade;0
 wanna try;60
 wanner;40
 wannest;40
@@ -108378,7 +108416,8 @@ WeChat;50;Chinese messaging app
 Wechsler;40;David Wechsler, IQ-test creator
 weck;40;Beef on weck sandwich
 we come in peace;60
-we cool;60
+we cool?;60
+we cool;0
 wed;50
 wedded bliss;60
 wedded to;40
@@ -109014,7 +109053,8 @@ WGH;20
 WGN;20
 wgt.;20
 wha;40
-Whaam;40;Roy Lichtenstein pop art painting
+Whaam!;40;Roy Lichtenstein pop art painting
+Whaam;0
 Whac-A-Mole;60
 whack job;60
 whaleback;50;Herb
@@ -109652,7 +109692,7 @@ who am I to judge?;60
 who am I to judge;0
 who am I to say?;60
 who am I to say no?;50
-whoa, Nellie;60
+whoa, Nellie!;60
 whoa Nelly;60
 who asked?;50
 whoa whoa;60
@@ -109705,7 +109745,8 @@ who makes this stuff?;60
 who, me?;50
 who me;0
 Whoniverse;50;"Doctor Who" fictional universe
-Whoomp;40;1993 song "Whoomp! There It Is"
+Whoomp!;40;1993 song "Whoomp! There It Is"
+Whoomp;0
 whoop-de-do;60
 whoop-dee-fuckin-doo;10
 whoop-dee-fucking-doo;10
@@ -109817,7 +109858,8 @@ why hast thou forsaken me?;60
 why, I'd be delighted;60
 why I never;60
 why is it?;50
-why is that;60
+why is that?;60
+why is that;0
 why is the ocean near the shore?;60
 why me;60
 why so?;50
@@ -112024,7 +112066,8 @@ you ain't gonna need it;60
 you and me;50
 you and me against the world;60
 you and what army;60
-you and whose army;60
+you and whose army?;60
+you and whose army;0
 you are;40
 You Are;40;1983 Lionel Richie song
 you are assessed for street repairs;50;Community Chest card in Monopoly
@@ -112037,7 +112080,8 @@ you bet;60
 you bet I am;60
 you bet I can;60
 you bet your bottom dollar;60
-you called;60
+you called?;60
+you called;0
 you can bet your bottom dollar;60
 you can do it;60
 you can do that;60
@@ -112100,7 +112144,8 @@ you going to eat that?;60
 you gonna eat that?;60
 you gonna eat that;0
 you gonna eat those?;60
-you good;60
+you good?;60
+you good;0
 you go on without me;60
 you got a staring problem?;60
 you got it, brother;60
@@ -112393,7 +112438,8 @@ YSL bag;30
 YTD;40
 Ytterby;40;Swedish village that gave its name to four elements
 yttria;30;Rare earth oxide
-y tu;30
+¿y tú?;30
+y tu;0
 Yu;40;Yu Darvish, MLB pitcher / Charles Yu, novelist
 Yuasa;40;Masaaki Yuasa, anime director
 Yuban;40;Coffee brand
