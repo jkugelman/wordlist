@@ -419,9 +419,9 @@ A A Milne;0
 Aamir;30;Indian actor Aamir Khan
 Aamir Khan;40;Indian actor
 aand;20
-aande;30
+A and E;30
 A and P;20;Defunct grocery store chain
-aandw;30
+A and W;30
 A and W Root Beer;30
 Aang;40;"Avatar: The Last Airbender" protagonist
 AA online;40;Alcoholics Anonymous online
@@ -2643,7 +2643,7 @@ Alan Bartlett Shepard Jr.;50;First American in space
 Aland;0
 Alan Dale;40;???
 Alan Dershowitz;50
-alandtippergore;0
+Al and Tipper Gore;0
 alanine;30;Amino acid
 Alanis;40
 Alan Lomax;50
@@ -5665,7 +5665,7 @@ Arden;40
 ardency;30
 Ardennes;50;Forest of the Battle of the Bulge
 Ardern;40;New Zealand PM Jacinda Ardern 2017-23
-ardlylion;0
+ardly Lion;0
 Ardmore;20;Philly suburb
 Arduino;50
 Arduinos;50
@@ -6524,7 +6524,7 @@ Ashton;40;Ashton Kutcher, actor, among others
 Ashur;20
 Ashura;40;Islamic day of mourning
 Ashurbanipal;50;Assyrian king with the great library
-asi;20
+as I;20
 Asia;50;Largest continent
 Asiago;50;Italian cheese
 Asiago bagel;60
@@ -6986,7 +6986,7 @@ ataman;20;Cossack leader
 atamans;20;Cossack leaders
 atamotua;0
 Atanarjuat;40;"Atanarjuat: The Fast Runner" Inuit film
-atandtoperators;0
+AT and T operators;0
 at an impasse;50
 atar;20
 ataraxia;30
@@ -7748,7 +7748,7 @@ avulses;20
 aw;50;Used to express disappointment or dismay
 A&W;40;Root beer brand
 Awaara;30;Classic Raj Kapoor Bollywood film (1951)
-awac;20
+a WAC;20
 AWACS;30;Airborne Warning and Control System plane
 a wad;20
 awag;30;Wagging
@@ -8671,7 +8671,7 @@ Baltics;50;Estonia, Latvia, and Lithuania
 Baltimore;50;Maryland's largest city
 Baltimorean;40;Native of Baltimore
 Baltimoreans;40;Residents of Charm City
-baltimorerave;0
+Baltimore rave;0
 Balto;40;Heroic sled dog of the 1925 serum run
 Balts;40;Latvians, Lithuanians and kin
 Balvin;40;J Balvin, reggaeton star
@@ -9014,7 +9014,7 @@ barding;30;Body armor for a war horse
 Bardo;40;George Saunders novel "Lincoln in the Bardo"
 Bard of Avon;50
 Bardot;50;Brigitte Bardot, French screen icon
-bardotfilm;0
+Bardot film;0
 Bardugo;40;Leigh Bardugo, "Shadow and Bone" author
 bare all;60
 bare-boned;50
@@ -11739,7 +11739,7 @@ black diamond;60
 black diamond run;60
 black diamond runs;60
 black diamonds;60
-blackeyedp;0
+Black Eyed P;0
 Blackfeet;40;Montana Native American nation
 Blackfoot;40;Plains Indigenous confederacy
 Blackfriars;50;London district and Shakespearean playhouse
@@ -16297,7 +16297,7 @@ capital of India;20
 capital of Oregon;20
 capital of Texas;20
 capital of Trinidad and Tobago;20
-capitalofturkey;0
+capital of Turkey;0
 capital O's;40
 capital P;40
 capital P's;40
@@ -16877,7 +16877,7 @@ caryatid;30;Greek female sculpture serving as a column
 caryatids;30;Greek female sculptures serving as columns
 Cary Joji Fukunaga;50;Director of "True Detective" (2014) and "It" (2017)
 Caryl;40;Caryl Churchill, "Top Girls" playwright
-cas;20
+C as;20
 casa;40
 casaba melon;50
 Casabianca;40;"The boy stood on the burning deck" poem
@@ -19486,7 +19486,7 @@ Citi;40;Bank brand of Citi Field and Citi Bike
 Citibank;40;Big American bank
 Citigroup;50;Banking giant
 Citizenfour;50;Oscar-winning Snowden documentary
-citizenmoonited;0
+Citizen Moonited;0
 Cito;20;Baseball manager Gaston
 citrate;40
 citrates;40
@@ -25017,7 +25017,7 @@ de la Cruz;50;Baseball All-Star Elly De La Cruz
 Delancey;40;Lower East Side street
 Delaney;40;Rob Delaney, "Catastrophe" comedian
 Delano;40;Franklin Delano Roosevelt's middle name
-delanoroosevelt;0
+Delano Roosevelt;0
 Delany;40;Samuel R. Delany, science fiction author / Dana Delany, actor
 Delaria;40;Lea DeLaria, "Orange Is the New Black" actress
 de la Rocha;50;Zack de la Rocha, Lead singer of Rage Against the Machine
@@ -25270,7 +25270,7 @@ Dennett;40;Daniel Dennett, philosopher of consciousness
 Dennings;40;Kat Dennings, "2 Broke Girls" star
 Dennis;50;Dennis Hopper, actor / Dennis Franz, "NYPD Blue" star
 Dennis Lehane;50;"Shutter Island" author
-dennissinned;0
+Dennis sinned;0
 Denny;40;Denny's, the diner chain / Sandy Denny, folk singer
 Denny's;50;Diner chain
 denominate;40
@@ -27338,7 +27338,7 @@ donnas;30;Italian women, or plural name
 Donne;40;John Donne, metaphysical poet
 Donnelly;40;Irish surname, as in Ignatius Donnelly
 Donner;50;Donner Party, or Santa's reindeer
-donnerblitzen;0
+Donner Blitzen;0
 Donner Party;60
 Donner Pass;60
 Donnie;50;Donnie Wahlberg, actor / "Donnie Darko"
@@ -29277,7 +29277,7 @@ ear warmers;50
 Earwolf;40;Comedy podcast network
 earworm;60
 earworms;60
-eas;20
+E as;20
 ease by;40
 eased by;40
 eased in;40
@@ -29744,8 +29744,8 @@ Edmonton Alberta;0
 Edmontonian;40;Native of Edmonton
 Edmontonians;40;Albertan city dwellers
 Edmund;50;Common given name
-edmundi;30
-edmundii;30
+Edmund I;30
+Edmund II;30
 Edmund John Millington Synge;40;Irish writer and collector of folklore (1871–1909)
 Edna;50;Dame Edna Everage, Barry Humphries character / common first name
 Edna Millay;50;???
@@ -30204,7 +30204,7 @@ elbow in;50
 elbowing in;50
 elbow pasta;50
 elbows in;50
-elbramsculpture;0
+El Bram sculpture;0
 Elbridge;40;Elbridge Gerry, namesake of the gerrymander
 Elbrus;30;Mount Elbrus, highest mountain Russia/Europe
 El Camino;60
@@ -31455,7 +31455,9 @@ Eragon;40;Christopher Paolini dragon novel
 erasable;40
 erase all;50
 Eraserhead;50;David Lynch's first feature
-Erasermate;40;Paper Mate erasable pen
+EraserMate;40;Paper Mate erasable pen
+Eraser Mate;0
+Erasermate;0
 Erasermates;40;Erasable pens
 Erasmian;30;Follower of Erasmus
 Erasmus;40;Dutch theologian
@@ -33476,7 +33478,7 @@ Fantas;40;Orange sodas
 fantasia;60
 Fantasticks;40;"The Fantasticks", long-running musical
 fantastictechnikahlo;0
-fantasticthree;0
+Fantastic Three;0
 fantastique;60;Literary genre, or Berlioz's "Symphonie fantastique"
 fantasying;40
 Fante;40;John Fante, author of "Ask the Dust" / Ghanaian people
@@ -40129,7 +40131,7 @@ go ham;60
 go hard;50
 go Hollywood;60
 go home;50
-goi;20
+go I;20
 go in;40
 go in circles;60
 going aboard;40
@@ -47218,10 +47220,10 @@ Ians;30
 Ian Woosnam;40;Pro golfer in the '80s
 Iapetus;30;Third-largest moon of Saturn
 I apologize;50
-ias;20
+I as;20
 I assumed;50
 I assume not;60
-iat;20
+I at;20
 IATA code;40
 IATA codes;40
 I ate;40
@@ -47247,7 +47249,7 @@ i-banks;40
 I-bar;40
 I-bars;40
 IBC;20
-ibe;20
+I be;20
 I-beam;40
 I-beams;40
 I been had;30
@@ -47788,7 +47790,7 @@ if-else statements;60
 I felt seen;20
 ifes;20
 iff;30;If and only if
-ifi;20
+if I;20
 if I could;50
 If I Could Turn Back the Hands of Time;10;R. Kelly song
 If I Did It;60
@@ -48240,7 +48242,7 @@ I Love Lucy;60
 I love Thanksgiving;20
 I love that for you;60
 I love this part;60
-ilovetogoto;0
+I love to go to;0
 I love you;60
 ils;20
 Ilsa;40;From Casablanca
@@ -48447,7 +48449,7 @@ Imma Be;50;Black Eyed Peas hit "Imma Be"
 Imma let you finish;60
 immanence;40;Being completely within something, as opposed to transcendence
 Immanuel;50;Immanuel Kant, philosopher
-imme;0
+IM me;0
 I'm Mean;50;Bluto's song
 Immelmann;40;Max Immelmann, of the aerial turn
 I'm melting;60
@@ -48823,7 +48825,7 @@ in chapter eleven;20
 in charge;50
 Inchbald;40;Elizabeth Inchbald, English playwright and novelist
 Incheon;40;Korean city
-inchnails;0
+Inch Nails;0
 inchoative;40;Type of verb
 Inchon;30;Korean War battle site
 incircle;30
@@ -49335,7 +49337,7 @@ in-out;40
 Inouye;40;Hawaii's Daniel Inouye
 in over one's head;60
 inpank;0
-inparis;0
+in Paris;0
 in pawn;30
 in pen;50
 in pencil;50
@@ -49373,7 +49375,7 @@ inseam;50
 inseams;50
 In Search of Lost Time;60;1913–1927 novel in seven volumes by Marcel Proust
 in season;60
-inseattle;0
+in Seattle;0
 Insecta;30
 insect repellent;50
 insect repellents;50
@@ -50190,7 +50192,7 @@ I should say something;60
 ishq;20;Arabic word meaning 'love' or 'passion'
 Ishtar;50;Mesopotamian goddess, and a legendary flop
 I shudder to think;60
-isi;20;Partial [occasional]
+is I;20;Partial [occasional]
 Isiah;40;Isiah Thomas, Pistons Hall of Famer / Isiah Whitlock Jr., actor
 Isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
 Isidora;40;George Sand novel/title character
@@ -50584,7 +50586,7 @@ I thought I just did;60
 I thought I lost you;60
 I thought you'd say that;60
 I thought you knew;60
-iti;20
+it I;20
 itihat;0
 I, Tina;30
 I Tina;0
@@ -51312,7 +51314,7 @@ James Beard Awards;60
 James Beard Foundation;60
 James Belushi;50;Comedian Jim Belushi
 James Bernoulli;60;Swiss mathematician (1655–1705)
-jamesbluntly;0
+James Bluntly;0
 James B. McPherson;50;U.S. Army general in the American Civil War (1828–1864)
 James B McPherson;0
 James Bond Theme;60
@@ -53076,7 +53078,7 @@ karts;50
 Kar-wai;40;Wong Kar-wai, Hong Kong filmmaker (born 1958)
 Karyn;40;Karyn White, singer of the 1991 #1 hit "Romantic"
 Karzai;40;Hamid Karzai, Afghan president
-kas;20
+K as;20
 Kasabian;40;British rock band / Linda Kasabian, Manson trial witness
 Kasdan;40;Filmmaker Lawrence Kasdan
 Kasem;40
@@ -55756,7 +55758,9 @@ lary;20
 larynx;50
 larynxes;50
 las;40
-Lasalle;40
+La Salle;40
+LaSalle;40
+Lasalle;0
 lascar;20;Indian sailor
 lascars;20;Indian sailors
 Las Casas;40;???
@@ -56305,7 +56309,8 @@ lead actress;60
 lead actresses;60
 lead apron;50
 lead aprons;50
-Leadbelly;40;Lead Belly, blues and folk legend
+Lead Belly;40;Lead Belly, blues and folk legend
+Leadbelly;0
 lead by example;60
 lead climb;60
 lead climbed;60
@@ -56989,7 +56994,7 @@ LePage's;20
 Lepanto;20;Site of a 1571 naval battle
 le Père Noël;50
 Le Pew;40
-Lepews;20
+Le Pews;20
 Lepidoptera;40;Butterflies and moths
 lepidote;30
 Lepidus;40;Marcus Aemilius Lepidus, Second Triumvirate member
@@ -57008,7 +57013,7 @@ Lerners;20
 Leroi;40;LeRoi Jones, who became Amiri Baraka
 Le Roi d'Ys;30;???
 Le Roi Soleil;50
-lerouge;20
+Le Rouge;20
 Leroux;40;Gaston Leroux, "The Phantom of the Opera" author
 Leroy;50;Common first name, as in "Bad, Bad Leroy Brown"
 Leroys;30;Plural name
@@ -67562,7 +67567,7 @@ nettlers;40
 nettling;40
 net ton;30
 net tons;30
-nettv;0
+net TV;0
 networking site;60
 networking sites;60
 network security;60
@@ -69004,7 +69009,7 @@ not fair;50
 not for;40
 not for a moment;60
 not give a shit;10
-notgnihsawallaw;0
+Notgnihsaw Allaw;0
 not great, not bad;40;???
 not guilty;50
 Noth;40;Chris Noth
@@ -70359,7 +70364,7 @@ oh happy day;60
 oh hell no;60
 oh, hi there;60
 oh hi there;0
-ohi;20
+oh I;20
 O'Higgins;50;Bernardo O'Higgins, liberator of Chile
 Ohio;50;Buckeye State
 Ohioan;50
@@ -70491,7 +70496,7 @@ oily goo;20;Green paint
 Oingo;40;Oingo Boingo, Danny Elfman's band
 oir;20
 Oireachtas;50;Ireland's parliament
-ois;20
+O is;20
 Oise;30;French river and department
 oiseau;30;Bird: Fr.
 Oistrakh;40;David Oistrakh, Soviet violinist
@@ -70994,7 +70999,7 @@ oncles;30;French for uncles
 on cloud three;0
 oncogene;30;Cancer-causing gene
 oncogenes;30
-ond;20
+on D;20
 Ondaatje;40;Michael Ondaatje, "The English Patient" author
 on dates;30
 onde;20;Wave: Fr.
@@ -72004,7 +72009,7 @@ Orlon;30;Acrylic fiber
 Orlons;20
 Orlov;40;Grigory Orlov, favorite of Catherine the Great
 Orly;40;Paris airport
-orm;20
+or M;20
 Orman;40
 Ormandy;40
 ormolu;30;Fake gold coating
@@ -72261,7 +72266,7 @@ othering;60;Making someone feel like an outsider
 Othmar;20;"Peanuts" teacher
 Otho;20;Roman emperor
 otijom;0
-otilde;30
+O tilde;30
 otiose;40;Useless
 otiosity;40
 Otis;50;Elisha Otis, elevator maker / Otis Redding, soul singer
@@ -73202,7 +73207,7 @@ Panama;50;Canal country, or a Van Halen song
 Panama Canal;50
 Panama hat;60
 Panama hats;60
-panamalithuania;0
+Panama Lithuania;0
 Panamanian;50;Canal country native
 Panamanians;50;Canal country's people
 Panamas;40;Panama hats
@@ -74000,7 +74005,7 @@ Pauley;40;Jane Pauley, "CBS Sunday Morning" host
 Paul Hollywood;50;Judge on "The Great British Bake Off"
 Pauli;40
 Paulie;40;Paulie Walnuts, "Sopranos" mobster
-paulii;20
+Paul II;20
 Paul III;20
 Paulina;40;Paulina Porizkova, supermodel
 Pauline;50;Common given name, of "Perils" fame
@@ -77147,7 +77152,7 @@ popcorn tubs;50
 Pope;50;Head of the Catholic Church / Alexander Pope, poet
 Pope Adrian I;30
 Pope AFB;20
-popealan;20
+Pope Alan;20
 Pope Benedict;50
 Pope Benedict I;30
 Pope Benedict XVI;30
@@ -78576,7 +78581,7 @@ PR strategies;50
 PR strategy;50
 PR tactic;50
 PR tactics;50
-prtag;0
+PR tag;0
 PR talk;40
 PR team;50
 PR teams;50
@@ -83153,7 +83158,8 @@ Rigoberta Menchú;40;1992 Nobel Peace laureate
 Rigoberta Menchu;0
 Rigoletto;50;Verdi opera
 rigueur;30
-Rigveda;50;Oldest of the Vedas
+Rig Veda;50;Oldest of the Vedas
+Rigveda;0
 Rih;20;Rihanna nickname, never used in NYT
 Rihanna;60
 Riis;20;Muckraking 1800s journalist Jacob
@@ -87250,7 +87256,7 @@ Second Punic War;50
 second serve;50
 second set of eyes;60
 second stomach;60;Craving for sweets after meals
-secondstomars;0
+Seconds to Mars;0
 second-to-last;50
 Secord;40;Laura Secord, Canadian War of 1812 heroine and chocolate brand
 secrecies;30
@@ -92043,7 +92049,7 @@ Sohla;30;Chef, restaurateur, author, and YouTube personality Sohla El-Waylly
 Sohla El-Waylly;50;Chef, restaurateur, author, and YouTube personality
 Sohn;20;Son: Ger.
 Soho;40
-soi;20
+so I;20
 so I gather;60
 soigné;20;Well-groomed
 soignée;20;Well-groomed
@@ -92278,7 +92284,7 @@ song parodies;50
 song parody;50
 Songs in the Key of Life;60;1976 studio album by Stevie Wonder
 songsoffaithand;0
-songstresspatti;0
+songstress Patti;0
 songs without;0
 Songz;50;Rapper Trey
 soni;20
@@ -93720,7 +93726,7 @@ sss;30;Selective Service System, or sound [extremely common]
 Sssssss;20;1973 snake horror film
 SST;30;Concorde [extremely common]
 sstar;20
-sstars;20
+S stars;20
 SSTs;30;Supersonic transports
 SSW;30
 st.;40
@@ -100230,7 +100236,7 @@ The One Ring;60
 the one to beat;60
 the only game in town;60
 The Onset;40;Frost poem
-theopen;0
+The Open;0
 the Open Era;40
 the opera;30
 Theophilus;40;Addressee of the Gospel of Luke
@@ -105531,7 +105537,7 @@ untied shoelace;60
 untied shoelaces;60
 until one's dying day;50
 until recently;50
-untimeschicagos;0
+untimes Chicagos;0
 Untouchables;50;Eliot Ness's squad
 untrained eye;50
 untwist;50
@@ -105948,7 +105954,7 @@ US Marine;50
 US Marines;50
 USMC;40
 USMNT;40;Men's national soccer team representing United States
-usmotoristsclub;0
+US Motorists Club;0
 USN;20
 Usnavi;40;Usnavi de la Vega, "In the Heights" lead
 US News;50
@@ -105981,7 +105987,7 @@ US Senate;0
 US Senator;40
 US Senators;40
 USS Enterprise;50
-ussesirpretne;0
+USS Esirpretne;0
 USS Gerald R. Ford;40
 USS Harry S. Truman;40
 Ussher;40;James Ussher, archbishop who dated creation to 4004 BC
@@ -106383,7 +106389,7 @@ Vasudeva;40;Krishna's father in Hindu myth
 vat;50
 Va. Tech;40
 Vatican;50;Papal city-state
-vaticani;30
+Vatican I;30
 vaticinator;30;???
 Vatnajokull;40;Vatnajökull, Iceland's largest glacier
 vau;20
@@ -109446,7 +109452,8 @@ what's your sign;0
 what's your take?;60
 what's your take;0
 whattaappity;0
-Whattaman;40;"Whatta Man," Salt-N-Pepa and En Vogue hit
+Whatta Man;40;"Whatta Man," Salt-N-Pepa and En Vogue hit
+Whattaman;0
 what the;60
 what the actual fuck;10
 what the dealio?;60
@@ -111397,7 +111404,7 @@ Xterra;40;Nissan SUV
 Xterras;40;Nissan SUVs
 Xtian;30;Abbreviation for Christian
 Xtianity;40;Christianity, abbreviated
-xtimesy;0
+X times Y;0
 Xtina;40
 xtra;40
 XTS;20
@@ -111804,7 +111811,7 @@ yenning;40
 yenning for;40
 yens;40
 yens for;40
-yensid;0
+Yen Sid;0
 yenta;40
 yentas;40
 Yente;40;"Fiddler on the Roof" matchmaker
