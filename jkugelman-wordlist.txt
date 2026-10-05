@@ -19186,7 +19186,9 @@ Chou;30;Chou En-lai
 Choudhury;40;Sarita Choudhury, actress
 Chou En-lai;40
 Chowdhury;40;Common South Asian surname
-Choy;40;Bok choy, La Choy soy sauce
+choy;40;Bok choy
+Choy;30;La Choy soy sauce
+choy sum;30;Leafy vegetable
 Chr.;20
 Chreaster;60;Christian slang for someone who only goes to church on Christmas and Easter
 Chreasters;60
@@ -33861,6 +33863,7 @@ fat cat;60
 fat cats;60
 fat check;60
 fat checks;60
+fat choy;40;Blue-green alga used in Chinese cooking
 fat content;50
 fateful day;60
 Fatehi;40;Nora Fatehi, Bollywood dancer and actor
@@ -40715,6 +40718,7 @@ gone to seed;60
 gone to the polls;60
 gone wrong;40
 Gonggong;40;Dwarf planet named for a Chinese water god
+gong hay fat choy;40;Cantonese phrase used during Chinese New Year
 gongongongongon;0
 Gonne;40;Maud Gonne, Irish revolutionary and Yeats's muse
 gonococci;10;Gonorrhea bacteria
@@ -42519,6 +42523,7 @@ gun for hire;60
 gun fu;60;Gun + kung fu
 gung;40;Gung ho
 Gunga;40;Gunga Din, Kipling poem hero
+gung hay fat choy;40;Cantonese phrase used during Chinese New Year
 gun mount;50
 gun mounts;50
 Gunn;40;Various people
@@ -55265,6 +55270,8 @@ kundalini;40;Concept in Hinduism
 Kundera;40;Milan Kundera, "The Unbearable Lightness of Being" author
 Kundun;40;Scorsese film about the Dalai Lama
 kung;40;Kung fu, kung pao
+kung hei fat choy;40;Cantonese phrase used during Chinese New Year
+Kung Hei Fat Choy;0
 kung pao beef;60
 kung pao chicken;60
 kung pao pork;60
@@ -55456,6 +55463,8 @@ Lachesis;30
 Lachey;40;Nick Lachey, 98 Degrees singer
 Lachlan;30;???
 Lachman;40;"Severance" actor Dichen Lachman
+La Choy;40;Soy sauce brand
+La Choy soy sauce;50
 lacing;50
 lacing into;40
 laciniate;20
@@ -108871,6 +108880,7 @@ Wayne's;40;"Wayne's World"
 Wayne's World;60
 Way of Water;60;Avatar 2, with "the"
 Wayson;40;Wayson Choy, Canadian novelist
+Wayson Choy;40;Asian-Canadian LGBT novelist (1939–2019)
 Waystar;40;Waystar RoyCo, "Succession" conglomerate
 Wayzata;40;Affluent Minneapolis suburb
 Waze;50;Crowdsourced navigation app
