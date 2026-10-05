@@ -1038,8 +1038,10 @@ Achille;20
 achillea;30
 Achille Lauro;40
 Achilles;50
-Achilles heel;60
-Achilles heels;60
+Achilles' heel;60
+Achilles heel;0
+Achilles' heels;60
+Achilles heels;0
 Achilles tendon;60
 Achilles tendons;50
 aching for;40
@@ -2329,7 +2331,7 @@ Ainge;30;Danny Ainge, NBA player, coach, and executive of the Utah Jazz
 Aino;20
 Ain't 2 Proud 2 Beg;50;1991 debut single by TLC
 ain't hay;30;Is of value, slangily
-aint I;20
+ain't I;20
 ain't I a stinker?;60
 ain't I a stinker;0
 ain't it?;40
@@ -8515,7 +8517,8 @@ bales of hay;50
 Balfe;40;Caitriona Balfe, "Outlander" actress
 Balfour;40;Arthur Balfour, of the Balfour Declaration
 Bali;50;Indonesian resort island
-Bali Hai;50
+Bali Ha'i;50
+Bali Hai;0
 Bali, Indonesia;50
 Balinese;40;Of Bali
 Balinska;40;Ella Balinska, "Charlie's Angels" actress
@@ -8643,7 +8646,8 @@ Balvin;40;J Balvin, reggaeton star
 Balzac;50;Honoré de Balzac, French novelist
 Balzacian;40;Like Honoré de Balzac's fiction
 bam;50
-Bama;40
+'Bama;40
+Bama;0
 Bam Adebayo;60;Bam Adebayo, who scored 83 points in an NBA game (2nd highest all time)
 Bamako;40;Capital of Mali
 Bamana;40;Malian ethnic group and language
@@ -9686,6 +9690,7 @@ BBQ burgers;60
 BBQ chicken;60
 BBQ chips;60
 BBQed;40;Cooked on the grill
+BBQ'ed;0
 BBQ grill;60
 BBQ grills;60
 BBQing;60
@@ -9718,7 +9723,9 @@ BBs;50;Ammo, or BBS
 BC;40
 BCC;40
 BCCed;40
+BCC'ed;0
 BCCing;40
+BCC'ing;0
 BCCs;40
 bcd;20
 bcde;20
@@ -10278,7 +10285,7 @@ beginandsadat;0
 beginbinge;0
 be glad to;50
 Begley;40;Ed Begley Jr., actor and environmentalist
-be good for goodness sake;60
+be good for goodness' sake;60
 begrime;40
 begrimed;40
 begrimes;40
@@ -11649,7 +11656,8 @@ Björk;50;Björk, Icelandic singer
 Bjork;0
 Björn;50;Björn Borg, tennis great / Björn Ulvaeus of ABBA
 Bjorn;0
-BJs;40;BJ's Wholesale Club
+BJ's;40;BJ's Wholesale Club
+BJs;0
 BK;30
 Bklyn;30;Brooklyn, abbreviated
 bks;20
@@ -17354,6 +17362,7 @@ cccxx;20
 CCCXXXI;20
 CCD;20
 CCed;40
+cc'ed;0
 C cell;40
 C cells;40
 CCH;40;Actress CCH Pounder
@@ -17752,7 +17761,9 @@ CFPB;40;Consumer Financial Protection Bureau
 CFs;20;Center fielders
 CGI;40
 CGIed;40;Rendered with computer graphics
+CGI'ed;0
 CGIing;40;Adding computer-generated effects
+CGI-ing;0
 CGIs;40;Computer-generated images
 CGS;20
 ch;30
@@ -17937,7 +17948,7 @@ changing one's tune;50
 changing the channel;60
 changing to;40
 chango;40;Presto chango
-Changs;40;P.F. Chang's
+Chang's;40;P.F. Chang's
 changs;20
 Changsha;40;Capital of Hunan, China
 Changsha, China;40;Capital of Hunan
@@ -18809,7 +18820,8 @@ Chipettes;40;Alvin and the Chipmunks' female counterparts
 Chipewyan;40;Dene people of northern Canada
 chip leader;60
 chip leaders;60
-Chip 'n Dale;60
+Chip 'n' Dale;60
+Chip 'n Dale;0
 ChIP-on-chip;50;Molecular biology technology used to investigate interactions between proteins and DNA in vivo
 chip on one's shoulder;60
 chipotle;60
@@ -27817,6 +27829,7 @@ DPRK;30;Democratic People's Republic of Korea
 DPs;30;Double plays
 DPT;20
 DQed;40
+DQ'ed;0
 DQing;40;Disqualifying
 DQs;40
 Dr;50
@@ -28952,6 +28965,7 @@ DVM;20
 Dvorak;50;Antonin Dvořák, composer / the Dvorak keyboard layout
 DVR;40
 DVRed;40;Recorded for later viewing
+DVR'ed;0
 DVRing;40;Recording for later
 DVRs;30
 D-Wade;40
@@ -30192,7 +30206,7 @@ Eleonore Prohaska;50;Prussian woman who fought as a male soldier during the Napo
 elephant in the room;60
 Elephant Mario;60
 elephants in the room;60
-elephantssnacks;0
+elephant's snacks;0
 El-Erian;30
 eless;20
 Eleusinian;40;Eleusinian Mysteries, ancient Greek rites
@@ -31189,7 +31203,7 @@ eolith;30
 Eolithic;40;Early period of the Stone Age
 eoliths;30
 eon;50
-eontologistspal;0
+eontologist's pal;0
 Eos;40;Goddess of the dawn
 eosin;30;Cosmetic dye
 eosine;30;Cosmetic dye
@@ -32423,7 +32437,7 @@ evitable;30
 evitably;30
 Evita Perón;50
 Evita Peron;0
-evitas;20
+Evita's;20
 e-vite;40
 Evo;30;Bolivian president Morales
 evolute;20;Geometry term
@@ -34729,7 +34743,7 @@ fireline;50
 firelines;50
 fire Luigi;20
 fireman;50
-firemansred;0
+fireman's red;0
 Fire Mario;60
 fire marshal;50
 firemen;50
@@ -37381,7 +37395,8 @@ Galen;40
 galena;30;Lead ore
 galenas;20;Lead ores
 Galentine;60
-Galentines;60
+Galentine's;60
+Galentines;0
 Galentine's Day;60;Feb. 13 holiday that celebrates women's friendship, from "Parks and Rec"
 gales;50
 gales of laughter;60
@@ -47439,6 +47454,7 @@ ideational;40
 ideative;40
 I'd eat you alive;60
 IDed;50
+ID'ed;0
 idée;40
 idem;40;Ditto, in footnotes
 I demand a rematch;60
@@ -48120,7 +48136,8 @@ Ilya;30
 Ilyich;40;Patronymic of Lenin and Tchaikovsky
 ILYSM;30;I love you so much
 I'm;50
-Ima;20;I'm a partial
+I'm a;20;I'm a partial
+Ima;0
 I'm a big fan;60
 I'm a catch;60
 I'm a Celebrity Get Me Out of Here;60
@@ -48215,7 +48232,7 @@ imbruing;40
 I'm bushed;60
 I'm calling it a night;50
 ImClone;30;Company in Martha Stewart's trading scandal
-imcomin;0
+I'm comin';0
 I'm cooked;60
 I'm cool;60
 I'm curious;60
@@ -48244,6 +48261,7 @@ I mean you;60
 I'm eating;60;"Gross!"
 I'm eating here;60;"Gross!"
 IMed;40
+IM'ed;0
 I meet;20
 iMeet;20
 Imelda;40;Imelda Marcos, or Imelda Staunton who played Dolores Umbridge
@@ -49963,7 +49981,7 @@ Isa Briones;50;Actress Isa Briones from "The Pitt"
 is abroad;20
 Isador;30
 Isadora;40;???
-isadoras;0
+Isadora's;0
 Isadore;40;???
 is ahead;20
 Isaiah;40;Book of the Bible, or a given name
@@ -50792,8 +50810,8 @@ I've been there;60
 I've been thinking;60
 I've done it;60
 I've eaten;50
-ivefallen;0
-ivegot;0
+I've fallen;0
+I've got;0
 I've got a name;60
 I've got a question;60
 I've got ears;60
@@ -54399,6 +54417,7 @@ koi;50
 koi carp;50
 Koine;40;Common Greek dialect of the New Testament
 KOing;40;Knocking out
+KO'ing;0
 koinonia;30;Christian fellowship
 koi pond;50
 koi ponds;50
@@ -56828,7 +56847,7 @@ Leo X;20
 Leo XI;20
 Leo XIII;20
 Leo XIV;50;Current pope
-Lepages;20
+LePage's;20
 Lepanto;20;Site of a 1571 naval battle
 le Père Noël;50
 Le Pew;40
@@ -56972,7 +56991,8 @@ let's agree to disagree;60
 lets at;40
 lets back in;40
 let's back up;60
-lets be;50
+let's be;50
+lets be;0
 let's be honest;60
 let's call it a night;60
 let's call it a tie;60
@@ -56983,7 +57003,7 @@ lets down one's guard;50
 lets down one's hair;50
 let's drop it;60
 letsee;20
-letsfree;0
+let's free;0
 let's get cracking;60
 let's get down to brass tacks;60
 let's get into it;60
@@ -57556,7 +57576,7 @@ Like Water for Chocolate;60
 like you wouldn't believe;60
 liking a lot;50
 Likud;30;Israeli right-wing political party
-lil;50
+lil';50
 Lila;40
 Lila Lee;40;Silent film actress
 Lilangeni;40;Currency of Eswatini
@@ -57587,7 +57607,8 @@ Lil' Miss Thang;60
 Lil' Miss Thing;60
 Lil' Mo;40;Singer Lil' Mo, unclear notability
 Lilo;50
-lil ol' me;60
+li'l ol' me;60
+lil ol' me;0
 Lilongwe;40;Capital of Malawi
 lilter;40
 lilters;40
@@ -58787,7 +58808,7 @@ Lorrain;40;Claude Lorrain, French landscape painter
 Lorraine;50;French region, as in quiche
 Lorre;40;Actor Peter Lorre (1904-1964)
 Lorre breakout role;0
-lorres;20
+Lorre's;20
 Lorrie;40;Lorrie Moore, short story writer
 lory;20;Parrot
 los;40
@@ -62296,6 +62317,7 @@ McDuck;50;Scrooge McDuck, Disney's richest miser
 MCDVI;20
 MCDX;20
 MCed;40
+MC'ed;0
 McElhenney;50
 McElhone;40;Natascha McElhone, actress
 McElroy;40;Griffin McElroy, of the podcasting brothers
@@ -67137,7 +67159,7 @@ Neil Diamond;60
 Neill;40
 Neil Young;60
 Neiman;40;Neiman Marcus, luxury retailer / LeRoy Neiman, sports painter
-neimans;0
+Neiman's;0
 nein;40
 neins;30
 Neisse;20;German/Poland border river
@@ -70082,7 +70104,7 @@ Ogunbowale;40;Arike Ogunbowale, WNBA guard
 Ogunquit;40
 Ogwumike;40;Nneka Ogwumike of the L.A. Sparks (WNBA MVP 2016)
 oh;50
-ohairs;20
+O'Hairs;20
 ohana;40;Hawaiian for family
 Ohanian;40;Alexis Ohanian, Reddit cofounder
 O'Hanlon;40;Virginia O'Hanlon, who got the "Yes, Virginia" reply
@@ -70637,7 +70659,7 @@ omasum;30;Third stomach of a ruminant
 OMB;20
 OMD;20
 Omdurman;40;Sudanese city and 1898 battle site
-ome;20
+'ome;20
 O'Meara;40;Mark O'Meara, retired professional golfer (born 1957)
 O'Mearas;20;Plural name
 omega-3;50
@@ -70984,7 +71006,7 @@ one second;50
 one seed;60
 one seeds;60
 one set;30
-onesgoldenyears;0
+one's golden years;0
 one share;30
 one-shot deal;60
 one-shot deals;60
@@ -71267,7 +71289,7 @@ oomph;50
 oomphs;20
 -oon;20
 Oona;40
-oons;20
+'oons;20
 OOO;40;Out of office [common as tic-tac-toe]
 oooh;30
 Ooouuu;40;2016 single by Young M.A
@@ -72104,7 +72126,7 @@ ouest;30;West, in French
 oui;50
 ouid;40;Filter-avoiding spelling of weed
 Ouida;40;Victorian novelist's pen name
-ouidas;0
+Ouida's;0
 Ouija;50;Spirit board
 Ouijas;40;Spirit boards
 ouis;40
@@ -75128,7 +75150,7 @@ phrenic;30
 Phrygia;40;Ancient Anatolian kingdom of the cap and the mode
 Phrygian;40;Phrygian cap, or the musical mode
 Phrygians;40;Ancient Anatolian people
-phs;20
+pH's;20
 phthisis;30;Pulmonary tuberculosis
 Phu;20
 Phuket;40;Thai resort island
@@ -77292,7 +77314,7 @@ potluck dinners;60
 potlucks;60
 pot of tea;50
 Potok;30;Chaim Potok, rabbi/author
-potoks;20
+Potok's;20
 Potomac;50;River past Washington DC
 Potoooooooo;0
 potoroo;20;Rat-like marsupial
@@ -78719,7 +78741,7 @@ Punxsutawney;60;Phil's Pennsylvania home
 Punxsutawney Phil;60
 pup;50
 pupae;40
-pupilsslipup;0
+pupil's slip-up;0
 puppeteer;50
 puppeteered;50
 puppeteering;50
@@ -82756,7 +82778,7 @@ ride a wave;50
 ride away;30
 Ride a White Swan;40;1970 single by T. Rex
 ride by;40
-rideem;0
+ride 'em;0
 ride in;40
 ride into;40
 ride on;40
@@ -82994,7 +83016,7 @@ ringmasters;60
 ringneck dove;50
 ringneck doves;50
 Ringo;50;Ringo Starr, Beatles drummer
-ringos;0
+Ringo's;0
 Ringo Starr;60
 Ring Pop;60
 Ring Pops;60
@@ -83239,7 +83261,7 @@ RNC;40
 RNCs;30;Republican National Committees, in brief
 rnd;20
 rnh;20
-rnr;20
+R 'n' R;20
 RNs;40
 Ro;40;Ro Khanna, California congressman
 roach;50
@@ -83549,8 +83571,8 @@ Rohit;40;Rohit Sharma, Indian cricket captain
 Rohmer;40;Éric Rohmer, French New Wave director
 Rohrwacher;40;Alice Rohrwacher, Italian director
 roi;40
-roid;40
-roids;50
+'roid;40
+'roids;50
 Roisin;40;Róisín Murphy, Irish singer
 roister;40
 roistered;40
@@ -85452,7 +85474,8 @@ San;40
 Sana;30;Capital of Yemen (more commonly Sanaa or Sana'a)
 sana;20
 Sanaa;30;Capital of Yemen
-Sanaa Yemen;50
+Sana'a, Yemen;50
+Sanaa Yemen;0
 San Antone;50;Texas city, casually
 San Antonio;60
 San Antonio Spurs;50
@@ -91183,7 +91206,7 @@ smslkldtms;0
 SMTWTFS;30
 SMU;40;Southern Methodist University
 Smucker;40;J.M. Smucker, jam company founder
-Smuckers;40;Jam brand
+Smucker's;40;Jam brand
 Smulders;40;Cobie Smulders, "How I Met Your Mother" actress
 Smurf;60;Pretend noob
 Smurfbegonia;60;Ditzy and absent-minded female Smurf
@@ -100820,7 +100843,7 @@ thrived on;40
 thrive on;40
 thrives on;40
 thriving on;40
-thro;30
+thro';30
 Throckmorton;50;Throckmorton Plot against Elizabeth I
 throe;40;Usually plural
 Throggs;30;Throggs Neck, Bronx neighborhood
@@ -101505,7 +101528,8 @@ Tisha B'Av;40;Tisha B'Av, Jewish holiday
 Tishri;30;Hebrew month
 Tisiphone;40;One of the three Furies
 'tism;40;Autism
-tisn't;40
+'tisn't;40
+tisn't;0
 Tissot;40;James Tissot, French painter, or the watch brand
 tissued;40
 tissue sample;50
@@ -101850,7 +101874,7 @@ Tokyoite;40;Tokyo resident
 Tokyoites;40;Tokyo residents
 Tokyopop;50
 Tokyo Story;50
-tol;20
+tol';20
 to last;20;Long partial
 told a fib;40
 told no;50
@@ -102622,6 +102646,7 @@ toz;20
 TP;40
 T'Pau;40;"Star Trek" Vulcan elder / '80s band
 TPed;40
+TP'ed;0
 TPing;40
 tpk;40
 tpke;40
@@ -103725,7 +103750,7 @@ Tucson;50;Arizona city
 Tucson, AZ;30
 tuctions;30
 'tude;40
-tudes;40
+'tudes;40
 Tudor;50;English royal house
 Tudor arch;50
 Tudor arches;50
@@ -103873,7 +103898,7 @@ Turin;40;Italian city with a famous shroud
 Turing;50;Alan Turing, computing pioneer
 Turing test;60
 Turing tests;50
-turinsriver;0
+Turin's river;0
 Turismo;40;Gran Turismo, racing game series
 Turk;50;Ottoman, e.g.
 Turkana;40;Kenyan lake and people
@@ -105130,7 +105155,7 @@ unrooting;40
 unroots;40
 UNRRA;20
 unrulier;30
-uns;20
+'uns;20
 unsafer;30
 unsalable;40;Unsellable
 unsaleable;40
@@ -106379,7 +106404,8 @@ vetches;30
 Veterans Affairs;50
 veto power;30
 veto-proof;50
-Vette;40;Corvette, informally
+'Vette;40;Corvette, informally
+Vette;0
 vet tech;50
 vet techs;50
 Vettel;30;Formula One driver Sebastian Vettel
@@ -110877,8 +110903,12 @@ xe;40
 xebec;30;Three-masted sailing ship
 xebecs;30
 Xed;40
-xed in;20
-xed out;40
+Xed in;20
+X'ed in;0
+xed in;0
+Xed out;40
+X'ed out;0
+xed out;0
 Xed out of;40
 Xeljanz;30;Arthritis medication
 xem;20
@@ -112301,7 +112331,7 @@ Zardoz;50;Cult 1974 Sean Connery sci-fi film
 zarf;40;Paper cup holder
 zarfs;40
 zari;20;Thread used in traditional Indian, Pakistani and Persian garments
-zas;20
+'zas;20
 ZaSu;40;ZaSu Pitts, silent film actress
 Zathura;40;Chris Van Allsburg space adventure
 Zatoichi;40;Blind swordsman of Japanese films
