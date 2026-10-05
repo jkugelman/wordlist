@@ -414,7 +414,8 @@ aam;20
 AAMCO;40
 AA meeting;60
 AA meetings;60
-A A Milne;50
+A.A. Milne;50
+A A Milne;0
 Aamir;30;Indian actor Aamir Khan
 Aamir Khan;40;Indian actor
 aand;20
@@ -545,9 +546,9 @@ Abbie;50;Abbie Hoffman, Yippie activist
 Abbott;50;Bud Abbott, of Abbott and Costello / "Abbott Elementary"
 Abbottabad;50;Pakistani city where bin Laden was found
 Abboud;40;Joseph Abboud men's suits
-abbr;40
-abbrev;40
-abbrs;40
+abbr.;40
+abbrev.;40
+abbrs.;40
 Abby;50;Common first name
 ABC;50
 ABC anchor;20
@@ -730,7 +731,7 @@ above one's station;50
 above the fold;60
 above the fray;60
 ABQ;40;Albuquerque airport code
-abr;20
+abr.;20
 Abra;40
 abradant;40
 abradants;40
@@ -1142,7 +1143,7 @@ AC outlet;30
 AC outlets;30
 acquire land;20;Green paint
 acquisition;50
-acr;20
+acr.;20
 A Crazy Little Thing Called Love;60
 acrdntheboard;0
 acre-inch;50;Unit of volume in crop irrigation
@@ -1387,7 +1388,7 @@ add'l;40;Additional
 add oil;20
 add on;50
 add onto;40
-addr;30
+addr.;30
 address code;50
 address codes;50
 adds fuel to the fire;60
@@ -1419,7 +1420,8 @@ Adela;40;Journalist Adela Rogers St. Johns
 Adelaide;50;South Australian capital
 Adelbert;40;Adelbert Ames, Civil War general and governor
 Adele;50;Adele, singer of "Hello"
-Adele H;20;Truffaut's "The Story of Adele H."
+Adele H.;20;Truffaut's "The Story of Adele H."
+Adele H;0
 Adeles;30;Adele plural
 Adélie;40;Type of penguin
 Adelie;0
@@ -1486,7 +1488,7 @@ Adirondack;50;New York mountain range, or a lawn chair
 Adirondacks;50;New York mountain range
 a dish best served cold;60;Revenge
 Aditya;40;Aditya Chopra, Bollywood filmmaker
-adj;40
+adj.;40
 Adjani;20;Actress Isabelle
 adjoint;40
 adjuratory;30
@@ -1650,7 +1652,7 @@ ad unit;50
 ad units;50
 Adut;30;Adut Akech, South Sudanese-Australian model (born 1999)
 Adut Akech;50;South Sudanese-Australian model (born 1999)
-adv;40
+adv.;40
 Advaita;40;Advaita Vedanta, nondualist Hindu school
 advanced formula;50
 advanced search;60
@@ -1701,7 +1703,8 @@ Aegeus;40;Theseus's father, namesake of the Aegean
 Aegina;40;Greek island in the Saronic Gulf
 aegis;50
 aegises;40
-A E Housman;40;Poet A. E. Housman (1859-1936)
+A.E. Housman;40;Poet A. E. Housman (1859-1936)
+A E Housman;0
 A E I O U;40
 A E I O U Y;40
 Aeneas;40
@@ -2183,7 +2186,7 @@ agritourism;60
 agrology;30
 Agron;40;Dianna Agron, "Glee" actress
 AGs;40
-agt;40
+agt.;40
 agua;40
 agua fresca;40
 Agualusa;40;José Eduardo Agualusa, Angolan novelist
@@ -2539,7 +2542,8 @@ Ajanta;40;Indian Buddhist cave site
 Ajax;50;Greek hero, cleanser, or Dutch soccer club
 Ajay;40;Ajay Devgn, Bollywood star
 A. J. Cook;40;"Criminal Minds" actress A. J. Cook
-A J Foyt;40;Four-time Indy 500 winner
+A.J. Foyt;40;Four-time Indy 500 winner
+A J Foyt;0
 ají;20
 Ajinomoto;40;Japanese MSG maker
 AJJ;20
@@ -2744,7 +2748,7 @@ album title;50
 album titles;50
 Albuquerque;50;New Mexico's largest city
 Albus;10;Harry Potter
-alc;20
+alc.;20
 alcaide;20;Prison warden: Sp.
 alcalde;30;Spanish municipal magistrate
 alcaldes;30;Spanish municipal magistrates
@@ -2930,7 +2934,7 @@ Alfredo;50;Fettuccine sauce
 Alfredson;40;Tomas Alfredson, "Let the Right One In" director
 Alfred U.;20;NY state university
 Alfs;20
-alg;20
+alg.;20
 alga;40
 algae bloom;50
 algae blooms;50
@@ -3005,7 +3009,8 @@ alien races;60
 alien technologies;60
 alien technology;60
 alien to;30
-Alien vs Predator;60
+Alien vs. Predator;60
+Alien vs Predator;0
 Alienware;50;Gaming PC brand
 alien world;60
 alien worlds;60
@@ -3067,7 +3072,7 @@ alive to;40;Aware of
 Alix;40;Alix Earle, influencer
 alizarin;30;Red dye
 Alizee;40;Alizée, French pop singer
-alk;20
+alk.;20
 Alka;40
 alkalinize;40
 alkalosis;40
@@ -3817,7 +3822,8 @@ amental;20
 amentia;20
 aments;20
 a me problem;60
-Amer;40;???
+Amer.;40;???
+Amer;0
 amerce;30;Punish by fine, archaic
 amerced;30
 amercement;30
@@ -4066,10 +4072,10 @@ Amsterdam;60
 Amsterdam Airport Schiphol;50
 AM stereo;30;AM radio is mono
 AM stereos;30
-amt;40
+amt.;40
 am too;40;Playground retort
 Amtrak;50;Passenger rail service
-amts;40
+amts.;40
 Amu;20;Amu Darya river in Central Asia
 amuck;40;Less common variant of amok
 Amun;40
@@ -4122,7 +4128,7 @@ anadem;20;Head wreath
 anadems;20;Head wreaths
 anaemia;40
 anaemic;40
-anag;30
+anag.;30
 anaglyph;40;Image in 3D with red-cyan glasses
 anaglyph 3D;50;Method of representing images in 3D with red-cyan glasses
 anaglyphic;30;Method of representing images in 3D with red-cyan glasses
@@ -4192,7 +4198,7 @@ Anas;40;Santa Anas (hot winds)
 Anasazi;40;https://indianpueblo.org/what-does-anasazi-mean-and-why-is-it-controversial/
 Anastasia;50;Lost Romanov grand duchess
 Anastasio;40;Trey Anastasio, Phish frontman
-anat;30
+anat.;30
 anatase;20;Mineral
 Anatevka;40;Village in "Fiddler on the Roof"
 anathema;60;Cool word
@@ -4293,7 +4299,8 @@ and I'm so here for it;60
 and I never will;60
 and I repeat;60
 And Justice for All;60
-And Just Like That;60
+And Just Like That...;60
+And Just Like That;0
 andl;20
 and loan;20
 and make it snappy;60
@@ -4752,7 +4759,7 @@ ANOVAs;40;Statistical variance tests
 Anozie;40;Nonso Anozie, British actor
 Anqing;40;Chinese city
 Anquetil;40;Jacques Anquetil, five-time Tour de France winner
-ans;40
+ans.;40
 Ansara;30;Michael Ansara, Cochise player in 1950s TV
 Ansari;40;Aziz Ansari, comedian / the Ansari X Prize
 Anschluss;50;Nazi annexation of Austria
@@ -5367,8 +5374,8 @@ app store;60
 app stores;60
 AP Psych;50
 AP Psychology;50
-appt;40
-appts;40
+appt.;40
+appts.;40
 APR;40
 AP Radio;40
 après;40
@@ -5412,7 +5419,7 @@ aptitude test;50
 aptitude tests;50
 apt. no.;40
 apt. nos.;40
-apts;40
+apts.;40
 apt to;30
 Apu;50
 Apuleius;40;Author of "The Golden Ass"
@@ -6108,7 +6115,7 @@ Arps;20;Dadaist art
 arquebus;40;15th century rifle
 arquebuses;40
 Arquette;50;Patricia Arquette, actress / David Arquette, actor
-arr;40
+arr.;40
 arrack;20;Sri Lankan liquor
 arracks;20;Sri Lankan liquors
 Arrakis;50
@@ -6778,7 +6785,7 @@ ass-kissers;60
 ass-kissing;60
 ass man;60
 assn;40
-assns;40
+assns.;40
 associate degree;50
 associate degrees;50
 assort;40
@@ -6795,8 +6802,10 @@ asst;40
 asst DA;40
 as steady as a rock;60
 as stiff as a board;60
-asst prof;40
-asst profs;40
+asst. prof.;40
+asst prof;0
+asst. profs.;40
+asst profs;0
 assumable;30
 assumably;30
 assumed ownership;50
@@ -6964,7 +6973,7 @@ at an impasse;50
 atar;20
 ataraxia;30
 Atari;50;Video game pioneer
-Atari Corp;50
+Atari Corp.;50
 Ataris;40;The Ataris, punk band, or old game consoles
 at a slant;30
 at a standstill;60
@@ -7034,7 +7043,7 @@ at face value;50
 ATF agent;50
 ATF agents;50
 at first blush;60
-ath;20
+ath.;20
 Athabasca;40;Canadian lake, river, and oil sands
 Athabaskan;40;Native American language family
 Athanasian;40;Athanasian Creed, early statement of faith
@@ -7211,7 +7220,7 @@ at symbol;50
 at symbols;50
 AT&T;40;Telecommunications company
 ATT;40;Attempts, football stat
-att;0
+att.;0
 atta;40
 attaboy;60
 attached a towbar;0
@@ -7392,7 +7401,8 @@ auf;20
 au fait;40;Well-informed
 Aufbau;40;Aufbau principle, on filling electron orbitals
 Aufidius;40;Tullus Aufidius, the foe in "Coriolanus"
-Aug;40
+Aug.;40
+Aug;0
 Augean;40;Like the stables Hercules cleaned
 Augean stables;50;Place that is dirty or full of corruption
 Augeas;40;Greek king of the Augean stables
@@ -7589,7 +7599,7 @@ AutoZone;40;Auto parts chain
 Autry;40;Gene Autry, singing cowboy
 Autun;40;French town with Roman ruins
 Auvergne;40;French region
-aux;40
+aux.;40
 Ava;50
 avadavat;20;Small bird
 avadavats;20
@@ -7647,7 +7657,7 @@ Aves;40
 Avesta;40;Zoroastrian scripture
 Avestan;20
 Avett;40;The Avett Brothers, folk rock band
-avg;40
+avg.;40
 avgolemono;40;Greek lemon chicken soup
 Avi;30;Avi Arad, Marvel producer
 avi-;20
@@ -7915,6 +7925,7 @@ B;40
 B-;40;Grade / Blood type
 B+;40;Grade / Blood type
 BA;40
+B.A.;0
 baa;40
 baa baa;40
 baabaabaa;40
@@ -8114,7 +8125,8 @@ backing into a corner;60
 back in my day;60
 back in the game;60
 back in the saddle;60
-Back in the USSR;60
+Back in the U.S.S.R.;60
+Back in the USSR;0
 back into;40
 back into a corner;60
 back issues;50
@@ -8462,7 +8474,7 @@ Bakshi;40;Ralph Bakshi, "Fritz the Cat" animator
 Baku;30;Capital of Azerbaijan
 Bakula;40;Scott Bakula, "Quantum Leap" star
 Bakunin;40;Mikhail Bakunin, Russian anarchist
-bal;20
+bal.;20
 Balaam;30;Biblical prophet
 Balaam's;40;Balaam's ass, the talking donkey of the Bible
 Balaam's ass;40;Biblical story of Balaam's ass
@@ -9258,6 +9270,7 @@ Baryshnikov;50
 Barzini;40;"The Godfather" rival don
 Barzun;40;Jacques Barzun, cultural historian
 BAs;40
+B.A.s;0
 basal body;30
 baseball cap;60
 baseball caps;60
@@ -9676,8 +9689,8 @@ BBC Sport;50
 BBC TV;30
 bbey;0
 B.B. Eyes;40;Dick Tracy character
-bbl;20
-bbls;20
+bbl.;20
+bbls.;20
 B-boy;40
 B-boys;40
 BBQ;50
@@ -9721,6 +9734,7 @@ BBQ wings;60
 bbrrootthheerr;0
 BBs;50;Ammo, or BBS
 BC;40
+B.C.;0
 BCC;40
 BCCed;40
 BCC'ed;0
@@ -11389,7 +11403,7 @@ biohazards;60
 bio-ink;50;Used to 3D print artificial tissue
 bio-inks;50;Used to 3D print artificial tissue
 Bioko;40;Island of Equatorial Guinea
-biol;30
+biol.;30
 bio major;50
 biomimicry;50
 bio mom;60
@@ -11660,7 +11674,7 @@ BJ's;40;BJ's Wholesale Club
 BJs;0
 BK;30
 Bklyn;30;Brooklyn, abbreviated
-bks;20
+bks.;20
 BK Stacker;60
 BK Stackers;60
 Blac;30;Rapper Blac Chyna
@@ -11876,7 +11890,7 @@ Blazermania;40;Portland Trail Blazers fan fervor
 blazes new trails;60
 blazing new trails;60
 blazonry;40
-bldg;30
+bldg.;30
 bleach blonde;60
 bleach blondes;50
 bleah;40
@@ -14374,7 +14388,7 @@ BSing;40
 B singles;40;Secondary tennis competitions
 BS meter;60
 BS meters;60
-bsmt;30;Basement
+bsmt.;30;Basement
 bso;20
 bss;30
 B star;20
@@ -14913,11 +14927,13 @@ bushman's poison tree;60;African source of paste used to tip hunting arrows
 bushman's tea;60;African shrub AKA qat
 Bushmiller;40;Ernie Bushmiller, "Nancy" cartoonist
 Bushnell;40;Nolan Bushnell, Atari founder / Candace Bushnell, "Sex and the City" author
-Bush Sr;50
+Bush Sr.;50
+Bush Sr;0
 Bush Sr. era;30
 bush tea;30
 bush tucker;60;Bush food
-Bush v Gore;50
+Bush v. Gore;50
+Bush v Gore;0
 bushwa;30;Nonsense
 bushwah;30;Nonsense
 business center;50
@@ -17575,7 +17591,7 @@ cement nails;20
 cementum;40;Calcified tooth substance
 cemeteries;50
 cemetery;50
-cen;20
+cen.;20
 Cena;50;John Cena, wrestler and actor
 Cenac;40;Comic Wyatt Cenac
 cenacle;30;Last Supper room
@@ -17766,7 +17782,7 @@ CGIing;40;Adding computer-generated effects
 CGI-ing;0
 CGIs;40;Computer-generated images
 CGS;20
-ch;30
+ch.;30
 cha;30;Tea, cha-ching, cha-cha, Charlotte Hornets
 chaat;40;Indian food
 Chabad;40;Hasidic Jewish movement
@@ -18134,7 +18150,8 @@ Chartwell;40;Winston Churchill's country home
 Charulata;40;"Charulata", Satyajit Ray film
 chary;30;Suspicious (of)
 Charybdis;50;Whirlpool monster opposite Scylla
-Chas;40
+Chas.;40
+Chas;0
 chased one's tail;60
 chase one's tail;60
 chase scene;60
@@ -18500,7 +18517,8 @@ chest beaters;50
 chest day;60
 chest days;60
 Chester;50;Chester A. Arthur, 21st president / English cathedral city
-Chester A Arthur;50
+Chester A. Arthur;50
+Chester A Arthur;0
 Chester Arthur;40
 Chesterton;50;G. K. Chesterton, "Father Brown" author
 chest freezer;50
@@ -18563,7 +18581,7 @@ chewy granola bar;20
 Chex;50;Cereal brand
 Cheyenne;50;Wyoming capital, or Plains people
 Cheyenne, WY;30
-chg;20
+chg.;20
 Chhattisgarh;40;Central Indian state
 Chhiffons;0;Misspelling of The Chiffons
 chi;50
@@ -18590,7 +18608,8 @@ Chicago Bulls;50
 Chicago, IL;30
 Chicagoland;50;The Chicago metro area
 Chicago Marathon;50
-Chicago PD;30
+Chicago P.D.;30
+Chicago PD;0
 Chicago Root Beer;50
 Chicago Seven;60;Defendants in a 1969–70 trial
 Chicana;50;Mexican American woman
@@ -19253,7 +19272,7 @@ Ciceronianism;40;Imitation of Cicero's Latin style
 Cichlidae;20;Fish family
 Cicierega;40;Neil Cicierega, mashup musician
 Cid;40
-Cie;20
+Cie.;20
 ciel;40
 cien;40;One hundred: Sp.
 Cienfuegos;40;Camilo Cienfuegos, Cuban revolutionary / a Cuban city
@@ -19346,7 +19365,7 @@ CIO;40
 Cio-Cio-San;40;Cio-Cio-San, main character of Madame Butterfly
 cioppino;50;Italian seafood stew
 Cipro;40;Antibiotic brand
-cir;40
+cir.;40
 Circassia;40;Historical region of the northwest Caucasus
 Circassian;50;Northwest Caucasus people
 Circassians;50;North Caucasus ethnic group
@@ -19426,7 +19445,7 @@ Cisse;40;Souleymane Cissé, Malian filmmaker
 Cissy;40;Cissy Houston, gospel singer and Whitney's mother
 Cistercian;50;Catholic monastic order
 Cistercians;50;Monastic order of white monks
-cit;40
+cit.;40
 citable;30
 citation needed;60
 citee;20;One cited
@@ -20071,7 +20090,7 @@ CMA;40
 C major;50
 CMAs;40
 cmd;20
-Cmdr;40
+Cmdr.;40
 CMI;20
 CMII;20
 CMIII;20
@@ -20089,6 +20108,7 @@ c'mon let's be real;60
 c'mon live a little;60
 c'mon man;60
 cms;40;Centimeters
+cms.;0
 CMU;40;Carnegie Mellon University
 CMV;20
 CMVI;20
@@ -21164,7 +21184,7 @@ Conestoga;50;Conestoga wagon, pioneer hauler
 Conestoga wagon;50
 Conestoga wagons;50
 coneys;40;Chili dogs
-conf;30
+conf.;30
 conferee;30
 conferees;30
 conference centre;20
@@ -21232,7 +21252,8 @@ conjointly;30
 Conkling;40;Roscoe Conkling, Gilded Age senator
 Conlon;40;Conlon Nancarrow, player-piano composer
 CONMEBOL;30;International governing body for association football in South America
-Conn;40
+Conn.;40
+Conn;0
 Connacht;40;Western province of Ireland
 connate;30;Innate (philosophy), united (biology)
 connected the dots;60
@@ -21304,7 +21325,7 @@ consulting firm;60
 consulting firms;60
 consummate liar;60
 consummate liars;60
-cont;40
+cont.;40
 Contac;40;Medicine brand
 contact lens;60
 contact lenses;60
@@ -21684,7 +21705,7 @@ Cornelia Funke;50;German author of children's fiction (born 1958)
 Cornelius;50;Given name, as in Cornelius Vanderbilt
 Cornelius Eady;50;Writer focusing largely on matters of race and society
 Cornell;50;Ivy League university
-Cornell U;40
+Cornell U.;40
 cornels;30;Dogwoods
 corner drugstore;60
 corner drugstores;60
@@ -22214,12 +22235,15 @@ CPAP machines;60
 CPAPs;40;Sleep apnea machines
 CPAs;40
 CPI;20
-Cpl;40
-Cpls;40;Corporals, briefly
+Cpl.;40
+Cpl;0
+Cpls.;40;Corporals, briefly
+Cpls;0
 C plus;50
 CPO;20
 CPOs;30;Navy chief petty officers
-CPO Sharkey;40;Don Rickles sitcom 1976-78
+C.P.O. Sharkey;40;Don Rickles sitcom 1976-78
+CPO Sharkey;0
 CPR;40
 CPR class;60
 CPR classes;60
@@ -22520,7 +22544,7 @@ creped;30;Covered with crepe (the cloth)
 crepe paper;50
 creping;30
 crept into;40
-cresc;40
+cresc.;40
 cresse;20
 cresset;30;Metal cup on a pole containing oil, burned as a light/beacon
 cressets;30
@@ -23010,7 +23034,8 @@ CSA boxes;40
 C scale;30
 C scales;30
 C-section;50
-C S Forester;50
+C.S. Forester;50
+C S Forester;0
 C's get degrees;60;"C's get degrees"
 C-shape;30
 C-shaped;30
@@ -23041,10 +23066,10 @@ C teams;40
 Ctesiphon;40;Ancient capital of Parthia and Persia
 Cthulhu;60
 C-tier;40
-ctn;20
+ctn.;20
 CTO;40
 CTOs;40;Tech chiefs
-ctr;30;Center, contractor
+ctr.;30;Center, contractor
 Ctrl;50;Keyboard key, or the SZA album
 Ctrl-A;40
 Ctrl+A;40
@@ -23068,8 +23093,8 @@ Ctrl+V;40
 Ctrl-X;40
 Ctrl-Z;40
 Ctrl+Z;40
-ctrs;30
-cts;20
+ctrs.;30
+cts.;20
 ctu;20
 Cu;30;???
 cuando;40
@@ -23456,8 +23481,9 @@ CVVs;40;Credit card security codes
 CW4Kids;40;Saturday morning cartoon block
 cwm;20
 C.W. Moss;40;???
-C W Post;40;???
-cwt;20
+C.W. Post;40;???
+C W Post;0
+cwt.;20
 CXC;20
 CXI;20
 CXID;0
@@ -23513,7 +23539,7 @@ Cydonia;40;Martian region of the "Face on Mars"
 Cy Feuer;40;Theater producer Cy Feuer
 Cygni;40;Star designation, as in 61 ___
 Cygnus;50;The Swan constellation
-cyl;20
+cyl.;20
 Cylon;50;"Battlestar Galactica" robot
 Cylons;40;"Battlestar Galactica" robots
 Cymbeline;50;Shakespeare play
@@ -24213,7 +24239,7 @@ Datsyuk;40;Pavel Datsyuk, Red Wings Hall of Famer
 datums;20
 Datura;40;Jimsonweed genus
 Datura stramonium;20;Species of flowering plant in the nightshade family
-dau;20
+dau.;20
 dauber;30
 daubers;30
 daubing;30
@@ -24324,7 +24350,7 @@ DB;40
 dba;20
 D-back;40
 D-backs;40
-dbl;20
+dbl.;20
 D-BOX;30;Motion effects company
 D'Brickashaw;50;D'Brickashaw Ferguson, NFL offensive tackle
 dbs;20
@@ -24614,7 +24640,8 @@ Debussy;60
 debut novel;50
 debut novels;50
 Debye;40;Peter Debye, Nobel chemist and dipole-moment unit
-Dec;40
+Dec.;40
+Dec;0
 deca-;40
 decaf coffee;50
 decaf latte;50
@@ -24882,7 +24909,7 @@ defying gravity;60
 Defying Gravity;60;Song from the Broadway musical "Wicked"
 defying the odds;60
 defy the odds;60
-deg;30;Degree
+deg.;30;Degree
 Degas;50;Edgar Degas, painter of ballerinas
 DeGeneres;50;Ellen DeGeneres, talk show host
 degerm;30
@@ -24892,7 +24919,7 @@ degerms;30
 Degrassi;50;Canadian teen drama franchise
 DeGraw;40;Gavin DeGraw, "I Don't Want to Be" singer
 degrees Celsius;50
-degs;30
+degs.;30
 degust;30;Savor
 degustation;30
 degusted;30
@@ -25080,7 +25107,8 @@ delvers;30
 delves into;40
 delving into;40
 del your account;20
-Dem;40
+Dem.;40
+Dem;0
 demagog;20
 demagogs;20
 demanded respect;50
@@ -25252,7 +25280,7 @@ deorbit;50
 deorbited;50
 deorbiting;50
 deorbits;50
-dep;20
+dep.;20
 dePaola;40;Tomie dePaola, children's book illustrator and writer
 departed from;40
 depart from;40
@@ -25371,7 +25399,8 @@ desert isles;60
 desert sun;50
 Desi;40;Desi Arnaz
 desi;30;Member of the South Asian diaspora
-Desi Arnaz Jr;50
+Desi Arnaz Jr.;50
+Desi Arnaz Jr;0
 De Sica;30;Director of "The Bicycle Thief"
 Desiderius;50;Desiderius Erasmus, Renaissance humanist
 designated proxy;50
@@ -25456,7 +25485,7 @@ Destry;30;1954 western
 desuetude;40;State of disuse
 desuetudes;40
 Desus;40;Desus Nice, comedian and talk show host
-det;30
+det.;30
 detached garage;50
 detached garages;50
 detailed account;60
@@ -25493,7 +25522,7 @@ Detroit, MI;30
 Detroit Piston;50
 Detroit Pistons;50
 de trop;40;De trop, from French, superfluous
-dets;20
+dets.;20
 deuce coupe;50
 deuce coupes;50
 deuce game;20;???
@@ -25662,7 +25691,7 @@ dials down;50
 dials in;40
 dial tone;50
 dial tones;50
-diam;30
+diam.;30
 Diamanda;40;Diamanda Galas, avant-garde vocalist
 Diamandis;40;Marina Diamandis, of Marina and the Diamonds / Peter Diamandis, XPRIZE founder
 Diamant;40;Anita Diamant, "The Red Tent" author
@@ -25760,7 +25789,7 @@ dicots;20
 dicotyledon;20
 dicotyledonous;20
 dicotyledons;20
-dict;30
+dict.;30
 dicta;40;Pronouncements
 Dictaphone;50;Dictation recorder
 Dictaphones;40;Office recording machines
@@ -26279,7 +26308,7 @@ dirigiste;40
 dirndl;40;Alpine woman's dress
 dirndls;40;Alpine women's dresses
 Dirrty;40;Christina Aguilera hit
-dirs;30
+dirs.;30
 dirt and worms;60;Chocolate pudding + gummy worms
 dirt clod;50
 dirt clods;50
@@ -26458,7 +26487,7 @@ dissonant chord;50
 dissonant chords;50
 diss track;60
 diss tracks;60
-dist;30
+dist.;30
 distal;40
 distance runner;60
 distance runners;60
@@ -26626,7 +26655,7 @@ D-line;40
 D-lines;40
 DLIV;20
 DLIX;20
-dlr;20
+dlr.;20
 DLV;20
 DLVI;20
 DLX;20
@@ -27110,7 +27139,7 @@ dojos;50
 doke;40
 dokey;40
 Doktor Faust;60
-dol;20
+dol.;20
 Dolan;30;No one super well known... Dolan Twins are the most famous?
 do laps;50
 Dolby;50;Sound technology brand
@@ -27832,7 +27861,8 @@ DQed;40
 DQ'ed;0
 DQing;40;Disqualifying
 DQs;40
-Dr;50
+Dr.;50
+Dr;0
 Drabble;40;Margaret Drabble, English novelist
 drab clothing;40;Green paint?
 drab colors;40;Green paint?
@@ -27945,7 +27975,7 @@ Drake "Drake Maye" Maye;50;Funny nickname given to the Patriots quarterback
 Drake Drake Maye Maye;0
 Drake Maye;40;NFL quarterback
 Drakensberg;50;South Africa's great mountain range
-Drake U;40;???
+Drake U.;40;???
 Drakkar;40;Drakkar Noir cologne, or a Viking longship
 drama lesson;50
 drama lessons;50
@@ -28055,7 +28085,8 @@ drays;30
 dray yard;40;???
 Dr. Blight;50;Captain Planet baddie
 DRC;20;Democratic Republic of the Congo
-Dr Demento;60
+Dr. Demento;60
+Dr Demento;0
 Dr Doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 drdoolittle;0
 Dre;50
@@ -28172,11 +28203,13 @@ Dreyfus;40;Alfred Dreyfus, of the Dreyfus affair
 Dreyfusard;40;Supporter of Alfred Dreyfus
 Dreyfusards;40;Defenders of Alfred Dreyfus
 Dreyfuss;50;Richard Dreyfuss, "Jaws" actor
-Dr Frankenstein;60
+Dr. Frankenstein;60
+Dr Frankenstein;0
 Dr Heinz Doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 Dr. Henry Jekyll;60
 Dr. Henry Jones Jr.;60
-Dr Hook;40;'70s rock band
+Dr. Hook;40;'70s rock band
+Dr Hook;0
 Dr. Horrible;60
 Dr Horrible;0
 Dr. Horrible's Sing-Along Blog;60
@@ -28264,14 +28297,17 @@ driving while Black;60
 drizzle cake;50
 drizzle cakes;50
 Drizzy;50;Drake's nickname
-Dr J;50
+Dr. J;50
+Dr J;0
 Dr. James Naismith;60;Inventor of basketball (1861–1939)
-Dr Jekyll;60
+Dr. Jekyll;60
+Dr Jekyll;0
 Dr Jekyll and Mr Hyde;60
 Dr. John Watson;60;Fictional character, associate and friend of Sherlock Holmes
 Dr John Watson;0
 Dr. Jones;50
-Dr Joyce Brothers;50
+Dr. Joyce Brothers;50
+Dr Joyce Brothers;0
 Dr. K;20;Baseball nickname
 Dr. Laura;10
 Dr Livingstone I presume;60
@@ -28432,21 +28468,26 @@ drown one's sorrows;50
 drowns one's sorrows;50
 Dr. Oz;50
 Dr. Oz Show;50
-Dr Phil;50
+Dr. Phil;50
+Dr Phil;0
 Dr Quinn Medicine Woman;50
 Dr. Romano;30;"ER" character
-Drs;40
+Drs.;40
+Drs;0
 Dr. Seuss;60
 Dr Seuss;0
 Dr. Seuss' How the Grinch Stole Christmas;60
 Dr. Seuss's ABC;60;1963 book by Dr Seuss
 Dr. Seuss's Sleep Book;60;1962 children's book by Dr. Seuss
 Dr. Seuss stories;20
-Dr Spock;50
-Dr Strangelove;60
+Dr. Spock;50
+Dr Spock;0
+Dr. Strangelove;60
+Dr Strangelove;0
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;60
 Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb;0
-Dr T;20
+Dr. T;20
+Dr T;0
 Dru;30;Dru Hill, or Gru's twin
 Drucker;40;Peter Drucker, management thinker / Mort Drucker, Mad caricaturist
 Druckmann;40;Neil Druckmann, "The Last of Us" creator
@@ -29502,7 +29543,7 @@ eco-horror movies;60
 eco-horrors;40;Plural??
 eco hotel;30;It's a real thing
 eco hotels;30
-ecol;40
+ecol.;40
 eco-label;50
 eco-labels;50
 eco-law;30;Not a real term, comes from one book [common]
@@ -29539,7 +29580,8 @@ ECOWAS;20;Economic Community of West African States
 eCrime;20
 ecru;40;Light beige
 ecrus;30;Bad plural
-E C Segar;30;Popeye's creator
+E.C. Segar;30;Popeye's creator
+E C Segar;0
 ect-;20
 ecto-;40
 ectoderm;40
@@ -29678,7 +29720,7 @@ Edomite;30
 Edomites;40;Biblical descendants of Esau
 Édouard;40;Édouard Manet, painter, among other French Édouards
 Edouard;0
-eds;40
+eds.;40
 Edsel;40
 Edsels;40
 Ed Sheeran;60
@@ -29824,7 +29866,7 @@ Efron;50;Zac Efron, actor
 efs;20
 eft;30;Young newt
 efts;30
-eg;40
+e.g.;40
 egagtrom;0
 égal;40
 Egan;20;Actor, governor
@@ -29892,7 +29934,8 @@ egg white;50
 egg whites;50
 e-girl;40
 e-girls;40
-E G Marshall;40;Actor E. G. Marshall from "12 Angry Men"
+E.G. Marshall;40;Actor E. G. Marshall from "12 Angry Men"
+E G Marshall;0
 Egmont;30;Goethe drama
 ego;50
 egocart;0
@@ -29966,7 +30009,8 @@ Eigengrau;60;Shade of gray people see in pitch black
 eigenlicht;60;Shade of gray people see in pitch black
 eigenvalue of a square matrix;0
 Eiger;40;Swiss Alps peak with a fearsome north face
-eight A.D.;20
+eight AD;20
+eight ad;0
 eight AM;50
 Eight Crazy Nights;50;Adam Sandler movie
 eighteen hundred and froze to death;60;1816, when a volcanic eruption created a volcanic winter
@@ -30150,7 +30194,7 @@ Eleatic;30;Pre-Socratic philosophy
 Eleaticism;30
 Eleatics;30
 Eleazar;30;High priest in the bible, nephew of Moses
-elec;40
+elec.;40
 elected to;40
 electee;50
 electees;50
@@ -30193,7 +30237,7 @@ elegist;50;Writer of elegies
 elegists;50
 eleison;40;"Kyrie eleison" ("Have mercy", mass prayer)
 Elektra;40;Marvel assassin, or the Strauss opera
-elem;40
+elem.;40
 Elena;50;Elena Kagan, Supreme Court justice / Elena Ferrante, novelist
 Elena Kagan;60
 Elenas;30
@@ -30260,7 +30304,7 @@ Eli Goree;40;Canadian actor (born 1994)
 Elihu;40;Critic of Job, statesman Elihu Root
 Elihu Root;40;Statesman under McKinley and Teddy Roosevelt
 Elijah;50;Biblical prophet, or a common first name
-elim;40
+elim.;40
 Eli Manning;50
 ElimiDate;40;Forgotten early 2000's reality show
 Elinor;30;Various
@@ -30285,7 +30329,8 @@ Elizabethan;50;Of Shakespeare's era
 Elizabethans;50;Shakespeare's contemporaries
 Elizabethtown;50;Cameron Crowe film, and a Kentucky city
 Elizondo;40;Hector Elizondo, "Pretty Woman" actor
-E L James;40;"Fifty Shades" author
+E.L. James;40;"Fifty Shades" author
+E L James;0
 elk;50
 elk calf;50
 elk calves;50
@@ -30528,7 +30573,7 @@ emendation;40
 emendations;40
 emender;30
 emenders;30
-emer;30
+emer.;30
 emerald green;50
 Emergen-C;40
 emergences;40
@@ -30728,7 +30773,7 @@ en bloc;40
 Enbrel;20
 en brosse;30;???
 enby;50
-enc;30;Enclosure
+enc.;30;Enclosure
 Encanto;50
 Encarta;50;Microsoft's CD-ROM encyclopedia
 enceinte;30;Pregnant
@@ -30744,7 +30789,7 @@ Enchiritos;40;Discontinued Taco Bell items
 Encina;20
 Encino;40;"Encino Man", Brendan Fraser caveman comedy
 Encino Man;60
-encl;40
+encl.;40
 enclasp;40
 enclasped;40
 enclasping;40
@@ -30757,7 +30802,7 @@ encroaches on;40
 encroaching on;40
 encroach on;40
 encrypted;50
-encs;30;Enclosures
+encs.;30;Enclosures
 Encyclopédie;40;Diderot's Encyclopédie
 Encyclopedie;0
 encyst;30
@@ -30855,7 +30900,7 @@ enemy camp;60
 enemy camps;60
 enemy fire;50
 enemy's;20
-ener;20;Will Shortz won't accept it
+ener.;20;Will Shortz won't accept it
 Energizer;50;Battery brand with a bunny mascot
 Energizers;40;Long-lasting batteries
 energy boost;60
@@ -30889,7 +30934,8 @@ enfeoffment;30;Medieval law term
 Enfield;30
 enframe;30;???
 en fuego;50
-Eng;40
+Eng.;40
+Eng;0
 Engadin;30;Swiss Alps region
 Engadine;30;Swiss Alps region
 engaged in;40
@@ -30964,7 +31010,7 @@ enjoy responsibly;60
 enjoys the view;60
 enjoy the view;60
 Enkidu;20
-enl;20
+enl.;20
 Enlai;30
 enlarged on;40
 enlarge on;40
@@ -31174,7 +31220,7 @@ enure;20
 enured;20
 enures;20
 enuresis;10;Bedwetting
-env;20
+env.;20
 envenom;40;Put poison on or into
 envenomation;40
 envenomed;40
@@ -31900,7 +31946,8 @@ e-tailed;30
 e-tailer;30
 e-tailers;30
 e-tailing;30
-et al;50
+et al.;50
+et al;0
 et aliae;30
 et alibi;30
 et alii;40
@@ -32020,7 +32067,8 @@ Eton collars;40
 Etonian;40;One from Eton College
 Etonians;40
 Etosha;20;Park in Namibia
-ET phone home;60
+E.T. phone home;60
+ET phone home;0
 E-Trade;50
 E-Trade Baby;30
 e-trades;20
@@ -32057,7 +32105,8 @@ Etsy witches;60
 Etta;40
 Etta Jones;50;American jazz singer (1928–2001)
 -ette;40
-ET the Extra-Terrestrial;60
+E.T. the Extra-Terrestrial;60
+ET the Extra-Terrestrial;0
 Ettore;40;Ettore Bugatti, automaker / Ettore Sottsass, designer
 Ettore Bugatti;60;Italian-born French automobile designer and manufacturer (1881–1947)
 et tu;40
@@ -32515,7 +32564,7 @@ ex-BF;40
 ex-BFF;40
 ex-BFFs;40
 ex-BFs;40
-exc;20
+exc.;20
 Excalibur;50;King Arthur's sword
 ex cathedra;60;How the Pope speaks "from the chair"
 Excedrin;40;Headache remedy
@@ -32650,7 +32699,7 @@ exotic;50
 exotica;60
 exotoxin;50
 exotoxins;50
-exp;20
+exp.;20
 expanded on;40
 expanding on;40
 expand on;40
@@ -32729,7 +32778,7 @@ exserts;30
 ex-spy;40
 ex-star;20
 Exsurge;30;Exsurge Domine, papal bull against Luther
-ext;40
+ext.;40
 extend an olive branch;60
 extended an olive branch;60
 extending an olive branch;60
@@ -33751,7 +33800,8 @@ FDA;40
 FDIC;40
 FDNY;40
 FDR;40
-FDR Jr;30
+FDR Jr.;30
+FDR Jr;0
 Fe;30
 Fear and Loathing;60
 Fear and Loathing in Las Vegas;60
@@ -33815,7 +33865,8 @@ feature-length film;60
 feature-length films;60
 feature-length movie;60
 feature-length movies;60
-Feb;40
+Feb.;40
+Feb;0
 febrero;40
 Febreze;50;Air freshener brand
 febrility;30
@@ -34996,7 +35047,9 @@ Fitzsimmons;40;Bob Fitzsimmons, first three-division boxing champ
 Fitzwilliam;50;Fitzwilliam Darcy, "Pride and Prejudice" love interest
 FIU;20;Florida International University
 Fiume;40;Italian name for Rijeka, Croatia
-five AM;50
+five a.m.;50
+five A.M.;0
+five AM;0
 five and dime;60
 five and ten-cent store;50
 five and ten-cent stores;50
@@ -35052,7 +35105,8 @@ Fjallraven;40;Fjällräven, Swedish outdoor gear brand
 FKA;30;FKA Twigs, English singer, songwriter, and dancer (born 1988)
 FKA Twigs;50;English singer, songwriter, and dancer (born 1988)
 FL;40
-Fla;40
+Fla.;40
+Fla;0
 Flacco;40;Joe Flacco, Super Bowl MVP quarterback
 flag-bearer;50
 flag-bearers;50
@@ -36396,7 +36450,8 @@ Freda;40;Freda Payne, "Band of Gold" singer
 Freddie;50;Freddie Mercury, Queen frontman / Freddie Gibbs, rapper
 Freddy;50;Freddy Krueger, among others
 Freddy's;40;Five Nights at Freddy's
-Freddy vs Jason;60
+Freddy vs. Jason;60
+Freddy vs Jason;0
 Frederic;40;Frédéric Chopin, or Frederic Remington
 Frederick;50;Common first name
 Frederick Delius;40;English composer (1862–1934)
@@ -36644,7 +36699,8 @@ Freudians;40;Followers of Freud
 Frey;40
 Freyja;50;Norse goddess of love and war
 Freyr;40;Norse god of fertility and prosperity
-Fri;40
+Fri.;40
+Fri;0
 Friars Club;50
 Fribourg;40;Swiss city and canton
 frick;50
@@ -36841,7 +36897,7 @@ frozen yogurt store;60
 frozen yogurt stores;60
 froze up;50
 Frozone;60
-frs;20
+frs.;20
 Fructidor;40;French Revolutionary calendar month
 frug;20;'60s dance
 frugivore;50
@@ -36888,7 +36944,7 @@ F-sharp scale;30
 F star;20
 F stars;20
 FSU;40
-ft;40
+ft.;40
 FTC;40
 FTD;20
 Ft. Dix;40;Army post in New Jersey
@@ -37994,7 +38050,8 @@ GB;40
 GBP;40;Pound sterling
 Gbps;40;Gigabits per second
 GBs;20
-G B Shaw;40
+G.B. Shaw;40
+G B Shaw;0
 Gchat;30
 G chord;30
 G chords;30
@@ -38008,7 +38065,7 @@ g'day mates;40;Unnatural plural
 GDP;40
 GDPs;40
 GDR;20
-gds;20
+gds.;20
 G.D. Searle;40;Pharmaceutical company G.D. Searle, developer of the birth control pill and NutraSweet
 Gdynia;40;Polish port city
 GE;40
@@ -38126,7 +38183,8 @@ gemmiinnii;0
 gemologist;50
 gemologists;50
 gemology;50
-G E Moore;30;Philosopher
+G.E. Moore;30;Philosopher
+G E Moore;0
 gemsbok;30;???
 gen;40
 Gena;40;Various, including Gena Rowlands
@@ -38269,13 +38327,13 @@ GeoGuessr;60
 geoid;30
 geoidal;30
 geoids;30
-geol;40
+geol.;40
 geolocate;50
 geolocated;50
 geolocates;50
 geolocating;50
 geolocation;50
-geom;40
+geom.;40
 geomancer;50
 geomancers;50
 geomancy;50;Earth divination
@@ -39127,8 +39185,10 @@ Gigli;40;"Gigli," notorious 2003 flop / Beniamino Gigli, tenor
 gigs;50
 gigue;30;Lively baroque dance
 gigues;30;Lively baroque dance
-GI Joe;60
-GI Joes;60
+G.I. Joe;60
+GI Joe;0
+G.I. Joes;60
+GI Joes;0
 Gil;40;Gil Scott-Heron
 Gila;50;Gila monster, or the Arizona river
 Gila Desert;20
@@ -41860,7 +41920,7 @@ growth curve;50
 growth curves;50
 grow upon;40
 Grozny;40;Capital of Chechnya
-grp;40
+grp.;40
 grr;50
 GRRM;20
 Gru;40
@@ -42277,7 +42337,8 @@ Gwalior;40;City in Madhya Pradesh, India
 Gwangju;40;South Korean city
 Gwar;40;Costumed shock-metal band
 GWB;20
-G W Bush;50
+G.W. Bush;50
+G W Bush;0
 Gwen;50;Gwen Stefani, singer, among others
 Gwendoline;50;Gwendoline Christie, "Game of Thrones" actress
 Gwendolyn;50;Given name: Gwendolyn Brooks, Pulitzer-winning poet
@@ -44836,9 +44897,10 @@ Heyward;40;DuBose Heyward, "Porgy" author
 Hezekiah;50;Biblical king of Judah
 Hf;40;Hafnium's symbol
 Hg;30
-hgt;20
+hgt.;20
 HGTV;40
-H G Wells;50
+H.G. Wells;50
+H G Wells;0
 hhaerihspmahwen;0
 HHH;40;Triple H, former American professional wrestler
 H hinge;40
@@ -45482,7 +45544,7 @@ Hokkaido;50;Japan's northernmost main island
 Hokkien;40;Southern Chinese language
 hokums;20
 Hokusai;50;"The Great Wave off Kanagawa" painter Katsushika Hokusai
-hol;20
+hol.;20
 hola;40
 Holbein;40;Renaissance painter Hans Holbein the Younger
 Holbrook;40
@@ -46055,7 +46117,7 @@ hops onto;40
 hops to;40
 hop to;40
 hop to it;60
-hor;20
+hor.;20
 hora;40
 Horace;50;Roman poet of the Odes, or Horace Mann
 Horace Ove;40
@@ -46630,16 +46692,18 @@ HRC;20
 HR derbies;30
 HR derby;30
 HRE;30;Holy Roman Empire
-H R Giger;60
+H.R. Giger;60
+H R Giger;0
 HRH;20
-H R Haldeman;50
+H.R. Haldeman;50
+H R Haldeman;0
 Hrishikesh;40;Hrishikesh Hirway, "Song Exploder" host
 HR issue;30;Green paint
 HR issues;30
 Hrothgar;50;"Beowulf" Danish king
 HR rep;50
 HR reps;50
-hrs;40
+hrs.;40
 HRT;40
 HRTiversary;60
 HS;40
@@ -47011,7 +47075,7 @@ Hymenoptera;40;Order of ants, bees, and wasps
 hymnody;30
 Hynde;40;Chrissie Hynde, Pretenders frontwoman
 Hynes;40;Dev Hynes, musician known as Blood Orange
-hyp;20
+hyp.;20
 Hypatia;50;Ancient Alexandrian mathematician
 hypebeast;60
 hypebeasts;60
@@ -47153,7 +47217,7 @@ ibex kid;40
 ibex kids;40
 IBF;20
 Ibi;20
-ibid;40
+ibid.;40
 I bid you adieu;60
 ibis;40;Bird
 ibis chick;50
@@ -47174,7 +47238,8 @@ iBook;40
 iBooks;30;Now known as Apple Books
 Ibrahim;40
 Ibram;40;Ibram X. Kendi, author of "How to Be an Antiracist"
-Ibram X Kendi;60;Ibram X. Kendi, author of "How to Be an Antiracist"
+Ibram X. Kendi;60;Ibram X. Kendi, author of "How to Be an Antiracist"
+Ibram X Kendi;0
 Ibsen;40;Henrik Ibsen, "A Doll's House" playwright
 IBU;20
 Ibuprofen;50;Advil's active ingredient
@@ -48426,7 +48491,8 @@ impearled;30
 impearling;30
 impearls;30
 impediments;50
-I M Pei;40
+I.M. Pei;40
+I M Pei;0
 impend;30
 impended;30
 impends;30
@@ -48669,7 +48735,8 @@ in bed;50;Words to add to a fortune cookie fortune
 in bed with;50
 InBev;40;Anheuser-Busch InBev, brewing giant
 in blue;20
-Inc;50
+Inc.;50
+Inc;0
 Inca;50;Andean empire
 Inca Empire;50
 incages;20
@@ -48716,7 +48783,7 @@ incitements;30
 inciting incident;60
 inciting incidents;60
 incitive;40
-incl;30
+incl.;30
 inclinable;40
 inclinometer;40
 inclinometers;40
@@ -49298,7 +49365,7 @@ inspirer;40
 inspirers;40
 inspo;50
 in spot;40;Cool place, according to other clues???
-inst;40
+inst.;40
 instable;40;Unstable
 Instacart;50;Grocery delivery service
 Instafame;40;Instagram celebrity
@@ -49353,8 +49420,8 @@ insult;50
 insult comic;60
 insurance broker;50
 insurances;40
-int;40;Interest / interior / integer
 INT;40;Interceptions
+int.;40;Interest / interior / integer
 intaglio;50
 intaglioed;50
 intaglios;50
@@ -49511,7 +49578,7 @@ intimater;40
 intimaters;40
 intimates;50
 Intimissimi;40;Italian lingerie brand
-intl;40
+intl.;40
 intoner;30
 intoners;30
 in too deep;60
@@ -49929,7 +49996,7 @@ Ironwomen;40;Female triathlon competitors
 Iroquoian;40;Native American language family
 Iroquoians;40;Speakers of the Iroquois languages
 Iroquois;50;Haudenosaunee confederacy, by another name
-irr;20
+irr.;20
 Irrawaddy;30;???
 irreal;30
 irredentism;40
@@ -51385,7 +51452,7 @@ jars loose;50
 Jarts;40;Banned lawn dart brand
 Jarvik;40;Robert Jarvik, artificial heart pioneer
 Jarvis;40;Jarvis Cocker, Pulp frontman / Iron Man's A.I.
-Jas;20
+Jas.;20
 Jascha;40;Violinist Jascha Heifetz (1901-87)
 Jason;50;Jason of the Argonauts, or a very common first name
 Jason Isbell;40;Americana singer-songwriter (born 1979)
@@ -51490,7 +51557,8 @@ J C Chandor;0
 JC Chasez;40;Member of *NSYNC
 JCCs;20;Jewish Community Centers
 JCPenney;50;Department store chain
-JCrew;50;Clothing retailer
+J.Crew;50;Clothing retailer
+JCrew;0
 J.Crew catalog;50
 J.Crew catalogs;50
 JCS;20
@@ -51854,14 +51922,15 @@ JKLMNO;20
 JK LOL;30
 J.K. Rowling;10
 JLeague;40;Japan's pro soccer league
-JLo;40
+J.Lo;40
+JLo;0
 J. M. E. McTaggart;40;English philosopher (1866–1925)
 J M E McTaggart;0
 J. M. Synge;40;Irish writer and collector of folklore (1871–1909)
 J M Synge;0
 JNCO;40;Jeans brand
 JNCOs;40;Baggy 1990s jeans
-Jnr;20
+Jnr.;20
 Jo;40
 Joachim;40;Joachim Murat, Napoleonic marshal / Saint Joachim, Mary's father
 Joad;40;Tom Joad, "The Grapes of Wrath" hero
@@ -52248,7 +52317,8 @@ Joyner;40;Florence Griffith Joyner, sprinter / Jackie Joyner-Kersee, heptathlete
 Joy of Sex;60
 joyride;60
 joyrides;60
-J Paul Getty;50
+J. Paul Getty;50
+J Paul Getty;0
 JPEG;40
 JPEG file;40
 JPEG files;40
@@ -52258,11 +52328,13 @@ JPG;40
 JPGs;40
 JPY;30;Japanese yen
 JQA;20
-J R Ewing;50
+J.R. Ewing;50
+J R Ewing;0
 JROTC;40
 JRPG;40;Japanese role-playing game
 JRPGs;40;Final Fantasy and Dragon Quest, for two
-J R R;40
+J.R.R.;40
+J R R;0
 Jrs;40
 Jrue;40;Jrue Holiday, NBA guard
 J's;40;Capital J's
@@ -52358,7 +52430,7 @@ Juilliard;50;Elite New York performing arts school
 Jujubee;40;"RuPaul's Drag Race" queen
 Jujyfruit;40;Chewy candy
 Jujyfruits;50;Chewy candy brand
-Jul;40
+Jul.;40
 Jule;40;Jule Styne, Broadway composer
 Julee;40;Julee Cruise, "Twin Peaks" singer
 Jules;50;Jules Verne's first name
@@ -52445,7 +52517,7 @@ jump-starting;60
 jump-starts;60
 jumps through hoops;60
 jump through hoops;60
-Jun;40;June
+Jun.;40;June
 June;50;Sixth month, or a common first name
 Juneau;50;Capital of Alaska
 Juneauite;40;Alaska capital resident
@@ -52794,7 +52866,7 @@ Kansas City Royal;60
 Kansas City Royals;60
 Kansas dog;20;???
 Kansas dogs;20;???
-Kansas St;20
+Kansas St.;20
 Kant;50;Immanuel Kant, "Critique of Pure Reason" philosopher
 Kantian;50;Of Immanuel Kant's philosophy
 Kanto;40;Japanese region around Tokyo
@@ -55555,9 +55627,11 @@ Lar;30;Choreographer Lar Lubovitch [occasional]
 Lara;50;Lara Croft, Tomb Raider heroine
 Lara Croft;60
 Laraine;40;Laraine Newman, original "SNL" cast member
-LA Ram;50
+L.A. Ram;50
+LA Ram;0
 Laramie;40;Wyoming city, or "The Laramie Project"
-LA Rams;50
+L.A. Rams;50
+LA Rams;0
 Lara's;40;"Lara's Theme" from "Doctor Zhivago"
 la Raza;30;Latino race, not sure how to sum it up, NYT debut
 larb;40;Laotian dish
@@ -56127,7 +56201,7 @@ lazy Sundays;60
 lazy Susan;50
 lazy Susans;50
 LazyTown;40;Icelandic children's TV show
-lb;40
+lb.;40
 LBD;20;Little black dress
 LBDs;20;Little black dresses
 L-beam;30
@@ -56137,7 +56211,7 @@ LBJ Ranch;50
 LBO;30;Leveraged buyout [common]
 L-bomb;60
 L-bombs;60
-lbs;40
+lbs.;40
 lbumen;0
 LCD;40
 LCD display;50
@@ -56407,7 +56481,7 @@ leaving to;40
 leaving unfinished;50
 leaving unsaid;50
 Leavitt;40;Henrietta Swan Leavitt, astronomer
-Leb;20
+Leb.;20
 Lebanese;50;Of Beirut's country
 Lebanon;50;Middle Eastern country
 LeBeau;40;NFL HOF coach Dick LeBeau
@@ -57226,7 +57300,7 @@ LGBTQIA+;60
 LGBTQIA plus;60
 LGBTQ rights;60
 LGBT rights;60
-lge;20
+lge.;20
 LG OLED TV;30
 LG OLED TVs;30
 LGs;30;Some phones/TVs [rare]
@@ -57884,7 +57958,7 @@ lip-synchs;20
 lip-syncing;60
 lip-syncs;60
 Lipton;50;Tea brand, or James Lipton of "Inside the Actors Studio"
-liq;20
+liq.;20
 liquescent;40
 LiquiCap;40;???
 LiquiCaps;40;Liquid-filled medicine capsules
@@ -58299,7 +58373,7 @@ lob wedge;60
 lob wedges;60
 lobworm;30
 lobworms;30
-loc;20
+loc.;20
 Loca;40;"Livin' la Vida Loca"
 local anesthesia;50
 local anesthetic;50
@@ -58316,7 +58390,8 @@ local papers;60
 local pride;50
 local TV;40
 Locarno;40;Swiss treaty city after W.W.I
-loc cit;40;Loc. cit. footnote term
+loc. cit.;40;Loc. cit. footnote term
+loc cit;0
 L'Occitane;40;French skincare brand
 Lochner;40;Lochner v. New York, Supreme Court case on economic liberty
 Lochte;40;Ryan Lochte, Olympic swimmer
@@ -59293,7 +59368,8 @@ Lt. Dan;30;Gary Sinise's character Lt. Dan in "Forrest Gump"
 LTDs;20;Old Fords
 LTE;40;Cell phone speed [common]
 Lt. Flap;40;Beetle Bailey character
-Lt Gov;40
+Lt. Gov.;40
+Lt Gov;0
 Lt Govs;30
 L tile;30
 L tiles;30
@@ -59926,7 +60002,8 @@ machzor;40;Prayer book used by Jews on holidays
 machzorim;40;Prayer books used by Jews on holidays
 Macintosh;50;Apple computer
 Macintoshes;50;Apples or old Apple computers
-Mac Jr;60;Mini Big Mac
+Mac Jr.;60;Mini Big Mac
+Mac Jr;0
 Mackay;40;Charles Mackay, "Extraordinary Popular Delusions" author
 MacKaye;40;Ian MacKaye, Fugazi frontman
 Mackendrick;40;Alexander Mackendrick, "Sweet Smell of Success" director
@@ -60101,7 +60178,8 @@ Madhya;40;Madhya Pradesh, central Indian state
 Madiba;40;Nelson Mandela's clan name
 Madigan;30;'80s actress Amy Madigan
 Madison;50;Wisconsin capital / Dolley Madison, first lady
-Madison Ave;60
+Madison Ave.;60
+Madison Ave;0
 Madison Avenue;60
 Madisonian;40;Of James Madison's model of government
 Madisons;30
@@ -60382,7 +60460,8 @@ main points;50
 main sequence;60;Astrononomy classification
 main-sequence star;60
 main-sequence stars;60
-Main St;40
+Main St.;40
+Main St;0
 mainstream;60
 main street;60
 maintainability;50
@@ -61188,7 +61267,8 @@ manumitting;30
 manure;50
 Manute;40;Basketball player Manute Bol
 Manville;40;Lesley Manville, British actor
-Man vs Wild;60
+Man vs. Wild;60
+Man vs Wild;0
 Manwich;50;Sloppy joe sauce brand
 Man with No Name;60
 Manx;50;Tailless cat breed
@@ -61428,7 +61508,8 @@ Marine Two;50
 Marino;40;Quarterback Dan Marino
 Mario;50;Nintendo's plumber
 Mario Batali;10;Sexual assault
-Mario Bros;60
+Mario Bros.;60
+Mario Bros;0
 Mario Cuomo;50;Governor of New York from 1983 to 1994
 Mario Kart;60
 Mario Lanza;50;Hollywood tenor
@@ -62324,7 +62405,8 @@ McElroy;40;Griffin McElroy, of the podcasting brothers
 McElwee;40;Ross McElwee, American documentary filmmaker (born 1947)
 McEnroe;50;John McEnroe, tennis great
 McEntire;40;Reba McEntire, country singer
-M C Escher;50
+M.C. Escher;50
+M C Escher;0
 McEwan;40;Ian McEwan, author of "Atonement"
 McFarlane;40;Todd McFarlane, "Spawn" creator
 McFerrin;40;Bobby McFerrin, "Don't Worry, Be Happy" singer
@@ -63290,7 +63372,8 @@ messin';30
 Messina;40;Chris Messina, actor, or the Sicilian city
 Messinas;20
 Messner;40;Reinhold Messner, first to climb Everest solo without oxygen
-Messrs;30
+Messrs.;30
+Messrs;0
 messuage;30;Dwelling
 messuages;30
 Messud;40;Claire Messud, novelist
@@ -63458,14 +63541,14 @@ MFAs;40;Art school degrees
 MF Doom;60
 MFer;10;Cussword, abbreviated
 MFers;10;Vulgar abbreviation, pluralized
-mfg;20
+mfg.;20
 mfr;20
 mg;40
 MGB;20
 MGM;50
 MGM Grand Hotel;60
 MGMT;40
-mgr;20
+mgr.;20
 MGs;30
 mgt;20
 mho;20;Conductance unit
@@ -63867,7 +63950,7 @@ Mimi Marquez;0
 Mimir;40;Norse god of wisdom
 Mimouna;40;North African Jewish festival after Passover
 mimsy;40;"All mimsy were the borogoves": Jabberwocky (miserable + flimsy)
-min;40
+min.;40
 Mina;40;Mina Harker, "Dracula" character / Mina Kimes, ESPN analyst
 minable;30
 Minaj;50;Nicki Minaj, rapper
@@ -64030,7 +64113,8 @@ Minkoff;40;Rob Minkoff, "The Lion King" co-director
 Minkowski;40;Hermann Minkowski, spacetime mathematician
 mink stole;40
 mink stoles;40
-Minn;40
+Minn.;40
+Minn;0
 Minneapolis;50;Minnesota's largest city
 Minneapolis, MN;20
 Minnehaha;50;"The Song of Hiawatha" maiden
@@ -64235,7 +64319,8 @@ missile launchers;50
 missile silo;50
 missile silos;50
 missing a cue;40
-MissingNo;50;Glitch Pokemon
+MissingNo.;50;Glitch Pokemon
+MissingNo;0
 missing one's calling;50
 missing piece;50
 missing pieces;50
@@ -64371,7 +64456,7 @@ Mizzou;50;University of Missouri, familiarly
 Mjolnir;50;Thor's hammer
 m'kay;50
 Mkgee;40;Mk.gee, indie musician
-mkt;20
+mkt.;20
 MKTO;30;Pop and hip hop duo, Malcolm Kelley and Tony Oller
 MKUltra;50;CIA mind-control program
 mL;40
@@ -64393,10 +64478,12 @@ MLIII;20
 MLIV;20
 MLIX;20
 MLK;50
-MLK Jr;60
-MLK Jr Blvd;60
-Mlle;40
-Mlles;40
+MLK Jr.;60
+MLK Jr;0
+MLK Jr. Blvd.;60
+MLK Jr Blvd;0
+Mlle.;40
+Mlles.;40
 MLS;40;Major League Soccer
 MLS Draft;50
 MLS team;30
@@ -64441,9 +64528,9 @@ MMDII;20
 MMDIV;20
 MMDL;20
 MMDX;20
-Mme;40
-Mme Curie;40
-Mmes;40
+Mme.;40
+Mme. Curie;40
+Mmes.;40
 MMI;20
 MMII;20
 mmiii;20
@@ -64483,7 +64570,8 @@ MN;40
 MNEK;40;British singer with two Grammy nominations (born 1994)
 mneme;20
 Mnemosyne;50;Greek Titan of memory, mother of the Muses
-M Night Shyamalan;60
+M. Night Shyamalan;60
+M Night Shyamalan;0
 mno;20
 mnop;20
 mnopqr;20
@@ -65600,7 +65688,8 @@ MPG;40
 MPH;40
 MPs;40
 MP three players;20
-Mr;50
+Mr.;50
+Mr;0
 Mr. and Mrs.;50
 Mr and Mrs Andrews;50;1750 painting by Thomas Gainsborough
 Mr. and Mrs. Bridge;50;1990 film by James Ivory
@@ -65610,26 +65699,32 @@ Mraz;40;Jason Mraz, "I'm Yours" singer
 Mr. B;20
 MrBeast;60
 Mr Blonde;60;From "Reservoir Dogs"
-Mr Blue;50;From "Reservoir Dogs"
-Mr Bojangles;60
+Mr. Blue;50;From "Reservoir Dogs"
+Mr Blue;0
+Mr. Bojangles;60
+Mr Bojangles;0
 Mr. Brooks;50
 Mr Brown;50;From "Reservoir Dogs"
 Mr. Brown Can Moo! Can You?;60;Dr. Seuss book
-Mr Bubble;50
+Mr. Bubble;50
+Mr Bubble;0
 Mr Bungle;60
 Mr. C;20
-Mr Coffee;50
+Mr. Coffee;50
+Mr Coffee;0
 Mr. Cool;50
 Mr DNA;60;Cartoon explainer from "Jurassic Park"
 MRE;30
 Mr. Edward Hyde;60;Mr. Hyde
 MREs;40
-Mr Freeze;60
+Mr. Freeze;60
+Mr Freeze;0
 Mr. Garrison;50;"South Park" teacher
 mrgates;0
 Mr. Hat;50;Mr. Garrison's puppet on "South Park"
 Mr. Hooper;50
-Mr Hyde;60
+Mr. Hyde;60
+Mr Hyde;0
 MRI;40
 MRIs;40
 MRI scan;50
@@ -65638,24 +65733,31 @@ MRI scanners;50
 MRI scans;50
 MRI studies;50
 MRI study;50
-Mr Know-It-All;60
-Mr Lee;30;From Bobbettes song "I Shot Mr. Lee"
-Mr Mayor;60
+Mr. Know-It-All;60
+Mr Know-It-All;0
+Mr. Lee;30;From Bobbettes song "I Shot Mr. Lee"
+Mr Lee;0
+Mr. Mayor;60
+Mr Mayor;0
 Mr. Men;40;Children's book series since 1971
 Mr Men;0
 Mr Mime;50;Pokeyman
 Mr. Moneybags;60;Nickname for a rich person
-Mr Moto;50
+Mr. Moto;50
+Mr Moto;0
 Mr. & Mrs. Bridge;50;1990 film by James Ivory
 Mr. N;20
 mRNA;40
-Mr Noodle;40;"Sesame Street" character
+Mr. Noodle;40;"Sesame Street" character
+Mr Noodle;0
 Mr. Novak;30;1963-65 TV series
-Mr Orange;60;From "Reservoir Dogs"
+Mr. Orange;60;From "Reservoir Dogs"
+Mr Orange;0
 Mr. Ouch;60;Mr. Ouch, electrical hazard symbol for kids
 Mr. Peanut;60;Mascot for Planters Peanuts
 Mr Peanut;0
-Mr Pink;60;From "Reservoir Dogs"
+Mr. Pink;60;From "Reservoir Dogs"
+Mr Pink;0
 Mr. Red;40;Cincinatti Reds mascot
 Mr. Ree;30;Captain Underpants janitor, first name Toilette
 Mr. Roarke;50
@@ -65693,36 +65795,44 @@ Mrs. Krabappel;60
 Mrs Krabappel;0
 Mr. Slate;50;Fred Flintstone's boss
 Mr Slate;0
-Mrs Maisel;60
+Mrs. Maisel;60
+Mrs Maisel;0
 Mrs. Malaprop;60;1775 play character, origin of "malapropism"
 Mrs Malaprop;0
 Mr. Smarty-pants;60
-Mrs Miniver;50
+Mrs. Miniver;50
+Mrs Miniver;0
 Mr. Smith;50
 Mr Smith;0
-Mr Smithers;60
+Mr. Smithers;60
+Mr Smithers;0
 Mr. Smith Goes to Washington;60;1939 James Stewart film by Frank Capra
 Mr Smith Goes to Washington;0
 Mr. Snuffleupagus;60;Character on Sesame Street
 Mr Snuffleupagus;0
-Mrs O'Leary;50
+Mrs. O'Leary;50
+Mrs O'Leary;0
 Mrs. Peel;40;Emma Peel of "The Avengers", as she was known
 Mr. Spock;60;"Star Trek" character
 Mr Spock;0
 Mrs. Robinson, are you trying to seduce me?;60;"The Graduate" quote
 Mrs. Smith;50
 Mrs Smith;0
-Mrs Who;50;Character in "A Wrinkle in Time"
-Mr T;40
+Mrs. Who;50;Character in "A Wrinkle in Time"
+Mrs Who;0
+Mr. T;40
+Mr T;0
 Mr. Warmth;50
 Mr White;50;From "Reservoir Dogs" or "Breaking Bad"
 Mr. Wilson;50
 Mr. X;20
 Mr. ZIP;40;Mascot of the United States Post Office Department
 Mr Zip;0
-Ms;40
+Ms.;40
+Ms;0
 MSCHF;30;Brooklyn art collective
 MS degree;30
+M.S. degree;0
 MS degrees;30
 MS-DOS;40
 msec;40
@@ -65735,7 +65845,8 @@ MSNBC;40
 Ms. Noodle;40;"Sesame Street" character
 MS NOW;40
 M Squad;30;Old TV show
-Ms Rachel;60;Incredibly popular children's YouTuber
+Ms. Rachel;60;Incredibly popular children's YouTuber
+Ms Rachel;0
 MSRP;40
 MSs;30;Manuscripts
 MST;40
@@ -65754,15 +65865,16 @@ Mt. Dana;40
 Mt. Etna;50;Active volcano on the east coast of Sicily, Italy
 Mt. Everest;60
 MTG;20
-mtge;30
-mtges;30
+mtge.;30
+mtges.;30
 Mthatha;30;South Africa city formerly known as Umtata where Nelson Mandela comes from
 Mt. Hope;40;???
 Mt. Ida;40;Sacred mountain in Greek myth
 Mt. Kilimanjaro;60
 MTM;20
-Mtn;40
-mtns;30
+Mtn.;40
+Mtn;0
+mtns.;30
 Mt. Ossa;30;Unnotable Greek mountain
 Mt. Rushmore;50
 mts;40
@@ -66013,7 +66125,8 @@ murderers' rows;60
 murderer's thumb;60;Genetic trait with one short, wide thumb
 murder hornet;60;Nickname for the Asian giant hornet
 murder hornets;60;Nickname for Asian giant hornets
-Murder Inc;50
+Murder Inc.;50
+Murder Inc;0
 murder map;60;Conspiracy board
 murder maps;60
 murder one;50
@@ -66627,7 +66740,7 @@ Napster;50;Pioneering file-sharing service
 naptime;60
 nap-trapped;60
 Naqoyqatsi;40;Third film in the "Qatsi" trilogy
-nar;20
+nar.;20
 Nara;30;Ancient capital of Japan
 Nara, Japan;40;Ancient capital of Japan
 Nara Japan;0
@@ -66983,7 +67096,8 @@ NCOs;40;Non-commissioned officers
 NCR;20
 NC State;40
 Ncuti;40;Ncuti Gatwa, "Doctor Who" star
-N C Wyeth;30;Illustrator
+N.C. Wyeth;30;Illustrator
+N C Wyeth;0
 ND;40
 NDA;40
 N. Dakota;40
@@ -67378,7 +67492,8 @@ nettv;0
 networking site;60
 networking sites;60
 network security;60
-net wt;40
+net wt.;40
+net wt;0
 Neu;20
 Neuchatel;40;Neuchâtel, Swiss city and lake
 Neue;30;Helvetica Neue font
@@ -67421,7 +67536,8 @@ neutrinos;50
 Neutrogena;50;Skincare brand
 neutrois;40;Null gender identity
 Neuwirth;40;Bebe Neuwirth, Lilith on "Cheers"
-Nev;40;Nevada
+Nev.;40;Nevada
+Nev;0
 Neva;40;St. Petersburg's river
 Nevada;50;Silver State
 Nevada Day;50;Nevada holiday commemorating its admission to the Union
@@ -67947,6 +68063,7 @@ nincom;20
 nincompoop;60
 nine AM;50
 nine BC;20
+nine B.C.;0
 Nine Days;50;2020 fantasy drama film
 nine dollars;30
 Nine-Eleven;10
@@ -68894,7 +69011,8 @@ not on a bet;50
 not on a dare;40;Is this a real phrase???
 not on board;50
 not open;30;Green paint
-Notorious BIG;60
+Notorious B.I.G.;60
+Notorious BIG;0
 not PC;40
 not quite my tempo;60;"Whiplash" admonition
 not rare;20
@@ -68956,7 +69074,8 @@ noumenon;30;Part of Kantian philosophy
 nounal;30
 Nouri;20;Actor Michael
 nous;30
-Nov;40
+Nov.;40
+Nov;0
 Novacain;40;Common alternate spelling of novocaine, and its original German spelling
 no vacancies;60
 novae;40
@@ -69462,7 +69581,7 @@ NWA;40
 Nwapa;40;Flora Nwapa, Nigerian novelist
 Nwodim;40;SNL cast member Ego Nwodim
 NWSL;40;National Women's Soccer League
-NWT;20
+N.W.T.;20
 NY;40
 Nyack;40;Hudson River village in New York
 Nyad;30;Swimmer Diana
@@ -69722,7 +69841,7 @@ O Canada;60
 Ocasek;40;Ric Ocasek, the Cars frontman
 O'Casey;40;Playwright Seán O'Casey
 Ocasio;50
-occ;20
+occ.;20
 Occam;50;William of Occam, of the razor
 Occitan;30;Language of France/Spain/Italy
 occurred to;40
@@ -69795,7 +69914,8 @@ Oconomowoc;50;Wisconsin city
 OCR;30;[only used once in NYT]
 Ocracoke;40;Outer Banks island where Blackbeard died
 ocs;20
-Oct;40
+Oct.;40
+Oct;0
 octad;40
 octads;40
 octahedra;50
@@ -70127,8 +70247,10 @@ oh-dark-thirty;60
 oh dear;50
 oh drat;60
 oh, dry up;40;Quaint "shut up"
-O Henry;50
-O Henry Award;50
+O. Henry;50
+O Henry;0
+O. Henry Award;50
+O Henry Award;0
 O Henry Awards;50
 O. Henry-esque;50
 O'Herlihy;40;Dan O'Herlihy, "RoboCop" actor
@@ -70375,7 +70497,8 @@ Okinawan;40;Resident of Okinawa
 Okinawans;40;Ryukyu islanders
 OKing;50
 Okja;40;Bong Joon-ho film (2017)
-Okla;40;Oklahoma
+Okla.;40;Oklahoma
+Okla;0
 Oklahoma;50;Sooner State, and a Rodgers and Hammerstein musical
 Oklahoma Kid;50;1939 western, with "The"
 Oklahoman;50
@@ -70679,7 +70802,7 @@ omh;20
 Omi;20
 omigod;60
 omit needless words;60;Advice from Strunk and White
-omn;20
+omn.;20
 omnia;40;Omnia vincit amor (love conquers all)
 omnibus bill;60
 omnibus bills;60
@@ -70921,7 +71044,7 @@ one is the loneliest number;60
 one kilo;40
 one L;40
 one lap;30
-one lb;40
+one lb.;40
 one leg;30
 one-legged;50
 one less;40
@@ -71176,7 +71299,8 @@ on skid row;50
 OnStar;40;GM in-car assistance service
 on stilts;50
 on stream;50
-Ont;30;Ontario
+Ont.;30;Ontario
+Ont;0
 on tape;50
 Ontarian;40
 Ontarians;40
@@ -71333,7 +71457,8 @@ opalesces;40
 opalescing;40
 opalish;30
 op art;50
-op cit;40
+op. cit.;40
+op cit;0
 op. cits.;30;Plural??
 Op-Doc;30;Opinion documentary
 Op-Docs;30
@@ -71450,7 +71575,7 @@ open tabs;50
 open to;40
 open toes;30
 open up to;40
-oper;30
+oper.;30
 opera aria;40
 opera arias;40
 opera bouffe;50
@@ -71761,7 +71886,7 @@ orienteered;40
 orienteering;50
 orienteers;40
 oriflamme;30;Scarlet banner, or rallying idea
-orig;40
+orig.;40
 origami;50
 origanum;30;???
 Origen;40;Early Christian theologian
@@ -71815,7 +71940,7 @@ ornamental plants;60
 ornamental tree;60
 ornamental trees;60
 Ornette;30;Last name
-ornith;20;Bird subj.
+ornith.;20;Bird subj.
 ornitho-;20
 ornithopter;60
 ornithopters;60
@@ -72614,7 +72739,7 @@ ozone layer;50
 ozones;40;Treats with ozone
 ozoning;40
 Ozploitation;50;Aussie exploitation cinema
-ozs;40
+ozs.;40
 Ozu;20;Yasujirō Ozu, Japanese filmmaker (1903–1963)
 Ozuesque;40;In the style of Yasujirō Ozu
 Ozuna;40;Ozuna, reggaeton star / Marcell Ozuna, MLB slugger
@@ -72766,7 +72891,8 @@ Paget;40;Paget Brewster, actress / Debra Paget, actress
 page view;50
 page views;50
 paginal;40
-paging Dr Freud;60
+paging Dr. Freud;60
+paging Dr Freud;0
 Pagliacci;50;Leoncavallo clown opera
 Pagnol;40;Marcel Pagnol, French writer and filmmaker
 Pago;40;Pago Pago, capital of American Samoa
@@ -72849,7 +72975,8 @@ Pajanimals;40;Jim Henson preschool TV series
 pájaro;20
 pájaros;20
 Pajitnov;40;Alexey Pajitnov, creator of Tetris
-Pak;40
+Pak.;40
+Pak;0
 Pakeezah;40;Classic Bollywood film (1972)
 pākehā;30;Māori term for non-Māori or White New Zealanders
 Pakistan;50;South Asian country
@@ -73978,8 +74105,8 @@ PC Magazine;40
 PCP;40
 PCPs;40;Primary care physicians
 PCs;50
-pct;20
-pcts;40
+pct.;20
+pcts.;40
 pcu;20
 PC user;40
 PC users;40
@@ -73994,7 +74121,8 @@ P. Diddy;10
 P. D. James;50;English detective novelist (1920–2014)
 P D James;0
 PDQ;40
-P D Q Bach;50
+P.D.Q. Bach;50
+P D Q Bach;0
 pdr;20
 pds;20
 PDT;40
@@ -75016,7 +75144,7 @@ Phillis;40;Phillis Wheatley, first published Black American poet
 Philly;50;Philadelphia, informally
 Philo;40;Philo Farnsworth, TV pioneer / Philo of Alexandria, philosopher
 Philoctetes;50;Sophocles hero with a famous bow
-philol;20
+philol.;20
 Philomela;40;Greek myth figure turned into a nightingale
 Philomena;40;Philomena Cunk, Diane Morgan's mockumentary character
 Philomena Cunk;60
@@ -75138,7 +75266,7 @@ photoshopping out;60
 Photoshops;50
 photoshops out;60
 PHP;30
-phr;20
+phr.;20
 phreak;50
 phreaked;50
 phreaker;50
@@ -75373,6 +75501,7 @@ Pierre Menard Author of the Quixote;0
 Pierre Renoir;50
 Pierres;30;Plural name
 Pierre, SD;30
+Pierre, S.D.;0
 Pierrette;40;Female counterpart of Pierrot
 Pierrot;50;Sad clown of French pantomime
 Pierrots;40;Sad-faced commedia dell'arte clowns
@@ -75854,8 +75983,8 @@ Pizzolatto;40;Nic Pizzolatto, "True Detective" creator
 PJ bottom;50
 PJ bottoms;50
 PJs;50
-pkg;20
-pkgs;30
+pkg.;20
+pkgs.;30
 pks;20
 pkwy;40
 pla;20
@@ -76349,8 +76478,9 @@ plow into;40
 Plowright;40;Joan Plowright, English actress
 plows into;40
 pls;40
-P L Travers;50;Mary Poppins's creator P. L. Travers
-plu;20
+P.L. Travers;50;Mary Poppins's creator P. L. Travers
+P L Travers;0
+plu.;20
 plug and chug;60
 plugged into;40
 plugged nickel;50
@@ -76460,8 +76590,11 @@ Pobble;40;Edward Lear's creature with no toes
 poblano pepper;50
 poblano peppers;50
 PO box;50
+P.O. box;0
 PO boxes;50
+P.O. boxes;0
 PO box no.;40
+P.O. box no.;0
 PO box nos.;40
 PO box number;50
 PO box numbers;50
@@ -77164,7 +77297,7 @@ Portsmouth;50;Port city in England, New Hampshire, or Virginia
 Portugal;50;Iberian country
 Portuguese;50;Language of Brazil and Portugal
 Portulaca;30;Flower genus
-pos;30
+pos.;30
 posada;30;Spanish "inn"
 posadas;30
 Posadism;40;Trotskyist tendency known for UFO enthusiasm
@@ -77493,7 +77626,7 @@ Poznań, Poland;40
 Poznan Poland;0
 pozole;40;Mexican stew
 PP;40
-ppd;20
+ppd.;20
 PPE;40
 PPG;40;NBA stat [rare]
 PPK;20
@@ -77838,7 +77971,7 @@ pretty sure;50
 Pretty Woman;60
 pretzel loop;50
 pretzel loops;50
-prev;40
+prev.;40
 prevent;50
 prevents;50
 Prevert;40;Jacques Prévert, French poet and screenwriter
@@ -78463,7 +78596,8 @@ Ptah;30;Egyptian creator god of Memphis
 ptarmigan;40;Game bird
 ptarmigans;40
 PTAs;40
-P T Barnum;60
+P.T. Barnum;60
+P T Barnum;0
 PT boat;40;Patrol torpedo boat in W.W.II
 PT boats;40;Patrol torpedo boats in W.W.II
 pter;20
@@ -78478,7 +78612,7 @@ Ptolemy's;20
 P-town;30;Nickname for Provincetown, MA
 P-trap;30;Plumbing fixture
 P-traps;30;Plumbing fixtures
-pts;40
+pts.;40
 PTSD;40
 ptui;20
 PU;40;"P.U.!"
@@ -79150,7 +79284,7 @@ qi;40
 QI;40;British comedy panel game television quiz show
 Qianlong;40;Qing dynasty emperor
 qibla;40;Direction of Muslim prayer
-qid;20
+q.i.d.;20
 Qin;20
 Qing;40;Qing dynasty
 Qingdao;40;Chinese port city
@@ -79186,9 +79320,9 @@ Q Scores;40;In marketing, a way to measure the familiarity of an item
 QT;40
 Q-tile;30
 Q-tiles;30
-qtr;40
-qts;40
-qty;40
+qtr.;40
+qts.;40
+qty.;40
 qua;40
 Quaalude;40;Sedative of '70s notoriety
 Quaaludes;50;1970s sedative of choice
@@ -80551,8 +80685,8 @@ RC car;50
 RC cars;50
 rcle;20
 RCMP;40;Royal Canadian Mounted Police
-rcpt;30
-rcpts;30
+rcpt.;30
+rcpts.;30
 RCs;20
 RCT;20
 RC truck;50
@@ -81932,9 +82066,9 @@ Republican Party;50
 republicans;50
 Republic of Sierra Leone;60
 Repulsa;40;Rita Repulsa, Power Rangers villain
-req;40
+req.;40
 req'd;40
-reqs;40
+reqs.;40
 rerake;30
 reraked;30
 rerakes;30
@@ -82600,7 +82734,8 @@ rhinoceros;50
 rhinoceroses;50
 rhinoplasties;50
 rhinoplasty;50
-R H Macy;30;Creator of Macy's
+R.H. Macy;30;Creator of Macy's
+R H Macy;0
 Rh-negative;50
 rho;50
 RHOA;20;Transforming protein gene
@@ -82743,7 +82878,7 @@ Rick's;50;"Casablanca" club
 Rick Steves;50
 Rick Wakeman;50
 Ricky;50;Common first name
-Ricky C;30
+Ricky C.;30
 Ricky Jay;50;Magician
 Rico;50;Puerto ___, or the racketeering law
 Ricoh;20;Copier company
@@ -83200,7 +83335,7 @@ ritzes up;50
 ritzing up;50
 ritz up;50
 Riunite;40;Italian wine
-riv;20
+riv.;20
 Riva;40;Emmanuelle Riva, French actress in "Amour"
 Rive;40;Rive Gauche, the Paris Left Bank
 riven;50
@@ -83243,7 +83378,8 @@ R K Narayan;0
 RKO;40
 R-less;30
 rls;20
-R L Stine;60
+R.L. Stine;60
+R L Stine;0
 rly;40
 rmn;20
 R month;40
@@ -83259,7 +83395,7 @@ RNA editing;50
 RNAs;20
 RNC;40
 RNCs;30;Republican National Committees, in brief
-rnd;20
+rnd.;20
 rnh;20
 R 'n' R;20
 RNs;40
@@ -84223,7 +84359,7 @@ RPM;40
 RPMs;40
 rpo;0
 rps;20
-rpt;20
+rpt.;20
 R-rated film;40
 R rating;60
 R ratings;60
@@ -84256,7 +84392,7 @@ RSVP notes;50
 RSVPs;50
 rte;40
 rtei;20
-rtes;40
+rtes.;40
 rtizcarlton;0
 RTs;30;Right tackles
 Ru;40;RuPaul, drag superstar
@@ -84638,7 +84774,8 @@ rupiahs;30
 Rupi Kaur;40;Poet (big on Instagram)
 Rupp;40;Adolph Rupp, Kentucky basketball coach
 Rupp Arena;40;Where the University of Kentucky Wildcats play
-RUR;20
+R.U.R.;20
+RUR;0
 Rurik;30;Varangian founder of Russia's Rurik dynasty
 Rurik dynasty;40
 Ruritania;50;Fictional kingdom in "The Prisoner of Zenda"
@@ -84781,7 +84918,7 @@ Ryman;30;Ryman Auditorium, former home of the Grand Ole Opry (1943-74)
 Ryman Auditorium;50;Former home of the Grand Ole Opry (1943-74)
 Ryn;30;Rembrandt van Ryn
 Ryne;40;Ryne Sandberg, Hall of Fame Cubs second baseman
-rys;20
+rys.;20
 Ryszard;40;Ryszard Kapuściński, Polish journalist
 Ryu;40;Ryu of "Street Fighter" / Ryu Murakami, novelist
 Ryuichi;40;Ryuichi Sakamoto, Japanese composer
@@ -85760,7 +85897,8 @@ sashay;50
 sashayed;50
 sashaying;50
 sashays;50
-Sask;30
+Sask.;30
+Sask;0
 Saskatchewan;50;Canadian prairie province
 Saskatchewanian;40;Regina resident, e.g.
 Saskatchewanians;50;Regina residents, e.g.
@@ -86272,7 +86410,7 @@ schatzi;20
 schatzis;20
 Schauffele;50;Golfer Xander Schauffele
 Schaumburg;40;Chicago suburb
-sched;40
+sched.;40
 schedule;50
 schedule a;50
 schedulers;30
@@ -86407,7 +86545,7 @@ Schwinn;50;Bicycle brand
 Schwinns;40;Classic bicycles
 Schwitters;40;Kurt Schwitters, Dada collagist
 Schwob;40;Marcel Schwob, French symbolist writer
-sci;40
+sci.;40
 Scialfa;40;Patti Scialfa, E Street Band member and Springsteen's wife
 SciAm;40;Scientific American, familiarly
 Sciamma;40;Céline Sciamma, "Portrait of a Lady on Fire" director
@@ -86560,7 +86698,7 @@ scowl at;40
 scowled at;40
 scowling at;40
 scowls at;40
-scr;20
+scr.;20
 Scrabble;50;Word game
 scrabblefucking;10
 Scrabble tourney;50
@@ -86733,7 +86871,8 @@ Scythia;30;Ancient region
 Scythian;40;Ancient steppe nomad
 Scythians;40;Ancient Eurasian horse nomads
 SD;40
-S Dak;30
+S. Dak.;30
+S Dak;0
 S. Dakota;40
 SD card;40
 SD cards;40
@@ -87249,7 +87388,7 @@ see you when I see you;60
 Sefer;30;Hebrew scroll
 Seferis;40;Giorgos Seferis, Nobel-winning Greek poet
 sefers;30
-seg;20
+seg.;20
 Sega;50;Video game company
 Sega Dreamcast;60
 Segal;40;George Segal, actor / Erich Segal, "Love Story" author
@@ -87468,7 +87607,7 @@ selvedges;20
 Selvig;40;Erik Selvig, astrophysicist in the Marvel movies
 Selway;40;Phil Selway, Radiohead drummer
 Selznick;50;David O. Selznick, "Gone with the Wind" producer
-sem;40
+sem.;40
 sema;20
 semana;40
 semanas;40
@@ -87505,7 +87644,7 @@ semordnilaps;60
 Semple;20
 sempre;40;Always, in music
 sempstress;20;Seamstress: Var.
-sems;30
+sems.;30
 Sen;40
 senary;20
 Senate;50;Upper legislative chamber
@@ -87623,7 +87762,7 @@ señores;40
 señorita;40
 señoritas;40
 señors;40
-sens;40
+sens.;40
 Sen-Sen;30;Breath freshener
 sense of duty;60
 sense of fairness;60
@@ -87667,7 +87806,8 @@ sent to;40
 SEO;30
 Seollal;30;Korean New Year
 Seoul;50;Capital of South Korea
-Sep;40
+Sep.;40
+Sep;0
 sepal;30;Flower part
 sepaloid;30
 sepals;30;Flower parts
@@ -87688,7 +87828,8 @@ sepoys;20;Indian soldiers
 Sepp;40;Sepp Blatter, disgraced FIFA president
 Sepp Blatter;40;Disgraced FIFA president
 sepsis;40
-Sept;40
+Sept.;40
+Sept;0
 septa;40;Nasal partitions
 septal;40
 septate;30;Partitioned by a septum
@@ -87705,7 +87846,7 @@ Septology;40;Jon Fosse's seven-novel work
 Septuagesima;40;Sunday before Sexagesima in the old church calendar
 Septuagint;50;Greek Old Testament
 Sepultura;40;Brazilian metal band
-seq;20
+seq.;20
 sequester;50
 sequestered;50
 sequestering;50
@@ -87766,7 +87907,8 @@ serial monogamist;60
 serial monogamists;60
 serial monogamy;60
 serial murderer;20
-serial no;40
+serial no.;40
+serial no;0
 seriate;40
 seriatim;30;Legal word for "consecutively"
 Serie;40;Serie A, Italian soccer league
@@ -88632,7 +88774,8 @@ Sheriff Lobo;50
 sherifs;20
 Sherilyn;40;Sherilyn Fenn, "Twin Peaks" actress
 Sherlock;50
-Sherlock Jr;50
+Sherlock Jr.;50
+Sherlock Jr;0
 Sherlocks;50
 Sherman;50;William Tecumseh Sherman, Union general / Cindy Sherman, photographer
 Shermanesque;50;Flatly refusing to run, like General Sherman
@@ -89305,7 +89448,7 @@ show the ropes;60
 show the ropes to;60
 show to;20
 Showzen;40;"Wonder Showzen," MTV2 sketch series
-shr;20
+shr.;20
 shrank from;40
 Shraya;40;Vivek Shraya, Canadian writer and musician
 Shreddies;40;British and Canadian cereal
@@ -91920,7 +92063,7 @@ Solis;40;Hilda Solis, US labor secretary under Obama
 so listen;60
 soliton;20;In physics, a solitary wave
 solitons;20;In physics, solitary waves
-soln;40
+soln.;40
 Solnit;40;Rebecca Solnit, essayist
 Solo cup;60
 Solo cups;60
@@ -92116,7 +92259,7 @@ soothly;30;Truly, archaic
 sooting;30
 so over it;60
 sop;50
-soph;40
+soph.;40
 Sophia;50;Sophia Loren, actor / common first name
 Sophiatown;40;Historic Johannesburg neighborhood
 Sophie;50;Common name: Sophie Calle, Sophie Ellis-Bextor
@@ -92134,7 +92277,7 @@ Sopwith;40;W.W.I British aviation company
 Sopwith Camel;50;W.W.I plane
 Sopwith Camels;50
 Sopwiths;40;Sopwith Camels, WWI biplanes
-sor;20
+sor.;20
 Sora;40;OpenAI video generator
 so random;60
 So Rare;40;Jimmy Dorsey song "So Rare"
@@ -92224,7 +92367,8 @@ so soon?;50
 so soon;0
 so sorry;60
 SOS pad;40
-SOS pads;40
+S.O.S pads;40
+SOS pads;0
 so spicy;40;Green paint?
 so sweet;50
 sot;10
@@ -92803,7 +92947,7 @@ SPF;40
 SPF level;50
 SPF levels;50
 SPFs;30
-sph;20
+sph.;20
 sphagnum;30;Peat moss
 Spheeris;40
 sphenoid;40;Eye socket bone
@@ -93198,7 +93342,7 @@ spot welding;60
 spot welds;60
 spox;30;Spokesperson
 SPQR;30;Latin initialism referring to the government of the ancient Roman Republic
-spr;20
+spr.;20
 Sprachgefuhl;50;Sprachgefühl, an intuitive feel for a language
 sprag;30;Chock of wood
 sprags;30
@@ -93331,15 +93475,16 @@ spy swaps;50
 spy thriller;60
 spy thrillers;60
 sq;40
-sq ft;30
+sq. ft.;30
+sq ft;0
 SQL;40;Structured Query Language
 SQL database;60
 SQL databases;60
 sq. mi.;40
 sq mi;0
-sqr;20
+sqr.;20
 sqrt;40
-sqs;20
+sqs.;20
 squad room;50
 squad rooms;50
 squagel;60;Square bagel, in a David Cross standup routine ("Don't be oppressed by the tyranny of round")
@@ -93421,10 +93566,13 @@ Squirtle;50;Pokeyman
 Squishmallow;50;Squishy plush toy
 Squishmallows;60;Plush toy craze
 squxxxxccounts;0
-Sr;40
-Sra;40
+Sr.;40
+Sr;0
+Sra.;40
+Sra;0
 srabyeknom;0
-Sras;40
+Sras.;40
+Sras;0
 Sremmurd;40;Rae Sremmurd, "Black Beatles" duo
 sreziteppa;0
 Sri;40
@@ -93436,10 +93584,12 @@ sris;30
 Srivijaya;40;Ancient Sumatran maritime empire
 SRK;20
 SRO;40
-srs;40;Seniors [extremely common]
+srs.;40;Seniors [extremely common]
 srsly;40
-Srta;40
-Srtas;30
+Srta.;40
+Srta;0
+Srtas.;30
+Srtas;0
 sry;40
 SSA;40;Social Security Administration
 ssam;30;Korean-style food wrap
@@ -93449,7 +93599,8 @@ sseldees;0
 ssenigde;0
 Sserafim;40;Le Sserafim, K-pop girl group
 sserttamria;0
-SSgt;30;Staff sergeant, briefly
+SSgt.;30;Staff sergeant, briefly
+SSgt;0
 SSgts;30;Staff sergeants, briefly
 ssh;20
 S shape;30
@@ -93549,7 +93700,8 @@ staging area;50
 staging areas;50
 staging a strike;50
 stag line;40;Unaccompanied men at a dance
-St Agnes;40
+St. Agnes;40
+St Agnes;0
 stag parties;60
 stag party;60;Bachelor party in Britain
 stagy;40;Excessively theatrical
@@ -94044,17 +94196,23 @@ stays with;40
 stay warm;50
 stay with;40
 STB;20
-St Bede;40
-St Bernard;50
-St Bernards;50
-St Clair;20;Michigan city/river
-St Croix;50;U.S. Virgin Island
+St. Bede;40
+St Bede;0
+St. Bernard;50
+St Bernard;0
+St. Bernards;50
+St Bernards;0
+St. Clair;20;Michigan city/river
+St Clair;0
+St. Croix;50;U.S. Virgin Island
+St Croix;0
 St. Cyr;30;Lili St. Cyr, model and burlesque performer (1917–1999)
 St Cyr;0
-std;40;Standard
+std.;40;Standard
 STD;10;Sexually transmitted disease
-St Denis;40
-stds;40;Standards
+St. Denis;40
+St Denis;0
+stds.;40;Standards
 STDs;10;Sexually transmitted diseases
 STD test;40
 STD tests;40
@@ -94442,7 +94600,7 @@ stew pans;50
 stew pot;50
 stew pots;50
 STFU;10
-stg;20
+stg.;20
 stge;20
 STI;10
 stick a pin in it;40
@@ -94604,17 +94762,22 @@ stiver;20
 Stivic;30;Mike Stivic, Rob Reiner's "All in the Family" character
 Stix;40
 St. Joan;20
-St Joe;30;St. Joseph, Missouri, informally
+St. Joe;30;St. Joseph, Missouri, informally
+St Joe;0
 stk;20
 STL;40
-St Leo;40
+St. Leo;40
+St Leo;0
 St. Leo I;30
 St. Leo II;30;???
 St. Louisan;40
 St. Louis Arch;50
-St Louis Blues;50
-St Louis Cardinal;50
-St Louis Cardinals;50
+St. Louis Blues;50
+St Louis Blues;0
+St. Louis Cardinal;50
+St Louis Cardinal;0
+St. Louis Cardinals;50
+St Louis Cardinals;0
 St Louis Missouri;50
 St. Louis, MO;40
 St. Louis Ram;50
@@ -94666,7 +94829,8 @@ Stokely;40;Stokely Carmichael, Black Power activist
 stokers;30
 stokes;50
 Stokowski;50;Leopold Stokowski, "Fantasia" conductor
-St Olaf;40
+St. Olaf;40
+St Olaf;0
 St. Olav;40
 St. Olave;30
 stole;50
@@ -94886,8 +95050,10 @@ stow net;40
 stow nets;40
 Stoya;30;Adult film performer and writer
 STP;40
-St Pat;40
-St Pauli;30
+St. Pat;40
+St Pat;0
+St. Pauli;30
+St Pauli;0
 St. Paul II;30
 St. Paul III;30
 St. Paul IV;30
@@ -94895,11 +95061,12 @@ St Paul Minnesota;30;???
 St. Paul, MN;30
 St. Paul V;30
 St. Paul VI;30
-St Peter;50
+St. Peter;50
+St Peter;0
 St. Pius I;20
 St. Pius V;20
 stpy;20
-str;30
+str.;30
 strabismus;40;Crossed eyes
 Strabo;30;Greek philosopher
 Strachey;40;Lytton Strachey, "Eminent Victorians" biographer
@@ -95444,7 +95611,8 @@ Stutzes;30;Stutz Bearcats and other classic cars
 Stu Ungar;50
 stuv;20
 Stuyvesant;50;Peter Stuyvesant, last Dutch director of New Amsterdam
-St Vitus;40
+St. Vitus;40
+St Vitus;0
 St. Vitus' dance;50;Autoimmune disease resulting in uncontrollable jerking motions
 S twist;40;Knitting term, S-twist
 S twists;40
@@ -95507,7 +95675,7 @@ subedits;40
 sub for;40
 subfusc;30;Dull, gloomy
 subito;40;Immediately, in music
-subj;40
+subj.;40
 subjected to;40
 subjecting to;40
 subjection;40
@@ -96004,7 +96172,8 @@ supersized;60
 Super Size Me;60
 supersizes;60
 supersizing;60
-Super Smash Bros;60
+Super Smash Bros.;60
+Super Smash Bros;0
 Super Smash Bros Melee;60
 Super Soaker;60
 Super Soakers;60
@@ -96143,7 +96312,8 @@ survivorship bias;60
 Surya;30;Hindu sun god
 sus;50
 Susan;50;Susan B. Anthony, suffragist / common first name
-Susan B Anthony;60
+Susan B. Anthony;60
+Susan B Anthony;0
 Susan B. Anthony dollar;50
 Susan B Anthony dollar;0
 Susan B. Anthony dollars;50
@@ -96600,7 +96770,7 @@ syenite;30;Type of rock
 Syfy;40;Sci-Fi Channel
 Sy Hersh;40;Pulitzer-winning journalist who exposed the My Lai massacre
 Sykes;40;Wanda Sykes, comedian
-syl;20
+syl.;20
 syllabub;30;British dessert
 syllabubs;30
 syllepsis;30
@@ -96615,7 +96785,7 @@ sylvan shine;60;"Winter wonderland" effect when driving through the woods
 sylvas;20
 Sylvester;50;Sylvester Stallone, actor / Sylvester the Cat
 Sylvia;50;Common given name / Sylvia Plath, poet
-sym;20
+sym.;20
 Symbionese;50;___ Liberation Army, Patty Hearst's kidnappers
 symbiont;40
 symbionts;40
@@ -96635,7 +96805,7 @@ symphonic poems;60
 Symphonie;40;Berlioz's "Symphonie fantastique"
 Symphonie Fantastique;60
 Syms;30;British actress Sylvia Syms (1934-2023)
-syn;40
+syn.;40
 synchro;40
 synchronal;40
 Synchronicity II;60
@@ -96680,7 +96850,7 @@ Syrians;50;People of Syria
 syringe;50
 sys;30
 Sysco;40
-syst;40
+syst.;40
 System of a Down;60
 syzygies;60
 syzygy;60
@@ -97944,12 +98114,14 @@ T-bones;50
 T-bone steak;60
 T-bone steaks;60
 T-Bone Walker;50
-T Boone;20;Businessman ___ Pickens
-T Boone Pickens;50
+T. Boone;20;Businessman ___ Pickens
+T Boone;0
+T. Boone Pickens;50
+T Boone Pickens;0
 TBQH;30;To be quite honest
 TBS;40
-tbsp;40
-tbsps;40
+tbsp.;40
+tbsps.;40
 TBT;20;Nostalgic midweek hashtag
 TB test;40
 TB tests;40
@@ -98289,7 +98461,7 @@ Tekkonkinkreet;50;Japanese manga series
 tektite;30;Meteorite pebble
 tektites;30;Meteorite pebbles
 TekWar;40
-tel;40
+tel.;40
 Telamon;30;One of the Argonauts
 Telangana;40;Indian state
 telco;40;Telecommunications company
@@ -98369,7 +98541,7 @@ telomeres;30;Genetic word
 telos;40;Term from Aristotle
 telpher;30;Cable car
 telphers;30
-tels;30
+tels.;30
 Telstar;40;Pioneering communications satellite
 Telugu;30;South Indian language
 Telugu language;40
@@ -98460,7 +98632,8 @@ ten lords a-leaping;60
 ten-mile;30
 ten miles;20
 ten million;40
-Tenn;40;Tennessee
+Tenn.;40;Tennessee
+Tenn;0
 Tennant;40;David Tennant, "Doctor Who" star / Neil Tennant, Pet Shop Boys singer
 tenner;50
 tenners;50
@@ -98569,7 +98742,7 @@ tequila sunrise;60
 tequila sunrises;60
 Tequila Sunset;60
 Tequila Sunsets;60
-ter;20
+ter.;20
 tera-;40
 Terabithia;50;"Bridge to ___," Katherine Paterson novel
 terai;20;Sun helmet
@@ -100348,6 +100521,7 @@ the Uffizi;40
 The Ugly Duckling;60
 the UK;40
 the UN;20
+the U.N.;0
 the undead;50
 the underworld;40
 The Unforgiven;50;1991 song by Metallica
@@ -100706,7 +100880,8 @@ Thorpe;50;Jim Thorpe, all-around athlete / Ian Thorpe, swimmer
 thorpes;30
 Thorstein;40;Thorstein Veblen, "conspicuous consumption" economist
 Thorsten;30;???
-Thos;30;Thomas, abbreviated
+Thos.;30;Thomas, abbreviated
+Thos;0
 those are rookie numbers;60
 those were the days;60
 Thoth;30;Egyptian god
@@ -100941,7 +101116,8 @@ thrusting out;50
 thrust out;50
 thrusts out;50
 -ths;20
-Thu;40
+Thu.;40
+Thu;0
 Thucydides;50;Athenian historian and general
 thug;40;Offensive?
 thuggee;30;Indian criminals
@@ -100978,7 +101154,8 @@ ThunderCats;50;1980s cartoon
 Thunderdome;60
 Thunder Road;60
 thunderstruck;60
-Thur;40
+Thur.;40
+Thur;0
 Thurber;40;James Thurber, humorist and cartoonist
 Thurgood;50;Thurgood Marshall, first Black Supreme Court justice
 thurible;30;Metal censer
@@ -100989,7 +101166,8 @@ Thuringia;40;German state
 Thurl;30;Thurl Ravenscroft, voice of Tony the Tiger
 Thurl Ravenscroft;50;Voice of Tony the Tiger
 Thurman;40;Uma Thurman, "Kill Bill" star
-Thurs;40
+Thurs.;40
+Thurs;0
 Thursday;50;Day after Wednesday
 Thursdays;50;Days after Wednesdays
 Thurston;40
@@ -101615,15 +101793,16 @@ Tivoli;40
 TiVos;40;DVRs
 Tiwanaku;40;Pre-Columbian ruins in Bolivia
 tix;40
-T J Hooker;50;Shatner police drama
+T.J. Hooker;50;Shatner police drama
+T J Hooker;0
 Tkaronto;40;Mohawk name behind "Toronto"
 TKO;40
 TKO'd;40
 TKOed;40;Stopped a bout early, in boxing
 TKOing;40;Ending a fight early
 TKOs;40
-tks;20
-tkt;20
+tks.;20
+tkt.;20
 tla;20
 Tlaib;40;Congresswoman Rashida Tlaib of "The Squad"
 Tlaloc;30;Aztec rain god
@@ -101659,7 +101838,7 @@ TNO;20;Trans-Neptunian object
 TNOs;20
 T-note;40
 T-notes;40
-tns;20
+tns.;20
 TNT;50
 T-nut;40
 T-nuts;40
@@ -103142,7 +103321,8 @@ T-Rex;50
 T. rex;50
 T rex;0
 T-Rex arms;60
-T rexes;50
+T. rexes;50
+T rexes;0
 tri-;40
 trial and error;60
 trial by ordeal;60
@@ -103650,7 +103830,8 @@ Tseng;40;LPGA #1 golfer 2011-2013 Yani Tseng, or tennis's Jason Tseng
 T-Series;40
 tsetse;40
 tsetses;40
-T S Garp;40
+T.S. Garp;40
+T S Garp;0
 T shape;30
 T-shaped;30
 T shapes;30
@@ -103674,8 +103855,8 @@ tsop;20
 Tso's;40
 Tsotsi;30;Movie, "thug" in Joburg
 tsouris;20;Variant spelling of tsuris, Yiddish trouble
-tsp;40
-tsps;40
+tsp.;40
+tsps.;40
 TSR;20
 T-stop;40;Skater's braking method
 T-stops;40
@@ -103759,8 +103940,10 @@ Tudor bonnets;50
 Tudor rose;50
 Tudors;50;English royal dynasty
 Tudyk;40;Alan Tudyk, actor known for notable voice roles over the years
-Tue;40
-Tues;40
+Tue.;40
+Tue;0
+Tues.;40
+Tues;0
 Tuesday;50;Day of the week
 Tuesdays;50;"Tuesdays with Morrie" / taco Tuesdays
 tufaceous;30;Of the nature or texture of tufa, a variety of limestone
@@ -104395,8 +104578,8 @@ two years;40
 two-year term;50
 two-year terms;50
 twozerozerotwo;0
-twp;20;Township
-twps;20;Townships
+twp.;20;Township
+twps.;20;Townships
 twwooeextremes;0
 Twyla;40;Twyla Tharp, dancer and choreographer (born 1941)
 Twyla Tharp;40;Dancer and choreographer (born 1941)
@@ -104447,7 +104630,7 @@ Tyndale;40;William Tyndale, English Bible translator
 Tyndall;40;John Tyndall, physicist of the light-scattering effect
 Tyne;40;Actor Tyne Daly
 Tyner;30;McCoy ___, jazz pianist with John Coltrane
-typ;20
+typ.;20
 type A;50
 type A's;50
 type B;50
@@ -104659,7 +104842,8 @@ uke;40
 ukelele;20
 ukeleles;20
 ukes;40
-Ukr;40
+Ukr.;40
+Ukr;0
 Ukraina;40;Ukraine, in Ukrainian
 Ukraine;50;Country in Eastern Europe
 Ukraini;40;Slava Ukraini, Ukrainian rallying cry
@@ -104696,7 +104880,7 @@ U-lock;40
 Ulrich;50
 Ulster;40;Men's overcoat
 ulsters;30;Heavy coats
-ult;20
+ult.;20
 Ulta;40;Beauty brand
 ultimacy;40
 ultimate extreme;60
@@ -105045,11 +105229,11 @@ university town;60
 university towns;60
 Univision;50;Spanish-language US network
 Unix;50;Operating system
-unk;20
+unk.;20
 unkept;30
 unkindness;60;Group of ravens
 Unkle;40;UNKLE, British electronic music group
-unl;20
+unl.;20
 unlade;30
 unladed;30
 unlades;30
@@ -105539,8 +105723,8 @@ USCIS;30;United States Citizenship and Immigration Services
 US cities;30
 US city;30
 US coin;40
-US coins;40
-US congressman;50
+U.S. coins;40
+U.S. congressman;50
 US congressmen;50
 US congresspeople;50
 US congressperson;50
@@ -105620,7 +105804,8 @@ usherette;30
 usherettes;30
 ushes;30
 ushing;30
-US history;50
+U.S. history;50
+US history;0
 Ushuaia;40;Argentine city at the world's end
 using as bait;50
 using caution;50
@@ -105656,8 +105841,8 @@ USOs;20;USO shows
 USP;20
 US passport;50
 US passports;50
-US Pat;20
-US poet;20
+U.S. Pat.;20
+U.S. poet;20
 USPS;40
 US RDA;40
 US river;30
@@ -105669,8 +105854,9 @@ USS Albatross;30
 USS Arizona;50;Ship sunk in Pearl Harbor
 USS Cole;50
 USS Constitution;50
-US Secret Service;30
-US Senate;40
+U.S. Secret Service;30
+U.S. Senate;40
+US Senate;0
 US Senator;40
 US Senators;40
 USS Enterprise;50
@@ -105687,25 +105873,30 @@ USS Missouri;40
 USS Nautilus;40
 USS Nevada;40
 USS Nimitz;40
-US soldiers;30
+U.S. soldiers;30
 US Space Camp;30
 US Space Corps;30
 USSR;50
 USSR, Soviet Union;30
 US state;50
 US states;50
-US Steel;60
+U.S. Steel;60
+US Steel;0
 US strike;20;???
 US strikes;20;???
-US Supreme Court;50
+U.S. Supreme Court;50
+US Supreme Court;0
 USS Wasp;30
 usted;40
 US Ten;30
 US Terr.;30
 Ustinov;40;Peter Ustinov, Oscar-winning actor
-US tour;40;What musicians embark on
-US tours;40
-US Treasury;40
+U.S. tour;40;What musicians embark on
+US tour;0
+U.S. tours;40
+US tours;0
+U.S. Treasury;40
+US Treasury;0
 usufruct;30;Legal term
 usufructs;30
 usufructuary;30
@@ -105739,7 +105930,7 @@ Uther;40
 Uthman;40;Third caliph of Islam
 UTI;10
 Utica;40;New York city
-util;40
+util.;40
 utile;50
 utilise;20
 utilised;20
@@ -106069,7 +106260,7 @@ Vassar;40;Poughkeepsie college
 vast majority;50
 Vasudeva;40;Krishna's father in Hindu myth
 vat;50
-Va Tech;40
+Va. Tech;40
 Vatican;50;Papal city-state
 vaticani;30
 vaticinator;30;???
@@ -106166,7 +106357,7 @@ veggie burgers;60
 VeggieTales;50;Vegetable-cast kids' cartoon
 veggie tray;60
 veggie trays;60
-veh;20
+veh.;20
 Veidt;40;Conrad Veidt, "Casablanca" actor / Adrian Veidt, "Watchmen" villain
 veinal;40
 veinlet;40
@@ -106288,7 +106479,7 @@ Venustiano;40;Venustiano Carranza, Mexican president
 Venutian;50
 Venutians;50
 Vep;30;Irma Vep, "Les Vampires" jewel thief
-ver;20
+ver.;20
 Vera;50;Vera Wang, fashion designer, among others
 Veracruz;50;Mexican Gulf state
 Vera Drew;30
@@ -106364,7 +106555,7 @@ versing;40
 verso;40;Left-hand page, opposite of recto
 versos;30
 Verstappen;50;Max Verstappen, F1 champion
-vert;40;Vertical
+vert.;40;Vertical
 vertebral column;50
 Vertov;40;Dziga Vertov, "Man with a Movie Camera" director
 Vertumnus;40;Roman god of the seasons
@@ -106852,7 +107043,8 @@ Vivek;40;Various: Vivek Ramaswamy, Vivek Shraya
 Vivekananda;50;Swami Vivekananda, Hindu monk and teacher
 Vivian;50;Common first name
 Vivica;40;Vivica A Fox, actress
-Vivica A Fox;50
+Vivica A. Fox;50
+Vivica A Fox;0
 vivid imagination;60
 vivid imaginations;50
 Vivien;40;Vivien Leigh, "Gone with the Wind" star
@@ -106864,7 +107056,7 @@ VivziePop;40;Vivienne Medrano, "Hazbin Hotel" creator
 vixen;60
 vixenish;60
 vixens;60
-viz;40;Namely: Lat.
+viz.;40;Namely: Lat.
 vizier;50
 viziers;50
 Vizsla;50;Hungarian pointer breed
@@ -106959,7 +107151,7 @@ VoIP;40
 voir;30
 voivodeship;40;Administrative division in several countries of central and eastern Europe
 Vojvodina;40;Serbian autonomous province
-vol;40
+vol.;40
 volant;30;With wings extended
 volante;30
 Volapuk;40;Volapük, 19th-century constructed language
@@ -107967,9 +108159,10 @@ WBA;30;World Boxing Association
 WBC;20
 WBO;30;World Boxing Organization
 WC;40
-W C Handy;50;Father of the Blues
+W.C. Handy;50;Father of the Blues
+W C Handy;0
 WCs;40
-wds;40
+wds.;40
 WDYM;40;What do you mean?
 we;50
 wea;20
@@ -108066,7 +108259,8 @@ web developer;60
 web developers;60
 web development;60
 Webdings;40;Symbol font
-W E B Du Bois;60
+W.E.B. Du Bois;60
+W E B Du Bois;0
 Webelos;40;Cub Scout rank
 Webern;40;20th century composer Anton Webern (1883-1945)
 Webers;30;Plural name
@@ -108738,7 +108932,7 @@ WFH;40;Work from home
 wfl;20
 wgh;20
 wgn;20
-wgt;20
+wgt.;20
 wha;40
 Whaam;40;Roy Lichtenstein pop art painting
 Whac-A-Mole;60
@@ -110111,7 +110305,8 @@ wire walkers;50
 wiring to;30
 Wirth;40;Niklaus Wirth, creator of Pascal
 Wis.;40;Wisconsin
-Wisc;40
+Wisc.;40
+Wisc;0
 Wisconsin;50;Badger State
 Wisconsinite;50
 Wisconsinites;50
@@ -110235,7 +110430,7 @@ wizards;50
 Wizkid;40;Nigerian Afrobeats star
 wjm;20
 WKRP;40
-wks;40
+wks.;40
 Wladimir;40;Wladimir Klitschko, heavyweight champ
 Wladziu;40;Liberace's first name
 WLW;20
@@ -110761,7 +110956,7 @@ WSW;30
 WTA;40;Women's Tennis Association
 WTF;40
 WTO;40;World Trade Organization
-wts;20
+wts.;20
 Wu;40;Constance Wu, actress / Empress Wu, Tang ruler
 wug;20
 wugs;20
@@ -110842,7 +111037,8 @@ Wynne;40;Arthur Wynne, inventor of the crossword
 Wynonna;40;Wynonna Judd, country singer / "Wynonna Earp" heroine
 Wynter;40;Sylvia Wynter, Jamaican writer and theorist
 Wynton;40;Wynton Marsalis, jazz trumpeter
-Wyo;40;Wyoming
+Wyo.;40;Wyoming
+Wyo;0
 Wyoming;50;US state
 Wyomingite;50
 Wyomingites;50
@@ -111334,7 +111530,7 @@ Yazidism;40;Kurdish religion
 Yazoo;30;Mississippi river
 Ybor;20
 yclept;20;By the name of, archaic
-yds;40
+yds.;40
 ye;40
 yea;50
 yea big;60
@@ -111486,7 +111682,7 @@ yentas;40
 Yente;40;"Fiddler on the Roof" matchmaker
 yentes;30
 Yentl;40;Streisand title role
-yeo;20
+yeo.;20
 Yeoh;40;Actress Michelle Yeoh
 yeows;40
 yep;50
@@ -112102,7 +112298,7 @@ Ypres;30;WWI battle site in Belgium
 Ypsi;40;Ypsilanti, Michigan, familiarly
 Ypsilanti;60;Cool name
 Yreka;20;California town with a palindromic bakery
-yrs;40
+yrs.;40
 Y's;40;Letter plurals
 Ysaÿe;30;Eugène Ysaÿe, Belgian violinist and composer
 Ysaye;0
