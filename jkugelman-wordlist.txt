@@ -2297,16 +2297,20 @@ Aime;40
 Aime Cesaire;40;Aimé Césaire, poet, author and president of Martinique
 aimed at;40
 aimed for;40
+aimed for the stars;60
 aimed to;20
 Aimee;40
 aimers;20
 aimes;30;You love: Fr.
 aim for;40
+aim for the stars;60
 aiming at;40
 aiming for;40
+aiming for the stars;60
 aiming to;20
 aims at;40
 aims for;40
+aims for the stars;60
 aims to;20
 aim to;20
 AI music;60
@@ -3145,6 +3149,7 @@ Allhallowtide;40;Halloween through All Souls' Day
 all-hands meeting;50
 all-hands meetings;50
 all het up;30
+all hot and bothered;60
 Allie;40
 allied with;40
 allies with;40
@@ -6585,6 +6590,7 @@ asleep at the switch;60
 asleep at the wheel;60
 Asleep in the Deep;60
 asleep on the job;60
+as like as not;60
 as luck would have it;60
 a small price to pay;60
 Asmara;40;Capital of Eritrea
@@ -6771,6 +6777,7 @@ assuming ownership;50
 assuming that's true;60
 assured of;40
 as sweet;30
+as sweet as pie;60
 asswipe;10
 ass worship;10
 Assyria;50;Ancient Mesopotamian empire
@@ -8065,6 +8072,7 @@ backhanded compliments;60
 back handspring;50
 back handsprings;50
 back in a bit;60
+back in a sec;60
 backing a candidate;50
 backing into;40
 backing into a corner;60
@@ -8081,6 +8089,7 @@ back-of-the-envelope;60
 back-of-the-envelope calculation;60
 back-of-the-envelope calculations;60
 back of the line;60
+back on the horse;60
 back pocket;50
 back rent;50
 backrest;50
@@ -8451,6 +8460,7 @@ balded;50
 bald-faced hornet;60
 bald-faced hornets;60
 baldies;30
+bald like a baby;60
 baldric;40;Sword shoulder belt
 baldrick;40
 baldricks;40
@@ -9166,7 +9176,8 @@ barstools;50
 Barstow;40
 Barstow, California;50
 Barstow California;0
-Bart;50;Bart Simpson, or San Francisco's transit system
+Bart;50;Bart Simpson
+BART;40;Bay Area Rapid Transit
 bar tab;50
 bar tabs;50
 Bartel;40;Paul Bartel, "Eating Raoul" director
@@ -9831,6 +9842,7 @@ beat a dead horse;60
 beat a hasty retreat;60
 beat all;40
 Beatallica;50;Beatles-Metallica mashup band
+be at a standstill;40
 beat a standstill;20
 beat at;40
 beat at the mercy of;20
@@ -10870,6 +10882,7 @@ bet your bottom dollar;60
 Beulah;40;Beulah Land of Scripture / Beulah Bondi, actress
 be unaware of;20
 be up;20
+be up to scratch;40
 beurre;30;Butter: French
 Beuys;40;Joseph Beuys, German conceptual artist
 bev;40
@@ -10905,6 +10918,7 @@ beyond a doubt;50
 beyond one's reach;50
 beyond question;60
 Beyond the Spider-Verse;60
+be your own boss;60
 Bezos;50;Jeff Bezos, Amazon founder
 Bezukhov;40;Pierre Bezukhov, "War and Peace" hero
 BF;40
@@ -11864,6 +11878,7 @@ blew one's mind;60
 blew one's own horn;50
 blew one's stack;50
 blew one's top;60
+blew out of proportion;60
 blew smoke;50
 blew the joint;60
 blew the lead;60
@@ -12048,6 +12063,7 @@ blowing one's mind;60
 blowing one's own horn;50
 blowing one's stack;50
 blowing one's top;60
+blowing out of proportion;60
 blowing smoke;50
 blowing the joint;60
 blowing the lead;60
@@ -12059,6 +12075,7 @@ blow into;40
 blow me away;60
 blown away;60
 blown one's top;60
+blown out of proportion;60
 blown the joint;60
 blown tire;50
 blown tires;50
@@ -12070,6 +12087,7 @@ blow one's mind;60
 blow one's own horn;50
 blow one's stack;50
 blow one's top;60
+blow out of proportion;60
 blowpipe;60
 blowpipes;60
 Blow Pop;60
@@ -12085,6 +12103,7 @@ blows one's mind;60
 blows one's own horn;50
 blows one's stack;50
 blows one's top;60
+blows out of proportion;60
 blows smoke;50
 blows the joint;60
 blows the lead;60
@@ -13557,6 +13576,7 @@ breaking bread;60
 breaking bread with;50
 breaking character;60
 breaking into;40
+breaking into a smile;60
 breaking into tears;60
 breaking loose;50
 breaking one's word;50
@@ -13570,6 +13590,7 @@ breaking the fourth wall;60
 breaking the sound barrier;60
 breaking up the band;60
 break into;40
+break into a smile;60
 break into tears;60
 break it up you two;60
 break loose;50
@@ -13586,6 +13607,7 @@ breaks bread with;50
 breaks character;60
 break serve;50
 breaks into;40
+breaks into a smile;60
 breaks into tears;60
 breaks loose;50
 breaks one's word;50
@@ -13818,6 +13840,7 @@ brings to;40
 brings to tears;60
 bring to;40
 bring to tears;60
+bring your own beer;60
 Brinker;40;Hans Brinker, of the silver skates
 Brinkley;40;Christie Brinkley, model / David Brinkley, newscaster
 brio;50
@@ -13999,6 +14022,7 @@ broke bread;60
 broke bread with;50
 broke character;60
 broke into;40
+broke into a smile;60
 broke into tears;60
 broke loose;50
 broken bat;50
@@ -14017,6 +14041,7 @@ broken down;50
 broken English;60
 broken home;50
 broken in;50
+broken into a smile;60
 broken nose;60
 broken noses;60
 broken out into song;60
@@ -14460,6 +14485,7 @@ bug lights;50
 Bugliosi;40;Vincent Bugliosi, author of "Helter Skelter"
 Bugonia;40;Lanthimos film / ancient belief that bees spring from oxen
 Bugs Bunny;60
+bugs in the system;50
 Bugsnax;40;Video game about snack creatures
 bug spray;60
 bug sprayer;50
@@ -14761,12 +14787,14 @@ bursitis;40;Joint inflammation
 bursted in on;0
 burster;30
 bursters;30
+bursting at the seams;60
 bursting in on;40
 bursting into tears;60
 bursting out laughing;60
 burst in on;40
 burst into tears;60
 burst out laughing;60
+bursts at the seams;60
 bursts in on;40
 bursts into tears;60
 bursts out laughing;60
@@ -15602,6 +15630,7 @@ Cambridge;50;Massachusetts or English university city
 Cambridgeshire;50;English county
 Camden;50;New Jersey city, or Camden Yards
 came as;40
+came as no surprise;60
 came at;40
 came at a bad time;50
 came at a cost;60
@@ -16943,6 +16972,8 @@ cat carrier;50
 cat carriers;50
 catch a;20
 catch a bus;50
+catch a falling star;50
+Catch a Falling Star;50;1957 single by Perry Como
 catch-all;50
 catch a show;50
 catch a stray;60
@@ -16950,6 +16981,7 @@ catch a train;40;Contrived
 catcher;50
 catchers;50
 catches a bus;50
+catches a falling star;50
 catches a show;50
 catches a stray;60
 catches a train;40;Contrived
@@ -16968,6 +17000,7 @@ catch feelings for;60
 catch fire;50
 catch hell;60
 catching a bus;50
+catching a falling star;50
 catching a show;50
 catching a stray;60
 catching a train;40;Contrived
@@ -17134,6 +17167,7 @@ caudated;30
 caudices;30
 caudillo;30;Spanish or Latin American military dictator
 caught a bus;50
+caught a falling star;50
 caught a show;50
 caught a stray;60
 caught a train;40;Contrived
@@ -17761,6 +17795,7 @@ chance on;40
 chance remark;60
 chance remarks;60
 chances are;60
+chances of a lifetime;60
 chances on;40
 chancing on;40
 chancre;10;Genital ulcer
@@ -18106,6 +18141,7 @@ cheat death;60
 cheated death;60
 cheated in;40
 cheated on;40
+cheated on one's taxes;50
 cheater square;20
 cheater squares;20
 Cheatin';40;Hank Williams "Your Cheatin' Heart", or 2013 movie
@@ -18113,14 +18149,17 @@ cheating death;60
 cheating heart;50
 cheating in;40
 cheating on;40
+cheating on one's taxes;50
 cheat meal;60
 cheat meals;60
 cheat mode;60
 cheat modes;50
 cheat on;40
+cheat on one's taxes;50
 cheats death;60
 cheats in;40
 cheats on;40
+cheats on one's taxes;50
 Chebyshev;40;Pafnuty Chebyshev, Russian mathematician
 Chechen;40;Caucasus people and language
 Chechens;40;People of Chechnya
@@ -20371,6 +20410,7 @@ cold hard cash;60
 cold-hearted;50
 Cold Heart (Pnau remix);50;2021 single by Elton John and Dua Lipa
 Cold Heart Pnau remix;0
+cold light of day;60
 cold meal;50
 cold meals;50
 cold mud;20;???
@@ -20571,6 +20611,7 @@ Comcast;50;Cable giant
 Comden;40;Betty Comden, "Singin' in the Rain" lyricist
 come and get me;60
 come as;40
+come as no surprise;60
 come at;40;Attack, threaten
 come at a bad time;50
 come at a cost;60
@@ -20633,6 +20674,7 @@ come right out and say it;60
 come right out with it;60
 comes after;50
 comes as;40
+comes as no surprise;60
 comes at;40
 comes at a bad time;50
 comes at a cost;60
@@ -20702,6 +20744,7 @@ comic foils;60
 comic timing;50
 comida;40
 coming as;40
+coming as no surprise;60
 coming at;40
 coming at a bad time;50
 coming at a cost;60
@@ -21707,6 +21750,7 @@ Costa;40
 costal;20
 Costanza;50;George Costanza of "Seinfeld"
 Costanzas;40;George's "Seinfeld" family
+cost a pretty penny;60
 Costas;40;Bob Costas, sportscaster
 costate;20;Possessing ribs
 cost centre;20
@@ -21717,9 +21761,11 @@ Costco memberships;60
 Costcos;40;Warehouse club stores
 Costello;50;Elvis Costello, singer / Lou Costello, of Abbott and Costello
 Coster;40;???
+costing a pretty penny;60
 costive;30
 costless;30;Green paint
 Costner;50;Kevin Costner, actor
+costs a pretty penny;60
 costume ball;50
 costume balls;50
 costume change;50
@@ -22257,6 +22303,7 @@ crazy walls;60
 Creach;40;Papa John Creach, violinist with Jefferson Airplane
 cream-filled cake;50
 cream of potato soup;60
+cream of tomato soup;60
 cream pie;60
 cream pies;60
 cream puff;60
@@ -27572,6 +27619,7 @@ down goes Frazier;60
 Downie;40;Gord Downie, The Tragically Hip frontman
 downloadable content;60
 down on;40
+down on one's knees;60
 down on one's luck;50
 down on the corner;50
 downright;50
@@ -28012,8 +28060,12 @@ dried prune;50
 dried prunes;50
 dries one's eyes;50
 driftages;30
+drifted off to sleep;60
 driftier;30
 driftiest;30
+drifting off to sleep;60
+drift off to sleep;60
+drifts off to sleep;60
 Driis;30;Big Driis, Idris Elba's DJ alias
 Dril;30;Pseudonymous Twitter and Bluesky user
 drilled home;40
@@ -33383,6 +33435,8 @@ fate will find a way;50
 fat farm;40
 fat farms;40
 Fatha;30;Jazz nickname
+father and son team;50
+father and son teams;50
 father figure;60
 father figures;60
 father-in-law;50
@@ -34784,6 +34838,8 @@ FIU;20;Florida International University
 Fiume;40;Italian name for Rijeka, Croatia
 five AM;50
 five and dime;60
+five and ten-cent store;50
+five and ten-cent stores;50
 five dice;20
 five four three two one;50
 five golden rings;60
@@ -38240,6 +38296,7 @@ get a bum rap;60
 get a D;20
 get a date;30
 get after it;60
+get ahead in life;60
 get ahead of the curve;60
 get a jump on;60
 get a leg up on;60
@@ -38357,6 +38414,7 @@ get one's steps in;50
 get on in the world;60
 get on in years;60
 get on it;60
+get on one's nerves;60
 Get on the Good Foot;50;1972 James Brown song
 Get on the Good Foot - Part 1;50;1972 James Brown song
 Get on the Good Foot - Part 2;50;1972 James Brown song
@@ -38387,6 +38445,7 @@ get roped into;40
 gets a bead on;60
 gets a bum rap;60
 gets a date;30
+gets ahead in life;60
 gets ahead of the curve;60
 gets a jump on;60
 gets a leg up on;60
@@ -38481,6 +38540,7 @@ gets one's steps in;50
 gets on in the world;60
 gets on in years;60
 gets on it;50
+gets on one's nerves;60
 gets onto;40
 get sore;40
 gets out alive;60
@@ -39702,6 +39762,7 @@ goes on a jag;50
 goes on a journey;60
 goes on a spree;50
 goes on a tear;60
+goes on at length;60
 goes one's separate ways;50
 goes on leave;50
 goes on one's merry way;50
@@ -39869,6 +39930,7 @@ going on a jag;50
 going on a journey;60
 going on a spree;50
 going on a tear;60
+going on at length;60
 going one's separate ways;50
 going on leave;50
 going on one's merry way;50
@@ -40344,6 +40406,7 @@ go on a jag;50
 go on a journey;60
 go on a spree;50
 go on a tear;60
+go on at length;60
 go one's separate ways;50
 gooney;20;Black-footed albatross
 gooney bird;30
@@ -40480,6 +40543,7 @@ gotabumprap;0
 got a bum rap;60
 got a date;30
 gotagal;0
+got ahead in life;60
 got ahead of the curve;60
 got a jump on;60
 got a leg up on;60
@@ -40602,6 +40666,7 @@ got one's shit together;10
 got one's steps in;50
 got on in the world;60
 got on in years;60
+got on one's nerves;60
 got onto;40
 go too far;60
 go-tos;50
@@ -42200,6 +42265,7 @@ had an edge;60
 had an edge on;60
 had an eye for;40
 had an eye on;40
+had a nice day;40
 had an in;50
 had a nip;50
 had a point;50
@@ -42209,6 +42275,7 @@ had a right to;40
 had a right to know;60
 had a rough go;50
 had a rough go of it;60
+had a rough idea;50
 had around;50
 had a row;30
 had a score to settle;60
@@ -43123,6 +43190,7 @@ has an edge;60
 has an edge on;60
 has an eye for;40
 has an eye on;40
+has a nice day;40
 has an in;50
 has a nip;50
 has a point;50
@@ -43131,6 +43199,7 @@ has a right to;40
 has a right to know;60
 has a rough go;50
 has a rough go of it;60
+has a rough idea;50
 has around;50
 has a row;30
 has a score to settle;60
@@ -43355,6 +43424,7 @@ have an edge;60
 have an edge on;60
 have an eye for;40
 have an eye on;40
+have a nice day;60
 have a nice life;60
 have an in;50
 have a nip;50
@@ -43364,6 +43434,7 @@ have a right to;40
 have a right to know;60
 have a rough go;50
 have a rough go of it;60
+have a rough idea;50
 have around;50
 have a row;30
 have a score to settle;60
@@ -43452,12 +43523,14 @@ having an edge;60
 having an edge on;60
 having an eye for;40
 having an eye on;40
+having a nice day;40
 having a nip;50
 having a right;50
 having a right to;40
 having a right to know;60
 having a rough go;50
 having a rough go of it;60
+having a rough idea;50
 having around;50
 having a row;30
 having a score to settle;60
@@ -43619,6 +43692,7 @@ headdress;60
 headdresses;60
 headed for;40
 headed into;40
+headed out to sea;50
 headed to;40
 headend;30
 Headey;40;Actress Lena Headey
@@ -43630,6 +43704,7 @@ head for;40
 heading for;40
 heading for a fall;60
 heading into;40
+heading out to sea;50
 heading to;40
 head into;40
 Headless Horseman;60
@@ -43640,6 +43715,7 @@ headlocks;60
 head of hair;50
 head of state;60
 head on back;50
+head out to sea;50
 headphone jack;60
 headphone jacks;60
 headphones;60
@@ -43653,6 +43729,7 @@ headshots;60
 heads into;40
 heads I win tails you lose;60
 heads of state;60
+heads out to sea;50
 heads to;40
 headstrong;50
 heads up seven up;60
@@ -44624,6 +44701,7 @@ hi-def TV;40
 hi-def TVs;40
 hi-de-hi;30;Cab Calloway phrase
 hide in;40
+hide in the shadows;60
 Hideki;40;WWII emperor Hideki Tojo
 Hideko;40;Hideko Takamine, Japanese screen star
 hide me;20
@@ -44634,13 +44712,16 @@ hider;30
 hiders;30
 hides from;40
 hides in;40
+hides in the shadows;60
 hides one's light under a bushel;50
 Hideyoshi;40;Toyotomi Hideyoshi, Japanese unifier
 hid from;40
 hid in;40
 hiding from;40
 hiding in;40
+hiding in the shadows;60
 hiding one's light under a bushel;50
+hid in the shadows;60
 hid one's light under a bushel;50
 hie;40
 hied;40
@@ -44973,6 +45054,7 @@ history museum;60
 history museums;50
 hit;50
 Hitachi;50;Japanese electronics giant
+hit a high note;60
 hit a nerve;60
 hit a paywall;60
 hit a raw nerve;60
@@ -45001,6 +45083,7 @@ hit pause;50
 hit piece;60
 hit pieces;60
 hit reset;60
+hits a high note;60
 hits a nerve;60
 hits a paywall;60
 hits a raw nerve;60
@@ -45030,6 +45113,7 @@ Hit the Road Jack;60
 hit the scene;60
 hit the streets;60
 hit the top;20
+hitting a high note;60
 hitting a nerve;60
 hitting a paywall;60
 hitting a raw nerve;60
@@ -52831,6 +52915,7 @@ keens;40
 keen to;40
 keep after;50
 keep alive;50
+keep a running tab;50
 keep a secret;60
 keep at;40
 keep at it;50
@@ -52843,6 +52928,7 @@ keep from;40
 keep in;40
 keeping after;50
 keeping alive;50
+keeping a running tab;50
 keeping a secret;60
 keeping at;40
 keeping close to;40
@@ -52929,6 +53015,7 @@ keeps after;50
 keepsake;50
 keepsakes;50
 keeps alive;50
+keeps a running tab;50
 keeps a secret;60
 keeps at;40
 keeps close to;40
@@ -53123,6 +53210,7 @@ kepis;20;French military caps
 Kepler;50;Johannes Kepler, planetary motion astronomer
 kept after;50
 kept alive;50
+kept a running tab;50
 kept a secret;60
 kept at;40
 kept close to;40
@@ -57104,11 +57192,13 @@ life forces;40;Questionable plural
 life form;50
 life forms;50
 Lifehouse;40;Band behind "Hanging by a Moment"
+life is a mystery;50
 life is not all beer and skittles;60
 life isn't fair;60
 life lesson;60
 life lessons;60
 lifelong learners;60
+life on the run;50
 life partner;50
 life's a bitch;10
 life skill;50
@@ -57743,6 +57833,7 @@ lived one's life;50
 lived one's truth;50
 lived the high life;60
 lived to;30
+lived up to expectations;60
 Live Eight;40;Live 8 concert
 Live Free or Die;60
 live from New York;60
@@ -57791,11 +57882,13 @@ livest;30
 lives the high life;60
 lives to;30
 Livestrong;50;Lance Armstrong's yellow wristband charity
+lives up to expectations;60
 live the high life;60
 live to;30
 live trap;50
 live traps;50
 live updates;60
+live up to expectations;60
 Livia;40;Wife of Augustus, or Livia Soprano
 Livin';40;Livin' la Vida Loca
 living at;40
@@ -57819,6 +57912,7 @@ Livingston;40;Jonathan Livingston Seagull / Ron Livingston, actor
 Livingstone;50;David Livingstone, "I presume?" explorer
 living the high life;60
 living to;30
+living up to expectations;60
 Livonia;40;Baltic historical region / Michigan city
 Livonian;40;Baltic region and its near-extinct language
 Livonians;40;Baltic people of historic Livonia
@@ -58486,6 +58580,7 @@ lose one's appetite;50
 lose one's balance;50
 lose one's cool;50
 lose one's grip;50
+lose one's grip on;50
 lose one's head;50
 lose one's looks;50
 lose one's marbles;60
@@ -58513,6 +58608,7 @@ loses one's appetite;50
 loses one's balance;50
 loses one's cool;50
 loses one's grip;50
+loses one's grip on;50
 loses one's head;50
 loses one's looks;50
 loses one's marbles;60
@@ -58551,6 +58647,7 @@ losing one's appetite;50
 losing one's balance;50
 losing one's cool;50
 losing one's grip;50
+losing one's grip on;50
 losing one's head;50
 losing one's looks;50
 losing one's marbles;60
@@ -58588,6 +58685,7 @@ lost dog;50
 lost dogs;50
 lost face;50
 Lost Generation;60
+lost in the ether;60
 Lost in Yonkers;50
 lost it;50
 lost lamb;50
@@ -58598,6 +58696,7 @@ lost one's balance;50
 lost one's cool;50
 lost one's footing;50
 lost one's grip;50
+lost one's grip on;50
 lost one's head;50
 lost one's looks;50
 lost one's marbles;60
@@ -65834,6 +65933,7 @@ Mya;30;"Lady Marmalade" singer
 myalgia;40
 Myanmar;50;Southeast Asian country
 my b;40
+My Baby Must Be a Magician;50;1967 song by The Marvelettes
 my bad;60
 My Book About Me;50;Dr. Seuss book
 MYC;20
@@ -77291,6 +77391,7 @@ President McKinley;50
 President Monroe;50
 President Nixon;50
 President Obama;50
+President of the United States;60
 President Pierce;50
 President Polk;50
 President Reagan;50
@@ -78053,6 +78154,10 @@ PUBG;30
 pubic hair;10
 pubic hairs;10
 public affairs;50
+public discourse;50
+public discussion;40
+public display;50
+public displays;50
 public duties;50
 public enemy;60
 public figure;50
@@ -78420,6 +78525,7 @@ put a hex on;50
 put a lid on it;60
 put all one's eggs in one basket;50
 put a pin in it;60
+put a spell on;60
 put butts in seats;60
 put by;40;???
 put down in words;50
@@ -78492,6 +78598,7 @@ puts a hex on;50
 puts a lid on it;50
 puts all one's eggs in one basket;50
 puts a pin in it;50
+puts a spell on;60
 puts butts in seats;60
 puts down in words;50
 puts down in writing;50
@@ -78548,6 +78655,7 @@ putting a hat on a hat;60;Comedy mistake (something unnecessary)
 putting a hex on;50
 putting all one's eggs in one basket;50
 putting a pin in it;50
+putting a spell on;60
 putting butts in seats;60
 putting down in words;50
 putting down in writing;50
@@ -108007,6 +108115,7 @@ went on a jag;50
 went on a journey;60
 went on a spree;50
 went on a tear;60
+went on at length;60
 went on leave;50
 went on one's merry way;50
 went on record;60
