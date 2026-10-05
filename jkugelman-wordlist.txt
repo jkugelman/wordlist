@@ -2212,13 +2212,13 @@ a hell of a lot;60
 a hell of a lot of;60
 ahems;40
 Aherne;30;1930s actor Brian Aherne
-ah gotcha;60
+ah, gotcha;60
 ahh;50
 ahhs;50
-ahh that's the spot;60
+ahh, that's the spot;60
 ahh that's the stuff;60
 ahi;50
-ah I gotcha;60
+ah, I gotcha;60
 a hill of beans;60
 AHL;20
 Ahmad;40;Ahmad Jamal, jazz pianist / Ahmad Rashad, sportscaster
@@ -2869,7 +2869,8 @@ Alexandra;50;Common given name
 Alexandra Daddario;50;Actress
 Alexandre;40;Alexandre Dumas, "The Three Musketeers" author
 Alexandria;50;Egyptian port city, or Alexandria Ocasio-Cortez
-Alexandria Egypt;20
+Alexandria, Egypt;20
+Alexandria Egypt;0
 Alexandrian;50;Of Alexandria, Egypt
 Alexandrians;40;Residents of Alexandria
 Alexandrina;40;Alexandrina Victoria, Queen Victoria's full name
@@ -3643,7 +3644,7 @@ Amana;40;Kitchen appliance brand
 A Man Alone;40;1955 Western film
 a man apart;50
 a man a plan;30
-a man a plan a canal;40
+a man, a plan, a canal;40
 a man a plan a canal Panama;60
 Amanas;40
 A Man Called Ove;40
@@ -3667,7 +3668,8 @@ amaretto;50;Liqueur
 amarettos;40
 Amari;30;NFL wide receiver Amari Cooper (2015-25)
 Amarillo;50;Texas Panhandle city
-Amarillo Texas;50
+Amarillo, Texas;50
+Amarillo Texas;0
 Amarillo, TX;30
 Amarna;30;Ancient Egyptian capital of Akhenaten
 Amarna Miller;20
@@ -7727,7 +7729,8 @@ A with tilde;50
 awk;20
 Awkwafina;60
 awl;50
-aw man;60
+aw, man;60
+aw man;0
 aw, Mom;50
 awn;20
 awninged;40
@@ -7791,7 +7794,8 @@ Ayckbourn;40;Alan Ayckbourn, English playwright
 aye;50
 a year ago;30
 a year and a day;40
-aye aye sir;50
+aye aye, sir;50
+aye aye sir;0
 Ayelet;40;Ayelet Waldman, novelist
 Ayer;30
 Ayers;40;Ayers Rock, aka Uluru / Bill Ayers, Weather Underground founder
@@ -8722,7 +8726,8 @@ banging into;40
 banging on;40
 bang into;40
 Bangkok;50;Capital of Thailand
-Bangkok Thailand;20
+Bangkok, Thailand;20
+Bangkok Thailand;0
 Bangla;40;Bengali language
 Bangladesh;50;South Asian country
 Bangladeshi;50;From Dhaka's country
@@ -10459,7 +10464,8 @@ bench warrants;50
 BenDeLaCreme;50;"RuPaul's Drag Race" queen
 bending the rules;60
 Bendix;40;Brake brand / William Bendix, actor
-Bend Oregon;60
+Bend, Oregon;60
+Bend Oregon;0
 bends the rules;60
 bend the rules;60
 bene;40;N.B.
@@ -12513,7 +12519,8 @@ Boise;50;Capital of Idaho
 Boisean;40;Boise resident
 Boiseans;40;Idaho capital residents
 Boise, ID;40
-Boise Idaho;50
+Boise, Idaho;50
+Boise Idaho;0
 Boitano;40;Brian Boitano, Olympic figure skating champion
 BoJack;50;BoJack Horseman, animated washed-up horse actor
 Bojangles;60
@@ -13594,7 +13601,8 @@ breaking up the band;60
 break into;40
 break into a smile;60
 break into tears;60
-break it up you two;60
+break it up, you two;60
+break it up you two;0
 break loose;50
 break one's word;50
 breakout artist;60
@@ -14261,7 +14269,8 @@ brush on;40
 brush one's hair;50
 brush one's teeth;50
 Brussels;50;Belgian capital
-Brussels Belgium;30;???
+Brussels, Belgium;30;???
+Brussels Belgium;0
 brut cocktail;50
 brut cocktails;50
 Brutus;50;Marcus Junius Brutus, Caesar's assassin
@@ -14387,7 +14396,8 @@ Budai;40;Laughing Buddha figure
 Budapest;50;Hungarian capital
 Budapester;40;Budapest resident
 Budapesters;40;Budapest residents
-Budapest Hungary;30;???
+Budapest, Hungary;30;???
+Budapest Hungary;0
 Bud Bowl;60
 Budd;40;"Billy Budd," Melville novella / Zola Budd, barefoot runner
 Buddenbrooks;40;Thomas Mann novel
@@ -16047,7 +16057,8 @@ Cantonese;50;Chinese language of Guangdong
 Cantonese pop;50
 cantonment;30
 Canton, OH;40
-Canton Ohio;50
+Canton, Ohio;50
+Canton Ohio;0
 can too;40;Playground retort
 Cantopop;50;Hong Kong pop music
 cantor;40;Clergy who leads Jewish communities in song
@@ -16816,7 +16827,7 @@ cashing in one's chips;50
 cash in on;40
 cash in one's chips;50
 cashless society;60
-cash only no checks;50
+cash only, no checks;50
 cash poor;60
 cash up front;60
 cash value;50
@@ -17382,7 +17393,8 @@ cecropia;30;???
 cecum;30;Pouch in the large intestine
 cedarbalsamaple;0
 Cedar Falls;50
-Cedar Rapids Iowa;30;???
+Cedar Rapids, Iowa;30;???
+Cedar Rapids Iowa;0
 cedarwood;40
 ceded to;40
 cedes to;40
@@ -17805,7 +17817,8 @@ chancres;10
 chancroid;10;STD
 chancroids;10
 Chandigarh;50;Indian city designed by Le Corbusier
-Chandler Arizona;30
+Chandler, Arizona;30
+Chandler Arizona;0
 Chandogya;40;Chandogya Upanishad, Hindu scripture
 Chandor;40;J.C. Chandor, director of "Margin Call"
 Chandra;40;Chandra X-ray Observatory, or an Indian given name
@@ -20618,7 +20631,8 @@ come at;40;Attack, threaten
 come at a bad time;50
 come at a cost;60
 come at me;60
-come at me bro;60
+come at me, bro;60
+come at me bro;0
 come back empty-handed;50
 come bet;50
 Come Blow Your Horn;50;1961 Neil Simon play
@@ -20658,13 +20672,15 @@ come nowhere near;50
 come on already;60
 come on, do something;60
 come on down;60
-come one come all;60
+come one, come all;60
+come one come all;0
 Come On Eileen;60
 come on, I'm eating;60;"Gross!"
 come on, I'm eating here;60;"Gross!"
 come on, I'm trying to eat;60;"Gross"
 come on, let's be real;60
-come on man;60
+come on, man;60
+come on man;0
 come on to;40
 come out ahead;50
 Come Out and Play;60
@@ -21369,7 +21385,8 @@ cool reception;50
 cools one's heels;50
 cools one's jets;50
 cools to;40
-cool story bro;60
+cool story, bro;60
+cool story bro;0
 cool table;20;???
 cool to;40
 cool weather;50
@@ -23997,7 +24014,7 @@ dashed off a note;60
 dashed one's hopes;60
 dashed to;40
 Dasher;50;Santa's reindeer
-Dasher Prancer;20
+Dasher, Prancer;20
 dashes into;40
 dashes off a letter;50
 dashes off a note;60
@@ -25276,7 +25293,8 @@ desk jockeys;60
 desktop computer;60
 desktop computers;60
 Des Moines, IA;30
-Des Moines Iowa;30
+Des Moines, Iowa;30
+Des Moines Iowa;0
 Desmond;50;Desmond Tutu, archbishop / Norma Desmond of "Sunset Boulevard"
 desnuda;30
 desnudas;30
@@ -26593,7 +26611,8 @@ do all the talking;50
 do a set;50
 do a shot;50
 do as I say;60
-do as I say not as I do;60
+do as I say, not as I do;60
+do as I say not as I do;0
 do a solid;60
 do a stretch;50
 do a take on;20
@@ -26648,7 +26667,8 @@ dodecahedra;40
 dodecahedron;40
 dodecahedrons;40
 Dodecanese;40;Greek island group
-Dodge City Kansas;50
+Dodge City, Kansas;50
+Dodge City Kansas;0
 Dodge dealership;30
 dodged the question;60
 Dodger blue;50
@@ -28673,7 +28693,8 @@ dune cycles;50
 dune cycling;50;Is this real? Doesn't google well
 duned;40;Featuring or formed into dunes
 Dunedin;40;Second-most populous city in the South Island of New Zealand
-Dunedin Florida;50
+Dunedin, Florida;50
+Dunedin Florida;0
 duneland;40;Area having many dunes
 dune-like;30;Resembling or characteristic of a dune
 Dune Messiah;60;1969 science fiction novel by Frank Herbert
@@ -29139,7 +29160,8 @@ easy six;50
 easy street;60
 easy targets;60
 easy ten;50;Craps roll, language app
-easy tiger;60
+easy, tiger;60
+easy tiger;0
 easy way;50
 easy win;50
 easy wins;50
@@ -29526,7 +29548,8 @@ Edmond;40;Edmond Dantès, Monte Cristo count / Edmond Halley, astronomer
 Edmonds;40;Washington city / Kenneth Edmonds, aka Babyface
 Edmonia;40;Edmonia Lewis, sculptor
 Edmonton;50;Alberta capital
-Edmonton Alberta;30;???
+Edmonton, Alberta;30;???
+Edmonton Alberta;0
 Edmontonian;40;Native of Edmonton
 Edmontonians;40;Albertan city dwellers
 Edmund;50;Common given name
@@ -32413,7 +32436,8 @@ excretory;30
 excusa;40
 excuser;40
 excusers;40
-excuses excuses;60
+excuses, excuses;60
+excuses excuses;0
 excuse you;60
 exe;40
 executive power;60
@@ -32969,7 +32993,8 @@ faint sounds;40
 fair and square;60
 Fairbanks;50;Douglas Fairbanks, silent film star, or the Alaska city
 Fairbanks, AK;30
-Fairbanks Alaska;50
+Fairbanks, Alaska;50
+Fairbanks Alaska;0
 Fairchild;40;Morgan Fairchild, actress / Fairchild Semiconductor
 Fair Deal;50
 fair deals;50
@@ -33266,7 +33291,8 @@ farceurs;40
 Fareed;40;Fareed Zakaria, CNN host
 farer;40
 farers;40
-far far away;50
+far, far away;50
+far far away;0
 FarFarOut;50;Most distant known solar system object
 Farfetch'd;50;Pokemon with a leek
 far-fetched story;40;Green paint
@@ -34440,7 +34466,8 @@ fine arts degrees;60
 fine as frog hair;60
 fine be like that;60
 fine, be mad;60
-fine be that way;60
+fine, be that way;60
+fine be that way;0
 fine by me;60
 fine china;60
 fine cut;50
@@ -34686,7 +34713,8 @@ firsthand accounts;60
 first husband;50
 first husbands;50
 first impact;50
-first in first out;60
+first in, first out;60
+first in first out;0
 first kiss;60
 first kisses;60
 first ladies;60
@@ -44178,12 +44206,13 @@ Hello, Dolly!;60;Musical
 Hello Dolly;0
 hell of a guy;60
 HelloFresh;60
-hello hello;50
+hello, hello;50
 Hello Muddah, Hello Fadduh;60;1963 novelty song by Allan Sherman
 Hello Muddah, Hello Fadduh (A Letter from Camp);60;1963 novelty song by Allan Sherman
 hellomudduhhellofadduhaletterfromcamp;0
 hello sailor;50
-hello stranger;60
+hello, stranger;60
+hello stranger;0
 Helloween;40;German power metal band
 hello world;60
 Hellraiser;60
@@ -44405,7 +44434,8 @@ herds of cattle;50
 here;50
 hereand;0
 hereat;30;Because, archaically
-here boy;60;Summons for a pet
+here, boy;60;Summons for a pet
+here boy;0
 Here Comes That Rainy Day Feeling Again;50;1971 single by The Fortunes
 here comes trouble;60
 Hereford;40;English city, or the cattle breed
@@ -44550,7 +44580,8 @@ he's going to eat you for breakfast;60
 he's gonna eat you for breakfast;60
 he's good enough to eat;60
 he-she;10
-he shoots he scores;60
+he shoots, he scores;60
+he shoots he scores;0
 he's in rare form;60
 Hesiod;40;Ancient Greek poet
 He's Just Not That into You;60;2004 self-improvement book
@@ -44627,7 +44658,8 @@ hex wrench set;40
 hey;50
 hey, bro;50
 heyday;60
-hey don't look at me;60
+hey, don't look at me;60
+hey don't look at me;0
 hey, dude;60
 Heyer;30;Georgette Heyer, Regency romance novelist (1902-1974)
 Heyerdahl;40;Thor Heyerdahl, Kon-Tiki rafter
@@ -44639,7 +44671,8 @@ hey, it's me;50
 Heynderickx;40;Haley Heynderickx, indie folk singer
 Hey Paula;50
 hey Siri;60
-hey that's not fair;60
+hey, that's not fair;60
+hey that's not fair;0
 hey wait;60
 Heyward;40;DuBose Heyward, "Porgy" author
 Hezekiah;50;Biblical king of Judah
@@ -44839,7 +44872,7 @@ Highwomen;40;Country supergroup with Brandi Carlile
 high word score;50
 high word scores;50
 hi-ho;40
-hi hon;50
+hi, hon;50
 hi honey I'm home;60
 Hi Hos;20
 Hi How Are You;50
@@ -45340,7 +45373,7 @@ hold on one second;60
 hold onto;40
 hold on to me;50
 hold onto your butts;60
-hold please;60
+hold, please;60
 holds at arms length;60
 holds a torch;50
 holds back;50
@@ -45679,7 +45712,8 @@ honey-do lists;60
 Honeydripper;40;John Sayles film, or blues slang for a smooth talker
 Honeydrippers;50;Robert Plant's side band
 honey-glazed;50
-honey I'm home;60
+honey, I'm home;60
+honey I'm home;0
 honey lemon;50
 honeymoon suite;60
 honeymoon suites;60
@@ -47176,7 +47210,8 @@ ick out;40
 icks;40;Disgusts (noun)
 icks out;40
 Ickx;40;Jacky Ickx, six-time Le Mans winner
-I Claudius;50
+I, Claudius;50
+I Claudius;0
 I clean forgot;60
 Icona;40;Icona Pop, "I Love It" duo
 iconical;30
@@ -47366,7 +47401,8 @@ I do do I;0
 I do do that;60
 I do, I do;50
 I Do! I Do!;40;Tom Jones musical
-I Do I Do I Do I Do I Do;50;ABBA song
+I Do, I Do, I Do, I Do, I Do;50;ABBA song
+I Do I Do I Do I Do I Do;0
 I do indeed;50
 Idoism;20;Esperanto phrase
 I do it too;50
@@ -47507,7 +47543,8 @@ if memory serves;60
 if need be;60
 if only you knew;60
 I forget;60
-I for one;50
+I, for one;50
+I for one;0
 I found it;60
 I found myself;60
 if pigs had wings, they would fly;60
@@ -47729,7 +47766,8 @@ I knew you'd understand;60
 I Knew You When;50;Song
 I know;50;Han's reply
 I know how you feel;60
-I know I know;60
+I know, I know;60
+I know I know;0
 I know I'm dating myself;60
 I know I'm dating myself but;60
 I know, right?;60
@@ -48048,7 +48086,8 @@ I'm dying;60
 I'm dying here;60
 I'm dyin' here;60
 ime;20
-I mean c'mon;60
+I mean, c'mon;60
+I mean c'mon;0
 I mean it;60
 I mean that;60
 I mean to;50
@@ -49651,7 +49690,8 @@ Irma Thomas;40;"Soul Queen of New Orleans"
 Irma Vep;40;1996 French film / 2022 miniseries
 Irna;30;Irna Phillips, soap opera pioneer
 Irna Phillips;40;Soap opera pioneer
-I Robot;60
+I, Robot;60
+I Robot;0
 IROC;40;Chevy Camaro IROC-Z
 IROCs;40
 IROC-Z;40
@@ -50235,7 +50275,8 @@ it happens;60
 it happens to the best of us;60
 it has to be;50
 I thee wed;50
-I the Jury;50
+I, the Jury;50
+I the Jury;0
 IT help;30
 IT help desk;60
 IT help desks;60
@@ -50254,7 +50295,8 @@ I thought you'd say that;60
 I thought you knew;60
 iti;20
 itihat;0
-I Tina;30
+I, Tina;30
+I Tina;0
 itinerated;40
 it insists upon itself;60
 it is;40
@@ -50297,8 +50339,10 @@ Ito;40;Skater Midori Ito or Judge Lance Ito
 I told ya;60
 I told you;60
 I told you so;60
-I Tonya;30
-I Too;40;Langston Hughes poem
+I, Tonya;30
+I Tonya;0
+I, Too;40;Langston Hughes poem
+I Too;0
 it paid for itself;60
 it pays for itself;60
 IT pro;30
@@ -55228,7 +55272,8 @@ Lansbury;50;Angela Lansbury, "Murder, She Wrote" star
 Lansdowne;40;Lansdowne portrait of Washington
 Lansing;40;Michigan capital
 Lansing, MI;40
-Lansing Michigan;30;???
+Lansing, Michigan;30;???
+Lansing Michigan;0
 Lansky;40;Gangster Meyer Lansky
 lantana;40;Tropical flower common in the southwest
 lantanas;40;Tropical flowers common in the southwest
@@ -55560,7 +55605,8 @@ lateral job move;60
 lateral job moves;60
 Lateralus;40;Tool album
 Lateran;20
-later dude;60
+later, dude;60
+later dude;0
 latergram;50
 latergrams;50
 later in life;50
@@ -56993,7 +57039,8 @@ LGTM;40;Looks good to me
 Lhasa;40;Lhasa apso dog
 Lhasan;30;From Tibet's capital
 Lhasans;30
-Lhasa Tibet;50
+Lhasa, Tibet;50
+Lhasa Tibet;0
 L'Haÿ;20
 L'Herbier;40;Marcel L'Herbier, French silent film director
 L'Homme;30;YSL men's perfume
@@ -60679,7 +60726,7 @@ man alive;60
 Manama;40;Capital of Bahrain
 mañana;40;Tomorrow, in Spanish
 mañanas;30
-mañana señor;30
+mañana, señor;30
 man and wife;50
 Mananitas;40;"Las Mañanitas," Mexican birthday song
 mana pool;60
@@ -63994,7 +64041,8 @@ Missolonghi;40;Greek town where Byron died
 miss one's calling;50
 Miss Otis;40;Cole Porter song "Miss Otis Regrets"??
 Missoula;40;Montana college town
-Missoula Montana;30
+Missoula, Montana;30
+Missoula Montana;0
 Missoula, MT;30
 Missouri;50;Show-Me State
 Missourian;50
@@ -67305,7 +67353,8 @@ Newtown;40;Connecticut town
 New Ulm;30;???
 new wave;50
 new weird;60;Literary genre
-new year new me;60
+new year, new me;60
+new year new me;0
 New Year's Eve gala;50
 New York;60
 New York City;60
@@ -67962,7 +68011,8 @@ nodding at;40
 nodding out;40
 nodding to;40
 Noddy;40;Enid Blyton's toy-car character
-no dear;50
+no, dear;50
+no dear;0
 nodehportsuob;0
 no dice;60
 no dilly-dallying;60
@@ -68044,7 +68094,8 @@ no job too big;60
 no job too big or too small;60
 no job too small;60
 no joke;60
-no just no;60
+no, just no;60
+no just no;0
 Nokia;50
 Nokias;50
 Nokomis;40;Hiawatha's grandmother
@@ -68124,7 +68175,8 @@ non compos mentis;60
 noncoms;40
 non-denial denial;60
 none but;50
-none for me thanks;50
+none for me, thanks;50
+none for me thanks;0
 nonego;40;Psychology/philosophy term
 nonegos;40
 none of;20
@@ -68134,7 +68186,7 @@ nonet;40
 none the worse for wear;60
 none too soon;60
 nonets;40
-no never;50
+no, never;50
 no news is good news;60
 nonfee;40
 Nongshim;40;Korean instant noodle brand
@@ -68264,7 +68316,8 @@ Nordisk;40;Novo Nordisk, maker of Ozempic
 Nordstrom;50;Department store chain
 Nordstroms;40;Department stores
 NordVPN;40;VPN service
-no really;60
+no, really;60
+no really;0
 no reason;60
 Noreen;30;Anyone notable???
 no refunds;60
@@ -68398,7 +68451,8 @@ Nosey Smurf;60
 Nosferatu;60
 nosher;40
 noshers;40
-no shit Sherlock;10
+no shit, Sherlock;10
+no shit Sherlock;0
 no shot;50
 no side;30;End of a rugby match
 nosing about;50
@@ -68643,7 +68697,8 @@ not this again;60
 Notting;40;Notting Hill, London district and Julia Roberts film
 Nottingham;50;English city of the sheriff
 Nottinghamshire;50;English county, Robin Hood's home
-not today Satan;60
+not today, Satan;60
+not today Satan;0
 not to exaggerate;50
 not to mention;60
 not too sure;50
@@ -68741,7 +68796,8 @@ now let's see;60
 now listen here;60
 now look here;60
 now me;60
-now now;60
+now, now;60
+now now;0
 no wonder;60
 no worries;60
 no worries at all;60
@@ -69212,7 +69268,8 @@ Nyman;40;Michael Nyman, "The Piano" composer
 NY Met;40
 NY Mets;40
 Nynorsk;40;One of the two written standards of Norwegian
-NY NY;50
+NY, NY;50
+NY NY;0
 Nyong'o;40;Lupita Nyong'o, Oscar-winning actress
 Nyoni;30;Rungano Nyoni, Zambian-Welsh filmmaker
 NYPD;50
@@ -69827,12 +69884,14 @@ Ohashi;40;Gymnast Katelyn Ohashi
 oh, a wise guy;60
 oh, be a pal;60
 oh bother;60
-oh BTW;40
-oh but I do;50
-oh by the way;60
+oh, BTW;40
+oh BTW;0
+oh, but I do;50
+oh, by the way;60
+oh by the way;0
 oh, come now;60
 oh cool;60
-oh crud;60
+oh, crud;60
 oh-dark-thirty;60
 oh dear;50
 oh drat;60
@@ -69842,7 +69901,8 @@ O Henry Award;50
 O Henry Awards;50
 O. Henry-esque;50
 O'Herlihy;40;Dan O'Herlihy, "RoboCop" actor
-oh excuse me;50
+oh, excuse me;50
+oh excuse me;0
 oh fine;60
 oh for crying out loud;60
 oh for heaven's sake;60
@@ -69852,27 +69912,31 @@ oh for the love of all that's holy;60
 oh for the love of Pete;60
 oh fuck;10
 oh fudge;60
-oh fun;60
+oh, fun;60
+oh fun;0
 oh geez;60
 oh go;20
 oh God;60
-oh good grief;60
+oh, good grief;60
+oh good grief;0
 oh good lord;60
 oh goody;60
-oh go on;40
+oh, go on;40
 oh gosh no;50
 oh gosh yes;50
-oh great;60
+oh, great;60
+oh great;0
 ohh;50
 oh happy day;60
 oh hell no;60
-oh hi there;60
+oh, hi there;60
+oh hi there;0
 ohi;20
 O'Higgins;50;Bernardo O'Higgins, liberator of Chile
 Ohio;50;Buckeye State
 Ohioan;50
 Ohioans;50
-oh I see now;60
+oh, I see now;60
 oh is that so?;60
 oh is that so;0
 oh it's you;60
@@ -69895,12 +69959,14 @@ oh my goodness;60
 oh my gosh;60
 oh my Lord;60
 oh my stars;60
-oh neat;60
+oh, neat;60
+oh neat;0
 oh no;50
 ohnoewheismyex;0
 oh no no;50
 oh no not again;60
-oh no reason;60
+oh, no reason;60
+oh no reason;0
 oh no you didn't;60
 oh no you di'int;60
 oh no you di'nt;60
@@ -69912,16 +69978,20 @@ oh really now;60
 ohs;40
 Oh Say Can You Say?;60;Dr. Seuss book of tongue twisters
 oh shoot;60
-oh shut up;60
+oh, shut up;60
+oh shut up;0
 oh snap;60
-oh sorry;60
+oh, sorry;60
+oh sorry;0
 oh, so that's how it is;60
-oh stop it;60
+oh, stop it;60
+oh stop it;0
 oh sure;60
-oh sure blame me;60
+oh sure, blame me;60
+oh sure blame me;0
 oh, sweet summer child;60
 Ohtani;50;Shohei Ohtani, two-way baseball superstar
-oh that's OK;50
+oh, that's OK;50
 oh that's okay;50
 Oh the Places You'll Go;60;Dr. Seuss book
 Oh, the Thinks You Can Think;60;Dr. Seuss book
@@ -69929,13 +69999,15 @@ oh well, what can you do?;60
 oh, we're bad;60
 Oh, What a Night;50
 Oh What a Night;0
-oh whatever;60
+oh, whatever;60
+oh whatever;0
 oh what the heck;60
 oh what the hell;60
 oh, who am I kidding?;60
 oh who am I kidding;0
 oh, why not?;60
-oh woe is me;50
+oh, woe is me;50
+oh woe is me;0
 oh yes I am;50
 oh yes I do;50
 oh yes I'm;20
@@ -70025,7 +70097,8 @@ Okavango;50;Botswana delta
 OkayAfrica;40;African culture media outlet
 okay and;50
 okay but;50;"Yeah, except..."
-okay fine;60
+okay, fine;60
+okay fine;0
 okay, go;50
 okay hear me out;60;"So this may sound crazy but..."
 okay, I give;60
@@ -70827,7 +70900,7 @@ on notice;50
 Ono;40
 onomastic;40
 onomastics;40;Study of proper names
-on on;20
+on, on;20
 Onondaga;40;New York tribe / county
 on one;40;Quick football snap
 on one knee;50
@@ -70949,8 +71022,10 @@ ooh at;40
 ooh baby;60
 oohed;40
 oohed at;40
-ooh I'm scared;60
-ooh I'm so scared;60
+ooh, I'm scared;60
+ooh I'm scared;0
+ooh, I'm so scared;60
+ooh I'm so scared;0
 oohing;40
 oohing at;40
 oohs;50
@@ -73049,7 +73124,8 @@ Parisienne;50;Parisian woman, in French
 Parisiennes;40;Women of the French capital
 Paris Metro;50
 parisology;50;Use of ambiguous words (no relation to the city)
-Paris Texas;60
+Paris, Texas;60
+Paris Texas;0
 Parker Posey;50
 Parkersburg;40;West Virginia city
 Parkinson;50;James Parkinson, namesake of the disease
@@ -74908,7 +74984,8 @@ picayune;60
 Piccadilly;50;London circus
 Picchu;40;Machu Picchu, Incan citadel
 pick a card;60
-pick a card any card;60
+pick a card, any card;60
+pick a card any card;0
 pick an it;50
 pick apart;50
 pick at;40
@@ -75376,7 +75453,8 @@ Pirsig;40;Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance" author
 pis;40
 PIs;40;Private investigators
 Pisa;50;Italian city with the leaning tower
-Pisa Italy;20
+Pisa, Italy;20
+Pisa Italy;0
 pis aller;40;Pis aller, action of last resort
 Pisan;40
 Pisanello;40;Italian Renaissance painter and medalist
@@ -77994,7 +78072,8 @@ proving a point;60
 proving one's love;50
 Provo;50;Home of Brigham Young University
 Provo, UT;30;Provo, UT
-Provo Utah;50
+Provo, Utah;50
+Provo Utah;0
 Prower;40;Miles "Tails" Prower, Sonic's sidekick
 prowl car;50
 prowl cars;50
@@ -78561,7 +78640,8 @@ put it on the line;60
 put it there;60
 put it to;40
 put lipstick on a pig;60
-put me in coach;60
+put me in, coach;60
+put me in coach;0
 put me to the test;20
 Putnam;40
 put on a brave face;60
@@ -78824,7 +78904,8 @@ Qix;20
 QI XL;40;British comedy panel game television quiz show, extended length edition
 Qiyu;30;Qiyu Zhou, Canadian chess player and streamer
 Qom;20
-Qom Iran;40;Iranian city/province
+Qom, Iran;40;Iranian city/province
+Qom Iran;0
 Q'orianka;40;Q'orianka Kilcher, "The New World" actress
 QOTSA;20;Queens of the Stone Age
 QPOC;40;Queer person of color
@@ -80317,7 +80398,8 @@ ready Freddy;60
 ready or not;60
 ready room;50
 ready rooms;50
-ready set go;60
+ready, set, go;60
+ready set go;0
 ready to rock;60
 ready to rock and roll;60
 reafforest;30
@@ -81242,7 +81324,8 @@ relating to;40
 relative pitch;60
 relator;20;Variant spelling
 relators;20
-relax dude;60
+relax, dude;60
+relax dude;0
 relaxin;40;Pregnancy hormone
 relay race;50
 relay races;50
@@ -81434,7 +81517,8 @@ rennin;20
 Reno;50;Nevada's Biggest Little City, or Janet Reno, attorney general
 Renoir;50;Pierre-Auguste Renoir, Impressionist painter
 Renoirs;40;Paintings by Renoir
-Reno Nevada;20
+Reno, Nevada;20
+Reno Nevada;0
 Reno, NV;30
 renrocaotni;0
 renrocehtdnuora;0
@@ -83426,7 +83510,8 @@ Roma tomatoes;60
 Roma tomato sauce;50
 Rombauer;40;Irma Rombauer, "Joy of Cooking" author
 Rome;50;Italian capital
-Rome Italy;50
+Rome, Italy;50
+Rome Italy;0
 Romeo;50;Shakespeare's lovestruck Montague
 Romeo, O Romeo;60
 Romero;40;George A Romero, zombie film director / Cesar Romero, the Joker
@@ -85043,7 +85128,8 @@ same as;40
 samedis;20;French Saturdays
 Same Name;30;Reality show that lasted 4 episodes
 Sam Esmail;50;Creator of "Mr. Robot"
-Same Time Next Year;60
+Same Time, Next Year;60
+Same Time Next Year;0
 same token;50
 same to you, pal;60
 sameyness;60
@@ -86882,7 +86968,8 @@ see you around;60
 see you in court;60
 see you in hell;60
 see you later;60
-see you later alligator;60
+see you later, alligator;60
+see you later alligator;0
 see you soon;60
 see you then;60
 see you when I see you;60
@@ -87922,7 +88009,8 @@ shaka;40
 shakeglasstooth;0
 shake it off;60;Taylor Swift song
 Shake Me, Wake Me (When It's Over);50;1966 single by Four Tops
-shaken not stirred;60
+shaken, not stirred;60
+shaken not stirred;0
 shake on;40
 shake one's booty;60
 shake one's head;50
@@ -89671,7 +89759,8 @@ SiriusXM;50
 Sirk;40;Douglas Sirk, "Imitation of Life" director
 Sirleaf;40;Ellen Sirleaf, president of Liberia 2006-2018, first elected female head of state in Africa
 Sir Michael Caine;60
-sir no sir;50
+sir, no sir;50
+sir no sir;0
 sirocco;40;Hot African wind
 siroccos;40
 Sir Rudolf Bing;50;Austrian-American opera impresario (1902–1997)
@@ -89679,14 +89768,15 @@ sir this is a Wendy's;60
 Sirtis;40;Marina Sirtis of ST:TNG
 sirup;20
 sirups;20
-sir yes sir;50
+sir, yes sir;50
+sir yes sir;0
 sis;50
 SIS;40;British Secret Intelligence Service AKA MI6
 sisal;30;Rope fiber
 sisals;30;Rope fibers
-sí señor;40
-sí señora;40
-sí señorita;40
+sí, señor;40
+sí, señora;40
+sí, señorita;40
 si se puede;60
 Sisi;40
 sí sí señor;40
@@ -91364,7 +91454,8 @@ sofabeds;60
 sofa fort;60
 sofa forts;60
 so far so bad;60
-so far so good;60
+so far, so good;60
+so far so good;0
 Sofer;40;Rena Sofer, actor
 SoFi;40
 Sofia;50;Capital of Bulgaria
@@ -91832,7 +91923,8 @@ sorry, no refunds;60
 sorry sort;60
 sorry state;60
 sorry to bother you;60
-sorry we're closed;60
+sorry, we're closed;60
+sorry we're closed;0
 sorry wrong number;60
 sorry you're mad;60
 sortable;40
@@ -95705,7 +95797,8 @@ Surete;20
 sure to;40
 surette;20
 sure, what the hell;60
-sure why not;60
+sure, why not;60
+sure why not;0
 sure will;50
 sure winner;50
 sure winners;50
@@ -96607,7 +96700,8 @@ take liberties;50
 take matters into one's own hands;50
 take me as I am;60
 Takemitsu;40;Toru Takemitsu, Japanese composer
-take my wife please;60
+take my wife, please;60
+take my wife please;0
 taken a cue from;50
 taken a dislike to;50
 taken a dive;60
@@ -97548,7 +97642,8 @@ TBD;40
 TBF;40
 TBH;40
 Tbilisi;30;Capital of Georgia
-Tbilisi Georgia;50
+Tbilisi, Georgia;50
+Tbilisi Georgia;0
 T-bill;40
 T-bills;40
 T-Bird;40
@@ -98508,7 +98603,8 @@ Thanksgiving turkey;60
 Thanksgiving turkeys;60
 Thanksgiving veterans;20
 Thanksgivukkah;50;2013 Thanksgiving-Hanukkah mashup
-thanks I hate it;60
+thanks, I hate it;60
+thanks I hate it;0
 thanks, it means a lot;60
 thanks, it means a lot to me;60
 thanks one's lucky stars;50
@@ -100264,7 +100360,8 @@ this post right here, officer;60
 this round is on me;60
 this sent me;60
 this slaps;60
-this that and the other;60
+this, that, and the other;60
+this that and the other;0
 this thing of ours;60
 Thneed;50;"The Lorax" invention
 Thneeds;40;"The Lorax" products
@@ -101502,7 +101599,8 @@ Toledo;50;Ohio city, or the Spanish one it was named for
 Toledoan;40;Resident of Toledo
 Toledoans;40;Ohio city residents
 Toledo, OH;30
-Toledo Ohio;50
+Toledo, Ohio;50
+Toledo Ohio;0
 Toledos;40;Old swords
 Tolentino;40;Jia Tolentino, "Trick Mirror" essayist
 tolerator;40
@@ -103114,7 +103212,8 @@ Trudi;40
 Trudy;40;First name, short for Gertrude
 true;50
 true blue;60
-true but;30
+true, but;30
+true but;0
 true crime;60
 true crime documentaries;60
 true crime documentary;60
@@ -104215,7 +104314,7 @@ Ugetsu;40;Mizoguchi's 1953 ghost film
 Ugg;50;Fuzzy boot brand
 Uggs;50
 ugh;50
-ugh no;40
+ugh, no;40
 ughs;40
 UGK;20;1980s hip-hop duo
 ugli;40
@@ -104346,7 +104445,8 @@ Ulzana's;30;"Ulzana's Raid," 1972 Burt Lancaster Western
 um;50
 Uma;50
 um, ackshually;60
-um actually;60
+um, actually;60
+um actually;0
 Umar;40;Umar ibn al-Khattab, second caliph of Islam
 UMass;40
 Umayyad;40;Early Islamic caliphate
@@ -104376,7 +104476,7 @@ Umbro;40;Soccer apparel brand
 um bye;40
 UMD;40
 um, duh;40
-um hi;20;NYT doesn't like it: "UM HI ... felt too 'made up' as a phrase, and a little tricky to clue to boot"
+um, hi;20;NYT doesn't like it: "UM HI ... felt too 'made up' as a phrase, and a little tricky to clue to boot"
 umi;20;???
 umiak;40;Inuit boat
 umiaks;40
@@ -104385,7 +104485,8 @@ UMich;40;University of Michigan, informally
 umm;40
 Ummagumma;40;Pink Floyd album
 UMN;30;University of Minnesota
-um no;50
+um, no;50
+um no;0
 Umoja;40;First of the seven principles of Kwanzaa (unity)
 ump;50
 umpirage;40
@@ -104396,7 +104497,8 @@ umpteenth;60
 ums;40
 Umtata;20;South Africa city now known as Mthatha where Nelson Mandela comes from
 UMW;20
-um yeah;50
+um, yeah;50
+um yeah;0
 un;40
 una;40
 unadon;30;Japanese eel dish
@@ -104698,8 +104800,9 @@ unneat;30;Untidy, sounds unnatural?
 Uno;50
 uno;40
 Unocal;20
-uno dos;30;???
-uno dos tres;40
+uno, dos;30;???
+uno, dos, tres;40
+uno dos tres;0
 uno due tre;40
 unofficial motto;60
 unofficial mottos;60
@@ -107925,13 +108028,14 @@ Welk;40
 Welker;40;Frank Welker, prolific voice actor / Wes Welker, NFL receiver
 well, ackchyually;60
 well, ackshually;60
-well actually;60
+well, actually;60
+well actually;0
 Welland;40;Ontario city and ship canal
 well, back in my day;60
 we'll be in touch;60
 well, be quiet;60
 well-bred;50
-well but;30;Contrived?
+well, but;30;Contrived?
 well, dang;60
 well-documented;50
 well don't that beat all;60
@@ -107959,7 +108063,7 @@ well, I'd know;60
 wellies;30
 well I'll be a monkey's uncle;60
 well I'll be damned;60
-well imagine that;60
+well, imagine that;60
 well, I'm not a crook;40;Nixon insistence (notable?)
 well, I'm not you;60
 well I'm out;60
@@ -107998,7 +108102,8 @@ well that's not fair;60
 well that's not good;60
 well, that's the thing;60
 well there's your problem;60
-well well well;60
+well, well, well;60
+well well well;0
 well, we're waiting;60
 well will ya look at that;60
 well will you look that;60
@@ -109632,7 +109737,7 @@ wins the pot;60
 Winston;50;Winston Churchill / Winston Smith of "1984"
 Winston Churchill;60
 Winstone;40;Ray Winstone, British actor
-Winston-Salem NC;50
+Winston-Salem, NC;50
 Winston Smith;60;"1984" protagonist
 win streak;50
 win streaks;50
@@ -110928,13 +111033,16 @@ ye;40
 yea;50
 yea big;60
 Yeager;50;Chuck Yeager, first pilot past the sound barrier
-yeah but;60
-yeah dude;60
+yeah, but;60
+yeah but;0
+yeah, dude;60
+yeah dude;0
 yeah, I get it;60
 yeah, I'm fine;60
 yeah I said it;60
 yeah man;60
-yeah no;60
+yeah, no;60
+yeah no;0
 yeah, not happening;60
 yeah, yeah, yeah;50
 year abroad;50
@@ -111092,22 +111200,26 @@ Yertle the Turtle;60
 Yertle the Turtle and Other Stories;50;Dr. Seuss book
 yes;50
 yes absolutely;50
-yes and;60
+yes, and;60
+yes and;0
 yes and amen;60
 yes-anded;60
 yes-anding;60
 yes and no;60
 yes-ands;60
 yes, babe;50
-yes boss;60
+yes, boss;60
+yes boss;0
 yes chef;60
 yes I see;50
 yes I think so;50
 yes I won;40
-yes let's;50
+yes, let's;50
+yes let's;0
 yes'm;40
 yes man;60
-yes master;50
+yes, master;50
+yes master;0
 yes men;60
 yes, m'lady;50
 yes mom;50
@@ -111118,7 +111230,8 @@ yes-no questions;60
 yes no questions;0
 yes people;50
 yes person;50
-yes really;60
+yes, really;60
+yes really;0
 yessed;30
 yessing;30
 yes siree;50
@@ -111204,7 +111317,8 @@ yo dawg;60
 yodeller;50
 yodellers;50
 yo dog;50
-yo dude;60
+yo, dude;60
+yo dude;0
 Yoenis;40;Yoenis Céspedes, MLB slugger
 yoga ball;60
 yoga balls;60
@@ -111609,7 +111723,8 @@ you should get out more;60
 you should say something;60
 you should see your face;60
 you should see your faces;60
-you snooze you lose;60
+you snooze, you lose;60
+you snooze you lose;0
 Youssef;40;Ramy Youssef, comedian
 Youssou;40;Youssou N'Dour, Senegalese singer
 you started it;60
