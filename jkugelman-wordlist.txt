@@ -7711,7 +7711,7 @@ Awesome Blossom;60
 Awesome Games Done Quick;60
 awesomesauce;60
 awful truth;60
-aw go on;50
+aw, go on;50
 aw hell;60
 aw hell naw;60
 a whole lot;50
