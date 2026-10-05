@@ -3422,7 +3422,8 @@ Alouette;40;French children's song, or a Montreal CFL player
 Alouettes;40;Montreal CFL team
 Alous;40
 Aloysius;40;Old-fashioned first name
-Alp;40
+alp;40
+Alp;0
 alpaca;50
 alpaca breeder;60
 alpaca breeders;60
@@ -6242,7 +6243,8 @@ Ars Technica;60
 art;50
 Artaud;40;Antonin Artaud, Theatre of Cruelty founder
 Artaxerxes;50;Name of Persian kings
-Art Brut;60
+art brut;60
+Art Brut;0
 ArtButMakeItSports;50;Social media account pairing sports photos with fine art
 art buyer;50
 art buyers;50
@@ -29450,7 +29452,8 @@ Easter Island;60
 Eastern Seaboard;50
 Eastern seaboard;0
 Easters;40
-Easterseals;40;Disability services nonprofit
+Easter Seals;40;Disability services nonprofit
+Easterseals;0
 Eastertide;50;Season following Easter
 Eastertime;40;The Easter season
 East Germany;60
@@ -29631,7 +29634,8 @@ e-blasts;20
 EBN;20
 Ebola;50;Deadly hemorrhagic virus
 Eboli;30;Italian town of "Christ Stopped at Eboli"
-Ebon;40
+ebon;40
+Ebon;0
 ebonite;30;Hard rubber
 e-booking;50
 e-bookings;50
@@ -34531,7 +34535,8 @@ Fiddler on the Roof;60
 fiddles with;40
 fiddle with;40
 fiddling with;40
-FIDE;40;Bona fide
+fide;40;As in "bona fide"
+FIDE;40;World chess federation
 Fidei;40;Fidei Defensor, "Defender of the Faith"
 Fidel;50;Fidel Castro, Cuban leader
 Fideles;40;Adeste Fideles, "O Come, All Ye Faithful"
@@ -43489,7 +43494,8 @@ hard lot;50
 hard lots;50
 hard luck stories;60
 hard luck story;60
-Hardman;40;???
+hard man;40
+Hardman;0
 hard mode;60
 hard pass;60
 hard pill to swallow;60
@@ -46439,7 +46445,7 @@ horoscope sign;60
 horoscope signs;60
 Horowitz;50;Vladimir Horowitz, pianist, or Cher of "Clueless"
 horror show;60
-horrorshows;60
+horror shows;60
 horror-struck;50
 horrowshow;0
 hors;40
@@ -53945,7 +53951,7 @@ keyboard warrior;60
 keyboard warriors;60
 key change;60
 key changes;60
-key club;50
+Key Club;50
 key clubs;50
 key concept;50
 key concepts;50
@@ -60331,7 +60337,8 @@ Mack the Knife;60
 MacLachlan;40;Kyle MacLachlan, "Twin Peaks" star
 MacLaine;50;Shirley MacLaine, actress
 macle;20;Twin crystal
-Maclean;40;Who???
+MacLean;40;Alistair MacLean, "The Guns of Navarone" author
+Maclean;0
 Macleans;40;Maclean's, Canadian newsmagazine
 MacLeish;40;Archibald MacLeish, Pulitzer-winning poet
 Maclen;30;Beatles music company (McCartney-Lennon)
@@ -71983,7 +71990,7 @@ operaismo;40;Political theory aka workerism
 opera lover;60
 opera lovers;60
 Opera Man;60
-opera news;50
+Opera News;50
 operas bouffes;50
 opera soli;30
 operas serias;50
@@ -76219,7 +76226,7 @@ pirate copy;60
 pirated software;60
 pirate hat;60
 pirate hats;60
-pirate king;60;???
+Pirate King;60;"The Pirates of Penzance" role
 pirate outfit;60
 pirate outfits;60
 piratic;30
@@ -77508,7 +77515,8 @@ Pope Pius X;30
 Pope Pius XI;30
 Pope Pius XII;30
 popery;30;Disparaging, archaic
-Popes;50
+popes;50
+Popes;0
 Popeye;50;Spinach-eating sailor
 Popeyes;50;Fried chicken chain
 pop filter;60;Mesh placed in front of a microphone to reduce explosive consonant sounds
@@ -81758,7 +81766,7 @@ redrafting;40
 redrafts;40
 red rag;30
 red rice;50
-red rubber ball;50;???
+Red Rubber Ball;50;1966 Cyrkle hit
 red rubber balls;50;???
 redrum;60
 red sable;40
@@ -86996,7 +87004,7 @@ Schuster;40;Simon & Schuster, publisher
 Schuyler;40
 Schuylkill;50;River through Philadelphia
 Schwab;40;Charles Schwab, brokerage founder
-Schwabs;20;Plural name???
+Schwab's;20;Hollywood drugstore of legend
 Schwann;40;Schwann cell, which insulates nerve fibers
 Schwartz;50;Common surname / "Spaceballs" life force
 Schwartzman;50;Jason Schwartzman, "Rushmore" actor
@@ -90428,8 +90436,10 @@ silver dollars;50
 Silverheels;40;Jay Silverheels, who played Tonto
 Silverman;50;Sarah Silverman, comedian
 silvern;40;Made of silver
-silver star;50
-silver stars;50
+Silver Star;50
+silver star;0
+Silver Stars;50
+silver stars;0
 Silver State;50
 Silverstein;60
 Silverstone;50;Alicia Silverstone, "Clueless" star / British racing circuit
@@ -99456,7 +99466,7 @@ tetes;40
 têtes;40
 Tethys;30;Moon of Saturn
 Tetley;50;Tea brand
-Tetleys;30
+Tetley's;30
 Teton;40;Wyoming mountain range
 Tetons;50;Wyoming mountain range
 tetra;40;Fish
