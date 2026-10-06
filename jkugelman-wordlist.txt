@@ -42858,6 +42858,8 @@ had need for;40
 had need to;40
 had no business;60
 had no chill;60
+had no doubt;50
+had no doubts;50
 had no life;50
 had no oomph;60
 had no plan;50
@@ -42867,6 +42869,7 @@ had no time for;40
 had on;40
 had one's;20
 had one's druthers;60
+had one's fill;50
 had one's way;50
 had one too many;60
 Hadouken;50;Street Fighter fireball
@@ -43267,6 +43270,10 @@ hand mirrors;50
 hand model;50
 hand models;50
 hand of God;60;Maradona goal
+hand on heart;60
+hand or eye;20
+hand over hand;50
+hand over heart;50
 hand over to;40
 hand pass;50
 hand puppet;60
@@ -43804,6 +43811,8 @@ has need to;40
 has next;40;Playground dibs
 has no business;60
 has no chill;60
+has no doubt;50
+has no doubts;50
 has no life;50
 has no oomph;60
 has no plan;50
@@ -43812,6 +43821,7 @@ has no time;50
 has no time for;40
 hasn't got time;50
 has on;40
+has one's fill;50
 has one's way;50
 has one too many;60
 has prior knowledge;50
@@ -44023,6 +44033,8 @@ have need to;40
 havener;0
 have no business;60
 have no chill;60
+have no doubt;50
+have no doubts;50
 have no fear;60
 have no life;50
 have no plan;50
@@ -44031,6 +44043,7 @@ have no time;50
 have no time for;40
 haven't got time;50
 have on;40
+have one's fill;50
 have one's way;50
 have one too many;60
 have prior knowledge;50
@@ -44108,10 +44121,13 @@ having money on;50
 having need for;40
 having need to;40
 having no business;60
+having no doubt;50
+having no doubts;50
 having no life;50
 having no shot;60
 having no time for;40
 having on;40
+having one's fill;50
 having one's way;50
 having one too many;60
 having prior knowledge;50
@@ -44957,6 +44973,7 @@ herding cats;60
 herd mentalities;30
 herd mentality;60
 herd of cattle;50
+herd of elephants;50
 herds;50
 herds cats;60
 herds of cattle;50
