@@ -11296,6 +11296,7 @@ big no;40;Green paint?
 big no-no;60
 big no-nos;60
 Big O;40;Big-O notation??
+bigorexia;60;Muscle dysmorphia
 bigot;40
 bigoted;40
 bigotries;40
