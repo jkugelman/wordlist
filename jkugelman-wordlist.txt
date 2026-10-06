@@ -761,6 +761,7 @@ Abreu;40;José Abreu, AL MVP in 2020
 Abreva;40;Cold sore treatment
 abridger;30
 abridgers;30
+abrigde;0
 abrogator;30
 abrogators;30
 ab roller;50
@@ -78918,6 +78919,8 @@ pro surfer;50
 pro surfers;50
 prosy;40
 Protactile;40;DeafBlind touch language
+protag;40
+protags;40
 Protea;30;Sugarbush genus
 protease;30
 protégé;50
