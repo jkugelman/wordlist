@@ -5365,6 +5365,8 @@ Apple logo;50
 Apple logos;40
 apple martini;60
 apple martinis;60
+apple muffin;50
+apple muffins;50
 apple of;0
 apple of one's eye;50
 Apple Park;60;Name for the corporate headquarters of Apple, based in Cupertino CA
@@ -6924,6 +6926,7 @@ a stew;20
 asthenia;30;Medical condition, lack of energy
 as thick as thieves;60
 Asti;40;Wine region
+a stiff upper lip;60
 as tight;20
 astilbe;30;Flower genus
 a stitch in time;60
@@ -8026,7 +8029,7 @@ Baauer;40;"Harlem Shake" producer
 Bab;20
 baba;40;Rum-soaked cake, baba ghanoush, Baba Yaga
 baba au rhum;40;Baba au rhum, syrupy cake
-Babadook;50;"The Babadook" horror movie monster
+Babadook;60;"The Babadook" horror movie monster
 baba ganoush;60
 baba ghanouj;60
 baba ghanoush;60
@@ -12883,6 +12886,8 @@ Bono;50;U2 frontman, or Sonny Bono
 bonsai tree;60
 bonsai trees;60
 bons mots;50
+bontebok;40;South African antelope
+bonteboks;40;South African antelopes
 Bontecou;40;Lee Bontecou, sculptor
 Bontemps;40;Arna Bontemps, Harlem Renaissance writer
 bonu;20
@@ -28601,6 +28606,8 @@ drop it;60
 drop-leaf table;50
 drop-leaf tables;50
 drop like flies;60
+drop off the grid;60
+drop off the map;60
 drop one's aitches;30
 dropped a beat;50
 dropped a bombshell;60
@@ -28610,6 +28617,8 @@ dropped a hint;50
 dropped a truth bomb;60
 dropped bars;60
 dropped like flies;60
+dropped off the grid;60
+dropped off the map;60
 dropped the ax;50
 dropped the axe;50
 dropped the ban hammer;60
@@ -28624,6 +28633,8 @@ dropping a hint;50
 dropping a truth bomb;60
 dropping bars;60
 dropping like flies;60
+dropping off the grid;60
+dropping off the map;60
 dropping the ax;50
 dropping the axe;50
 dropping the ban hammer;60
@@ -28647,6 +28658,7 @@ dropshipper;60
 dropshippers;60
 dropshipping;60
 drops like flies;20;Not grammatical
+drops off the map;60
 drops the ax;50
 drops the axe;50
 drops the ban hammer;60
@@ -31610,6 +31622,8 @@ equaliser;30
 equalisers;30
 equalises;30
 equalising;30
+equal opportunity offender;60
+equal opportunity offenders;60
 equated to;40
 equates to;40
 equate to;40
@@ -43283,6 +43297,7 @@ hand puppets;60
 hands down;50
 hands it to;40
 hand soap;50
+hands off approach;60
 Handsome Dan;60;Yale's bulldog mascot
 handsomer;30
 handsomest;30
@@ -47511,6 +47526,7 @@ Ians;30
 Ian Woosnam;40;Pro golfer in the '80s
 Iapetus;30;Third-largest moon of Saturn
 I apologize;50
+I appreciate the effort;60
 I as;20
 I assumed;50
 I assume not;60
@@ -50941,6 +50957,7 @@ I, Tonya;30
 I Tonya;0
 I, Too;40;Langston Hughes poem
 I Too;0
+I totally agree;50
 it paid for itself;60
 it pays for itself;60
 IT pro;30
@@ -52211,6 +52228,7 @@ Jidenna;40;Rapper of "Classic Man"
 Jif;50
 Jiffy Lube;50
 Jiffy Pop;50
+Jiffy Pop popcorn;50
 Jif peanut butter;50
 jig;50
 Jigglypuff;50;Pokeyman
@@ -58329,14 +58347,17 @@ Lipizzaner;50;White dressage horse breed
 Lipizzaners;50;White Austrian show horses
 Lipizzans;40;Austrian dressage horses
 lipless;30
+lip off to;50
 lipoma;30;Fatty lump
 lipomas;30
 lipos;40
+lipped off to;50
 lipper;20
 Lippi;20;Painter
 lip piercing;60
 lip piercings;60
 Lippincott;40;Andy Lippincott, groundbreaking gay "Doonesbury" character
+lipping off to;50
 Lippmann;40;Walter Lippmann, "Public Opinion" journalist
 Lipps;40;Lipps Inc., "Funkytown" band
 lip-read;50
@@ -58347,6 +58368,7 @@ lip-reads;50
 lip ring;50
 lip rings;50
 Lipschitz;40;Lipschitz continuity, a math condition
+lips off to;50
 lipstick;50
 lipstick on a pig;60
 lip sweat;50;???
@@ -63472,6 +63494,7 @@ melting one's heart;50
 melt in one's mouth;60
 Melton;20
 melt one's heart;50
+Mel Torme;0
 melts hearts;60
 melts in one's mouth;60
 melts in your mouth, not in your hands;60
@@ -94507,6 +94530,7 @@ Stan Lee;60
 Stanley;50;Common first name, or the hockey cup
 Stanley Cup Final;60
 Stanley Cup Finals;60
+Stanley Cup playoffs;60
 Stanley Elkin;40;Novelist, short story writer, and essayist
 Stanleys;30
 Stan Musial;50
@@ -95326,7 +95350,9 @@ stiffened up;50
 stiffening up;50
 stiffens up;50
 stiffen up;50
+stiff-lipped;60
 stiff opposition;50
+stiff upper lips;50
 Stiglitz;40;Joseph Stiglitz, Nobel-winning economist
 Stihl;40;Tool brand
 Stijl;40;De Stijl, Dutch art movement
@@ -97861,13 +97887,15 @@ take note;60
 taken the wheel;50
 taken to;40
 taken to its logical conclusion;60
+taken to the extreme;60
 taken to the grave;60
 take off after;50
 take on;40
 take one's cue from;50
 take one's mind off;50
+take one's own sweet time;60
 take one's place;50
-take one's sweet time;50
+take one's sweet time;60
 take one's time;60
 Take On Me;60;A-ha song
 Take on Me;0
@@ -97950,7 +97978,7 @@ takes on;40
 takes one's cue from;50
 takes one's mind off;50
 takes one's place;50
-takes one's sweet time;50
+takes one's sweet time;60
 takes one's time;60
 takes orders;50
 takes orders from;40
@@ -97972,6 +98000,7 @@ takes the scenic route;50
 takes the wheel;50
 takes time;50
 takes to;50
+takes to the extreme;60
 takes to the grave;60
 takes to the hills;60
 takes two to tango;30
@@ -97994,6 +98023,7 @@ take the scenic route;50
 take the wheel;50
 take time;50
 take to;50
+take to the extreme;60
 take to the grave;60
 take to the hills;60
 Takeuchi;40;Naoko Takeuchi, "Sailor Moon" creator / Mariya Takeuchi, city pop singer
@@ -98001,6 +98031,7 @@ take under one's wing;60
 take up arms;60
 take wing;60
 take your cue from;20
+take your sweet time;60
 Taki;40
 Takin';40;"Takin' Care of Business"
 taking aboard;40
@@ -98063,7 +98094,7 @@ taking on;40
 taking one's cue from;50
 taking one's mind off;50
 taking one's place;50
-taking one's sweet time;50
+taking one's sweet time;60
 taking one's time;60
 taking orders;50
 taking orders from;40
@@ -100084,6 +100115,7 @@ The Avengers;60
 The Aviator;60
 The Awful Truth;60
 the Azores;40
+The Babadook;60
 the Babe;50
 the ballet;20
 the ball's in your court;60
@@ -102577,6 +102609,8 @@ to a hair;30
 to a halt;30
 to a head;40
 to a man;40
+to an excessive degree;60
+to an extreme;50
 to answer your question;60
 to a point;50
 to arms;40;Battle cry
@@ -102894,8 +102928,8 @@ ton;50
 tonal centre;20
 tonal centres;20
 Tonawanda;40;New York town near Buffalo
-toneme;30
-tonemes;30
+toneme;40
+tonemes;40
 tone poem;60
 tone poems;60
 Tonette;30
@@ -103032,7 +103066,7 @@ took on;40
 took one's cue from;50
 took one's mind off;50
 took one's place;50
-took one's sweet time;50
+took one's sweet time;60
 took one's time;60
 took orders;50
 took orders from;40
@@ -103052,6 +103086,7 @@ took the scenic route;50
 took the wheel;50
 took time;50
 took to;50
+took to the extreme;60
 took to the grave;60
 took to the hills;60
 took under one's wing;60
@@ -103075,6 +103110,7 @@ Toomey;40;Pennsylvania senator Pat Toomey (2011-2023)
 Toonami;60
 Toonces;50;SNL's driving cat
 to one's heart's content;60
+to one's name;50
 too new;20;Green paint
 too nice;40;Green paint?
 toonie;40;Canadian $2 coin
@@ -103244,7 +103280,7 @@ torii;40;Shinto temple gateway
 Torino;40;Turin, to Italians, or "Gran Torino"
 Toriyama;40;Akira Toriyama, "Dragon Ball" creator
 Tork;40;Peter Tork, Monkees member
-Tormé;40
+Tormé;40;Mel Tormé, crooner
 Torme;0
 Tormes;20
 torn ACL;50
@@ -103372,6 +103408,7 @@ totalitarian state;60
 totalitarian states;60
 totalities;30
 total loss;50
+totally awesome;60
 total mess;60
 total nightmare;60
 total piece of shit;10
@@ -103400,6 +103437,7 @@ to the best of;20
 to the best of one's ability;50
 to the bone;30
 to the death;60
+to the extreme;50
 to the manner born;60
 to the moon;60
 to the naked eye;50
@@ -110108,6 +110146,7 @@ what the hell just happened?;60
 what the hell just happened;0
 what the hell, sure;60
 what the hey;60
+what tipped you off?;60
 what to do;60
 what was all that about?;60
 what was I thinking?;60
@@ -113602,13 +113641,17 @@ Ziploc baggie;50
 Ziploc baggies;50
 Ziploc bags;50
 Ziplocs;40;Storage bags
+zip off;50
 zip one's lip;50
 zipped file;20
+zipped off;50
 zipped one's lip;50
+zipping off;50
 zipping one's lip;50
 Zippo;50;Lighter brand
 Zipporah;40;Wife of Moses
 Zippos;40;Flip-top lighters
+zips off;50
 zips one's lip;50
 zip tie;50
 zip-tied;50
