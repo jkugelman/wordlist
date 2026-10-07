@@ -17998,8 +17998,12 @@ chalkboard erasers;60
 chalk dust;50
 Chalke;40;Sarah Chalke, "Scrubs" actress
 chalked;60
+chalked it up to experience;60
+chalking it up to experience;60
+chalk it up to experience;60
 chalk mark;50
 chalk marks;50
+chalks it up to experience;60
 chalk talk;50
 chalk talks;50
 challis;30;Soft fabric
@@ -18016,6 +18020,8 @@ Chamillionaire;50;Rapper behind "Ridin'"
 Chaminade;40;Cécile Chaminade, French composer
 Chamoiseau;40;Patrick Chamoiseau, Martinican novelist
 Chamonix;50;French Alps resort, first Winter Olympics host
+Chamonix, France;50
+Chamonix France;0
 Chamorro;40;Indigenous people of the Mariana Islands
 Chamorros;40
 champagne bottle;60
@@ -18929,6 +18935,7 @@ Chimpsky;40;Nim Chimpsky, sign-language chimp
 china;50;Porcelain tableware / kind of drum cymbal
 China;50;Country in East Asia
 China Beach;50;Late 80s war drama on ABC
+Chinaman's chance;10
 chinas;40;Certain drum cymbals
 Chinatown;50;Polanski film, or the neighborhood
 Chinatowns;50;Urban ethnic enclaves
@@ -19015,6 +19022,11 @@ chiral centres;20
 Chiricahua;40;Apache band of Cochise and Geronimo
 Chiricahuas;40;Apache band of Cochise and Geronimo
 Chirico;40;Giorgio de Chirico, metaphysical painter
+chiromance;50;Read palms
+chiromancer;50;Palm reader
+chiromancers;50;Palm readers
+chiromancy;50;Palm reading
+chiromantic;40;Relating to palm reading
 Chiron;40;Wisest of the centaurs
 chiropod;30
 chiropody;30
