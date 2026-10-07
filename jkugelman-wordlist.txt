@@ -49760,7 +49760,8 @@ in spot;40;Cool place, according to other clues???
 inst.;40
 instable;40;Unstable
 Instacart;50;Grocery delivery service
-Instafame;40;Instagram celebrity
+Instafame;60;Instagram celebrity
+Instafamous;60;Famous on Instagram
 Instagram;50;Photo-sharing app
 Instagram famous;60
 Instagram filter;60
