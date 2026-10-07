@@ -47620,6 +47620,8 @@ Ibuprofen;0
 ibuprofens;40;Pain relievers
 Ibuprofens;0
 IBUs;40;Beer bitterness units
+I buy it;60
+I buy that;60
 Icahn;30;Billionaire Carl
 -ical;30
 I call BS;60
@@ -47876,6 +47878,8 @@ I dare you;60
 I'd be careful;60
 I'd be delighted;60
 I'd better go;60
+I'd buy it;60
+I'd buy that;60
 IDC;30;I don't care
 ID chip;40
 ID chips;40
@@ -48449,6 +48453,7 @@ I'll bet;60;"Of course"
 I'll be there;60
 I'll be watching you;60
 I'll bite;60
+I'll buy that;60
 I'll chance it;60
 I'll drive;60
 illegal activity;60
@@ -70966,6 +70971,8 @@ okay fine;0
 okay, go;50
 okay hear me out;60;"So this may sound crazy but..."
 okay, I give;60
+okay, I'll bite;60
+okay I'll bite;0
 okay I'm convinced;60
 okay, mister smarty-pants;60
 okay Mr. Smarty-pants;60
@@ -71001,6 +71008,8 @@ okie dokie;60
 okie dokie artichokie;60
 Okies;10;Offensive? Used a lot
 OK, I give;60
+OK, I'll bite;60
+OK I'll bite;0
 OK I'm convinced;60
 'okina;20;Hawaiian glottal stop
 Okinawa;50;Japanese island and WWII battle
@@ -92997,6 +93006,8 @@ sorrower;30
 sorrowers;30
 sorry for;40
 sorry for the spam;60
+sorry, I don't buy it;60
+sorry I don't buy it;0
 sorry if I upset you;60
 sorry I have to take this;60
 sorry I'm awful at names;60
