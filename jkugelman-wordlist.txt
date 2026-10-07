@@ -74693,6 +74693,8 @@ peak season;60
 peak seasons;60
 peak time;60
 peak times;60
+peaky;40
+Peaky Blinders;60
 Peale;40;Norman Vincent Peale, author of "The Power of Positive Thinking"
 Peales;20
 peanut allergies;60
@@ -93426,6 +93428,8 @@ speak truth to power;60
 speak up for;40
 speak well for;20
 speak well of;50
+speak your mind;60
+speak your piece;60
 spear carrier;60
 spear carriers;60
 spearfish;60
