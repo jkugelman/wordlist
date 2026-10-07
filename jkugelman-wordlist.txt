@@ -33415,6 +33415,7 @@ Fairfield;40;Connecticut town
 fair game;60
 fairish;30
 fair maiden;50
+fair maids of France;60;Species of flowering plant
 fair play;60
 fair point;60
 Fairport;40;Fairport Convention, British folk-rock band
@@ -60820,7 +60821,7 @@ maiden voyages;50
 maid of;20
 maid of honor;60
 maids a-milking;60
-maids of honor;50
+maids of honor;60
 Maidstone;40;County town of Kent
 Maier;40;Skier Hermann Maier
 maigre;20;Day on which the eating of flesh is forbidden by the Roman Catholic Church
@@ -63726,6 +63727,7 @@ Merlot;50;Red wine grape
 Merlots;40;Red wines
 mermaid;50
 mermaids;50
+Mermaids of Atlantis;30;Unlicensed NES game
 merman;50
 mermen;50
 Mero;40;The Kid Mero, of "Desus & Mero"
@@ -92676,7 +92678,9 @@ solid food;50
 solid foods;50
 solidi;30;Old Roman coins
 solid matter;50
+solid of revolution;50
 Solid Snake;60
+solids of revolution;50
 Solid South;60
 solid-state;60
 solid-state drive;60
