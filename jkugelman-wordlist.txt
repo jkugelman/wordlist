@@ -70629,6 +70629,8 @@ officering;40
 officers;50
 office supplies;50
 office supply;50
+office supply store;50
+office supply stores;50
 official pronouncer;50
 official pronouncers;50
 official stories;60
