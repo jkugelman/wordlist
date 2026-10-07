@@ -32029,6 +32029,7 @@ eskers;30;Long, winding ridges associated with former glaciers
 ESL;40
 Esmail;40;Sam Esmail, creator of "Mr. Robot"
 Esme;30
+Esme Bianco;40;British actress from "Game of Thrones" and "The Magicians"
 Esmeralda;50;"The Hunchback of Notre-Dame" heroine
 Esmé Stuart Lennox Robinson;50;Irish dramatist and poet (1886–1958)
 eso;40
@@ -65519,6 +65520,7 @@ montane;30;Growing in elevated regions
 Montauk;40;Long Island resort town
 Montcalm;30;Louis-Joseph de Montcalm, French Royal Army officer (1712–1759)
 monte;40
+Monte Bianco;40;Mont Blanc, in Italian
 Montego;40;Montego Bay, Jamaica
 Montel;40;Montel Williams, talk show host
 Montell;40;"This Is How We Do It" singer Montell Jordan
