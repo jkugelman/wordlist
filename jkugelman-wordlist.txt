@@ -1053,6 +1053,8 @@ Achilles heels;0
 Achilles tendon;60
 Achilles tendons;50
 aching for;40
+aching joint;50
+aching joints;50
 a chip and a chair;60
 a chip on;20
 Acholi;40;Ugandan people and language
@@ -11287,6 +11289,7 @@ big ideas;50
 big if;60
 big if true;60
 Big Iron;40;Western ballad "Big Iron" by Marty Robbins, 1959
+Big League Chew;60
 big load;30;???
 big loser;20;???
 Big Mac;60
@@ -12104,9 +12107,20 @@ blintze;30;Variant spelling of blintz
 Blippi;40;Kids' YouTube personality
 blissed out;60
 blisses out;50
+blissful ignorance;60
+blissfully ignorant;60
 bliss out;60
 Blissymbolics;40;Symbolic writing system
 Blissymbols;40;Blissymbolics, a picture-based writing system
+blister agent;40
+blister agents;40
+blistering agent;40
+blistering agents;40
+blistering speed;60
+blistering speeds;60
+Blister in the Sun;50;1983 single by Violent Femmes
+blister pack;60
+blister packs;60
 Blistex;40;Lip balm brand
 Blitzen;50;Santa's reindeer
 Blix;40;Hans Blix, UN weapons inspector
@@ -20552,6 +20566,8 @@ coffee cans;50
 coffee cart;50
 coffee carts;50
 coffee is for closers;60
+coffee joint;50
+coffee joints;50
 coffee milk;50
 coffee milks;50
 coffee mug;50
@@ -36989,6 +37005,8 @@ Friars Club;50
 Fribourg;40;Swiss city and canton
 frick;50
 Fricker;40;Brenda Fricker, Oscar-winning actor
+friction blister;50
+friction blisters;50
 Frida;50;Frida Kahlo, Mexican painter
 Friday;50;End of the workweek
 Fridays;50;TGIF days
@@ -39864,6 +39882,9 @@ glazed hams;50
 Glazer;40;Ilana Glazer of "Broad City" / Jonathan Glazer, director
 Glazunov;40;Russian composer Alexander Glazunov
 glde;20
+gleam in one's eye;60
+gleam in one's eyes;50
+gleam of light;50
 gleaner;30
 gleaners;30
 Gleason;40;Jackie Gleason, "The Honeymooners" star
@@ -49063,6 +49084,7 @@ in a mess;50
 inanition;30;Exhaustion
 Inanna;20;Sumerian goddess
 in another life;50
+in an ugly mood;50
 in an uproar;60
 in any event;60
 in a pan;0
@@ -49923,6 +49945,7 @@ in the altogether;60
 in the arm;20
 in the arms of Morpheus;60;Asleep
 in the army;40
+in the big leagues;60
 in the can;60
 in the catbird seat;60
 in the cloud;60
@@ -52531,8 +52554,11 @@ Johor;40;Malaysian state
 Johto;40;Pokemon region
 joie;40;Joie de vivre
 joined forces;50
+joined forces with;50
 join forces;50
+join forces with;50
 joining forces;50
+joining forces with;50
 joins forces;50
 joint;50
 joint committee;50
@@ -62088,6 +62114,8 @@ Maron;40;Marc Maron
 Maroney;40;Jenna Maroney, "30 Rock" diva / McKayla Maroney, gymnast
 Maronite;40;Eastern Catholic church of Lebanon
 Maronites;40;Lebanese Catholic church members
+Maroon 5;60;Adam Levine's rock band
+maroon five;40;Usually written Maroon 5
 maror;30;Bitter herbs eaten during Passover
 Marple;50;Miss Marple, Agatha Christie's sleuth
 marplot;20;Meddler
@@ -66412,6 +66440,7 @@ Mubi;0
 muchas;40
 mucho gusto;60
 muchos;40
+much publicized;50
 much simpler;50
 much to learn you still have;60
 much to my chagrin;60
@@ -75981,6 +76010,8 @@ picks up the tab;50
 pick teams;50
 pickup artist;10
 pickup artists;10
+pickup joint;50
+pickup joints;50
 pick up on;50
 pick up the bill;40
 pick up the check;50
@@ -79223,6 +79254,12 @@ public figure;50
 public figures;50
 public forum;50
 public hospitals;30
+publicity agent;50
+publicity agents;50
+publicity hound;60
+publicity hounds;60
+publicity manager;50
+publicity managers;50
 public libraries;60
 public library;60
 public masturbation;10
@@ -80103,6 +80140,7 @@ quiet storm;60
 quiet, the grown-ups are talking;60
 quietus;30
 Quigley;40;Linnea Quigley, horror scream queen
+Quigley Down Under;50;1990 Tom Selleck movie
 Quik;40
 QuikTrip;40;Convenience store chain
 Quilapayun;40;Quilapayún, Chilean folk group
@@ -85705,6 +85743,8 @@ saddhu;20
 saddhus;20;Hindu yogi
 saddle blanket;50
 saddle blankets;50
+saddle joint;50
+saddle joints;50
 saddler;40;Occupation
 saddlers;40
 saddle seat;50
@@ -90632,6 +90672,7 @@ Sima Samar;40;Afghan human rights advocate Sima Samar
 Simba;50;"The Lion King" lion
 Simbas;20
 Simchat;40;Simchat Torah, Jewish holiday
+SimEarth;50;1990 video game
 Simenon;40;Georges Simenon, Inspector Maigret novelist
 Simeon;40;Simeon Stylites, pillar-dwelling saint
 Simi;40;Simi Valley, California
@@ -101287,6 +101328,7 @@ the Tymes;50
 The U;30;University of Miami, "The U"
 the Uffizi;40
 The Ugly Duckling;60
+the ugly truth;60
 the UK;40
 the UN;20
 the U.N.;0
@@ -109806,6 +109848,7 @@ what a fool;60
 what a fool I've been;60
 what a hoot;60
 what a joke;60
+what a maroon;60
 what a mess;60
 what am I doing?;60
 what am I doing;0
@@ -111738,6 +111781,7 @@ wrestling meet;60
 wrestling meets;60
 Wrexham;40;Welsh town and football club owned by Ryan Reynolds
 Wrigley;50;Chicago ballpark, or the gum company
+Wrigley Field;60
 Wrigley's;40;Gum brand
 wrinkled one's brow;50
 Wrinkle in Time;50;1962 science fantasy novel by Madeleine L'Engle, with "A"
