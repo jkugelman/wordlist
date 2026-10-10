@@ -18268,6 +18268,7 @@ Charlene;40;Feminine first name
 Charles;50;Ray Charles, musician / King Charles III
 Charles Atlas;60
 Charles Baskerville;50;Sherlock Holmes character
+Charles Le Brun;50;French painter and art theorist (1619–1690)
 Charles Martinet;50;Voice of Mario
 Charleston;50;South Carolina city / 1920s dance
 Charles Wright and the Watts 103rd Street Rhythm Band;50;Soul and funk band
@@ -25847,6 +25848,10 @@ DeWalt;40;Power tool brand
 Dewar;40;Dewar flask, or whiskey brand
 Dewdney;40;Anna Dewdney, "Llama Llama" author
 Dewey;50;Melvil Dewey, of the decimal system / Thomas Dewey, of "Dewey Defeats Truman"
+Dewey Cox;60;"Walk Hard: The Dewey Cox Story"
+Dewey Decimal;60;Library classification system
+Dewey Decimal Classification;60
+Dewey Defeats Truman;60
 Dewhurst;40;Colleen Dewhurst, stage and screen actress
 de Wilde;30;Actor Brandon de Wilde (1942-72)
 DeWitt;40;Joyce DeWitt, "Three's Company" actress / DeWitt Clinton, NY governor
@@ -30379,8 +30384,16 @@ eku;20
 Ekwensi;40;Cyprian Ekwensi, Nigerian novelist
 el;40
 ela;20
+elaborated on;40
+elaborated upon;40
+elaborate on;40
 elaborate set piece;60
 elaborate set pieces;60
+elaborates on;40
+elaborates upon;40
+elaborate upon;40
+elaborating on;40
+elaborating upon;40
 Elagabalus;40;Decadent teenage Roman emperor
 Elaine;50;Common first name: Elaine Benes of "Seinfeld"
 Elaine Benes;50
@@ -30584,6 +30597,9 @@ Eli Roth;50;Actor and horror director
 Elis;40;Yale students
 Elisa;30;"Clueless" actress Elisa Donovan
 Elisabeth;50;Common first name
+Élisabeth Louise Vigée Le Brun;50;French portrait painter (1755–1842)
+Élisabeth Vigée Le Brun;50;French portrait painter (1755–1842)
+Elisabeth Vigee Le Brun;0
 Elisa Donovan;40;Actress in "Clueless" and "Sabrina the Teenage Witch"
 Elise;40
 Elisha;40;Biblical prophet / Elisha Cuthbert, actress
@@ -33051,20 +33067,63 @@ expressed regret;50
 expresses regret;50
 expressing regret;50
 express regret;50
+ex-Ranger;20
+ex-Rangers;20
+ex-Red;20
+exred;20
+ex-Reds;20
+ex-Royal;20
+ex-Royals;20
 ex's;40;"All My Ex's Live in Texas"
 Ex's;0
 exsert;30
 exserted;30
 exserting;30
 exserts;30
+ex-Sixer;20
+ex-Sixers;20
+ex-spies;30
 ex-spy;40
 ex-star;20
+ex-Steeler;20
+ex-Steelers;20
 Exsurge;30;Exsurge Domine, papal bull against Luther
 ext.;40
+ex-tenant;40
+ex-tenants;40
+extend an invitation;60
+extend an invitation to;50
 extend an olive branch;60
+extend an olive branch to;50
+extend credit;50
+extend credit to;50
+extended an invitation;60
+extended an invitation to;50
 extended an olive branch;60
+extended an olive branch to;50
+extended credit;50
+extended credit to;50
+extended family;60
+extended-release;50
+extended-release tablet;60
+extended-release tablets;60
+extended to;40
+extended universe;60
+extended universes;60
+extending an invitation;60
+extending an invitation to;50
 extending an olive branch;60
+extending an olive branch to;50
+extending credit;50
+extending credit to;50
+extends an invitation;60
+extends an invitation to;50
 extends an olive branch;60
+extends an olive branch to;50
+extends credit;50
+extends credit to;50
+extends to;40
+extend to;40
 extension ladder;50
 extension ladders;50
 extenuating circumstances;60
@@ -47175,6 +47234,8 @@ Huerta;40;Labor leader Dolores Huerta
 huevo;40
 huevos;40
 Huey;50;Huey Lewis, singer / the Disney duckling
+Huey, Dewey, and Louie;60
+Huey Dewey and Louie;0
 Huffington;50;Arianna Huffington, HuffPost founder
 Hufflepuff;60
 Hufflepuffs;60
@@ -51699,6 +51760,7 @@ James Brown and the Famous Flames;50
 James Cameron;60
 James Cromwell;50
 James Dean;60
+James Dewey Watson;60;Discoverer of the DNA double helix, along with Francis Crick
 James Doohan;50
 James D. Watt;60
 jameseaerljones;0
@@ -60555,6 +60617,7 @@ Madagascar;50;Island nation, or the DreamWorks movie
 Madama;40;Puccini's "Madama Butterfly"
 Madama Butterfly;60
 Madame Butterfly;60
+Madame Le Brun;50;French portrait painter (1755-1842)
 Madame President;50
 Madame Web;60
 mad as a hornet;60
@@ -61987,6 +62050,7 @@ Marie Antoinette;50
 Marie Callender's;50
 Marie Curie;50
 Mariel;40;Mariel Hemingway, actress, or the Mariel boatlift
+marielouiseelisabethvigeelebrun;0
 Marienbad;40;"Last Year at Marienbad" spa town
 Maries;30
 Marietta;40;Georgia city / "Naughty Marietta" operetta
@@ -63559,7 +63623,10 @@ melts in your mouth, not in your hands;60
 melts one's heart;50
 Melua;30;Katie Melua, British singer (born 1984)
 Melvil;40;Melvil Dewey, decimal-system librarian
+Melvil Dewey;50;Inventor of the Dewey Decimal system
 Melville;50;Herman Melville, "Moby-Dick" author
+Melville Dewey;50;Inventor of the Dewey Decimal system
+Melville Louis Kossuth Dewey;50;Inventor of the Dewey Decimal system
 Melvin;50;Common first name: Melvin Van Peebles, filmmaker
 Melvin and Howard;50;1980 film by Jonathan Demme
 Melvin Schwartz;40;1988 Nobelist in Physics
@@ -64361,6 +64428,7 @@ mile markers;60
 miler;50;One that competes in mile races, or ___-miler
 milers;50
 miles away;50
+Miles Dewey Davis Jr.;50;Jazz trumpeter Miles Davis's father
 Milesian;40;From ancient Miletus
 Milesians;40;People of ancient Miletus
 Miles Smiles;50;Miles Davis album
@@ -84861,8 +84929,10 @@ Roswell;50;New Mexico UFO town
 Roswell, NM;30
 rosy boa;30;Desert snake
 rot;50
+rota;30;Membership list / Vatican tribunal
 Rotarian;50;Rotary Club member
 Rotarians;40;Rotary Club members
+rotas;20;Membership lists / Vatican tribunals
 rotated in;40
 rotate in;40
 rotates in;40
@@ -100405,6 +100475,8 @@ the devil's playground;60;Idle hands, it's said
 the devil's playthings;60;Idle hands, it's said
 the devil's workshop;60;Idle hands, it's said
 the dew;0
+The Dewey Decimal Classification;50
+The Dewey Decimal System;50
 The Diary of Anaïs Nin;60
 The Diary of Anne Frank;60
 the die;20
@@ -101663,6 +101735,8 @@ tholes;20
 tholing;20
 Thom;50
 Thomas;50;Common name
+Thomas Dewey;50;47th governor of New York from 1943 to 1954
+Thomas E. Dewey;50;47th governor of New York from 1943 to 1954
 Thomas Edison;60
 Thomas Haden Church;50
 Thomasin;40;Thomasin McKenzie, New Zealand actress
@@ -107662,6 +107736,8 @@ vig;40;Charge taken on bets, as by a bookie or gambling establishment.
 Vig;40
 Vigée;40;Elisabeth Vigee Le Brun, French portraitist
 Vigee;0
+Vigée Le Brun;50;Élisabeth Louise Vigée Le Brun, French portrait painter (1755–1842)
+Vigee Le Brun;0
 Vigenere;40;Vigenère cipher, polyalphabetic substitution scheme
 Viggo;50;Viggo Mortensen, "The Lord of the Rings" star
 vigilante justice;60
@@ -108435,6 +108511,8 @@ walked to;40
 walked up to;40
 walked with purpose;60
 Walken;50;Christopher Walken, actor
+Walk Hard: The Dewey Cox Story;60;2007 John C. Reilly biopic parody
+Walk Hard the Dewey Cox Story;0
 walk-in bath;60
 walk-in baths;60
 walking and talking;50
