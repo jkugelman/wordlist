@@ -488,6 +488,7 @@ Abakanowicz;40;Magdalena Abakanowicz, Polish sculptor
 a ball;20
 abandoned house;50
 abandoned houses;50
+abandoned infant;30
 abandoned one's post;60
 abandoned ship;50
 abandonee;40
@@ -855,6 +856,7 @@ Abuja;40;Capital of Nigeria
 abul;20
 Abulhawa;40;Susan Abulhawa, "Mornings in Jenin" novelist
 Abu Musab al-Zarqawi;40;Jordanian jihadist (1966–2006)
+abundance of financial resources;50
 abundances;40;Weird plural
 aburglarstoleit;0
 Abu Sayyaf;40;Jihadist militant group in the Philippines
@@ -1428,6 +1430,7 @@ Addy;30
 Adebayo;60;Bam Adebayo, who scored 83 points in an NBA game (2nd highest all time)
 Adebimpe;40;Tunde Adebimpe, TV on the Radio singer
 adeedoo;20
+a definite maybe;60
 Adejuyigbe;40;Demi Adejuyigbe, comedian and "September" video maker
 Adela;40;Journalist Adela Rogers St. Johns
 Adelaide;50;South Australian capital
@@ -1670,6 +1673,7 @@ adv.;40
 Advaita;40;Advaita Vedanta, nondualist Hindu school
 advanced formula;50
 advanced search;60
+advance funding;50
 advance sale;50
 advance sales;50
 Advent calendar;50
@@ -1993,6 +1997,8 @@ after this;50
 After You've Gone;50;Various
 Afton;40;"Sweet Afton," the Burns poem river / Five Nights at Freddy's family
 afts;40
+a funny;20
+a funny thing happened;20
 AG;40
 Aga;20
 Agadir;40;Moroccan port city
@@ -2028,6 +2034,7 @@ Agathe;40;Agathe Rousselle, "Titane" star
 Agawam;30;Small Massachusetts town
 agaze;30
 age;50
+age cannot wither her, nor custom stale her infinite variety;50;Line from Shakespeare's "Antony and Cleopatra"
 aged care;50
 age-defying;50
 age-defying cream;50
@@ -40940,6 +40947,8 @@ Googlewhacks;50;Two-word searches with exactly one hit
 Google Wifi;50;One-time home mesh Wi-Fi system
 googly;60
 googol;60
+googologist;60;Someone who studies large numbers
+googologists;60;People who studies large numbers
 googology;60;Mathematical study of large numbers
 googolplex;60
 googols;50
@@ -48669,6 +48678,8 @@ Imari;40;Japanese porcelain
 I'm around;60
 I'm around if you need me;60
 I'm at a loss;60
+I'm at an utter loss;60
+I'm at an utter loss for words;60
 I'm at home;50
 I'm a trained professional;60
 imaum;20;Imam, archaic
@@ -106805,13 +106816,28 @@ utricle;30;Inner ear organ
 Utrillo;30;Parisian painter Maurice Utrillo
 Uttar;40;Uttar Pradesh, India's most populous state
 Uttarakhand;40;Himalayan Indian state
+utter a sound;50
+utter bliss;60
+utter BS;50
 utter bullshit;10
+utter confusion;50
+utter contempt;50
+utter defeat;50
+utter delight;60
+utter devastation;50
 utterer;50
 utterers;50
+utter exhaustion;50
+utter failure;50
 utter folly;60
 utter fool;60
 utter fools;60
+utterings;50
+utter loss;50
+utter loss for words;60
 utter rot;50
+utter silence;50
+utter simplicity;50
 utter tripe;60
 U-tube;30;Lab equipment
 Utz;50
