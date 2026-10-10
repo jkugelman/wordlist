@@ -41396,6 +41396,7 @@ governing boards;50
 governing bodies;50
 government bonds;50
 government cheese;50
+government of a locality;20
 Governor Moonbeam;50
 governor of Oregon;20
 governor of Texas;20
@@ -58919,16 +58920,24 @@ lobworm;30
 lobworms;30
 loc.;20
 Loca;40;"Livin' la Vida Loca"
+local anaesthesia;50
+local anaesthetic;50
+local anaesthetics;50
 local anesthesia;50
 local anesthetic;50
 local anesthetics;50
 local business;50
 local businesses;50
 local color;50
+local derbies;50;Sports matches between local rival teams
+local derby;50;Sports match between local rival teams
 local dive;50
 local dives;50
 local food;50
 local hero;60
+localism;50
+localisms;50
+local law enforcement;50
 local paper;60
 local papers;60
 local pride;50
