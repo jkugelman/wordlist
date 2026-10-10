@@ -3506,6 +3506,7 @@ alphorns;60
 alpine horn;50
 alpine horns;50
 alpines;40;Plants above the tree line
+Alpine Symphony;50;1915 symphonic poem by Richard Strauss, with "An"
 Alpo;50;Dog food brand
 Alpocalypse;50;"Weird Al" Yankovic album
 Alps;50;European mountain range
