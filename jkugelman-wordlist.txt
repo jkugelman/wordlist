@@ -99159,7 +99159,7 @@ teazles;20
 Tebaldi;30;???
 Tebow;50;Tim Tebow, Heisman-winning quarterback
 Tebows;20
-tec;20
+tec;30;Detective, briefly
 Tecate;40;Mexican beer and border town
 Tecates;40;Mexican beers
 tech boom;60
@@ -99214,7 +99214,7 @@ technocrats;50
 technofunk;50
 technopop;50
 tech tree;60
-tecs;20
+tecs;30;Detectives, briefly
 Tecumseh;50;Shawnee leader who resisted US expansion
 Ted;50
 tedder;20;Haymaking machine
