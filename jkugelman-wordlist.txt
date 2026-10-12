@@ -30134,7 +30134,7 @@ Efrem;40;Efrem Zimbalist Sr. (violinist) or Jr. (TV actor)
 Efron;50;Zac Efron, actor
 efs;20
 eft;30;Young newt
-efts;30
+efts;30;Young newts
 e.g.;40
 egagtrom;0
 égal;40
@@ -47728,6 +47728,7 @@ I came I saw I conquered;0
 I can;50
 I Can Add;30;They Might Be Giants song for kids
 I can breathe again;60
+I can check;50
 I can do it;60
 I can do this all day;60
 I can feel it;60
@@ -48549,6 +48550,7 @@ I'll be watching you;60
 I'll bite;60
 I'll buy that;60
 I'll chance it;60
+I'll check;50
 I'll drive;60
 illegal activity;60
 illegal forward kick;60;Football penalty
@@ -57310,6 +57312,7 @@ LeMays;20
 Lemieux;50;Mario Lemieux, hockey Hall of Famer
 lemmata;40;Lemmas
 lemme at 'em;60
+lemme check;50
 lemming;50
 lemmings;50
 Lemmon;50;Jack Lemmon, "Some Like It Hot" star
@@ -57575,6 +57578,7 @@ let it rip;60
 let live;50
 let me ask you something;60
 let me ask you this;60
+let me check;50
 Let Me Down;50;2018 single by Jorja Smith featuring Stormzy
 let me finish;60
 let me give it a go;60
