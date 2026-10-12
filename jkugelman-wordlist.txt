@@ -80777,6 +80777,7 @@ raising the subject;50
 raising the subject of;50
 Raisman;40;Gymnast Aly Raisman
 raison;40
+raison d'état;50;State interest, especially when invoked as politically superior to moral or even legal considerations
 raita;40;Indian dip
 Raitt;40;Bonnie Raitt, blues-rock singer and slide guitarist
 Raitts;30;Plural family name
