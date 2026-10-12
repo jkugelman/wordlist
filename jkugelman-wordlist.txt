@@ -5246,6 +5246,8 @@ Apokolips;40;Darkseid's DC planet
 apolar;30;Nonpolar is preferred
 Apollinaire;50;Guillaume Apollinaire, French poet
 Apollo;50;Greek god, moon program, and Harlem theater
+Apollo 11;60;First crewed Moon landing (1969)
+Apollo 13;60
 Apollo I;40
 Apollo II;40
 Apollo IX;40
