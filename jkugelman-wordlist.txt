@@ -34936,6 +34936,8 @@ final resting places;50
 final round;50
 final solution;10
 finance minister;50
+financer;50
+financers;50
 Finance Smurf;60
 financial backer;50
 financial centre;20
@@ -34943,6 +34945,7 @@ financial centres;20
 financial data;60
 financials;50
 financial sector;50
+financings;50
 Fincher;40;David Fincher, "Zodiac" director
 find a home;50
 find a loophole;60
@@ -38592,6 +38595,10 @@ gene maps;60
 Genentech;50
 genera;40;Genuses
 General Assembly;50
+generale;30
+general edition of book;20
+general education;50
+General Eisenhower;50
 general election;50
 General Electric;60
 general knowledge;60
