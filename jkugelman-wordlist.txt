@@ -22259,15 +22259,15 @@ county sheriff;60
 county sheriffs;60
 county tax;50
 county taxes;50
-coup d'état;50
+coup d'état;60
 coup d'etat;0
-coup d'états;50
+coup d'états;60
 Couperin;40;François Couperin, French Baroque composer
 Coupland;40;Douglas Coupland, author of "Generation X"
 couples cruise;60
 couples retreat;50
 couples retreats;50
-coups d'état;50
+coups d'état;60
 coups d'etat;0
 Courage the Cowardly Dog;60
 courante;30;16th century court dance
@@ -22803,6 +22803,7 @@ cries out for;40
 cries out to;40
 Crimea;50;Black Sea peninsula
 Crimean;40;Of a Black Sea peninsula
+crime d'état;40;State crime
 crime dog;50
 crime fighter;60
 crime fighters;60
@@ -80777,7 +80778,7 @@ raising the subject;50
 raising the subject of;50
 Raisman;40;Gymnast Aly Raisman
 raison;40
-raison d'état;50;State interest, especially when invoked as politically superior to moral or even legal considerations
+raison d'état;40;State interest, especially when invoked as politically superior to moral or even legal considerations
 raita;40;Indian dip
 Raitt;40;Bonnie Raitt, blues-rock singer and slide guitarist
 Raitts;30;Plural family name
