@@ -55289,6 +55289,7 @@ Kreuk;40;Kristin Kreuk, "Smallville" actress
 Kreutzer;40;"Kreutzer Sonata," by Beethoven and by Tolstoy
 Kreviazuk;40;Chantal Kreviazuk, Canadian singer-songwriter
 krewe;40;Mardi Gras group
+Krewe d'Etat;60;All-male satirical Mardi Gras krewe
 Krewella;40;EDM group
 Krewe of Rex;50
 krewes;40
@@ -57311,6 +57312,7 @@ leitmotiv;40
 leitmotivs;40
 lek;20;Albanian coin
 Lekman;40;Jens Lekman, Swedish indie singer
+Le Krewe d'Etat;60;All-male satirical Mardi Gras krewe
 Leland;40;Leland Stanford, railroad baron and university founder
 Lelands;30;Plural name
 Lem;30;Stanislaw Lem
