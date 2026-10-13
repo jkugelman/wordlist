@@ -44388,6 +44388,7 @@ headdress;60
 headdresses;60
 headed for;40
 headed into;40
+headed on in;50
 headed out to sea;50
 headed to;40
 headend;30
@@ -44397,9 +44398,11 @@ head-faked;60
 head fakes;60
 headfirst;60
 head for;40
+head for figures;60
 heading for;40
 heading for a fall;60
 heading into;40
+heading on in;50
 heading out to sea;50
 heading to;40
 head into;40
@@ -44409,8 +44412,10 @@ Head Like a Hole;60
 headlock;60
 headlocks;60
 head of hair;50
+head of lettuce;50
 head of state;60
 head on back;50
+head on in;60
 head out to sea;50
 headphone jack;60
 headphone jacks;60
@@ -44424,8 +44429,11 @@ headshot;60
 headshots;60
 heads into;40
 heads I win tails you lose;60
+heads of lettuce;50
 heads of state;60
+heads on in;50
 heads out to sea;50
+headspace;60
 heads to;40
 headstrong;50
 heads up seven up;60
@@ -50054,6 +50062,7 @@ in the nude;60
 in the penalty box;50
 in the pokey;60
 in the rain;30;Green paint, themer from a "Green Eggs and Ham" puzzle
+in the right headspace;60
 in the right place at the right time;60
 in the right place at the wrong time;60
 in the rough;50
@@ -69630,6 +69639,7 @@ not in one's wheelhouse;50
 not in right now;50
 not interested;60
 not in the cards;60
+not in the right headspace;60
 not it;50
 not keen;40
 not keen to;40
