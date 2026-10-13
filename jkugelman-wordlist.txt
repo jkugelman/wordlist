@@ -17268,6 +17268,7 @@ catches off guard;50
 catches one's breath;50
 catches one's death;50
 catches on fire;50
+catches red-handed;60
 catches strays;60
 catches waves;50
 catch feelings;60
@@ -17287,6 +17288,7 @@ catching off guard;50
 catching one's breath;50
 catching one's death;50
 catching on fire;50
+catching red-handed;60
 catching strays;60
 catching waves;50
 catch off guard;50
@@ -17294,6 +17296,7 @@ catch one's breath;50
 catch one's death;50
 catch on fire;50
 cat chow;50
+catch red-handed;60
 catch strays;60
 catch up;50
 catch-up mechanic;60
@@ -17456,6 +17459,7 @@ caught off guard;50
 caught one's breath;50
 caught one's death;50
 caught on fire;50
+caught red-handed;60
 caught strays;60
 caught waves;50
 caul;30;Various rare meanings
