@@ -3594,7 +3594,11 @@ Alton;40;TV chef Alton Brown
 altooar;0
 Al Toon;30;???
 Altoona;40;Pennsylvania city
+Altoona, Iowa;40
 Altoonan;40
+Altoonans;40
+Altoona, Pennsylvania;50
+Altoona Pennsylvania;0
 alto sax;50
 alto saxes;50
 alto saxophone;50
@@ -37233,6 +37237,7 @@ Frommer;40;???
 from pessimists;20
 from rags to riches;60
 from sea to shining sea;50
+from soup to nuts;60
 from the bottom of one's heart;50
 from the hip;60
 from where I stand;60
@@ -44177,6 +44182,8 @@ have fun with that;60
 have game;60
 have heart;50
 have ideas;50
+have I taught you nothing?;60
+have I taught you nothing;0
 have it bad;60
 have it both ways;50
 have it good;60
@@ -77592,6 +77599,8 @@ polite stare;50
 polite stares;50
 political career;60
 political careers;60
+political cartoonist;60
+political cartoonists;60
 political discourse;60
 political view;60
 political views;60
@@ -103196,6 +103205,7 @@ tonnes;40
 Tonopah;30;Nevada mining town and test range
 Tonopah, Nevada;40;Nevada mining town and test range
 Tonopah Nevada;0
+to nothing;20
 to now;40
 tonsil hockey;60
 tons of;40
