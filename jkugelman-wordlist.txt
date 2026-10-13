@@ -15339,6 +15339,7 @@ by all accounts;50
 by all means;60
 by a mile;50
 by and by;50
+by a show of hands;60
 Byatt;40;A. S. Byatt, author of "Possession"
 Byblos;40;Ancient Phoenician city
 by check;50
@@ -90237,6 +90238,7 @@ shown the ropes;60
 shown the ropes to;60
 show of force;60
 show of gratitude;60
+show of hands;60
 show of remorse;60
 show of respect;60
 show of restraint;60
