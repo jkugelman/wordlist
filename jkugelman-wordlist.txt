@@ -650,6 +650,7 @@ Abilene;50;Texas or Kansas city
 a billion;40
 Abimelech;40;Biblical king in Genesis and Judges
 ab intra;30;From within: Lat.
+a bird in the hand is worth two in the bush;60
 a bit;50
 a bit behind;50
 a bit more;50
@@ -6654,6 +6655,7 @@ asked a favor of;40
 asked a lot of;50
 asked for;40
 asked for nothing;50
+asked for one's hand;60
 asked for the hand of;60
 asked in;40
 asked no favors;50
@@ -6664,6 +6666,7 @@ asker;50
 askers;50
 ask for;40
 ask for nothing;20
+ask for one's hand;60
 ask for the hand of;60
 AskHistorians;40;Reddit history forum
 Askia;30;Askia Muhammad, Songhai emperor
@@ -6674,6 +6677,7 @@ asking a lot of;50
 asking for;40
 asking for it;60
 asking for nothing;50
+asking for one's hand;60
 asking for the hand of;60
 asking in;40
 asking no favors;50
@@ -6695,6 +6699,7 @@ asks a favor of;40
 asks a lot of;50
 asks for;40
 asks for nothing;50
+asks for one's hand;60
 asks for the hand of;60
 asks in;40
 asks no favors;50
@@ -7387,6 +7392,7 @@ at the end of one's rope;50
 at the end of one's tether;50
 at the end of the day;60
 at the half;50
+at the hands of;50
 At the Mountains of Madness;60;H. P. Lovecraft novella
 at the net;30
 at the seams;50
@@ -8374,6 +8380,7 @@ bad habits;60
 Badham;40;John Badham, "WarGames" director
 bad hand;40
 bad hands;40
+bad handwriting;60
 bad heart;50
 bad idea;60
 bad impression;50
@@ -11039,6 +11046,7 @@ better left unsaid;60
 better luck next time;60
 better mousetrap;60
 better not;60
+better red than dead;60;Anti-communist slogan
 better yet;60
 Bettie;40;Bettie Page, pinup model
 betting on;40
@@ -15368,6 +15376,7 @@ bys;20
 by sex;30
 Bysshe;30;Poet Percy Bysshe Shelley
 ByteDance;50;TikTok's parent company
+by the hand of;50
 by the same token;60
 By the Sea;50
 by the skin of one's teeth;50
@@ -15878,7 +15887,7 @@ came as no surprise;60
 came at;40
 came at a bad time;50
 came at a cost;60
-came back empty-handed;50
+came back empty-handed;60
 came by;40
 came clean;50
 came down to earth;60
@@ -15889,6 +15898,7 @@ came for;40
 came from;40
 came full circle;60
 came in first;50
+came in handy;60
 came in last;50
 came into;40
 came into being;60
@@ -16151,6 +16161,8 @@ can I get a hand here?;60
 can I get in on that?;60
 can I go now;60
 can I have a brief word?;60
+can I have a hand?;50
+can I have a hand;0
 can I have a quick word?;60
 can I have a word with you?;60
 can I have your attention?;60
@@ -16331,6 +16343,8 @@ can you dig it;50
 can you do anything right?;60
 can you do that?;60
 can you fill me in?;60
+can you handle this?;50
+can you handle this;0
 can you hear me?;50
 can you hear me;0
 can you hear me now?;60
@@ -17233,6 +17247,9 @@ catch a bus;50
 catch a falling star;50
 Catch a Falling Star;50;1957 single by Perry Como
 catch-all;50
+catch and kill;60;Media technique of suppressing a story by buying and not publishing it
+catch and release policies;50
+catch and release policy;50
 catch a show;50
 catch a stray;60
 catch a train;40;Contrived
@@ -20937,7 +20954,7 @@ come at a cost;60
 come at me;60
 come at me, bro;60
 come at me bro;0
-come back empty-handed;50
+come back empty-handed;60
 come bet;50
 Come Blow Your Horn;50;1961 Neil Simon play
 come by;40
@@ -20965,6 +20982,7 @@ come here often?;60
 come here often;0
 come home soon;60
 come in first;50
+come in handy;60
 come in last;50
 come in threes;50
 come into;40
@@ -21001,7 +21019,7 @@ comes as no surprise;60
 comes at;40
 comes at a bad time;50
 comes at a cost;60
-comes back empty-handed;50
+comes back empty-handed;60
 comes by;40
 comes clean;50
 comes down to earth;60
@@ -21012,6 +21030,7 @@ comes for;40
 comes from;40
 comes full circle;60
 comes in first;50
+comes in handy;60
 comes in last;50
 comes in threes;20
 comes into;40
@@ -21071,7 +21090,7 @@ coming as no surprise;60
 coming at;40
 coming at a bad time;50
 coming at a cost;60
-coming back empty-handed;50
+coming back empty-handed;60
 coming by;40
 coming clean;50
 coming down to earth;60
@@ -21081,6 +21100,7 @@ coming for;40
 coming from;40
 coming full circle;60
 coming in first;50
+coming in handy;60
 coming in last;50
 coming into;40
 coming into being;60
