@@ -5175,6 +5175,7 @@ aperies;30;Bad plural???
 Aperol;40;Italian bitter apéritif
 apers;40
 a person;50;Each
+Aperture Science;60;Evil portal company
 apery;40
 apeshit;10
 ape suit;50
@@ -11159,6 +11160,7 @@ Bibb;30;Type of lettuce
 bibelot;20;Trinket
 bibelots;20;Trinkets
 Bibendum;40;The Michelin Man's real name
+Bib Fortuna;40;Chief aide of Jabba the Hutt
 Bibi;20;Nickname for Benjamin Netanyahi
 Bibi Netanyahu;50
 Bible;50;The Good Book
@@ -26003,6 +26005,10 @@ Dianetics;50;L. Ron Hubbard's Scientology text
 DiAngelo;40;Robin DiAngelo, "White Fragility" author
 Dianna;40;Dianna Agron, "Glee" actor
 Dianne;40;Dianne Feinstein, California senator / Dianne Wiest, actress
+diaper change;60
+diaper changes;60
+diaper changing;60
+diaper changings;60
 diarchies;30;Governments by two independent authorities
 diarchy;30;Government by two independent authorities
 diarist;50
@@ -69326,6 +69332,7 @@ no prob;60
 no prob, Bob;60
 no problem;60
 no problemo;60
+no purchase necessary;60
 no questions asked;60
 nor;50
 Nora;40
@@ -75300,6 +75307,7 @@ pepo;20;Fruit
 Peppa;50;Peppa Pig, cartoon piglet
 Peppa Pig;60
 Peppard;40;George Peppard, "The A-Team" star
+pepper chicken;50
 Pepperdine;50;Malibu university
 Pepperidge;50;Pepperidge Farm, cookie brand
 pepper jack;50
@@ -75347,6 +75355,7 @@ percentage point;50
 percentage points;50
 Perceval;50;Arthurian grail knight / Spencer Perceval, assassinated UK PM
 percha;20
+perchance to dream;60
 Percheron;40;French draft horse
 Percherons;50;Draft horses
 perchlorate;40;Chemical used in fireworks, explosives, and rocket fuel
@@ -79101,11 +79110,13 @@ prone to;40
 pronom;20
 pronominal;40;Pronoun-related
 pronouncers;50
+proof of purchase;60
 proofread;50
 proofreader;50
 proofreaders;50
 proofreading;50
 proofreads;50
+proofs of purchase;50
 Proops;40;Greg Proops, "Whose Line" comedian
 prop;50
 Propagandhi;40;Canadian punk band
@@ -79113,6 +79124,7 @@ propanol;40;Solvent
 prop comedy;60
 prop comic;60
 prop comics;60
+proper channels;60
 Propertius;40;Sextus Propertius, Roman elegiac poet
 property is theft;60
 property owner;50
@@ -79661,7 +79673,11 @@ Pur;40;Brita competitor
 Purana;40;Hindu sacred text
 Puranas;40;Hindu scriptures
 Purcell;40;Henry Purcell, English Baroque composer
+purchased from;40
+purchase from;40
 purchase price;60
+purchases from;40
+purchasing from;40
 purdah;30;Muslim/Hindu practice of segregating women
 purdahs;30
 Purdue;50;Big Ten university in Indiana
@@ -97002,6 +97018,7 @@ superbugs;50
 Super C;40;Vicks vitamin C drink
 supercentenarian;60
 supercharger;60
+superchargers;60
 supercollider;50
 supercolliders;50
 supercomputer;60
@@ -105517,6 +105534,7 @@ two-l llama;40
 T-Wolves;20;Minnesota basketball player?
 Twombly;40;Painter Cy Twombly
 twoness;20
+two nothing;40
 two on;30
 two-one;40
 two-out;30
