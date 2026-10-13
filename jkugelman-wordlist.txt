@@ -5374,6 +5374,8 @@ Apple computers;60
 apple crate;60
 apple crates;60
 Applegate;40;Christina Applegate, actress
+Apple HomeView;60;Apple touchscreen smart speaker
+Apple HomeViews;60;Apple touchscreen smart speakers
 Apple iMac;60
 Apple iMacs;60
 Apple Inc;50
@@ -46375,6 +46377,8 @@ Homestuck;50;Sprawling Andrew Hussie webcomic
 home sweet;20
 home theater;50
 home theaters;50
+HomeView;50;Apple touchscreen smart speaker
+HomeViews;50;Apple touchscreen smart speakers
 Homey the Clown;60;"In Living Color" character
 Homi;20;Smart home device brand
 homicide;50
