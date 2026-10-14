@@ -1562,7 +1562,7 @@ adolesces;40
 adolescing;40
 Adolf;10
 Adolfo;30
-Adolfo Bioy Casares;50;Argentine novelist (1914–1999)
+Adolfo Bioy Casares;40;Argentine novelist (1914–1999)
 Adolph;30
 Adolphe;40;Adolphe Sax, saxophone inventor
 Adonai;40;God, in Hebrew
@@ -3154,6 +3154,8 @@ all-beef patties;60
 all-beef patty;60
 all bets are off;60
 all better;60
+all bran cereal;50
+all bran cereals;50
 All Bunny, New York;0
 all casual like;60
 all-consuming;60
@@ -29874,6 +29876,7 @@ Ecko;40;Marc Ecko, streetwear designer
 eclectic mix;60
 eclogue;40;Pastoral poem
 eclogues;40
+Eclogue X;30;Virgil poem
 ECMAScript;40;JavaScript
 ecnuoeno;0
 eco-;50
@@ -30372,6 +30375,7 @@ eighth-gen console;40
 eighth-gen consoles;40
 eighth-generation console;40
 eighth-generation consoles;40
+eighth wonders;50
 eightieth;50
 eight iron;50
 eight irons;50
@@ -30708,6 +30712,7 @@ Elko;30;Nevada city
 elkormoose;0
 Elks Lodge;50
 Elks lodge;0
+elk xing;40
 ell;30;L [common]
 Ella;50
 ella;40
@@ -33121,6 +33126,7 @@ experts believe;60
 expert's curse;60
 explainer;50
 explainers;50
+explain xkcd;20
 expletive;50
 expletives;50
 explicit content;60
@@ -56954,6 +56960,7 @@ LDL;40
 L-DOPA;40
 LDR;20
 LDS;40
+le;40
 lea;50
 Leachman;50;Cloris Leachman, actress
 Leacock;40;Early 1900s humorist Stephen Leacock
@@ -71218,6 +71225,7 @@ oh who am I kidding;0
 oh, why not?;60
 oh, woe is me;50
 oh woe is me;0
+oh wonderful;50
 oh yes I am;50
 oh yes I do;50
 oh yes I'm;20
@@ -72460,6 +72468,8 @@ open tabs;50
 open to;40
 open toes;30
 open up to;40
+open wound;50
+open wounds;50
 oper.;30
 opera aria;40
 opera arias;40
@@ -73682,6 +73692,8 @@ pachinko machines;60
 pachinko parlor;60
 pachinko parlors;60
 Pacifica;40;Chrysler minivan
+Pacific Ave.;50
+Pacific Avenue;50
 Pacific blue;50
 Pacific Ring of Fire;60
 pacing off;50
@@ -106011,6 +106023,7 @@ uglily;30;Weird adverb
 ugly as sin;60
 UglyDolls;40;Plush toy line and 2019 film
 ugly duckling;60
+ugly mug;50
 ugly stepsister;60
 ugly stepsisters;60
 ugly stick;60;Musical instrument
@@ -106038,6 +106051,7 @@ Uhry;30;Alfred Uhry, "Driving Miss Daisy" playwright
 uhs;40
 Uhura;40
 Uhuru;20;Swahili for "freedom"
+Uhuru Kenyatta;40;President of Kenya from 2013 to 2022
 UI;40
 UIC;20
 uie;20
@@ -106073,7 +106087,7 @@ ulcerative;40
 Ulee;20
 Ulee's;40;"Ulee's Gold," 1997 Peter Fonda film
 Ulf;30;Swedish PM Ulf Kristersson
-Ulf Kristersson;50;Swedish PM Ulf Kristersson
+Ulf Kristersson;40;Swedish PM Ulf Kristersson
 ullage;30;Liquid headspace
 ullages;20;Liquid headspaces
 Ulliel;40;Gaspard Ulliel, French actor
@@ -106173,6 +106187,7 @@ UMiami;40;University of Miami
 UMich;40;University of Michigan, informally
 umm;40
 Ummagumma;40;Pink Floyd album
+Umm Kulthum;40;Egyptian singer-songwriter and actress (1904–1975)
 UMN;30;University of Minnesota
 um, no;50
 um no;0
