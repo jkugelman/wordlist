@@ -54467,8 +54467,9 @@ Kiiara;40;Pop singer of "Gold"
 Kije;40;Lieutenant Kijé, Prokofiev suite
 Kijiji;40;Canadian classified ads site
 Kiki;40
-kikis;30;???
+Kiki's;40;"Kiki's Delivery Service", 1989 Studio Ghibli movie
 Kiki's Delivery Service;60;Studio Ghibli movie
+Kiki Smith;40;Artist (born 1954)
 Kikkoman;50;Soy sauce brand
 Kikuchi;40;Rinko Kikuchi, "Babel" actress
 Kikuyu;30;Kenyan ethnic group
