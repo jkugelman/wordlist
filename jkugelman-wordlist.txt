@@ -26662,7 +26662,9 @@ discases;20
 discasing;20
 disc drive;50
 disc drives;50
-disc golf;50
+disc golf;60
+disc golfer;60
+disc golfers;60
 Disch;40;Thomas M. Disch, science fiction author
 disci;30;Discuses
 disc jockey;60
@@ -37180,6 +37182,8 @@ Frinkiac;40;"Simpsons" screenshot search engine
 frío;40
 Fripp;40
 Frippertronics;50;Robert Fripp's tape-loop technique
+frisbee golf;60
+Frisbee golf;60
 Frisch;40;Max Frisch, Swiss writer / Frankie Frisch, Hall of Fame second baseman
 Frisco;40;San Francisco, informally
 Frisco, TX;30
@@ -40770,6 +40774,11 @@ Goldy;40;Goldy Gopher, Minnesota's mascot
 go left;30
 golf bag tag;60
 golf bag tags;60
+golf ball marker;50
+golfball-sized;60
+golfball-sized hail;60
+golf cap;50
+golf caps;50
 golf cart;60
 golf carts;60
 Golf Channel;60
@@ -40779,23 +40788,51 @@ golf-clapping;60
 golf claps;60
 golf club;60
 golf clubs;60
+golf course;60
+golf courses;60
+golf enthusiast;40
+golf enthusiasts;40
+golf equipment;50
+golfer's tan;60
+golfer's tans;60
+golf flag;50
+golf flags;50
 golf green;60
 golf greens;60
+golf lesson;60
+golf lessons;60
 golf major;60
 golf majors;60
+Golfo de Campeche;40;Bay of Campeche
+Golfo de Mexico;40;Gulf of Mexico
 golf pants;50
 golf pro;60
 golf pros;60
+golf pro shop;60
+golf pro shops;60
+golf range;50
+golf reservation;40
+golf reservations;50
+golf resort;50
+golf resorts;50
 golf score;40
 golf scores;40
 golf shirt;60
 golf shirts;60
 golf shoes;60
+golf shot;50
+golf shots;50
+golf simulator;60
+golf simulators;60
 golf spikes;50
 golf swing;60
 golf swings;60
 golf tan;60
 golf tans;60
+golf team;50
+golf teams;50
+golf tourney;50
+golf tourneys;50
 Golgi;30;Camillo Golgi, namesake of the cell apparatus
 Golgi apparatus;40
 Golgi apparatuses;40
@@ -49484,6 +49521,7 @@ indoor cat;60
 indoor cats;60
 indoor dog;60
 indoor dogs;60
+indoor golf;50
 indoor pool;50
 indoor pools;50
 indoor water park;60
@@ -51703,6 +51741,7 @@ Jacquards;40;Patterned woven fabrics
 Jacqueline;50;Common first name
 Jacques;50;Common French first name, as in "Frère Jacques"
 Jacques Demy;50;French New Wave film director
+Jacques-Étienne Montgolfier;50;Hot air balloon pioneering brother
 Jacques Lacan;40;French psychoanalyst and writer (1901–1981)
 Jacques Lucien Monod;40;Nobel-winning biologist
 Jacques Monod;40;Nobel-winning biologist
@@ -52831,6 +52870,7 @@ Jo's Boys;40;Final book in the "Little Women" series
 Jose;50;Common Spanish given name, as in José Altuve
 Jose Altuve;40;Astros second baseman
 Josef;40;Josef Albers, Bauhaus artist / Franz Josef, Austrian emperor
+josefmichelmontgolfier;0
 Joseline;40;Joseline Hernandez, reality TV star
 José Mujica;40;President of Uruguay from 2010 to 2015
 Jose Mujica;0
@@ -52841,6 +52881,7 @@ Joseph and the Amazing Technicolor Dreamcoat;60
 Joseph Heller;50
 Josephine;50;Josephine Baker, dancer, or Napoleon's empress
 Joseph Losey;40;Theater and film director (1909–1984)
+Joseph-Michel Montgolfier;50;Hot air balloon pioneering brother
 Josephs;40;Saint Joseph's, Philadelphia university / more than one Joseph
 Josephson;40;Brian Josephson, Nobel physicist of the Josephson junction
 Josephus;40;Flavius Josephus, ancient Jewish historian
@@ -62164,6 +62205,7 @@ Mario Batali;10;Sexual assault
 Mario Bros.;60
 Mario Bros;0
 Mario Cuomo;50;Governor of New York from 1983 to 1994
+Mario Golf;60
 Mario Kart;60
 Mario Lanza;50;Hollywood tenor
 Mariolatry;40;Excessive veneration of the Virgin Mary
@@ -64689,6 +64731,9 @@ Ming vase;60
 Ming vases;60
 Minh;40;Ho Chi Minh
 Minhaj;40;Hasan Minhaj, comedian
+miniature golf course;60
+miniature golf courses;60
+miniature golfing;50
 mini bagel;60
 mini bagels;60
 minibar;60
@@ -65729,6 +65774,7 @@ Montez;20;1800s dancer Lola
 Montezuma;50
 Montfort;40;Simon de Montfort, English parliamentary rebel
 Montgolfier;50;Hot air balloon pioneering brothers
+Montgolfiers;50;Hot air balloon pioneering brother
 Montgomery;50;Alabama's capital, or Elizabeth Montgomery of "Bewitched"
 Montgomery, AL;40
 monthlong;50
@@ -76892,6 +76938,8 @@ plastic art;60
 plastic arts;60
 plastic flamingo;60
 plastic flamingos;60
+plastic golf tee;50
+plastic golf tees;50
 plastic handcuffs;50
 Plasticine;50;Modeling clay
 plastic surgeon;50
@@ -79053,8 +79101,8 @@ professional boxer;50
 professional boxers;50
 professional boxing;50
 professional golf;50
-professional golfer;50
-professional golfers;50
+professional golfer;60
+professional golfers;60
 professional murderer;20
 professor;50
 professors;50
