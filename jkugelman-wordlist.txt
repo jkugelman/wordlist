@@ -37744,6 +37744,7 @@ FWD;40
 FWIW;40
 F W Murnau;50;"Nosferatu" director F. W. Murnau
 FXX;40;Cable channel
+FY;20
 FYI;40
 fylfot;20
 Fyodor;50;Fyodor Dostoevsky, "Crime and Punishment" author
@@ -47304,6 +47305,7 @@ HQ;40
 HQs;40;Headquarters
 HQ Trivia;30;Defunct trivia app
 HR;40
+hr.;40
 HRC;20
 HR derbies;30
 HR derby;30
@@ -48839,6 +48841,7 @@ Ilya;30
 Ilyich;40;Patronymic of Lenin and Tchaikovsky
 ILYSM;30;I love you so much
 I'm;50
+IM;40
 I'm a;20;I'm a partial
 Ima;0
 I'm a big fan;60
@@ -52243,6 +52246,7 @@ JCS;20
 jct.;20
 Jct.;0
 JCVD;40;Jean-Claude Van Damme
+J.D.;40
 JDate;50;Jewish dating site
 JD degree;40
 JD degrees;40
@@ -53836,7 +53840,8 @@ kazoo;50
 Kazooie;40;Banjo-Kazooie's video game bird
 kazoos;50
 Kazuo;40;Kazuo Ishiguro, Nobel-winning novelist
-kB;30
+kB;40
+KB;30
 KBBQ;40;Korean barbecue
 KBs;20
 KB Toys;40
@@ -54500,6 +54505,7 @@ Khusrau;30;Amir Khusrau, Indian poet, writer, singer and scholar (1253–1325)
 Khuzestan;40;Oil-rich Iranian province
 Khyber;40
 kHz;40
+ki;30
 Kia;50
 kia ora;40;Māori-language greeting
 Kias;40;Korean cars
@@ -55541,6 +55547,7 @@ K-State;40;Kansas State University
 K-Stew;40;Kristin Stewart
 K Street;40;Lobbyists' area in D.C.
 KSU;40
+kt.;20
 K-T event;40;Extinction event that killed the dinosaurs
 K-T extinction;40;It killed the dinosaurs
 K-T extinction event;40
@@ -58009,6 +58016,7 @@ Leymus arenaria;20;Species of grass
 Leyna;30;Model Leyna Bloom
 Leyster;40;Judith Leyster, Dutch Golden Age painter
 Leyte;40;Philippine island of the WWII gulf battle
+LF;20
 LFO;20
 LG;40
 LG 4K OLED TV;30
@@ -63341,6 +63349,7 @@ McWhirter;40;Norris and Ross McWhirter, Guinness Book of Records founders
 MCXC;20
 MCXI;20
 MCXL;20
+M.D.;40
 MD;40
 Mda;30;Zakes Mda, South African novelist, poet and playwright (born 1948)
 MDC;20
@@ -80281,6 +80290,7 @@ Q's;40;Minded things, with P's
 Q Score;40;In marketing, a way to measure the familiarity of an item
 Q Scores;40;In marketing, a way to measure the familiarity of an item
 QT;40
+qt.;40
 Q-tile;30
 Q-tiles;30
 qtr.;40
@@ -83672,6 +83682,7 @@ rezipping;40
 rezips;40
 Reznor;50
 Rf;40;Rutherfordium symbol
+RF;40
 RFC;20
 RFD;20
 RFID;40
@@ -105785,6 +105796,7 @@ txt;40
 txtspk;40;Text-message shorthand, written in itself
 txt talk;20
 Ty;40;Ty Cobb, or Ty Burrell
+TY;40
 Tybalt;40;"Romeo and Juliet" hothead
 Tyche;40;Greek goddess of fortune
 Tycho;40;Astronomer Tycho Brahe
@@ -112354,6 +112366,7 @@ Xbox Kinects;50
 Xbox Live;50
 Xbox One;50
 Xbox One X;50
+XC;30
 Xcel;40;Xcel Energy
 XCI;20
 XCOM;30
@@ -112532,6 +112545,7 @@ X-ray specs;60
 X-ray tube;50
 X-ray tubes;50
 X's;40;As in X's and O's
+XS;40
 xsand;0
 X's and O's;40
 Xscape;40;R&B group with "Just Kickin' It"
