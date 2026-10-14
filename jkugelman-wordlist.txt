@@ -1486,6 +1486,8 @@ Adiga;40;Aravind Adiga, author of "The White Tiger"
 a dilly of a pickle;60
 ad in;40;Tennis score
 Adina;20;Donizetti heroine, not used since 1991
+Adina Howard;40;1990s singer and songwriter (born 1973)
+Adina Porter;40;Actress in "True Blood" and "The Newsroom"
 ad initium;50
 adiós;40
 adiós amiga;40
@@ -3351,6 +3353,7 @@ ally with;40
 alma;40
 Alma-Ata;20
 Almaden;30
+Al Madinah;40;Saudi Arabian city, second holiest city in Islam after Mecca
 Almagest;40;Ptolemy mathematical and astronomical treatise
 alma maters;30
 almandine;40
@@ -8392,6 +8395,10 @@ bad heart;50
 bad idea;60
 bad impression;50
 bad impressions;50
+badinage;40;Playful banter
+badinaged;30;Engaged in playful banter
+badinages;30;Engages in playful banter
+badinaging;30;Engaging in playful banter
 Badiou;40;Alain Badiou, French philosopher
 bad kisser;60
 bad kissers;60
