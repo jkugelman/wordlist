@@ -1313,6 +1313,7 @@ acyrologia;20;Malapropism
 ad;50
 AD 1;40;First year of the Common Era
 Ada;50
+ADA;40;American Dental Association / assistant district attorney
 a dab;30
 Adad;20;Babylonian storm god
 Ada Deer;40;Native American scholar and politician (1935–2023)
@@ -2953,6 +2954,7 @@ Alex Trebek;50
 ale yeast;50
 ale yeasts;50
 Alf;40
+ALF;40
 Alfa;40
 alfalfas;30
 Alfas;40;Alfa Romeos
@@ -7329,7 +7331,8 @@ at symbol;50
 at symbols;50
 AT&T;40;Telecommunications company
 ATT;40;Attempts, football stat
-att.;0
+att.;40
+att;0
 atta;40
 attaboy;60
 attached a towbar;0
@@ -8220,6 +8223,7 @@ backed a candidate;50
 backed in a corner;50
 backed into;40
 backed into a corner;60
+backed up to;30
 backfill;50
 backfilled;50
 backfilling;50
@@ -8238,6 +8242,7 @@ back in a sec;60
 backing a candidate;50
 backing into;40
 backing into a corner;60
+backing up to;30
 back in my day;60
 back in the game;60
 back in the saddle;60
@@ -8269,6 +8274,7 @@ backslang;60
 back so soon?;50
 back so soon;0
 backspins;40
+backs up to;30
 back tat;60
 back tats;60
 back tattoo;60
@@ -8294,6 +8300,7 @@ backup QBs;50
 backup singer;60
 backup singers;60
 back up the truck;50
+back up to;30
 Backus;40;Jim Backus, voice of Mr. Magoo / John Backus, FORTRAN creator
 backwards day;60
 Backxwash;40;Zambian-Canadian rapper
@@ -12413,6 +12420,8 @@ blue-ribbon commission;60
 blue-ribbon commissions;60
 blue-ribbon committee;60
 blue-ribbon committees;60
+blue ribbon report;60
+blue ribbon reports;60
 blue ribbons;60
 blue rinse;60;Hair coloring
 blue rinses;60;Hair colorings
@@ -14761,6 +14770,7 @@ building blocks;50
 building consensus;60
 building on;40
 building support;50
+building up momentum;50
 Build Me Up Buttercup;60
 build on;40
 build or buy;60
@@ -14769,6 +14779,8 @@ builds a consensus;50
 builds a fire;50
 builds consensus;60
 builds on;40
+builds up momentum;50
+build up momentum;50
 built a consensus;50
 built a fire;50
 built consensus;60
@@ -14776,6 +14788,7 @@ built-in bra;60
 built-in bras;60
 built into;40
 built on;40
+built up momentum;50
 Bujold;40;Geneviève Bujold, actress / Lois McMaster Bujold, sci-fi writer
 Bujumbura;50;Largest city of Burundi
 Bukhara;40;Silk Road city in Uzbekistan
@@ -15291,6 +15304,8 @@ button mashers;60
 button mashes;60
 button mashing;60
 buttons one's lip;50
+button-up shirt;60
+button-up shirts;60
 butt out;60
 butt out of it;60
 butt plug;10
@@ -17481,14 +17496,18 @@ caul;30;Various rare meanings
 Caulfield;50;Holden Caulfield, "The Catcher in the Rye" narrator
 causal loop;60
 causal loops;60
+cause a nuisance;40
 cause a riot;50
+caused a nuisance;40
 caused a riot;50
 causer;30
 causerie;30;Informal literary article or talk
 causeries;30;Informal literary articles or talks
 causers;30
+causes a nuisance;40
 causes a riot;50
 causeys;20
+causing a nuisance;40
 causing a riot;50
 cautery;30;Instrument used for cauterizing
 caution tape;60
@@ -17911,6 +17930,7 @@ cerates;30;Medicated pastes
 CeraVe;40;Skincare brand
 Cerberean;40;Of Cerberus, the three-headed dog
 Cerberus;50;Three-headed guard dog of Hades
+cereal and milk;40
 cereal bar;50
 cereal bars;50
 cerebra;40
@@ -18886,8 +18906,8 @@ Chidi;30;Chidi Anagonye, character on "The Good Place"
 chief constable;50
 chief constables;50
 chiefer;20;Nonstandard comparative of "chief"
-chief executive officer;50
-chief executive officers;50
+chief executive officer;60
+chief executive officers;60
 chief executives;50
 chief financial officer;50
 chief financial officers;50
@@ -19765,11 +19785,15 @@ clamored for;40
 clamor for;40
 clamoring for;40
 clamors for;40
+clamped eyes on;40
 clamped on;40
 Clampett;50;Jed Clampett of "The Beverly Hillbillies"
 Clampetts;50;"The Beverly Hillbillies" family
+clamp eyes on;40
+clamping eyes on;40
 clamping on;30
 clamp on;40
+clamps eyes on;40
 clamps on;40
 Clancy;50;Tom Clancy, thriller novelist / Clancy Wiggum of "The Simpsons"
 clang clang clang;40
@@ -22485,6 +22509,7 @@ CPAP machines;60
 CPAPs;40;Sleep apnea machines
 CPAs;40
 CPI;20
+CPK;20;California Pizza Kitchen
 Cpl.;40
 Cpl;0
 Cpls.;40;Corporals, briefly
@@ -23507,6 +23532,7 @@ cup noodles;0
 cup of cocoa;50
 cup of milk;50
 cup of mud;60
+cup of noodles;60
 cup o' joe;60
 cup one's hands;50
 Cup o' Noodles;60
@@ -29600,6 +29626,9 @@ Eastham;40;Massachusetts town
 East India Company;60
 easting;30
 eastings;30
+East Lansing, MI;40
+East Lansing, Michigan;50
+East Lansing Michigan;0
 Eastman;40;George Eastman, Kodak founder
 Easton;40;Pennsylvania city, or singer Sheena Easton
 East Orange;40;New Jersey city
@@ -29770,6 +29799,7 @@ EBITDA;30;Earnings before interest, taxes, depreciation and amortization
 e-blast;20
 e-blasts;20
 EBN;20
+Ebo;20
 Ebola;50;Deadly hemorrhagic virus
 Eboli;30;Italian town of "Christ Stopped at Eboli"
 ebon;40
@@ -30069,6 +30099,8 @@ Edwardians;50;People of Edward VII's era
 Edward II;30
 Edward IV;30
 Edwards;50;Blake Edwards, director / Anthony Edwards, actor
+Edward S. Curtis;40;Ethnologist and photographer (1868–1952)
+Edward S Curtis;0
 Edward V;30
 Edward VI;30
 Edward VII;30
@@ -34209,6 +34241,7 @@ fear is the mind-killer;60
 fearless leader;50
 fearless leaders;50
 fearmonger;60
+fear of God;60
 fear of needles;50
 Fearow;40;Pokémon
 fears for;40
@@ -34722,6 +34755,7 @@ Fibonacci;50;Italian mathematician of sequence fame
 Fibonacci series;50
 fibrinous;40
 fibroma;40
+fic;40;Fiction
 FICA score;60
 FICA scores;60
 Fichte;40;Johann Gottlieb Fichte, German idealist philosopher
@@ -37359,6 +37393,8 @@ frying up;40
 fry up;40
 fry-up;40
 F's;40;As in "F's in the chat"
+FSA;40;Flexible spending account
+FSAs;40;Flexible spending accounts
 F scale;30
 F scales;30
 FSH;20
@@ -37582,6 +37618,7 @@ fundraising;60
 fundraising drive;60
 fundraising drives;60
 Fundy;40;Bay of Fundy, home of the world's highest tides
+Funeral in Berlin;50;1964 spy novel by Len Deighto
 Funfetti;60
 fungaria;50
 fungarium;50;Fungus collection
@@ -38382,6 +38419,7 @@ gave a hand;50
 gave air to;40
 gave a lift;50
 gave a piece of one's mind;60
+gave a say;50
 gave a say to;40
 gave a statement;60
 gave a wide berth;60
@@ -38986,6 +39024,8 @@ get attached;40
 get attached to;40
 getaway car;60
 getaway driver;60
+getaway spot;60
+getaway spots;60
 getaway vehicle;60
 get a word in edgewise;60
 get back;50
@@ -39812,6 +39852,7 @@ give a hand;50
 give air to;40
 give a lift;50
 give a piece of one's mind;60
+give a say;50
 give a say to;40
 give a statement;60
 give a wide berth;60
@@ -39831,6 +39872,7 @@ give me a ring;60
 give me one good reason;60
 Give Me One Reason;60
 give me some space;60
+given a say;50
 given a say to;40
 given a statement;50
 given a wide berth;60
@@ -39849,6 +39891,7 @@ gives a hand;50
 gives air to;40
 gives a lift;50
 gives a piece of one's mind;60
+gives a say;50
 gives a say to;40
 gives a statement;60
 gives a wide berth;60
@@ -39890,6 +39933,7 @@ giving a hand;50
 giving air to;40
 giving a lift;50
 giving a piece of one's mind;60
+giving a say;50
 giving a say to;40
 giving a statement;60
 giving a wide berth;60
@@ -40406,6 +40450,7 @@ goes full diva;60
 goes generic;50
 goes gold;50
 goes green;50
+goes halfsies on;60
 goes ham;60
 goes hard;50
 goes Hollywood;60
@@ -40519,6 +40564,7 @@ go green;50
 go green or go home;60
 go gunning for;20
 Goguryeo;40;Ancient Korean kingdom
+go halfsies on;60
 go ham;60
 go hard;50
 go Hollywood;60
@@ -40577,6 +40623,7 @@ going full diva;60
 going generic;50
 going gold;40
 going green;50
+going halfsies on;60
 going ham;60
 going hard;50
 going Hollywood;60
@@ -43129,6 +43176,7 @@ haggle with;40
 haggling;50
 haggling with;40
 Hagia;30
+hagiolatry;40;Worship of saints
 Hagler;40;Boxer "Marvelous" Marvin Hagler
 Hagman;40;Larry Hagman, J.R. Ewing on "Dallas"
 Hagrid;10;Harry Potter
@@ -43155,6 +43203,7 @@ Hailee;40;Actress/singer Hailee Steinfeld
 Hailey;40
 hail from;50
 hailing from;50
+hail insurance;50
 hail of bullets;60
 hails from;50
 hail to;20
@@ -44820,6 +44869,7 @@ Heidelberg;50;German university city
 Heiden;40;Speedskater Eric Heiden with five golds in 1980
 Heidi;50;Heidi Klum, model / Spyri's Alpine orphan
 Heifetz;40;Jascha Heifetz, violin virtuoso
+height and weight;50
 Heigl;40;Katherine Heigl, "Grey's Anatomy" actress
 Heilbronn;40;German city on the Neckar
 Heilongjiang;40;Northeastern Chinese province
@@ -48537,6 +48587,7 @@ II Peter;20
 IIRC;30;If I remember correctly [NYT debut]
 IIS;20
 iissllaanndd;0
+IIT;20;Indian Institutes of Technology
 Ijames;40;James Ijames, "Fat Ham" playwright, 2022 Pulitzer winner
 IJBOL;20
 Ijeoma;40;Ijeoma Oluo, "So You Want to Talk About Race" author
@@ -49012,6 +49063,7 @@ I'm not afraid of you;60
 I'm not a robot;60;CAPTCHA checkbox
 I'm not a scientist;60
 I'm not buying it;60
+I'm not choosy;60
 I'm not complaining;60
 I'm not dead;60
 I'm not dead yet;60
@@ -49104,6 +49156,7 @@ imposed on;40
 impose on;40
 imposes on;40
 imposing on;40
+impossible to say;60
 impost;40;Compulsory tax
 impostor syndrome;60
 imprecate;30
@@ -49153,6 +49206,7 @@ imputed to;40
 imputes to;40
 impute to;40
 imputing to;40
+I'm quite sure;60
 Imran;40;Imran Khan, Pakistani PM 2018-2022
 Imran Khan;40
 Imre;40;Imre Nagy, Hungarian PM / Imre Kertesz, Nobel novelist
@@ -49892,6 +49946,7 @@ inq.;20
 Inq.;0
 in radio range;50
 In Rainbows;60
+in rarefied air;60
 in re;40
 in reason;20
 in recent years;50
@@ -50157,6 +50212,7 @@ in the right headspace;60
 in the right place at the right time;60
 in the right place at the wrong time;60
 in the rough;50
+in the slammer;50
 in the tank;60
 In the Time of the Butterflies;60;1994 historical fiction novel by Julia Alvarez
 in the wash;50
@@ -50421,6 +50477,7 @@ IQ testing;30
 Iquique;40;Port city in northern Chile
 Iquitos;40;Peruvian Amazon city, reachable only by boat or plane
 Ira;50
+IRA;40
 Ira Allen;40;Founder of Vermont, brother of Ethan Allen
 Irabu;40;Pitcher Hideki Irabu, first Japanese-born player to win a World Series (won 1998 & 1999 w/Yankees)
 irade;20;Muslim decree
@@ -51275,6 +51332,7 @@ it's been a long time;60
 it's been a minute;60
 it's been fun;60
 it's been one of those days;60
+it's beneath me;60
 it's classified;60
 it's crazy;60
 it's dope;50
@@ -53080,6 +53138,7 @@ Julius Onah;50;Julius Onah, director of Captain America: Brave New World
 Jully;40;Jully Black, Canadian R&B singer
 Jul Maroh;50;"Blue Is the Warmest Color" cartoonist
 July;50;Seventh month
+July IV MDCCLXXVI;50;Inscription on the Statue of Liberty
 Julys;20
 Jumanji;50;Board game movie franchise
 jumbled thought;50
@@ -53503,6 +53562,7 @@ Kantor;40;Jodi Kantor, "She Said" journalist
 Kanye spare a dime;0
 Kanye West;10
 kanyewestjayzbigsean;0
+Kao;20
 Kaohsiung;40;Taiwan's southern port city
 kaolinite;30;Mineral
 kaon;30;Subatomic particle
@@ -53894,6 +53954,7 @@ keeping one's powder dry;50
 keeping one's shirt on;50
 keeping one's side of the bargain;50
 keeping one's word;50
+keeping on ice;60
 keeping pace;50
 keeping pace with;50
 keeping secret;60
@@ -53937,6 +53998,7 @@ keep one's powder dry;50
 keep one's shirt on;50
 keep one's side of the bargain;50
 keep one's word;50
+keep on ice;60
 keep-out sign;60
 keep-out signs;60
 keep pace;50
@@ -53983,6 +54045,7 @@ keeps one's powder dry;50
 keeps one's shirt on;50
 keeps one's side of the bargain;50
 keeps one's word;50
+keeps on ice;60
 keeps pace;50
 keeps pace with;50
 keeps secret;60
@@ -54176,6 +54239,7 @@ kept one's powder dry;50
 kept one's shirt on;50
 kept one's side of the bargain;50
 kept one's word;50
+kept on ice;60
 kept pace;50
 kept pace with;50
 kept secret;60
@@ -56713,8 +56777,11 @@ lavs;40
 L'Avventura;40;Antonioni film
 law;50
 LaWanda;40;LaWanda Page of "Sandford and Son"
+Law and Order;60
 law clerk;60
 law clerks;60
+law enforcement agencies;60
+law enforcement agency;60
 law firm;60
 law firms;60
 Lawford;40;Peter Lawford, Rat Pack actor
@@ -56733,6 +56800,7 @@ law of attraction;50
 Law of Moses;60
 law of the excluded middle;60
 law of thermodynamics;60
+Law & Order;60
 law professor;60
 law professors;60
 Lawrence;50;D. H. Lawrence, novelist / Ernest Lawrence, cyclotron inventor
@@ -58172,6 +58240,7 @@ Lifehouse;40;Band behind "Hanging by a Moment"
 life is a mystery;50
 life is not all beer and skittles;60
 life isn't fair;60
+life is tough;50
 life lesson;60
 life lessons;60
 lifelong learners;60
@@ -58809,6 +58878,7 @@ lived happily ever after;60
 lived high off the hog;60
 lived high on the hog;60
 lived-in;40
+lived in denial;60
 lived it up;60
 lived on;50
 lived one's life;50
@@ -58825,6 +58895,7 @@ live happily ever after;60
 live high off the hog;60
 live high on the hog;60
 live-in;50
+live in denial;60
 live it up;60
 LiveJournal;50;Early blogging site
 LiveJournals;40;Old-school blogging accounts
@@ -58855,6 +58926,7 @@ lives happily ever after;60
 lives high off the hog;60
 lives high on the hog;60
 lives in;40
+lives in denial;60
 lives it up;60
 lives on;50
 lives one's life;50
@@ -58884,6 +58956,7 @@ living hell;60
 living high off the hog;60
 living high on the hog;60
 living in;40
+living in denial;60
 living it up;60
 living on;50
 living on borrowed time;60
@@ -60797,6 +60870,7 @@ made by hand;60
 made corrections to;40
 made do with;40
 made ends meet;60
+made excellent time;60
 made faces;50
 made for;40
 made from scratch;60
@@ -60966,6 +61040,7 @@ magical thinking;60
 magic bean;60
 magic beans;60
 Magic Bus;50
+Magic Eight Balls;60
 magician;60
 magicians;60
 Magician Smurf;60
@@ -61275,6 +61350,7 @@ make do;50
 make-do;50
 make do with;40
 make ends meet;60
+make excellent time;60
 make faces;50
 make good;50
 make good on;50
@@ -61350,6 +61426,7 @@ makes do with;40
 makes ends meet;60
 make sense;50
 make sense of;50
+makes excellent time;60
 makes faces;50
 makes from scratch;60
 makes good;50
@@ -61458,6 +61535,7 @@ making by hand;60
 making corrections to;40
 making do with;40
 making ends meet;60
+making excellent time;60
 making faces;50
 making from scratch;60
 making good;50
@@ -66097,6 +66175,7 @@ Morton;40;Morton Salt, or Jelly Roll Morton, jazz pioneer
 Morty;50
 Morvern;40;Morvern Callar, novel and film title character
 MOs;40
+mos.;40
 mosaic art;60
 Mosaic law;60;Law of Moses
 mosasaur;40;Extinct aquatic reptile
@@ -66585,6 +66664,7 @@ MSN;40
 MSNBC;40
 Ms. Noodle;40;"Sesame Street" character
 MS NOW;40
+MSP;30;Minneapolis–Saint Paul
 M Squad;30;Old TV show
 Ms. Rachel;60;Incredibly popular children's YouTuber
 Ms Rachel;0
@@ -67871,6 +67951,7 @@ Neanderthals;60
 Neapolitan;50;Three flavor ice cream, or of Naples
 Neapolitans;50;Naples natives
 near and dear;60
+near and wide;50
 near at;20
 near beer;60
 near beers;60
@@ -69710,6 +69791,7 @@ Nothing Else Matters;60;1992 single by Metallica
 nothing else matters;50
 nothing fancy;60
 nothing in common;50
+nothing in particular;60
 nothing is as it seems;60
 nothing is sacred;60
 nothing is set in stone;60
@@ -70934,6 +71016,7 @@ off-tone;40;Off-key, dissonant
 Ofili;30;Chris Ofili, British painter
 ofiwo;20
 O'Flaherty;40;Liam O'Flaherty, Irish novelist
+of no effect;40
 ofo;20
 of old;50
 of one's own accord;50
@@ -71160,6 +71243,8 @@ oil pipeline;50
 oil pipelines;50
 oil platform;50
 oil platforms;50
+oil-rich countries;50
+oil-rich country;50
 oil rig;50
 oil rigs;50
 oil rig worker;50
@@ -71343,6 +71428,7 @@ Old Dominion;60
 Old Eli;40;Nickname for Yale
 Oldenburg;30;German city
 older pipes;20;Green paint
+olde worlde;50
 old fart;60
 old favorite;60;Something loved since way back when
 old favorites;60
@@ -71456,6 +71542,8 @@ Olga Ravn;50;Danish poet and novelist
 ol' heave-ho;60
 olid;20
 Oligocene;30;Epoch
+oligopsonies;40;Market structures with few buyers
+oligopsony;40;Market structure with few buyers
 Olin;40;Actress Lena Olin
 Olinda;30;Brazilian city, UNESCO World Heritage site
 O-line;40
@@ -71682,6 +71770,7 @@ oncee;20
 Once-ler;50
 Once Upon a Time in Hollywood;60
 Once Upon a Time in the West;60
+once was enough;50
 once you get;20
 once you pop, you can't stop;60
 oncle;30;French for uncle
@@ -71694,6 +71783,7 @@ on D;20
 Ondaatje;40;Michael Ondaatje, "The English Patient" author
 on dates;30
 onde;20;Wave: Fr.
+on death's door;60
 Ondine;40;2009 Colin Farrell movie
 on disc;40
 on dope;10
@@ -71880,6 +71970,7 @@ one plus one;0
 one PM;50
 one potato;50
 one pound;30
+one pound sterling;50
 one-punch;20
 oner;40;Long, uninterrupted take
 ONERA;20
@@ -72279,6 +72370,8 @@ opened Pandora's box;60
 opened up to;40
 open-end;40;Like a fund or loan that can be added to
 openest;30
+open field tackle;50
+open field tackles;50
 open fire;50
 open fire on;40
 open grill;50
@@ -74463,12 +74556,14 @@ Passage to India;50
 Passaic;40;New Jersey city
 pass a law;40
 Passamaquoddy;50;Indigenous nation of Maine
+pass a measure;50
 pass as;40
 Passat;40;VW sedan
 Passats;40;VW models
 pass by;40
 Passchendaele;50;Muddy WWI battle
 passed a law;40
+passed a measure;50
 passed as;40
 passed by;40
 passed for;40
@@ -74481,6 +74576,7 @@ passed the popcorn;60
 passed the smell test;60
 passed to;40
 passes a law;40
+passes a measure;50
 passes as;40
 passes by;40
 passes for;40
@@ -74498,6 +74594,7 @@ pass gas;40
 passim;30;Here and there, used in footnotes
 passing;50
 passing a law;40
+passing a measure;50
 passing as;40
 passing by;40
 passing for;40
@@ -75326,6 +75423,9 @@ Pensees;30
 Pensieve;60
 pens in;40
 penta-;40;Prefix
+pentahedra;40
+pentahedron;40
+pentahedrons;40
 pentane;40
 pentangle;30
 pentangles;30
@@ -75355,6 +75455,7 @@ Penzias;30;Physicist Arno Penzias who discovered the cosmic microwave background
 peones;20
 people food;60
 people of color;60
+people of interest;50
 people of substance;60
 people pleaser;60
 people pleasers;60
@@ -76169,9 +76270,11 @@ Picchu;40;Machu Picchu, Incan citadel
 pick a card;60
 pick a card, any card;60
 pick a card any card;0
+pick a door;60
 pick an it;50
 pick apart;50
 pick at;40
+picked a door;50
 picked an it;50
 picked apart;50
 picked at;40
@@ -76187,6 +76290,7 @@ Pickens;30
 Pickett;40
 Pickett's;40;Pickett's Charge, doomed Gettysburg assault
 Pickford;50;Mary Pickford, silent film star
+picking a door;50
 picking an it;50
 picking apart;50
 picking at;40
@@ -76212,6 +76316,7 @@ pickpocket;50
 pickpocketed;50
 pickpocketing;50
 pickpockets;50
+picks a door;50
 picks and shovels;50
 picks an it;50
 picks apart;50
@@ -77184,6 +77289,7 @@ pleasanter;40
 pleasantest;40
 Pleasant Island;60;Former name of Naoero / Nauru
 Pleasantville;50;1998 Tobey Maguire film
+please, allow me;60
 please be patient;60
 please be right;60
 please do;60
@@ -79396,6 +79502,7 @@ psi;50
 Psi Omega;30
 psis;40
 psittacine;30;Of parrots
+PSL;20;Pumpkin spice latte
 Psmith;30;Rupert Psmith, recurring P. G. Wodehouse character
 PSP;20
 PSPs;40;Sony PlayStation Portables
@@ -84286,6 +84393,8 @@ RNAs;20
 RNC;40
 RNCs;30;Republican National Committees, in brief
 rnd.;20
+RNG;30;Random number generator
+RNGs;30;Random number generators
 rnh;20
 R 'n' R;20
 RNs;40
@@ -94563,6 +94672,8 @@ sry;40
 SSA;40;Social Security Administration
 ssam;30;Korean-style food wrap
 sscceennee;0
+SSD;30
+SSDs;30
 SSE;30
 sseldees;0
 ssenigde;0
@@ -100677,6 +100788,7 @@ the ESPYs;40
 the eternal question;60
 the EU;40
 the euro;30
+the evil empire;60
 the expert's curse;60
 the eye;40;Dirty look
 The Eye;0
@@ -100830,7 +100942,7 @@ the Ides;30
 The Illinois Fighting Illini;50;Athletics teams of the University of Illinois Urbana-Champaign
 the illusion of choice;60
 their;50
-the IRA;20
+the IRA;40
 their loss;60
 the Iron Age;40
 the iron chef;20
@@ -102972,6 +103084,7 @@ to come;40;In store
 Tocqueville;50;Alexis de Tocqueville, "Democracy in America" author
 tocsin;20;Alarm bell, archaic
 Tod;20
+today I learned;60
 today only;50
 today's;30
 Todd;50;Common name, as in Sweeney Todd or Mary Todd Lincoln
@@ -104832,6 +104945,7 @@ trust the process;60
 trust to;40
 trust us;50
 truth be told;60
+truth in lending;50
 truth of the matter;60
 truth of the matter is;60
 Truth or Consequences;60
@@ -109300,6 +109414,7 @@ Weakling Smurf;60
 weak sauce;60
 weak side;50
 weal;40;Red, swollen mark
+we all good;60
 weals;40
 weaner;30
 weaners;30
@@ -109824,6 +109939,7 @@ went full diva;60
 went generic;50
 went gold;50
 went green;50
+went halfsies on;60
 went ham;60
 went hard;50
 went Hollywood;60
@@ -110873,6 +110989,8 @@ why don't you give it a go?;60
 why don't you make like a tree and get out of here?;60
 why don't you make me;60
 why else;50
+why even bother?;60
+why even bother;0
 why hast thou forsaken me?;60
 why, I'd be delighted;60
 why I never;60
@@ -111023,6 +111141,8 @@ Wilberforce;50;William Wilberforce, British abolitionist
 Wilbur;50;Wilbur Wright, aviation pioneer / "Charlotte's Web" pig
 Wilburys;40;Traveling Wilburys, Dylan and Harrison's supergroup
 Wilcox;40;Ella Wheeler Wilcox, "Solitude" poet
+wild-ass guess;60
+wild-ass guesses;60
 wild boar;50
 wild boars;50
 wild card playoff;60
