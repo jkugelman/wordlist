@@ -1162,6 +1162,7 @@ acre-inch;50;Unit of volume in crop irrigation
 Acrisius;40;Danaë's father in Greek myth
 acritical;40;Not critical
 acro-;30
+acronym and initialism;20
 acropetal;40;Botany word
 Across the Spider-Verse;60
 a crying shame;50
@@ -49759,8 +49760,13 @@ Inishmaan;40;Aran island of "The Cripple of Inishmaan"
 Inishmore;40;Largest Aran island
 Initech;50;"Office Space" company
 in it for the long haul;60
-initial reaction;50
-initial reactions;50
+initial here;60
+initial opportunity;50
+initial print run;50
+initial public offering;60
+initial public offerings;60
+initial reaction;60
+initial reactions;60
 initio;40
 in its infancy;60
 in jars;40
@@ -69236,6 +69242,7 @@ no me gusta;60
 nomen;20;Ancient Roman's middle name
 no mess;40
 Nomi;30;Nomi Malone, main character of "Showgirls" / Klaus Nomi, German countertenor (1944–1983)
+no middle initial;50
 Nomi Malone;50;Main character of "Showgirls"
 nomine;40
 Nomo;40;Star pitcher Hideo
