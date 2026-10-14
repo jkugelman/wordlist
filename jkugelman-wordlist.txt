@@ -2004,6 +2004,7 @@ Afton;40;"Sweet Afton," the Burns poem river / Five Nights at Freddy's family
 afts;40
 a funny;20
 a funny thing happened;20
+Ag;40
 AG;40
 Aga;20
 Agadir;40;Moroccan port city
@@ -24637,6 +24638,7 @@ Dazai;30;Osamu Dazai, author of "No Longer Human"
 DAZN;20;English sports streaming platform
 Dazs;40;Haagen-Dazs half
 dazzle camouflage;60
+dB;40
 DB;40
 DBA;20
 D-back;40
