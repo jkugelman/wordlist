@@ -28938,7 +28938,7 @@ dry suits;60
 dry texting;60
 Dr Zaius;50
 D's;40;Maccy D's, or bad grades
-DSA;20
+DSA;30;Democratic Socialists of America
 DSC;20
 D scale;30
 D scales;30
