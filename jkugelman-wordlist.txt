@@ -47136,11 +47136,27 @@ HOV;40
 Hova;40;Jay-Z nickname
 Hovhaness;40;Alan Hovhaness, American composer
 how;50
+how about a drink?;60
+how about a hand?;60
+how about a hand;0
+how about it?;60
+how about it;0
+how about never;60
 how about no;60
-how about that;60
+how about now?;60
+how about now;0
+how about that?;60
+how about that;0
+how about them apples?;60
 how about we start over?;60
+how about you?;60
+how about you;0
+how all;20
+how am;20
+how am I?;50
 how am I doing?;60
 how am I doing;0
+how and why;50
 Howard;50;Ron Howard, director / Howard University
 Howardena;40;Howardena Pindell, abstract painter
 Howard Hesseman;40;Actor in "WKRP in Cincinatti" and "Head of the Class"
@@ -47155,6 +47171,18 @@ how 'bout we start over?;60
 how can I;60
 how can I delete someone else's comment?;60
 how can I delete someone else's post?;60
+how can I help?;60
+how can I help;0
+how can I help you?;60
+how can I refuse?;60
+how can I refuse;0
+how can I resist?;60
+how can I resist;0
+how can I say no?;60
+how can that be?;60
+how can that be;0
+how can you sleep at night?;60
+how can you sleep at night;0
 how cool;60
 how cool is that?;60
 how cool is that;0
@@ -47162,40 +47190,65 @@ how could I be so naive?;60
 how could I be so naive;0
 how could I forget?;60
 how could I forget;0
-how could I not;60
+How Could I Let You Get Away;50;1972 single by The Spinners
+how could I not?;60
+how could I not;0
+how could I refuse?;60
+how could I refuse;0
+how could I say no?;60
 how could you forget?;60
 how could you forget;0
 how cute;60
 howdah;20
 howdahs;20
 How Deep Is the Ocean?;50;1932 song written and composed by Irving Berlin
+How Deep Is the Ocean;0
 how delicious;60
 how delightful;60
+how'd he do that?;50
 how did I miss that?;60
 how did I miss that;0
-how did you guys meet?;50
+how did I not see it?;60
+how did I not see it;0
+how did it go?;50
+how did it go;0
+how'd I do?;50
+how did you do that?;60
+how did you guys meet?;60
 how did you guys meet;0
-how did you two meet?;50
+how did you know?;60
+how did you know;0
+how did you two meet?;60
 how did you two meet;0
-how'd it go;60
+how'd it go?;60
+how'd it go;0
 how does he do it;60;"What's that man's secret?!"
 how does it feel;60
+how does it go again?;60
+how does it go again;0
 how does that even happen?;60
 how does that even happen;0
 how does that grab you?;60
+how does that grab you;0
 How Does That Grab You, Darlin'?;50;1966 song by Nancy Sinatra
 how does that look?;60
+how does that look;0
 how does that make you feel?;60
 how does that make you feel;0
 how does this look?;60
+how does this look;0
 how does this sound?;60
 how does this sound;0
 how do I delete someone else's comment?;60
 how do I delete someone else's post?;60
+how do I look?;60
+how do I look;0
 How Do I Make You;50;1980 single by Linda Ronstadt
 how do you;20
-how do you like that;60
-how do you like them apples;60
+how do you like that?;60
+how do you like that;0
+how do you like them apples?;60
+how do you like them apples;0
 how'd you guys meet?;50
 how'd you guys meet;0
 how'd you miss that?;60
@@ -47208,11 +47261,19 @@ how else;50
 Howerton;50
 Howery;40;Lil Rel Howery, "Get Out" actor
 how exactly;60
+How Far Is It to Bethlehem?;50;Hymn
+howfaritistobethlehem;0
+how fascinating;50
 how gauche;60
 how goes it?;60
 how goes it;0
 Howie;50;Howie Mandel, comedian, among others
 How I Learned to Stop Worrying and Love the Bomb;60;"Dr. Strangelove" subtitle
+how interesting;50
+how in the hell?;60
+how in the hell;0
+how in the world?;60
+how in the world;0
 how is it;60
 how is that even possible?;60
 how is that even possible;0
@@ -47230,19 +47291,42 @@ howl at;40
 howled at;40
 Howlin';40;Howlin' Wolf, blues great
 howling at;40
+how low can you go?;60
+how low can you go;0
 howls at;40
 Howl's Moving Castle;60;Studio Ghibli movie
 how lucky am I?;60
+how lucky am I;0
 how many is that?;50
 how many times?;60
 how many was that?;50
+how may I help you?;60
+how men;20
+how meta;60
 how much do I owe you;60
+how much is it?;50
+how much is it;0
 how much is that?;50
+how much is that;0
+how much longer?;50
+how much longer;0
+how much longer is it?;60
+How much longer is it?;0
+how much longer will it be?;60
+how much wood could a woodchuck chuck?;60
+how much wood could a woodchuck chuck;0
 how neat is that?;50
 how neat is that;0
+how nice for you;50
+how now brown cow;60;Phrase used in elocution
 how're;50
 how revolting;60
+how ridiculous;50
+how right you are;60
+how romantic;60
+how R U?;40
 how RU?;40
+how R U;0
 how rude;60
 how sad;60
 how sad is that?;60
@@ -50830,6 +50914,8 @@ is it art;0
 Is It Cake?;60;2022 television game show
 Is It Cake;0
 is it done yet;60
+is it going to be much longer?;60
+is it gonna be much longer?;60
 is it him?;40
 is it hot in here?;60;Tie-puller's complaint
 is it me;50;"Am I the problem?"
@@ -111260,6 +111346,7 @@ Willis;50;Bruce Willis, "Die Hard" star, or the Chicago tower
 will I see you again?;60
 will I see you again;0
 Willis Reed;40;Hall of fame NBA player, coach, and GM
+will it be much longer?;60
 Will It Go Round in Circles;50;1973 single by Billy Preston
 Willkie;40;Wendell Willkie, 1940 presidential candidate
 will-o'-the-wisp;60
