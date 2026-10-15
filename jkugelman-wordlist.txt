@@ -47487,6 +47487,11 @@ HST;40
 Hsu;40;Stephanie Hsu of "Everything Everywhere All At Once"
 hten;20
 HTML;40
+HTML document;50
+HTML documents;50
+HTML file;50
+HTML files;50
+HTML for Dummies;50
 HTML page;50
 HTML pages;50
 H-Town;40;Houston, Texas
