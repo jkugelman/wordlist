@@ -47376,19 +47376,40 @@ HowStuffWorks;50;Explainer website
 how the heck;60
 how the hell;60
 how the turntables;60
+how time flies;60
 How to Be an Antiracist;60
+how-to guide;60
+how-to guides;60
+how to lose a guy in;20
+How to Lose a Guy in 10 Days;50;2003 Kate Hudson / Matthew McConaughey romcom
 How to Love;40;2011 single by Lil Wayne
+How to Succeed in Business Without Really Trying;60
+How to Train Your Dragon;60
+how-to video;60
+how-to videos;60
+How to Win Friends and Influence People;60
+how was I supposed to know?;60
 how was it?;50
 how was it;0
 how was I to know?;60
 how was I to know;0
 how was that a foul?;50
 how was that a foul;0
+how was your day?;60
 how weird;60
 how would I know?;60
 how would I know;0
 how would you feel?;60
 how would you feel;0
+how wrong you are;50
+how ya doin'?;50
+How ya doin'?;0
+how you;20
+how you doin'?;60
+how you doin';0
+How You Like Me Now?;50;2009 song by The Heavy
+how you like me now;0
+howzat;40
 howzit;40
 hoy;40
 Hoya;40;Georgetown athlete, or a wax plant
@@ -47399,32 +47420,54 @@ hoydens;30
 Ho-yeon;40;"Squid Game" actress Jung Ho-yeon
 Hoyle;50;Edmond Hoyle, card-game authority behind "according to Hoyle"
 Hoyt;30;Archery company, folk singer Hoyt Axton (Joy to the World)
+Hoyt Axton;40;1960s singer-songwriter and actor (1938–1999)
+Hoyt Wilhelm;40;Hall of Fame pitcher
 Hozier;40;Irish singer of "Take Me to Church"
 HP;40
 HP bar;40
 HP bars;40
 H. P. Lovecraft;60
 H P Lovecraft;0
+H.P. Lovecraft;0
+HP printers;50
 HPs;40
+HP Sauce;40;British steak sauce
 HPV;30
+HP Way;40;Business philosophy at HP
+H. pylori;50;Bacteria that causes ulcers
+H pylori;0
 HQ;40
 HQs;40;Headquarters
 HQ Trivia;30;Defunct trivia app
 HR;40
 hr.;40
+H. Rap Brown;40;Civil rights leader and convicted murderer (1943–2025)
+H Rap Brown;0
 HRC;20
 HR derbies;30
 HR derby;30
-HRE;30;Holy Roman Empire
-H.R. Giger;60
+H-R diagram;40
+H-R diagrams;40
+HRE;40;Holy Roman Empire
+H. R. Giger;60;"Alien" artist
 H R Giger;0
+H.R. Giger;0
 HRH;20
-H.R. Haldeman;50
+H. R. Haldeman;40;Political aide and Watergate Scandal figure (1926–1993)
 H R Haldeman;0
+H.R. Haldeman;0
+H. Rider Haggard;40;English adventure novelist (1856–1925)
+H Rider Haggard;0
 Hrishikesh;40;Hrishikesh Hirway, "Song Exploder" host
+Hrishikesh Hirway;40;"Song Exploder" host
+Hrishikesh Mukherjee;40
 HR issue;30;Green paint
 HR issues;30
+H. Ross Perot;50
+H Ross Perot;0
 Hrothgar;50;"Beowulf" Danish king
+H.R. Pufnstuf;60
+HR Pufnstuf;0
 HR rep;50
 HR reps;50
 hrs.;40
@@ -47432,6 +47475,9 @@ HRT;40
 HRTiversary;60
 HS;40
 HSBC;40;Bank
+H shape;30
+H-shaped;30
+H shapes;30
 HSI;20
 Hsiao;30;Elva Hsiao, Taiwanese singer (born 1979), one of the "Four Little Divas" of Mandopop
 hsinifecalptsal;0
