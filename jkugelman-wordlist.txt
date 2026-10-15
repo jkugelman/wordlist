@@ -47289,14 +47289,26 @@ howitzer;50
 howitzers;50
 howl at;40
 howled at;40
+howled in pain;60
+howled with laughter;60
+howled with pain;50
 Howlin';40;Howlin' Wolf, blues great
 howling at;40
+howling in pain;60
+howling with laughter;60
+howling with pain;50
+howl in pain;60
 how low can you go?;60
 how low can you go;0
 howls at;40
+howls in pain;60
 Howl's Moving Castle;60;Studio Ghibli movie
+howls with laughter;60
+howls with pain;50
 how lucky am I?;60
 how lucky am I;0
+howl with laughter;60
+howl with pain;50
 how many is that?;50
 how many times?;60
 how many was that?;50
