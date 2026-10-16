@@ -102728,6 +102728,7 @@ Tibetan oxen;50
 Tibetans;40;Himalayan people
 Tibetan yak;50
 Tibetan yaks;50
+tib fib;40
 tibiae;30
 Tiburon;40;California town, or a Hyundai coupe
 Tiburons;40;Hyundai sports cars
