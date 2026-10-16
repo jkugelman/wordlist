@@ -2093,6 +2093,7 @@ Agent P;50;Codename for Perry the Platypus
 agentry;30
 agents;50
 Agents of Fortune;50;Blue Öyster Cult song/album
+age of prosperity;50
 age one;40
 age one hundred;40
 ager;40;OK as a partial
@@ -5184,6 +5185,9 @@ aperçu;50;Clever summation
 aperçus;50;Clever summations
 aperient;30;Laxative
 aperies;30;Rare plural of apery (mimicry)
+apéritif;50
+apéritif wine;50
+aperitif wines;50
 Aperol;40;Italian bitter apéritif
 apers;40
 a person;50;Each
@@ -12928,6 +12932,8 @@ Boniface;40;Saint Boniface, apostle to the Germans
 Bonifacio;40;Andrés Bonifacio, Philippine revolutionary
 boning up;50
 bonitas;40
+bonito;40
+bonitos;40
 Bo Nix;40;Quarterback Bo Nix for the Denver Broncos
 Bonmati;40;Aitana Bonmatí, Ballon d'Or-winning soccer star
 bon mot;50
@@ -51541,6 +51547,7 @@ it's going to be a bumpy ride;60
 it's gonna be a bumpy ride;60
 it's hard to forget;50
 it's high time;60
+it's imperative;50
 it's in;40;Usually a partial
 it's in God's hands;60
 it's in God's hands now;60
@@ -53519,6 +53526,7 @@ just so you know;60;"FYI..."
 just spitballing;60
 just spitballing here;60
 just spit it out;60
+just take it easy;60
 just the thing;60
 just the tip of the iceberg;60
 just thought I'd ask;60
@@ -56871,6 +56879,7 @@ laudes;20
 Lauer;10
 Lauers;10
 Laufey;40;Laufey, Icelandic jazz-pop singer / Loki's mother in Norse myth
+laugh a minute;60
 laugh-a-minute;60
 laugh at;40
 Laugh at Me;40;1965 single by Sonny Bono
@@ -65187,6 +65196,7 @@ minuend;40
 minuends;40
 Minuit;20;Peter who bought Manhattan in the 1600s
 minuscule amount;50
+minute amount;50
 minuted;40
 Minuteman;50;Revolutionary War militiaman
 Minutemen;50;Revolutionary War militia
@@ -82918,6 +82928,8 @@ relators;20
 relax, dude;60
 relax dude;0
 relaxin;40;Pregnancy hormone
+Relax, Take It Easy;50;2007 single by Mika
+Relax Take It Easy;0
 relay race;50
 relay races;50
 releap;0
@@ -98437,6 +98449,7 @@ take a leap;50
 take all;30
 take a look;50
 take a memo;40
+take a minute;50
 take a nip;30
 take an L;60
 take a penny;50
@@ -98561,6 +98574,7 @@ takes a knee;60
 takes a leap;50
 takes a look;50
 takes a memo;40
+takes a minute;50
 takes a nip;30
 takes an L;60
 takes a photo;50
@@ -98684,6 +98698,7 @@ taking a knee;60
 taking a leap;50
 taking a look;50
 taking a memo;40
+taking a minute;50
 taking a nip;30
 taking an L;60
 taking a photo;50
@@ -103661,6 +103676,7 @@ took a knee;60
 took a leap;50
 took a look;50
 took a memo;40
+took a minute;50
 took a nip;30
 took an L;60
 took a photo;50
