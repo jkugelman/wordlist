@@ -30764,6 +30764,8 @@ Elmer's;40;Glue brand
 Elmhurst;40;Chicago suburb
 elmiest;20
 Elmira;40;Mark Twain's hometown
+Elmira, New York;50
+Elmira New York;0
 El Misti;30;Peruvian volcano
 Elmo;50;Sesame Street muppet
 Elmore;40;Elmore Leonard, crime novelist / Elmore James, bluesman
@@ -33655,6 +33657,7 @@ fake book;60
 faked one's own death;50
 fake entries;50
 fake entry;50
+fake it until you make it;50
 fake meat;50
 fake meats;50
 Fakemon;40;Fan-invented Pokemon
@@ -34430,6 +34433,7 @@ feel it in one's bones;60
 feel left out;50
 feel like a fool;50
 feel like a million bucks;60
+feel like a new man;50
 feel me;60
 feel off;50
 feel one's pain;60
@@ -34681,6 +34685,7 @@ Ferris;50;Ferris Bueller, or the wheel
 ferro-;40;Iron-
 ferronnière;40;Type of headband
 ferronnières;40;Type of headbands
+ferrotype;50;Photographic process, direct positive image on metal
 Ferruccio;40;Ferruccio Lamborghini, carmaker / Ferruccio Busoni, composer
 fers;20
 ferule;30;Ruler for slapping children on the hand
@@ -38431,6 +38436,7 @@ gave a dirty look;60
 gave a hand;50
 gave air to;40
 gave a lift;50
+gave a new lease on life;60
 gave a piece of one's mind;60
 gave a say;50
 gave a say to;40
@@ -38443,6 +38449,7 @@ gave it a go;60
 gave it the old college try;60
 gave it to;40
 gave me the nod;20
+gave one a new lease on life;60
 gave one's best;60
 gave the ax;60
 gave the axe;60
@@ -39864,6 +39871,7 @@ give a dog a bone;60
 give a hand;50
 give air to;40
 give a lift;50
+give a new lease on life;60
 give a piece of one's mind;60
 give a say;50
 give a say to;40
@@ -39885,6 +39893,7 @@ give me a ring;60
 give me one good reason;60
 Give Me One Reason;60
 give me some space;60
+given a new lease on life;60
 given a say;50
 given a say to;40
 given a statement;50
@@ -39896,6 +39905,7 @@ given the green light;60
 given to;40
 given zero fucks;10
 give one a black eye;20
+give one a new lease on life;60
 give one's best;60
 Giverny;40;French village of Monet's garden
 gives a black eye;60
@@ -39903,6 +39913,7 @@ gives a dirty look;60
 gives a hand;50
 gives air to;40
 gives a lift;50
+gives a new lease on life;60
 gives a piece of one's mind;60
 gives a say;50
 gives a say to;40
@@ -39914,6 +39925,7 @@ gives ground;50
 gives it a go;60
 gives it the old college try;60
 gives it to;40
+gives one a new lease on life;60
 gives one's best;60
 gives the ax;60
 gives the axe;60
@@ -39945,6 +39957,7 @@ giving a dirty look;60
 giving a hand;50
 giving air to;40
 giving a lift;50
+giving a new lease on life;60
 giving a piece of one's mind;60
 giving a say;50
 giving a say to;40
@@ -39956,6 +39969,7 @@ giving ground;50
 giving it a go;60
 giving it the old college try;60
 giving it to;40
+giving one a new lease on life;60
 giving one's best;60
 giving the ax;60
 giving the axe;60
@@ -41246,6 +41260,7 @@ gordita;40
 gorditas;40
 gordo;40
 Gordon;50;Gordon Ramsay, chef / Flash Gordon, comics hero
+Gordon Gekko;60;"Wall Street" villain
 Gordon Lish;40;Editor of Raymond Carver
 Gordon Pinsent;40;Canadian actor and writer (1930–2023)
 Gordon's;40;Gin brand
@@ -41594,6 +41609,7 @@ grabedaite;0
 graben;20;Valley: Geology
 grabens;20;Valleys: Geology
 grab him;60
+grab it;50
 Grable;40;Betty Grable, WWII pinup star
 Graboid;40;"Tremors" sand monster
 Graboids;50;"Tremors" monsters
@@ -47734,8 +47750,13 @@ hurly;40;Hurly-burly
 Hurok;30;Impresario Sol Hurok
 Huron;50;Great Lake
 Hurons;50
+hurricane-force;60
+hurricane-force wind;60
+hurricane-force winds;60
 hurricane season;50
 hurricane seasons;50
+hurricane watch;60
+hurricane winds;50
 hurried after;50
 hurried along;50
 hurried around;50
@@ -51463,6 +51484,7 @@ it's a matter of time;60
 it's-a me, Mario!;60
 it's a me Mario;0
 It's-a me, Mario!;0
+it's a new ball game;60
 it's an honor;60
 it's a no;50
 it's a no-brainer;60
@@ -52203,7 +52225,11 @@ Janesville;40;Wisconsin city
 Janet;50;Common first name
 Janet McTeer;40
 Janets;30;Plural name
+Jane Ward;40
 Janeway;40;Kathryn Janeway, "Star Trek: Voyager" captain
+Jane Wiedlin;40
+Jane Wyatt;40
+Jane Wyman;40
 Janey;40;Diminutive of Jane
 jangly;50
 Jango;40;"Star Wars" bounty hunter Jango Fett
@@ -53528,6 +53554,8 @@ JWoww;40;JWoww, "Jersey Shore" personality
 Jyn;30;Jyn Erso, main protagonist of "Rogue One"
 Jyn Erso;40;Main protagonist of "Rogue One"
 K;40
+K-9;40
+K9;40
 Kaa;20
 Kaaba;30;Most sacred site in Islam
 Kaba;40;Mariame Kaba, prison abolitionist
@@ -57854,6 +57882,7 @@ Les Halles;40;Parisian market until 2018
 Leshan;30;Chinese city with the Giant Buddha
 Leskov;40;Nikolai Leskov, Russian writer
 Leslea;30;Lesléa Newman, young adult author of "Heather Has Two Mommies"
+Leslea Newman;40
 Lesley;50;Lesley Stahl, "60 Minutes" correspondent / common given name
 Leslie;50;Common first name
 Leslie Knope;50;"Parks and Recreation" heroine
@@ -59252,6 +59281,7 @@ Loblaw;50;Bob Loblaw
 lobo;40
 lobos;40
 lobscouse;40;Scandinavian stew
+lobster a la Newburg;20
 lobster bib;60
 lobster bibs;60
 lobster bisque;60
@@ -65675,9 +65705,12 @@ Mo Farah;40;Most successful British track athlete in Olympic Games history
 Moff;40;Star Wars rank, as in Grand Moff Tarkin
 Moffat;40;Steven Moffat, "Doctor Who" showrunner
 mofongo;40;Puerto Rican plantain dish
-mog;20
+mog;40
 Mogadishu;50;Capital of Somalia
 Mogambo;40;Clark Gable / Ava Gardner epic (1953)
+mogged;40
+mogging;40
+mogs;40
 Mogwai;50;"Gremlins" creature
 mohair suit;50
 mohair suits;50
