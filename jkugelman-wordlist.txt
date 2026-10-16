@@ -16343,9 +16343,13 @@ can't keep a secret;60
 cantle;30
 cantles;30
 can't make any guarantees;60
+canto;40
 Cantona;40;Eric Cantona, Manchester United striker
+cantonal;40
+cantoned;40
 Cantonese;50;Chinese language of Guangdong
 Cantonese pop;50
+cantoning;40
 cantonment;30
 Canton, OH;40
 Canton, Ohio;50
@@ -16355,6 +16359,7 @@ Cantopop;50;Hong Kong pop music
 cantor;40;Clergy who leads Jewish communities in song
 cantors;40
 can't or won't;60
+cantos;40
 Cantrell;40;Jerry Cantrell, Alice in Chains guitarist
 cants;40
 can't see straight;60
@@ -29973,6 +29978,7 @@ Edda;40
 Eddas;40;Norse literary works
 Eddie;50;Common first name
 Eddie Arcaro;50;Hall of Fame jockey
+Eddie Cantor;40
 Eddie Munson;50;"Stranger Things" character
 Eddington;40;Arthur Eddington, astrophysicist who tested relativity
 Ede;20
@@ -31862,6 +31868,7 @@ eri;20
 Eric;50;Common first name
 Erica;50;Erica Jong, "Fear of Flying" author / Erica Kane, soap character
 Eric Andre;60
+Eric Cantona;40
 Erich;40;Psychologist Erich Fromm, "All Quiet on the Western Front" author Erich Remarque
 Eric Idle;50
 Eric IV;20
@@ -51636,6 +51643,7 @@ it's meant to be;60
 it's mine;50
 it's more than that;60
 it's my first day;60
+it's my go-to;60
 it's my turn;50
 it's new;40
 it's news to me;60
@@ -62445,7 +62453,7 @@ Marburg;40;German city, and a virus
 Marbury;40;Marbury v. Madison / Stephon Marbury, NBA guard
 Marc;50;Common name: Marc Anthony, Marc Jacobs
 Marc Anthony;50
-Marc Antony;50;Roman politician and general (83–30 BC) - usually "Mark", but "Marc" is somewhat common
+Marc Antony;60;Roman politician and general (83–30 BC) - usually "Mark", but "Marc" is somewhat common
 marca registrada;20
 marcasite;40;Mineral known as white iron pyrite
 marcato;40
@@ -66008,6 +66016,7 @@ Monegasque;50;From Monaco
 Monegasques;50;People of Monaco
 Monet;50;Claude Monet, Impressionist painter
 Moneta;30;Juno Moneta, epithet of Juno, Roman goddess, origin of "money"
+monetarily;50
 monetise;30
 Monets;40;Impressionist paintings
 money;50
@@ -84801,6 +84810,7 @@ robbing;50
 robbing Peter to pay Paul;60
 Robbins;50;Tim Robbins, actor / Jerome Robbins, choreographer
 Robby;50
+Rob Cantor;40
 Rober;40;Mark Rober, engineer and YouTuber
 Robert;50;Extremely common first name
 Roberta;50;Common first name (Roberta Flack, Roberta Bondar)
