@@ -40559,6 +40559,7 @@ goes stag;50
 goest;30
 goes to;40
 goes to and fro;50
+goes to bat for;60
 goes to court;50
 goes to grass;60
 goes to great lengths;60
@@ -40569,6 +40570,7 @@ goes topless;60
 goes to rehab;50
 goes to seed;60
 goes to the dogs;60
+goes to the mat;60
 goes to the polls;60
 goes up to;40
 goes vegan;60
@@ -40736,6 +40738,7 @@ going stag;50
 going through some stuff;60
 going to;40
 going to and fro;50
+going to bat for;60
 going to court;50
 going to grass;60
 going to great lengths;60
@@ -40746,6 +40749,7 @@ going topless;60
 going to rehab;50
 going to seed;60
 going to the dogs;60
+going to the mat;60
 going to the polls;60
 going up to;40
 going vegan;60
@@ -41034,6 +41038,7 @@ gonerilandregan;0
 gone rogue;60
 gone senile;50
 gone soft;50
+gone to bat for;60
 gone to grass;60
 gone to lunch;50
 gone to plan B;60
@@ -41041,6 +41046,7 @@ gone topless;60
 gone to rehab;50
 gone to seed;60
 gone to the dogs;60
+gone to the mat;60
 gone to the polls;60
 gone wrong;40
 Gonggong;40;Dwarf planet named for a Chinese water god
@@ -41476,6 +41482,7 @@ got near;40
 got no shot;50
 go to;50
 go to and fro;50
+go to bat for;60
 go to court;50
 go toe to toe;60
 got off on a technicality;60
@@ -41521,6 +41528,7 @@ go-tos;50
 go to seed;60
 go to sleep;50
 go to the dogs;60
+go to the mat;60
 go to the polls;60
 got out alive;60
 got out of a jam;60
@@ -62201,6 +62209,7 @@ Mangolte;40;Babette Mangolte, avant-garde cinematographer
 mango salsa;60
 Mango Smurf;20;???
 mango sticky rice;60
+mango tango;60;Cocktail or dessert
 Mango Tango;60;Cocktail or dessert
 mangrove swamp;60
 mangrove swamps;60
@@ -64659,6 +64668,9 @@ MF Doom;60
 MFer;10;Cussword, abbreviated
 MFers;10;Vulgar abbreviation, pluralized
 mfg.;20
+M. F. K. Fisher;40;Food writer (1908–1992)
+M F K Fisher;0
+M.F.K. Fisher;0
 mfr.;20
 Mfr.;0
 mg;40
@@ -110348,6 +110360,7 @@ went sour;50
 went stag;50
 went to;40
 went to and fro;50
+went to bat for;60
 went to court;50
 went to grass;60
 went to great lengths;60
@@ -110358,6 +110371,7 @@ went topless;60
 went to rehab;50
 went to seed;60
 went to the dogs;60
+went to the mat;60
 went to the polls;60
 went up to;40
 went vegan;60
