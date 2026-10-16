@@ -33359,6 +33359,7 @@ F1 keys;40
 F2;40
 F2 key;50
 F2 keys;40
+F2P;40;Free-to-play
 F3;40
 F3 key;50
 F3 keys;40
@@ -37025,6 +37026,7 @@ freestyling;60
 free-throw line;60
 free time;50
 free to;40
+free-to-play;60
 Freetown;40;Capital of Sierra Leone
 free toy;50
 free toys;50
@@ -73837,6 +73839,7 @@ Ozzfest;40;Ozzy Osbourne's metal festival
 Ozzie;50;Ozzie Smith, Hall of Fame shortstop / "Ozzie and Harriet"
 Ozzy;50;Ozzy Osbourne, Black Sabbath frontman
 P;40
+P2W;40;Pay to win
 pa;50
 Paak;40;Rapper Anderson .Paak
 Paar;40
@@ -75170,6 +75173,8 @@ pay toilet;60
 pay toilets;60
 Payton;50;Walter Payton, Bears great / Gary Payton, NBA's Glove
 pay top dollar;60
+pay to win;60
+pay-to-win;60
 paz;40
 Pazuzu;40;Demon of "The Exorcist"
 Pb;40;Lead, to a chemist
