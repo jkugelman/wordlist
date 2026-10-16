@@ -40546,9 +40546,13 @@ goes sour;50
 goes stag;50
 goest;30
 goes to;40
+goes to and fro;50
+goes to grass;60
 goes to great lengths;60
 goes to hell;60
+goes topless;60
 goes to seed;60
+goes to the dogs;60
 goes to the polls;60
 goes up to;40
 goes vegan;60
@@ -40715,9 +40719,13 @@ going sour;50
 going stag;50
 going through some stuff;60
 going to;40
+going to and fro;50
+going to grass;60
 going to great lengths;60
 going to hell;60
+going topless;60
 going to seed;60
+going to the dogs;60
 going to the polls;60
 going up to;40
 going vegan;60
@@ -41006,7 +41014,10 @@ gonerilandregan;0
 gone rogue;60
 gone senile;50
 gone soft;50
+gone to grass;60
+gone topless;60
 gone to seed;60
+gone to the dogs;60
 gone to the polls;60
 gone wrong;40
 Gonggong;40;Dwarf planet named for a Chinese water god
@@ -41019,8 +41030,8 @@ go/no-go;60
 go no-go;0
 go/no-go gauge;50
 go/no-go gauges;50
-go/no-go test;50
-go/no-go tests;50
+go/no-go test;60
+go/no-go tests;60
 go now;50
 go numb;50
 go nuts;60
@@ -41347,6 +41358,7 @@ got a gal;0
 got ahead in life;60
 got ahead of the curve;60
 got a jump on;60
+go take a hike;50
 got a leg up on;60
 got all butthurt;60
 got a lock on;50
@@ -41440,6 +41452,7 @@ got naked;50
 got near;40
 got no shot;50
 go to;50
+go to and fro;50
 go toe to toe;60
 got off on a technicality;60
 got off one's ass;50
@@ -41447,11 +41460,14 @@ got off one's chest;50
 got off on the right foot;60
 got off to a late start;60
 go together;50
+go to grass;60
 go to great lengths;60
 go-to guy;60
 go to hell;60
 go to hell and back;60
 go to jail;60;Monopoly square
+go-to move;60
+go-to moves;60
 got on;40
 got on board;50
 got one's act together;50
@@ -41472,9 +41488,11 @@ got on in years;60
 got on one's nerves;60
 got onto;40
 go too far;60
+go topless;60
 go-tos;50
 go to seed;60
 go to sleep;50
+go to the dogs;60
 go to the polls;60
 got out alive;60
 got out of a jam;60
@@ -51314,6 +51332,7 @@ italiano;40
 Italians;50;Romans and Venetians
 Italian sandwich;60
 Italian sandwiches;60
+Italian wedding;50
 Italie;40;Italy: Fr.
 it all works out in the end;60
 Italo;40;Writer Italo Calvino, notable
@@ -51357,6 +51376,7 @@ It girl;60
 it girl;0
 it goes;50;Response to "How goes it?"
 it goes to show;60
+it grew on me;60
 IT guy;50
 IT guys;50
 Ithaca;50;Odysseus's home, or the New York city
@@ -51376,6 +51396,7 @@ I think I can;60
 I think I'd remember;60
 I think I'll manage;60
 I think I'll pass;60
+I think I will;60
 I think that was it;20
 I think you'll manage;60
 I Think You Should Leave;60
@@ -51392,9 +51413,12 @@ I Tina;0
 itinerated;40
 it insists upon itself;60
 it is;40
+it is certain;20
+It is certain;0
 it is done;60
 it is high time;60
 it is not;50
+it isn't a toy;60
 it isn't over;60
 it isn't right;60
 it isn't set in stone;60
@@ -51408,6 +51432,7 @@ it just so happens;60
 it lays;20
 it'll;50
 it'll all work out in the end;60
+it'll be easy;50
 it'll be faster if we split up;60
 it'll be fun;60
 it'll be our little secret;60
@@ -51415,7 +51440,9 @@ it'll be the end of me;60
 it'll cost ya;60
 it'll cost you;60
 it'll cost you nothing;60
+it'll do fine;60
 it'll grow on you;60
+it'll have to wait;60
 it'll make your head spin;60
 it'll pay for itself;60
 it'll pay for itself in no time;60
@@ -51423,6 +51450,7 @@ it'll turn up;60
 it'll work out in the end;60
 it makes no sense;60
 it makes you think;60
+it matters not;50
 it me;50;Slang
 it means a lot;60
 it means a lot to me;60
@@ -51430,6 +51458,7 @@ ITN;20
 Ito;40;Skater Midori Ito or Judge Lance Ito
 I told ya;60
 I told you;60
+I told you no;60
 I told you so;60
 I, Tonya;30
 I Tonya;0
@@ -51473,6 +51502,7 @@ it's a gas;50
 it's a gift;60
 it's a girl;60
 it's a good start;60
+it's a good thing;60
 it's a joke;60
 it's a keeper;60
 it's all a blur;60
@@ -51492,6 +51522,7 @@ it's a matter of time;60
 it's-a me, Mario!;60
 it's a me Mario;0
 It's-a me, Mario!;0
+it's a me thing;50
 it's a new ball game;60
 it's an honor;60
 it's a no;50
@@ -51502,11 +51533,13 @@ it's anybody's guess;60
 it's anyone's guess;60
 it's a racket;60
 it's a real stretch;60
+it's as easy as pie;50
 it's a setup;60
 it's as good a guess as any;60
 it's a shame;60
 it's a sign;60
 it's a simple question;60
+it's a sore subject;60
 it's a start;60
 it's a stretch;60
 it's a thing;60
@@ -51526,11 +51559,17 @@ it's been a long time;60
 it's been a minute;60
 it's been fun;60
 it's been one of those days;60
+it's been years;50
 it's beneath me;60
+it's bizarre;50
+it's catching on;50
 it's classified;60
+it's common sense;60
 it's crazy;60
 it's dope;50
 it's early days;60
+it's easy as pie;50
+it seems like a lot;60
 IT service;40
 IT services;40
 it's faster if we split up;60
@@ -51541,17 +51580,25 @@ it's fine;50
 it's fire;60
 it's for you;60
 it's getting late;50
+it's getting old;50
 it's giving;60;Gen Z slang
 it's going;50;Response to "How's it going?"
 it's going to be a bumpy ride;60
 it's gonna be a bumpy ride;60
+it's good to be king;60
+it's good to be the king;60
+it's good to go;50
 it's hard to forget;50
 it's high time;60
+it's how we do;50
 it's imperative;50
+it's important;50
+it's impossible;50
 it's in;40;Usually a partial
 it's in God's hands;60
 it's in God's hands now;60
 it's in the bag;60
+it's in the cards;60
 It's-It;40;It's-It west coast ice cream brand
 it's just a prank;60
 it's just a prank, bro;60
@@ -51559,17 +51606,28 @@ it's just a scratch;60
 it's just a thought;60
 it's just one of those days;60
 it's just that simple;60
+it's just the start;60
 it's just the tip of the iceberg;60
+It slices! It dices!;60
+it's like, you know;50
 it's magic;60
 it's meant to be;60
 it's mine;50
 it's more than that;60
+it's my first day;60
 it's my turn;50
 it's new;40
 it's news to me;60
+it's no accident;60
+it's no bed of roses;60
+it's no crime;50
 it's no joke;60
+it's no picnic;50
 it's not adding up;60
+it's not a given;60
+it's not a sin;50
 it's not a toy;60
+it's not enough;50
 it's not for me to say;60
 it's nothing;60
 it's nothing fancy;60
@@ -51586,16 +51644,24 @@ it's not my cup of tea;60
 it's not my day;60
 it's not my department;60
 it's not my finest work;60
+it's not my place;60
+it's not my time;50
+it's not my vault;0
+it's not polite;50
 it's not right;60
+it's no trouble;60
 it's not set in stone;60
+it's not so simple;60
 it's not that bad;60
 it's not that complicated;60
 it's not that deep;60;"Stop taking this so seriously!"
+it's not that funny;50
 it's not that simple;60
 It's Not Unusual;60;1965 single by Tom Jones
 it's not without its charm;60
 it's not your problem;60
 it's no use;60
+it's no use crying;60
 it's odd;50
 it's odd isn't it?;60
 it's often said;60
@@ -51607,15 +51673,19 @@ it's OK by me;60
 it's OK with me;60
 it's one thing after another;60
 it's on like Donkey Kong;60
+it's only a joke;60
 it's only a matter of time;60
 it's on me;60
 it sounds fishy;50
 it sounds like a skill issue;60
 it sounds like a you problem;60
+it's our turn;50
 it's out of my hands;60
 its out of our hands;60
 it's over;60
 it's over already;60;"That was fast..."
+it's over now;60
+it's paid for;50
 IT specialist;50
 IT specialists;50
 it's personal;60
@@ -51655,6 +51725,8 @@ it's too bad;60
 it's too early to tell;60
 it's too late;60
 it's too late now;60
+it's unbelievable;50
+it's unlucky;50
 IT support;50
 it's us;40
 it's us against the world;60
@@ -51685,11 +51757,14 @@ it was a day like any other;60
 it was a joke;60
 it was all a dream;60
 it was all just a dream;60
+It Was Always You;50;2014 Maroon 5 song
 it was I;40
+it was inevitable;50
 it was just a dream;60
 it was just a thought;60
 it was meant to be;60
 it was nice meeting you;60
+it wasn't funny;50
 it wasn't me;60
 it wasn't meant to be;60
 it wasn't not my finest hour;60
@@ -57625,6 +57700,8 @@ Legos;50;Interlocking bricks
 Lego set;60
 Lego sets;60
 Lego Technic;60;Line for models of working vehicles and machines
+Lego train;50
+Lego trains;50
 leg press;60
 leg presses;60
 Legrand;40;Michel Legrand, French film composer
@@ -69472,6 +69549,7 @@ noir;50
 noire;40;Bête noire (bugbear)
 noirs;50
 Noirvember;40;November film noir viewing tradition
+no is a complete sentence;60
 noise artist;60
 noise artists;60
 noised;30
@@ -86202,8 +86280,8 @@ Sabbath's Theater;50;Philip Roth novel
 sabe;30;"¿Quién sabe?" or kemo sabe
 Sabena;20;Defunct Belgian airline
 saber;50;Type of backsword with curved blade, designed to cut and slash
-saber dance;50
-Saber Dance;50
+saber dance;60
+Saber Dance;60
 sabered;40;Struck or killed with a saber
 sabering;40;Striking or killing with a saber
 sabermetrician;60;Analyst of baseball statistics
@@ -86230,6 +86308,7 @@ sabots;20;Wooden shoes
 sabra;20;Native Israeli
 sabras;20;Native Israeli
 Sabre;40;British spelling, or Buffalo hockey player
+Sabre Dance;60
 Sabres;50;Buffalo NHL team
 Sabrina;50;Sabrina Carpenter, pop star / the teenage witch
 Sabrina Le Beauf;40;Sabrina Le Beauf from "The Cosby Show"
@@ -106136,8 +106215,8 @@ UBC;30
 ube;40;Trendy purple yam
 U-bend;40
 U-bends;40
-Uber driver;50
-Uber drivers;50
+Uber driver;60
+Uber drivers;60
 Uber Eats;60
 Ubered;40;Took a rideshare
 Ubering;40;Catching a rideshare
@@ -110233,9 +110312,13 @@ went solo;50
 went sour;50
 went stag;50
 went to;40
+went to and fro;50
+went to grass;60
 went to great lengths;60
 went to hell;60
+went topless;60
 went to seed;60
+went to the dogs;60
 went to the polls;60
 went up to;40
 went vegan;60
