@@ -23779,6 +23779,8 @@ CVs;40
 CVVs;40;Credit card security codes
 CW4Kids;40;Saturday morning cartoon block
 cwm;20
+C. W. McCall;40;Art director, singer-songwriter and mayor (1928–2022)
+C W McCall;0
 C.W. Moss;40;Getaway driver in "Bonnie and Clyde"
 C.W. Post;40;Postum and Grape-Nuts creator, LIU Post's old name
 C W Post;0
@@ -24249,6 +24251,8 @@ Dan Patch;40;Champion horse in the early 1900s
 dans;30
 Dan Savage;50
 Danse;40
+danse macabre;60
+Danse Macabre;60
 danseur;40;Male ballet dancer
 danseurs;40
 danseuse;40;Female ballet dancer
@@ -29819,6 +29823,7 @@ Eboli;30;Italian town of "Christ Stopped at Eboli"
 ebon;40
 Ebon;0
 ebonite;30;Hard rubber
+Ebony and Ivory;60
 e-booking;50
 e-bookings;50
 EBow;30
@@ -40547,10 +40552,14 @@ goes stag;50
 goest;30
 goes to;40
 goes to and fro;50
+goes to court;50
 goes to grass;60
 goes to great lengths;60
 goes to hell;60
+goes to lunch;50
+goes to plan B;60
 goes topless;60
+goes to rehab;50
 goes to seed;60
 goes to the dogs;60
 goes to the polls;60
@@ -40720,10 +40729,14 @@ going stag;50
 going through some stuff;60
 going to;40
 going to and fro;50
+going to court;50
 going to grass;60
 going to great lengths;60
 going to hell;60
+going to lunch;50
+going to plan B;60
 going topless;60
+going to rehab;50
 going to seed;60
 going to the dogs;60
 going to the polls;60
@@ -41015,7 +41028,10 @@ gone rogue;60
 gone senile;50
 gone soft;50
 gone to grass;60
+gone to lunch;50
+gone to plan B;60
 gone topless;60
+gone to rehab;50
 gone to seed;60
 gone to the dogs;60
 gone to the polls;60
@@ -41453,6 +41469,7 @@ got near;40
 got no shot;50
 go to;50
 go to and fro;50
+go to court;50
 go toe to toe;60
 got off on a technicality;60
 got off one's ass;50
@@ -41466,8 +41483,9 @@ go-to guy;60
 go to hell;60
 go to hell and back;60
 go to jail;60;Monopoly square
-go-to move;60
-go-to moves;60
+go to lunch;50
+go-to move;50
+go-to moves;50
 got on;40
 got on board;50
 got one's act together;50
@@ -41488,7 +41506,10 @@ got on in years;60
 got on one's nerves;60
 got onto;40
 go too far;60
+go to plan B;60
+go to Plan B;0
 go topless;60
+go to rehab;50
 go-tos;50
 go to seed;60
 go to sleep;50
@@ -53777,6 +53798,8 @@ Kamen;40
 Kamenev;40;Lev Kamenev, Bolshevik purged by Stalin
 Kameny;40;Frank Kameny, gay rights pioneer
 kami;30;Divine being in Shinto
+kamikaze pilot;50
+kamikaze pilots;50
 Kaminsky;40;Ilya Kaminsky, "Deaf Republic" poet
 kamis;30;Divine beings in Shinto
 Kamloops;40;British Columbia city
@@ -84483,6 +84506,7 @@ Ringwraith;60
 Ringwraiths;60
 ringxiety;60;Phantom vibration syndrome
 ringy;30
+Rinkitink;40;L. Frank Baum character from Oz
 Rinko;40;Rinko Kikuchi, Japanese actress in "Babel"
 rink rat;60
 rink rats;60
@@ -110313,10 +110337,14 @@ went sour;50
 went stag;50
 went to;40
 went to and fro;50
+went to court;50
 went to grass;60
 went to great lengths;60
 went to hell;60
+went to lunch;50
+went to plan B;60
 went topless;60
+went to rehab;50
 went to seed;60
 went to the dogs;60
 went to the polls;60
