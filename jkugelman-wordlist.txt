@@ -96130,6 +96130,8 @@ Still Crazy After All These Years;60
 Stille;30;German carol "Stille Nacht"
 Stiller;50;Ben Stiller, actor and director
 still got it;60
+still life artist;60
+still life artists;60
 still me;60
 still mooing;60
 still of;0
