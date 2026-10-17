@@ -995,6 +995,8 @@ acerbated;40
 acerbates;40
 acerbating;40
 acerbic wit;60
+ace reporter;60
+ace reporters;60
 acerose;30
 acerosity;30
 acerous;30;Having no horns
@@ -11910,6 +11912,7 @@ blackjack players;60
 Blackk;40;Asante Blackk, "When They See Us" actor
 blackkcalb;0
 BlacKkKlansman;60;Spike Lee's 2018 film
+blackletter;60;Historic European script and typeface
 blacklight;60
 blacklights;60
 blacklight tattoo;60
@@ -26646,6 +26649,8 @@ diplomate;40;Diploma holder
 diplomates;40
 diplomatic aides;50
 diplomatic corps;50
+dip net;40;Type of fishing net
+dip nets;40;Type of fishing net
 dipped into;40
 Dippin';40;Dippin' Dots, beaded ice cream
 dipping into;40
@@ -30892,6 +30897,7 @@ Elswit;40;Robert Elswit, Oscar-winning cinematographer
 Eltahawy;40;Mona Eltahawy, Egyptian American feminist writer
 Eltanin;30;Star aka Gamma Draconis
 Elton;50;Elton John, "Rocket Man" singer
+El Topo;40;1970 film by Alejandro Jodorowsky
 El Toro;30;Used frequently in NYT, "Matador's opponent" and such, feels like wordlist spam
 El Tricolor;50;Mexico national football team nickname El Tricolor
 eluant;20;Chemistry word
@@ -64442,6 +64448,10 @@ menial tasks;50
 Meninas;40;"Las Meninas," Velázquez masterpiece
 Men in Black;60
 meninges;30
+meniscal;50
+meniscal tear;50
+meniscal tears;50
+menisci;40
 Menken;40;Alan Menken, Disney composer
 Menlo;40;Menlo Park, Edison's lab town
 Mennen;40;Deodorant brand, "by Mennen"
@@ -69113,6 +69123,9 @@ NFL umps;20
 NFL uniform;50
 NFL uniforms;50
 NFT;30
+NFT art;40
+NFT bro;30
+NFT bros;30
 NFTs;30
 Ng;40;Celeste Ng, novelist / Andrew Ng, AI researcher
 Ngai;30;Sianne Ngai, cultural theorist, literary critic, and feminist scholar
@@ -72896,6 +72909,7 @@ open field tackle;50
 open field tackles;50
 open fire;50
 open fire on;40
+open F tuning;40
 open grill;50
 open heart surgery;60
 open house;60
@@ -76134,8 +76148,10 @@ Perlman;50;Itzhak Perlman, violinist / Rhea Perlman, actress
 Perloff;40;Marjorie Perloff, poetry critic
 Perlstein;40;Rick Perlstein, historian of American conservatism
 perma-;40
-permalink;50
-permalinks;50
+permalink;60
+permalinked;60
+permalinking;60
+permalinks;60
 Permanente;40;Kaiser Permanente health plan
 Permian;40;Geologic period before the Triassic
 permission slip;60
