@@ -102274,6 +102274,7 @@ thewildwildtsew;0
 The Winds of Winter;60;A Song of Ice and Fire book #6
 the Windy City;60
 The Winter's Tale;60
+The Wire;60
 the wise men;30
 Thewlis;40;David Thewlis, actor who played Lupin
 the wool;40
@@ -112100,7 +112101,14 @@ Winton;40;Tim Winton, Australian novelist
 Wintour;40;Anna Wintour, Vogue editor
 Winwood;50;Steve Winwood, "Higher Love" singer
 WinZip;40;File compression software
+wire coat hanger;50
+wire coat hangers;50
+wire cutting;50
 wired to;30
+wire fence;50
+wire fences;50
+wireframe model;60
+wireframe models;60
 wire fu;60
 wireless access point;60
 wireless access points;60
