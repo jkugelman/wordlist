@@ -3110,7 +3110,8 @@ alive;50
 alive and kicking;60
 a live one;20
 alive to;40;Aware of
-Alix;40;Alix Earle, influencer
+Alix;30;Alix Earle, influencer
+Alix Earle;40;TikTok influencer
 alizarin;30;Red dye
 Alizee;40;Alizée, French pop singer
 alk.;20
@@ -8813,6 +8814,8 @@ Bam Bam;50
 Bambara;40;Toni Cade Bambara, author / Malian language
 Bamberg;40;Bavarian city
 Bambi;50;Disney deer
+bamboo palm;50
+bamboo palms;50
 bamboo pole;50
 bamboo poles;50
 bamboo shoot;60
@@ -11089,6 +11092,7 @@ betting one's bottom dollar;60
 Bettis;40;Jerome Bettis, Hall of Fame running back
 Betts;40;Dodgers star Mookie Betts, Niecy Nash-Betts, Dickey Betts
 Betty;50;Common first name, or a baked apple dessert
+Betty Boop;60
 Betty Crocker;60
 Betty Grable;50
 between a rock and a hard place;60
@@ -21299,6 +21303,8 @@ compact SUV;50
 compact SUVs;50
 companion piece;60
 companion pieces;60
+company halt;60
+company headquarters;50
 Compaq;40;Defunct computer maker
 Compaqs;40;Bygone PCs
 comparative optimism;60;Cognitive bias
@@ -26764,6 +26770,8 @@ discoursing;30
 discusser;30
 discussers;30
 discussion group;50
+discussion thread;60
+discussion threads;60
 Discworld;60;Terry Pratchett's flat fantasy world
 disease control;50
 disease to please;60
@@ -31135,6 +31143,7 @@ employee discount;60
 employee discounts;60
 employee turnover;60
 Empress Dowager Cixi;50;Regent of China from 1861 to 1908
+emptor;40
 empty-handed;50
 empty-net goal;50
 empty net goal;0
@@ -45418,6 +45427,7 @@ Hermann;40;Hermann Hesse, "Siddhartha" author
 hermano;40
 hermanos;40
 Herman's;40;Herman's Hermits, British Invasion band
+Herman Wouk;40;"The Caine Mutiny" author
 Hermaphroditus;50;Greek god who merged with a nymph
 Hermes;50;Messenger god / luxury brand
 Hermeticism;50;Occult philosophical tradition
@@ -46248,6 +46258,12 @@ Hogg;40;Boss Hogg, "The Dukes of Hazzard" villain
 hoggish;50;Hoggish Greedly, Captain Planet baddie
 Hoggish Greedly;50;Captain Planet baddie
 Hogmanay;50;Scottish New Year's Eve
+hog-nosed bat;50
+hog-nosed bats;50
+hog-nosed rat;50
+hog-nosed rats;50
+hog-nosed skunk;50
+hog-nosed skunks;50
 hogshead;60
 Hogthrob;50;Muppet Link Hogthrob
 hogtie;60
@@ -46628,6 +46644,8 @@ Honalee;50;Land in "Puff the Magic Dragon"
 Honda;50;Car company
 Honda Legend;50
 Honda Legends;50
+Honda Recon;50
+Honda Recons;50
 Hondas;50;Civics and Accords
 Hondo;40
 Honduran;50;From Tegucigalpa's country
@@ -48022,6 +48040,8 @@ hyssop;20;Shrub
 hyssops;20;Shrubs
 Hyundai;50;Korean automaker
 Hyundais;40;Korean cars
+Hy-Vee;30;Midwestern grocery store
+Hy-Vees;30;Midwestern grocery stores
 Hz;40;Frequency unit
 I;50
 Iacocca;50;Lee Iacocca, Chrysler chairman
@@ -50222,6 +50242,7 @@ in pawn;30
 in pen;50
 in pencil;50
 in pink;30
+in poor spirits;50
 in poor taste;60
 in popular demand;20
 in practice;50
@@ -50681,6 +50702,8 @@ ionospheric;30
 ions;50
 ion storm;50;Geomagnetic disturbance
 ion storms;50;Geomagnetic disturbances
+ion thruster;60
+ion thrusters;60
 ioo;20
 -ior;30;Suffix [rare]
 iOS;40
@@ -58657,6 +58680,7 @@ life forces;40;Questionable plural
 life form;50
 life forms;50
 Lifehouse;40;Band behind "Hanging by a Moment"
+life is a banquet and most poor suckers are starving to death;60
 life is a mystery;50
 life is not all beer and skittles;60
 life isn't fair;60
@@ -59743,6 +59767,7 @@ Lon;40
 Londinium;50;Roman London
 London;50;UK capital / Jack London, author
 Londonbeat;50
+London broil;60
 Londonderry;50;Northern Ireland city and county
 Londoner;50;UK capital resident
 Londoners;50;UK capital residents
@@ -66955,6 +66980,8 @@ Mr. Blue;50;From "Reservoir Dogs"
 Mr Blue;0
 Mr. Bojangles;60
 Mr Bojangles;0
+Mr. Boop;40;Satirical webcomic
+Mr Boop;0
 Mr. Brooks;50
 Mr Brown;50;From "Reservoir Dogs"
 Mr. Brown Can Moo! Can You?;60;Dr. Seuss book
@@ -69976,6 +70003,7 @@ normies;60
 Norm Mineta;40;Cabinet secretary under Clinton and Bush
 Norn;40;Fate goddess of Norse myth
 Norns;40;Norse fates
+no room to spare;60
 Norquist;40;Grover Norquist, anti-tax activist
 Norris;50;Chuck Norris, action star, among others
 NORs;30
@@ -78079,6 +78107,10 @@ Poiret;40;Paul Poiret, French fashion designer
 Poirot;50;Hercule Poirot, Agatha Christie's detective
 poiser;30
 poisers;30
+poison apple;60
+poison apples;60
+poison arrow;60
+poison arrows;60
 poison dart;60
 poison darts;60
 poison ivy;60
@@ -78382,6 +78414,8 @@ pool cue;50
 pool cues;50
 Poole;40;English port town on the Channel
 pooler;30
+pool floatie;50
+pool floaties;50
 pool hall;60
 pool halls;60
 pool man;50
@@ -78394,6 +78428,8 @@ pool pump;50
 pool pumps;50
 pool room;50
 pool rooms;50
+pool service;50
+pool services;50
 pool skimmer;50
 pool skimmers;50
 pool slide;50
@@ -78426,6 +78462,8 @@ poor quality;50
 Poor's;40;Standard & Poor's
 poor soul;60
 poor souls;60
+poor-spirited;50
+poor spirits;50
 poor sport;60
 poor sports;60
 poor taste;50
@@ -78557,6 +78595,8 @@ poppy seed bagels;60
 poppyseed bagels;0
 poppyseed roll;60
 poppyseed rolls;60
+Poppy Z. Brite;50;Gothic horror author
+Poppy Z Brite;0
 pops a pill;40
 pops a squat;60
 pops a wheelie;60
@@ -78675,11 +78715,13 @@ Portman;50;Natalie Portman, actress
 portmanteau word;20
 Portnoy;50
 Porto;40;Portuguese city that gave port wine its name
+port of call;60
 portrayer;50
 portrayers;50
 portress;20
 portresses;20
 Portsmouth;50;Port city in England, New Hampshire, or Virginia
+ports of call;60
 Portugal;50;Iberian country
 Portuguese;50;Language of Brazil and Portugal
 Portulaca;30;Flower genus
@@ -78806,6 +78848,7 @@ potboy;40;Boy who serves drinks in a tavern
 potboys;40
 pot dealer;60
 pot dealers;60
+pot de crème;50
 pot dispensaries;50
 pot dispensary;50
 pot edible;50
@@ -78845,6 +78888,7 @@ Potrero;40;Potrero Hill, San Francisco neighborhood
 Potro;30;Juan Martín del Potro, Argentine tennis player (born 1988)
 Potsdam;50;German city of the 1945 conference
 Potsdamer;40;___ Platz, Berlin square
+pots de crème;50
 pot shop;60
 pot shops;60
 pot smoke;60
@@ -78858,6 +78902,7 @@ pot tea;50;Cannabis tea
 potted meat;50
 Pottermore;50
 potter's thumb;60;Genetic trait with one short, wide thumb
+Pottery Barn;60
 pottery wheel;60
 pottery wheels;60
 pottle;20
@@ -78923,6 +78968,8 @@ pours one out for;60
 Poussin;30;17th century painter Nicolas Poussin
 pouter;40
 pouters;40
+poutine bar;50
+poutine bars;50
 POV;40
 Povenmire;40;Dan Povenmire, co-creator of "Phineas and Ferb"
 Poverty Year;60;1816, when a volcanic eruption created a volcanic winter
@@ -84918,6 +84965,10 @@ roasted nut;50
 roasted nuts;50
 roasting pan;50
 roasting pans;50
+roastmaster;60
+Roastmaster General;60;Nickname for insult comic Jeff Ross
+roastmasters;60
+roast mutton;50
 rob;50
 Robards;40;Jason Robards, two-time Oscar winner
 Robb;40
@@ -85259,6 +85310,7 @@ rolling up into a ball;30
 rolling up one's sleeves;50
 rolling up to;40
 Rollins;50;Various: Sonny Rollins, Henry Rollins, Seth Rollins
+Rollin' Stone;50;1950 Muddy Waters song
 roll into;40
 Rollo;40;"Nancy" character
 roll of tape;50
@@ -85470,6 +85522,7 @@ roommate meeting;60
 roommate meetings;60
 room number;50
 room numbers;50
+room to spare;60
 Roone;40;Roone Arledge, ABC Sports executive
 Rooney;40;Mickey Rooney, actor / Rooney Mara, actress / Wayne Rooney, footballer
 roos;40
@@ -85632,6 +85685,7 @@ Rossetti;40;Christina Rossetti, poet / Dante Gabriel Rossetti, painter
 Rossi;40;Martini & Rossi wine
 Rossini;50;Gioachino Rossini, "The Barber of Seville" composer
 Ross McElwee;50;American documentary filmmaker (born 1947)
+Ross Poldark;40
 Rossum;40;Emmy Rossum, actor / Rossum's Universal Robots of "R.U.R."
 Rostam;40;Rostam Batmanglij, Vampire Weekend member / Persian epic hero
 Rostand;30;Edmond Rostand, "Cyrano de Bergerac" playwright
@@ -85640,6 +85694,7 @@ roster spot;50
 roster spots;50
 Rostov;30;Russian city Roston-on-Don
 Rostova;40;Natasha Rostova, "War and Peace" heroine
+Rostov-on-Don;40
 rostra;40;Podiums
 rostral;40
 Rostropovich;50;Mstislav Rostropovich, cellist
@@ -91942,6 +91997,8 @@ skateboard park;60
 skateboard parks;60
 skateboard trick;60
 skateboard tricks;60
+skate by;40
+skated by;40
 skated on thin ice;60
 skate guard;50
 skate guards;50
@@ -91952,7 +92009,9 @@ skate punk;50
 skate punks;50
 skate rat;60
 skate rats;60
+skates by;40
 skates on thin ice;60
+skating by;40
 skating on thin ice;60
 skatings;20
 skean;20
@@ -93300,6 +93359,8 @@ Socceroo;50;Australian national soccer player
 Socceroos;50;Australia's national soccer team
 soccer ref;50
 soccer refs;50
+soccer scarf;60
+soccer scarves;60
 socdem;40;Social democrat
 socdems;40;Social democrats
 Sochi;40
@@ -95317,6 +95378,7 @@ stamp tax;50
 stamp taxes;50
 Stana;40;Stana Katic of "Castle"
 stand apart;50
+Standard and Poor's;60
 stand aside;60
 stand at;30
 stand at ease;50
@@ -100935,7 +100997,7 @@ Thea;30
 the ABCs;40
 the absolute unit;60
 The Abyss;60
-The Accidental Tourist;50
+The Accidental Tourist;60
 the ace of clubs;40
 the ace of diamonds;40
 the ace of hearts;40
@@ -104025,6 +104087,8 @@ tooth for a tooth;60
 tooth gel;50
 tooth gels;50
 toot his own horn;50
+toothy smile;60
+toothy smiles;60
 Tootie;30;"The Facts of Life" character
 too tight;40
 tootin';40
@@ -104389,9 +104453,17 @@ tour group;50
 tour groups;50
 touring band;60
 touring bands;60
+tourist attraction;60
+tourist attractions;60
+tourist center;50
+tourist centers;50
 tourist industry;50
 tourist map;50
 tourist maps;50
+tourist season;50
+tourist seasons;50
+tourist spot;60
+tourist spots;60
 tournedos;40;French steak dish tournedos Rossini
 Tourneur;40;Jacques Tourneur, "Cat People" director
 Touro;30;Touro Synagogue, oldest in the US
@@ -112145,6 +112217,7 @@ within driving distance;50
 within walking distance;50
 with legs;30;Having staying power
 Withnail;40;"Withnail and I" title character
+with no room to spare;60
 without a net;50
 without a paddle;60
 without a scratch;50
@@ -112152,6 +112225,7 @@ without a sound;50
 without a word of a lie;50
 without warning;60
 With Reagan;40;Book
+with room to spare;60
 with the love I gave in May;20
 with the naked eye;50
 with this ring I thee wed;60
