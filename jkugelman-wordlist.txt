@@ -735,6 +735,7 @@ above one's pay grade;50
 above one's station;50
 above the fold;60
 above the fray;60
+above the knee;50
 ABQ;40;Albuquerque airport code
 abr.;20
 Abra;40
@@ -3684,6 +3685,7 @@ AL West;50;A.L. West
 Al Wilson;50
 Alwyn;40;Joe Alwyn, British actor
 Aly;40;Olympic captain gymnast Aly Raisman, or Aly Khan married to Rita Hayworth
+Alyan;40;"Salt Houses" author Hala Alyan
 Al Yankovic;60
 Alydar;40;Racehorse, Affirmed's Triple Crown rival
 Aly Khan;40;Prince Aly Khan, husband of Rita Hayworth
@@ -9891,6 +9893,7 @@ BBQ wing;60
 BBQ wings;60
 bbrrootthheerr;0
 BBs;50;Ammo, or BBS
+BBVA;20;Banco Bilbao Vizcaya Argentaria
 BC;40
 B.C.;0
 BCC;40
@@ -10615,6 +10618,7 @@ belonging to;40
 belongs to;40
 belong to;40
 Belova;40;Yelena Belova, Marvel's second Black Widow
+below the knee;50
 Belphegor;40;Demon of sloth
 Belshazzar;50;Babylonian king of the writing on the wall
 Belsnickel;50;German folkloric Christmas gift-bringer
@@ -10672,11 +10676,14 @@ bench players;50
 bench warrant;50
 bench warrants;50
 BenDeLaCreme;50;"RuPaul's Drag Race" queen
+bending the knee;60
 bending the rules;60
 Bendix;40;Brake brand / William Bendix, actor
 Bend, Oregon;60
 Bend Oregon;0
+bends the knee;60
 bends the rules;60
+bend the knee;60
 bend the rules;60
 bene;40;N.B.
 Beneatha;40;Beneatha Younger of "A Raisin in the Sun"
@@ -10771,6 +10778,7 @@ bento boxes;60
 bentonite;30;Type of clay
 Bentonville;40;Arkansas city, Walmart's home
 Bentsen;40;Lloyd Bentsen, "You're no Jack Kennedy" senator
+bent the knee;60
 bent the rules;60
 benvenuti;50;"Welcome" in Italian
 Benvenuto;40;Benvenuto Cellini, Renaissance sculptor
@@ -23763,6 +23771,7 @@ cutman;50;Fighter's corner person
 cutmen;50
 cut me some slack;60
 cut no ice;30
+cut off at the knees;60
 cut off one's nose to spite one's face;50
 cut one's losses;60
 cut one's teeth;50
@@ -35029,6 +35038,7 @@ Figwit;40;Fan nickname for Bret McKenzie's elf extra in "The Lord of the Rings"
 Fiji;50;Pacific island nation
 Fijian;50;From the South Pacific island nation
 Fijians;40;Suva natives
+fika;30
 Fike;40;Dominic Fike, singer and "Euphoria" actor
 fil;20
 Fila;40;Athleisure brand
@@ -40663,6 +40673,8 @@ goes to the polls;60
 goes unnoticed;50
 goes up to;40
 goes vegan;60
+goes weak at the knees;60
+goes weak in the knees;60
 goes west;40;Dies
 goes whole hog;60
 goes with;40
@@ -40843,6 +40855,8 @@ going to the polls;60
 going unnoticed;50
 going up to;40
 going vegan;60
+going weak at the knees;60
+going weak in the knees;60
 going whole hog;60
 going with;40
 going with one's gut;50
@@ -41139,6 +41153,8 @@ gone to the dogs;60
 gone to the mat;60
 gone to the polls;60
 gone unnoticed;50
+gone weak at the knees;60
+gone weak in the knees;60
 gone wrong;40
 Gonggong;40;Dwarf planet named for a Chinese water god
 gong hay fat choy;40;Cantonese phrase used during Chinese New Year
@@ -41727,6 +41743,8 @@ gow;20
 Gowanus;40;Polluted Brooklyn canal
 go way back;60
 Gowdy;40;Curt Gowdy, sportscaster / Trey Gowdy, politician
+go weak at the knees;60
+go weak in the knees;60
 Gower Champion;30
 go whole hog;60
 go with;40
@@ -43460,6 +43478,8 @@ Hakka;40;Chinese ethnic group and language
 Hakuna;40
 Hakuna Matata;60
 Hal;50
+Hala;40;"Salt Houses" author Hala Alyan
+Hala Alyan;40;"Salt Houses" author
 halal;50
 Halal Guys;50;Fast casual restaurant franchise in Manhattan, New York
 Halas;30;George Halas, Chicago Bears coach
@@ -54071,6 +54091,7 @@ kaon;30;Subatomic particle
 kaons;30;Subatomic particles
 KAOS;40;"Get Smart" baddies
 kap;20
+kapa;30;Hawaiian fabric
 Kapadia;40;Asif Kapadia, "Amy" documentarian
 Kapital;40;Das ___, Marx's magnum opus
 Kaplan;40;Kaplan test prep, or Gabe Kaplan, "Welcome Back, Kotter" star
@@ -65143,6 +65164,8 @@ MIII;20
 MI III;20
 Miike;40;Takashi Miike, Japanese director / Miike Snow, band
 Miis;30;Nintendo avatars
+mija;40
+mijo;40
 Mika;40
 Mikado;50;Gilbert and Sullivan operetta
 mikados;30;Japanese emperors
@@ -74723,6 +74746,7 @@ pants press;50
 pants presses;50
 pants role;60
 pants roles;60
+pants that end just below the knee;20
 pantyhose;50
 panty line;50
 panty lines;50
@@ -99088,6 +99112,7 @@ takes the cloth;60;Becomes a priest
 takes the fall;60
 takes the field;60
 takes the heat;60
+takes the knee;60
 takes the L;60
 takes the Lord's name in vain;60
 takes the oath;50
@@ -99113,6 +99138,7 @@ take the cloth;60;Become a priest
 take the fall;60
 take the field;60
 take the heat;60
+take the knee;60
 take the L;60
 take the Lord's name in vain;60
 take the oath;50
@@ -99205,6 +99231,7 @@ taking the cloth;60;Becoming a priest
 taking the fall;60
 taking the field;60
 taking the heat;60
+taking the knee;60
 taking the L;60
 taking the lord's name in vain;60
 taking the oath;50
@@ -104196,6 +104223,7 @@ took the cloth;60;Became a priest
 took the fall;60
 took the field;60
 took the heat;60
+took the knee;60
 took the L;60
 took the Lord's name in vain;60
 took the oath;50
@@ -110133,10 +110161,12 @@ wds.;40
 WDYM;40;"What do you mean?" in texts
 we;50
 wea;20
+weak at the knees;60
 weak boson;50
 weak bosons;50
 Weakerthans;40;The Weakerthans, Winnipeg indie band
 weak force;50
+weak in the knees;60
 Weakling Smurf;50
 weak sauce;60
 weak side;50
@@ -110741,6 +110771,8 @@ went to the polls;60
 went unnoticed;50
 went up to;40
 went vegan;60
+went weak at the knees;60
+went weak in the knees;60
 went whole hog;60
 went with;40
 went with it;50
