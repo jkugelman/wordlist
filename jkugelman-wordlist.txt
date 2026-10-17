@@ -1997,6 +1997,7 @@ afterparty;60
 afters;30
 aftersun;40;Beach lotion
 Aftersun;40;2022 Charlotte Wells film
+after sunset;50
 after Thanksgiving;50
 After the Gold Rush;50;1970 studio album by Neil Young
 after them;50
@@ -4645,7 +4646,12 @@ Animal Crossing;60
 animal crossing;0
 animalcule;40;Microscopic organism, archaic
 animalcules;40
+animal hide;50
+animal hides;50
+animal hospital;60
+animal hospitals;60
 Animal House;60
+animal husbandry;60
 Animalia;40;The animal kingdom
 animal instinct;60
 animal instincts;60
@@ -6671,7 +6677,9 @@ Asimovian;50
 as I recall;60
 as I said;60
 as I say;50
+as I see;20
 as I see it;60
+as I see it, yes;50
 as I suspected;60
 as it says;50
 as it seems;40
@@ -10447,6 +10455,8 @@ before I knew it;60
 before one's eyes;50
 before one's time;60
 before pop or roll;20
+Before Sunrise;60
+Before Sunset;60
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
 before you answer;60
 before you rush to judgment;60
@@ -10574,6 +10584,7 @@ Belkin;40;Electronics accessory brand
 Bella;50;Common given name
 Bellagio;60
 Bellamy;40;Edward Bellamy, "Looking Backward" author / Ralph Bellamy, actor
+Bella Ramsey;60;"The Last of Us" actress
 Bellarmine;40;Robert Bellarmine, Catholic saint and cardinal
 Bellas;40;"Pitch Perfect" a cappella group
 Bella Swan;50
@@ -24815,6 +24826,7 @@ deadbeat;60
 deadbeats;60
 dead bodies;40
 dead body;40
+Dead by Sunrise;50;Chester Bennington rock supergroup
 dead calm;50
 dead center;50
 dead centre;20
@@ -50643,6 +50655,7 @@ in too deep;60
 into question;30
 into shape;30
 Into the Spider-Verse;60
+into the sunset;60
 Into the Woods;60
 Into You;50;2016 single by Ariana Grande
 intra-;40
@@ -51667,6 +51680,7 @@ it/its pronouns;50
 it its pronouns;0
 it just dawned on me;60
 it just goes to show;60
+it just occurred to me;60
 it just so happens;60
 it lays;20
 it'll;50
@@ -68296,6 +68310,7 @@ national birds;30
 national forests;50
 National Gallery;50
 national holiday;50
+National Lampoon's Animal House;60
 national treasure;60
 native ameri;0
 native to;40
@@ -83003,6 +83018,8 @@ red tape;60
 red thermometers;0
 red tie;20;Green paint
 red ties;20
+red tomato;50
+red tomatoes;50
 RedTube;10;Pornographic video site
 reduced to tears;60
 reducer;40
@@ -84581,6 +84598,7 @@ ride by;40
 ride 'em;0
 ride in;40
 ride into;40
+ride into the sunset;60
 ride on;40
 ride or die;60
 ride-or-die chick;60
@@ -84599,6 +84617,7 @@ ridesharing app;60
 ridesharing apps;60
 rides in;40
 rides into;40
+rides into the sunset;60
 rides on;40
 rides the pine;50
 rides the struggle bus;60
@@ -84623,6 +84642,7 @@ riding caps;50
 riding chaps;50
 riding in;40
 riding into;40
+riding into the sunset;60
 riding on;40
 ridings;40;Weird plural
 riding the pine;50
@@ -85309,6 +85329,7 @@ rode away;30
 rode by;40
 rode in;40
 rode into;40
+rode into the sunset;60
 Rodentia;40;Rodent order
 rodent of unusual size;60
 rodeo athlete;50
@@ -97871,7 +97892,20 @@ sun-ripen;60
 sun-ripened;60
 sun-ripening;60
 sun-ripens;60
+Sunrise: A Song of Two Humans;50;1927 silent film by F. W. Murnau
+Sunrise A Song of Two Humans;0
+sunrise ceremonies;50
+sunrise ceremony;50
 Sunrise Serenade;30
+sunrise service;60;Christian worship service on Easter
+sunrise services;60;Christian worship services on Easter
+Sunrise, Sunset;60
+Sunrise Sunset;0
+Sunset at Sea;50;1906 Thomas Moran painting
+Sunset at Sea after a Storm;50;1824 painting by Francis Danby
+Sunset Beach;50
+Sunset Blvd.;60
+Sunset Boulevard;60
 sunshine law;60
 sunshine laws;60
 sunstruck;50
@@ -109108,6 +109142,8 @@ vodka crans;60
 vodka martini;60
 vodka martinis;60
 vodka neat;60
+vodka sunrise;50
+vodka sunrises;50
 vodka tonic;60
 vodka tonics;60
 VODs;40;Video-on-demand streams
@@ -110633,6 +110669,7 @@ Wemby;50;Victor Wembanyama, NBA star's nickname
 we mean you no harm;60
 we meet again;60
 we met;30;"Have ___?", "The night ___"
+We Might Be Dead by Tomorrow;50;2012 single by Soko
 wen;30;Model Liu Wen, Ming-Na Wen who played Mulan, Chinese premier Wen Jiabao
 Wences;30;Ventriloquist
 Wenceslas;50;Good King Wenceslas of the Christmas carol
