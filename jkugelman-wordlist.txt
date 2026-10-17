@@ -58083,6 +58083,8 @@ Leinenkugel;50;Wisconsin beer brand
 Leinenkugels;40;Wisconsin beers
 Leinster;40;Irish province
 Leipzig;50;German city of Bach and the Battle of Nations
+leister;30;Spearfishing spear
+leisters;30;Spearfishing spears
 leisure centre;20
 leisure centres;20
 leisured;30
