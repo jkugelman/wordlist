@@ -12439,6 +12439,7 @@ blueness;30
 blue note;60
 blue notes;60
 Blue Nun;30
+blue onyx;50
 Blue Origin;60
 blue paint;20
 blue paper;30
@@ -64841,6 +64842,7 @@ Mexican Coke;60
 Mexican Cokes;60
 Mexican meal;20
 mexicano;50
+Mexican onyx;50
 Mexicans;50;People of Mexico
 Mexico;50;Country south of the border
 Mexicoke;50;Cane-sugar Coca-Cola from Mexico
@@ -72771,8 +72773,9 @@ on TV;40
 on video;50
 on with it;60
 Onwurah;40;Ngozi Onwurah, British-Nigerian filmmaker
-onyx;60
+onyx;50
 onyxes;40
+onyx marble;50
 onze;40;Eleven, in French
 Oobi;30;Children's television show
 oocyte;40
