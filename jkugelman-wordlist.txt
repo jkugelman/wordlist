@@ -16268,6 +16268,7 @@ can I ask a question?;60
 can I ask a question;0
 can I ask you something;60
 can I buy you a drink?;60
+can I change my mind?;60
 can I come;60
 canid;50
 canids;50;Wolves, jackals, etc.
@@ -18262,6 +18263,7 @@ changed the channel;60
 changed to;40
 change key;60
 change keys;60
+change my mind;60
 change of perspective;50
 change of state;50
 change one's mind;50
@@ -24048,6 +24050,8 @@ Dabney;30;Actor Dabney Coleman
 d'Abo;30;Actress Olivia d'Abo, Kevin's sister in "The Wonder Years"
 da bomb;60
 dab on;40
+dab rig;40
+dab rigs;40
 dabs at;40
 dabs on;40
 da Bulls;60
@@ -30127,6 +30131,7 @@ edamame;60
 Ed Ames;40
 Edams;40
 EDB;20
+Edberg;40
 Edd;40;Edd Hall
 Edda;40
 Eddas;40;Norse literary works
@@ -31324,6 +31329,7 @@ en arriere;0
 E natural;50
 E natural scale;30
 en banc;40
+Enberg;40
 en bloc;40
 Enbrel;20
 en brosse;30;Crew-cut style (hair "en brosse")
@@ -45138,7 +45144,7 @@ H E double hockey sticks;60
 Hedren;40;Tippi Hedren, star of "The Birds"
 Hedwig;50;Harry Potter's owl, or "Hedwig and the Angry Inch"
 Hedwig and the Angry Inch;60
-Hedy;50;Hedy Lamarr, actress and inventor
+Hedy;40;Hedy Lamarr, actress and inventor
 hee;40
 heeder;30
 heeders;30
@@ -49154,7 +49160,7 @@ ileitis;20
 Ilene;30;Graff, Chaiken, Woods
 Ilenes;20
 ileostomy;30
-Iler;40;Robert Iler, who played A.J. on "The Sopranos"
+Iler;30;Robert Iler, who played A.J. on "The Sopranos"
 îles;40
 ileum;40;Last division of the small intestine
 Ilex;20;Holly
@@ -49179,6 +49185,7 @@ ilium;40;Pelvis bone
 Iliza;40;Iliza Shlesinger, comedian
 ilk;50
 Ilka;40;Ilka Chase, actress and writer
+Ilka Chase;40
 Ilkhanate;40;Mongol dynasty that ruled Persia
 ilks;40;Weird plural
 ill;50
@@ -51420,6 +51427,7 @@ Ismaili;40;Branch of Shia Islam
 Ismailia;40;Egyptian city on the Suez Canal
 Ismailis;40;Shia Muslim branch led by the Aga Khan
 Ismailism;40;Branch of Shia Islam
+Ismail Kadare;40
 is meant to be;60
 Ismene;30;Antigone's sister
 is missing;0
@@ -52164,6 +52172,7 @@ I've been had;60
 I've been selfish;60
 I've been there;60
 I've been thinking;60
+I've changed my mind;60
 I've done it;60
 I've eaten;50
 I've fallen;0
@@ -56812,6 +56821,7 @@ landlocked water;0
 land management;50
 Lando;50;Lando Calrissian of "Star Wars" / Lando Norris, F1 driver
 Lando Calrissian;60
+land of milk and honey;60
 Land of Ooo;60;Main setting of "Adventure Time"
 Land of Oz;60
 land on;40
@@ -58332,7 +58342,8 @@ Le Rouge;20
 Leroux;40;Gaston Leroux, "The Phantom of the Opera" author
 Leroy;50;Common first name, as in "Bad, Bad Leroy Brown"
 Leroys;30;Plural name
-les;50;Name or article
+Les;50
+les;40
 LeSabre;40;Buick model
 LeSabres;50;Buick sedans
 Lesage;30;Alain-René Lesage, French novelist in 1700s
@@ -65364,6 +65375,7 @@ military decorations;60
 military service;60
 military time;60
 military uniform;50
+milk and sugar;50
 Milk-Bone;60
 Milk-Bones;60
 milk chocolate;50
@@ -70537,6 +70549,7 @@ nothing is set in stone;60
 nothing lasts forever;60
 nothing more;50
 nothing new;50
+Nothing's Gonna Change My Love for You;50;1985 song
 nothing's set in stone;60
 Nothing's Too Good For My Baby;50;1956 Louis Prima song / 1966 Stevie Wonder song
 nothing to fuck with;10
@@ -73884,7 +73897,7 @@ Ouarzazate;40;Moroccan film-studio city
 oud;20;Pear-shaped stringed musical instrument
 ouest;30;West, in French
 oui;50
-ouid;40;Filter-avoiding spelling of weed
+ouid;30;Filter-avoiding spelling of weed
 Ouida;40;Victorian novelist's pen name
 Ouida's;0
 Ouija;50;Spirit board
@@ -85304,6 +85317,7 @@ Robert E. Lee;10
 Robert Fripp;50
 Robert Frost;50
 Roberti;30
+Robert Iler;40
 Roberto;50;Common Italian and Spanish first name
 Roberto Matta;40;Chilean surrealist painter
 Robert Prevost;50;Pope Leo XIV
@@ -89573,6 +89587,7 @@ Seneca;50;Roman Stoic philosopher, or the New York falls
 Senecan;40;Of the Roman Seneca
 Senecas;40;Iroquois people
 Senecio;30;Plant genus
+Senecio milkanioides;20;Cape Ivy
 Senegal;50;West African country
 Senegalese;50;From Dakar's country
 Senegambia;40;Senegal and Gambia region
@@ -92588,6 +92603,7 @@ skydivers;50
 skydives;50
 skydiving;50
 SkyDome;40;Toronto's former ballpark name
+skydove;40
 Skye;50
 Skyfall;50;Bond film and Adele theme
 skying out;30
@@ -92626,6 +92642,8 @@ skyscraper;50
 skyscrapers;50
 SkyTel;20;Telecom company
 Skywalker;60;Luke Skywalker, "Star Wars" Jedi
+skywave;40
+skywaves;40
 Skyy;40;Vodka brand
 Skyy Vodka;50
 SLA;20
@@ -92754,6 +92772,9 @@ Slavoj;40;Slavoj Žižek, Slovenian philosopher
 Slavonia;40;Region of eastern Croatia
 Slavonic;40;As in Old Church Slavonic
 Slavs;50;Eastern European peoples
+slayed it;50
+slay it;50
+slays it;50
 Slayton;40;Astronaut Deke Slayton
 Slayyyter;40;Pop singer
 SLC;40
@@ -94187,6 +94208,8 @@ soothly;30;Truly, archaic
 sooting;30
 so over it;60
 sop;50
+sope;30
+sopes;30
 soph.;40
 Sophia;50;Sophia Loren, actor / common first name
 Sophiatown;40;Historic Johannesburg neighborhood
@@ -100264,6 +100287,8 @@ tea parties;60
 tea party;60
 tea pearl;50
 tea pearls;50
+tea pet;50;Chinese clay figurine shaped like a zodiac animal
+tea pets;50;Chinese clay figurines shaped like zodiac animals
 teapoy;30;Tea stand
 tearasder;0
 tear at;40
