@@ -3926,6 +3926,7 @@ Americanize;50;Make more like the US
 Americanized;50;Made to fit U.S. tastes
 Americanizes;40;Makes more like the USA
 Americanizing;50;Adapting to U.S. ways
+American Ninja Warrior;60
 americano;50;Espresso cut with hot water
 Americano;0
 americanos;50;Espresso drinks cut with hot water
@@ -29602,6 +29603,7 @@ earldom;30
 earldoms;30
 Earle;40;Country singer Steve Earle
 earless;30
+Earl Grey tea;60
 earlies;30
 Earl Monroe;50;NBA hall of famer
 early admission;60
@@ -65447,6 +65449,7 @@ minimum word counts;50
 minimus;40
 minimuses;40
 mining;50
+Mini Ninjas;50;2009 video game
 minion;50
 Minionese;60;Minion language
 Minion language;60
@@ -69557,8 +69560,16 @@ ninja edit;60
 ninja-edited;60
 ninja-editing;60
 ninja edits;60
+Ninja Gaiden;60
 Ninjago;40;Lego's ninja franchise
+ninja loan;60
+ninja master;50
+ninja masters;50
+ninja particle;20
+ninja particles;20
 ninjas;60
+ninja shoe;50
+ninja shoes;50
 ninja star;60
 ninja stars;60
 Ninja Turtle;60
