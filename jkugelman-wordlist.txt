@@ -22462,10 +22462,18 @@ Coursera;40;Online course platform
 Courtauld;40;London art institute and gallery
 court brief;50
 court briefs;50
+court danger;60
+court disaster;60
+court docket;50
+court dockets;50
+courted danger;60
+courted disaster;60
 Courtenay;40;Tom Courtenay, English actor
 Courteney;40;Courteney Cox, "Friends" actress
 courtesy light;60
 courtesy lights;60
+courting danger;60
+courting disaster;60
 court justice;50
 Courtney;50;Common first name: Courtney Love, Courtney B. Vance
 Courtney Love;60
@@ -22473,6 +22481,8 @@ court reporter;50
 court reporters;50
 court ruling;50
 court rulings;50
+courts danger;60
+courts disaster;60
 court success;20
 court summons;50
 Courvoisier;50;Cognac brand
@@ -56831,6 +56841,7 @@ Lanny;40;Lanny Budd, Upton Sinclair's series protagonist
 Lanois;40;Daniel Lanois, producer for U2 and Bob Dylan
 lanoitanatsugua;0
 lanolins;30;Plural of wool grease
+la notte;40
 LANs;40;Local area networks
 Lansbury;50;Angela Lansbury, "Murder, She Wrote" star
 Lansdowne;40;Lansdowne portrait of Washington
@@ -57642,25 +57653,26 @@ leans on;40
 leans to;40
 leant;30
 lean-to;50
+leant on;40
 lean-tos;50
-leap at;40
+leap at;50
 leaped into;40
 leaper;40
 leapers;40
 leap for;40
 leapfrog;60
-leaping at;40
+leaping at;50
 leaping into;40
 leaping to;40
 leap into;40
 leap on;40
-leaps at;40
+leaps at;50
 leap second;50
 leap seconds;50
 leaps into;40
 leaps on;40
 leaps to;40
-leapt at;40
+leapt at;50
 leapt into;40
 leap to;40
 leapt on;40
@@ -58358,6 +58370,7 @@ let it be known;60
 let it die;50
 let it drop;50
 let it go;60
+Let It Go;60;Song from Disney's 2013 film "Frozen"
 Letitia;40;Letitia James, New York attorney general / Letitia Wright, actor
 let it lie;50
 let it rip;60
@@ -58898,6 +58911,7 @@ Lighthouse of Alexandria;60
 lighting fixture;50
 lighting fixtures;50
 lighting into;50
+lighting on;40
 lighting the way;50
 light in the attic;60
 light into;50
@@ -58910,11 +58924,13 @@ Lightning McQueen;60
 lightning never strikes twice;60
 lightnings;40;Weird plural
 light of my life;60
+light on;40
 light on one's feet;50
 light opera;50
 light operas;50
 light rum;50
 lights into;50
+lights on;40
 lights the way;50
 light the way;50
 light up sneakers;60
@@ -59098,6 +59114,7 @@ Lincoln Memorial;50
 Lincoln, NE;30
 Lincolns;40;Lincoln cars
 Lincolnshire;50;English county
+linctus;30;Cold medicine
 Lind;40;Jenny Lind, the "Swedish Nightingale"
 Linda;50;Common first name
 Linda Lovelace;50
@@ -59406,7 +59423,7 @@ Lithuanians;50;Baltic people
 LitHub;40;Literary Hub, books website
 lit into;50
 litmus paper;60
-lit on;30;Discovered by chance
+lit on;40;Discovered by chance
 litotes;20;Understatement
 litre;40
 litres;40
@@ -70494,6 +70511,8 @@ not keen;40
 not keen to;40
 not kosher;60
 not less;0
+not let it go any further;50
+not let it go further;50
 Notley;40;Rachel Notley, Alberta premier
 not like;0
 not like that;60
@@ -93639,6 +93658,7 @@ social cue;60
 social cues;60
 social experiment;60
 social experiments;60
+social grace;60
 socialite;60
 socialites;60
 social media addiction;60
