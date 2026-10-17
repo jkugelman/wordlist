@@ -47188,6 +47188,7 @@ hot salsa;60
 hot salsas;50
 hot sauce;50
 hot sauces;50
+hot secs;40
 (Hot Shit) Country Grammar;10;2000 single by Nelly
 hotshot;60
 hotshots;60
@@ -78664,6 +78665,8 @@ popped pills;40
 popped the clutch;60
 popped the hood;60
 popped wheelies;60
+poppet;40
+poppets;40
 pop pills;40
 Poppin';40;Poppin' Fresh, the Pillsbury Doughboy
 popping a pill;40
