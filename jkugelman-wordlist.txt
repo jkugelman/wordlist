@@ -27782,6 +27782,8 @@ don't move a muscle;60
 don't overdo it;60
 don't panic;60
 Don't Pass;50;Craps bet against the shooter
+don't pass bet;60
+don't pass bets;60
 Don't Play That Song (You Lied);50;1962 single by Ben E. King
 don't poke the bear;60
 don't push it;60
@@ -75095,7 +75097,8 @@ Passiontide;40;Season leading up to Easter
 Passive-Aggressive Smurf;60
 passive income;60
 pass line;50
-pass line bet;50
+pass line bet;60
+pass line bets;60
 pass muster;50
 pass off as;40
 pass on;40
