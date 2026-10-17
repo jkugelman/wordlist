@@ -27249,6 +27249,8 @@ does it look like I'm joking?;60
 does it look like I'm kidding?;60
 does it look like I'm laughing?;60
 does it matter;60
+does it scale?;60
+does it scale;0
 does it spark joy?;60;Marie Kondo-ism
 does laps;50
 does lunch;50
@@ -110891,6 +110893,7 @@ what could have been;60;Trope
 what did I just read;60
 what does it matter;60
 what does it say?;60
+what does it say;0
 what does that even mean;60
 what does that have to do with the price of tea in China?;60
 what does that mean;60
