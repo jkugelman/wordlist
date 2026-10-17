@@ -58368,6 +58368,8 @@ let him cook;60
 lethologica;60;Inability to remember the right word (tip of the tongue)
 let in on;40
 let into;40
+Let It Be;60;Beatles song/album
+let it be;50
 let it be known;60
 let it die;50
 let it drop;50
