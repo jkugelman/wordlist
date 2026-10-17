@@ -9884,11 +9884,11 @@ BBQ burger;60
 BBQ burgers;60
 BBQ chicken;60
 BBQ chips;60
-BBQed;40;Cooked on the grill
+BBQed;50;Cooked on the grill
 BBQ'ed;0
 BBQ grill;60
 BBQ grills;60
-BBQing;60
+BBQing;50
 BBQ joint;60
 BBQ joints;60
 BBQ lighter;60
@@ -28326,6 +28326,7 @@ D plus;50
 DPRK;30;Democratic People's Republic of Korea
 DPs;30;Double plays
 DPT;20
+DQ;40
 DQed;40
 DQ'ed;0
 DQing;40;Disqualifying
@@ -80948,6 +80949,7 @@ Q and Z;30
 QAnon;60
 Qantas;50;Australian airline
 Q&A's;50
+Q as;20
 Qashqai;40;Nissan SUV, or an Iranian ethnic group
 Qashqais;40;Nissan models, or the Iranian ethnic group
 qat;30
@@ -80964,7 +80966,7 @@ QC check;40
 QC checks;40
 Qdoba;50;Mexican fast-casual chain
 Qdobas;40;Mexican fast-casual chains
-QED;50
+QED;40
 Qfwfq;20;Italo Calvino's "Cosmicomics" narrator
 qi;40
 QI;40;British comedy panel game television quiz show
