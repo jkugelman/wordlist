@@ -57948,6 +57948,7 @@ Leeuwenhoek;50;Antonie van Leeuwenhoek, father of microbiology
 Leeves;40;Jane Leeves of "Frasier"
 Leeza;40;Leeza Gibbons, talk show host
 Lefebvre;40;Henri Lefebvre, French Marxist philosopher
+lefse;30;Norwegian flatbread
 left a comment;60
 left a loophole;50
 left a mark;60
