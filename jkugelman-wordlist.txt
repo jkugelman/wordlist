@@ -37970,7 +37970,7 @@ gab;50
 Gabaldon;40;"Outlander" books author Diana Gabaldon
 Gabbana;40;Stefano Gabbana, half of Dolce & Gabbana
 Gabby's;40;"Gabby's Dollhouse", kids' cartoon
-Gabe;40;Gabe Kotter, "Welcome Back, Kotter" teacher / short for Gabriel
+Gabe;50;Gabe Kotter, "Welcome Back, Kotter" teacher / short for Gabriel
 gabfest;50
 gabfests;50
 Gabin;40;Jean Gabin, French film star
@@ -43276,6 +43276,7 @@ habanero;60
 habanero pepper;60
 habanero peppers;60
 habaneros;60
+habeas;40
 habeas corpus;60
 Haber;40;Fritz Haber, chemist behind the Haber process
 habergeon;30;Medieval coat of mail
@@ -43288,6 +43289,7 @@ Habs;40;Montreal Canadiens, familiarly
 Habsburg;50;European royal dynasty
 Habsburgs;50;European royal dynasty
 háček;30;Czech diacritic (ˇ)
+háčeks;30;Czech diacritics (ˇ)
 Hachette;40;Book publisher
 Hachiko;50;Loyal Japanese dog memorialized in Shibuya
 hackamore;40;Horseriding gear
