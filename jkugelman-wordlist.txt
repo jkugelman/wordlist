@@ -6142,6 +6142,12 @@ Army Ranger;50
 Army Rangers;50
 army recon;50
 army recruits;50
+army trainee;50
+army trainees;50
+army training;50
+army troops;50
+army truck;50
+army trucks;50
 army trunk;50
 army trunks;50
 army veteran;50
@@ -41684,13 +41690,16 @@ grabbed a bite;50
 grabbed a cab;50
 grabbed a nap;50
 grabbed at;40
+grabbed dinner;50
 grabbed on;40
 grabbing;50
 grabbing a bite;50
 grabbing a cab;50
 grabbing a nap;50
 grabbing at;40
+grabbing dinner;50
 grabbing on;40
+grab dinner;50
 grabedaite;0
 graben;20;Valley: Geology
 grabens;20;Valleys: Geology
@@ -41704,6 +41713,7 @@ grabs a bite;50
 grabs a cab;50
 grabs a nap;50
 grabs at;40
+grabs dinner;50
 grabs on;40
 grab the bull by the horns;60
 Graça;40;Graça Machel, Mozambican activist and Nelson Mandela's widow
@@ -90630,6 +90640,8 @@ shops at;40
 shops for;40
 shop talk;60
 Shor;40;Toots Shor, legendary New York saloonkeeper
+shore dinner;50;Seafood dinner
+shore dinners;50;Seafood dinners
 shore leave;60
 Shoresy;40;"Letterkenny" character with his own spinoff
 short A;40
@@ -113607,6 +113619,7 @@ yonis;30
 Yonkers;40;New York city
 Yonkers, NY;30
 Yoo;30;"Yoo-hoo!"
+Yooka-Laylee;30;Spiritual successor to the Banjo-Kazooie series
 Yoon;30
 Yooper;50;Michigan Upper Peninsula native
 Yoopers;50;Upper Peninsula residents
