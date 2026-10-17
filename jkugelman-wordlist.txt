@@ -20822,6 +20822,9 @@ cold spell;50
 cold spells;50
 cold spot;50;Supposed paranormal sign
 cold spots;50;Supposed paranormal signs
+Cold Stone;60
+Cold Stone Creamery;60
+cold storage;60
 cold streak;50
 cold streaks;50
 cold virus;50
@@ -22146,7 +22149,12 @@ cosmist;40
 cosmists;40
 Cosmo girl;50
 Cosmo girls;50
+cosmological constant;60
 cosmological principle;60
+cosmologies;50
+cosmologist;60
+cosmologists;60
+cosmology;60
 cosmonaut;60
 cosmonauts;60
 Cosmopolis;40;Don DeLillo novel and Cronenberg film
@@ -49329,6 +49337,7 @@ I'm not playing around;60
 I'm not scared;60
 I'm not scared of you;60
 I'm not sorry;60
+I'm not so sure;60
 I'm not sure;60
 I'm not surprised;60;"We all saw that one coming"
 I'm not taking questions;60
@@ -49687,6 +49696,7 @@ inclusivity;50
 Incogmeato;60;Meat substitute
 incognito;60
 in coins;40
+in cold storage;60
 income gap;60
 income gaps;60
 income statement;50
@@ -70167,6 +70177,7 @@ not kosher;60
 not less;0
 Notley;40;Rachel Notley, Alberta premier
 not like;0
+not like that;60
 Not Like Us;60;Kendrick Lamar diss track
 not live;0
 not long for this world;60
@@ -70207,6 +70218,7 @@ not safe for work;60
 not so fast;60
 not so hot;60
 not-so-secret menu;60
+not-so-subtle;60
 not so sure;60
 not speak well of;50
 not sure why;60
@@ -78331,6 +78343,7 @@ poor you;60
 Poots;40;Imogen Poots, actress
 pop;50
 Popaganda;50;Ron English's street art coinage
+pop a pill;40
 pop artist;50
 pop artists;50
 pop a squat;60
@@ -78417,6 +78430,7 @@ Popov;40;Alexander Popov, radio pioneer / vodka brand
 Popovich;50;Gregg Popovich, longtime Spurs coach
 poppa;40;Papa variant
 poppas;20;Papas variant
+popped a pill;40
 popped a squat;60
 popped a wheelie;60
 popped in a DVD;30;Green paint
@@ -78431,6 +78445,7 @@ popped the hood;60
 popped wheelies;60
 pop pills;40
 Poppin';40;Poppin' Fresh, the Pillsbury Doughboy
+popping a pill;40
 popping a squat;60
 popping a wheelie;60
 popping in a DVD;30;Green paint
@@ -78451,6 +78466,7 @@ poppy seed bagels;60
 poppyseed bagels;0
 poppyseed roll;60
 poppyseed rolls;60
+pops a pill;40
 pops a squat;60
 pops a wheelie;60
 pop scene;50
