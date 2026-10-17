@@ -2565,6 +2565,8 @@ Aisling;40;Aisling Bea, Irish comedian
 AI slop;60
 AI slop video;60
 AI slop videos;60
+AI summaries;60
+AI summary;60
 ait;20
 AITA;20
 Aitana;40;Aitana Bonmatí, Ballon d'Or soccer star
@@ -6597,6 +6599,7 @@ ashlar;20;Masonry
 ashlars;20;Masonry
 Ashlee;40;Simpson sister
 Ashleigh;40;Ashleigh Barty, tennis champion
+ashless;40
 Ashley;50;Common first name
 Ashly;40;Ashly Burch, voice actress and "Mythic Quest" writer
 Ashly Burch;40;Voice actress and "Mythic Quest" writer
@@ -8543,6 +8546,7 @@ Bahnhof;40;German train station
 Bahrain;50;Persian Gulf island nation
 Bahraini;40;Of Bahrain
 Bahrainis;40;People of Bahrain
+Bahrein;30;Alternate spelling of Bahrain
 bahs;30
 baht;40;Thai currency
 bahts;40;Thai currency
@@ -22697,6 +22701,8 @@ cranium-crushing;50
 crank it;60
 Cranmer;40;Thomas Cranmer, Archbishop of Canterbury under Henry VIII
 Cranston;50;Bryan Cranston, "Breaking Bad" star
+crapfest;60
+crapfests;60
 crap game;50
 crap games;50
 Crapo;20
@@ -56721,6 +56727,10 @@ La Nina;0
 Lanka;40;Sri Lanka's second half
 Lankan;40
 lanker;40
+lanner;30
+lanneret;40
+lannerets;40
+lanners;30
 Lannister;50;"Game of Thrones" house
 Lannisters;50;"Game of Thrones" house that always pays its debts
 Lanny;40;Lanny Budd, Upton Sinclair's series protagonist
@@ -56801,6 +56811,9 @@ Laplanders;10;Historical term for the Sámi people, sometimes considered offensi
 La Porte;40;Towns in Indiana and Texas
 Lapp;10;Historical term for the Sámi people, sometimes considered offensive
 lapped at;40
+lappet;40;Hanging part of a headdress or garment
+lappeted;40
+lappets;40;Hanging parts of a headdress or garment
 lapping at;40
 Lappish;40
 Lapps;10;Historical term for the Sámi people, sometimes considered offensive
@@ -61638,6 +61651,7 @@ Mahesh;40;Maharishi Mahesh Yogi, Transcendental Meditation founder
 Mahfouz;40;Naguib Mahfouz, Nobel-winning Egyptian novelist
 mahi;40
 Mahler;50;Gustav Mahler, symphonist
+Mahler's;30
 Mahmoud;40;Mahmoud Abbas, Palestinian president
 Mahna;30;"Mahna Mahna," Muppets song
 Mahomes;50;Patrick Mahomes, Chiefs quarterback
@@ -62759,7 +62773,9 @@ Marie Callender's;50
 Marie Curie;50
 Mariel;40;Mariel Hemingway, actress, or the Mariel boatlift
 marielouiseelisabethvigeelebrun;0
+Marie Lu;40;Young adult sci-fi/fantasy author
 Marienbad;40;"Last Year at Marienbad" spa town
+Marie NDiaye;40;French novelist and playwright (born 1967)
 Maries;30
 Marietta;40;Georgia city / "Naughty Marietta" operetta
 Mariette;30;Unsure who [never used in NYT]
@@ -75061,6 +75077,8 @@ party officials;60
 party on;60
 party peanut;50
 party peanuts;50
+party planner;60
+party planners;60
 Party Planner Smurf;50
 party playlist;60
 party playlists;60
@@ -77936,6 +77954,8 @@ plotline;50
 plotlines;50
 plot point;50
 plot points;50
+plot summaries;60
+plot summary;60
 plotz;40;Burst with emotion, from the Yiddish
 plotzed;40
 plotzes;40
@@ -81867,6 +81887,8 @@ rapeseed;40
 rapeseed oil;40
 rap fan;40;Green paint
 rap fans;40
+rap feud;60
+rap feuds;60
 Rap God;60
 rap group;50
 rap groups;50
@@ -87639,6 +87661,12 @@ Saudis;40;Riyadh residents
 Sauk;20;Green Bay tribe
 Saul;50;Biblical king / "Better Call Saul"
 Sault;40;Sault Ste. Marie, city in Michigan and Ontario
+Sault Ste. Marie;50
+Sault Ste Marie;0
+Sault Ste. Marie, Michigan;50
+Sault Ste Marie Michigan;0
+Sault Ste. Marie, Ontario;50
+Sault Ste Marie Ontario;0
 Saunders;40;George Saunders, "Lincoln in the Bardo" author
 sauntered in;50
 sauntered out;50
@@ -89655,6 +89683,7 @@ set a goal;50
 set ahead;40
 set at;40
 set a top;40
+set a trap for;50
 set boundaries;60
 set design;60
 setenta;40
@@ -89691,6 +89720,7 @@ sets a goal;50
 sets ahead;40
 setsapr;0
 sets at;40
+sets a trap for;50
 sets boundaries;60
 sets eyes on;50
 sets fire to;40
@@ -89719,6 +89749,7 @@ setting a course for;50
 setting aflame;50
 setting a goal;50
 setting ahead;40
+setting a trap for;50
 setting boundaries;60
 setting eyes on;50
 setting fire to;40
@@ -93855,6 +93886,7 @@ Sonic the Hedgehog;60
 Sonic Youth;60
 son-in-law;50
 Sonja;40;Red Sonja, comics heroine / Sonja Henie, figure skater
+sonless;40
 sonneteer;40
 sonneteers;40
 sonnies;30
@@ -96119,6 +96151,7 @@ Stellan Skarsgard;50
 Stellantis;40;Automaker that owns Jeep and Chrysler
 Stellas;40;Stella Artois beers
 stellate;40;Arranged in a radiating pattern like a star
+Ste. Marie;50
 stem cell;60
 stem cell research;60
 stem cells;60
@@ -99010,6 +99043,7 @@ takes the heat;60
 takes the L;60
 takes the Lord's name in vain;60
 takes the oath;50
+takes the rap for;50
 takes the reins;60
 takes the scenic route;50
 takes the wheel;50
@@ -99034,6 +99068,7 @@ take the heat;60
 take the L;60
 take the Lord's name in vain;60
 take the oath;50
+take the rap for;50
 take the scenic route;50
 take the wheel;50
 take time;50
@@ -99125,6 +99160,7 @@ taking the heat;60
 taking the L;60
 taking the lord's name in vain;60
 taking the oath;50
+taking the rap for;50
 taking the reins;60
 taking the scenic route;50
 taking the wheel;50
@@ -99790,6 +99826,8 @@ taxman;50
 Taxol;30;Chemotherapy drug
 taxon;40;Kingdom, phylum, etc.
 taxpayer dollars;60
+tax planner;50
+tax planners;50
 tax pro;50
 tax pros;50
 tax revenue;50
@@ -104113,6 +104151,7 @@ took the heat;60
 took the L;60
 took the Lord's name in vain;60
 took the oath;50
+took the rap for;50
 took the reins;60
 took the scenic route;50
 took the wheel;50
@@ -104887,6 +104926,8 @@ trapeze bar;50
 trapeze bars;50
 trapezes;50
 trapezia;20;Wrist bones
+trap for;20
+trap for speeding drivers;20
 Trapp;40
 Trappist;40;Like beer brewed by monks
 Trappist nun;50
@@ -108541,6 +108582,8 @@ Victorians;50;People of a British era
 Victoria's;40;Victoria's Secret, lingerie brand
 Victorien;40;Victorien Sardou, French playwright
 Victorinox;50;Swiss Army knife maker
+Victor-Marie Hugo;50
+Victor Marie Hugo;0
 Victor/Victoria;60
 Victor Victoria;0
 Victorville;40;California desert city
@@ -114747,6 +114790,7 @@ Ziploc baggie;50
 Ziploc baggies;50
 Ziploc bags;50
 Ziplocs;40;Storage bags
+zip me up;60
 zip off;50
 zip one's lip;50
 zipped file;20
