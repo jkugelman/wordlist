@@ -13697,13 +13697,16 @@ Bragg;40;Trump prosecutor Alvin Bragg
 braggart;60
 Brahe;40;Tycho Brahe, Danish astronomer
 Brahma;50;Hindu creator god
-Brahmacharya;50;Hindu vow of celibate study
+Brahmacharya;40;Hindu vow of celibate study
 Brahmagupta;40;Indian mathematician who gave zero its rules
-Brahman;50;Hindu universal spirit, or a cattle breed
+Brahman;40;Hindu universal spirit, or a cattle breed
 Brahmana;40;Hindu ritual text
 Brahmanas;40;Vedic Hindu texts
 Brahmanism;50;Early Hindu religious system
-Brahmaputra;50;Major river of India and Bangladesh
+Brahmans;40
+Brahmaputra;40;Major river of India and Bangladesh
+Brahmaputra River;40
+Brahmas;40
 Brahmin;50;Highest Hindu caste, or a Bostonian
 Brahmins;50;Hindu priestly caste, or Boston's old elite
 Brahms;50;Johannes Brahms, composer of a famous lullaby
@@ -20023,6 +20026,7 @@ claw one's way up;50
 claws at;40
 claws one's way up;50
 Clayface;50;Batman's shape-shifting villain
+claypan;40;Dense, slowly permeable layer in subsoil
 Claypool;40;Les Claypool, Primus bassist
 claypot fish;60
 clay tablet;50
@@ -41968,9 +41972,10 @@ grain whiskeys;50
 Grameen;40;Grameen Bank, microfinance pioneer
 Gramercy;40;Gramercy Park, Manhattan neighborhood
 Gramm;40;Phil Gramm, Texas senator / Lou Gramm, Foreigner singer
-gramma;20
+gramma;40
 grammar check;50
 Grammarly;50;Writing-assistant app
+grammas;40
 Grammer;40;Kelsey Grammer, Frasier Crane actor
 Grammy;50
 Grammys;50;Music awards
@@ -96006,6 +96011,7 @@ starts on;40
 starts to;40
 start stop;50
 start to;40
+Start TV;40
 start up;50
 startup;50
 startup business;50
