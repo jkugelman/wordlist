@@ -7764,6 +7764,7 @@ avadavats;20
 available credit;50
 Avalokitesvara;50;Bodhisattva of compassion
 Avalon;50;Legendary isle of Arthurian myth
+Avalons;40;Toyota sedans
 avant-garde;60
 avanti;40;Italian "Let's go!"
 Avanti;30;Studebaker coupe
@@ -26188,6 +26189,7 @@ Dianetics;50;L. Ron Hubbard's Scientology text
 DiAngelo;40;Robin DiAngelo, "White Fragility" author
 Dianna;40;Dianna Agron, "Glee" actor
 Dianne;40;Dianne Feinstein, California senator / Dianne Wiest, actress
+Diannes;30
 diaper change;60
 diaper changes;60
 diaper changing;60
@@ -90351,6 +90353,9 @@ Shanley;40;John Patrick Shanley, "Doubt" playwright
 Shannen;40;Shannen Doherty
 Shannon;50;Claude Shannon, information theory founder / Ireland's longest river
 Shannon Tweed;50
+shantay;40
+shantay, you stay;60;RuPaul catchphrase
+shantay you stay;0
 shanter;40
 Shanxi;40;Chinese province
 Shaolin;50;Kung fu monastery
@@ -104885,6 +104890,8 @@ toy man;20
 toy men;20
 Toynbee;40;Arnold Toynbee, historian / Toynbee tiles, street mystery
 Toyota;50;Japanese automaker
+Toyota Avalon;50
+Toyota Avalons;50
 Toyotas;40;Japanese cars
 Toyotathon;50;Recurring Toyota sales event
 Toyotomi;40;Toyotomi Hideyoshi, unifier of Japan
