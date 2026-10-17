@@ -14487,6 +14487,7 @@ BRs;20
 Brubaker;40;Ed Brubaker, comics writer, or the Redford prison film
 Brubeck;50;Dave Brubeck, "Take Five" jazz pianist
 Bruce;50;Common first name
+Bruce Jenner;60
 Brucella;30;Bacteria genus behind brucellosis
 Bruce Willis;60
 Bruch;40;Max Bruch, German Romantic composer
