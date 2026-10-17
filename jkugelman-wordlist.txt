@@ -8722,6 +8722,8 @@ balkiness;40
 balking at;40
 balks at;40
 balky;40
+Ballad of Songbirds and Snakes;60;"The Hunger Games" prequel, with "The"
+Ballad of Songbirds & Snakes;60;"The Hunger Games" prequel, with "The"
 Ballantine;50;Book publisher, or the beer
 Ballantrae;20;Scottish town
 Ballantyne;40;R.M. Ballantyne, author of "The Coral Island"
@@ -17399,6 +17401,7 @@ catching a stray;60
 catching a train;40;Contrived
 catching feelings;60
 catching feelings for;60
+Catching Fire;60;Second "Hunger Games" book/movie
 catching fire;50
 catching hell;60
 catching off guard;50
@@ -22799,7 +22802,7 @@ crash on;40
 crash out;60;Blow up
 crashouts;60
 crash test;50
-Crassus;50;Marcus Licinius Crassus, richest man in Rome
+Crassus;40;Marcus Licinius Crassus, richest man in Rome
 Cratchit;50;Bob Cratchit, Scrooge's clerk
 crate-dig;50
 crate digger;50
@@ -36961,8 +36964,10 @@ Framingham;40;Massachusetts town of the heart study
 Frampton;40;Peter Frampton, "Frampton Comes Alive!" rocker
 Fran;50;Fran Drescher, "The Nanny" star / Fran Lebowitz, wit
 franc;50
+franca;40;Lingua franca
 Francafrique;40;Françafrique, France's sphere of influence in Africa
 Francaise;40;Académie Française, French language authority
+francas;30
 France;50;European country
 Frances;50;Common first name
 Francesca;50;Francesca da Rimini, Dante's doomed lover / common Italian name
@@ -47953,6 +47958,11 @@ hung a Uie;30
 hungered for;40
 hunger for;40
 Hunger Games;60
+Hunger Games: Catching Fire;60
+Hunger Games: Mockingjay;60
+Hunger Games: Mockingjay - Part 1;60
+Hunger Games: Mockingjay - Part 2;60
+Hunger Games: Sunrise on the Reaping;60
 hungering for;40
 hunger pain;50
 hunger pains;50
@@ -88170,6 +88180,8 @@ scary clowns;60
 scary good;60
 scary movie;60
 Scary Spice;60
+Scat Cat;40;Supporting character in 1970's "The Aristocats"
+scat cat;0
 Scatman;50;Scatman John, "Ski-Ba-Bop-Ba-Dop-Bop" singer / Scatman Crothers
 scat singer;50
 scat singers;50
@@ -97986,6 +97998,7 @@ Sunrise: A Song of Two Humans;50;1927 silent film by F. W. Murnau
 Sunrise A Song of Two Humans;0
 sunrise ceremonies;50
 sunrise ceremony;50
+Sunrise on the Reaping;60;"The Hunter Games" prequel
 Sunrise Serenade;30
 sunrise service;60;Christian worship service on Easter
 sunrise services;60;Christian worship services on Easter
@@ -101386,6 +101399,8 @@ The Awful Truth;60
 the Azores;40
 The Babadook;60
 the Babe;50
+The Ballad of Songbirds and Snakes;60;"The Hunger Games" prequel
+The Ballad of Songbirds & Snakes;60;"The Hunger Games" prequel
 the ballet;20
 the ball's in your court;60
 Theban;40
@@ -101790,6 +101805,13 @@ The House of Ghosts;60;1907 stop-motion film, one of the earliest depictions of 
 The House of the Rising Sun;60
 The Hub;20
 The Hunger Games;60
+The Hunger Games: Catching Fire;60
+The Hunger Games: Mockingjay;60
+The Hunger Games: Mockingjay - Part 1;60
+The Hunger Games: Mockingjay - Part 2;60
+The Hunger Games: Sunrise on the Reaping;60
+The Hunger Games: The Ballad of Songbirds and Snakes;60
+The Hunger Games: The Ballad of Songbirds & Snakes;60
 The Hustler;50
 the Hutu;40
 the Hydra;30
