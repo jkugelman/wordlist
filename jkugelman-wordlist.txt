@@ -1818,6 +1818,7 @@ Aetna;40;Insurance company
 AF;40
 AFAICT;40
 AFAIK;30
+AFAM studies;40;African American Studies
 a far cry;50
 a fat lot;50
 a fat lot of good;60
@@ -19051,9 +19052,11 @@ chili dip;50
 chili dips;50
 chili dog;60
 chili dogs;60
-chili pepper;50
-chili peppers;50
-chili powder;50
+chili paste;50
+chili pastes;50
+chili pepper;60
+chili peppers;60
+chili powder;60
 chillaxed;60
 chilled to the bone;60
 chillily;30;Weird adverb
@@ -31545,6 +31548,7 @@ Enoch;40;Biblical figure
 Enochian;40;Angelic language of John Dee's occultism
 Enola;40
 Enola Gay;60
+Enola Holmes;60
 énorme;40;Huge: Fr.
 Enos;40;Grandson of Adam and Eve
 e-note;20
@@ -36987,6 +36991,7 @@ Frankie Goes to Hollywood;60;1980s English pop band
 Frankish;40;Of Charlemagne's people
 Frankl;40;Viktor Frankl, author of "Man's Search for Meaning"
 Franklin;50;Ben Franklin, or Aretha Franklin
+Frank Miller;60
 Frank Robinson;50;Baseball player and manager (1935–2019)
 Franny;40;"___ and Zooey," Salinger book
 Fran Ryan;50
@@ -82912,6 +82917,7 @@ Red Guard;50
 Red Hat Linux;60
 Red Heeler;50;Dog breed
 Red Heelers;50
+Red Hot Chili Peppers;60
 reding;20
 redistill;20
 redistilled;20
@@ -101449,6 +101455,7 @@ The Congo;0
 the Continental Army;40
 the Copa;40
 the cops;40
+the Coral Sea;40
 The Core;40;Sci-fi film
 the cosmos;40
 The Count;50;Muppet
