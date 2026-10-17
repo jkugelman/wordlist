@@ -73752,7 +73752,7 @@ ossies;20
 ossifrage;40;Bearded vulture
 Ossining;30;New York village
 Ossipee;20
-osso;40;Osso bucco, veal shanks braised with vegetables
+osso;30;Osso bucco, veal shanks braised with vegetables
 Ossoff;40;Jon Ossoff, Georgia senator
 Ost;30;East: Ger. [common]
 OST;30;Original soundtrack
@@ -113344,6 +113344,8 @@ x-axes;50
 X-axes;0
 x-axis;50
 X-axis;0
+X-bar;30
+X-bar theory;40
 Xbox;50
 Xboxes;50
 Xbox Kinect;50
