@@ -33274,6 +33274,8 @@ extraterrestrials;60
 extravaganza;60
 extravaganzas;60
 Extremadura;40;Spanish autonomous region
+extreme beer;50;Beer with high ABV, intense hops, unusual ingredients, etc.
+extreme beers;50;Beers with high ABV, intense hops, unusual ingredients, etc.
 extreme long shot;60
 extreme long shots;60
 extremely online;60
