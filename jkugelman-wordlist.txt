@@ -99825,6 +99825,8 @@ Tc;40;Technetium's chemical symbol
 TCB;20
 TCBY;40
 T.C. Chen;30;Taiwanese golfer T.C. Chen
+TCG;20
+TCGs;20
 Tchaikovsky;50;Pyotr Ilyich Tchaikovsky, "Swan Lake" composer
 Tchaikowsky;30;Andre Tchaikowsky, Polish pianist, spelled unlike the composer
 T'Challa;50;Black Panther's real name
@@ -106709,6 +106711,7 @@ Uma;50
 um, ackshually;60
 um, actually;60
 um actually;0
+u mad;40
 Umar;40;Umar ibn al-Khattab, second caliph of Islam
 UMass;40
 Umayyad;40;Early Islamic caliphate
