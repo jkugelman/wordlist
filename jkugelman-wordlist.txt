@@ -2935,7 +2935,7 @@ Alexandrians;40;Residents of Alexandria
 Alexandrina;40;Alexandrina Victoria, Queen Victoria's full name
 Alex Colville;40
 Alex Comfort;40
-Alex Consani;40
+Alex Consani;40;Transgender model (born 2003)
 Alex Cooper;40
 Alex Cora;40
 Alex Cord;40;Actor on "Airwolf" (1984-86)
@@ -7355,6 +7355,7 @@ attach to;40
 attack dog;60
 attack dogs;60
 Attack of the Clones;60
+Attack on Titan;60;Japanese manga series and franchise
 attagirl;60
 Attal;30;French PM Gabriel Attal January-September 2024
 Attaq;40;Reebok Shaq Attaq shoes
@@ -21579,7 +21580,7 @@ Conover;40;Adam Conover, host of "Adam Ruins Everything"
 Conrad;50;Given name and surname: Joseph Conrad, Conrad Hilton
 Conradian;40;Like Joseph Conrad's fiction
 Conroy;40;Pat Conroy, "The Prince of Tides" novelist
-Consani;40;Alex Consani, model
+Consani;40;Alex Consani, transgender model (born 2003)
 consarn it;50
 consented to;40
 consenting to;40
@@ -27611,6 +27612,7 @@ donating to;40
 donative;30
 donatives;30
 Donbas;40;Eastern Ukraine region
+donburi;40;Japanese rice bowl dish
 Doncaster;40;Yorkshire town
 Doncic;40;NBA star player Luka Dončić (2018-present)
 donde esta la biblioteca;60
@@ -45282,6 +45284,8 @@ Henryk;40;Henryk Sienkiewicz, "Quo Vadis" author / Henryk Górecki, composer
 Henry Knox;50
 Henry's;40;Henry's law, on gas solubility
 Henry V;50;Shakespeare play
+Henry VI;40
+Henry VII;40
 Henry VIII;50
 hen's egg;50
 hen's eggs;50
@@ -52825,6 +52829,7 @@ Jiabao;40;Wen Jiabao, premier of China 2003-2013
 Jiang;40;Jiang Zemin, Chinese leader / Jiang Wen, actor-director
 Jiangmen;40;Chinese city in Guangdong
 Jiangsu;40;Chinese province
+Jiang Wen;40;Chinese actor, screenwriter, and director
 Jiangxi;40;Chinese province
 jiaozi;30;Chinese dumplings
 jib;50
@@ -54463,6 +54468,8 @@ Kendal;40;Town in England's Lake District
 Kendall;50;Kendall Jenner, model / Kendall Roy of "Succession"
 kendama;40;Japanese ball-and-cup toy
 Kendi;40;Ibram X. Kendi, author of "How to Be an Antiracist"
+kendo gi;40
+kendo gis;40
 Ken doll;50
 Ken dolls;50
 Kendrick;50;Kendrick Lamar, rapper / Anna Kendrick, actor
@@ -55018,6 +55025,8 @@ King David;50
 Kingdom Hearts: Chain of Memories;50
 Kingdom Hearts Chain of Memories;0
 King Henry III;40
+King Henry VI;40
+King Henry VII;40
 King Hu;30;Chinese filmmaker (1932-1997)
 king in the castle;60
 King James Version;60
@@ -55559,6 +55568,7 @@ Kon;40;KonMari or Kon-Tiki
 Kona;40
 Konami;50;Video game company behind the Konami Code
 Konas;30;Coffees
+konbini;30;Convenience store in Japan
 Konchalovsky;40;Andrei Konchalovsky, Russian film director
 Kondabolu;40;Hari Kondabolu, "The Problem with Apu" comedian
 Kondo;40;Marie Kondo, or Mario/Zelda composer Kojo Kondo
@@ -55576,6 +55586,8 @@ KonMari;60
 Konrad;40;Konrad Adenauer, West Germany's first chancellor
 Konstantin;40;Konstantin Stanislavski, acting-method founder / Konstantin Levin of "Anna Karenina"
 Konstanz;40;German city on Lake Constance
+Kon-Tiki;40
+Kon-Tiki expedition;60;1947 raft journey from South America to Polynesia
 Koo;20
 koodoo;30;African antelope
 koodoos;30;African antelopes
@@ -72315,7 +72327,10 @@ one over par;40
 one page;30
 one-pager;40
 one per;30
+One Piece;60;Japanese manga series by Eiichiro Oda
+one-piece;50
 one-piecer;30
+one-pieces;50
 one pin;40
 one plus one;0
 one PM;50
@@ -74465,6 +74480,7 @@ pan-sears;60
 pans for gold;50
 pans in;30
 pans in on;30
+pansori;40;Korean traditional musical storytelling
 pantaboots;60
 Pantages;40;Historic theater name
 Pantagruel;50;Rabelais giant, son of Gargantua
@@ -77046,6 +77062,7 @@ Pinteresque;50;Like Harold Pinter's plays
 Pinterest;50;Image-pinning social network
 pint-size;60
 pint-sized;60
+Pintupi;30;Indigenous Australian people
 pintxo;40;Basque snack resembling tapas
 pintxos;40;Basque snack resembling tapas
 Pinza;40;Ezio Pinza, opera bass and "South Pacific" star
@@ -99136,6 +99153,7 @@ Tangiers;40;Moroccan port, alternate spelling
 tangled web;60
 Tanglewood;50;Boston Symphony's summer home
 Tanguy;40;Yves Tanguy, surrealist painter
+Tang Wei;40;Chinese actress (born 1979)
 Tania;40
 Tanika;30;Tanika Ray, entertainment reporter
 Tanika Ray;40;Entertainment reporter
@@ -99145,8 +99163,8 @@ tanka;30;Japanese poem
 tankas;30
 Tank Girl;60
 Tankian;40;Serj Tankian of System of a Down
-tankini;60
-tankinis;60
+tankini;50
+tankinis;50
 tank top;60
 tank tops;60
 Tank watch;60;Iconic rectangular Cartier watch design
@@ -109297,6 +109315,7 @@ wangler;30
 wanglers;30
 wangles;30
 wangling;30
+Wang Wei;40;Tang-dynasty Chinese poet, musician, painter, and statesman
 Wankel;40;Felix Wankel, rotary engine inventor
 wanna bite?;60
 wanna go;60
