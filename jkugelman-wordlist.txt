@@ -92212,7 +92212,10 @@ Skynyrd;50;Lynyrd Skynyrd, "Free Bird" band
 sky out;30
 Skype;50;Video calling service
 Skyped;40;Video-called, once upon a time
+Skyped in;30
+Skype in;30
 Skypes;40;Video-calls, in brand terms
+Skypes in;30
 Skyping;40;Video calling
 Skyrim;50;"The Elder Scrolls V" setting
 skyrocket;60
