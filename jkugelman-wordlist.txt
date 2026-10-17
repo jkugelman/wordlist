@@ -10459,12 +10459,14 @@ before common era;60
 before golf;20
 before I go;60
 before I knew it;60
+Before Midnight;60
 before one's eyes;50
 before one's time;60
 before pop or roll;20
 Before Sunrise;60
 Before Sunset;60
 Before The Next Teardrop Falls;40;1974 studio album by Freddy Fender
+Before trilogy;60
 before you answer;60
 before you rush to judgment;60
 before you say anything;60
