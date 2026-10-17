@@ -18298,6 +18298,8 @@ Changsha China;0
 Chani;40;"Dune" Fremen played by Zendaya
 Channel Islands National Park;50
 Channing;40;Channing Tatum, actor / Carol Channing, "Hello, Dolly!" star
+chanoyu;40;Japanese tea ceremony
+chanoyus;40;Japanese tea ceremonies
 chanson;30;French song style
 chansons;30
 Chantaje;40;Shakira and Maluma hit, Spanish for blackmail
@@ -18445,6 +18447,7 @@ Charlton;40;Charlton Heston, actor / London football club
 Charly;40;Charly García, Argentine rock star / 1968 Cliff Robertson film
 Charlyne;40;Charlyne Yi, comedian and actor
 Charmaine;40;Charmaine Wilkerson, "Black Cake" novelist / given name
+charman;30
 Charmander;50;Pokeyman
 charmed the birds from the trees;60
 charmed the pants off;60
@@ -22817,6 +22820,10 @@ C-ration;30
 C-rations;30
 craton;40;Geology word
 cratons;40
+craunch;30
+craunched;30
+craunches;30
+craunching;30
 Cravalho;40;Auli'i Cravalho, voice of Moana
 cravens;40;Weird noun/plural
 crawfish boil;60
@@ -26100,6 +26107,7 @@ dhampirs;40
 dharma;40
 Dharmachakra;50;Buddhist wheel of dharma
 Dhar Mann;40;American entrepreneur and film producer (born 1984)
+dharmas;40
 Dharmendra;40;Bollywood leading man
 DHL;40
 dhole;20;Wild Asian dog
@@ -33082,6 +33090,8 @@ ews;40
 E.W. Scripps;40
 eww;50
 ex;50
+exacta;40
+exactas;40
 exact double;50
 exact doubles;50
 exacted revenge on;50
@@ -34919,6 +34929,8 @@ fgh;20
 fghi;20
 FGs;40
 FHA;40;Home loan org.
+FHA loan;40
+FHA loans;40
 FHM;20;For Him Magazine, defunct
 f-hole;40;Violin-style f-shaped hole on some guitars
 F-hole;0
@@ -35855,6 +35867,8 @@ flatuses;20
 Flaubert;50;Gustave Flaubert, "Madame Bovary" author
 Flaubert's;40;"Flaubert's Parrot," Julian Barnes novel
 flaunty;30
+flauta;40
+flautas;40
 Flav;30;Flavor ___ of Public Enemy
 Flava;40;"Flava in Ya Ear," Craig Mack hit
 Flavin;40;Dan Flavin, fluorescent-light artist
@@ -39777,6 +39791,7 @@ giallo films;40
 giallo movie;40
 giallo movies;40
 giallos;30
+Gia Long;40
 Giamatti;40;Paul Giamatti, actor, or Bart Giamatti, MLB commissioner
 Giambattista;50;Giambattista Vico, Italian philosopher
 Giambi;40;Jason Giambi, AL MVP first baseman
@@ -40681,6 +40696,8 @@ goes native;60
 goes numb;50
 goes nuts;60
 goes obsolete;50
+goes off half-cocked;60
+goes off half cocked;0
 goes off kilter;50
 goes offline;50
 goes off without a hitch;60
@@ -40866,6 +40883,8 @@ going native;60
 going numb;50
 going nuts;60
 going obsolete;50
+going off half-cocked;60
+going off half cocked;0
 going off kilter;50
 going offline;50
 going off without a hitch;60
@@ -41195,6 +41214,7 @@ gone into;40
 gone loco;40
 gone native;60
 gone nuts;60
+gone off half-cocked;60
 gone off kilter;50
 gone on;40
 gone out;40
@@ -41348,6 +41368,7 @@ goofballs;60
 goofed around;50
 goofed on;50
 goofed up;50
+go off half cocked;0
 go off-kilter;50
 go offline;50
 go off without a hitch;60
@@ -49810,6 +49831,7 @@ in-area;50
 in a right pickle;60
 in armor;40
 in arms;40
+in a romp;40
 Iñárritu;50;Alejandro González Iñárritu, filmmaker (born 1963)
 Inarritu;0
 in a rug;30;Snug as a bug...
@@ -63564,6 +63586,9 @@ Maurys;30;Plural name
 Maus;40;Art Spiegelman graphic novel Maus
 Mauser;30;German firearm
 mausolea;30
+Mausoleum at Halicarnassus;60;One of the Seven Wonders of the Ancient World
+mausoleumathalicarnasus;0
+Mausoleum of Halicarnassus;60;One of the Seven Wonders of the Ancient World
 Mav;40
 mavin;20;Variant of maven
 mavins;20
@@ -102024,6 +102049,8 @@ the math ain't mathing;60
 the math is not mathing;60
 the math isn't mathing;60
 The Matrix;60
+the Mausoleum at Halicarnassus;60;One of the Seven Wonders of the Ancient World
+the Mausoleum of Halicarnassus;60;One of the Seven Wonders of the Ancient World
 the Mayan apocalypse;40
 The Mayor;40;Short-lived TV show
 Thembu;40;Xhosa clan of Nelson Mandela
@@ -110892,6 +110919,8 @@ went nowhere;60
 went numb;50
 went nuts;60
 went obsolete;50
+went off half-cocked;60
+went off half cocked;0
 went off-kilter;50
 went offline;50
 went off without a hitch;60
@@ -111476,7 +111505,7 @@ what's this thing?;50
 what's this thing;0
 what's today's date?;50
 what's today's date;0
-what's up?;50
+what's up?;60
 what's up;0
 what's up, doc?;60
 what's up doc;0
