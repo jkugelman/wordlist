@@ -2047,6 +2047,12 @@ agaze;30
 age;50
 age cannot wither her, nor custom stale her infinite variety;50;Line from Shakespeare's "Antony and Cleopatra"
 aged care;50
+aged care center;50
+aged care centers;50
+aged care home;50
+aged care homes;50
+aged cheese;60
+aged cheeses;60
 age-defying;50
 age-defying cream;50
 age-defying creams;50
@@ -36889,6 +36895,7 @@ Foxconn;40;Electronics manufacturer
 fox cub;50
 fox cubs;50
 Fox in Socks;60;Dr. Seuss book
+Fox News Channel;60
 foxtrot;50
 Foxworthy;50;Jeff Foxworthy, "you might be a redneck" comedian
 Foxx;50;Jamie Foxx / Redd Foxx, entertainers
@@ -69091,6 +69098,8 @@ news anchor;60
 news anchors;60
 news at eleven;60
 news at ten;60
+news channel;60
+news channels;60
 news crawl;60
 news crawls;60
 news cycle;60
@@ -101022,6 +101031,7 @@ that's a bit of a stretch;60
 that's above my pay grade;60
 that's a complete lie;60
 that's a dick move;60
+that's a direct order;60
 that's a fact;60
 that's a fine how do you do;60
 that's a given;60
