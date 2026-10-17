@@ -38915,8 +38915,8 @@ gentleman thief;60;Criminal of impeccable character
 gentleman thieves;60
 Gen V;40;Spinoff of "The Boys" on Amazon Prime Video
 Gen X;60
-Gen Xer;60
-Gen Xers;60
+Gen Xer;50
+Gen Xers;50
 Gen Y;50
 Gen Y-er;50
 Gen Yer;0
@@ -113253,14 +113253,14 @@ Xenophon;50;Greek historian of the "Anabasis"
 Xenopus;30;Clawed frog genus
 Xenosaga;40;Sci-fi RPG series
 Xenu;40;Scientology's galactic overlord
-Xer;20
+Xer;40
 xero-;30;Prefix
 xeroderma;40;Dry skin
 xerosis;20;Dry skin
 Xerox;50
 Xeroxed;50
 Xeroxes;50
-Xers;50;Gen Xers
+Xers;40;Gen Xers
 Xerxes;50
 Xerxes I;50
 Xes;40
