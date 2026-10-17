@@ -3839,8 +3839,8 @@ ambuscading;30;Ambushing, archaic
 AMC;40
 AMC Gremlin;60
 Amchitka;20;Aleutian island
-AM Crunchwrap;20
-AM Crunchwraps;20
+A.M. Crunchwrap;50;Taco Bell breakfast item
+A.M. Crunchwraps;50;Taco Bell breakfast items
 AMCs;30
 AMD;40
 AM dial;50
@@ -16886,6 +16886,7 @@ Carmelites;50;Catholic religious order
 Carmelo;50;Carmelo Anthony, NBA scoring champion
 Carmen;50;Bizet opera, or a common first name
 Carmen Electra;50
+Carmen McRae;50;Jazz singer (1920–1994)
 Carmichael;50;Hoagy Carmichael, songwriter / Stokely Carmichael, activist
 Carmina;40;"Carmina Burana" cantata
 Carmy;50;Carmy Berzatto, "The Bear" protagonist
@@ -19191,6 +19192,8 @@ chocolate brown;50
 chocolate-coated;60
 chocolate coin;60
 chocolate coins;60
+chocolate-covered graham cracker;50
+chocolate-covered graham crackers;50
 chocolate donut;60
 chocolate donuts;60
 chocolate Easter egg;60
@@ -22676,6 +22679,7 @@ Cranford;40;Elizabeth Gaskell novel
 craniate;30;Member of the Craniata, animals with skulls
 craniates;30
 craning one's neck;50
+cranium-crushing;50
 crank it;60
 Cranmer;40;Thomas Cranmer, Archbishop of Canterbury under Henry VIII
 Cranston;50;Bryan Cranston, "Breaking Bad" star
@@ -26453,6 +26457,8 @@ Dilfer;40;Trent Dilfer, Super Bowl-winning quarterback
 DILFs;40;Attractive dads, slangily
 Dili;30;Capital of East Timor
 Dilip;40;Dilip Kumar, Bollywood legend
+dilithium crystal;60
+dilithium crystals;60
 Dilla;30;Hip hop producer J Dilla, NYT debut
 Diller;40;Comedian Phyllis Diller, or killer diller
 Dillinger;50;John Dillinger, Depression-era bank robber
@@ -28039,6 +28045,7 @@ dot bombs;0
 dot-boms;20
 dotcom bubble;60
 dot-com bubbles;40
+dot-com crash;60
 dot-dash;40
 dot dot;20
 doted on;40
@@ -35042,10 +35049,11 @@ fills one's shoes;60
 film canon;50
 film clip;50
 film clips;50
-film crew;50
-film crews;50
-film critic;50
-film critics;50
+film crew;60
+film crews;60
+film critic;60
+film criticism;60
+film critics;60
 Filmfare;40;Bollywood award
 filmgoer;50
 filmgoers;50
@@ -39786,6 +39794,8 @@ Gilpin;20;Actress Peri of "Frasier"
 Gilroy;40;Gilroy, California, garlic capital / Dan Gilroy, "Nightcrawler" director
 Gil Vicente;40
 Gimbels;40;Defunct department store chain
+gimcrack;50;Showy but worthless
+gimcracks;50;Something showy but worthless
 Gimli;50;Dwarf in "The Lord of the Rings"
 gimme one sec;60
 gimp;10
@@ -41364,6 +41374,8 @@ Gorecki;0
 Goree;30;Eli Goree, actor / Goree Island, Senegal
 Goren;40;Bridge writer Charles Goren
 Gorey;40;Edward Gorey, macabre illustrator
+Gorgas;30
+gorgas;20
 gorged on;40
 gorge on;40
 gorges on;40
@@ -41792,6 +41804,15 @@ Grafenberg;50;Ernst Gräfenberg, G-spot namesake
 graffito;40
 Grafton;40;Sue Grafton, alphabet mystery novelist
 Graham;50;Billy Graham, evangelist, or a cracker
+graham cracker;60
+Graham cracker;0
+graham cracker crust;60
+Graham cracker crust;0
+graham cracker crusts;60
+Graham cracker crusts;0
+graham crackers;60
+Graham crackers;0
+Graham Cracko's;40;Kellogg's cereal 1978-1983
 Grahame;40;Kenneth Grahame, author of "The Wind in the Willows", or Gloria Grahame of "It's a Wonderful Life"
 graham flour;50
 Graham flour;0
@@ -52969,6 +52990,8 @@ Jima;40
 Jim Beam;50
 Jimbo;40;Nickname for Jim
 Jim Cameron;50
+Jim Crow law;60
+Jim Crow laws;60
 jim-dandy;50
 Jim Davis;50
 Jimenez;40;Juan Ramon Jimenez, Nobel-winning poet
@@ -63761,10 +63784,12 @@ McQ;20
 McQuarrie;40;Ralph McQuarrie, Star Wars concept artist / Christopher McQuarrie, director
 McQueen;50;Steve McQueen, actor / Alexander McQueen, designer / Lightning McQueen of "Cars"
 McQuiston;40;Casey McQuiston, "Red, White & Royal Blue" author
-McRae;50;Singer Tate McRae, chart-topper right now (March 2024)
+MCR;30;My Chemical Romance
+McRae;40;Singer Tate McRae, chart-topper right now (March 2024)
 MC Ren;40;Rapper MC Ren of N.W.A.
-McRib;60;Cult McDonald's sandwich
-McRibs;40;McDonald's seasonal sandwiches
+McRib;50;Cult McDonald's sandwich
+McRibs;50;Cult McDonald's sandwiches
+MC Ride;40;Vocalist of experimental hip hop group Death Grips
 MCs;40
 McShane;40;Ian McShane, "Deadwood" star
 McSorley's;40;Old New York ale house
@@ -68905,6 +68930,7 @@ New Jerseyan;50
 New Jerseyans;50
 New Jerseyite;50
 New Jerseyites;50
+New Jim Crow;50;2010 book by Michelle Alexander about mass incarceration, with "The"
 new kids on the block;60
 Newkirk;40;Ingrid Newkirk, PETA founder
 Newland;40;Newland Archer, "The Age of Innocence" protagonist
@@ -99613,6 +99639,7 @@ Tatary;40;Tatar region, once (much of Asia)
 ta-tas;40
 Tate;50;Sharon Tate, murdered actor / Tate Modern, London museum
 Tate Gallery;60
+Tate McRae;50;Canadian singer and dancer (born 2003)
 Tate Modern;60
 Tate museum;60
 tater tot;60
@@ -101750,6 +101777,7 @@ the NBA finals;50
 then don't;60
 the NEA;20
 the Nereids;20
+The New Jim Crow;50;2010 book by Michelle Alexander about mass incarceration
 The Newlywed Game;60
 the new normal;60
 the New Testament;40
@@ -111778,6 +111806,9 @@ Willems;40;Mo Willems, children's author
 Willemstad;40;Capital of Curacao
 Will Forte;50
 William;50;Extremely common first name
+William C. Gorgas;40;22nd Surgeon General of the United States Army (1914-1918)
+William Crawford Gorgas;40;22nd Surgeon General of the United States Army (1914-1918)
+William Crookes;40;English chemist and physicist (1832–1919)
 William Ewart Gladstone;40;Four-time UK Prime Minister (1809-1898)
 William H. Gass;40;Fiction writer, critic, philosophy professor (1924–2017)
 William Howard Gass;40;Fiction writer, critic, philosophy professor (1924–2017)
