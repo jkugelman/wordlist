@@ -18926,6 +18926,8 @@ chicken strips;60
 chicken tendies;60
 chicken teriyaki dinner;20
 chickenveik;0
+chicken wire fence;50
+chicken wire fences;50
 chick flick;60
 chick flicks;60
 chick magnet;60
