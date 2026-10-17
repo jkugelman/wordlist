@@ -2686,7 +2686,7 @@ Alan Napier;40;Actor who played Alfred in the 1960s "Batman" TV series
 Alan O'Day;50
 Alans;30;Plural name
 Alan Seeger;20;Poet uncle of folk singer Pete
-Alan Smithee;50;Directorial pseudonym
+Alan Smithee;60;Directorial pseudonym
 Alan Sues;40;Comedian on Rowan & Martin's Laugh-In
 Alan Tudyk;50;Alan Tudyk, actor known for notable voice roles over the years
 Alan White;40
@@ -51093,23 +51093,70 @@ I sing like I feel;60;Ella Fitzgerald quote
 is in on;40
 is into;30
 Isis;50;Egyptian goddess
+is it?;50
+is it;0
+is it a crime?;60
+Is It a Crime;50
+is it a crime;0
+is it a go?;50
+is it a go;0
+is it an emergency?;50
+is it an emergency;0
 is it art?;50
 is it art;0
 Is It Cake?;60;2022 television game show
 Is It Cake;0
-is it done yet;60
+is it done yet?;60
+is it done yet;0
+is it enough?;50
+is it enough;0
 is it going to be much longer?;60
+is it going to be much longer;0
 is it gonna be much longer?;60
+is it gonna be much longer;0
 is it him?;40
 is it hot in here?;60;Tie-puller's complaint
+is it just me?;60
+is it just me;0
+is it live?;40
+is it live;0
+is it live or is it Memorex?;50
+is it live or is it Memorex;0
 is it me;50;"Am I the problem?"
-is it me or;40;"Am I the only one who noticed...?" lead-in
+is it me or;50;"Am I the only one who noticed...?" lead-in
+is it my turn?;60
+is it my turn;0
 is it not?;50
 is it not;0
 is it okay;50
+is it okay if I join you?;60
+is it okay if I sit?;60
+is it okay if I sit;0
+is it OK if I join you?;60
+is it OK if I sit?;60
+is it OK if I sit;0
 is it on?;50
 is it on me?;50
+is it over?;60
+is it over;0
+is it over yet?;60
+is it over yet;0
+is it really you?;60
+is it really you;0
 is it so?;40;Skeptical query, dupes "is it so" (50)
+is it so;0
+is it that obvious?;60
+is it that obvious;0
+is it though?;60
+is it though;0
+is it time?;50
+is it time;0
+is it time yet?;60
+is it time yet;0
+is it true?;50
+is it true;0
+is it true what they say?;60
+is it true what they say;0
 I-sixteen;20
 ISKCON;20;International Society for Krishna Consciousness
 isl.;20
@@ -102459,6 +102506,7 @@ Thorogood;40;George Thorogood, "Bad to the Bone" rocker
 thoron;30;Radon isotope
 Thorpe;50;Jim Thorpe, all-around athlete / Ian Thorpe, swimmer
 Thorpes;30
+Thor's hammer;60
 Thorstein;40;Thorstein Veblen, "conspicuous consumption" economist
 Thorsten;30;Actor Thorsten Kaye, soccer's Thorsten Frings
 Thos.;30;Thomas, abbreviated
