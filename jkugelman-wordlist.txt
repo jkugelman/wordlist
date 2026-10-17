@@ -11627,6 +11627,7 @@ Birdman;50
 bird nest;50
 bird nests;50
 Birdo;40;Mario series character
+bird of another feather;60
 bird sanctuaries;50
 bird sanctuary;50
 birds and bees;60
@@ -48810,6 +48811,7 @@ ignition keys;50
 ignitions;50
 ignitors;30
 Ig Nobel;60
+ignominious defeat;50
 ignorami;60;Ignoramuses, with a jokey pluralization
 ignorantness;30
 ignore it;50
@@ -51809,6 +51811,7 @@ it's no bed of roses;60
 it's no crime;50
 it's no joke;60
 it's no picnic;50
+it's not a bug, it's a feature;60
 it's not adding up;60
 it's not a given;60
 it's not a sin;50
@@ -69823,6 +69826,7 @@ nom de guerre;60
 Nome;40;Alaska city, Iditarod finish line
 Nome, Alaska;50
 Nome Alaska;0
+no mean feature;0
 no meat;40
 no me gusta;60
 nomen;20;Ancient Roman's middle name
@@ -70158,6 +70162,7 @@ no sirree;50
 no sirree Bob;60
 no skips;60
 No Sleep till Brooklyn;50
+no small feat;60
 no soap;40;"Not gonna happen"
 no soup;20
 Nosrat;40;"Salt Fat Acid Heat" author
@@ -70178,6 +70183,7 @@ not;50
 nota;40
 nota bene;50
 not absolutely;20
+not accept defeat;50
 not a dry eye in the house;60
 not again;60
 not a happy camper;60
