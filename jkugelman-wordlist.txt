@@ -1272,7 +1272,7 @@ Acton;40
 Acton Bell;60;Anne Brontë
 Act One;50
 act one's age;50
-Actor Smurf;60
+Actor Smurf;50
 ACT prep;50
 acts as;40
 acts as if;50
@@ -2801,7 +2801,7 @@ Alchemax;40;Marvel Comics megacorporation
 alchemist;60
 Alchemist Cookbook;50;2016 American horror film, with "The"
 alchemists;60
-Alchemist Smurf;60
+Alchemist Smurf;50
 alchemy;60
 Alcibiades;50;Athenian general in Plato's "Symposium"
 Alcimede;30;Mother of Jason, in Greek myth
@@ -5723,7 +5723,7 @@ Archilochus;40;Ancient Greek lyric poet
 Archimedean;50;Of Archimedes, as in a spiral
 Archimedes;50;Ancient Greek "Eureka!" mathematician
 Archipenko;40;Alexander Archipenko, Cubist sculptor
-Architect Smurf;60
+Architect Smurf;50
 archon;20;Athenian magistrate
 archons;20;Athenian magistrates
 archonship;30
@@ -8184,7 +8184,7 @@ baby sister;60
 baby sisters;60
 babysitter;50
 babysitters;50
-Baby Smurf;60
+Baby Smurf;50
 Baby Spice;60
 baby step;50
 baby steps;60
@@ -8606,7 +8606,7 @@ baked ziti;50
 Bakelite;50;Early synthetic plastic
 Baker Boys;50
 Bakersfield;50;California city with its own country sound
-Baker Smurf;60
+Baker Smurf;50
 Baker Street;60
 Bakewell;40;English town known for its tart
 Bakhtin;40;Mikhail Bakhtin, literary theorist
@@ -9090,7 +9090,7 @@ barber pole;60
 barber poles;60
 barbershop quartet;60
 barbershop quartets;60
-Barber Smurf;60
+Barber Smurf;50
 Barbery;40;Muriel Barbery, "The Elegance of the Hedgehog" novelist
 Barbi;30;Model Benton married to Hugh Hefner
 Barbie;50;Mattel doll and 2023 blockbuster
@@ -13689,7 +13689,7 @@ brainwashes;60
 brainwashing;60
 brainwave;60
 brainwaves;60
-Brainy Smurf;60
+Brainy Smurf;50
 Braithwaite;40;E.R. Braithwaite, "To Sir, With Love" author
 brakeman;40;Member of a train crew
 brakemen;40
@@ -16045,7 +16045,7 @@ camomiles;20;Variant spelling of chamomiles
 camo pants;50
 Camorra;40;Italian secret society of criminals
 camouflage pants;50
-Camouflage Smurf;60
+Camouflage Smurf;50
 campaign ad;50
 campaign ads;50
 campaign button;50
@@ -17941,7 +17941,7 @@ centuple;40
 centupled;40
 centuples;40
 centupling;40
-Century Smurf;60
+Century Smurf;50
 CEO;50
 CEOs;50
 Cepacol;40;Throat lozenge brand
@@ -18669,7 +18669,7 @@ chef's hat;60
 chef's hats;60
 chef's kiss;60
 chef's kisses;50
-Chef Smurf;60
+Chef Smurf;50
 chef's salad;60
 chef's salads;60
 Che Guevara shirt;60
@@ -20179,8 +20179,8 @@ clockmakers;50
 clock out early;60
 clocks out early;60
 clock's ticking;60;"Hurry up!"
-Clockwork Smurf;60
-Clockwork Smurfette;60
+Clockwork Smurf;50
+Clockwork Smurfette;50
 clockworksmurfette;20
 clog dance;50
 clog danced;50
@@ -20351,12 +20351,12 @@ clue bat;60
 ClueBot;20;Wikipedia anti-vandalism bot
 clue-by-four;60
 Cluedo;40;British name for Clue
-Clueless Smurf;60
+Clueless Smurf;50
 clue stick;60
 cluing;30
 Cluj;30;Romanian city, formally Cluj-Napoca
 Clumber;40;Clumber spaniel, the largest spaniel breed
-Clumsy Smurf;60
+Clumsy Smurf;50
 clung onto;40
 clung to;40
 Cluny;40;French abbey town / "Cluny Brown"
@@ -20485,7 +20485,7 @@ Cobain;50;Kurt Cobain, Nirvana frontman
 cobalt blue;50
 cobaltic;40
 Cobb;50;Cobb salad / Ty Cobb, baseball great
-Cobbler Smurf;60
+Cobbler Smurf;50
 cobblestone;50
 cobblestones;50
 Cobden;40;Richard Cobden, Corn Laws opponent
@@ -21368,7 +21368,7 @@ complex number;50
 complex numbers;50
 complier;40
 compliers;40
-Complimentary Smurf;60
+Complimentary Smurf;50
 compliment sandwich;60
 compliment sandwiches;60
 compliments of the chef;60
@@ -21633,6 +21633,7 @@ conspirato lair;0
 con spirito;50
 Constance;50;Lake Constance / Constance Wu, actress
 Constantin;40;Constantin Brancusi, sculptor
+Constantina;40
 Constantine;50;First Christian Roman emperor
 Constantinople;50;Istanbul, formerly
 Constanze;40;Constanze Mozart, the composer's wife
@@ -21752,7 +21753,7 @@ cooking up a scheme;60
 cooking up a storm;60
 cooking wine;50
 cooking wines;50
-Cook Smurf;60
+Cook Smurf;50
 cooks the books;60
 cooks up a scheme;60
 cooks up a storm;60
@@ -22755,7 +22756,7 @@ Crazylegs;50;Crazylegs Hirsch, NFL Hall of Fame receiver
 Crazy Little Thing Called Love;60
 crazy, mixed-up kid;60
 CrazySexyCool;50;TLC's 1994 album
-Crazy Smurf;60
+Crazy Smurf;50
 Crazy Stupid Love;60
 crazy wall;60;Conspiracy board
 crazy walls;60
@@ -23943,7 +23944,7 @@ dabbed at;40
 dabbed on;40
 dabbing at;40
 dabbing on;40
-Dabbler Smurf;60
+Dabbler Smurf;50
 Da Bears;60
 dab hand;30
 Dabney;30;Actor Dabney Coleman
@@ -27167,7 +27168,7 @@ doctor shopped;60
 doctor shopping;60
 doctor shops;60
 Doctor Sleep;60
-Doctor Smurf;60
+Doctor Smurf;50
 Doctor Strange in the Multiverse of Madness;60
 Documenta;40;Kassel art exhibition
 documental;40
@@ -27946,7 +27947,7 @@ dope slap;40
 dope slapped;40
 dope slapping;40
 dope slaps;40
-Dopey Smurf;60
+Dopey Smurf;50
 do poorly;50
 doppio;30;Double espresso
 doppios;30
@@ -28516,7 +28517,7 @@ dreamt of;40
 Dreamtopia;40;Barbie Dreamtopia franchise
 dream within a dream;60
 DreamWorks;50;Animation studio
-Dreamy Smurf;60
+Dreamy Smurf;50
 Drebin;40;Frank Drebin from "Naked Gun"
 dreck;50
 Dred;40
@@ -28932,7 +28933,7 @@ drum major;50
 drum majors;50
 drummed out;50
 drummers drumming;60
-Drummer Smurf;60
+Drummer Smurf;50
 drum microphone;50
 drum microphones;50
 drumming out;50
@@ -30102,7 +30103,7 @@ editing in;40
 editing suite;60
 editing suites;60
 editorial content;50
-Editor Smurf;60
+Editor Smurf;50
 edits down;50
 edits in;40
 edit suite;60
@@ -31201,7 +31202,7 @@ enameller;40
 enamellers;40
 enamels;40
 enamored of;40
-Enamored Smurf;60
+Enamored Smurf;50
 enarbor;30
 enarbored;30
 enarboring;30
@@ -33995,7 +33996,7 @@ Farm Belt;50
 farm cat;60
 farm cats;60
 farmed;50
-Farmer Smurf;60
+Farmer Smurf;50
 FarmersOnly;50;Rural dating site
 farmer's tan;60;Sunburn line from T-shirt sleeves
 Farmiga;40;Vera Farmiga, "The Conjuring" star
@@ -35103,7 +35104,7 @@ final solution;10
 finance minister;50
 financer;50
 financers;50
-Finance Smurf;60
+Finance Smurf;50
 financial backer;50
 financial centre;20
 financial centres;20
@@ -35467,7 +35468,7 @@ fish egg;50
 fish eggs;50
 Fishel;40;Danielle Fishel, Topanga on "Boy Meets World"
 Fisher Ames;40;Early American politician
-Fisher Smurf;60
+Fisher Smurf;50
 fishes for;40
 fishes for compliments;60
 fish farm;60
@@ -35861,7 +35862,7 @@ flight delay;50
 flight delays;50
 flight recorder;50
 flight recorders;50
-Flighty Smurf;60
+Flighty Smurf;50
 Flik;40;"A Bug's Life" ant
 Flinders;30;Polly Flinders, popular children's clothing in the 50s-70s, or nusery rhyme "Little Polly Flinders"
 fling at;40
@@ -36118,7 +36119,7 @@ flying over;40
 flyings;30
 flying saucer;60
 flying saucers;60
-Flying Smurf;60
+Flying Smurf;50
 flying to;40
 flying under the radar;60
 Flying V;60
@@ -41871,7 +41872,7 @@ grand jurors;60
 grand jury;50
 grand jury indictment;50
 grand jury indictments;50
-Grandpa Smurf;60
+Grandpa Smurf;50
 Grand Prix;50
 grand prize;50
 grand prizes;50
@@ -42090,7 +42091,7 @@ Greece;50;Hellenic Republic
 Greed is good;60
 Greedly;50;Hoggish Greedly, Captain Planet baddie
 Greedo;50;"Star Wars" bounty hunter Han shot first
-Greedy Smurf;60
+Greedy Smurf;50
 Greek;50;Language of Athens
 Greek cross;50
 Greek crosses;50
@@ -42419,7 +42420,7 @@ Grothendieck;40;Alexander Grothendieck, revolutionary mathematician
 Groton;40
 Grotowski;40;Jerzy Grotowski, experimental theater director
 Groucho;60;Groucho Marx, greasepaint-mustachioed comedian
-Grouchy Smurf;60
+Grouchy Smurf;50
 Grounation;40;Grounation Day, Rastafari holiday
 ground and pound;60;MMA fighting style
 groundbreaking;60
@@ -42900,7 +42901,7 @@ Gulf states;50
 Gulistan;40;Saadi's Persian classic
 Gullah;40;Creole language of the Sea Islands
 Gullahs;40;Lowcountry people and their creole
-Gullible Smurf;60
+Gullible Smurf;50
 Gulliver;50
 Gulliver's;40;"Gulliver's Travels"
 gull wing door;60
@@ -43015,7 +43016,7 @@ Guthrie;50
 Guthrie Govan;50
 Gutierrez;40;Common Spanish surname
 gutshot;50
-Gutsy Smurf;60
+Gutsy Smurf;50
 Guttenberg;50;Steve Guttenberg, "Police Academy" actor
 guttier;20;Braver
 guttiest;20;Bravest
@@ -43174,7 +43175,7 @@ hack stands;50
 hacktivism;60
 hacktivist;60
 hacktivists;60
-Hackus Smurf;60
+Hackus Smurf;50
 Hack Wilson;50;Accomplished 1920s/30s baseball power hitter
 hack writer;60
 hack writers;60
@@ -43682,7 +43683,7 @@ hand it to;40
 Handke;40;Peter Handke, Nobel-winning Austrian writer
 handlebar mustache;50
 handlebar mustaches;50
-Handlebar Mustache Smurf;60
+Handlebar Mustache Smurf;50
 handless;40;Clumsy/awkward, hands-free
 H and M;30
 hand-me-down;60
@@ -43723,7 +43724,7 @@ hand vacs;50
 hand wedge;60;Golf cheat
 Handycam;40;Sony camcorder
 Handycams;40;Sony camcorders
-Handy Smurf;60
+Handy Smurf;50
 Haneda;40;Tokyo airport
 Haneke;30;French director Michael Haneke, Oscar-nominated in 2013 for "Amour", not super notable
 Hanes;50;Underwear brand
@@ -44059,7 +44060,7 @@ Harmonicats;40;The Harmonicats, "Peg o' My Heart" trio
 harmonic minor;60
 harmonic minor scale;60
 harmonic minor scales;60
-Harmony Smurf;60
+Harmony Smurf;50
 Harnack;40;Mildred Harnack, American in the German anti-Nazi resistance
 Harold;50;Harold Bloom, critic / Harold Lloyd, silent comic
 Harold II;30;Killed at the Battle of Hastings in 1066, succeeded by William the Conqueror
@@ -45003,7 +45004,7 @@ Hef;40
 Heffley;40;Greg Heffley, "Diary of a Wimpy Kid" hero
 Heflin;30;Actor Van ___
 Hefner;50
-Hefty Smurf;60
+Hefty Smurf;50
 Hegel;40
 Hegelian;40
 Hegelianism;50;Hegel's philosophy
@@ -47822,7 +47823,7 @@ hundred-dollar;40
 hundred dollar bill;60
 hundred dollar bills;60
 hundreds of billions;20
-Hundredth Smurf;60
+Hundredth Smurf;50
 hundredths place;50
 hundred-yard;50
 Hungarian;50;Of a Central European country
@@ -47867,7 +47868,7 @@ hunted around for;40
 hunted high and low;50
 hunter;50
 Hunter Biden;50
-Hunter Smurf;60
+Hunter Smurf;50
 hunt high and low;50
 hunting around;50
 hunting around for;40
@@ -50031,7 +50032,7 @@ inflicts on;40
 in-flight entertainment;60
 influencer;60
 influencers;60
-Influencer Smurf;60
+Influencer Smurf;50
 infodemic;50;Overabundance of information, both accurate and false, during an epidemic
 infodemics;50;Overabundances of information, both accurate and false, during epidemics
 info desk;50
@@ -50481,7 +50482,7 @@ internal rhymes;60
 International Clown Hall of Fame;60
 Internationale;50;"The Internationale," socialist anthem
 International Man of Mystery;60
-International Neighborhood Watch Smurfs;60
+International Neighborhood Watch Smurfs;50
 International Talk Like a Pirate Day;60
 internee;40
 internees;40
@@ -53297,7 +53298,7 @@ jokes with;40
 joke with;40
 joke writer;60
 joke writers;60
-Jokey Smurf;60
+Jokey Smurf;50
 Jokić;40;NBA superstar Nikola Jokić
 Jokic;0
 joking around;50
@@ -54099,7 +54100,7 @@ karate move;60
 karate moves;60
 karate school;50
 karate schools;50
-Karate Smurf;60
+Karate Smurf;50
 karate test;60
 karate tests;60
 Kardashian;50;Reality TV family
@@ -55186,7 +55187,7 @@ Kingslayer;50;Jaime Lannister's nickname on "Game of Thrones"
 Kingsley;40;Ben Kingsley, "Gandhi" star / Kingsley Amis, novelist
 Kingsley Amis;50
 Kingsman;40;Spy film franchise
-King Smurf;60
+King Smurf;50
 king snake;50
 king snakes;50
 Kingsolver;50;Barbara Kingsolver, "The Poisonwood Bible" novelist
@@ -57380,7 +57381,7 @@ lazy river;60
 lazy rivers;60
 lazy slob;50
 lazy slobs;50
-Lazy Smurf;60
+Lazy Smurf;50
 lazy Sunday;60
 lazy Sundays;60
 lazy Susan;50
@@ -60142,7 +60143,7 @@ lose one's voice;50
 lose one's way;50
 lose out on;40
 lose out to;40
-Loser Smurf;60
+Loser Smurf;50
 losers weepers;60
 loses a bet;50
 loses an hour;60
@@ -60669,7 +60670,7 @@ lucky pennies;60
 lucky penny;60
 lucky rabbits' feet;60
 lucky rabbit's foot;60
-Lucky Smurf;60
+Lucky Smurf;50
 lucky SOB;60
 lucre;40;Monetary gain, sordid
 Lucrece;40;"The Rape of Lucrece" (Shakespeare)
@@ -60767,7 +60768,7 @@ lumbago;50;Lower back pain
 lumbagos;30;Lower back pains
 lumberjack shirt;60
 lumberjack shirts;60
-Lumberjack Smurf;60;a.k.a. Timber Smurf
+Lumberjack Smurf;50;a.k.a. Timber Smurf
 Lumberjanes;50;Eisner-winning summer camp comic
 lumber yard;50
 lumber yards;50
@@ -61520,7 +61521,7 @@ Magic Bus;50
 Magic Eight Balls;60
 magician;60
 magicians;60
-Magician Smurf;60
+Magician Smurf;50
 Magic Marker;60
 magic marker;0
 Magic Markers;60
@@ -62647,7 +62648,7 @@ Marco;50;Marco Polo, Venetian explorer
 Marconi;50;Guglielmo Marconi, radio pioneer
 Marco Polo;50
 Marcos;40;Ferdinand and Imelda Marcos, Philippine ruling couple
-Marco Smurf;60
+Marco Smurf;50
 Marcs;30;Plural name
 Marcus;50;Given name, as in Marcus Aurelius
 Marcus Antonius;60;Roman politician and general (83–30 BC)
@@ -65177,7 +65178,7 @@ Millennium Prize Problem;60
 Millennium Prize Problems;60
 Millerite;40;Follower of William Miller, or a nickel sulfide mineral
 Millerites;40;Followers of William Miller, of the Great Disappointment
-Miller Smurf;60
+Miller Smurf;50
 miller's thumb;50;Fish
 miller's thumbs;50
 Millett;40;Kate Millett, author of "Sexual Politics"
@@ -65225,7 +65226,7 @@ mimeographs;40
 mimeography;40
 mimeos;40
 mimesis;20;Imitation of the real world in art and literature
-Mime Smurf;60
+Mime Smurf;50
 Mimi;50;Common first name, or the "La Bohème" heroine
 Mimieux;40;Yvette Mimieux, "The Time Machine" actor
 Mimikyu;50;Pokémon
@@ -65287,7 +65288,7 @@ Mineo;40;Sal Mineo
 Mineola;40
 Mineos;20;Plural last name
 minerale;30
-Miner Smurf;60
+Miner Smurf;50
 Minerva;50;Roman goddess of wisdom
 Mines of Moria;60
 minesweeper;60
@@ -68005,7 +68006,7 @@ Nanking;40;Older name for Nanjing
 Nanki-Poo;30
 Nannie;40;Civil Rights activist Nannie Helen Burroughs
 nanny nanny boo boo;60
-Nanny Smurf;60
+Nanny Smurf;50
 nanny state;60
 nanny states;60
 nanny tax;50
@@ -68090,7 +68091,7 @@ Narnia;50;Land beyond the wardrobe
 Naroditsky;40;Daniel Naroditsky, chess grandmaster and streamer
 Narragansett;50;Rhode Island bay and people
 narrations;40
-Narrator Smurf;60
+Narrator Smurf;50
 NARS;20;Cosmetics company
 narthex;30;Church antechamber
 narthexes;30
@@ -68226,7 +68227,7 @@ natural blonds;60
 natural minor;60
 natural minor scale;60
 natural minor scales;60
-Natural Smurf;60
+Natural Smurf;50
 natural world;60
 nature hike;50
 nature of the beast;60
@@ -68289,7 +68290,7 @@ navettes;20;Gemstones
 Na'vi;40;"Avatar" race
 navicular;40
 Navidad;40;Feliz Navidad, Spanish Christmas
-Navigator Smurf;60
+Navigator Smurf;50
 Navratri;40;Nine-night Hindu festival
 Navstar;40;Official name of the GPS satellite system
 navy base;50
@@ -69647,7 +69648,7 @@ Noblezada;40;Eva Noblezada, "Hadestown" star
 noblleeggas;0
 nobody knows;60
 nobody saw that, right?;60
-Nobody Smurf;60
+Nobody Smurf;50
 no broccoli for me;0
 nobs;40;Heads
 Nobu;40;Luxury sushi restaurant
@@ -70128,7 +70129,7 @@ nose tackles;60
 nosey;40;Nosey parker
 nosey parker;60
 nosey parkers;60
-Nosey Smurf;60
+Nosey Smurf;50
 Nosferatu;60
 nosher;40
 noshers;40
@@ -70825,7 +70826,7 @@ nurses a crush;60
 nurses a crush on;50
 nurses a grudge;60
 nurse's aide;50
-Nurse Smurf;60
+Nurse Smurf;50
 nursie;30;Childish "nurse"
 nursies;30
 nursing a crush;60
@@ -73758,7 +73759,7 @@ out of concern;50
 out of concern for;40
 out of contention;50
 outoffaaccttion;0
-Out of Focus Smurf;60
+Out of Focus Smurf;50
 out of gas;50
 out of hand;60
 out of ideas;50
@@ -74325,7 +74326,7 @@ painted pony;60
 painted the corners;60;Threw precisely onto the outer edges of home plate, as a baseball pitcher
 painted the town;50;Alternative form of painted the town red
 painted the town red;60
-Painter Smurf;60
+Painter Smurf;50
 paint fleck;50
 paint flecks;50
 paint fumes;50
@@ -74575,7 +74576,7 @@ pan-fry;50
 Pangaea;60;Ancient supercontinent
 Pangloss;40;Dr. Pangloss, optimist of "Candide"
 Panglossian;50;Relentlessly optimistic, after Voltaire's Pangloss
-Panicky Smurf;60
+Panicky Smurf;50
 panicle;30;Flower cluster
 panicled;30
 panicles;30
@@ -74680,6 +74681,7 @@ Papanicolaou;50;George Papanicolaou, of the Pap smear
 Papaoutai;40;Stromae hit song
 paparazzi;60
 paparazzo;60
+Papa Smurf;50
 papaw;40
 papaws;40
 Papeete;40;Capital of French Polynesia
@@ -74783,7 +74785,7 @@ parang;20
 parangs;20
 Parannoul;40;South Korean shoegaze musician
 Paranoid Android;60
-Paranoid Smurf;60
+Paranoid Smurf;50
 ParaNorman;40;Laika stop-motion film
 paraphrase;50
 paraphrased;50
@@ -75026,7 +75028,7 @@ party officials;60
 party on;60
 party peanut;50
 party peanuts;50
-Party Planner Smurf;60
+Party Planner Smurf;50
 party playlist;60
 party playlists;60
 Parul;40;Parul Sehgal, book critic
@@ -75124,7 +75126,7 @@ pass interference penalty;60
 passion project;60
 passion projects;60
 Passiontide;40;Season leading up to Easter
-Passive-Aggressive Smurf;60
+Passive-Aggressive Smurf;50
 passive income;60
 pass line;50
 pass line bet;60
@@ -75197,7 +75199,7 @@ Pastoralia;40;George Saunders story collection
 pastorate;40
 pastorates;40
 Pastorius;40;Jaco Pastorius, Weather Report bassist
-Pastrycook Smurf;60
+Pastrycook Smurf;50
 past spat;0
 pat;50
 Pata;40;"Pata Pata," Miriam Makeba hit
@@ -78095,7 +78097,7 @@ poet in residence;60
 poetries;20
 Poets' Corner;50
 poets in residence;60
-Poet Smurf;60
+Poet Smurf;50
 Pog;40
 Pogacar;40;Tadej Pogačar, Tour de France champion
 pogo cello;50;Musical instrument
@@ -78255,7 +78257,7 @@ police dog;60
 police dogs;60
 police inspector;60
 police inspectors;60
-Policeman Smurf;60
+Policeman Smurf;50
 police procedural;60
 police procedurals;60
 police raid;40
@@ -79417,7 +79419,7 @@ pret-a-porter;0
 pretell;30;Foretell
 pretend I'm not here;60
 pretend we're not here;60
-Pretentious Smurf;60
+Pretentious Smurf;50
 preterit;30;Alternate form of preterite
 preterite;50
 preterites;40
@@ -80463,7 +80465,7 @@ push mowers;50
 push notification;60
 push notifications;60
 push one's luck;50
-Pushover Smurf;60
+Pushover Smurf;50
 Push Pop;50
 push pop;0
 push pops;50
@@ -81006,7 +81008,7 @@ quiet quits;60
 quiet quitter;60
 quiet quitters;60
 quiet quitting;60
-Quiet Smurf;60
+Quiet Smurf;50
 quiet storm;60
 quiet, the grown-ups are talking;60
 quietus;30
@@ -82982,7 +82984,7 @@ reflated;30
 reflates;30
 reflating;30
 reflation;30
-Reflection Smurf;60
+Reflection Smurf;50
 Reflektor;40;Arcade Fire album
 reflet;20;Pottery luster
 reflets;20;Pottery lusters
@@ -83558,7 +83560,7 @@ reported on;40
 reported to;40
 reporter gene;60;Fluorescent/luminescent gene, easy for reasearchers to monitor
 reporter genes;60
-Reporter Smurf;60
+Reporter Smurf;50
 reporting on;40
 reporting to;40
 report on;40
@@ -87891,7 +87893,7 @@ scared straight;60
 scared up;60
 scaredy-cat;60
 scaredy-cats;60
-Scaredy Smurf;60
+Scaredy Smurf;50
 scare quotes;60
 scarer;50
 scarers;50
@@ -88000,7 +88002,7 @@ Scheffler;50;Golfer Scottie Scheffler
 Scheherazade;60;"One Thousand and One Nights" storyteller
 Scheider;40;Roy Scheider, "Jaws" star
 Schell;40;Maximillian Schell, Best Actor in 1961 for "Judgment at Nuremberg"
-Schemer Smurf;60
+Schemer Smurf;50
 Schengen;50;Europe's passport-free zone
 Scherzer;40;Max Scherzer, three-time Cy Young winner
 Scherzinger;50;Nicole Scherzinger, Pussycat Dolls singer
@@ -88431,7 +88433,7 @@ sculls;40;Oars, or rows
 Scully;50;Dana Scully of "The X-Files" / Vin Scully, broadcaster
 sculpin;30;Fish
 sculpins;30
-Sculptor Smurf;60
+Sculptor Smurf;50
 scum;50
 Scunthorpe;50;English town behind the profanity-filter problem
 scurfier;30
@@ -91177,7 +91179,7 @@ sick bay;60
 sick burn;60
 sickish;30
 sicklily;30;Weird adverb
-Sickly Smurf;60
+Sickly Smurf;50
 sickly sweet;60
 sicko;60
 Sicko Mode;60
@@ -92618,7 +92620,7 @@ slop buckets;60
 sloper;50;Rock climbing hold
 slopers;50
 slopover;40;Fire that spreads beyond the firebreak or fireline
-Sloppy Smurf;60
+Sloppy Smurf;50
 slot canyon;50
 slot canyons;50
 slot in;40
@@ -92632,8 +92634,8 @@ slotted spatulas;60
 slotting in;40
 sloucher;30
 slouchers;30
-Slouchy Smurf;60
-Slouchy Smurfling;60
+Slouchy Smurf;50
+Slouchy Smurfling;50
 sloughy;40
 Slovak;50;Of Slovakia
 Slovakia;50;Central European country
@@ -92836,7 +92838,7 @@ smells;50
 smells fishy;60
 smell tests;50
 smell you later;60;Slangy equivalent to "Goodbye!"
-Smelly Smurf;60;a.k.a. Sloppy Smurf
+Smelly Smurf;50;a.k.a. Sloppy Smurf
 smelting furnace;50
 smelting furnaces;50
 smelting mill;50
@@ -92948,7 +92950,7 @@ smoothen;40
 smoothened;40
 smoothens;40
 smoothers;20
-Smooth Smurf;60
+Smooth Smurf;50
 smoothy;30;Variant of smoothie, smooth operator
 smoots;30;Nonstandard, humorous units of length
 Smoove;40;J.B. Smoove, comedian on "Curb Your Enthusiasm"
@@ -93067,8 +93069,8 @@ snapping out of it;60
 snapping to;40;Snapping to (attention)
 Snapple;50;Iced tea brand with facts under the cap
 Snapples;40
-Snappy Smurf;60
-Snappy Smurfling;60
+Snappy Smurf;50
+Snappy Smurfling;50
 snappysmurfling;20
 snaps at;40
 snaps one's fingers;50
@@ -93147,7 +93149,7 @@ sneezer;40
 sneezers;40
 sneezes at;40
 sneezing at;40
-Sneezy Smurf;60
+Sneezy Smurf;50
 Sneferu;40;Pyramid-building pharaoh
 snell;30;Fishing line attachment
 Snellen;40;Herman Snellen, eye chart namesake
@@ -93430,7 +93432,7 @@ social norm;50
 social norms;50
 social psychology;60
 social reformers;50
-Social Smurf;60
+Social Smurf;50
 société;30
 socio-;30
 sock away;50
@@ -94058,7 +94060,7 @@ Soumitra;40;Soumitra Chatterjee, Bengali actor in Satyajit Ray films
 sound advice;50
 sound asleep;50
 SoundCloud;50;Audio streaming platform
-Sound Effects Smurf;60
+Sound Effects Smurf;50
 sound foundation;50
 sound foundations;50
 Soundgarden;60
@@ -96372,7 +96374,7 @@ stink bombs;60
 stinking at;40
 stinko;40
 stinks at;40
-Stinky Smurf;60;a.k.a. Sloppy Smurf
+Stinky Smurf;50;a.k.a. Sloppy Smurf
 stinky tofu;60
 stinted;30
 stinter;30
@@ -97360,7 +97362,7 @@ subjoins;40
 sub judice;40
 sublime;50
 sublimer;30
-Submariner Smurf;60
+Submariner Smurf;50
 suborbital;50
 suborbitals;50
 subpoenas;50
@@ -98213,7 +98215,7 @@ sweep picking;60
 sweep picks;60
 sweeps out;40
 sweep the leg;60
-Sweepy Smurf;60
+Sweepy Smurf;50
 sweet and;20
 Sweet and Low;50
 Sweet and Lowdown;50;1999 Woody Allen film
@@ -98568,7 +98570,7 @@ Tabitha;50;Common name: "Bewitched" daughter, Tabitha King
 tabla;40;Indian drum
 tablas;40
 table decoration;40
-Table-Eating Smurf;60
+Table-Eating Smurf;50
 table read;60
 table reads;60
 table stakes;60
@@ -98724,7 +98726,7 @@ tail gunners;50
 Tailleferre;40;Germaine Tailleferre, the only woman of Les Six
 tailored to;40
 tailoring to;40
-Tailor Smurf;60
+Tailor Smurf;50
 tailors to;40
 tailor to;40
 tail rotor;50
@@ -103200,7 +103202,7 @@ Timberlake;50;Justin Timberlake, pop star
 Timberland;50;Boot brand
 Timberlands;50;Timberland boots
 Tim Berners-Lee;50
-Timber Smurf;60
+Timber Smurf;50
 Timbiebs;40;Tim Hortons doughnuts with Justin Bieber
 Timbit;40;Tim Hortons doughnut hole
 Timbits;40;Tim Hortons doughnut holes
@@ -103268,7 +103270,7 @@ Timex;50;Watch brand
 Timexes;40;Timex watches
 Tim Gunn;50
 Tim Hortons;60
-Timid Smurf;60
+Timid Smurf;50
 timing;50
 Timisoara;40;Romanian city where the 1989 revolution began
 Tim Matheson;40;Actor who voiced Jonny Quest
@@ -104634,7 +104636,7 @@ tracing over;50
 tracing to;40
 trackage;20;Railway lines
 tracked one's order;50
-Tracker Smurf;60
+Tracker Smurf;50
 tracking changes;50
 tracking one's order;50
 track one's order;50
@@ -105725,7 +105727,7 @@ Tues;0
 Tuesday;50;Day of the week
 Tuesdays;50;"Tuesdays with Morrie" / taco Tuesdays
 tufaceous;30;Of the nature or texture of tufa, a variety of limestone
-Tuffy Smurf;60
+Tuffy Smurf;50
 Tufnel;40;Nigel Tufnel, "This Is Spinal Tap" guitarist who goes to eleven
 Tufte;40;Edward Tufte, data visualization guru
 Tufts University;50
@@ -108001,7 +108003,7 @@ vanity;50
 vanity card;50
 vanity cards;50
 Vanity Fair;60
-Vanity Smurf;60
+Vanity Smurf;50
 vanityytinav;0
 van life;60
 Van McCoy;50
@@ -108419,7 +108421,7 @@ Vettes;40;Corvettes, informally
 Veuve;40;Veuve Clicquot champagne
 Vevo;40;Streaming service
 vex;50
-Vexy Smurf;60
+Vexy Smurf;50
 vey;40;Oy vey
 Veyron;40;Bugatti Veyron, supercar
 Veyrons;40;Bugatti supercars
@@ -109961,7 +109963,7 @@ wax poetic;60
 wax romantic;60
 way;50
 Wayans;50;Damon Wayans, comedian, and his comedy family
-Way Back There Smurf;60
+Way Back There Smurf;50
 way cool;60
 Waycross;30;Georgia city of 13,714
 Wayfair;50;Online furniture retailer
@@ -110002,7 +110004,7 @@ weak boson;50
 weak bosons;50
 Weakerthans;40;The Weakerthans, Winnipeg indie band
 weak force;50
-Weakling Smurf;60
+Weakling Smurf;50
 weak sauce;60
 weak side;50
 weal;40;Red, swollen mark
@@ -110250,7 +110252,7 @@ weep for;40
 weeping and gnashing of teeth;60
 weeping for;40
 weeps for;40
-Weepy Smurf;60
+Weepy Smurf;50
 Weerasethakul;40;Apichatpong Weerasethakul, Thai film director
 weest;50
 Weetabix;40;British breakfast cereal
@@ -111775,7 +111777,7 @@ wild pitch;60
 wild pitches;60
 wild rose;50
 wild roses;50
-Wild Smurf;60
+Wild Smurf;50
 wild swimmer;60
 wild swimmers;60
 wild swimming;60
@@ -112055,7 +112057,7 @@ Winnebago;50
 Winnebagos;50
 Winnemucca;40;Nevada city
 winner's circle;60
-Winner Smurf;60
+Winner Smurf;50
 winner winner;60
 Winnetka;40;Chicago suburb of "Home Alone"
 Winnetou;40;Karl May's Apache hero
@@ -112471,7 +112473,7 @@ wool of bat;60;Witches' brew ingredient in Macbeth
 Woolsey;30;CIA director
 Woolworth;50;Five-and-dime chain, or its Manhattan skyscraper
 Woolworths;50;Defunct five-and-dime chain
-Wooly Smurf;60
+Wooly Smurf;50
 Woosnam;30;Golfer Ian "Woosie" Woosnam
 Wooster;40;Bertie Wooster, Jeeves's employer
 woot;60
@@ -112675,7 +112677,7 @@ wormy;30
 worn tire;50
 worn tires;50
 Worrell;40;Bernie Worrell, Parliament-Funkadelic keyboardist / Ernest P. Worrell, ad character
-Worry Smurf;60
+Worry Smurf;50
 Worsley;40;Lucy Worsley, British historian and TV presenter
 worst-case scenario;60
 worst-case scenarios;60
