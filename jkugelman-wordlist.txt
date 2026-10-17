@@ -45744,6 +45744,7 @@ hey, I just work here;60
 hey it's a start;60
 hey, it's me;50
 Heynderickx;40;Haley Heynderickx, indie folk singer
+hey-o;40
 Hey Paula;50
 hey Siri;60
 hey, that's not fair;60
@@ -58018,7 +58019,7 @@ Lehane;40;"Shutter Island" author Dennis Lehane
 Lehár;30;"The Merry Widow" composer Franz Lehár [common]
 Lehar;0
 Lehárs;20
-Lehi;40;Utah city, and a Book of Mormon prophet
+Lehi;30;Utah city, and a Book of Mormon prophet
 Lehigh;40;Pennsylvania river and university
 Lehman;40
 Lehmann;40;Inge Lehmann, seismologist who found Earth's inner core
@@ -82679,6 +82680,7 @@ rebored;30
 rebores;30
 reboring;30
 rebound congestion;60;Symptom of nasal spray overuse
+Rebs;40
 reburial;30
 reburials;30
 reburn;20
