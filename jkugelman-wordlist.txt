@@ -8788,7 +8788,7 @@ Balnibarbi;40;"Gulliver's Travels" land ruled by Laputa
 Baloch;40;People of Balochistan
 Balochi;40;Language of Pakistan and Iran
 Balochistan;40;Region of Pakistan and Iran
-Baloo;50;"The Jungle Book" bear
+Baloo;40;"The Jungle Book" bear
 Balotelli;40;Mario Balotelli, Italian striker
 Balrog;50;Tolkien fire demon
 balsas;40;Weird plural
@@ -8805,6 +8805,7 @@ Baltimoreans;40;Residents of Charm City
 Baltimore rave;0
 Balto;40;Heroic sled dog of the 1925 serum run
 Balts;40;Latvians, Lithuanians and kin
+balut;30;Asian street food
 Balvin;40;J Balvin, reggaeton star
 Balzac;50;Honoré de Balzac, French novelist
 Balzacian;40;Like Honoré de Balzac's fiction
@@ -15630,6 +15631,8 @@ Caitlin;50;Caitlin Clark
 Caitlin Clark;60
 Caitlin Clark effect;60
 Caitriona;40;Caitriona Balfe, "Outlander" star
+Caitríona Balfe;40
+Caitriona Balfe;0
 Caity;40;Caity Weaver, magazine journalist
 Caius;40;Kent's alias in "King Lear"
 cajoler;40
@@ -113245,6 +113248,8 @@ XOXO;40
 XP;40
 X particle;30;Hypothetical boson in grand unified theories
 X particles;30;Hypothetical bosons in grand unified theories
+XP bar;60
+XP bars;60
 Xperia;40;Sony smartphone line
 Xperias;40;Sony phones
 XP Home;40;Windows version
