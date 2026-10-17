@@ -20075,7 +20075,7 @@ clever at;40
 Cleves;40;Anne of Cleves, Henry VIII's fourth wife
 clevis;30;Shackle-like fastener
 clevises;30
-CLI;20
+CLI;30;Command-line interface / Roman numeral
 Cliburn;40;Van Cliburn, pianist who won in Moscow in 1958
 click anywhere;60
 clicked on;40
@@ -20161,6 +20161,7 @@ clipping on;40
 Clippy;60;Microsoft Office paperclip assistant
 Clipse;40;Rap duo of Pusha T and No Malice
 clips on;40
+CLIs;30;Command-line interfaces
 clitoris;50
 CLIV;20
 Clive;50;Clive Barker, Clive Cussler, or Clive Davis
@@ -21234,6 +21235,14 @@ comma butterflies;60
 comma butterfly;60
 command centre;20
 command centres;20
+command line;50
+command-line;50
+command-line argument;50
+command-line arguments;50
+command-line interface;60
+command-line interfaces;60
+command-line interpreter;50
+command-line interpreters;50
 comment card;50
 comment cards;50
 comment ça va;50
@@ -50520,6 +50529,7 @@ in the altogether;60
 in the arm;20
 in the arms of Morpheus;60;Asleep
 in the army;40
+In the Beginning Was the Command Line;60
 in the big leagues;60
 in the can;60
 in the catbird seat;60
@@ -70391,6 +70401,7 @@ not to mention;60
 not too sure;50
 not to rain on your parade;60
 not to rain on your parade but;60
+not up to code;50
 not up to it;60
 not up to scratch;60
 not up to the task;60
@@ -93866,7 +93877,7 @@ soon as;40
 soon enough;50
 sooner rather than later;60
 Sooners;50;Oklahoma college squads
-Sooner State;50
+Sooner State;60
 Soong;20
 Soong Ai-ling;40
 Soong Ching-ling;40
@@ -107348,6 +107359,7 @@ uptake;50
 uptakes;40;Awkward plural
 up the creek;60
 up the creek without a paddle;60
+up to code;50
 up to here;20
 up to her neck;20
 up to his neck;20
