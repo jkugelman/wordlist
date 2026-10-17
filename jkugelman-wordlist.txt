@@ -1508,6 +1508,7 @@ adiós muchachos;40
 adiós señor;40
 adipic;20;Acid
 adiposis;40;Disease
+Adir;30
 Adirondack;50;New York mountain range, or a lawn chair
 Adirondacks;50;New York mountain range
 a dish best served cold;60;Revenge
@@ -2312,6 +2313,7 @@ AI agent;60
 AI agents;60
 AI apocalypse;60
 AI art;60
+AIBO;30
 AI chatbot;60
 AI chatbots;60
 aid;50
@@ -9750,6 +9752,7 @@ Battle of Midway;60
 Battle of Normandy;50
 battle of the bands;60
 Battle of the Bulge;60
+Battle of the Ebro;40
 Battle of the Nile;50
 battle of the sexes;60
 Battle of the Sinai;50
@@ -29944,7 +29947,8 @@ EBow;30
 EBows;30
 e-boy;40
 e-boys;40
-Ebro;40;Longest river entirely in Spain
+Ebro;30;Longest river entirely in Spain
+Ebro River;40
 ebs;20
 Ebsen;40
 EBT;20
@@ -33787,6 +33791,7 @@ faith healer;60
 faith healers;60
 Faith No More;60
 Faiyum;40;Egyptian oasis region known for mummy portraits
+fajr;40;First mandatory prayer of the day in Islam
 fake book;60
 faked one's own death;50
 fake entries;50
@@ -114460,6 +114465,7 @@ y tu;0
 Yu;40;Yu Darvish, MLB pitcher / Charles Yu, novelist
 Yuasa;40;Masaaki Yuasa, anime director
 Yuban;40;Coffee brand
+yuca;40;Cassava root
 Yucaipa, California;40
 Yucatán;50;Mexican peninsula
 Yucatan;0
