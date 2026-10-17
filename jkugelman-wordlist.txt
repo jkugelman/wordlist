@@ -2263,7 +2263,8 @@ ahchoo;20;Sneeze sound: Var.
 ahead of;40
 ahead of one's time;60
 A Heartbreaking Work of Staggering Genius;60
-Ahed;40;Ahed Tamimi, Palestinian activist
+Ahed;30;Ahed Tamimi, Palestinian activist
+Ahed Tamimi;40;Palestinian activist
 a hell of a lot;60
 a hell of a lot of;60
 ahems;40
@@ -2576,6 +2577,8 @@ Aisling;40;Aisling Bea, Irish comedian
 AI slop;60
 AI slop video;60
 AI slop videos;60
+AI startup;60
+AI startups;60
 AI summaries;60
 AI summary;60
 ait;20
@@ -13732,6 +13735,8 @@ brainwashing;60
 brainwave;60
 brainwaves;60
 Brainy Smurf;50
+braiser;40
+braisers;40
 Braithwaite;40;E.R. Braithwaite, "To Sir, With Love" author
 brakeman;40;Member of a train crew
 brakemen;40
@@ -13788,6 +13793,7 @@ Brasiliense;40;Of Brasília
 Brassai;40;Brassaï, Hungarian-French night photographer
 brassard;40;Decorative armband
 brassards;40
+brassed;40
 Brass Era;50;Early period of automotive manufacturing (1896-1915)
 brasserie;40;French restaurant with a relaxed setting
 brasseries;40;French restaurants with relaxed settings
@@ -18120,6 +18126,8 @@ Chahine;40;Youssef Chahine, Egyptian filmmaker
 Chaiken;40;Ilene Chaiken, creator of "The L Word"
 Chaim;40;Chaim Potok, "The Chosen" author / Chaim Weizmann, first Israeli president
 Chained Heat;40;1983 women-in-prison film
+chained up;50
+chaining up;40
 chain mail;60
 chain migration;60
 chain of command;60
@@ -18131,6 +18139,8 @@ chain reactors;50
 chainsaw;50
 chainsaws;50
 chains of command;60
+chains up;40
+chain up;40
 Chainz;50;Rapper 2 Chainz
 chairman of the board;60
 chair of the board;50
@@ -18473,6 +18483,7 @@ chasmal;30
 chassé;30;Dance step
 chasséd;30;Performed a chassé
 chasséing;30
+chassés;40
 Chast;40;New Yorker cartoonist Roz Chast
 Chastain;50;Jessica Chastain, "Zero Dark Thirty" star / Brandi Chastain, soccer champ
 chaster;50
@@ -27069,7 +27080,7 @@ Django Unchained;60
 Djawadi;40;Ramin Djawadi, "Game of Thrones" composer
 DJ booth;60
 DJ booths;60
-DJed;40;Spun the records
+DJed;50;Spun the records
 djent;60
 Djesse;40;Jacob Collier album series
 DJIA;30;Dow Jones Industrial Average, for short
@@ -35711,6 +35722,8 @@ FL;40
 Fla.;40
 Fla;0
 Flacco;40;Joe Flacco, Super Bowl MVP quarterback
+flacon;30;Perfume bottle
+flacons;30;Perfume bottles
 flag-bearer;50
 flag-bearers;50
 Flagg;40;Randall Flagg, Stephen King villain / Fannie Flagg, novelist
@@ -36928,6 +36941,7 @@ fraise;30;Strawberry: Fr.
 fraises;30
 frak;30
 Frakes;40;Jonathan Frakes from ST:TNG
+fraktur;40;Blackletter typeface
 frame grab;50
 frame grabs;50
 frame job;60
@@ -42302,6 +42316,7 @@ Grenfell;40;Grenfell Tower, site of a 2017 London fire
 Greninja;50;Pokeyman
 Grenoble;40;French Alpine city
 Grenville;40;George Grenville, British PM behind the Stamp Act
+grep;20
 GRE prep book;50
 GREs;40
 GRE score;40
@@ -43946,8 +43961,9 @@ haole;20;Non-native Hawaiian
 haoles;20;Non-native Hawaiians
 hap;40
 Hap;40
-hapa;40;Mixed-race Hawaiian
+hapa;30;Mixed-race Hawaiian
 Hapag;40;Hapag-Lloyd, German shipping line
+hapas;30
 hapax;20;Hapax legomenon
 hapax legomena;40;Words occurring only once in a given corpus
 hapax legomenon;40;Word occurring only once in a given corpus
@@ -48316,6 +48332,7 @@ ICANN;30
 I can only blame myself;60
 I Can Read with My Eyes Shut;60;Dr. Seuss book
 I can relate;60
+I can say;40
 I can see;50
 I can see again;50
 I can see both sides;60
@@ -50589,6 +50606,8 @@ internet site;50
 internet sites;50
 internet sleuth;60
 internet sleuths;60
+internet startup;60
+internet startups;60
 internet troll;60
 internet trolls;60
 internet worm;60
@@ -53380,7 +53399,7 @@ joint statements;50
 joint venture;50
 joint ventures;50
 Joji;40;Cory Joji Fukunaga, director of "True Detective" (2014) and "It" (2017)
-Jojo;60
+Jojo;50
 Jojo's;40;"JoJo's Bizarre Adventure," manga series
 joke around;50
 joke around with;40
@@ -55486,6 +55505,7 @@ Klan;10
 Klara;30
 Klara and the Sun;50;2021 dystopian sci-fi novel by Kazuo Ishiguro
 Klasky;40;Klasky Csupo, "Rugrats" animation studio
+klatsch;40
 Klaus;40;Klaus Fuchs, atomic spy, or a common German first name
 Klaus Nomi;40;German countertenor (1944–1983)
 Klavierstucke;40;Stockhausen's "Klavierstücke," piano pieces
@@ -68679,6 +68699,7 @@ Neel;30;Alice Neel, portrait painter
 Neely;40;Hockey player Cam Neely
 Neenah;20
 neener;50
+neep;30;Swedish or Scottish turnip
 ne'er;40
 Neera;30;Neera Tanden, Biden policy adviser
 Neera Tanden;40;Biden policy adviser
@@ -70159,10 +70180,12 @@ Norfolk, VA;30
 Norgay;40;Edmund Hillary's sherpa, first to summit Everest
 Norge;40;Norway, in Norwegian
 no rhyme or reason;60
-nor I;50
-nori;50;Dried edible seaweed
+nor I;40
+nori;40;Dried edible seaweed
 no right on red;60
 no right turn on red;60
+nori roll;50
+nori rolls;50
 norite;30;Type of rock
 Norma;50;Bellini opera / common given name
 Norma Jeane;60;Marilyn Monroe
@@ -80549,6 +80572,7 @@ puppy mill;60
 puppy mills;60
 pup tent;60
 pup tents;60
+pu pu;40
 Pur;40;Brita competitor
 Purana;40;Hindu sacred text
 Puranas;40;Hindu scriptures
@@ -82533,7 +82557,8 @@ realness;40
 RealPlayer;40;Bygone media player
 RealReal;60;Luxury goods marketplace The RealReal
 reals;50;Brazilian currency
-real sex;60
+Real Sex;60
+real sex;0
 real steal;50
 real stinker;60
 real stinkers;60
@@ -90365,6 +90390,7 @@ Sharma;40;Various, rock climber Chris Sharma
 Sharmila;40;Sharmila Tagore, Indian actress
 Sharon;50;Ariel Sharon, Israeli prime minister, or a common first name
 Sharona;50;"My Sharona" subject
+Sharons;30
 Sharpay;40;Sharpay Evans, "High School Musical" diva
 sharp curve ahead;60
 sharp curves ahead;60
@@ -92528,6 +92554,7 @@ slack-jawed;60
 Slade;40;British glam rock band ("Cum On Feel the Noize")
 slag heap;50
 slag heaps;50
+slainte;40
 slaked one's thirst;50
 slake one's thirst;50
 slaker;30
@@ -95906,6 +95933,19 @@ starts on;40
 starts to;40
 start stop;50
 start to;40
+start up;50
+startup;50
+startup business;50
+startup businesses;50
+startup CEO;50
+startup CEOs;50
+startup companies;60
+startup company;60
+startup disk;50
+startup disks;50
+startup funds;50
+startup money;50
+startups;50
 star turn;60
 star turns;60
 start without me;60
@@ -109366,6 +109406,8 @@ Vulcans;50
 Vulfpeck;40;Funk band
 Vulgate;50;Latin translation of the Bible
 Vuong;40;Ocean Vuong, poet and novelist
+V-up;20
+V-ups;20
 vvoowweell;0
 VVVVVV;40;2010 puzzle-platform game
 VW Bug;60
@@ -110854,6 +110896,7 @@ went with one's gut;50
 Wentworth;40;Wentworth Miller, "Prison Break" actor
 went yard;50;Hit a home run
 Wentz;40;Pete Wentz from Fall Out Boy
+wepa;30
 wept for;40
 WeRateDogs;50;Twitter account rating good dogs
 Werckmeister;40;Andreas Werckmeister, music theorist / "Werckmeister Harmonies" film
@@ -111216,6 +111259,9 @@ what's all this then;0
 what's a nice girl like you doing in a place like this?;60
 what's a nice girl like you doing in a place like this;0
 WhatsApp;60;Messaging app
+what say;40
+what sayest thou?;50
+what sayst thou?;50
 what say you?;60
 what say you;0
 what's cooking, good looking?;60
@@ -114795,7 +114841,7 @@ Zephyrus;40;Greek god of the west wind
 Zeppo;50;Zeppo Marx, the straight-man brother
 Zeppo Marx;60
 zer;20
-Zerg;50;"StarCraft" alien swarm
+Zerg;20;"StarCraft" alien swarm
 zero;50
 zero-calorie;50
 zero calories;50
