@@ -45828,6 +45828,8 @@ hightails it;60
 high tea;50
 high teas;50
 high temperature;50
+high-tension wire;60
+high-tension wires;60
 high-test;50
 high-top;50
 high-tops;50
@@ -49859,7 +49861,7 @@ indie films;60
 Indiegogo;40;Crowdfunding site
 indie movie;60
 indie movies;60
-IndieWire;40;Film industry news site
+IndieWire;50;Film industry news site
 Indigiqueer;40;Indigenous and queer identity term
 indigo dye;50
 indigo dyes;50
