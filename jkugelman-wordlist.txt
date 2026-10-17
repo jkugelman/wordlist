@@ -2970,6 +2970,8 @@ Alexi Lalas;40;US soccer player turned pundit
 Alexis;50;Alexis Bledel, "Gilmore Girls" actress / Alexis Rose of "Schitt's Creek"
 Alexisonfire;40;Canadian post-hardcore band
 Alex Mack;50
+Alex P. Keaton;50
+Alex P Keaton;0
 Alex Trebek;50
 ale yeast;50
 ale yeasts;50
@@ -54470,7 +54472,8 @@ Kearns;20
 keas;20;Parrots
 Keating;40;Keating Five scandal / Paul Keating, Australian PM
 Keaton;50;Buster Keaton, silent comic / Michael Keaton, actor
-Keatonesque;40;Like Buster Keaton
+Keatonesque;50;Like Buster Keaton
+Keatons;40;"Family Ties" family
 Keats;50;John Keats, Romantic poet
 Keatsian;40;Of the poet John Keats
 Keb';20
@@ -58978,6 +58981,7 @@ like a pig in shit;10
 like as not;60
 like a stone;50;2003 single by Audioslave
 like a ticking time bomb;60
+like a ton of bricks;60
 like bumps on a log;60
 like buttah;60
 like butter;60
@@ -65059,6 +65063,7 @@ Michael Ansara;40;Cochise player in 1950s TV
 Michael Bluth;60;"Arrested Development" character
 Michael Caine;60
 Michael Johnston;50;Actor Michael Johnston from "Obsession" (2026)
+Michael Keaton;60
 Michaelmas;50;Feast of St. Michael, September 29
 Michael Palin;50
 Michaels;50;Lorne Michaels, "SNL" creator / Al Michaels, sportscaster
