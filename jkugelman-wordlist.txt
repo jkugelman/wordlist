@@ -23566,6 +23566,7 @@ Culver;40;Culver City, Los Angeles-area home of MGM
 Culver's;40;Midwest burger chain
 cum;40
 Cumaean;40;Cumaean Sibyl, Virgil's prophetess
+Cumaean Sibyl;40;Priestess presiding over the Apollonian oracle at Cumae
 Cumberbatch;50;Benedict Cumberbatch, actor
 Cumberland;50;Gap, river, and plateau
 Cumbria;40;English county in the Lake District
@@ -28506,6 +28507,7 @@ Draymond;40
 drays;30
 dray yard;40;???
 Dr. Blight;50;Captain Planet baddie
+Dr. Bob;40;Cofounder of Alcoholics Anonymous
 DRC;20;Democratic Republic of the Congo
 Dr. Demento;60
 Dr Demento;0
@@ -38944,6 +38946,7 @@ George A. Romero;50
 George A Romero;0
 George Bluth Sr.;60;"Arrested Development" character
 George Enescu;40;Romanian composer and violinist (1881–1955)
+George Gobel;40;1950s comedian
 George Harrison;60
 George Hearn;40;Broadway actor of "La Cage aux Folles"
 George I;30
@@ -40441,6 +40444,7 @@ Gobbledy;40;Gobbledy Gooker, WWE turkey mascot
 Gob Bluth;60;"Arrested Development" character
 go beast mode;60
 go behind;40
+Gobel;30
 Gobert;40;Rudy Gobert, NBA Defensive Player of the Year
 Gobi;50;Asian desert / Indian cauliflower dish
 gobidessert;0
@@ -44966,7 +44970,8 @@ hebdomadal;30;Weekly, or lasting a week
 hebdomadally;30;Weekly
 hebdomadary;30
 hebdomads;30;Weeks
-Hebei;40;Chinese province
+Hebei;30;Chinese province
+Hebei Province;40
 Hébert;20;French Revolution journalist
 Hebert;0
 Hebraism;40;A Hebrew idiom or usage
@@ -58583,6 +58588,7 @@ Liao;40;Chinese dynasty of 907-1125
 Liaodong;40;Chinese peninsula
 liar's paradox;60
 lib;40
+Li Bai;40;Chinese poet (701–762)
 libate;40
 libated;40
 libates;40
@@ -61170,7 +61176,12 @@ Maastricht;40;City in the Netherlands
 Maathai;40;Wangari Maathai, 2004 Nobel Peace Prize winner
 Mab;40;Queen Mab, referred to in Romeo and Juliet, and other works
 Mabanckou;40;Alain Mabanckou, Congolese-French novelist
-Mabel;50;Old-fashioned first name, or Mabel Pines of "Gravity Falls"
+Mabel;40;Old-fashioned first name, or Mabel Pines of "Gravity Falls"
+Mabel Loomis Todd;40
+Mabel Mercer;40
+Mabel Normand;40
+Mabel Ping-Hua Lee;40
+Mabel's;30
 Mabels;30
 Mabinogion;40;Collection of Welsh myths
 Mabley;40;Moms Mabley, standup comedian
@@ -91258,6 +91269,10 @@ sibilated;40
 sibilates;40
 sibilating;40
 sibilation;40
+sibyl;40;Oracle in Ancient Greece
+sibyllic;40
+sibylline;40
+sibyls;40;Oracles in Ancient Greece
 sic;50
 Sica;40;Vittorio De Sica, Italian neorealist director
 Sicario;40;"Sicario" (2015), or Spanish for hitman
@@ -103050,7 +103065,7 @@ Tiananmen;50;Beijing square of the 1989 protests
 Tianjin;40;Chinese port city
 tiaraed;30
 tias;40
-Tibbs;50;Virgil Tibbs, "In the Heat of the Night" detective
+Tibbs;40;Virgil Tibbs, "In the Heat of the Night" detective
 Tiber;40
 Tiberian;40
 Tiberias;40;City in northern Israel, one of Judaism's Four Holy Cities
@@ -108850,6 +108865,7 @@ vireos;20
 Virgil;50;Roman poet of the "Aeneid"
 Virgil Abloh;40;Fashion designer and entrepreneur (1980–2021)
 Virgilian;40;Of the "Aeneid" poet
+Virgil Tibbs;40
 virgin ears;60
 Virginia;50;Old Dominion state
 Virginian;50
