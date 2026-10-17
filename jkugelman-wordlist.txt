@@ -7914,7 +7914,8 @@ a world of hurt;60
 a wrap;20
 A Wrinkle in Time;60;1962 science fantasy novel by Madeleine L'Engle
 A&W Root Beer;60
-AWS;40
+aws;40
+AWS;20;Amazon Web Services
 aw snap;60
 aw, thanks;60
 aww;50
