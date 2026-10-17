@@ -58369,8 +58369,8 @@ let into;40
 let it be known;60
 let it die;50
 let it drop;50
-let it go;60
 Let It Go;60;Song from Disney's 2013 film "Frozen"
+let it go;50
 Letitia;40;Letitia James, New York attorney general / Letitia Wright, actor
 let it lie;50
 let it rip;60
