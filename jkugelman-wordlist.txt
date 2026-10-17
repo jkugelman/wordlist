@@ -24321,7 +24321,7 @@ Dansk;30;Danish-design housewares brand, Royal ___ cookies
 Danskin;30
 Danson;50;Ted Danson, "Cheers" star
 Dante;50;Dante Alighieri, "Inferno" poet
-Dantean;40;Of Dante
+Dantean;50;Of Dante
 Dante II;20
 Dante's;40;Dante's Inferno, or Dante's Peak
 Dantesque;50;Like the "Inferno"
@@ -24669,6 +24669,9 @@ d'aww;40
 Dax;40
 day;50
 Dayan;30
+Da Ya Think I'm Sexy?;50;1978 single by Rod Stewart
+Da' Ya' Think I'm Sexy;50;1978 single by Rod Stewart
+Da Ya Think I'm Sexy;0
 daycare centre;20
 daycare centres;20
 daycation;60
@@ -47087,6 +47090,7 @@ hot car;20;Green painty
 hot-carrier injection;50;Phenomenon in solid-state electronic devices
 hot chili;50
 hot chilis;50
+Hot Chocolate;60;"You Sexy Thing" (1975) soul band
 hot chocolate bomb;60
 hot chocolate bombs;60
 hot cocoa;60
@@ -49286,6 +49290,7 @@ imbricated;40
 imbricating;40
 imbrication;40
 imbrications;40
+I'm bringing sexy back;50
 imbrue;40;Stain, as with blood: Archaic
 imbrued;40
 imbrues;40
@@ -49613,6 +49618,7 @@ I'm toast;60
 I'm to blame;60
 I'm too;20
 I'm too old for this shit;10
+I'm Too Sexy;60
 I'm trying my best;60
 I'm trying to eat;60
 I'm up;50
@@ -58924,6 +58930,7 @@ Lilo;50
 li'l ol' me;60
 lil ol' me;0
 Lilongwe;40;Capital of Malawi
+Lil Peep;40;Emo rapper (1996–2017)
 lilter;40
 lilters;40
 Lil Uzi Vert;60
@@ -60416,6 +60423,8 @@ loved on;40
 loved to;40
 loved to bits;60
 loved to pieces;60
+love egg;10;Vibrator
+love eggs;10;Vibrators
 Lovefool;40;"Lovefool," the Cardigans hit
 love-hate;60
 love hotel;50
@@ -62200,6 +62209,7 @@ malleeggaze;0
 malleoli;40
 malleolus;40;Ankle bump
 mallets;50
+malleus;40
 Mallomar;40;Marshmallow cookie brand
 Mallomars;50;Marshmallow and graham cookies
 Mallorca;50;Largest Balearic island
@@ -65225,6 +65235,7 @@ Millerites;40;Followers of William Miller, of the Great Disappointment
 Miller Smurf;50
 miller's thumb;50;Fish
 miller's thumbs;50
+millets;40
 Millett;40;Kate Millett, author of "Sexual Politics"
 Millhauser;40;Steven Millhauser, Pulitzer-winning novelist
 Millhone;40;Kinsey Millhone, Sue Grafton's detective
@@ -68091,6 +68102,7 @@ napery;30;Table linens
 Napheesa;40;Napheesa Collier, WNBA All-Star
 Napier;40;Jack Napier, the Joker / John Napier, inventor of logarithms (1550-1617)
 Naples;50;Italian city on the bay
+napless;40
 Napoleon;50;Napoleon Bonaparte, French emperor
 Napoleon Dynamite;60
 Napoleonic;50;Of Bonaparte's era
@@ -71772,6 +71784,9 @@ oil and gas workers;50
 oil and vinegar;60
 oil baron;60
 oil barons;60
+oil-bearing;50
+oil belt;40
+oil belts;40
 oil car;40
 oil cars;40
 oil cartel;50
@@ -74505,6 +74520,8 @@ palmature;30
 Palm Beach;60
 Palme;40;Palme d'Or
 palmed off;50
+Palmer's;30
+palmers;30
 Palmerston;40;Lord Palmerston, British prime minister
 Palmes;40;Palmes d'Or, Cannes top prizes
 palmets;30
@@ -87639,8 +87656,8 @@ sat shiva;60
 satsuma;40;Japanese mandarin
 satsumas;40
 Satter;30;Tina Satter, experimental theater director
-SAT test;50
-SAT tests;50
+SAT test;40
+SAT tests;40
 sattiinnyy;0
 Sattler;40;Ellie Sattler, "Jurassic Park" paleobotanist
 sat upon;40
@@ -89982,13 +89999,19 @@ sexual behavior;60
 sexual congress;50
 sex up;60
 Sex Wax;50
-sexy;60
+sexy;50
+Sexy and I Know It;60
 SexyBack;50;"SexyBack," Justin Timberlake chart-topper
+sexy elf costume;50
+sexy elf costumes;50
+Sexy MF;10
 sexy prime;50
 sexy primes;50
 Sexy Sadie;60;1968 song by the Beatles
+sexy time;60
+sexy times;60
 sexy voice;60
-Sexyy;50;2023 breakout rapper Sexyy Red
+Sexyy;40;2023 breakout rapper Sexyy Red
 Sexyy Red;60;2023 breakout rapper Sexyy Red
 Seychelles;50;Indian Ocean island nation
 Seychellois;50;Of the Seychelles
@@ -90467,6 +90490,7 @@ she's just saying what we've all been thinking;60
 she's next;40
 she's not buying it;60
 she's not here right now;60
+(She's) Sexy + 17;50;1983 single by Stray Cats
 she's the one;50
 Shetland;50;Scottish islands, or a pony breed
 Shetlands;40;Scottish islands, or the ponies
@@ -104319,6 +104343,7 @@ top sirloin;50
 tops out at;40
 top surgery;60
 Topsy;40;Girl in "Uncle Tom's Cabin"
+top tens;40
 top that;60
 top the ball;50
 top this;60
@@ -107923,6 +107948,7 @@ vacant seat;50
 vacant seats;50
 Vacationland;50;Maine's nickname
 Vaccaria pyramidata;20;Species of flowering plant
+Vaccinium oxycoccus;20;Species of cranberry
 Vachel;40;Vachel Lindsay, American poet
 Vaclav;40;Vaclav Havel, Czech president
 vacuities;40
@@ -107934,6 +107960,7 @@ vacuum-sealed;50
 vacuum sealed;0
 vacuum tube;60
 vacuum tubes;60
+vada;20
 vade;20
 vade mecum;40
 vade mecums;40
@@ -108688,6 +108715,8 @@ vigilante justice;60
 Vigny;20;Alfred de ___
 Vigo;40;Spanish port city / Jean Vigo, French filmmaker
 Vigoda;40;Abe Vigoda, "Barney Miller" actor
+vihuela;30;16th century Spanish string instrument
+vihuelas;30;16th century Spanish string instruments
 VII;30
 VIII;30
 Vijay;40;Vijay Singh, Fijian golfer / Vijay Iyer, jazz pianist
@@ -114214,6 +114243,7 @@ your words not mine;60
 Yousafzai;50;Malala Yousafzai, youngest Nobel laureate
 you said so yourself;60
 You Seem Pretty Sad for a Girl So in Love;50;2026 studio album by Olivia Rodrigo
+You Sexy Thing;60;1975 single by Hot Chocolate
 you should get out more;60
 you should say something;60
 you should see your face;60
