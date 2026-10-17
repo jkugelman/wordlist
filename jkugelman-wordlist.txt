@@ -16188,7 +16188,7 @@ candy shops;50
 candy store;50
 candy stores;50
 Canelo;40;Canelo Alvarez, boxing champion
-Canetti;40;Elias Canetti, Nobel-winning author
+Canetti;40;Elias Canetti, 1981 literature Nobelist
 Canfield;40;Juliana Canfield, "Succession" actress, or a solitaire game
 can I ask a question?;60
 can I ask a question;0
@@ -30687,6 +30687,7 @@ Elia;40;Elia Kazan
 Elián;40;Elian Gonzalez, Cuban boy in a 2000 custody fight
 Elian;0
 Elias;40;Elias Howe, sewing machine inventor / Elias Canetti, Nobel novelist
+Elias Canetti;40;1981 literature Nobelist
 Eliasson;40;Olafur Eliasson, installation artist
 elicitor;30
 Elie;40;Elie Wiesel
@@ -64951,6 +64952,7 @@ Mikael;40;Mikael Blomkvist, "The Girl with the Dragon Tattoo" journalist
 Mikaela;40;Mikaela Shiffrin, champion alpine skier
 Mikan;40;George Mikan of the NBA
 Mike;50;Common given name, as in "Magic Mike"
+Mike D'Antoni;40;NBA coach
 Mike Ehrmantraut;50;Mike Ehrmantraut from "Breaking Bad" / "Better Caul Saul"
 Mike Patton;50
 Mike Portnoy;50
