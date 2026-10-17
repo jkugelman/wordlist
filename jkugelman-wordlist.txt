@@ -11091,6 +11091,7 @@ Betye Saar;40;Artist in the Black Arts Movement in the 1970s
 bet your bottom dollar;60
 Beulah;40;Beulah Land of Scripture / Beulah Bondi, actress
 be unaware of;20
+be unseen;20
 be up;20
 be up to scratch;40
 beurre;30;Butter: French
@@ -12256,6 +12257,8 @@ bloodletter;60
 bloodletters;60
 bloodletting;60
 bloodlettings;60
+Blood Meridian;60;Epic historical novel by Cormac McCarthy
+blood money;60
 blood plasma;50
 blood pudding;60
 blood puddings;60
@@ -16274,7 +16277,7 @@ cannot help;50
 cannot help but;50
 cannot hold a candle to;60
 cannot stay still;50
-cannot unsee;50
+cannot unsee;60
 cannula;30;Medicine tube
 cannulae;30;Medicine tubes
 cannular;30
@@ -16323,6 +16326,7 @@ Cantabrigians;50;Cambridge residents
 Cantabs;40
 can't be arsed;60
 can't beat that;60
+can't be unseen;50
 can't catch a break;60
 can't cook;30
 can't do;40
@@ -35520,6 +35524,7 @@ fitting to a T;40
 fitting to a tee;40
 fit to a T;40
 fit to a tee;40
+fit to be tied;60
 fit to wake the dead;60
 Fit TV;50
 Fitz;40;Fitz and the Tantrums, pop band
@@ -36943,6 +36948,7 @@ Freans;40;Peek Freans, cookie brand
 Frears;40;Stephen Frears, "The Queen" director
 Fred;50;Fred Astaire, dancer / Fred Rogers, TV neighbor
 Freda;40;Freda Payne, "Band of Gold" singer
+Fred Armisen;60
 Freddie;50;Freddie Mercury, Queen frontman / Freddie Gibbs, rapper
 Freddy;50;Freddy Krueger, among others
 Freddy's;40;Five Nights at Freddy's
@@ -37703,6 +37709,7 @@ fun police;60
 fun run;60
 fun runs;60
 funs;20
+fun-seeking;50
 funsies;60
 fun size Butterfinger;60
 fun size Butterfingers;60
@@ -40583,6 +40590,7 @@ goes to seed;60
 goes to the dogs;60
 goes to the mat;60
 goes to the polls;60
+goes unnoticed;50
 goes up to;40
 goes vegan;60
 goes west;40;Dies
@@ -40762,6 +40770,7 @@ going to seed;60
 going to the dogs;60
 going to the mat;60
 going to the polls;60
+going unnoticed;50
 going up to;40
 going vegan;60
 going whole hog;60
@@ -41059,6 +41068,7 @@ gone to seed;60
 gone to the dogs;60
 gone to the mat;60
 gone to the polls;60
+gone unnoticed;50
 gone wrong;40
 Gonggong;40;Dwarf planet named for a Chinese water god
 gong hay fat choy;40;Cantonese phrase used during Chinese New Year
@@ -41620,6 +41630,7 @@ Gouda;50;Dutch cheese
 Gould;40;Glenn Gould, pianist, or Elliott Gould, actor
 Goulding;40;Ellie Goulding, "Lights" singer
 Goulet;40;Robert Goulet, "Camelot" baritone
+go unnoticed;50
 Gounod;30;Film composer
 go up to;40
 gourami;40;Aquarium fish
@@ -45268,7 +45279,7 @@ Henrietta;40;Henrietta Lacks, source of the HeLa cell line
 Henri II;30
 Henri III;30
 Henrik;40;Henrik Ibsen, "A Doll's House" playwright
-Henrik Ibsen;50;"A Doll's House" playwright
+Henrik Ibsen;60;"A Doll's House" playwright
 Henriksen;40;Lance Henriksen, "Aliens" actor
 Henri Poincare;50
 Henry;50;Common given name and surname
@@ -71920,6 +71931,7 @@ olive;50
 olive brine;50
 olive brown;50
 olive drab;50
+Olive Garden;60
 Oliveira;40;Manoel de Oliveira, Portuguese director
 Oliver;50;Oliver Twist, Dickens orphan / John Oliver, comedian
 Oliver Hardy;60
@@ -110412,6 +110424,7 @@ went to seed;60
 went to the dogs;60
 went to the mat;60
 went to the polls;60
+went unnoticed;50
 went up to;40
 went vegan;60
 went whole hog;60
