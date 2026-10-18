@@ -7460,6 +7460,8 @@ at the half;50
 at the hands of;50
 At the Mountains of Madness;60;H. P. Lovecraft novella
 at the net;30
+at the peak;50
+at the peak of perfection;60
 at the seams;50
 at the top of one's lungs;50
 at the top of one's voice;50
@@ -70399,6 +70401,7 @@ northern giant hornets;50
 Northernlion;40;Canadian gaming YouTuber
 north of;50;More than
 north paw;60
+North Peak;50
 North Reef;50;Various places
 Northrop;40;Northrop Grumman, defense contractor / Northrop Frye, critic
 norths;30
@@ -75954,10 +75957,15 @@ peak cinema;60
 Peake;40;Mervyn Peake, author of "Gormenghast"
 peakier;30;More sickly-looking (Brit. "peaky")
 peakiest;30;Most sickly-looking (Brit. "peaky")
+peak of perfection;60
+peak performance;60
+peak performances;50
 peak season;60
 peak seasons;60
 peak time;60
 peak times;60
+peak viewing time;50
+peak viewing times;50
 peaky;40
 Peaky Blinders;60
 Peale;40;Norman Vincent Peale, author of "The Power of Positive Thinking"
@@ -112204,6 +112212,7 @@ widgeons;20
 Widmark;40;Richard Widmark, film noir star
 Widor;40;Charles-Marie Widor, French organ composer
 Widow's Bay;60;2026 comedy horror Apple TV series
+widow's peak;60
 Wie;40;Golfer Michelle Wie
 Wiedersehen;50;Auf ___ (German goodbye)
 Wiedlin;40;Jane Wiedlin, Go-Go's guitarist
