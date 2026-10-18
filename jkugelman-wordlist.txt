@@ -11196,6 +11196,7 @@ beyond one's reach;50
 beyond question;60
 Beyond the Spider-Verse;60
 be your own boss;60
+Bey-Z;40
 Bezos;50;Jeff Bezos, Amazon founder
 Bezukhov;40;Pierre Bezukhov, "War and Peace" hero
 BF;40
@@ -69968,6 +69969,7 @@ no bet;40
 no-bid contract;50
 no-bid contracts;50
 no bite;20;"All bark and ___" partial
+noble cause corruption;60
 noble fir;50
 noble firs;50
 noble gas;50
@@ -113925,6 +113927,7 @@ yashmak;30;Muslim veil
 yashmaks;30;Muslim veils
 Yasiel;40;Yasiel Puig, MLB outfielder
 Yasiin;40;Yasiin Bey, rapper formerly known as Mos Def
+Yasiin Bey;40
 Yasir;40
 Yasmina;40;Yasmina Reza, "God of Carnage" playwright
 Yasmina Reza;40
@@ -113959,6 +113962,7 @@ yawning chasms;50
 yay;50
 Ya-Ya;40;"Divine Secrets of the Ya-Ya Sisterhood"
 Yaya;40;Various people
+Yaya Bey;40
 Ya-Ya's;40;Rolling Stones' "Get Yer Yayas Out!"
 Yayoi;40;Yayoi Kusama, polka-dot artist / Japanese historical period
 yays;40
