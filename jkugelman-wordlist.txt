@@ -79380,6 +79380,9 @@ Poznań, Poland;40
 Poznan Poland;0
 pozole;40;Mexican stew
 PP;40
+PPAP;20
+PPAP (Pen-Pineapple-Apple-Pen);50;2016 viral song by Pikotaro
+PPAP Pen-Pineapple-Apple-Pen;0
 ppd.;20
 PPE;40
 PPG;40;NBA stat [rare]
@@ -96145,6 +96148,8 @@ Stavros;40;Greek given name, as in shipping magnate Stavros Niarchos
 Stax;40;Classic R&B record label
 stay ahead of the curve;60
 stay at;40
+staycay;60
+staycays;60
 stay connected;50
 stay cool;50
 stayed ahead of the curve;60
@@ -99165,6 +99170,7 @@ take a shot at;40
 take a shower;50
 take a siesta;50
 take a stab;50
+take a staycation;50
 take a step back from;40
 take a swig;50
 take a train;40;Contrived
@@ -99287,6 +99293,7 @@ takes a shot at;40
 takes a shower;50
 takes a siesta;50
 takes a stab;50
+takes a staycation;50
 takes a step back from;40
 takes a swig;50
 takes away from;40
@@ -99414,6 +99421,7 @@ taking a shine to;50
 taking a shot at;40
 taking a siesta;50
 taking a stab;50
+taking a staycation;50
 taking a step back from;40
 taking a swig;50
 taking away from;40
@@ -104420,6 +104428,7 @@ took a shot at;40
 took a shower;50
 took a siesta;50
 took a stab;50
+took a staycation;50
 took a step back from;40
 took a swig;50
 took away from;40
