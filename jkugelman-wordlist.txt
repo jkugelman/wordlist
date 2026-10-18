@@ -23724,6 +23724,7 @@ cured ham;50
 cured hams;50
 cured pork;50
 cured salmon;50
+cure for the common cold;60
 Curél;40;Skincare brand
 Curel;0
 curer;40
@@ -81541,6 +81542,7 @@ raced off;50
 raced to;40
 race fan;30
 race fans;30
+race for the cure;60
 race for the curio;0
 race in;40
 race into;40
@@ -97096,6 +97098,9 @@ stop that;60
 stop that now;40
 stop the clock;60
 stop the fight;60
+stop the insanity!;50
+Stop the insanity!;0
+stop the mouth of;20
 stop time;60
 stop yapping;60
 stop your yapping;60
@@ -98462,6 +98467,8 @@ Susan B. Anthony dollar;50
 Susan B Anthony dollar;0
 Susan B. Anthony dollars;50
 Susan B Anthony dollars;0
+Susan G. Komen for the Cure;50
+Susan G Komen for the Cure;0
 Susan Molinari;20;90s house rep
 Susann;40;Jacqueline Susann, "Valley of the Dolls" author
 Susanna;50;Common first name, as in "Oh! Susanna"
@@ -101751,6 +101758,7 @@ the Criterion Collection;60
 The Critic;60
 the C-suite;20
 the Cubs;30
+the cure for the common cold;50
 The Curious Case of Benjamin Button;60
 The Curse;60
 the curse of expertise;60
