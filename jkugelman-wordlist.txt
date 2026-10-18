@@ -78407,8 +78407,10 @@ pointing at;40
 pointing to;40
 point man;60
 point men;60
+point of sale;60
 points a finger at;50
 points at;40
+points of sale;60
 point spread;50
 point spreads;50
 points to;40
@@ -78694,6 +78696,12 @@ Pontiacs;40;Pontiac cars
 pontiffs;50
 Pontius;50;Pontius Pilate, Roman prefect at the Crucifixion
 Pontmercy;40;Marius Pontmercy, "Les Misérables" suitor
+pontoon boat;60
+pontoon boats;60
+pontoon bridge;60
+pontoon bridges;60
+pontoon plane;60
+pontoon planes;60
 Pontormo;40;Jacopo Pontormo, Mannerist painter
 Pontypool;40;Welsh town, or the 2008 horror film
 Ponyboy;50;Ponyboy Curtis, "The Outsiders" narrator
@@ -79219,6 +79227,8 @@ pottage;40
 pottages;40
 pot tea;50;Cannabis tea
 potted meat;50
+potted plant;60
+potted plants;60
 Pottermore;50
 potter's thumb;60;Genetic trait with one short, wide thumb
 Pottery Barn;60
@@ -80111,12 +80121,14 @@ pronom;20
 pronominal;40;Pronoun-related
 pronouncers;50
 proof of purchase;60
+proof of sale;50
 proofread;50
 proofreader;50
 proofreaders;50
 proofreading;50
 proofreads;50
 proofs of purchase;50
+proofs of sale;50
 Proops;40;Greg Proops, "Whose Line" comedian
 prop;50
 Propagandhi;40;Canadian punk band
