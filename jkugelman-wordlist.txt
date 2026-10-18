@@ -1151,6 +1151,7 @@ Aconcagua;50;Highest peak in the Americas
 a cool mil;60
 a cool million;60
 A Cool Million;60
+a cop;20
 Acosta;40;Jim Acosta, journalist
 a couple;30
 a-courtin';20
@@ -11168,6 +11169,7 @@ Bevan;40;Aneurin Bevan, NHS founder / Bev Bevan, ELO drummer
 Bevatron;40;Berkeley particle accelerator
 Beveridge;40;William Beveridge, welfare state architect
 Beverly;50;Common first name / Beverly Hills
+Beverly Hills Cop;60
 Bevin;40;Ernest Bevin, British foreign secretary
 Bevins;40;Vincent Bevins, author of "The Jakarta Method"
 BevMo;40;Online liquor store
@@ -14764,6 +14766,8 @@ buddies up to;50
 buddle;20
 Buddleia;40;Butterfly bush
 buddles;20
+buddy cop movie;60
+buddy cop movies;60
 buddying up to;50
 buddy list;50
 buddy lists;50
@@ -21940,9 +21944,12 @@ Copa;40;Copa America, or the Copacabana
 Copacabana;50;Rio beach in a Manilow hit
 Copacabana Beach;50
 copaganda;60
+cop an attitude;60
 cop a plea;60
 cop car;50
 cop cars;50
+cop drama;50
+cop dramas;50
 coped with;40
 Copeland;40;Misty Copeland, ballerina / Stewart Copeland, Police drummer
 Copenhagen;50;Danish capital
@@ -21961,6 +21968,7 @@ Copland;50;Aaron Copland, "Appalachian Spring" composer
 Copley;40;John Singleton Copley, colonial painter / Boston square
 cop-out;50
 cop out on;40
+copped an attitude;60
 copped a plea;60
 copped out on;40
 copped to;40
@@ -21979,12 +21987,14 @@ coppice;40;Cut back a tree to stimulate growth
 coppiced;40
 coppices;40
 coppicing;40
+copping an attitude;60
 copping a plea;60
 copping out on;40
 copping to;40
 Coppola;50;Francis Ford Coppola, "The Godfather" director
 Coppolas;40;Filmmaking family
 coprolith;30
+cops an attitude;60
 cops a plea;60
 cop show;60
 cop shows;60
@@ -23046,6 +23056,7 @@ crime novelists;50
 crime ring;50
 crime rings;50
 crime scene;50
+crime scene do not cross;60
 crime scenes;50
 crime spree;50
 crime sprees;50
@@ -25387,6 +25398,7 @@ defriended;50
 defs;40
 Deftones;40;Alt-metal band
 Defunctland;40;YouTube channel on dead theme park attractions
+defund the police;60
 defy all odds;60
 defying all odds;60
 defying gravity;60
@@ -35468,6 +35480,7 @@ fire insurance;50
 fire iron;40;Fireplace poker
 fire irons;40;Fireplace pokers
 fireline;50
+fire line do not cross;50
 firelines;50
 fire Luigi;20
 fireman;50
@@ -41355,6 +41368,8 @@ good cause;50
 good choice;60
 good cook;50
 good cooks;50
+good cop, bad cop;60
+good cop bad cop;0
 good day, sir;60
 good deed;50
 good deeds;50
@@ -42050,6 +42065,7 @@ Gramm;40;Phil Gramm, Texas senator / Lou Gramm, Foreigner singer
 gramma;40
 grammar check;50
 Grammarly;50;Writing-assistant app
+grammar police;60
 grammas;40
 Grammer;40;Kelsey Grammer, Frasier Crane actor
 Grammy;50
@@ -49516,6 +49532,7 @@ Imbruglia;40;Natalie Imbruglia, singer of "Torn"
 imbruing;40
 I'm bushed;60
 I'm calling it a night;50
+I'm calling the police;60
 ImClone;30;Company in Martha Stewart's trading scandal
 I'm comin';0
 I'm cooked;60
@@ -51930,6 +51947,7 @@ it's a date;60
 it's a dick move;60
 it's a done deal;60
 it's a doozy;60
+it's a fair cop;60
 it's a fluke;60
 it's a gas;50
 it's a gift;60
@@ -55394,6 +55412,7 @@ kinara;30;Kwanzaa candle holder
 kinase;30;ATP enzyme
 Kincaid;40;Jamaica Kincaid, author of "Annie John"
 kinda sorta maybe;60
+Kindergarten Cop;60
 Kinderhook;50;Van Buren's hometown, source of "OK"
 Kinder Joy;50;Chocolate eggs brand
 kindlily;30;Weird adverb
@@ -71812,6 +71831,7 @@ off-Broadway shows;60
 off centre;20
 offcut;40;Leftover material (wood, fabric, etc.)
 offcuts;40
+off-duty police;50
 Offenbach;40;Jacques Offenbach, composer of the can-can
 offense taken;60
 Offerman;50;Nick Offerman, Ron Swanson on "Parks and Recreation"
@@ -72398,6 +72418,10 @@ olés;40
 Oleson;40;"Little House on the Prairie" family name
 Olestra;40;Fat substitute
 Oleta;40;Soul singer Oleta Adams
+O-level;40
+O-Level;40
+O-levels;40
+O-Levels;40
 Olga;40
 Olga Ravn;50;Danish poet and novelist
 ol' heave-ho;60
@@ -78635,25 +78659,41 @@ police academy;50
 police band;60
 police bands;60
 police beat;50
+police brutality;10
 police chief;60
 police chiefs;60
 police constable;60
 police constables;60
+police court;50
+police courts;50
+police dispatch;50
+police dispatcher;50
+police dispatchers;50
 police dog;60
 police dogs;60
+police horse;60
+police horses;60
 police inspector;60
 police inspectors;60
+police line do not cross;60
 Policeman Smurf;50
 police procedural;60
 police procedurals;60
 police raid;40
 police raids;40
+police roadblock;50
+police roadblocks;50
 police slang;50
+Police Squad!;60
+police stakeout;60
+police stakeouts;60
+police state;60
+police states;60
 police sting;50
 police stings;50
 police tape;60
 police task force;50
-police task forces;20
+police task forces;50
 policewomen;50
 policy research;50
 policy wonk;60
@@ -86304,6 +86344,7 @@ Roxy;40;Roxy Music, or the LA nightclub
 Roy;50
 royal ball;50
 royal balls;50
+Royal Canadian Mounted Police;60
 royale;60
 royal household;50
 Royal Mint;50
@@ -89174,6 +89215,7 @@ secret menu items;60
 secretor;30
 secretors;30
 secretory;40;Relating to secretion
+secret police;60
 secret room;60
 secret rooms;60
 Secret Santa;60
@@ -89199,6 +89241,7 @@ security flaw;50
 security flaws;50
 security leak;50
 security leaks;50
+security line do not cross;50
 security smoke;60
 security theater;60
 sed;20
@@ -97362,6 +97405,8 @@ street artist;60
 street artists;60
 street closure;50
 street closures;50
+street cop;50
+street cops;50
 street crime;50
 street date;50
 street dates;50
@@ -98032,6 +98077,7 @@ suh-weet;60
 Sui;40;Fashion designer Anna
 suicidal;10
 suicide;10
+suicide by cop;10
 suicides;10
 sui generis;60
 suing for;40
@@ -100416,6 +100462,8 @@ Tea Leoni;0
 tea light;50
 tea lights;50
 teals;30
+Team America: World Police;60
+Team America World Police;0
 teamed up on;40
 Team Edward;60
 teamer;30
@@ -101900,6 +101948,7 @@ The Fall of the House of Usher;60
 the fam;50
 The Fame;50;Lady Gaga's debut album
 The Far Side;60
+the fashion police;60
 The Fast and the Furious;60
 The Fast and the Furious Tokyo Drift;60
 the fat;40
@@ -101970,6 +102019,7 @@ The Good Earth;60;1931 novel by Pearl S. Buck
 the goods;60
 the GOP;20
 the Gospels;40
+the grammar police;60
 the Grammys;40
 The Grand Budapest Hotel;60;2014 film by Wes Anderson
 The Grass Crown;50;Roman military decoration / Colleen McCullough historical novel
@@ -102727,6 +102777,7 @@ the theater;50
 the thief of joy;60;Comparison, it's said
 the third degree;40
 the third rail;40
+the thought police;60
 the Three Bears;40
 the Three Furies;50;Erinyes of Greek myth
 The Thrill Is Gone;60
@@ -103167,6 +103218,7 @@ thought of;40
 thought on;40
 thought on one's feet;50
 thought outside the box;60
+thought police;60
 thought-terminating;60
 thought-terminating cliché;60
 thought-terminating cliche;0
