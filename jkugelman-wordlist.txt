@@ -4363,6 +4363,8 @@ Andeans;40;People of the Andes
 Anders;40;Anders Celsius, temperature scale namesake
 Andersen;50;Hans Christian Andersen, fairy-tale author
 Anderson;50;Common surname / Anderson Cooper, news anchor
+Anderson .Paak;50;Rapper
+Anderson Paak;0
 Andersonville;50;Notorious Confederate prison camp
 Andersson;40;Benny Andersson of ABBA / Bibi Andersson, actress
 Andes;50;South American range
