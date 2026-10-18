@@ -74609,7 +74609,7 @@ Pago;40;Pago Pago, capital of American Samoa
 pah;30
 Pahlavi;20;Iranian Shah
 Pahlevi;0
-Pai;40;___ Gow
+Pai;40;Pai gow
 paid actor;60
 paid actors;60
 paid content;60
