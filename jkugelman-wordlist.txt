@@ -24833,6 +24833,7 @@ DCCI;20
 DCCIX;20
 DCCL;20
 DCCV;20
+DC Extended Universe;60
 DCI;20
 DCII;20
 DCIV;20
@@ -33409,9 +33410,12 @@ extended family;60
 extended-release;50
 extended-release tablet;60
 extended-release tablets;60
+extended time scale;50
 extended to;40
 extended universe;60
 extended universes;60
+extended warranties;60
+extended warranty;60
 extending an invitation;60
 extending an invitation to;50
 extending an olive branch;60
@@ -35437,6 +35441,7 @@ fired on;40
 fired on all cylinders;60
 fired up;50
 fired upon;40
+fire ecology;50;Study of fire in ecosystems
 fire emoji;60
 fire emojis;60
 fire engine;60
@@ -35448,6 +35453,8 @@ fire exit;50
 fire exits;50
 fire extinguisher;60
 fire extinguishers;60
+fire flower;60
+fire flowers;60
 firefly pose;60
 fire hazard;50
 fire hazards;50
@@ -35552,6 +35559,7 @@ first-class seat;50
 first-class seats;50
 first-class stamp;50
 first-class stamps;50
+first couple;50;President and their spouse
 first course;50
 first dance;60
 first date;50
@@ -101902,6 +101910,7 @@ The Fens;50;Area of low lying land in eastern England
 The Fighting Illini;50;Athletics teams of the University of Illinois Urbana-Champaign
 the fine print;50
 the fins;30;Miami Dolphins nickname
+the first couple;50;President and their spouse
 the first letters;0
 The First Thanksgiving;60
 the five W's;50
@@ -102553,6 +102562,7 @@ the Ritz;40
 The River;50
 the Riviera;20
 therm;40;Unit of heat
+thermal ecology;50;Study of the interactions between temperature and organisms
 thermal equilibrium;60
 thermidor;50;Lobster thermidor
 Thermidor;40;French Revolutionary month
