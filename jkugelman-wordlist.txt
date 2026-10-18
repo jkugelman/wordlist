@@ -32959,6 +32959,7 @@ eve;50
 Evel;40
 Evelina;40;Frances Burney's first novel
 Eveline;40;James Joyce "Dubliners" story
+Evel Knievel;60
 evels;20
 Evelyn;50;Common first name: Evelyn Waugh, Evelyn Nesbit
 even as;40
