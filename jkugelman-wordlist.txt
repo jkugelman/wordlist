@@ -46084,6 +46084,7 @@ highway hypnosis;60
 Highwomen;40;Country supergroup with Brandi Carlile
 high word score;50
 high word scores;50
+hi ho;40
 hi-ho;40
 hi, hon;50
 hi honey I'm home;60
@@ -79445,6 +79446,7 @@ Power Ranger;60
 Power Rangers;60
 power ranking;60
 power rankings;60
+Powers Boothe;50;Actor (1948–2017)
 powers of attorney;50
 powers that be;60
 power structure;60
@@ -110968,6 +110970,13 @@ well well well;0
 well, we're waiting;60
 well will ya look at that;60
 well will you look that;60
+well-woman;50
+well-woman exam;60
+well-woman examination;60
+well-woman examinations;60
+well-woman exams;60
+well-woman visit;60
+well-woman visits;60
 well wouldja look at that;60
 well, wouldn't you know;60
 well would ya look at that;60
