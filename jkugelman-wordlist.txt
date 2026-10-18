@@ -14279,6 +14279,8 @@ broad as;20
 broadband;50
 Broadbent;40;Jim Broadbent, Oscar-winning actor
 broad brushstrokes;60
+broadcast band;50
+broadcast bands;50
 Broadchurch;50;British crime drama with David Tennant
 broadened one's horizons;50
 broadened one's mind;60
@@ -17902,6 +17904,8 @@ Celtic harp;50
 Celtic harps;50
 Celtic knot;60
 Celtic knots;60
+Celtic rock band;60
+Celtic rock bands;60
 Celtics;50;Boston NBA team
 Celts;50;Ancient peoples of Europe, or the Boston NBA team
 cem;20
@@ -19461,6 +19465,8 @@ Christian name;60
 Christian pop;50
 Christian Pulisic;50;American soccer player (born 1998)
 Christian rock;50
+Christian rock band;60
+Christian rock bands;60
 Christians;50;Followers of Jesus
 Christie;50;Agatha Christie, mystery writer
 Christie's;50;Auction house
@@ -22532,8 +22538,8 @@ cover a beat;50
 cover art;50
 cover artist;50
 cover artists;50
-cover band;50
-cover bands;50
+cover band;60
+cover bands;60
 Coverdale;40;David Coverdale, Whitesnake frontman
 covered a beat;50
 covered for;40
@@ -25037,6 +25043,8 @@ death grip;60
 death grips;30
 Death in the Afternoon;60;Wine cocktail
 Deathloop;50;2021 video game
+death metal band;60
+death metal bands;60
 Death of a Salesman;60
 death of the author;60
 Death Row Records;60
@@ -28049,6 +28057,7 @@ door number two;50
 door one;40
 door opener;50
 door openers;50
+door's open;60
 door three;40
 door-to-door sales;50
 door two;40
@@ -43592,6 +43601,8 @@ hairless cat;60
 hairless cats;60
 hairless dog;60
 hairless dogs;60
+hair metal band;60
+hair metal bands;60
 hair of the dog;60
 hair plug;60
 hair plugs;60
@@ -44185,6 +44196,8 @@ hard reboot;60;Like in a movie series
 hard reboots;60
 hard refresh;60;Reloading a tab while also clearing its cache/cookies
 hard reset;60
+hard rock band;60
+hard rock bands;60
 hard roe;40
 hard R rating;60
 hard R ratings;60
@@ -56084,6 +56097,8 @@ K-Pg event;40;Extinction event that killed the dinosaurs
 K-Pg extinction;40;It killed the dinosaurs
 K-Pg extinction event;40
 kph;40
+K-pop band;60
+K-pop bands;60
 KPop Demon Hunters;60;Netflix's most-watched movie of all time
 K-pop group;60
 K-pop groups;60
@@ -59899,6 +59914,7 @@ locked onto;40
 locked room;50
 locked room mysteries;60
 locked room mystery;60
+locked the doors;50
 lockes;20
 Lockhart;40;Gilderoy Lockhart, "Harry Potter" professor
 Lockheed;50;Aerospace giant, with Martin
@@ -59909,6 +59925,7 @@ locking away;40
 locking behind bars;50
 locking it up;50
 locking onto;40
+locking the doors;50
 lock it up;50
 Locklear;50;Heather Locklear, "Melrose Place" star
 locklet;40;Little lock of hair
@@ -59919,6 +59936,8 @@ locks behind bars;50
 locks it up;50
 Locksley;40;Robin of Locksley, aka Robin Hood
 locks onto;40
+locks the doors;50
+lock the doors;50
 Locktober;40;October-long chastity challenge
 Lockwood;40;Patricia Lockwood, "Priestdaddy" author
 Loco Beach Coconut;60
@@ -71067,6 +71086,8 @@ numerologists;50
 numerology;50
 números;40
 nu metal;60
+nu metal band;60
+nu metal bands;60
 Numidia;40;Ancient North African kingdom
 Numidian;40;Of ancient Numidia
 Numidians;40;Ancient North African people
@@ -71781,6 +71802,8 @@ off games;50
 offhand handoff;0
 office dog;60
 office dogs;60
+office husband;50
+office husbands;50
 officer;50
 officered;40
 officering;40
@@ -78971,6 +78994,8 @@ popping wheelies;60
 Poppins;50;Mary Poppins, practically perfect nanny
 pop-pop;50
 pop-punk;50
+pop punk band;60
+pop punk bands;60
 poppyseed bagel;60
 poppy seed bagels;60
 poppyseed bagels;0
@@ -92235,6 +92260,8 @@ Sita;40;Rama's wife in the Ramayana
 sit at;40
 sit by;50
 sitcom;50
+sitcom husband;60
+sitcom husbands;60
 sitcoms;50
 sit down with;40
 sit erect;20;Green paint
@@ -95825,6 +95852,7 @@ stand at;30
 stand at ease;50
 stand atop;40
 Stand by Me;60
+stand clear of the doors;60
 standee;30
 standees;30
 stander;30
@@ -98382,6 +98410,8 @@ surfer girl;50
 Surfer Girl;50
 surfer girls;50
 Surfin';40
+surf rock band;60
+surf rock bands;60
 surf shop;50
 surf shops;50
 surgery centre;20
@@ -99442,6 +99472,7 @@ take the oath;50
 take the rap for;50
 take the scenic route;50
 take the wheel;50
+Take This Job and Shove It;60;1977 country music song
 take time;50
 take to;50
 take to the extreme;60
@@ -107326,6 +107357,8 @@ underdog;50
 underdogs;50
 underglass;50
 underground comix;60
+underground rock band;50
+underground rock bands;50
 under medical supervision;50
 under oath;50
 under one's breath;50
