@@ -66309,6 +66309,7 @@ Moff;40;Star Wars rank, as in Grand Moff Tarkin
 Moffat;40;Steven Moffat, "Doctor Who" showrunner
 mofongo;40;Puerto Rican plantain dish
 mog;40
+Mog;40;Cat of children's lit
 Mogadishu;50;Capital of Somalia
 Mogambo;40;Clark Gable / Ava Gardner epic (1953)
 mogged;40
@@ -108403,9 +108404,11 @@ VAIO;40
 Vaishnavism;50;Hindu tradition devoted to Vishnu
 Vajrayana;40;Branch of Buddhism
 Val;50
+Val Ackerman;40;First president of the WNBA (1996-2005)
 Valadon;40;Suzanne Valadon, French painter
 valance;40;Drapery
 valances;40
+Val Demings;40
 Valderrama;40;Wilmer Valderrama, "That '70s Show" actor / Carlos Valderrama, soccer star
 Valdez;40;Exxon Valdez tanker / Juan Valdez, coffee icon
 Valdivia;40;Chilean city, site of the largest quake ever recorded
@@ -108431,6 +108434,7 @@ Valerie;50;Valerie Bertinelli, actress / common first name
 Valerie Plame;50
 Valerie Solanas;50;Attempted assassin of Andy Warhol
 Valery;40;Paul Valéry, French poet
+Val Guest;40;British director and screenwriter (1911–2006)
 Valhalla;60
 Valhallas;40;Weird plural
 valiancies;40
@@ -108441,7 +108445,11 @@ valine;40;Amino acid
 Valinor;40;Tolkien's home of the Valar
 Valium;50;Anti-anxiety drug
 Valiums;40;Sedatives, brand-wise
+Val James;40;First African-American in the NHL
 Valjean;50;Jean Valjean, "Les Misérables" hero
+Val Kilmer;60
+Valkyrie;60
+Valkyries;60
 Vallabhbhai;40;Vallabhbhai Patel, Indian independence leader
 Valladolid;50;Spanish city
 Vallarta;40;Puerto Vallarta, Mexican resort city
@@ -108452,6 +108460,7 @@ Vallée;40;Rudy Vallée, crooner / Jean-Marc Vallée, director
 Vallee;0
 Vallejo;40;California city / César Vallejo, Peruvian poet
 Valletta;40;Capital of Malta
+Val Lewton;40;Low-budget horror producer in the 1940s
 Valli;40;Frankie Valli of the Four Seasons
 Vallisneria spiralis;20;Species of aquatic plant
 Vallone;30;Raf Vallone of "The Italian Job" (1969)
