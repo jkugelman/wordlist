@@ -2702,9 +2702,11 @@ Alan Moore;60
 Alannah;40;Alannah Myles, "Black Velvet" singer
 Alan Napier;40;Actor who played Alfred in the 1960s "Batman" TV series
 Alan O'Day;50
+Alan Paton;40;"Cry, the Beloved Country" author
 Alans;30;Plural name
 Alan Seeger;20;Poet uncle of folk singer Pete
 Alan Smithee;60;Directorial pseudonym
+Alan Stewart Paton;40;"Cry, the Beloved Country" author
 Alan Sues;40;Comedian on Rowan & Martin's Laugh-In
 Alan Tudyk;50;Alan Tudyk, actor known for notable voice roles over the years
 Alan White;40
@@ -5183,6 +5185,8 @@ a partridge in a pear tree;60
 apathies;30
 apatite;30;Mineral
 apatites;30;Minerals
+a pat on;20
+a pat on the back;50
 Apatosaurus;50;Long-necked dinosaur once called brontosaurus
 Apatow;50;Judd Apatow, comedy writer-director
 APB;40
@@ -27819,6 +27823,7 @@ do not try this at home;60
 Donovan;50;Donovan, "Mellow Yellow" singer / Donovan McNabb, NFL quarterback
 Don Q;40;Don Q rum, named for Don Quixote
 don't act surprised;60
+don't all speak up at once;60
 don't argue;60
 don't ask;60
 don't ask me why;60
@@ -39323,26 +39328,36 @@ get off one's high horse;60
 get off on the right foot;60
 get off to a late start;60
 get off your high horse;60
-get on;40
+get on;50
 get on board;50
-get one's act together;50
+get on board with;50
+get one's;20
+get one's act together;60
 get one's bearings;50
-get one's ducks in a row;50
-get one's feet wet;50
+get one's ducks in a row;60
+get one's feet wet;60
+get one's foot in the door;60
 get one's goat;60
 get one's hackles up;60
+get one's hands on;60
+get one's head around;60
 get one's hopes up;50
 get one's house in order;60
-get one's knickers in a twist;50
+get one's knickers in a twist;60
 get one's mind out of the gutter;50
 get one's money's worth;50
 get one's priorities straight;50
 get one's shit together;10
 get one's steps in;50
+get one's way;60
 get on in the world;60
 get on in years;60
 get on it;60
+get on one's high horse;60
 get on one's nerves;60
+get on swimmingly;60
+Get on the Bus;50;1996 Spike Lee film
+get on the bus;0
 Get on the Good Foot;50;1972 James Brown song
 Get on the Good Foot - Part 1;50;1972 James Brown song
 Get on the Good Foot - Part 2;50;1972 James Brown song
@@ -39448,27 +39463,34 @@ gets off one's ass;50
 gets off one's chest;50
 gets off on the right foot;60
 gets off to a late start;60
-gets on;40
+gets on;50
 gets on board;50
-gets one's act together;50
+gets on board with;50
+gets one's act together;60
 gets one's bearings;50
-gets one's ducks in a row;50
-gets one's feet wet;50
+gets one's ducks in a row;60
+gets one's feet wet;60
+gets one's foot in the door;60
 gets one's goat;60
 gets one's hackles up;60
+gets one's hands on;60
+gets one's head around;60
 gets one's hopes up;50
 gets one's house in order;60
-gets one's knickers in a twist;50
+gets one's knickers in a twist;60
 gets one's mind out of the gutter;50
 gets one's mitts on;60
 gets one's money's worth;50
 gets one's priorities straight;50
 gets one's shit together;10
 gets one's steps in;50
+gets one's way;60
 gets on in the world;60
 gets on in years;60
 gets on it;50
+gets on one's high horse;60
 gets on one's nerves;60
+gets on swimmingly;60
 gets onto;40
 get sore;40
 gets out alive;60
@@ -39609,24 +39631,31 @@ getting off one's ass;50
 getting off one's chest;50
 getting off on the right foot;60
 getting off to a late start;60
-getting on;40
+getting on;50
 getting on board;50
-getting one's act together;50
+getting on board with;50
+getting one's act together;60
 getting one's bearings;50
-getting one's ducks in a row;50
-getting one's feet wet;50
+getting one's ducks in a row;60
+getting one's feet wet;60
+getting one's foot in the door;60
 getting one's goat;60
 getting one's hackles up;60
+getting one's hands on;60
+getting one's head around;60
 getting one's hopes up;50
 getting one's house in order;60
-getting one's knickers in a twist;50
+getting one's knickers in a twist;60
 getting one's mind out of the gutter;50
 getting one's money's worth;50
 getting one's priorities straight;50
 getting one's shit together;10
 getting one's steps in;50
+getting one's way;60
 getting on in the world;60
 getting on in years;60
+getting on one's high horse;60
+getting on swimmingly;60
 getting onto;40
 getting out alive;60
 getting out of a jam;60
@@ -41707,24 +41736,31 @@ go to jail;60;Monopoly square
 go to lunch;50
 go-to move;50
 go-to moves;50
-got on;40
+got on;50
 got on board;50
-got one's act together;50
+got on board with;50
+got one's act together;60
 got one's bearings;50
-got one's ducks in a row;50
-got one's feet wet;50
+got one's ducks in a row;60
+got one's feet wet;60
+got one's foot in the door;60
 got one's goat;60
 got one's hackles up;60
+got one's hands on;60
+got one's head around;60
 got one's hopes up;50
-got one's knickers in a twist;50
+got one's knickers in a twist;60
 got one's mind out of the gutter;50
 got one's money's worth;50
 got one's priorities straight;50
 got one's shit together;10
 got one's steps in;50
+got one's way;60
 got on in the world;60
 got on in years;60
+got on one's high horse;60
 got on one's nerves;60
+got on swimmingly;60
 got onto;40
 go too far;60
 go to plan B;60
@@ -41767,9 +41803,12 @@ gotten emotional;50
 gotten even with;50
 gottenhomesafe;50
 gotten in;40
+gotten on board with;50
 gotten one's hackles up;60
+gotten one's hands on;60
 gotten one's shit together;10
 gotten on in the world;60
+gotten on one's high horse;60
 gotten owned;60
 gotten swole;60
 gotten the runaround;60
@@ -57687,6 +57726,7 @@ leak to;40
 Leal;40;Rayssa Leal, Brazilian Olympic skateboarder
 Leana;40;Leana Wen, physician and public health commentator
 Leander;40;Greek myth "Hero and Leander"
+Leander Paes;40
 leaned into;40
 leaned on;40
 leaned to;40
@@ -74529,7 +74569,7 @@ paeans;40
 Paektu;40;Sacred Korean volcano
 paeon;20
 paeons;20
-Paes;40;Leander Paes, Indian tennis doubles great
+Paes;30;Leander Paes, Indian tennis doubles great
 paese;40
 Paganini;50;Niccolò Paganini, virtuoso violinist
 Pageant of the Masters;50;Annual arts festival in California
@@ -75545,8 +75585,10 @@ Patlabor;40;Japanese mecha anime
 Pat Morita;50
 Patmos;40;Greek island where Revelation was written
 Patna;40;Capital of Bihar, India
-Paton;40;"Cry the Beloved Country" author Alan Paton
+Paton;40;Alan Paton, "Cry, the Beloved Country" author
+pat oneself on the back;60
 pat on the back;60
+pat on the head;50
 Patras;40;Greek port city
 Patreon;50;Creator-funding platform
 Patric;40;Jason Patric, "Sleepers" actor
@@ -75569,14 +75611,17 @@ patron saints;60
 patroon;30
 patroons;30
 Pat Sajak;50
+pats oneself on the back;60
 pats on the back;60
 Pat Summitt;50;Women's college basketball head coach, most wins in history when she retired
+patted oneself on the back;60
 patted on the back;60
 Patternist;40;Octavia Butler's telepath series
 Patternmaster;40;Octavia Butler novel
 Patterson;50;James Patterson, best-selling thriller author
 Patti;50;Common first name: Patti LaBelle, Patti Smith
 Pattie;40;Pattie Boyd, muse of "Layla" / York Peppermint Pattie
+patting oneself on the back;60
 patting on the back;60
 Pattinson;50;Robert Pattinson, Twilight and Batman star
 Pattis;30;Plural name
