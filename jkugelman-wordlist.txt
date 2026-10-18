@@ -48736,6 +48736,8 @@ I did what I had to do;60
 I die;20;Romeo's last words
 Idina;40;Idina Menzel
 IDing;50
+Idiocracy;60;2006 film by Mike Judge
+idiocratic;50
 idioglossia;60;Private language unintelligible to outsiders, often with twins
 idiolect;60;Individual's unique use of language
 idiolectal;50
