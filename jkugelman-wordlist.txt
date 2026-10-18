@@ -38656,6 +38656,7 @@ gauze pad;50
 gauze pads;50
 gauzes;30
 gauzy;30
+gave 110%;60
 gave a black eye;60
 gave a dirty look;60
 gave a hand;50
@@ -40118,6 +40119,7 @@ Giuliano;40;Salvatore Giuliano, Sicilian bandit / Giuliano de' Medici
 Giulio;40;Italian first name
 Giuseppe;50;Giuseppe Garibaldi, Italian unifier / common Italian name
 Givaudan;40;Swiss flavors and fragrances giant
+give 110%;60
 give a black eye;60
 give a dirty look;60
 give a dog a bone;60
@@ -40161,6 +40163,7 @@ give one a black eye;20
 give one a new lease on life;60
 give one's best;60
 Giverny;40;French village of Monet's garden
+gives 110%;60
 gives a black eye;60
 gives a dirty look;60
 gives a hand;50
@@ -40205,6 +40208,7 @@ give way to;40
 give you one guess;60
 give you the runaround;20
 give zero fucks;10
+giving 110%;60
 giving a black eye;60
 giving a dirty look;60
 giving a hand;50
