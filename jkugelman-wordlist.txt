@@ -46185,6 +46185,8 @@ hirees;50
 hire on;40
 hirer;50
 hirers;50
+hires;50
+hi-res;40
 hires on;40
 hiring on;40
 Hiro;40
@@ -57377,7 +57379,8 @@ laundress;40
 laundresses;40
 Lauper;50;Cyndi Lauper, "Girls Just Want to Have Fun" singer
 Laura;50;Laura Bush, first lady / common first name
-Laura Les;30;Flower order
+Laura Les;40
+Laurales;20;Flower order
 Lauras;30;Plural name
 Laurasia;30;Part of Pangaea
 Laurel and Hardy;60
@@ -58346,7 +58349,10 @@ Les;50
 les;40
 LeSabre;40;Buick model
 LeSabres;50;Buick sedans
+Les Adieux;40;Ludwig van Beethoven's Piano Sonata No. 26 in E♭ major
 Lesage;30;Alain-René Lesage, French novelist in 1700s
+L.E.S. Artistes;40;2008 single by Santigold
+LES Artistes;0
 Lesbos;50;Greek island, home of Sappho
 Lescaut;40;Manon Lescaut, opera and novel heroine
 -lese;30
@@ -60300,6 +60306,7 @@ Lorentz;40;Hendrik Lorentz, physicist of the Lorentz transformation
 Lorenz;40;Konrad Lorenz, ethologist / the Lorenz attractor
 Lorenzo;50;Common Italian given name
 lo-res;40;Lo-res
+lores;40
 Loretta;40;Loretta Lynn, country singer
 Lorettas;30;Plural name
 Lori;40
