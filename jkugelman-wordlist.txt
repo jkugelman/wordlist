@@ -48753,6 +48753,7 @@ I did not;40;Playground retort
 I didn't ask;60
 I didn't ask for your life story;60
 I didn't do it;60
+I didn't even fuck around, why am I finding out?;10
 I didn't hear you come in;60
 I didn't lie;50
 I didn't mean it like that;60
@@ -98672,11 +98673,14 @@ Swaziland;40;Eswatini's former name
 Swazis;40
 SWC;20
 Swe.;40
+swear an oath;60
 swear at;40
+swearing an oath;60
 swearing at;40
 swearing to;40
 swear jar;60
 swear jars;60
+swears an oath;60
 swears at;40
 swears to;40
 swear to;40
@@ -98919,6 +98923,7 @@ swordsmanship;60
 swordsmen;60
 swordsmith;60
 swordsmiths;60
+swore an oath;60
 swore at;40
 swore to;40
 sworn statement;50
@@ -101108,6 +101113,10 @@ test groups;60
 testicle;40
 testicles;40
 testicular;40
+testified under oath;60
+testifies under oath;60
+testifying under oath;60
+testify under oath;60
 testing for;40
 test kit;50
 test kits;50
@@ -102337,6 +102346,7 @@ The Nutcracker Suite;60
 The Nutty Professor;60
 then why don't you marry it;60
 Theo;50;Theo Huxtable of "The Cosby Show" / common first name
+the oath of office;40
 The Oatmeal;50
 Theobald;40;Lewis Theobald, Shakespeare editor
 Theobroma;30;Cacao genus
