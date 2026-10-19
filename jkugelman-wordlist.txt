@@ -42392,6 +42392,7 @@ green engineering;50
 greener;50
 Greenes;30
 greenest;50
+green-eyed monster;60
 green fairy;60;Absinthe
 Green Giant;60
 Green Goblin;60
