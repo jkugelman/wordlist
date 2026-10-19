@@ -102618,6 +102618,7 @@ there's always something;60
 there's a thought;60
 There's a Wocket in My Pocket;60;Dr. Seuss book
 Therese;40;Saint Thérèse of Lisieux
+there's many a slip 'twixt the cup and the lip;60;English proverb
 there's more where that came from;60
 there's no;20
 there's no accounting for taste;60
