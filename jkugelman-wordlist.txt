@@ -51563,11 +51563,12 @@ Isner;40;John Isner, tennis player in the longest match ever
 is not;40;Playground retort
 is nothing sacred;60
 isn't;50
-isn't home;20
+isn't home;30
 isn't it?;50
 isn't it;0
 isn't it a;20
 isn't it a pity?;60
+Isn't It a Pity;50;1970 song by George Harrison
 isn't it a pity;0
 isn't it a shame?;60
 isn't it a shame;0
@@ -51587,12 +51588,19 @@ isn't it time;50
 isn't meant to be;60
 isn't OK;20
 isn't sure;40
+isn't that a shame?;60
+isn't that a shame;0
+isn't that odd?;50
+isn't that odd;0
 isn't that so?;50
 isn't that something?;60
 isn't that something;0
 isn't that special?;60
 isn't that special;0
 isn't that swell?;60
+isn't that swell;0
+isn't that what you wanted?;60
+isn't that what you wanted;0
 isn't that wild?;60
 isn't that wild;0
 iso-;40
@@ -60353,6 +60361,7 @@ look the fool;50
 look to;40
 look up to;50
 look what I drew;60
+look what they need just to mimic a fraction of our power;60
 look who's talking;60
 looky here;60
 look you;60
@@ -101416,6 +101425,8 @@ that I can relate to;60
 that is a dilly of a pickle;60
 that is a lie;50
 that is a right pickle;60
+that isn't nice;60
+that isn't right;60
 that is quite a pickle;60
 that is so not okay;60
 that is to say;60
@@ -103174,6 +103185,7 @@ this is not a joke;60
 this is not a pipe;60
 this is not recess;20
 this is NPR;50
+this isn't even my final form;60
 this isn't happening;60
 this isn't what it looks like;60
 this is quite a pickle;60
