@@ -38891,6 +38891,9 @@ Gelett;40;Gelett Burgess, "Purple Cow" poet who coined "blurb"
 Gelfand;40;Alan Gelfand, skateboarder who invented the ollie
 gelid;40
 gelidity;40
+GE light bulb;50
+GE lightbulb;0
+GE light bulbs;50
 gel insert;50
 gel inserts;50
 Gellar;40
@@ -50012,6 +50015,10 @@ in cages;20
 Inca gold;50
 Incan;50;Of the Andean empire
 Incandenza;40;Hal Incandenza, "Infinite Jest" protagonist
+incandescent light bulb;50
+incandescent lightbulb;0
+incandescent light bulbs;50
+incandescent lightbulbs;0
 Incans;40;People of the Andean empire
 in care;30
 in cargo;0
@@ -58036,6 +58043,8 @@ Lederer;30
 led in;40
 led into;40
 Ledisi;40;One-named R&B/jazz singer (2020 Grammy, acted in "Selma")
+LED light bulb;50
+LED light bulbs;50
 LEDs;40
 led to;40
 LED TV;40
@@ -59086,6 +59095,15 @@ light air;50;1 on the Beaufort wind force scale
 light as a feather, stiff as a board;60;Children's game
 light as a feather stiff as a board;0
 light breeze;50;2 on the Beaufort wind force scale
+light bulb change;20
+light bulb joke;60
+lightbulb joke;0
+light bulb jokes;60
+lightbulb jokes;0
+light bulb moment;60
+lightbulb moment;0
+light bulb moments;60
+lightbulb moments;0
 light echo;50
 light-emitting diode;60
 light-emitting diodes;60
@@ -103156,6 +103174,8 @@ this is not a joke;60
 this is not a pipe;60
 this is not recess;20
 this is NPR;50
+this isn't happening;60
+this isn't what it looks like;60
 this is quite a pickle;60
 this is sending me;60
 this is taking forever;60
@@ -108413,8 +108433,8 @@ UV filter;50
 UV filters;50
 UV index;50
 UV light;50
-UV lightbulb;50
-UV lightbulbs;50
+UV light bulb;50
+UV light bulbs;50
 UV lights;50
 UV tattoo;60
 UV tattoo ink;60
@@ -112733,6 +112753,8 @@ winning an Oscar;50
 winning a prize;50
 winning at;40
 winning at life;60
+winning isn't everything;60
+winning isn't everything it's the only thing;60
 winning on a technicality;60
 winning silver;50
 winning the pot;60
