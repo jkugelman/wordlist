@@ -39267,6 +39267,7 @@ get a bum rap;60
 get a D;20
 get a date;30
 get after it;60
+get a green light;60
 get ahead in life;60
 get ahead of the curve;60
 get a jump on;60
@@ -39428,6 +39429,7 @@ get roped into;40
 gets a bead on;60
 gets a bum rap;60
 gets a date;30
+gets a green light;60
 gets ahead in life;60
 gets ahead of the curve;60
 gets a jump on;60
@@ -39561,6 +39563,7 @@ gets tan;40
 gets the ax;60
 gets the axe;60
 gets the creative juices flowing;60
+gets the green light;60
 gets the hint;60
 gets the ick;60
 gets the nod;50
@@ -39588,6 +39591,7 @@ getters;40
 get the ax;60
 get the axe;60
 get the creative juices flowing;60
+get the green light;60
 get the hint;60;Finally notice a subtle cue
 get the ick;60
 get them out of here;60
@@ -39603,6 +39607,7 @@ Gettin';40;"Gettin' Jiggy wit It", Will Smith hit
 getting a bead on;60
 getting a bum rap;60
 getting a date;30
+getting a green light;60
 getting a hard-on;10
 getting ahead of the curve;60
 getting a jump on;60
@@ -39722,6 +39727,7 @@ getting tan;40
 getting the ax;60
 getting the axe;60
 getting the creative juices flowing;60
+getting the green light;60
 getting the hint;60
 getting the ick;60
 getting the nod;50
@@ -41665,6 +41671,7 @@ gotabumprap;0
 got a bum rap;60
 got a date;30
 got a gal;0
+got a green light;60
 got ahead in life;60
 got ahead of the curve;60
 got a jump on;60
@@ -41865,6 +41872,7 @@ Gottfried;50;Gilbert Gottfried, comedian / Gottfried Leibniz, mathematician
 got the ax;60
 got the axe;60
 got the creative juices flowing;60
+got the green light;60
 got the hint;60
 got the ick;60
 got the nod;50
@@ -42358,20 +42366,29 @@ Greeley;40;Horace Greeley, "Go West, young man" editor
 green ash;30;Tree
 Greenaway;40;Peter Greenaway, filmmaker / Kate Greenaway, illustrator
 Greenbaum;40;Norman Greenbaum, "Spirit in the Sky" singer
-Green Bay, WI;30
+Green Bay, WI;40
+Green Bay, Wisconsin;50
+Green Bay Wisconsin;0
+green bean casserole;60
+green bean casseroles;60
 green belt;60
 green belts;60
 Greenberg;40;Hank Greenberg, Tigers slugger
 Greenblatt;40;Stephen Greenblatt, "The Swerve" author
+green business;50
 green businesses;50
 green cabbage;50
 green cabbages;50
 green car;20
 green cars;20
+green cormorant;50
+green cormorants;50
 Greendale;40;"Community" community college
-Green Day;50
+Greendale Community College;60
+Green Day;60
 Greene;40
 Green Eggs and Ham;60;Dr. Seuss book
+green engineering;50
 greener;50
 Greenes;30
 greenest;50
@@ -102023,6 +102040,8 @@ the grammar police;60
 the Grammys;40
 The Grand Budapest Hotel;60;2014 film by Wes Anderson
 The Grass Crown;50;Roman military decoration / Colleen McCullough historical novel
+the grass is always greener;60
+the grass is always greener on the other side;60
 the grease;30
 The Great Brain;30;Children's book series
 the Great Dane;60;Nickname for pianist Victor Borge
@@ -104369,6 +104388,7 @@ toilsome;40
 toils over;40
 toity;40
 Tojo;40;WWII leader Hideki Tojo
+-Tok;40
 Tok;30;Ke$ha song "Tik Tok"
 Tokaj;40;Hungarian wine region
 Tokaji;40;Hungarian and Slovak variety of wine
