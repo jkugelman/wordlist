@@ -26368,6 +26368,7 @@ didn't have;20
 didn't have a prayer;50
 didn't have time;50
 didn't hold water;60
+didn't make the cut;60
 didn't see you there;60
 didn't sit right with;40
 didn't you hear?;60
@@ -27395,6 +27396,7 @@ doesn't have a prayer;50
 doesn't have time;50
 doesn't hold water;60
 doesn't hurt;60
+doesn't make the cut;60
 doesn't sit right with;40
 doesntsitrightwith;20
 does one a solid;40
@@ -61765,6 +61767,7 @@ made sense of;50
 made short work of;60
 made the big bucks;60
 made the butt of the joke;60
+made the cut;60
 made the scene;60
 made time;50
 made time for;50
@@ -62318,6 +62321,7 @@ makes sense of;50
 makes short work of;60
 makes the big bucks;60
 makes the butt of the joke;60
+makes the cut;60
 makes the scene;60
 makes time;50
 makes time for;50
@@ -62330,6 +62334,7 @@ makes war on;40
 makes waves;60
 make the big bucks;60
 make the butt of the joke;60
+make the cut;60
 make the scene;60
 make three pointer;20
 make time;50
@@ -62423,6 +62428,7 @@ making sense of;50
 making short work of;60
 making the big bucks;60
 making the butt of the joke;60
+making the cut;60
 making the scene;60
 making time;50
 making time for;50
@@ -62619,6 +62625,7 @@ Mami Wata;40;African water spirit
 Mamluk;40;Egyptian warrior-slave dynasty member
 Mamluks;40;Egyptian warrior-slave dynasty
 Mammalia;40;Class of mammals
+Mammal semnopithecus;20;Genus of Old World monkey
 mammee;20;Tropical fruit tree
 mammies;20
 mammon;40;Wealth as an evil influence
@@ -98701,6 +98708,7 @@ swallowed one's pride;50
 swallowing one's pride;50
 swallow one's pride;50
 swallows one's pride;50
+swam against the current;60
 swam laps;50
 swamp frog;50
 swamp frogs;50
@@ -98886,16 +98894,19 @@ swift justice;60
 swifts;20;Birds like swallows, not used in Shortz era
 swiller;40
 swillers;40
+swim against the current;60
 Swimfan;40;2002 thriller film
 swim fin;50
 swim fins;50
 swim laps;50
 swimmer's ear;60
+swimming against the current;60
 swimming laps;50
 swimming ring;50;Inner tube
 swimming rings;50
 swim ring;60;Inner tube
 swim rings;60
+swims against the current;60
 swims laps;50
 swimsuit;50
 swimsuits;50
