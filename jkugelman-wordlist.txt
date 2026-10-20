@@ -20494,6 +20494,7 @@ CMLX;20
 c'mon do something;60
 c'mon in;40;Sounds weird
 c'mon let's be real;60
+c'mon, let's go again;50
 c'mon live a little;60
 c'mon man;60
 cms;40;Centimeters
@@ -21183,6 +21184,7 @@ come on, I'm eating;60;"Gross!"
 come on, I'm eating here;60;"Gross!"
 come on, I'm trying to eat;60;"Gross"
 come on, let's be real;60
+come on, let's go again;50
 come on, man;60
 come on man;0
 come on to;40
@@ -42056,6 +42058,7 @@ Graeme;40;Scottish spelling of Graham
 Graf;40;Steffi Graf
 Grafenberg;50;Ernst Gräfenberg, G-spot namesake
 graffito;40
+Graf Spee;40
 Grafton;40;Sue Grafton, alphabet mystery novelist
 Graham;50;Billy Graham, evangelist, or a cracker
 graham cracker;60
@@ -45931,6 +45934,9 @@ Heyer;30;Georgette Heyer, Regency romance novelist (1902-1974)
 Heyerdahl;40;Thor Heyerdahl, Kon-Tiki rafter
 Hey Google;60
 hey hey;50
+Hey! Ho! Let's Go;60
+hey ho let's go;0
+Hey Ho Let's Go;0
 hey, I just work here;60
 hey it's a start;60
 hey, it's me;50
@@ -58663,6 +58669,15 @@ let's get this party started;60
 let's get this straight;60
 let's give it a go;60
 let's give it a whirl;60
+let's go;60
+let's go again;50
+Let's Go All the Way;50
+let's go Dutch;50
+Let's Go Fly a Kite;60;"Mary Poppins" song
+let's go for it;60
+let's go, girls;60
+let's go girls;0
+Let's Go Places;50;1930 Pre-Code musical film
 let's hang on;50
 let's have a go at it;50
 let's have it;60
@@ -72319,6 +72334,7 @@ Oklahoma;50;Sooner State, and a Rodgers and Hammerstein musical
 Oklahoma Kid;50;1939 western, with "The"
 Oklahoman;50
 Oklahomans;50
+OK, let's go;50
 OK, mister smarty-pants;60
 OK Mr. Smarty-pants;60
 OK, now what?;60
@@ -95064,7 +95080,7 @@ spectator sports;50
 Spector;40;Phil Spector, Wall of Sound producer, or Ronnie Spector of the Ronettes
 sped by;40
 sped to;40
-Spee;40;Admiral Graf Spee, German warship
+Spee;30;Admiral Graf Spee, German warship
 speech bubble;60
 speech bubbles;60
 speech defect;50
