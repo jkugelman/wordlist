@@ -32366,6 +32366,7 @@ esd;20
 EsDeeKid;40;Masked Liverpool rapper ("Phantom," 2025)
 Esdras;20
 -ese;40
+ESG;20
 E sharp;40
 E-sharp scale;30
 Eshkol;30;Levi Eshkol, Israeli PM 1963-69
@@ -43411,6 +43412,15 @@ Habermas;40;Jürgen Habermas, German philosopher
 habiliment;30;Clothing, usually plural
 habit stacking;60;Pairing something you like with something you may not naturally do
 habla;40
+¿habla español?;60
+¿habla inglés?;60
+hablar;40
+hablas;40
+¿hablas español?;60
+¿hablas inglés?;60
+hablo;40
+hablo español;60
+hablo inglés;60
 Habs;40;Montreal Canadiens, familiarly
 Habsburg;50;European royal dynasty
 Habsburgs;50;European royal dynasty
@@ -75390,6 +75400,10 @@ Parklife;40;Blur album
 Park So-dam;40;South Korean actress (born 1991)
 Parkwood;40;Beyoncé's entertainment company
 parle;40
+parlez;40
+parlez-vous anglais?;60
+parlez-vous français?;60
+parlez-vous francais;0
 parliamentary term;50
 parliamentary terms;50
 Parma;40;Cheese city
@@ -89585,6 +89599,8 @@ Segway;50;Two-wheeled personal transporter
 Segways;40;Two-wheeled scooters
 Segway tour;50
 Segway tours;50
+se habla español;60
+se habla espanol;0
 Sehgal;40;Parul Sehgal, book critic
 Sehnsucht;40;German for wistful longing
 Sehorn;40;NFL player Jason Sehorn (1994-2003)
