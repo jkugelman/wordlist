@@ -3099,10 +3099,10 @@ alimentation;30
 alimented;30
 alimenting;30
 aliments;30
-A-line;50;Type of skirt
+A-line;40;Type of skirt
 Alinea;40;Chicago restaurant with three Michelin stars
 alinement;20;Variant of alignment
-A-lines;50
+A-lines;40
 alining;20
 Alinsky;40;Saul Alinsky, "Rules for Radicals" author
 Alioth;20;Big Dipper star
@@ -21609,6 +21609,8 @@ conferees;30
 conference centre;20
 conference centres;20
 Confessions of a Teenage Drama Queen;20;2004 Lindsay Lohan teen musical
+confetti launcher;60
+confetti launchers;60
 confider;40
 confiders;40
 confined to;40
@@ -26230,6 +26232,7 @@ diamonds;50
 Diamonds on the Soles of Her Shoes;60;1987 worldbeat single by Paul Simon
 Dian;40;Dian Fossey, gorilla expert
 Diana;50;Princess Diana, or the Roman goddess
+Diana Dors;40;English actress and singer (1931–1984)
 Diana Gabaldon;50;Author of the "Outlander" books
 Diana Ross;60
 Dianas;30;Plural name
@@ -28149,7 +28152,7 @@ Dorr;30;Thomas Dorr, leader of the Dorr Rebellion
 Dorris;40;Michael Dorris, "A Yellow Raft in Blue Water" novelist
 Dorrit;30;Dickens title character
 Dorrits;20
-Dors;40;Diana Dors, British screen siren
+Dors;30;Diana Dors, British screen siren
 dorsa;20
 dorsal fin;50
 dorsal fins;50
@@ -29379,6 +29382,7 @@ Dunant;40;Henry Dunant, Red Cross founder and first Nobel Peace laureate
 Dunaway;50;Faye Dunaway, "Bonnie and Clyde" star
 Dunbar;40;Paul Laurence Dunbar, poet
 Duncan;50;Tim Duncan, NBA great, or Duncan Hines
+Duncan Hines;50
 dunce cap;60
 dunce caps;50
 dunce's cap;60
@@ -45494,6 +45498,7 @@ Helmond;40;Katherine Helmond, "Who's the Boss?" actress
 Helm's Deep;50
 Helmsley;40;Leona Helmsley, hotelier and "Queen of Mean"
 Helmut;40
+Helmut Kohl;40
 helo;20
 Heloise;40;Heloise, Abelard's beloved / newspaper hints columnist
 helos;20
@@ -48272,6 +48277,8 @@ Hyams;40;Peter Hyams, "Timecop" director
 Hyannis;40;Cape Cod town near the Kennedy compound
 Hyatt;50;Hotel chain
 Hyatts;40;Hotels of the chain
+hybrid owner;40
+hybrid owners;40
 hybrid work;60;Employment that's partially in-office and partially remote
 hydatid;20;Tapeworm larva, or cyst
 Hyde;50
@@ -48462,7 +48469,7 @@ ibises;40
 Ibiza;50;Balearic party island
 Ibizan;40;Ibizan hound, a dog breed
 Ibizans;40;People of Ibiza
-Iblis;40;The devil in Islam
+Iblis;30;The devil in Islam
 IBM;50
 IBM PC;40
 IBM PCjr;60
@@ -50454,6 +50461,7 @@ initial public offering;60
 initial public offerings;60
 initial reaction;60
 initial reactions;60
+initiate launch sequence;60
 initio;40
 in its infancy;60
 in jars;40
@@ -51088,6 +51096,7 @@ iPhone Pro Max;60
 iPhones;60
 iPhone X;40
 I pity the fool;60
+IPL;20;Indian Premier League
 IPO;40
 iPod adapter;40
 iPod adapters;40
@@ -57498,19 +57507,34 @@ laugh tracks;60
 laugh with;40
 Launcelot;40;Launcelot Gobbo of "The Merchant of Venice"
 Launceston;40;Cornwall town / Tasmanian city
+launch an assault;50
+launch an attack;50
 launch angle;60;Golf
 launch code;60
 launch codes;60
+launched an assault;50
+launched an attack;50
 launched into;40
+launches an assault;50
+launches an attack;50
 launches into;40
+launching an assault;50
+launching an attack;50
 launching into;40
 launch into;40
-launch pad;50
-launch pads;50
+launch order;60
+launch orders;60
+launch pad;60
+launch pads;60
 launch parties;60
 launch party;60
+launch sequence;60
+launch sequences;60
 launch site;50
 launch sites;50
+launch spot for spaceship;0
+launch window;60
+launch windows;60
 laundress;40
 laundresses;40
 Lauper;50;Cyndi Lauper, "Girls Just Want to Have Fun" singer
@@ -78047,6 +78071,7 @@ platformer;60
 platformer game;60
 platformer games;60
 platformers;60
+platform for vehicle launch;0
 platform pump;50
 platform pumps;50
 Plath;50;Sylvia Plath, poet who wrote "The Bell Jar"
@@ -79187,6 +79212,8 @@ porch sac;0
 porch swing;50
 porch swings;50
 Porco;40;"Porco Rosso", Miyazaki film
+porcupette;50;Baby porcupine
+porcupettes;50;Baby porcupines
 porer;30
 Porfirio;40;Porfirio Diaz, Mexican president and dictator
 Porifera;30;Sponge phylum
@@ -84575,6 +84602,8 @@ reunes;30
 reuniter;40
 reuniters;40
 reus;20
+reusable launch vehicle;60
+reusable launch vehicles;60
 reuse me;50;Words on a tote bag
 Reuters;50;News agency
 Reuther;40;Walter Reuther, UAW labor leader
@@ -85625,6 +85654,11 @@ rockeries;40;Rock gardens
 rockery;40;Rock garden
 rocket booster;60
 rocket boosters;60
+rocket launch;60
+rocket launcher;60
+rocket launchers;60
+rocket launches;60
+rocket launching;50
 rocket-powered roller skates;60;Acme invention
 rocket-propelled;50
 rocket surgery;60
@@ -95004,6 +95038,8 @@ spearmint;60
 spearmint gum;60
 spearmint oil;60
 spearmints;50
+special diet;50
+special diets;50
 Special K;50
 special mentions;50
 special occasion;50
@@ -102703,6 +102739,7 @@ therms;40
 the road to hell;60
 the rod;30
 Theron;50;Charlize Theron, Oscar-winning actress
+The Ronettes;50
 The Room;60
 the roost;40
 theropod;40;Dinosaur clade
@@ -112736,10 +112773,16 @@ wing collars;50
 Winged Death;60;Lovecraft story about a scientist who discovers a deadly species of fly in Africa
 winged horse;50
 winged horses;50
+winged it;60
+winged shoe;50
+winged shoes;50
 winged T;20;Football formation, usually WING T
 Wingfield;40;"The Glass Menagerie" family
+winging it;60
+wing it;60
 wingman;60
 wingmen;60
+wings it;60
 wingspan;50
 wingspans;50
 Wingstop;40;Chicken wing chain
