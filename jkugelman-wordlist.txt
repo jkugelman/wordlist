@@ -7351,7 +7351,8 @@ at one's own risk;50
 at one's wits' end;50
 atonies;20
 atoning for;40
-a ton of;40
+a ton of;50
+a ton of bricks;60
 atony;20
 a tooth for a tooth;60
 Atossa;20;Mother of Xerxes
@@ -46386,6 +46387,7 @@ hit job;60
 hit jobs;60
 Hitler;10
 Hitlerian;10
+hit like a ton of bricks;60
 hitmaker;60
 hitmakers;60
 hit music;50
@@ -46405,6 +46407,7 @@ hits a wall;60
 hits close to home;60
 hits different;60
 hit show;50
+hits like a ton of bricks;60
 hit snooze;50
 hits one's stride;60
 hit song;60
@@ -46435,6 +46438,7 @@ hitting a wall;60
 hitting close to home;60
 hitting coach;60
 hitting coaches;60
+hitting like a ton of bricks;60
 hitting one's stride;60
 hitting snooze;50
 hitting the pavement;60
@@ -94902,13 +94906,16 @@ Spanky;40
 Spanx;50
 spare a dime;50
 spare a penny;20
+spared no expense;60
 spared the rod;60
 spare key;50
 spare keys;50
 spare me;60
 spare me your lies;60
+spare no expense;60
 sparer;50;More spare
 sparers;30
+spares no expense;60
 spa resort;50
 spa resorts;50
 sparest;50
@@ -94924,6 +94931,7 @@ sparged;30
 sparges;30
 sparging;30
 Sparhawk;40;Alan Sparhawk of the band Low
+sparing no expense;60
 sparing the rod;60
 sparked joy;60
 sparkier;40
@@ -104648,6 +104656,7 @@ tonneau;40;Truck bed
 tonneaus;40
 tonner;40
 tonnes;40
+ton of bricks;60
 Tonopah;30;Nevada mining town and test range
 Tonopah, Nevada;40;Nevada mining town and test range
 Tonopah Nevada;0
@@ -114613,6 +114622,7 @@ You Are;40;1983 Lionel Richie song
 you are assessed for street repairs;50;Community Chest card in Monopoly
 you are excused;60
 you are here;60
+you are not;50
 you aren't gonna need it;60
 you are what you eat;60
 you awake;60
