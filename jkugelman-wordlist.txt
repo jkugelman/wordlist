@@ -35443,6 +35443,7 @@ Finnan;0
 Finneas;50;Finneas O'Connell, musician and Billie Eilish's brother
 Finnegan;40;"Finnegans Wake", or a common Irish surname
 Finnegans;40;"Finnegans Wake", Joyce's last novel
+Finnegans Wake;60
 Finney;40;Albert Finney, "Tom Jones" actor
 Finnic;40;Language family including Finnish and Estonian
 Finnish;50;From Helsinki
@@ -53541,6 +53542,7 @@ Jodeci;40;'90s R&B duo
 Jodhpur;40;Indian city that named the riding pants
 Jodi;40
 Jodie;50;Jodie Foster, actress
+Jodie Foster;60
 Jodorowsky;50;Alejandro Jodorowsky, cult filmmaker
 Jody;40;Jody Watley, "Looking for a New Love" singer
 Joe;50
@@ -82839,7 +82841,7 @@ Rayburn;40;Sam Rayburn, longtime House speaker, or Gene Rayburn, "Match Game" ho
 Ray Charles Singers;50;Group that accompanied Perry Como on TV for 35 years
 Raye;40;1950s comedian Martha Raye
 ray gun;60
-Ray Gunn;50;2026 animated neo-noir film by Brad Bird
+Ray Gunn;60;2026 animated neo-noir film by Brad Bird
 Ray J;40;Singer, brother of Brandy, sex tape with Kim Kardashian
 Rayleigh;40;Lord Rayleigh, physicist of light scattering
 rayless;30
@@ -107635,7 +107637,7 @@ ululations;50
 Uluru;40;Ayers Rock monolith in Australia
 Ulvaeus;40;Bjorn Ulvaeus, ABBA member
 Ulyanov;40;Lenin's real last name
-Ulysses;50;Joyce novel, or Grant's first name
+Ulysses;60;Joyce novel, or Grant's first name
 ulyssesjamesjoyce;0
 Ulzana;30;"Ulzana's Raid," 1972 Burt Lancaster western
 Ulzana's;30;"Ulzana's Raid," 1972 Burt Lancaster Western
