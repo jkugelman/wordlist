@@ -58247,6 +58247,7 @@ left-wing party;50
 left-wing politician;50
 left-wing politicians;50
 left-wing politics;50
+Lefty O'Doul;50;Baseball player and manager (1897–1969)
 leg;50
 legal battle;60
 legal battles;60
