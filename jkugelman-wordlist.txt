@@ -4202,6 +4202,7 @@ amylases;30
 Amy Ryan;50
 Amy's;40;Frozen food brand
 Amy Smart;50
+Amy Wong;40
 an;50
 Ana;50
 Anabaptism;50;Adult-baptism movement
@@ -7950,6 +7951,7 @@ aw, Mom;50
 awn;20
 awninged;40
 AWOL;50
+Awol Erizku;40
 Awolnation;40;"Sail" rock band
 AWOLs;40
 A Word A Day;50
@@ -14640,7 +14642,7 @@ Bryher;30;Bryher, modernist writer and patron / tiny Scilly island
 Brylcreem;50;Hair cream, a little dab'll do ya
 Bryn;40;Bryn Mawr College
 Brynhildr;40;Character in Norse mythology
-Brynner;50;Yul Brynner, "The King and I" star
+Brynner;40;Yul Brynner, "The King and I" star
 Bryon, Texas;40
 Bryony;40;Climbing vine, or a British given name
 Bryophyta;30;Moss division
@@ -19622,6 +19624,8 @@ Chuy;40;Chuy García, Chicago congressman
 Chuzzlewit;50;Martin Chuzzlewit, Dickens title character
 Chyna;30
 Chynna;40;Chynna Phillips, Wilson Phillips singer
+chyron;40;Graphic overlay in lower area of TV screen
+chyrons;40;Graphic overlays in lower area of TV screen
 Chytilova;40;Věra Chytilová, Czech New Wave director
 ci;40
 CIA;50
@@ -23426,7 +23430,7 @@ Crunchwrap;50;Taco Bell menu item
 Crunchwraps;40;Taco Bell menu items
 Crunchwrap Supreme;60
 Crunchwrap Supremes;60
-Crunchyroll;50;Anime streaming service
+Crunchyroll;60;Anime streaming service
 crupper;40;Horseriding strap
 cruppers;40
 crus;20;French vineyards
@@ -28363,6 +28367,10 @@ do worse;40
 dox;40
 doxx;50
 Do Ya;30;ELO song
+doyen;40
+doyenne;40
+doyennes;40
+doyens;40
 Doyle;50;Arthur Conan Doyle, creator of Sherlock Holmes
 D'Oyly;40;Richard D'Oyly Carte, Gilbert and Sullivan impresario
 do you dare me?;60
@@ -29141,6 +29149,7 @@ dry cell;50
 dry cells;50
 dry cough;50
 Dryden;40;English poet John Dryden (1631-1700)
+Dryden's;40
 dry dock;60
 dry-docked;60
 dry-docking;60
@@ -30180,6 +30189,8 @@ Ecuadorian;50;From Quito, say
 Ecuadorians;40;People of Ecuador
 écuelle;20;French two-handled porringer, antiques jargon
 écus;20;Old French coins
+ecycled;30
+ecycling;30
 Ed;40
 Eda;20
 edacious;30
@@ -36343,6 +36354,8 @@ flyover states;60
 fly swatter;50
 fly swatters;50
 fly the coop;60
+flyting;30;Exchange of insults in the form of verse
+flytings;30
 fly to;40
 fly under the radar;60
 flywheel;50
@@ -40668,6 +40681,7 @@ Goblet of Fire;10;Harry Potter
 goblin mode;60
 Go Blue;50
 go blue in the face;60
+gobo;20
 go bonkers;60
 GoBot;40;Transformers' rival toy line
 GoBots;40;Transformers rival toy line
@@ -45968,6 +45982,7 @@ hey don't look at me;0
 hey, dude;60
 Heyer;30;Georgette Heyer, Regency romance novelist (1902-1974)
 Heyerdahl;40;Thor Heyerdahl, Kon-Tiki rafter
+hey gang;60
 Hey Google;60
 hey hey;50
 Hey! Ho! Let's Go;60
@@ -51500,6 +51515,8 @@ Isiah;40;Isiah Thomas, Pistons Hall of Famer / Isiah Whitlock Jr., actor
 Isidor;30;Nobel physicist Isidor Rabi, never used in Shortz era
 Isidora;40;George Sand novel/title character
 Isidore;30
+Isidor Isaac Rabi;40
+Isidor Rabi;40
 Isidro;40;San Isidro, Buenos Aires
 Isildur;40;"Lord of the Rings" king who took the One Ring
 is in;20
@@ -54077,6 +54094,7 @@ Junoesque;50;Stately and imposing, like a goddess
 Junos;40;Canadian music awards
 Juno space probe;50
 Junot;30
+Ju-On;30;Japanese horror franchise
 Jupiter;50
 Jupitus;30;UK comedian Phill Jupitus
 Jupp;30;Miles Jupp, British comedian / Jupp Heynckes, soccer manager
@@ -55197,6 +55215,7 @@ key concept;50
 key concepts;50
 key decision;50
 key decisions;50
+Key deer;40
 Keydet;30;VMI athlete
 Keydets;30;VMI athletes
 keyed into;40
@@ -55208,6 +55227,8 @@ key figure;60
 key figures;60
 key fob;50
 key fobs;50
+key-gen;40
+key-gens;40
 keyhole arch;50
 keyhole arches;50
 Keyhole Kate;40;1930s British comic strip series in The Dandy
@@ -58911,6 +58932,8 @@ Leyden;30;Kind of jar or cheese
 Leyendecker;40;J.C. Leyendecker, Saturday Evening Post illustrator
 Leylah;40;Leylah Fernandez, tennis player
 Leyland;40;British Leyland automaker / Jim Leyland, baseball manager
+ley line;40
+ley lines;40
 Leymus arenaria;20;Species of grass
 Leyna;30;Model Leyna Bloom
 Leyster;40;Judith Leyster, Dutch Golden Age painter
@@ -59901,6 +59924,7 @@ Livorno;40;Tuscan port city
 Livvy;40;Livvy Dunne, gymnast and influencer
 Livy;40;Roman historian
 LIX;20
+Li-Young;40
 Liz;50
 Liza;50;Liza Minnelli, "Cabaret" star
 lizard's leg;60;Witches' brew ingredient in Macbeth
@@ -60211,6 +60235,7 @@ Lola;40
 lol at;20
 lolcat;60
 lolcats;60
+lol'd;40
 loled;40
 lol emoji;60
 lol emojis;60
@@ -63947,20 +63972,47 @@ mayflies;50
 mayfly;50
 mayhem;50
 Mayhew;40;Peter Mayhew, who played Chewbacca
+may I add;50
+may I ask why?;60
+may I ask you something?;50
 may I be excused?;60
+may I be excused;0
 may I be of help;60
+may I be of help?;50
+May I be of help?;0
+may I be of service?;60
+may I be of service;0
+may I come in?;50
+may I come in;0
+may I cut in?;60
+may I cut in;0
 may I have a brief word?;60
 may I have a quick word?;60
+may I have a word?;60
 may I have a word with you?;60
-may I have this dance;60
-may I have your attention;60
-may I have your attention please;60
+may I have this dance?;60
+may I have this dance;0
+may I have your attention?;60
+may I have your attention;0
+may I have your attention, please?;60
+may I have your attention please;0
+may I help?;50
 may I join you?;60
 may I just add?;60
 may I just say?;60
 Mayim;40;Actress Mayim Bialik
 Mayim Bialik;60
-may I see;60
+maying;30
+may I put you on hold?;60
+may I see?;60
+may I see;0
+may I see it?;50
+may I see it;0
+may I see you again?;50
+may I see you again;0
+may it please the court;60
+may I try?;50
+may I try;0
 Maynard;40
 Maynard James Keenan;60;Lead singer of Tool and A Perfect Circle
 mayochup;50;Heinz mayonnaise-ketchup blend
@@ -67223,6 +67275,8 @@ Mother Earth;60
 mother-in-law;50
 mother-in-law joke;60
 mother-in-law jokes;60
+mother may I?;60
+mother may I;0
 Mother of All Demos;60
 Mother of Dragons;60
 mother of mercy;60
@@ -74640,6 +74694,7 @@ oxter;20;Armpit: Scottish
 oxters;20;Armpits: Scottish
 oxx;20
 Oxy;40;Acne skin care brand
+oxyfuel;40
 oxygen;50
 oxygen tent;50
 oxygen tents;50
@@ -78977,6 +79032,7 @@ pomes;20;Some fruits
 pommel horse;60
 pommel horses;60
 pommes frites;60;French fries
+po-mo;30;Postmodernism
 pomodoro;50;Italian for tomato
 Pomodoro;50;Timed work technique
 Pomona;40;California city, or Roman goddess of fruit
@@ -81770,7 +81826,7 @@ Rabbitt;40;Eddie Rabbitt, "I Love a Rainy Night" singer
 rabe;40
 Rabelais;50;François Rabelais, French satirist
 Rabelaisian;50;Bawdy and extravagant
-Rabi;40;Isidor Isaac Rabi, Nobel-winning physicist
+Rabi;30;Isidor Isaac Rabi, Nobel-winning physicist
 rabid fan;50
 rabid fans;50
 Rabin;40
@@ -88459,6 +88515,7 @@ say nay;40
 say no to drugs;60
 sayonara;50
 say one's piece;60
+say over;40
 say please;60
 say presto;20
 says aloud;50
@@ -90866,6 +90923,7 @@ Sharma;40;Various, rock climber Chris Sharma
 Sharmila;40;Sharmila Tagore, Indian actress
 Sharon;50;Ariel Sharon, Israeli prime minister, or a common first name
 Sharona;50;"My Sharona" subject
+Sharon Horgan;40;"Bad Sisters" creator
 Sharons;30
 Sharpay;40;Sharpay Evans, "High School Musical" diva
 sharp curve ahead;60
@@ -93422,6 +93480,7 @@ slush piles;60
 slushy;60
 Slutskaya;40;Irina Slutskaya, Russian figure skating champion
 sly;50
+Slydini;40
 Slylock;40;Slylock Fox, newspaper puzzle detective
 sly nod;30;Green paint
 sly nods;30
@@ -105411,6 +105470,8 @@ toy;50
 Toyama;30;Random Japanese city
 toy chest;50
 toy chests;50
+Toy-Con;30
+Toy-Cons;30
 toy dog;60
 toy dogs;60
 toy drive;60
@@ -106417,6 +106478,8 @@ trying one's hand at;50
 trying out for;40
 trying out on;40
 trying to;30
+try line;40;Rugby line
+try lines;40;Rugby lines
 try me;60
 try me later;60
 tryna;40
@@ -113253,7 +113316,8 @@ Wojtyla;40;Karol Wojtyła, birth name of Pope John Paul II
 wok;50
 woke the dead;60
 woke up to;40
-Wole;40;Wole Soyinka, Nigerian Nobel laureate
+Wole;30;Wole Soyinka, Nigerian Nobel-winning playwright, poet and novelist
+Wole Soyinka;40;Nigerian Nobel-winning playwright, poet and novelist
 Wolfcastle;50;Rainier Wolfcastle, "Simpsons" action star
 wolf cub;50
 wolf cubs;50
