@@ -47756,6 +47756,8 @@ how do I look?;60
 how do I look;0
 How Do I Make You;50;1980 single by Linda Ronstadt
 how do you;20
+how do you do, fellow kids?;60
+how do you do fellow kids;0
 how do you like that?;60
 how do you like that;0
 how do you like them apples?;60
@@ -61018,6 +61020,9 @@ lowing;40
 low IQ;40
 low IQs;40
 lowish;40
+lowkenuinely;60
+lowkey obsessed;60
+lowkey obsessed with;60
 lowlight;50;Particularly bad or unpleasant event, detail, or part
 lowlights;50;Area of the hair made a darker color
 lowlily;30;Weird adverb
@@ -103222,6 +103227,7 @@ they'd eat you alive;60
 they don't make 'em like they used to;60
 the year;20
 the Year Without a Summer;60;1816, when a volcanic eruption created a volcanic winter
+The Yellow Kid;50;Comic-strip character that appeared from 1895 to 1898 in Joseph Pulitzer's New York World
 they get it;60
 they got it made;60
 they grow up so fast;60
@@ -114524,6 +114530,7 @@ yellow cards;60
 yellow highlighter;50
 yellow highlighters;50
 yellow journalism;60
+Yellow Kid;50;Comic-strip character that appeared from 1895 to 1898 in Joseph Pulitzer's New York World
 Yellowknife;50;Northwest Territories capital
 Yellowknifer;40;Resident of Yellowknife, NWT
 Yellowknifers;40;Residents of the Northwest Territories capital
