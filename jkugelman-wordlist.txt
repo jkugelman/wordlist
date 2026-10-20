@@ -19683,6 +19683,7 @@ Cilicia;40;Ancient region of southern Anatolia
 Cilician;40;Of ancient Cilicia in Asia Minor
 Cilicians;40;People of ancient Cilicia
 Cilla;40;Cilla Black, British singer and TV host
+Cilla Black;40;British singer and TV host
 Cillian;40;Cillian Murphy, "Oppenheimer" star
 Cimabue;40;Florentine painter, Giotto's teacher
 Cimarron;40;Western river, and the 1931 Best Picture
@@ -26603,10 +26604,11 @@ Dilaudid;40;Opioid painkiller brand
 DiLaurentis;40;Alison DiLaurentis, "Pretty Little Liars" character
 Dilbert;50;Cubicle-dwelling comic strip engineer
 Dileep;40;Dileep Rao, actor in "Inception"
-Dilfer;40;Trent Dilfer, Super Bowl-winning quarterback
-DILFs;40;Attractive dads, slangily
+Dilfer;40;Trent Dilfer, Super Bowl-winning quarterback (2000)
+DILFs;10;Attractive dads, slangily
 Dili;30;Capital of East Timor
-Dilip;40;Dilip Kumar, Bollywood legend
+Dilip;30;Dilip Kumar, Bollywood legend
+Dilip Kumar;40
 dilithium crystal;60
 dilithium crystals;60
 Dilla;30;Hip hop producer J Dilla, NYT debut
@@ -26620,7 +26622,8 @@ dill pickle spears;60
 dill spear;50
 dill spears;50
 Dilly Bar;50
-Dilma;40;Dilma Rousseff, Brazilian president
+Dilma;30;Dilma Rousseff, Brazilian president
+Dilma Rousseff;40;Brazilian president
 Dil Se..;20;1998 Indian film by Mani Ratnam
 Dil Se;0
 diluent;30;Substance used to dilute
@@ -31019,6 +31022,7 @@ elopers;40
 Elordi;40;Jacob Elordi, Australian actor (born 1997)
 elosretuo;0
 elote;40;Mexican street corn
+elotes;40
 ELP;40
 El Paso, Texas;50
 El Paso Texas;0
@@ -65566,6 +65570,7 @@ Milanese;50;Of Milan, as veal or chicken
 Milankovitch;50;Milutin Milankovitch, climate-cycle namesake
 Milano;50;Milan, in Italian, or a Pepperidge Farm cookie
 Milanos;40;Pepperidge Farm cookies
+milch;30
 milch cow;40;Cow kept for milk
 mild breeze;50
 Mildred;50;Old-fashioned first name, as in "Mildred Pierce"
@@ -65639,7 +65644,8 @@ millets;40
 Millett;40;Kate Millett, author of "Sexual Politics"
 Millhauser;40;Steven Millhauser, Pulitzer-winning novelist
 Millhone;40;Kinsey Millhone, Sue Grafton's detective
-milli;40
+Milli;40;Milli Vanilli
+milli-;40
 Milliband;30;Ed Miliband, UK Labour leader, misspelled
 Millicent;40;Old-fashioned first name
 Millie;40;Millie Bobby Brown, actress, among others
@@ -69674,6 +69680,7 @@ Nick Hornby;50
 Nicki;50;Nicki Minaj, rapper
 Nicklaus;50;Jack Nicklaus, the Golden Bear
 Nickleby;40;Nicholas Nickleby, Dickens title character
+Nick O'Hern;40;Australian professional golfer
 Nick Saban;50;Alabama football coach and ESPN sportscaster
 Nicktoon;40;Nickelodeon cartoon
 Nicktoons;40;Nickelodeon cartoon brand
@@ -72088,6 +72095,7 @@ O Henry Award;0
 O Henry Awards;50
 O. Henry-esque;50
 O'Herlihy;40;Dan O'Herlihy, "RoboCop" actor
+O'Hern;30;Nick O'Hern, Australian professional golfer
 oh, excuse me;50
 oh excuse me;0
 oh fine;60
@@ -94852,6 +94860,7 @@ Soylent;50;"Soylent Green" foodstuff
 so you see;60
 soys;40
 Soyuz;50;Russian spacecraft
+soz;30
 Sozaboy;30;Ken Saro-Wiwa novel
 Söze;40;Keyser Söze, "The Usual Suspects" villain
 Soze;0
@@ -105801,6 +105810,7 @@ trenta;30
 Trenta;0
 Trental;30;Blood circulation medicine
 trentas;30;Extra large Starbucks drinks
+Trent Dilfer;40;Super Bowl-winning quarterback (2000)
 trente;30
 Trento;30;Italian city
 Trenton;40;New Jersey capital
