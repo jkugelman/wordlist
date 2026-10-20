@@ -1519,6 +1519,7 @@ Adjani;20;Actress Isabelle
 adjoint;40
 adjuratory;30
 adjures;30
+adjusted earnings;50
 adjusted EBITDA;40
 adjusted to;40
 adjuster;30
@@ -96609,7 +96610,8 @@ Stearnes;30;Turkey Stearnes, Negro League hall of famer
 Stearns;40;Bear Stearns
 steatite;30;Soapstone
 Steber;30;Soprano Eleanor Steber [common pre-Shortz]
-Stede;40;Stede Bonnet, the gentleman pirate
+Stede;30;Stede Bonnet, the Gentleman Pirate (1688-1718)
+Stede Bonnet;40;The Gentleman Pirate (1688-1718)
 Stedelijk;40;Amsterdam modern art museum
 Stedman;30;Stedman Graham, Oprah Winfrey's partner
 steel beam;50
@@ -100309,6 +100311,8 @@ Tassimo;40;Coffee pod brand
 Tasso;30;Torquato Tasso, Italian poet
 taste bud;50
 taste buds;50
+tasted defeat;60
+taste defeat;60
 tasted of;40
 tasted OK;40
 Tastee;30;Tastee-Freez restaurant, practically defunct
@@ -100318,6 +100322,7 @@ tastemaker;60
 tastemakers;60
 taste of;40
 taste OK;40
+tastes defeat;60
 tastes of;40
 tastes OK;40
 tastes so good cats ask for it by name;50
@@ -100325,6 +100330,7 @@ taste test;60
 taste tester;60
 taste testers;60
 taste tests;60
+tasting defeat;60
 tasting of;40
 tasting room;50
 tasting rooms;50
@@ -107571,6 +107577,8 @@ Uncle Fucka;10
 Uncle Sam;50
 Uncola;50;7 Up, in old ads
 unconcern;30
+uncontested election;50
+uncontested elections;50
 uncordial;30
 uncousinly;30
 uncreate;30
