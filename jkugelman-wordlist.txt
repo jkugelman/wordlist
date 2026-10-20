@@ -2349,7 +2349,8 @@ aile;20
 Aileen;40;Aileen Quinn, the original film Annie
 Aileens;20
 Ailey;40;Choreographer Alvin Ailey
-Ailsa;40;Ailsa Craig, island in the Firth of Clyde
+Ailsa;30;Ailsa Craig, island in the Firth of Clyde
+Ailsa Craig;40;Island in the Firth of Clyde
 aim;50
 aimammam;0
 aim at;40
@@ -54518,6 +54519,7 @@ Kaskaskia River;40
 Kaspar;30
 Kasparov;50;Garry Kasparov, chess champion
 Kassel;40;German city, home of documenta
+Kassis;40;Reem Kassis, author of "The Arabesque Table"
 Kassovitz;40;Mathieu Kassovitz, "La Haine" director
 Kasturba;40;Kasturba Gandhi, Mahatma Gandhi's wife
 Kat;40
@@ -83492,10 +83494,13 @@ reeling out;40
 reel out;40
 reels in;40
 reels out;40
+Reem;30;Reem Kassis, author of "The Arabesque Table"
+reem;20;Biblical ox
 reembodied;20
 reembodies;20
 reembody;20
 reembodying;20
+Reem Kassis;40;Author of "The Arabesque Table"
 re-enamel;40
 reenameled;40
 reenameling;40
