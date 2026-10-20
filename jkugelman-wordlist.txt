@@ -4868,7 +4868,7 @@ an ounce;20
 Anoushka;40;Anoushka Shankar, sitarist
 ANOVA;30;Analysis of variance
 ANOVAs;40;Statistical variance tests
-Anozie;40;Nonso Anozie, British actor
+Anozie;30;Nonso Anozie, British actor
 Anqing;40;Chinese city
 Anquetil;40;Jacques Anquetil, five-time Tour de France winner
 ans.;40
@@ -14183,6 +14183,7 @@ bringing into question;50
 bringing on;40
 bringing one's A game;60
 bringing to tears;60
+bringing up to date;50
 bring into question;50
 bring it on;60
 bring on;40
@@ -14193,8 +14194,10 @@ brings on;40
 brings one's A game;60
 brings to;40
 brings to tears;60
+brings up to date;50
 bring to;40
 bring to tears;60
+bring up to date;50
 bring your own beer;60
 Brinker;40;Hans Brinker, of the silver skates
 Brinkley;40;Christie Brinkley, model / David Brinkley, newscaster
@@ -14494,6 +14497,7 @@ brought into question;50
 brought on;40
 brought one's A game;60
 brought to tears;60
+brought up to date;50
 brouhaha;60;Fun word
 brouhahas;60
 Broward;40;Florida county
@@ -16461,6 +16465,7 @@ cants;40
 can't see straight;60
 can't stick around;50
 can't stop won't stop;60
+can't take the heat;60
 can't turn that down;50
 can't win;50
 Canty;40;Tom Canty, the pauper in "The Prince and the Pauper"
@@ -17543,6 +17548,7 @@ catsuits;60
 Catt;40;Suffragist Carrie Catt
 cattail;50
 cattails;50
+cat take the heat;0
 cattalo;40;Hybrid cattle/buffalo (see beefalo)
 Cattelan;40;Maurizio Cattelan, duct-taped-banana artist
 catties;20
@@ -27838,6 +27844,7 @@ Don Martin;50
 Donna;50;Common first name
 donnas;30;Italian women
 Donnas;30;Plural name
+Donna Summer;60
 Donne;40;John Donne, metaphysical poet
 Donnelly;40;Irish surname, as in Ignatius Donnelly
 Donner;50;Donner Party, or Santa's reindeer
@@ -27964,6 +27971,7 @@ don't stare;60
 don't start;60
 don't start in on me;50
 don't start with me;60
+don't take the bait;60
 Don't Tap the Glass;60
 don't tell;60
 don't tell me;60
@@ -27971,6 +27979,7 @@ don't tempt me;60
 don't test me;60
 don't that beat all;60
 don't think about it;60
+don't touch me;60
 don't try anything;60
 don't try it;60
 don't try me;60
@@ -30504,6 +30513,7 @@ egg rolls;60
 egg salad;60
 egg salad sandwich;60
 egg salad sandwiches;60
+eggs on toast;50
 egg timer;50
 egg timers;50
 egg toss;50
@@ -32075,6 +32085,7 @@ ergodic literature;50
 ergosterol;40
 ergot;30;Grain disease
 ergotism;30;Ergot poisoning
+ergotropic;50
 ergs;40
 Erhard;30;Ludwig Erhard, chancellor of West Germany 1936-66
 erhu;30;Chinese fiddle
@@ -41788,6 +41799,7 @@ got naked;50
 got near;40
 got no shot;50
 go to;50
+go to a dance;20
 go to and fro;50
 go to bat for;60
 go to court;50
@@ -41805,6 +41817,9 @@ go to hell;60
 go to hell and back;60
 go to jail;60;Monopoly square
 go to lunch;50
+go-to-market;60
+go-to-market strategies;60
+go-to-market strategy;60
 go-to move;50
 go-to moves;50
 got on;50
@@ -41834,6 +41849,8 @@ got on one's nerves;60
 got on swimmingly;60
 got onto;40
 go too far;60
+go-to people;50
+go-to person;50
 go to plan B;60
 go to Plan B;0
 go topless;60
@@ -44057,6 +44074,7 @@ hanging out with;40
 hanging tough;50
 hanging up one's hat;60
 hanging up the phone;60
+hanging up to dry;50
 hanging with;40
 hang in the air;60
 hangman;60
@@ -44093,6 +44111,7 @@ hangs out with;40
 hangs tough;50
 hangs up one's hat;60
 hangs up the phone;60
+hangs up to dry;50
 hangs with;40
 hang the cost;60
 hang tight;60
@@ -44101,6 +44120,7 @@ hang times;60
 hang tough;60
 hang up one's hat;60
 hang up the phone;60
+hang up to dry;50
 hang with;40
 Hangzhou;40;Chinese city on West Lake
 Hanh;40;Thich Nhat Hanh, Vietnamese Zen monk
@@ -48171,6 +48191,7 @@ hung out with;40
 hung tough;50
 hung up one's hat;60
 hung up the phone;60
+hung up to dry;50
 hung with;40
 Hunkpapa;40;Lakota band of Sitting Bull
 Hunley;40;H.L. Hunley, Confederate sub that first sank a warship
@@ -49433,6 +49454,8 @@ I'll sue the pants off of him;60
 I'll sue the pants off of them;60
 I'll sue the pants off them;60
 I'll take it;60
+I'll take the risk;50
+I'll take the stairs;50
 I'll take your word for it;60
 I'll tell;60
 I'll tell you no lies;60
@@ -53240,6 +53263,7 @@ Jesuitism;40;Jesuit principles and practices
 Jesuits;50;Members of the Society of Jesus
 Jesus;50;Central figure of Christianity
 Jesus saves;50
+Jesus take the wheel;60
 jet;50
 je t'aime;50
 JetBlue;50
@@ -53583,6 +53607,7 @@ johnnycakes;50
 Johnny Knoxville;60;Actor and "Jackass" star
 Johnny Marr;40;Smiths guitarist
 Johnny-on-the-spot;60
+Johnny Rotten;60
 John Petrucci;50
 John Ruiz;50
 johns;50;Toilets
@@ -56130,7 +56155,7 @@ Korea;50;Divided East Asian peninsula
 Korea Bay;50;Bight in the Yellow Sea
 Koreaboo;40;Non-Korean obsessed with Korean pop culture
 Koreaboos;40;Obsessive fans of Korean culture
-Korean;50;From Seoul, say
+Korean;50
 Korean American;50
 Korean Americans;50
 Koreans;50
@@ -56823,6 +56848,7 @@ lake bottom;50
 Lake Charles, Louisiana;50
 Lake Charles Louisiana;0
 LaKeith;40;LaKeith Stanfield, "Atlanta" actor
+Lake Onega;40;Freshwater lake in Russia, second largest in Europe
 Laker;50;L.A. basketball player
 Lakers;50;Los Angeles NBA team
 Lake Tanganyika;40
@@ -57357,6 +57383,8 @@ last move;50
 Last Night in Soho;60
 Last of the Mohicans;60
 last one in;50
+last one in is a rotten egg;60
+last one in's a rotten egg;60
 LastPass;40;Password manager
 last place finish;50
 last-place finishes;50
@@ -66818,6 +66846,7 @@ Montgomery, AL;40
 monthlong;50
 monthly payment;50
 monthly payments;50
+monthly wage;50
 Monticello;50;Thomas Jefferson's Virginia estate
 Montmartre;50;Paris artists' quarter
 Montmorency;50;Tart cherry variety
@@ -70120,6 +70149,8 @@ no-bid contract;50
 no-bid contracts;50
 no bite;20;"All bark and ___" partial
 noble cause corruption;60
+noble effort;50
+noble efforts;50
 noble fir;50
 noble firs;50
 noble gas;50
@@ -70381,7 +70412,8 @@ nonsane;20
 nonsenses;40
 nonsmoker;50
 nonsmokers;50
-Nonso;40;Nonso Anozie, actor
+Nonso;30;Nonso Anozie, actor
+Nonso Anozie;40;Character actor in "Game of Thrones" and others
 nonstarter;60
 nonstarters;60
 nonstick pan;60
@@ -70516,6 +70548,7 @@ Normani;40;Singer formerly of Fifth Harmony
 Norman Mineta;40;Cabinet secretary under Clinton and Bush
 Normans;40;1066 conquerors
 Normas;30;Plural name
+Norma Tanega;40
 Norm Cash;30
 normcore;60
 normie;60
@@ -70546,6 +70579,9 @@ norther;30
 northern giant hornet;50
 northern giant hornets;50
 Northernlion;40;Canadian gaming YouTuber
+North Korean;50
+north Korean monetary unit;0
+North Koreans;50
 north of;50;More than
 north paw;60
 North Peak;50
@@ -70883,6 +70919,7 @@ not too sure;50
 not to rain on your parade;60
 not to rain on your parade but;60
 not up to code;50
+not up to date;50
 not up to it;60
 not up to scratch;60
 not up to the task;60
@@ -71616,6 +71653,13 @@ OBL;20
 oblast;40;Russian word for region/province
 oblasts;40
 oblate;40
+oblated;40
+oblately;40
+oblateness;40
+oblates;40
+oblating;40
+oblation;40
+oblations;40
 obligato;40
 obligee;30
 obliger;30
@@ -71927,6 +71971,7 @@ oeufs;30
 of;50
 of a;20
 Ofada;20;Nigerian stew
+of all the rotten luck;60
 of a man;0
 of an era;40
 O'Farrell;40;Maggie O'Farrell, "Hamnet" novelist
@@ -72872,7 +72917,7 @@ one for the books;60
 one for the road;60
 one franc;30
 O neg;40
-Onega;40;Large Russian lake
+Onega;30;Large Russian lake
 one gallon;30
 one game;20
 on eggs;20
@@ -73906,6 +73951,7 @@ Orwell;50;George Orwell, "1984" author
 Orwellian;50;Dystopian, in the manner of "1984"
 -ory;20
 or your money back;60
+orzotto;40
 OS;40
 osa;20
 Osage;50;Native American nation, or the orange
@@ -74474,7 +74520,8 @@ overtime losses;50
 overtimes;50
 overtime win;50
 overtime wins;50
-Overton;50;Overton window, the range of politically acceptable ideas
+Overton;40;Overton window, the range of politically acceptable ideas
+Overton window;60;Range of ideas tolerated in public discourse
 over to you;60
 Overwatch;50;Blizzard team shooter
 overwent;40
@@ -78604,6 +78651,8 @@ podcaster;60
 podcasters;60
 podcasting;60
 podcasts;60
+podded plant;30
+podded plants;30
 Podesta;40
 Podgorica;40;Capital of Montenegro
 podia;50
@@ -78862,6 +78911,10 @@ pollee;40
 pollees;40
 pollens;30
 Polley;40;Sarah Polley, "Women Talking" director
+polling site;60
+polling sites;60
+polling station;60
+polling stations;60
 pollo;40
 polloi;40;Hoi polloi
 pollos;40
@@ -85915,6 +85968,14 @@ rolled up into a ball;30
 rolled up one's sleeves;50
 rolled up to;40
 roller bearing;30
+rollerblade;60
+Rollerblade;60
+rollerbladed;60
+rollerblader;60
+rollerbladers;60
+rollerblades;60
+Rollerblades;60
+rollerblading;60
 roller coaster;60
 roller coaster do;0
 roller coasters;60
@@ -85932,6 +85993,8 @@ Rollie;30;___ Fingers baseballer
 rolling a cigar;50
 rolling by;40
 rolling into;40
+rolling mill;50
+rolling mills;50
 rolling on;40
 rolling one's eyes;50
 rolling one's own;50
@@ -86374,6 +86437,8 @@ rotoscopes;50
 rotoscoping;50
 rots in jail;50
 rotted in jail;50
+rotten apple;60
+rotten apples;60
 Rotten Egg Nebula;60
 rottener;40;More rotten is standard
 rottenest;40;Most rotten is standard
@@ -94808,6 +94873,7 @@ Southey;40;Robert Southey, English poet laureate
 Southfield;40;Detroit suburb
 Southie;50;Neighborhood in Boston, Massachusetts
 South Korean;50
+south Korean monetary unit;0
 South Koreans;50
 Southland;40;Southern California, informally
 south of;40;Less than
@@ -95027,6 +95093,8 @@ Spätlese;30;German wine
 Spatlese;0
 spätlese;0
 spat on;40
+spa treatment;60
+spa treatments;60
 spatulate;30;Shaped like a spatula (botany)
 spat up;40
 spavin;20
@@ -99564,6 +99632,7 @@ taken in vain;50
 taken one's cue from;50
 taken orders from;40
 take note;60
+taken the easy way out;60
 taken the wheel;50
 taken to;40
 taken to its logical conclusion;60
@@ -99668,9 +99737,13 @@ takes out;40
 takes pains;50
 takes shape;60
 takes the A train;20;Contrived
+takes the bad with the good;60
 takes the bait;60
+takes the ball and runs with it;60
+takes the bull by the horns;60
 takes the cake;60
 takes the cloth;60;Becomes a priest
+takes the easy way out;60
 takes the fall;60
 takes the field;60
 takes the heat;60
@@ -99695,8 +99768,12 @@ takesy backsies;60
 takesy backsy;60
 Take the "A" Train;60;Jazz standard
 Take the A Train;0
+take the bad with the good;60
 take the bait;60
+take the ball and run with it;60
+take the bull by the horns;60
 take the cloth;60;Become a priest
+take the easy way out;60
 take the fall;60
 take the field;60
 take the heat;60
@@ -99790,8 +99867,12 @@ taking orders from;40
 taking out;40
 taking pains;50
 taking shape;60
+taking the bad with the good;60
 taking the bait;60
+taking the ball and running with it;60
+taking the bull by the horns;60
 taking the cloth;60;Becoming a priest
+taking the easy way out;60
 taking the fall;60
 taking the field;60
 taking the heat;60
@@ -104827,8 +104908,12 @@ took orders from;40
 took out;40
 took pains;50
 took shape;60
+took the bad with the good;60
 took the bait;60
+took the ball and ran with it;60
+took the bull by the horns;60
 took the cloth;60;Became a priest
+took the easy way out;60
 took the fall;60
 took the field;60
 took the heat;60
@@ -105031,7 +105116,7 @@ tore one's hair out;60
 torero;40
 toreros;40
 to rest;30
-Toretto;50;Dom Toretto, Vin Diesel's "Fast & Furious" character
+Toretto;40;Dom Toretto, Vin Diesel's "Fast & Furious" character
 Tori;40
 toric;30
 Tories;50;British conservatives
@@ -105337,7 +105422,7 @@ Toynbee;40;Arnold Toynbee, historian / Toynbee tiles, street mystery
 Toyota;50;Japanese automaker
 Toyota Avalon;50
 Toyota Avalons;50
-Toyotas;40;Japanese cars
+Toyotas;50;Japanese cars
 Toyotathon;50;Recurring Toyota sales event
 Toyotomi;40;Toyotomi Hideyoshi, unifier of Japan
 toy poodle;50
@@ -111659,6 +111744,7 @@ what a save;60
 what a surprise;60
 what a tool;60
 what a trainwreck;60
+what a treat;60
 what a zoo;60;60 is borderline...
 what can I do;60
 what can I do you for;60
@@ -113330,12 +113416,14 @@ wore out one's welcome;50
 wore upon;40
 Worf;40
 work a room;50
+work a treat;60
 workbench;50
 workbenches;50
 work camp;50
 work crew;50
 work crews;50
 worked a room;50
+worked a treat;60
 worked for;40
 worked for peanuts;60
 worked late;50
@@ -113363,6 +113451,7 @@ work gloves;50
 work husband;60
 work husbands;60
 working a room;50
+working a treat;60
 working for;40
 working for peanuts;60
 Working Girl;50;1988 romcom
@@ -113403,6 +113492,7 @@ work one's magic on;60
 work one's way;50
 workplace comedy;60
 works a room;50
+works a treat;60
 works for;40
 works for peanuts;60
 works late;50
@@ -113439,6 +113529,7 @@ world economy;50
 world leader;50
 world leaders;50
 worldlily;30;Weird adverb
+worldly wise;60
 world news;60
 world of hurt;60
 world peace;60
@@ -113512,6 +113603,8 @@ worth one's while;50
 worth reading;50
 worths;30
 worts;40
+Wossamotta;50;Wossamotta U, fictional university from "The Bullwinkle Show"
+Wossamotta U;60;Fictional university from "The Bullwinkle Show"
 wot;20
 Wotan;40;Wagner's Odin
 Wouk;40;Herman Wouk, "The Caine Mutiny" author
@@ -114894,6 +114987,7 @@ you're getting sleepy;60
 you're good;60
 you're good enough to eat;60
 you're in big trouble;60
+you're in for a treat;60
 you're in rare form;60
 you're joking right;60
 you're just jealous;60
