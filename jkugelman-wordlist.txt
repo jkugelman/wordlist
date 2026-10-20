@@ -68,9 +68,9 @@
 15th;40
 15-year-old;40
 15-year-olds;40
-16:9;50;Aspect ratio for TV and computer monitors
+16:9;40;Aspect ratio for TV and computer monitors
 16:9 aspect ratio;60
-16 Blocks;50;2006 Bruce Willis / Mos Def action thriller
+16 Blocks;40;2006 Bruce Willis / Mos Def action thriller
 16 Candles;40;Spelled out is the norm
 16-year-old;40
 16-year-olds;40
