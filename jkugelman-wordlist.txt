@@ -33161,6 +33161,7 @@ ewe lamb;40
 ewe lambs;40
 Ewell;40
 Ewen;40;Ewen Bremner, "Trainspotting" actor
+Ewen Bremner;40
 ewer;40
 ewers;40
 Ewing;50;Patrick Ewing, Knicks great / J. R. Ewing of "Dallas"
@@ -70949,6 +70950,7 @@ not safe;40
 not safe for work;60
 not so fast;60
 not so hot;60
+not-so-secret;60
 not-so-secret menu;60
 not-so-subtle;60
 not so sure;60
@@ -73146,7 +73148,7 @@ one to go;30
 one ton;40
 one to ten;50
 one to two;20
-one-two;40
+one-two;50
 one two three four;50
 one two three four I declare a thumb war;60
 one unit;40
