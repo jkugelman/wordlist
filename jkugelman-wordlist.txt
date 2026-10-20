@@ -62834,6 +62834,9 @@ Mango Smurf;20;???
 mango sticky rice;60
 mango tango;60;Cocktail or dessert
 Mango Tango;60;Cocktail or dessert
+Mango Tangos;60
+mango tree;60
+mango trees;60
 mangrove swamp;60
 mangrove swamps;60
 Mangum;40;Jeff Mangum, Neutral Milk Hotel frontman
