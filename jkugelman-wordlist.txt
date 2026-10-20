@@ -2153,6 +2153,7 @@ aging like fine wine;60
 aging like milk;60
 a girl can dream;60
 agita;50
+agitato;40
 agleam;40
 aglet;50
 aglets;50
@@ -9417,6 +9418,7 @@ bar seats;50
 bar set;50
 bar sets;50
 bars of gold;50
+bars of steel;40
 Barsoom;30;Edgar Rice Burroughs's fictional representation of the planet Mars
 bars the door;50
 bars the doors;50
@@ -16765,6 +16767,9 @@ carbon fibres;30
 carbon fixation;50;Any process, such as photosynthesis, whereby atmospheric carbon dioxide is converted into organic compounds
 Carboniferous;50;Coal-forming geologic period
 carbon paper;50
+carbon sink;60
+carbon sinks;60
+carbon steel;60
 car boot;40
 car boots;40
 carboy;30;Large bottle
@@ -17964,6 +17969,8 @@ centaur;50
 Centauri;50
 centaurs;50
 Centaurus;50;Constellation of Alpha Centauri
+centavo;40
+centavos;40
 CENTCOM;40;United States Central Command
 centered on;40
 centerfold;50
@@ -35038,6 +35045,8 @@ fiancées;50
 fiances;50
 fiancés;50
 Fianna;40;Fianna Fail, Irish party, or a legendary warrior band
+Fiat Uno;40
+Fiat Unos;40
 fib;50
 Fibbage;40;Jackbox party game
 Fibonacci;50;Italian mathematician of sequence fame
@@ -46119,6 +46128,7 @@ high and tights;50
 high as a kite;60
 high as fuck;10
 high C;40
+high-carbon steel;60
 High Church;50
 high church;0
 high-concept;60
@@ -48378,6 +48388,7 @@ Hydrox;50;Cookie brand that predated Oreos
 hydroxychloroquine;50;Antimalarial medication
 hyena cub;50
 hyena cubs;50
+Hygrophorus borealis;20;Snowy waxy-cap mushroom
 Hyksos;40;Ancient invaders of Egypt
 Hyland;40;Sarah Hyland, "Modern Family" actress
 Hyman;40;Hyman Rickover, father of the nuclear navy
@@ -53989,6 +54000,7 @@ Juliett;40;NATO alphabet J
 Juliette;40;Various: Juliette Binoche, Juliette Lewis
 Julio;50;Julio Iglesias, singer, or a common Spanish name
 Julius;50;Julius Caesar, Roman general and dictator
+Julius Boros;40;Professional golfer (1920–1994)
 Julius Nyerere;40;First president of Tanzania from 1964-1985
 Julius Onah;50;Julius Onah, director of Captain America: Brave New World
 Jully;40;Jully Black, Canadian R&B singer
@@ -57112,6 +57124,7 @@ laniards;20
 Lani Guinier;40;Legal scholar and civil rights theorist (1950–2022)
 La Niña;40
 La Nina;0
+Lanius borealis;20;Northern shrike
 Lanka;40;Sri Lanka's second half
 Lankan;40
 lanker;40
@@ -57142,6 +57155,7 @@ lanternfly;50
 lantern jaw;50
 lantern-jawed;50
 lantern jaws;50
+Lanthanotus borneensis;20;Earless monitor lizard
 Lanthimos;50;Director Yorgos Lanthimos
 Lanvin;40;Jeanne Lanvin, French couturier
 Lanza;40;Mario Lanza, tenor and film star
@@ -57365,6 +57379,7 @@ lash out;50
 lash out at;40
 lash to;20
 Lasik;50;Corrective eye surgery
+Lasiurus borealis;20;Eastern red bat
 Lasker;40;Chess champion Emanuel Lasker
 Laski;30;1930s political scientist Harold Laski
 Las Meninas;40;1656 Diego Velázquez painting (Las Meninas, "The Ladies-in-waiting"), "one of the most important paintings in the history of Western art"
@@ -60932,6 +60947,7 @@ lowball offer;60
 lowball offers;60
 lowballs;60
 low-carb diet;50
+low-carbon steel;50
 low-class;50
 Lowe;40
 low Earth orbit;60
@@ -71342,7 +71358,7 @@ numbles;20;Edible entrails, archaic
 numbskull;60
 numbskulls;60
 numb to;40
-numenius borealis;20;Eskimo curlew, species of bird
+Numenius borealis;20;Eskimo curlew, species of bird
 numerical identifier for address;0
 numerical order;50
 numero;40
@@ -81664,6 +81680,7 @@ Quentin;50;Quentin Tarantino, director / San Quentin prison
 Quentin circles;0
 Quentin Tarantino;60
 Quenya;40;Tolkien's High-elven tongue
+Quercus borealis;20;Northern red oak
 Querelle;40;Jean Genet novel, filmed by Fassbinder
 Queretaro;40;Querétaro, Mexican state and city
 Quesalupa;50;Taco Bell menu item
@@ -87766,6 +87783,8 @@ salters;40
 Salt Fat Acid Heat;50
 salt flat;60
 salt flats;60
+salt grinder;50
+salt grinders;50
 SALT I;40;Treaty
 SALT II;40;Treaty
 Saltillo;40;Capital of Coahuila, Mexico
@@ -103174,6 +103193,7 @@ the upshot;50
 The Upside Down;60;"Stranger Things" alternate dimension
 the US;40
 the USA;30
+the U.S. border;20
 the US Open;20
 the VA;40
 The Vagina Monologues;60
@@ -108445,6 +108465,7 @@ USB;40
 USB-C;40;United States Bowling Congress
 U.S. bond;50
 U.S. bonds;50
+US Border Patrol;50
 USBs;30
 USC;40
 US Camel Corps;50
