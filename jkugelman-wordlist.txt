@@ -20035,6 +20035,7 @@ Claude Debussy;60
 Claudel;40;Camille Claudel, sculptor / Paul Claudel, poet
 Claudette;40;Claudette Colbert, actress / Claudette Colvin, civil rights pioneer
 Claudia;50;Claudia Cardinale, actress / Claudia Goldin, Nobel economist
+Claudia Weill;40
 Claudine;40;Claudine Gay, former Harvard president
 Claudio;40;Claudio Monteverdi, composer / common Italian name
 Claudius;50;Roman emperor, or Hamlet's uncle
@@ -89240,6 +89241,9 @@ sea fish;50
 seafood restaurant;50
 seafood restaurants;50
 Seagal;50
+seagan;30;Vegan with some seafood (did this catch on?)
+seagan diet;40;Vegan with some seafood (did this catch on?)
+seagan diets;40;Vegan with some seafood (did this catch on?)
 Seagate;40;Hard drive maker
 sea-girt;30;Surrounded by the sea
 sea glass;50
@@ -105092,10 +105096,11 @@ top fiddle;50
 top-flight;50
 Topgolf;50;East cost entertainment chain that's a souped-up driving range
 Top Gun Maverick;60
-Toph;40;Toph Beifong, "Avatar: The Last Airbender" earthbender
+Toph;30;Toph Beifong, "Avatar: The Last Airbender" earthbender
 Topham;40;Sir Topham Hatt, "Thomas & Friends" railway controller
 top hat;50
 top hats;50
+Toph Beifong;40;Fictional character in "Avatar: The Last Airbender"
 Topher;40;Topher Grace, "That '70s Show" actor
 Tophet;20;Biblical location
 top hit;50
