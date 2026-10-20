@@ -30425,7 +30425,7 @@ eery;20;Eerie: Var.
 EEs;40
 EE. UU.;40;Estados Unidos
 EEUU;0
-Eevee;40;Pokeyman
+Eevee;30;Pokeyman
 Eeveelution;40;Any Eevee evolution in Pokemon
 Eeveelutions;50;Eevee's Pokémon forms
 eew;20
