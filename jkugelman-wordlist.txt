@@ -30501,8 +30501,8 @@ egg hunts;60
 Eggleston;40;William Eggleston, color photography pioneer
 Eggman;60
 eggnog;50
-eggnog latte;50
-eggnog lattes;50
+eggnog latte;60
+eggnog lattes;60
 Eggo;50;Waffle brand ("Leggo my Eggo")
 egg on one's face;50
 Eggos;50;Kellogg's waffles
@@ -95383,6 +95383,7 @@ Spielrein;40;Sabina Spielrein, pioneering psychoanalyst
 spies;50
 spies on;40
 Spieth;40;Jordan Spieth, major-winning golfer
+spiked eggnog;50
 Spike Lee;60
 spikelet;40;Plant part
 spikelets;40
@@ -109015,6 +109016,7 @@ vegan bacon;60
 vegan cheese;60
 vegan diet;60
 vegan diets;60
+vegan eggnog;50
 vegan mayo;60
 vegan mayonnaise;60
 vegan meal;60
