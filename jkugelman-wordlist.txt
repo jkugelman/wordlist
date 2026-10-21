@@ -48635,6 +48635,7 @@ I as;20
 I assumed;50
 I assume not;60
 I at;20
+IATA;30
 IATA code;40
 IATA codes;40
 I ate;40
@@ -48999,6 +49000,7 @@ I'd eat you alive;60
 IDed;50
 ID'ed;0
 idée;40
+IDEK;30;I don't even know
 idem;40;Ditto, in footnotes
 I demand a rematch;60
 identicals;40;Identical rhymes
@@ -92821,7 +92823,8 @@ Sisulu;40;Walter Sisulu, anti-apartheid leader alongside Mandela
 Sisyphean;50
 Sisyphus;50;Boulder-rolling myth figure
 sit;50
-Sita;40;Rama's wife in the Ramayana
+Sita;40;Major goddess in Hinduism and consort of Rama
+sit a;20
 sit at;40
 sit by;50
 sitcom;50
@@ -100536,7 +100539,8 @@ tapeta;20;Retina layers
 tape to;30
 tapetum;30
 tape up;40
-tap-in;40
+tap-in;50
+tap in;40
 taping on;40
 taping to;30
 taping up;40
@@ -104532,6 +104536,8 @@ tíos;40
 tip;50
 tip-cat;40;Yard game
 tip goals;20;Hockey goals off deflections
+tip in;40
+tip income;60
 tip line;50
 tip lines;50
 tip of one's hat;60
@@ -104542,6 +104548,7 @@ tip one's cap to;60
 tip one's hand;50
 tip one's hat;50
 Tippecanoe;50;Battle site in "Tippecanoe and Tyler Too"
+tipped in;40
 tipped one's cap;60
 tipped one's cap to;60
 tipped one's hand;50
@@ -104551,6 +104558,7 @@ tippet;30;Hanging end of a sleeve, cap, or hood
 tippets;30
 Tippett;40;Michael Tippett, composer / Phil Tippett, effects artist
 Tippi;40;Tippi Hedren, star of "The Birds"
+tipping in;40
 tipping one's cap;60
 tipping one's cap to;60
 tipping one's hand;50
@@ -104559,6 +104567,7 @@ tip roast;50
 tips and tricks;60
 tip sheet;60
 tip sheets;60
+tips in;40
 tips one's cap;60
 tips one's cap to;60
 tips one's hand;50
