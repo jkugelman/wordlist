@@ -22297,6 +22297,7 @@ corslets;30;Armor
 Corso;40;Cane Corso dog breed / Gregory Corso, Beat poet
 Cort;40;Bud Cort, "Harold and Maude" star
 cortado;40;Espresso cut with warm milk
+cortados;40;Espressos cut with warm milk
 Cortana;50;Microsoft voice assistant, named for a "Halo" AI
 Cortazar;40;Julio Cortázar, "Hopscotch" author
 Cortés;50;Hernán Cortés, conquistador
@@ -64147,7 +64148,8 @@ Mayotte;40;French island territory near Madagascar
 Maypo;30;Old cereal brand
 maypop;40;Flower
 maypops;40;Flowers
-Mayra;40;Mayra Montero, Cuban-Puerto Rican novelist
+Mayra;30;Mayra Montero, Cuban-Puerto Rican novelist
+Mayra Montero;40;Cuban-Puerto Rican writer
 Mays;50;Willie Mays, the Say Hey Kid / Billy Mays, pitchman
 Maysles;40;Albert and David Maysles, "Grey Gardens" documentarians
 May Swenson;40;Poet and playwright (1913-1989), much lauded
@@ -91557,6 +91559,7 @@ Shondaland;60
 Shondell;40;Tommy James and the Shondells, "Mony Mony" band
 Shondells;40;Tommy James's backing band
 shōnen;40;Manga aimed at adolescent boys
+shone on;40
 Shon Faye;40;British writer and activist (born 1988)
 Shonibare;40;Yinka Shonibare, British-Nigerian artist
 shooby;30;"Shooby doo" scat, Shooby Taylor, the "Human Trumpet"
@@ -98672,6 +98675,7 @@ Sunset Blvd.;60
 Sunset Boulevard;60
 sunshine law;60
 sunshine laws;60
+Sunshine on My Shoulders;60;1973 single by John Denver
 sunstruck;50
 suntanning;50
 suntan oil;50
