@@ -1905,7 +1905,7 @@ a fly in the ointment;60
 Afonso;40;Afonso de Albuquerque, Portuguese conquistador
 a fool and his money;60
 afore;30
-A Forest;50;1980 song by The Cure
+A Forest;40;1980 song by The Cure
 Afr.;20
 afraid not;60
 afraid of;40
@@ -28998,8 +28998,8 @@ droned on;50
 droned on and on;60
 drone on;50
 drone on and on;60
-droner;50
-droners;50
+droner;40
+droners;40
 drone shot;60
 drone shots;60
 drones on;50
@@ -44317,6 +44317,8 @@ Hanseatic;50;Like the medieval trading league
 Hanseatic League;40;Medieval Baltic trading alliance
 Hansel;50;Gretel's brother
 Hansen;40;Chris Hansen, "To Catch a Predator" host / "Dear Evan Hansen"
+Hansen's;30;Hansen's disease: leprosy
+Hansen's disease;40;Leprosy
 Han Solo;60
 Hanson;40;"MMMBop" sibling band / Curtis Hanson, "L.A. Confidential" director
 Hanssen;40;Robert Hanssen, FBI agent turned Soviet mole
@@ -53729,6 +53731,10 @@ Joffrey;40;Joffrey Ballet / Joffrey Baratheon of "Game of Thrones"
 Jo Frost;50
 jog;50
 Joga;40;Joga Bonito, Nike's soccer slogan
+jogged one's memory;60
+jogging one's memory;60
+jog one's memory;60
+jogs one's memory;60
 Johan;40;Johan Cruyff, Dutch soccer great
 Johann;50;Common German first name
 Johanna;40;Johanna Spyri, "Heidi" author / Dylan's "Visions of Johanna"
@@ -72331,6 +72337,8 @@ oglers;30
 ogles;40
 Oglethorpe;40;James Oglethorpe, founder of Georgia
 ogo;20
+ogonek;30;Polish diacritical mark
+ogoneks;30;Polish diacritical marks
 Ogopogo;40;Canada's Loch Ness Monster
 O'Grady;40;Lorraine O'Grady, artist / Paul O'Grady, British comedian
 ogress;30
