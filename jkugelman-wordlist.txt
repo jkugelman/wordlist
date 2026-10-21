@@ -20049,6 +20049,7 @@ Clarksville;50;Tennessee city of "Last Train to" fame
 Clark W. Griswold;50;Chevy Chase's character in the "Vacation" movies
 claro;40
 claros;40
+clary sage;40
 clash of ideas;60
 Clash of Kings;60;A Song of Ice and Fire book #2, with "A"
 class A;40
@@ -24781,6 +24782,7 @@ data scraper;50
 data scrapers;50
 data scraping;50
 data storage medium;20
+data usage;50
 dat dere;60
 Dat Dere;60
 date back to;40
@@ -28597,15 +28599,21 @@ drags one's heels;50
 DRAG-U-LA;40;Car in the television show "The Munsters"
 drained;50
 drained of color;50
+drained out;40
 drained the swamp;60
 drainer;40;Kitchen device
 drainers;40
 drain filter;50
 drain filters;50
 draining of color;50
+draining out;40
 draining the swap;60
 drain of color;50
+drain out;40
 drains of color;50
+drains out;40
+drain spout;50
+drain spouts;50
 drains the swap;60
 drain the swamp;60
 drake;50
