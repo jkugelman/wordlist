@@ -143,6 +143,8 @@
 2 Become 1;60;1996 single by the Spice Girls
 2 Broke Girls;60;CBS sitcom 2011-17
 2 Chainz;60;American rapper and actor (born 1977)
+2 for 1 sale;60
+2 for 1 sales;60
 2 Legit 2 Quit;60;1991 single by MC Hammer
 2nd;50
 2nd-gen console;40
@@ -936,8 +938,12 @@ Accenture;40;Consulting giant
 acceptable use policies;60
 acceptable use policy;60
 acceptant;30
+accept blame for;50
+accepted blame for;50
 accepter;30
 accepters;30
+accepting blame for;50
+accepts blame for;50
 accesory after the fact;0
 Accidency;40;"His Accidency," John Tyler's nickname
 accidental comedy;60
@@ -953,6 +959,7 @@ accordion players;50
 accordion pleats;50
 accounted for;40
 account for;40
+account for saved money;0
 accounting for;40
 account mangers;0
 accounts for;40
@@ -1034,6 +1041,7 @@ Achaean;40;Homeric Greek, Achaean League
 Achaeans;40;Homer's Greeks
 Achaemenid;40;First Persian empire's dynasty
 Achaemenids;40;Ancient Persian dynasty
+a challenge for the actor;20
 a chance;20
 a change of heart;60
 Achates;30;Companion of Aeneas
@@ -1153,7 +1161,9 @@ a cool million;60
 A Cool Million;60
 a cop;20
 Acosta;40;Jim Acosta, journalist
+A Cottage for Sale;50;Popular song first published in 1929
 a couple;30
+a court for wills and estates;0
 a-courtin';20
 AC outlet;30
 AC outlets;30
@@ -1250,6 +1260,7 @@ Actium;20;Greek battle site
 Act IV;40
 Activa;40
 active dry yeast;50
+active duty for training;0
 active ingredient;60
 active ingredients;60
 active learner;60
@@ -2159,6 +2170,7 @@ aglet;50
 aglets;50
 agley;30;Wrong, askew
 aglimmer;40
+a glutton for punishment;60
 agn;20
 agnate;20
 agnates;20
@@ -2922,6 +2934,7 @@ alerted to;40
 alerter;40
 alerters;40
 alertest;30
+alert for;40
 alerting to;40
 alerts to;40
 alert to;40
@@ -3232,6 +3245,7 @@ all for free;50
 all forms;60
 all for one;60
 all for one and one for all;60;"The Three Musketeers" motto
+all for the best;60
 all fours;60
 all fucked up;10
 all get out;60
@@ -3269,6 +3283,8 @@ alliteration;60
 alliterative;60
 Allium;40;Onion and garlic genus
 All I Want;40;Hit song by Kodaline (1 billion Spotify streams) or Olivia Rodrigo (High School Musical)
+All I Want for Christmas Is My Two Front Teeth;60;1948 single by Spike Jones and his City Slickers
+All I Want for Christmas Is You;60;1994 single by Mariah Carey
 All I Want Is You;50;Song by various artists including U2
 all killer no filler;60
 all-knowing;60
@@ -3444,6 +3460,7 @@ Alok Vaid-Menon;50;Performance artist and activist (born 1991)
 Alomar;40;Baseball player Roberto Alomar
 a lonely;20
 alone time;50
+along for the ride;60
 along the line;50
 along those lines;50
 a long time ago in a galaxy far far away;60
@@ -4374,6 +4391,7 @@ Anderson Paak;0
 Andersonville;50;Notorious Confederate prison camp
 Andersson;40;Benny Andersson of ABBA / Bibi Andersson, actress
 Andes;50;South American range
+and for good reason;60
 and for my next trick;60
 and for that reason, I'm out;60
 and Garfunkel;0
@@ -4858,6 +4876,7 @@ anorexics;10
 anorthic;30
 años;40
 a nose;40
+a nose for news;60
 anosmia;20;Loss of sense of smell
 Another Roadside Attraction;50;1971 novel by Tom Robbins
 Another Saturday Night;60
@@ -4928,6 +4947,7 @@ antelope calf;50
 antelope calves;50
 ante-nave;40
 Antetokounmpo;40;Giannis Antetokounmpo of the NBA, the "Greek Freak"
+ant excuse for a party;0
 ant farm;60
 ant farms;60
 Anthea;40;Anthea Bell, translator of Asterix
@@ -5125,6 +5145,8 @@ any luck;60
 any moment now;60
 any objections;60;"Is everyone okay with this?"
 anyone else;60
+anyone for tennis?;50
+anyone for tennis;0
 anyone know?;60
 anyone's;50
 any port in a storm;60
@@ -5188,6 +5210,7 @@ Aparna Sen;40
 apartheid;50;South African segregation regime
 Apartheid;0
 AP Art History;50
+apartment for rent;60
 apartotel;20;Apartment hotel
 a partridge in a pear tree;60
 apathies;30
@@ -5350,6 +5373,7 @@ aposematism;40;Advertising by an animal that it's not worth eating, such as with
 apothem;30;Geometry word
 apothems;30
 apotropaic;30;Protective magic
+a power tool for making pottery;0
 app;50
 appa;30;Dad: Kor.
 Appadurai;40;Arjun Appadurai, globalization anthropologist
@@ -5467,6 +5491,7 @@ apple turnovers;60
 Apple Vision Pro;60;Apple mixed-reality headset
 Apple Watch;60
 Apple Watches;60
+appliance for grinding garbage;0
 applicable laws;60
 applied for;40
 applied research;50
@@ -5817,6 +5842,7 @@ areca palm;40
 areca palms;40
 arecas;30
 Arecibo;50;Puerto Rico observatory site
+a recipe for disaster;60
 are dead;20
 are driving taxis;0
 a reel;40
@@ -5869,6 +5895,10 @@ are we getting this?;60
 are we live?;60;"Is this thing on?"
 are we live;0
 are we not?;20
+are we on for later?;60
+are we on for today?;60
+are we still on for later?;60
+are we still on for later;0
 are we the baddies;60
 are we there yet;60
 Are You Afraid of the Dark?;50;Nickelodeon horror anthology TV series
@@ -5882,7 +5912,8 @@ are you crazy?;60
 are you decent?;60
 are you decent;0
 are you done;60
-are you for real;60
+are you for real?;60
+are you for real;0
 are you game;60
 are you getting this;60
 are you going to eat that;60
@@ -5916,6 +5947,7 @@ are you sleeping?;50
 are you sure about that;60
 are you thinking what I'm thinking?;60
 are you thinking what I'm thinking;0
+are you up for it?;60
 Arezzo;40;Tuscan city
 arf;50
 arfed;30
@@ -6266,6 +6298,10 @@ arr.;40
 arrack;20;Sri Lankan liquor
 arracks;20;Sri Lankan liquors
 Arrakis;50
+arranged for;40
+arrange for;40
+arranges for;40
+arranging for;40
 arras;30;Tapestry
 Arras;20;French city, WWI battle site
 arrases;20;Tapestries
@@ -36718,16 +36754,47 @@ forcing from;40
 forcing in;40
 forcing on;40
 for crying out loud;60
+Ford administration;50
+Ford Aerostar;50
+Ford Aerostars;50
+for days;40
 Ford Bronco;50
 Ford Broncos;50
-for dead;30
+Ford C-Max;50
+Ford dealer;50
+Ford dealers;50
+Ford dealership;50
+Ford dealerships;50
+for dead;40
+for dear life;40
+Ford Edges;50
+for deposit only;50
+Ford Escort;50
+Ford Escorts;50
+Ford Expedition;50
+Ford Expeditions;50
+Ford Fairlane;50
+Ford Fairlanes;50
+Ford Festiva;20
+Ford Festivas;50
+Ford Flex;50
+Ford Flexes;50
+Ford Fusion;50
+Ford Fusions;50
+Ford Granada;40
+Ford Granadas;40
 Fordham;40;New York City university
 Fordism;50;Mass-production economic system
 Fordlandia;50;Henry Ford's failed Amazon rubber town
+Ford Madox;40
+Ford pickup;40
+Ford pickups;40
 Ford Quadricycle;60
 Ford sedan;40
 Ford sedans;40
 Ford SUV;20;Green paint
+Ford Tempo;50
+Ford Tempos;50
 forebay;40;Artificial pool of water in front of a larger body of water
 forebays;40
 forego;50
@@ -40523,6 +40590,8 @@ Glup;30;Glup Shitto, fandom byword for an obscure "Star Wars" character
 glutathione peroxidase;50
 glutelin;30;Wheat protein
 glutenin;30;Wheat protein
+glutton for punishment;60
+gluttons for punishment;60
 glycol;40
 glycols;40
 glycolysis;40
@@ -49348,6 +49417,7 @@ I know what you mean;60
 I know you;60
 I know you are, but what am I?;60
 I know you are but what am I;0
+I know you're in there;60
 Iko;20
 Iko Iko;30;Mardis Gras song
 IKR;30
@@ -70714,6 +70784,7 @@ nosed into;40
 nosed out;40
 no-see-um;40;Gnat
 no-see-ums;40
+nose for news;60
 nose game;60;Last person to touch their nose loses
 nose goes;60;Last person to touch their nose loses
 nose in;50
@@ -102323,6 +102394,7 @@ the flu;40
 The Fool;60;Tarot card
 The Foot Book;60;Dr. Seuss book
 The Force Awakens;60
+the fore;40
 the Foreign Legion;30
 The Fountainhead;60
 The Fountain of Youth;60
@@ -115109,6 +115181,7 @@ you're good;60
 you're good enough to eat;60
 you're in big trouble;60
 you're in for a treat;60
+you're in for it;60
 you're in rare form;60
 you're joking right;60
 you're just jealous;60
