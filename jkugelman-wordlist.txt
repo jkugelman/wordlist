@@ -2965,6 +2965,7 @@ Alex;50;Common first name
 Alexa;50;Amazon voice assistant
 Alexander;50;Alexander the Great, among many
 Alexanderplatz;50;Berlin square, and a Döblin novel
+Alexander Siddig;40;"Deep Space Nine" actor
 Alexander Skarsgard;50
 Alexander Stubb;50;President of Finland since 2024
 Alexandra;50;Common given name
@@ -6569,7 +6570,7 @@ ascender;40
 ascenders;40
 ascending order;50
 ascetical;40
-Asch;40;Solomon Asch, conformity experimenter / Sholem Asch, Yiddish novelist
+Asch;40;Sholem Asch, Yiddish novelist / Solomon Asch, conformity experimenter
 ASCII;40;Character encoding standard
 ASCIIbetical;40;Sorted by character code
 ascites;30;Medical condition
@@ -11269,7 +11270,7 @@ B. F. Skinner;60;Psychologist and social philosopher (1904–1990)
 B F Skinner;0
 B-girl;40
 B-girls;40
-B-grade;50
+B-grade;40
 Bh;20
 BHA;20
 Bhabha;40;Homi Bhabha, father of India's nuclear program
@@ -19896,7 +19897,8 @@ ciscos;40
 cisforcat;0
 Cisneros;40;Sandra Cisneros, author of "The House on Mango Street"
 Cisplatine;40;Cisplatine War, Brazil vs. Argentina
-Cisse;40;Souleymane Cissé, Malian filmmaker
+Cissé;40;Souleymane Cissé, Malian filmmaker
+Cisse;0
 Cissy;40;Cissy Houston, gospel singer and Whitney's mother
 Cistercian;50;Catholic monastic order
 Cistercians;50;Monastic order of white monks
@@ -39009,7 +39011,7 @@ Geary;40
 Geaux;40;LSU cheer, as in "Geaux Tigers"
 G-Eazy;40
 Gebrselassie;50;Haile Gebrselassie, Ethiopian distance running great
-Gebru;40;Timnit Gebru, AI ethics researcher
+Gebru;30;Timnit Gebru, AI ethics researcher
 Gecs;30;100 gecs, hyperpop duo
 GED;40
 Geddes;30;Various last name
@@ -53482,6 +53484,7 @@ Jewell;30;British spelling
 Jewelle;40;Jewelle Gomez, "The Gilda Stories" author
 jeweller;30
 jewellery;30
+Jewel-Osco;40;Regional supermarket chain
 Jewess;10
 Jewesses;10
 Jewett;40;Sarah Orne Jewett, "The Country of the Pointed Firs" author
@@ -53715,6 +53718,7 @@ Joel Embiid;50
 Joelle;40;Girl's name
 Joe Louis;50
 Joely;40;Joely Richardson, actress
+Joe Meek;40;English record producer (1929–1967)
 Joe O'Malley;30
 JoePa;10;Joe Paterno, disgraced Penn State coach
 Joe Pera;50;Creator of Adult Swim's "Joe Pera Talks with You"
@@ -56764,7 +56768,7 @@ Kyzylkum;40;Central Asian desert
 L;40
 la;40
 LAA;30;Los Angeles Angels, on scoreboards [occasional]
-laab;40
+laab;40;Lao meat salad, national dish of Laos
 laager;20
 Laa-Laa;40;Yellow teletubby
 Laayoune;40;Capital of Western Sahara
@@ -73887,6 +73891,8 @@ oralers;20
 órales;20
 oral health;50
 oralism;30
+oralist;40
+oralists;40
 oral report;50
 oral reports;50
 oral test;50
@@ -74236,7 +74242,7 @@ Osceola;30;FSU mascot
 oscine;20;Songbird
 oscines;20;Songbirds
 oscitant;20;Drowsy
-Osco;40;Drugstore chain
+Osco;30;Drugstore chain
 oscular;30;Relating to kissing
 osculate;20;Kiss, humorously
 osculated;20;Kissed, humorously
@@ -88164,9 +88170,11 @@ Sandgren;30;Tennys Sandgren, journeyman tennis pro
 Sandhurst;50;British royal military academy
 Sandi;40;Sandi Toksvig, British comedian and "QI" host
 Sandia;40
-sandie;50;Golf side bet (score par after hitting a bunker)
+sandie;40;Type of sugar cookie / Golf side bet (score par after hitting a bunker)
+Sandie;40;Sandie Shaw, 1960s British pop singer
 San Diegans;30
-sandies;50
+sandies;40;Type of sugar cookie
+Sandie Shaw;40;1960s British pop singer
 San Dimas;40;"Bill & Ted" hometown, California
 Sandinista;50;Nicaraguan revolutionary, or a Clash album
 Sandinistas;50;Nicaraguan revolutionaries
@@ -90905,7 +90913,7 @@ Sg;30;Seaborgium's symbol, or the Gibson SG
 SGLs;20
 SGs;20
 Sgt.;40
-Sgt. Joe;40;Dragnet's Sgt. Joe Friday
+Sgt. Joe;20;Dragnet's Sgt. Joe Friday
 Sgt. Maj.;40
 Sgt. Preston;40
 sh;40
@@ -91636,6 +91644,7 @@ shōjo manga;40;Manga for young women
 shojo manga;0
 Sholay;40;Classic 1975 Bollywood film
 Sholem;40;Sholem Aleichem, Yiddish author
+Sholem Asch;40;Yiddish novelist
 Sholokhov;40;Mikhail Sholokhov, Nobel-winning Russian novelist
 Sholom;40;Sholom Aleichem who created Tevye from "Fiddler"
 Shon;30;Shon Faye, British writer
@@ -94680,6 +94689,7 @@ solo flight;60
 solo homer;60
 solo homers;60
 Solomon;50;Biblical king famed for wisdom
+Solomon Asch;40;Polish-American psychologist (1907–1996)
 Solomonic;40;Wise, like the biblical king
 Solomon's;40;Solomon's seal
 Solomons;40;Pacific island nation
@@ -95030,6 +95040,8 @@ souks;20;Bazaars
 Soulcalibur;50;Weapon-based fighting game series
 SoulCycle;40;Indoor cycling studio chain
 Souleymane;40;Souleymane Cissé, Malian filmmaker
+Souleymane Cissé;50
+Souleymane Cisse;0
 Soul II Soul;50;British musical collective with the 1989 hit "Back to Life"
 Soulja;50;Soulja Boy, pioneering Grammy-nominated rapper
 Soulja Boy;60;Soulja Boy, pioneering Grammy-nominated rapper
@@ -104408,7 +104420,8 @@ Timmie;30;Timmie Rogers, comedian and songwriter (1914–2006)
 Timmies;40;Tim Hortons, to Canadians
 Timmy;50;Timmy Turner, "The Fairly OddParents" hero
 Timmy's;40;Tim Hortons, familiarly
-Timnit;40;Timnit Gebru, AI ethics researcher
+Timnit;30;Timnit Gebru, AI ethics researcher
+Timnit Gebru;40;AI ethics researcher
 Timon;40;From "The Lion King"
 Timon and Puumba;0
 Timor;40;East Timor, or the Timor Sea
