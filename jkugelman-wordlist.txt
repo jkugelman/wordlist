@@ -2119,9 +2119,11 @@ agentic coding;60
 Agent J;40;Will Smith's "Men in Black" character
 Agent K;40;Tommy Lee Jones's "Men in Black" character
 Agent P;50;Codename for Perry the Platypus
+agent provocateur;60
 agentry;30
 agents;50
 Agents of Fortune;50;Blue Öyster Cult song/album
+agents provocateurs;60
 age of prosperity;50
 age one;40
 age one hundred;40
@@ -80479,6 +80481,8 @@ prismoid;30
 prismoids;30
 prison break;60
 prison breaks;60
+prison bus;50
+prison buses;50
 prison cell;50
 prison cells;50
 prison-industrial complex;60
@@ -87921,6 +87925,7 @@ salsa dance;60
 salsa danced;60
 salsa dancer;60
 salsa dancers;60
+salsa dances;60
 salsa dancing;60
 salsa dip;50
 salsa dips;50
@@ -99350,6 +99355,10 @@ swim-up bars;60
 Swinburne;40;Algernon Charles Swinburne, Victorian poet
 swing at;40
 swing away;50
+swing danced;60
+swing dancer;60
+swing dancers;60
+swing dances;60
 swinge;20;Archaic "flog"
 swinger;60
 swing era;50
@@ -100988,6 +100997,8 @@ team morale;60
 te amo;40
 team roster;50
 team rosters;50
+team scarf;60
+team scarves;60
 teams up on;40
 team up on;40
 Teaneck;20;Unremarkable New Jersey town
@@ -104911,6 +104922,7 @@ Toko-Ri;20;Movie "The Bridges at ___"
 Toksvig;40;Sandi Toksvig, British TV host
 Tokugawa;50;Japanese shogunate dynasty
 Tokyo;50;Japanese capital
+Tokyo Disney;60
 Tokyo Dome;50
 Tokyo Drift;60
 Tokyoite;40;Tokyo resident
@@ -112468,6 +112480,7 @@ where have you gone, Joe DiMaggio?;60
 whereinto;40
 where is the line?;50
 where is the line;0
+where needed;50
 where's the beef?;60
 where's the beef;0
 where's the fire;60
@@ -112541,6 +112554,7 @@ white gold;50
 Whitehall;50;London street standing for the British government
 white hat;60
 white hats;60
+white horses;50
 White House;50
 White House bid;50
 White House bids;50
@@ -112588,6 +112602,8 @@ white tie events;60
 white ties;60
 White Walker;60
 White Walkers;60
+white wolf;60
+white wolves;60
 Whitey;40;Whitey Bulger, Boston mobster / Whitey Ford, Yankees pitcher
 white zin;50
 White Zin;0
