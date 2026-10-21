@@ -11471,7 +11471,7 @@ bigness;30
 big no;30;Anguished "Nooo!" trope, as Darth Vader's
 big no-no;60
 big no-nos;60
-Big O;40;Oscar Robertson's nickname, Big O notation, Big O Tires
+Big O;40;Oscar Robertson's nickname / Big O notation / Big O Tires
 bigorexia;60;Muscle dysmorphia
 bigot;40
 bigoted;40
@@ -37645,6 +37645,8 @@ Friesland;40;Dutch province
 fries up;40
 frig;40
 Frigg;40;Wife of Odin
+friggin' awesome;60
+frigging awesome;60
 FrightFest;40;British horror film festival
 fright wig;60
 fright wigs;60
@@ -53790,6 +53792,7 @@ Johnny Marr;40;Smiths guitarist
 Johnny-on-the-spot;60
 Johnny Rotten;60
 John Petrucci;50
+John Riggins;50;Redskins player, Super Bowl XVII MVP
 John Ruiz;50
 johns;50;Toilets
 Johns;50;Johns Hopkins
@@ -70465,6 +70468,8 @@ no evil;40;Clueable in reference to the monkeys, but really a partial
 no fair;60
 no fat;40
 no filter;50
+no frigging way;60
+no friggin' way;60
 no funny business;60
 NOFX;30;Punk rock band
 nog;40;Holiday beverage
@@ -85453,6 +85458,7 @@ rigged election;50
 rigged elections;50
 rigged game;50
 rigged games;50
+Riggins;40;Football player John Riggins
 Riggle;40;Comedian Rob Riggle
 Riggs;40;Bobby Riggs, Battle of the Sexes loser / Martin Riggs of "Lethal Weapon"
 right after this;60
