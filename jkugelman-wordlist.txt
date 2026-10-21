@@ -21005,6 +21005,12 @@ Cold Stone Creamery;60
 cold storage;60
 cold streak;50
 cold streaks;50
+cold tablet;50
+cold tablets;50
+cold take;60
+cold takes;60
+cold tap;50
+cold taps;50
 cold virus;50
 cold viruses;50
 Cold War policies;30
@@ -37419,6 +37425,8 @@ freezer pop;60
 freezer pops;60
 freezes up;50
 freeze up;50
+freezing cold take;60
+freezing cold takes;60
 freezing up;50
 Frehley;40;Ace Frehley, KISS guitarist
 Frehley's;40;Frehley's Comet, Ace Frehley's band
@@ -42354,6 +42362,7 @@ grates on;40
 gratia;40
 graticule;40;Grid on a map
 graticules;40
+gratin;40
 grating on;40
 gratins;40;Weird plural
 grats;40
@@ -48734,6 +48743,8 @@ ice-cold beer;60
 ice cold beer;0
 ice cold beer here;60
 ice cold beers;60
+ice cold take;60
+ice cold takes;60
 ice cream sandwich;60
 ice cream sandwiches;60
 ice cube tray;50
