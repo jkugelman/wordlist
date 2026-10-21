@@ -15102,6 +15102,7 @@ bunny suit;60
 bunny suits;60
 Bunsen;50;Robert Bunsen, burner namesake
 Bunsen Honeydew;60;Muppet
+Buns of Steel;60;1980s workout video
 Bunton;40;Emma Bunton, Baby Spice
 Buñuel;40;Luis Buñuel, "Un Chien Andalou" director
 Bunuel;0
@@ -30349,6 +30350,7 @@ edits down;50
 edits in;40
 edit suite;60
 edit suites;60
+Ed Lee;40;Mayor of San Francisco 2011-2017
 EDM;40;Electronic dance music
 EDM DJ;40
 EDM DJs;40
