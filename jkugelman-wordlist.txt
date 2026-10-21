@@ -1496,10 +1496,12 @@ Adi;40;Adi Dassler, Adidas founder / Adi Granth, Sikh scripture
 Adia;40
 adiabatic;40
 Adidas;50;Three-stripes sportswear brand
+Adi Dassler;50;Founder of Adidas (1900–1978)
 adieu, adieu;50
 adieus;40
 adieux;40
 Adiga;40;Aravind Adiga, author of "The White Tiger"
+Adi Granth;40;Primary scripture of Sikhism
 a dilly of a pickle;60
 ad in;40;Tennis score
 Adina;20;Donizetti heroine, not used since 1991
@@ -1523,6 +1525,7 @@ adiposis;40;Disease
 Adir;30
 Adirondack;50;New York mountain range, or a lawn chair
 Adirondacks;50;New York mountain range
+Adi Shankara;40;8th-century Indian Vedic scholar
 a dish best served cold;60;Revenge
 Aditya;40;Aditya Chopra, Bollywood filmmaker
 adj.;40
