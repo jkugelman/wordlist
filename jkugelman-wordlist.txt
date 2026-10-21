@@ -1041,7 +1041,7 @@ Achaean;40;Homeric Greek, Achaean League
 Achaeans;40;Homer's Greeks
 Achaemenid;40;First Persian empire's dynasty
 Achaemenids;40;Ancient Persian dynasty
-a challenge for the actor;20
+A Challenge for the Actor;50;Theater textbook by Uta Hagen
 a chance;20
 a change of heart;60
 Achates;30;Companion of Aeneas
