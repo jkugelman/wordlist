@@ -3898,6 +3898,7 @@ amebae;20
 amebas;20
 ameboid;40
 Ameche;30;Old football player or actor
+AME Church;40;African Methodist Episcopal Church
 Amedeo;20
 Ameen;30;Actor Aml Ameen ("Sense8"), Arabic "amen"
 amelcorn;30;Wheat variety
@@ -12060,6 +12061,8 @@ Blacksburg;40;Virginia Tech's home
 black sheep of the family;60
 Blacksonian;60;National Museum of African American History and Culture
 Blackstreet;50;"No Diggity" R&B group
+black suit;50
+black suits;50
 black swan event;60;Occurrence that is hard to predict but seems inevitable in hindsight
 black swan events;60
 Blackwell;40;Elizabeth Blackwell, first US woman doctor
@@ -14223,16 +14226,19 @@ bring aboard;50
 bring 'em on;60
 bringing aboard;50
 bringing into question;50
+bringing it;60
 bringing on;40
 bringing one's A game;60
 bringing to tears;60
 bringing up to date;50
 bring into question;50
+bring it;60
 bring it on;60
 bring on;40
 bring one's A game;60
 brings aboard;50
 brings into question;50
+brings it;60
 brings on;40
 brings one's A game;60
 brings to;40
@@ -14537,6 +14543,7 @@ Broti;30;Broti Gupta, TV comedy writer
 brotox;50;Botox for men, slangily
 brought aboard;50
 brought into question;50
+brought it;60
 brought on;40
 brought one's A game;60
 brought to tears;60
@@ -16390,7 +16397,7 @@ canna;30;Flowering tropical plant
 cannabis tea;60
 Cannae;20;Punic War battle site
 cannas;30;Flowering tropical plants
-Cannavale;50;Bobby Cannavale, actor
+Cannavale;40;Bobby Cannavale, actor
 canned cow;60;Condensed milk, vintage slang
 canned cow juice;60;Condensed milk, vintage slang
 canned food;50
@@ -20078,6 +20085,8 @@ class war;60
 class warfare;60
 class wars;60
 clastic;30;Rocks composed of broken pieces of older rocks
+clathrate;30
+clathrates;30
 Claud;40;Claud Cockburn, British journalist
 Claude;50;Claude Monet, painter, among others
 Claude Code;60
@@ -22915,6 +22924,10 @@ crash lands;50
 crash on;40
 crash out;60;Blow up
 crashouts;60
+crash simulation;50
+crash simulations;50
+crash site;60
+crash sites;60
 crash test;50
 Crassus;40;Marcus Licinius Crassus, richest man in Rome
 Cratchit;50;Bob Cratchit, Scrooge's clerk
@@ -24494,7 +24507,7 @@ Dano;40
 Danone;40;French yogurt giant
 Dan Patch;40;Champion horse in the early 1900s
 dans;30
-Dan Savage;50
+Dan Savage;60
 Danse;40
 danse macabre;60
 Danse Macabre;60
@@ -28864,6 +28877,8 @@ drilled into;40
 drill home;40
 drilling home;40
 drilling into;40
+drilling site;50
+drilling sites;50
 drill instructor;50
 drill instructors;50
 drill into;40
@@ -28871,6 +28886,8 @@ drill press;50
 drill presses;50
 drills home;40
 drills into;40
+drill site;50
+drill sites;50
 drill team;50
 drill teams;50
 drils;20
@@ -29791,6 +29808,11 @@ eardroppers;50
 eared;40
 Earfquake;50;Tyler, the Creator hit
 Earhart;50;Amelia Earhart, lost aviator
+ear hustle;50;Eavesdrop
+Ear Hustle;50;Podcast about prison life
+ear hustled;50;Eavesdropped
+ear hustles;50;Eavesdrops
+ear hustling;50;Eavesdropping
 earing;0
 earings;0
 earlap;30
@@ -32178,6 +32200,7 @@ Erigeron;30;Plant genus
 Erik;50;Common first name
 Erika;40
 Erika Gard;20;Love ya but not crossworthy
+Erik Satie;60
 Erikson;40;Erik Erikson, psychologist / Leif Erikson, explorer
 Erik the Red;60;Norse explorer who founded the first European settlement in Greenland
 Erik Weisz;50;Harry Houdini's real name
@@ -38695,6 +38718,7 @@ gasoline pump;50
 gasoline pumps;50
 gasometer;40;Large natural gas tank for a town
 gasometers;40
+gas out;40
 Gaspar;40
 Gaspard;40;Gaspard Ulliel, French actor / "Gaspard de la nuit," Ravel suite
 Gaspard de la nuit;60;Famously difficult Ravel piano suite
@@ -38712,8 +38736,11 @@ gasps at;40
 gas rate;50
 gas rates;50
 Gass;30;William H. Gass, novelist and essayist
+gassed out;50
 gasser;40
 gassers;40
+gasses out;40
+gassing out;40
 Gassman;40;Director Vittorio Gassman (1922-2000)
 gas spring;30
 gas springs;30
@@ -42146,6 +42173,8 @@ graced with one's presence;50
 Grace Hopper;60;Pioneer of computer programming
 Grace Kelly;60
 Graceland;50;Elvis's Memphis mansion
+grace note;60
+grace notes;60
 graces with one's presence;50
 grace with one's presence;50
 gracias a Diós;40
@@ -70743,6 +70772,10 @@ Norsemen;50;Vikings
 Norsewoman;40;Female Viking
 Norsewomen;40;Viking ladies
 Norsk;40;Norwegian, in Norwegian
+norteña;40
+norteño;40
+norteño music;50
+norteno music;0
 Northampton;50;English town, or a Massachusetts city
 Northamptonshire;50;English county
 Northanger;50;"Northanger Abbey," Jane Austen novel
@@ -70845,7 +70878,7 @@ no siree Bob;60
 no sirree;50
 no sirree Bob;60
 no skips;60
-No Sleep till Brooklyn;50
+No Sleep till Brooklyn;60
 no small feat;60
 no soap;40;"Not gonna happen"
 no soup;20
@@ -75741,10 +75774,10 @@ par two;50;Only in putt putt
 par twos;50
 party animal;60
 party animals;60
-party boat;50
-party boats;50
-party boss;50
-party bosses;50
+party boat;60
+party boats;60
+party boss;60
+party bosses;60
 party bus;50
 party buses;50
 party crasher;60
@@ -78781,7 +78814,7 @@ Pnina;30;Pnina Tornai, bridal gown designer
 Pnina Tornai;40;Israeli wedding dress designer and reality television personality
 Pnom;20
 Pnom Penh;20
-P=NP;40
+P=NP;60
 PNW;30;Pacific Northwest
 Po;40;Italian river
 Poa;30;Bluegrass genus
@@ -80741,18 +80774,23 @@ prov.;40;Province
 Prov.;0
 proved a point;60
 proved one's love;50
+proved out;50
 Provençal;40;Language of southern France (Provençal)
 Provencal;0
 Provence;40;Southern French region
+proven out;50
 prove one's love;50
+prove out;50
 prover;40
 provers;40
 proves a point;60
 proves one's love;50
+proves out;50
 Provigil;40;Medication
 Provincetown;50;Cape Cod resort town
 proving a point;60
 proving one's love;50
+proving out;50
 Provo;50;Home of Brigham Young University
 Provo, UT;30;Provo, UT
 Provo, Utah;50
@@ -82116,6 +82154,7 @@ Raelettes;40;Ray Charles's backup singers
 Raelian;40;Member of a UFO religion
 Raelians;40;UFO religion followers
 Raelism;40;UFO religion
+Rae the Doe;50;Comic strip
 RAF;40
 Rafa;40;Rafa Nadal, tennis great
 Rafael;50;Rafael Nadal, tennis champion / common Spanish name
@@ -93406,6 +93445,7 @@ sleep study;60
 sleep therapy;50
 sleep tight;60
 sleep tight, don't let the bedbugs bite;60
+SleepTite;40;Brand of strips that hold eyelids closed during sleep
 Sleepy's;20
 Sleepytime;50;Celestial Seasonings herbal tea
 sleeveless T's;60
