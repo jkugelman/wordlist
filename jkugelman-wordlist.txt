@@ -1905,6 +1905,7 @@ a fly in the ointment;60
 Afonso;40;Afonso de Albuquerque, Portuguese conquistador
 a fool and his money;60
 afore;30
+A Forest;50;1980 song by The Cure
 Afr.;20
 afraid not;60
 afraid of;40
@@ -25409,6 +25410,7 @@ deep web;60
 deer crossing sign;50
 deer crossing signs;50
 Deere;50;John Deere, tractor maker
+Dee Rees;40
 Deeres;40
 Deerfield;40;Massachusetts town, and its prep school
 Deerhoof;40;Experimental rock band
@@ -45117,6 +45119,8 @@ Hbomberguy;40;YouTube video essayist
 H bombs;30
 HBO Now;40;Replaced by HBO Max, now Max, in 2020
 HBP;20
+H. B. Reese;40;Creator of Reese's Peanut Butter Cups
+H B Reese;0
 HBS;20
 HCH;20
 hciwdnasbulc;0
@@ -83837,6 +83841,7 @@ Reeser;40;Autumn Reeser, "The O.C." actress
 Reese's;50;Peanut butter cup brand
 Reese's Peanut Butter Cup;60
 Reese's Peanut Butter Cups;60
+Reese's Pieces;60
 reetch;20
 reetched;20
 reetches;20
