@@ -77165,6 +77165,8 @@ phasing through;50
 Phasmophobia;50;Fear of ghosts
 phat;40
 PhD;50
+PhD defense;60
+PhD defenses;60
 PhDone;40;Doctorate finished, punnily
 PhDs;50;Doctorates
 PhD track;50
@@ -78446,6 +78448,7 @@ play within a play;60
 play with one's food;60
 Plaza Hotel;60
 Plaza Suite;50
+Plaza Suites;50
 pleach;30;Entwine branches to form a hedge
 pleached;30;Entwined branches to form a hedge
 pleaches;30;Entwines branches to form a hedge
@@ -79117,6 +79120,8 @@ pontoon planes;60
 Pontormo;40;Jacopo Pontormo, Mannerist painter
 Pontypool;40;Welsh town, or the 2008 horror film
 Ponyboy;50;Ponyboy Curtis, "The Outsiders" narrator
+pony glass;60
+pony glasses;60
 Ponyo;40;Studio Ghibli movie
 pony ride;60
 pony rides;60
@@ -90375,7 +90380,8 @@ session beers;60
 session IPA;60
 session IPAs;60
 session musician;60
-Sessue;40;Sessue Hayakawa, "The Bridge on the River Kwai" actor
+Sessue;30;Sessue Hayakawa, "The Bridge on the River Kwai" actor
+Sessue Hayakawa;40;"Bridge on the River Kwai" actor
 sesterce;20;Roman coin
 Sestero;40;Greg Sestero, "The Disaster Artist" author
 sestertius;20;Roman coin
@@ -104778,6 +104784,8 @@ toll-free telephone number;60
 toll-free telephone numbers;60
 tollman;40
 tollmen;40
+toll plaza;60
+toll plazas;60
 tolls on;20
 Tollygunge;40;Kolkata neighborhood
 Tollywood;50;Telugu film industry
@@ -114387,6 +114395,8 @@ Yarborough;50
 Yarbrough;40;Glenn Yarbrough, folk singer
 yardbird;50
 yardbirds;50
+yard glass;60
+yard glasses;60
 Yardie;40;Jamaican
 Yardies;40
 yard sale;60
