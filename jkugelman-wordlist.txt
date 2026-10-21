@@ -44594,6 +44594,7 @@ has on;40
 has one's fill;50
 has one's way;50
 has one too many;60
+has open;40
 has prior knowledge;50
 has prior knowledge of;50
 has room;50
@@ -84661,7 +84662,7 @@ reteaches;30
 reteaching;30
 reteam;20
 reteamed;20
-retear;40
+retear;30
 retell;50
 retelling;50
 retells;50
@@ -84719,7 +84720,7 @@ retoast;30
 re-toast;0
 retold;50
 retook;50
-retore;40
+retore;30
 retoss;30
 retossed;30
 retosses;30
