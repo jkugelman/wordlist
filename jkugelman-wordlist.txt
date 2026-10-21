@@ -15061,6 +15061,7 @@ bumming a ride;50
 bumming a smoke;50
 bumped heads;50
 bumped into;50
+bumped uglies;60
 bumper car;50
 bumper cars;50
 bumper crop;50
@@ -15068,6 +15069,7 @@ bumper crops;50
 bump heads;50
 bumping heads;50
 bumping into;50
+bumping uglies;60
 bump in the road;60
 bump into;50
 bump on a log;60
@@ -15076,6 +15078,8 @@ bumps heads;50
 bumps in the road;60
 bumps into;50
 bumps on a log;60
+bumps uglies;60
+bump uglies;60
 bum rap;60
 bum raps;50;Awkward plural
 bum-rush;60
@@ -22747,6 +22751,7 @@ Coyolxauhqui;40;Aztec moon goddess
 coyote pup;50
 coyote pups;50
 coyote time;60
+Coyote Ugly;60
 coz;20
 cozen;30
 cozenage;30
@@ -57231,7 +57236,9 @@ Langhorne;40;Samuel Langhorne Clemens' middle name
 Langland;40;William Langland, "Piers Plowman" poet
 Langlands;40;Robert Langlands, mathematician of the Langlands program
 Langley;40;Virginia home of the CIA
-Langley, VA;20
+Langley, VA;40
+Langley, Virginia;50
+Langley Virginia;0
 Langlois;40;Henri Langlois, Cinematheque Francaise founder
 Langmuir;40;Irving Langmuir, Nobel chemist
 langouste;40;French lobster
@@ -83262,6 +83269,7 @@ rear area;30
 rear bumper;50
 rear defogger;50
 rear defoggers;50
+reared its ugly head;60
 rearer;30
 rearers;30
 rear exit;50
@@ -83269,6 +83277,8 @@ reargue;40;As in court
 reargued;40
 reargues;40
 rearguing;40
+rearing its ugly head;60
+rear its ugly head;60
 rearousal;40
 rearouse;40
 rearoused;40
@@ -83278,6 +83288,7 @@ rearrest;40
 rearrested;40
 rearresting;40
 rearrests;40
+rears its ugly head;60
 rear-view mirror;50
 rear-view mirrors;50
 rear-wheel drive;60
@@ -89192,6 +89203,8 @@ scrabblefucking;10
 Scrabble tourney;50
 Scrabble tourneys;50
 scrag;30
+scraggly beard;60
+scraggly beards;60
 scrags;30
 Scrambled Eggs Super;60;Dr. Seuss book
 Scranton;50;Pennsylvania city where "The Office" is set
@@ -102503,6 +102516,8 @@ the Golden Hind;40
 The Gold Rush;60;1925 Charlie Chaplin film
 The Good Earth;60;1931 novel by Pearl S. Buck
 the goods;60
+The Good, the Bad and the Ugly;60
+The Good the Bad and the Ugly;0
 the GOP;20
 the Gospels;40
 the grammar police;60
@@ -107690,7 +107705,13 @@ ugli;40
 uglies;50;What one bumps
 Uglies;30;Scott Westerfeld YA novel
 uglily;30;Weird adverb
-ugly as sin;60
+ugly as sin;50
+ugly-ass in;0
+Ugly Betty;60
+ugly cried;60
+ugly cries;60
+ugly cry;60
+ugly crying;60
 UglyDolls;40;Plush toy line and 2019 film
 ugly duckling;60
 ugly mug;50
@@ -113946,7 +113967,7 @@ wrestling meets;60
 Wrexham;40;Welsh town and football club owned by Ryan Reynolds
 Wrigley;50;Chicago ballpark, or the gum company
 Wrigley Field;60
-Wrigley's;40;Gum brand
+Wrigley's;50;Gum brand
 wrinkled one's brow;50
 Wrinkle in Time;50;1962 science fantasy novel by Madeleine L'Engle, with "A"
 wrinkle one's brow;50
