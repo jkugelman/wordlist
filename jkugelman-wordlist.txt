@@ -12384,6 +12384,8 @@ blood plasma;50
 blood pudding;60
 blood puddings;60
 BloodRayne;40;Vampire video game
+bloodroot;60;Flower with red, poisonous sap
+bloodroots;60;Flowers with red, poisonous sap
 blood tie;50
 blood ties;50
 bloodwork;50
