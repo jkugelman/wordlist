@@ -97020,7 +97020,7 @@ stems the tide;60
 stem the tide;60
 stem turn;40;Skiing maneuver
 stem turns;40
-Sten;40;Sten gun, British submachine gun
+Sten;30;Sten gun, British submachine gun
 Stendhal;40;19th century French writer
 Stengel;40;1950s Yankees manager Casey Stengel
 Sten gun;40;WWII submachine gun
@@ -97036,7 +97036,7 @@ stenose;20
 stenosis;30;Spinal cord narrowing
 stenotic;30
 Stenotomus aculeatus;20;Southern porgy fish
-Stens;40;Sten guns, British WWII submachine guns
+Stens;30;Sten guns, British WWII submachine guns
 Stenton;40;Historian Sir Frank Stenton, Philadelphia's Stenton mansion
 stentor;30;Loud speaker
 stentors;30;Loud speakers
