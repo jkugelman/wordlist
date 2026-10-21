@@ -11705,7 +11705,7 @@ biopolymers;50
 Bioré;40;Pore strip brand
 Biore;0
 bioreporter;60;Fluorescent/luminescent cell, easy for researchers to monitor
-bioreporters;60
+bioreporters;60;Fluorescent/luminescent cells, easy for researchers to monitor
 BioShock;50;Video game series
 biota;50
 biotas;40
