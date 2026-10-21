@@ -2336,6 +2336,7 @@ AI agents;60
 AI apocalypse;60
 AI art;60
 AIBO;30
+AI boom;60
 AI chatbot;60
 AI chatbots;60
 aid;50
@@ -11270,7 +11271,7 @@ B. F. Skinner;60;Psychologist and social philosopher (1904–1990)
 B F Skinner;0
 B-girl;40
 B-girls;40
-B-grade;40
+B-grade;50
 Bh;20
 BHA;20
 Bhabha;40;Homi Bhabha, father of India's nuclear program
@@ -27813,6 +27814,7 @@ do loop;20
 do loops;20
 dolor;30
 Dolores;50;Woman's name / Dolores Huerta, labor leader
+Dolores Claiborne;60
 dolors;20
 Dolph;40;Dolph Lundgren, "Rocky IV" actor
 dolphin calf;50
@@ -33127,6 +33129,7 @@ evened a score;50
 evened the score;60
 evened up the score;50
 evener;40;Correct, but rarely used
+eveners;40
 evenest;40;Correct, but rarely used
 evenfall;50;Dusk, literarily
 even I know that;60
@@ -60108,6 +60111,7 @@ Li-Young;40
 Liz;50
 Liza;50;Liza Minnelli, "Cabaret" star
 lizard's leg;60;Witches' brew ingredient in Macbeth
+Liz Claiborne;60
 Lizzie;50;Common nickname, or Lizzie Borden
 Lizzo;50;"Truth Hurts" singer
 Lizzy;50;Thin Lizzy, or Lizzy Caplan, actress
@@ -71621,7 +71625,7 @@ Nur-Sultan Kazakhstan;50;Capital of Kazakhstan
 nurturant;40
 nurture a belief;20
 nurture an idea;20
-Nuru;40;Japanese massage style
+Nuru;30;Japanese massage style
 Nuruddin;40;Nuruddin Farah, Somali novelist
 nus;30;Plural letter nu
 Nusantara;40;Indonesia's new capital
@@ -87855,8 +87859,10 @@ sale days;50
 Saleh;20;Jets head coach, singer/actor Dua
 Salem;50;Massachusetts witch-trial town, or Oregon's capital
 Salem, OR;20
-'Salem's;50;Cigarettes
+Salems;50;Cigarettes
+'Salem's;40;'Salem's Lot
 'Salem's Lot;60
+Salem's Lot;0
 Salem witch trial;60
 Salem witch trials;60
 Salerno;40;Italian city
