@@ -13869,6 +13869,8 @@ Brasiliense;40;Of Brasília
 Brassai;40;Brassaï, Hungarian-French night photographer
 brassard;40;Decorative armband
 brassards;40
+brass bar;50
+brass bars;50
 brassed;40
 Brass Era;50;Early period of automotive manufacturing (1896-1915)
 brasserie;40;French restaurant with a relaxed setting
@@ -115167,6 +115169,8 @@ you didn't say the magic word;60
 you died;60
 you dig?;60
 you dirty rat;60
+you do, do you?;50
+you do do you;0
 you don't have to tell me twice;60
 you don't know how it feels;60
 You Don't Know Jack;60
