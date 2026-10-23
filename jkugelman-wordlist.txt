@@ -28662,6 +28662,7 @@ dramedy;60
 Drang;40;Sturm und Drang
 drank from a firehose;60
 drank from the firehose;60
+drank it in;60
 drank the Kool-Aid;60
 drank to;40
 Drano;50;Drain cleaner
@@ -28929,13 +28930,16 @@ drink from a firehose;60
 drink from the firehose;60
 drinking from a firehose;60
 drinking from the firehose;60
+drinking it in;60
 drinking the Kool-Aid;60
 drinking to;40
+drink it in;60
 drink responsibly;60
 drinks are on me;60
 drinks are on the house;60
 drinks from a firehose;60
 drinks from the firehose;60
+drinks it in;60
 drinks the Kool-Aid;60
 drinks to;40
 drink the Kool-Aid;60
@@ -34039,7 +34043,7 @@ fake book;60
 faked one's own death;50
 fake entries;50
 fake entry;50
-fake it until you make it;50
+fake it until you make it;60
 fake meat;50
 fake meats;50
 Fakemon;40;Fan-invented Pokemon
@@ -99927,6 +99931,7 @@ take it all in;60
 take it easy;60
 take it easy on me;60
 take it in;50
+take it in stride;60
 take it slow;50
 take it to;0
 take it to the grave;60
@@ -100048,6 +100053,7 @@ takes in;40
 takes in vain;50
 takes it all in;60
 takes it in;50
+takes it in stride;60
 takes it to the grave;60
 takes liberties;50
 takes matters into one's own hands;50
@@ -100179,6 +100185,7 @@ taking heat from;50
 taking in vain;50
 taking it all in;60
 taking it in;50
+taking it in stride;60
 taking it to the grave;60
 taking liberties;50
 taking matters into one's own hands;50
@@ -105239,6 +105246,7 @@ took in vain;50
 took it all in;60
 took it easy;60
 took it in;50
+took it in stride;60
 took it to the grave;60
 took liberties;50
 took matters into one's own hands;50
