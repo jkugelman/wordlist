@@ -7499,6 +7499,7 @@ at that point in time;50
 at that stage;50
 at that time;50
 at the ass crack of dawn;60
+at the back of one's mind;60
 at the bat;30;Awkward
 at the bottom;40
 at the bottom of;40
@@ -7516,6 +7517,7 @@ at the peak of perfection;60
 at the seams;50
 at the top of one's lungs;50
 at the top of one's voice;50
+at the very outside;50
 at this rate;50
 Attiah;40;Karen Attiah, Washington Post columnist
 Attica;50;New York prison, or the Greek region
@@ -8361,10 +8363,16 @@ back into a corner;60
 back issues;50
 back it up;60
 Backman;40;Fredrik Backman, "A Man Called Ove" author
+back of;20
+back off, buster;60
+back office;50
+back offices;50
+back of the bus;60
 back-of-the-envelope;60
 back-of-the-envelope calculation;60
 back-of-the-envelope calculations;60
 back of the line;60
+back of the neck;50
 back on the horse;60
 back pocket;50
 back rent;50
@@ -48326,6 +48334,7 @@ Humvees;50;Military transports
 Hun;50
 Hunan;40;Chinese province known for spicy cuisine
 Hunanese;40;From Hunan province
+Hunchback of Notre-Dame;60
 Hunches in Bunches;60;Dr. Seuss book
 hundereddollar;0
 hundo P;40;100%, slangily
@@ -53514,6 +53523,7 @@ Jhonny;30;Jhonny Peralta, MLB infielder
 Jhumpa;40;Jhumpa Lahiri, Pulitzer winner for "Interpreter of Maladies" (1999)
 Jia;30
 Jiabao;40;Wen Jiabao, premier of China 2003-2013
+Jiamin;20
 Jiang;40;Jiang Zemin, Chinese leader / Jiang Wen, actor-director
 Jiangmen;40;Chinese city in Guangdong
 Jiangsu;40;Chinese province
@@ -56062,6 +56072,7 @@ knelt on;40
 Knesset;40;Israel's legislature
 knew as;40
 knew it by heart;60
+knew like the back of one's hand;60
 knew of;40
 knew one's onions;50
 knew one's own mind;50
@@ -56142,6 +56153,7 @@ knower;40
 knowers;40
 knowing as;40
 knowing it by heart;60
+knowing like the back of one's hand;60
 knowing of;40
 knowing one's onions;50
 knowing one's own mind;50
@@ -56153,6 +56165,7 @@ knowing too much;60
 know it by heart;60
 knowledge is power;60
 Knowles;40;Beyoncé Knowles, singer
+know like the back of one's hand;60
 known as;50
 know-nothing;60
 know of;40
@@ -56163,6 +56176,7 @@ know one's stuff;50
 know one's way around;50
 knows as;40
 knows it by heart;60
+knows like the back of one's hand;60
 knows of;40
 knows one's onions;50
 knows one's own mind;50
@@ -61411,6 +61425,7 @@ Luiseno;0
 Luiseños;30;Indigenous people of southern California
 Luisenos;0
 Luiz;40
+Lü Jiamin;30;Chinese writer
 Luka;40;Luka Dončić, NBA star / the Suzanne Vega song
 Lukacs;40;György Lukács, Marxist philosopher
 Luka Dončić;50;NBA star player (2018-present)
@@ -73359,6 +73374,7 @@ one way flights;60
 onewayyaweno;0
 one who finishes second;0
 One Wish Willow;60;Central prop in "Obsession" (2026)
+one with everything;60
 one-woman;30
 one-wood;30;Nobody says this
 one-woods;30;Nobody says this
@@ -102638,6 +102654,7 @@ The Hound of the Baskervilles;60;Sherlock Holmes novel
 The House of Ghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
 The House of the Rising Sun;60
 The Hub;20
+The Hunchback of Notre-Dame;60
 The Hunger Games;60
 The Hunger Games: Catching Fire;60
 The Hunger Games: Mockingjay;60
@@ -103420,6 +103437,7 @@ The Vatican;0
 the Vegas Strip;40
 The Venetian;50
 the very best thing of all;60
+the very image of;60
 the Vet;20;Old Phillies ballpark
 the VMAs;40
 the Volga;20
@@ -113511,7 +113529,8 @@ withering away;50
 withers away;50
 Witherspoon;50;Reese Witherspoon, actress
 withes;20
-with every fiber of one's being;50
+With Every Beat of My Heart;50;1989 single by Taylor Dayne
+with every fiber of one's being;60
 with every fibre of one's being;50
 withies;30;Plural withy
 within driving distance;50
@@ -115426,6 +115445,9 @@ you think so;60
 you think this is a game;60
 you think you'd remember?;60
 you think you're better than me;60
+you took the words out of my mouth;60
+you took the words right out of my mouth;60
+You Took the Words Right Out of My Mouth;50;1977 single by Meat Loaf
 you totally read my mind;60
 you try;50
 YouTube;50;Video-sharing giant
@@ -115775,6 +115797,7 @@ ze hir;0
 ze/hir pronouns;60
 ze hir pronouns;0
 Zeinabu;40;Zeinabu irene Davis, filmmaker
+Zeiss;20
 Zeke;40;Nickname for Ezekiel
 Zelazny;40;Roger Zelazny, "Chronicles of Amber" author
 Zelda;50;"The Legend of Zelda" princess
