@@ -83203,6 +83203,8 @@ README file;60
 README files;60
 READMEs;50;Repository intro files
 read my lips;60
+read my lips: no new taxes;60
+read my lips no new taxes;0
 read on;40
 readopt;40
 readopted;40
@@ -107648,7 +107650,8 @@ Tyr;40;Norse god of war Týr, namesake of Tuesday
 Tyra;50;Tyra Banks, supermodel and "America's Next Top Model" host
 Tyrannosaurus;60;Rex, notably
 Tyrannosauruses;50;Big-toothed dinosaurs
-Tyre;40
+tyre;40
+Tyre;20
 Tyreek;40;Tyreek Hill, NFL receiver
 Tyreek Hill;40;NFL receiver
 Tyreke;30;Tyreke Evans, 2010 NBA Rookie of the Year, not great career after that though
