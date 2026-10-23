@@ -97722,6 +97722,8 @@ Storch;20
 store ad;40;Green paint
 store ads;40;Green paint
 stored in;40
+store display;50
+store displays;50
 store in;40
 storer;40
 storers;40
