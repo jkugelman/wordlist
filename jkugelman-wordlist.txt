@@ -3473,6 +3473,7 @@ along for the ride;60
 along the line;50
 along those lines;50
 a long time ago in a galaxy far far away;60
+a long ways off;60
 Alonso;40;"The Tempest" king, or F1 racer Fernando Alonso
 Alonzo;40;Alonzo Mourning, NBA center / Alonzo Church, logician
 aloo;40
@@ -16513,6 +16514,7 @@ Canterbury;50;English cathedral city of the Tales
 Canterville;40;"The ___ Ghost," Oscar Wilde story
 can't go on;50
 can't hang;60
+can't have it both ways;60
 can't help you there;60
 can't hold a candle to;60
 can't I?;50
@@ -18373,6 +18375,7 @@ changed key;60
 changed keys;60
 changed one's mind;50
 changed one's tune;50
+changed one's ways;60
 changed the channel;60
 changed to;40
 change key;60
@@ -18382,6 +18385,7 @@ change of perspective;50
 change of state;50
 change one's mind;50
 change one's tune;50
+change one's ways;60
 changer;40
 changers;40
 changesare;0
@@ -18395,6 +18399,7 @@ changes of state;50
 Changesonebowie;40;"ChangesOneBowie," David Bowie compilation
 changes one's mind;50
 changes one's tune;50
+changes one's ways;60
 changes the channel;60
 changes to;40
 change the channel;60
@@ -18406,6 +18411,7 @@ changing key;60
 changing keys;60
 changing one's mind;50
 changing one's tune;50
+changing one's ways;60
 changing the channel;60
 changing to;40
 chango;40;Presto chango
@@ -22517,6 +22523,7 @@ could I get a hand?;60
 could I get a hand here?;60
 could it be true?;60
 couldn't hang;60
+couldn't have it both ways;60
 couldn't hold a candle to;60
 couldn't keep a secret;60
 couldn't stick around;50
@@ -40792,6 +40799,7 @@ go all out;50
 goal net;40
 goal nets;40
 goal of the century;60;Maradona goal
+go a long ways;60
 goaltend;60
 goaltended;60
 goaltender;60
@@ -40939,6 +40947,7 @@ goes about one's business;50
 goes about one's day;50
 goes all in;50
 goes all out;50
+goes a long ways;60
 goes antiquing;60
 goes ape;50
 goes ape over;50
@@ -41128,6 +41137,7 @@ going about one's business;50
 going about one's day;50
 going all in;50
 going all out;50
+going a long ways;60
 going antiquing;60
 going ape;50
 Going Ape!;50;1981 Tony Danza / Danny DeVito comedy film
@@ -41226,11 +41236,13 @@ going public;50
 going rogue;60
 going round in circles;60
 going scuba diving;50
+going separate ways;60
 going sideways;60
 going soft;50
 going solo;50
 going sour;50
 going stag;50
+going their separate ways;60
 going through some stuff;60
 going to;40
 going to and fro;50
@@ -41537,7 +41549,9 @@ Goneril;40;"King Lear" daughter
 gonerilandregan;0
 gone rogue;60
 gone senile;50
+gone separate ways;60
 gone soft;50
+gone their separate ways;60
 gone to bat for;60
 gone to grass;60
 gone to lunch;50
@@ -41865,6 +41879,7 @@ gose;30;German beer
 go see;50
 go-see;40
 go-sees;40
+go separate ways;60
 goses;30;German beers
 Gosford;40;"Gosford Park", Robert Altman film
 goshawk;30;Bird
@@ -41955,6 +41970,7 @@ Gothamites;60;New Yorkers
 Gothard;20
 goth band;50
 goth bands;50
+go their separate ways;60
 Gothenburg;50;Sweden's second-largest city
 goth girl;60
 goth girls;60
@@ -43766,6 +43782,7 @@ had ideas;50
 had in;40
 had it;40
 had it bad;60
+had it both ways;60
 had it good;60
 had it in for;50
 had it made;60
@@ -44730,6 +44747,7 @@ Hasidism;50;Orthodox Jewish movement
 has in;40
 has it;40
 has it bad;60
+has it both ways;60
 has it good;60
 has it in for;50
 has it made;60
@@ -44956,7 +44974,7 @@ have ideas;50
 have I taught you nothing?;60
 have I taught you nothing;0
 have it bad;60
-have it both ways;50
+have it both ways;60
 have it good;60
 have it in for;50
 have it made;60
@@ -45051,6 +45069,7 @@ having game;50
 having heart;40
 having ideas;50
 having it bad;60
+having it both ways;60
 having it good;60
 having it in for;50
 having it made;60
@@ -52603,6 +52622,7 @@ I've got your number;60
 I've had it;60
 I've had it up to here;60
 I've had it with you;60
+I've heard it both ways;60
 I've never tried it;60
 I've no idea;60
 I've only just begun;60
@@ -58902,6 +58922,7 @@ let live;50
 let me ask you something;60
 let me ask you this;60
 let me check;50
+let me count the ways;60
 Let Me Down;50;2018 single by Jorja Smith featuring Stormzy
 let me finish;60
 let me give it a go;60
@@ -111786,6 +111807,7 @@ went about one's business;50
 went about one's day;50
 went all in;50
 went all out;50
+went a long ways;60
 went antiquing;60
 went ape;50
 went ape over;50
@@ -111884,11 +111906,13 @@ went public;50
 went rogue;60
 went round in circles;60
 went scuba diving;50
+went separate ways;60
 went sideways;60
 went soft;50
 went solo;50
 went sour;50
 went stag;50
+went their separate ways;60
 went to;40
 went to and fro;50
 went to bat for;60
