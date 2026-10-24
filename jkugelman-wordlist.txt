@@ -101069,6 +101069,7 @@ teach-in;40
 teaching fellowship;50
 teaching fellowships;50
 teach-ins;40
+teach me your ways;60
 Teachout;40;Zephyr Teachout, law professor / Terry Teachout, critic
 tea-colored;40;Green painty
 tea cozies;60
