@@ -2213,6 +2213,7 @@ a good cause;50
 a good egg;40
 a good scare;50
 a good time;40
+a good ways off;60
 agora;40;Ancient Greek market
 agoras;40
 agouti;20;Rodent
@@ -3721,9 +3722,14 @@ Alvin Bragg;50;Trump prosecutor
 Alvins;30;Plural name
 Alvvays;40;Canadian indie band
 Alvy;40;Woody in "Annie Hall"
+always and forever;50
+always and forever yours;50
+always be closing;60
 always has been;60
 always on;60
+Always Remember;50
 Always Remember Us This Way;60;2018 Lady Gaga song from "A Star is Born"
+Always Something There to Remind Me;60
 Always Was, Always Will Be;50;Australian slogan for Aboriginal rights
 Always Was, Always Will Be Aboriginal Land;50
 Always Will Be;50;Australian slogan for Aboriginal rights
@@ -7976,6 +7982,7 @@ a well-regulated militia;60
 Awesome Blossom;60
 Awesome Games Done Quick;60
 awesomesauce;60
+awful good;60
 awful truth;60
 aw, go on;50
 aw hell;60
@@ -30378,6 +30385,7 @@ edible arrangement;60
 edible arrangements;60
 edictal;30
 Edie;40
+edifice complex;60;Practice of publicly funded construction projects as propaganda, coined about Imelda Marcos
 Edi Gathegi;40;Kenyan-American actor (born 1979)
 Edina;30;Minneapolis suburb, or Edina Monsoon of "Absolutely Fabulous"
 Edina, Minnesota;40;Minneapolis suburb
@@ -34159,9 +34167,13 @@ false confessions;60
 false equivalence;50
 false equivalency;50
 false flag;60
+false flag operation;60
+false flag operations;60
 false flags;60
 false friend;60
 false friends;60
+false front;60
+false fronts;60
 false god;60
 false gods;60
 false move;50
@@ -52263,6 +52275,8 @@ it's all you;60
 it's a losing battle;60
 it's a lot to take in;60
 it's a lot to unpack;60
+it's always something;60
+it's always something with you;60
 It's Always Sunny in Philadelphia;60
 it's a matter of public record;60
 it's a matter of time;60
@@ -58332,6 +58346,7 @@ lechery;10
 leches;40
 lechs;10
 Leckie;40;Ann Leckie, author of "Ancillary Justice"
+LeClair;40
 Leclerc;30
 Leconte;30;French poet Leconte de Lisle
 Le Coq Sportif;50;French sportswear brand
@@ -58845,6 +58860,7 @@ Lesters;30;Plural name
 Lester Willis Young;40;Jazz saxophonist (1909–1959)
 Lestoil;40;Clorox cleaner
 Lestrade;40;Inspector Lestrade, Sherlock Holmes's Scotland Yard foil
+L'Estrange;50
 Les Troyens;50
 lest we;20
 LeSueur;40;Lucille LeSueur, Joan Crawford's birth name
@@ -60348,6 +60364,7 @@ Loco Beach Coconuts;60;Banana Ball team
 Locofoco;40;19th-century Democratic faction
 Locofocos;40;Radical 1830s Democratic faction
 locoism;30;Locoweed poisoning
+loculus;30
 locum;20;Replacement cleric or doctor: Br.
 locums;20;Replacement clerics or doctors: Br.
 locus of control;60
@@ -60781,6 +60798,7 @@ Loretta;40;Loretta Lynn, country singer
 Lorettas;30;Plural name
 Lori;40
 lorica;20;Roman leather armor
+Lorient;40
 lories;20;Parrots
 Lorimar;20;One-time TV studio
 loris;40;Sri Lankan primate
@@ -61257,7 +61275,14 @@ Lr;30;Lawrencium symbol
 LRG;20
 Ls;40;Plural of a letter
 LSAT;40
+LSAT prep;50
+LSAT prep book;60
+LSAT prep books;60
+LSAT prep class;60
+LSAT prep classes;60
 LSATs;40
+LSAT score;60
+LSAT scores;60
 LSD;50
 LSD tab;60
 LSD tabs;60
@@ -81964,8 +81989,10 @@ Quiplash;40;Jackbox party game
 quipu;20;Andean recording device
 quipus;20
 quire;30;Four sheets of paper, a twentieth of a ream
+quired;30
 quires;30
 Quirinal;40;Roman hill and Italian presidential palace
+quiring;30
 quirt;20;Whip with a braided leather lash
 quirts;20;Whips with a braided leather lash
 quis custodiet ipsos custodes?;60;"Who will watch the watchmen?" (Juvenal)
@@ -87947,6 +87974,7 @@ Sallys;30
 Salma;40;Salma Hayek, actress
 Salman;40;Salman Rushdie, "Midnight's Children" author / King Salman of Saudi Arabia
 salmis;30
+Salmond;40
 salmon oil;50
 salmon roll;60
 salmon rolls;60
@@ -89427,6 +89455,10 @@ scurrility;40
 scurrilous;50
 scurrilously;50
 scurrilousness;50
+S curve;40
+S-curve;40
+S curves;40
+S-curves;40
 'scuse;50
 scutum;40;Roman legionary's shield, constellation
 Scylla;50;Sea monster opposite Charybdis
@@ -91375,6 +91407,8 @@ Sherlocks;50
 Sherman;50;William Tecumseh Sherman, Union general / Cindy Sherman, photographer
 Shermanesque;50;Flatly refusing to run, like General Sherman
 Sherman's;40;Sherman's March to the Sea
+shero;30
+sheroes;30
 Sherpa;50;Himalayan guide
 Sherpas;50;Himalayan guides
 Sherri;40
@@ -96032,6 +96066,7 @@ spr.;20
 Sprachgefuhl;50;Sprachgefühl, an intuitive feel for a language
 sprag;30;Chock of wood
 sprags;30
+Sprague;40
 sprang a leak;50
 sprang for;40
 Spratly;40;Spratly Islands, disputed South China Sea chain
@@ -101747,6 +101782,8 @@ test kit;50
 test kits;50
 test pilot;60
 test pilots;60
+test range;50
+test ranges;50
 tests for;40
 Tết;40;Vietnamese New Year celebration
 Tet;0
@@ -103137,6 +103174,8 @@ Theresa;50;Theresa May, UK prime minister / common first name
 there's a lot to unpack;60
 there's a lot to unpack there;60
 there's always something;60
+(There's) Always Something There to Remind Me;60
+There's Always Something There to Remind Me;0
 there's a thought;60
 There's a Wocket in My Pocket;60;Dr. Seuss book
 Therese;40;Saint Thérèse of Lisieux
@@ -105944,6 +105983,8 @@ trail runs;60
 trails off;50
 train conductor;50
 train conductors;50
+train delay;50
+train delays;50
 trained for;40
 train for;40
 training for;40
