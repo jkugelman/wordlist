@@ -93071,6 +93071,8 @@ sixty-seven;40
 sixty-six;40
 sixty-three;40
 sixty-two;40
+six ways from Sunday;60
+six ways to Sunday;60
 Sixx;40;Nikki Sixx, Motley Crue bassist
 sixyear;0
 size eight;30
@@ -115501,6 +115503,7 @@ you should get out more;60
 you should say something;60
 you should see your face;60
 you should see your faces;60
+you silly ass;60;Tinkerbell's frequent insult
 you snooze, you lose;60
 you snooze you lose;0
 Youssef;40;Ramy Youssef, comedian
