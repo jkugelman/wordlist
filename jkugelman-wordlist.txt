@@ -2336,6 +2336,8 @@ AI agent;60
 AI agents;60
 AI apocalypse;60
 AI art;60
+AI assistant;60
+AI assistants;60
 AIBO;30
 AI boom;60
 AI chatbot;60
@@ -50226,6 +50228,7 @@ in all fairness;60
 in all likelihood;60
 in all seriousness;60
 in a mess;50
+in an instant;60
 inanition;30;Exhaustion
 Inanna;20;Sumerian goddess
 in another life;50
@@ -50971,8 +50974,8 @@ instant replay;60
 instant replays;60
 Instant Road;60;Acme invention
 instant soup;50
-instant tan;50
-instant tans;50
+instant tan;60
+instant tans;60
 Instapoem;40;Verse posted on Instagram
 Instapoems;40;Verses published on Instagram
 Instapoet;40;Rupi Kaur, e.g.
@@ -96039,6 +96042,8 @@ sports drinks;60
 sports hero;60
 sports heroes;60
 Sports Illustrated;60
+sports lotteries;60
+sports lottery;50
 sportsman;60
 sportsmanlike;60
 sportsmanship;60
@@ -98421,6 +98426,8 @@ stye;50
 styes;50
 stylar;20;Pen-shaped
 styler;30;Awkward -er
+style reporter;60
+style reporters;60
 stylers;30
 stylet;40;Surgical probe, or engraving instrument, or animal part
 style tip;60
@@ -111291,7 +111298,9 @@ Wayne Gretzky;60
 Wayne Rooney;40;English soccer manager
 Wayne's;40;"Wayne's World"
 Wayne's World;60
+way of the world;60
 Way of Water;60;Avatar 2, with "the"
+ways of the world;60
 Wayson;40;Wayson Choy, Canadian novelist
 Wayson Choy;40;Asian-Canadian LGBT novelist (1939–2019)
 Waystar;40;Waystar RoyCo, "Succession" conglomerate
@@ -111586,6 +111595,7 @@ we got it made;60
 Wegovy;60;Weight loss drug
 we have a right to know;60
 we have food at home;60
+we have ways of making you talk;60
 Wei;20
 Weibo;40;Chinese social media site
 weighed in on;40
