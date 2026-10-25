@@ -4354,6 +4354,14 @@ Anberlin;40;Florida rock band
 Anbesol;30;Pain relief brand
 ANC;30;Mandela's org.
 ancestor worship;60
+ancestral hall;60
+ancestral halls;60
+ancestral home;60
+ancestral homes;60
+ancestral line;50
+ancestral lines;50
+ancestral rite;50
+ancestral rites;50
 Anchee;40;Anchee Min, "Red Azalea" author
 Anchises;40;Father of Aeneas
 ancho chile;50
@@ -5510,6 +5518,8 @@ Apple Vision Pro;60;Apple mixed-reality headset
 Apple Watch;60
 Apple Watches;60
 appliance for grinding garbage;0
+appliance store;50
+appliance stores;50
 applicable laws;60
 applied for;40
 applied research;50
@@ -24459,17 +24469,26 @@ Danaus;40;Monarch butterfly genus, or the Greek myth king
 Danbury;40;Connecticut city
 Dan Castellaneta;60
 Dance, Dance, Dance (Yowsah, Yowsah, Yowsah);40;1977 single by Chic
+danced the night away;60
+danced to;40
+danced to a different tune;60
 danced to the music;50
 danced up a storm;60
 Dance Monkey;60
 dance, monkey, dance;60
 Dancer in the Dark;50;Movie
 dancer pose;50
+dances the night away;60
+dances to;40
+dances to a different tune;60
 dances to the music;50
 dances up a storm;60
 dance team;50
 dance teams;50
 dancethe;0
+dance the night away;60
+dance to;40
+dance to a different tune;60
 Dance to the Music;50
 dance up a storm;60
 Dance with Dragons;60;A Song of Ice and Fire book #5, with "A"
@@ -24479,6 +24498,9 @@ dancing around;50
 dancing fountain;60;Animated fountain for entertainment purposes
 dancing fountains;60;Animated fountains for entertainment purposes
 Dancing Queen;60
+dancing the night away;60
+dancing to;40
+dancing to a different tune;60
 dancing to the music;50
 dancing up a storm;60
 Dancy;30
@@ -62459,6 +62481,7 @@ mainstream;60
 main street;60
 Main Street;60
 maintainability;50
+maintenance staff;50
 Mainwaring;40;George Mainwaring, "Dad's Army" captain
 Mainz;40;German city on the Rhine, Gutenberg's home
 maiolica;40;Tin-glazed pottery
@@ -99160,6 +99183,8 @@ surströmming;60;Fermented herring, one of the most putrid smells in the world
 surtitle;30
 surtitles;30
 Surtsey;50;Icelandic island born of a 1963 eruption
+surveillance state;60
+surveillance states;60
 SurveyMonkey;60
 survival tactic;60
 survival tactics;60
@@ -106430,6 +106455,8 @@ Trib;40;Newspaper nickname
 tribadic;10
 tribadism;10
 tribadistic;10
+tribal ancestor;60
+tribal ancestors;60
 tribal law;50
 Tribbiani;40;Joey Tribbiani, "Friends" character
 Tribble;40;"Star Trek" fuzzball
