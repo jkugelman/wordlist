@@ -30856,6 +30856,7 @@ eku;20
 Ekwensi;40;Cyprian Ekwensi, Nigerian novelist
 el;40
 ela;20
+El Aaiún, Sahrawi Arab Democratic Republic;50
 elaborated on;40
 elaborated upon;40
 elaborate on;40
@@ -54407,6 +54408,8 @@ just spit it out;60
 just take it easy;60
 just the thing;60
 just the tip of the iceberg;60
+just this once;60
+just this one time;60
 just thought I'd ask;60
 just try me;60
 Justus;40;Justus von Liebig, chemist
@@ -81017,11 +81020,13 @@ psst, are you sleeping?;60
 PST;40
 PSU;20
 Psy;40;"Gangnam Style" singer
+psyched out;60
 psych evaluation;60
 psych evaluations;60
 psychiatrist;50
 psychiatrists;50
 psychical;40
+psyching out;60
 Psycho;50;Hitchcock thriller
 psychoactive drug;60
 psychoactive drugs;60
@@ -81034,7 +81039,9 @@ psychometrician;50
 psychometricians;50
 psychometrics;50
 psychometry;50
+psych out;60
 psychs;50
+psychs out;60
 Psyduck;50;Pokeyman
 psyop;50
 psyops;50
@@ -84635,6 +84642,7 @@ reseam;30
 reseamed;30
 reseaming;30
 reseams;30
+research and development;60
 research center;50
 research centers;50
 research centre;20
@@ -87807,6 +87815,7 @@ Sahl;40;Comedian Mort Sahl
 SAHM;30
 Sahni;30;Indian actor Balraj Sahni, author Bhisham Sahni
 Sahrawi;40;People of Western Sahara
+Sahrawi Arab Democratic Republic;50;Partially recognised state in North Africa
 Sahrawis;40;Western Sahara people
 sai;30;Weapon
 said aloud;50
@@ -88287,6 +88296,8 @@ sand wedge;50
 sand wedges;50
 sandwich artist;60
 sandwich artists;60
+sandwich counter;50
+sandwich counters;50
 sandworm;60
 sandworms;60
 Sandymount;40;Dublin strand in "Ulysses"
@@ -89069,6 +89080,8 @@ Schlick;40;Moritz Schlick, Vienna Circle philosopher
 Schliemann;50;Heinrich Schliemann, excavator of Troy
 Schlitz;50;Beer that made Milwaukee famous
 schlock;60
+schlockumentaries;60
+schlockumentary;60
 schlocky;60
 Schmidt;50;Helmut Schmidt, German chancellor / Kimmy Schmidt, sitcom heroine
 Schmigadoon;50;Apple TV+ musical series
@@ -90129,6 +90142,8 @@ self-absorption;50
 self-abuse;40
 self-aware;60
 self-awareness;60
+self-checkout lane;60
+self-checkout lanes;60
 self-deprecating;60
 self-doubt;60
 self-driving;60
@@ -90782,6 +90797,10 @@ sevencs;0
 seven dirty words;60
 Sevendust;50;Rock band
 Seveneves;40;Neal Stephenson novel
+seven-hundred forty;20
+seven-hundred forty-five;20
+seven-hundred forty-nine;20
+seven-hundred fourteen;20
 seven iron;50
 seven irons;50
 seven-layer dip;60
@@ -93032,6 +93051,10 @@ Sixers;40;Philadelphia NBA team
 sixes and sevens;60
 six geese a-laying;60
 six-gun;30
+six-hundred forty;20
+six-hundred forty-five;20
+six-hundred forty-nine;20
+six-hundred fourteen;20
 six iron;50
 six irons;50
 six-letter word;50
@@ -99657,6 +99680,7 @@ Syms;30;British actress Sylvia Syms (1934-2023)
 syn.;40
 synchro;40
 synchronal;40
+synchronicity;50
 Synchronicity II;60
 syndic;20
 syndical;30
@@ -114987,6 +115011,7 @@ yes, babe;50
 yes, boss;60
 yes boss;0
 yes chef;60
+yes, I have a point;60
 yes I see;50
 yes I think so;50
 yes I won;40
