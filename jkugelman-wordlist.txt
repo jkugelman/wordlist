@@ -84847,6 +84847,8 @@ restaining;20
 restains;20
 rest and relaxation;60
 Restaurant at the End of the Universe;60
+restaurant review;60
+restaurant reviews;60
 restaurant week;50
 rest day;60
 rest days;60
@@ -85153,6 +85155,7 @@ review bombed;60
 review bombing;60
 review bombs;60
 review process;50
+review something intensely;20
 reviler;30
 revilers;30
 Revill;30;Clive Revill, New Zealand character actor
@@ -89864,6 +89867,8 @@ security flaws;50
 security leak;50
 security leaks;50
 security line do not cross;50
+security review;50
+security reviews;50
 security smoke;60
 security theater;60
 sed;20
@@ -99996,6 +100001,8 @@ take action;50
 take a cue;40
 take a cue from;50
 take a cut;50
+take a dim view;50
+take a dim view of;50
 take a dip;60
 take a dirt nap;60
 take a dislike to;50
@@ -100055,6 +100062,7 @@ take him away boys;60
 take home income;60
 Takei;40;"Star Trek" actor George Takei
 take in;40
+take in the view;60
 take in vain;50
 take it all in;60
 take it easy;60
@@ -100127,6 +100135,7 @@ takes action;50
 takes a cue;40
 takes a cue from;50
 takes a cut;50
+takes a dim view;50
 takes a dip;60
 takes a dirt nap;60
 takes a dislike to;50
@@ -100179,6 +100188,7 @@ takesie backsies;60
 takesies backsies;60
 take sign;50
 takes in;40
+takes in the view;60
 takes in vain;50
 takes it all in;60
 takes it in;50
@@ -100267,6 +100277,7 @@ taking action;50
 taking a cue;40
 taking a cue from;50
 taking a cut;50
+taking a dim view;50
 taking a dip;60
 taking a dirt nap;60
 taking a dislike to;50
@@ -100311,6 +100322,7 @@ taking for gospel;60
 taking for granted;60
 taking from;40
 taking heat from;50
+taking in the view;60
 taking in vain;50
 taking it all in;60
 taking it in;50
@@ -105331,6 +105343,7 @@ took action;50
 took a cue;40
 took a cue from;50
 took a cut;50
+took a dim view;50
 took a dip;60
 took a dirt nap;60
 took a dislike to;50
@@ -105377,6 +105390,7 @@ took for granted;60
 took from;40
 took heat from;50
 took in;40
+took in the view;60
 took in vain;50
 took it all in;60
 took it easy;60
@@ -109957,15 +109971,27 @@ Vietnam vets;60
 view as;40
 viewbot;60
 viewbots;60
+viewbotted;50
 viewbotter;60
 viewbotters;60
 viewbotting;60
+view count;60
+view counts;60
 viewdata;20
 viewed as;40
+viewed with alarm;60
+viewed with horror;60
 viewers like you;60
 viewing as;40
+viewing with alarm;60
+viewing with horror;60
 views as;40
+views with alarm;60
+views with horror;60
 Viewtiful;40;"Viewtiful Joe" video game
+Viewtiful Joe;40
+view with alarm;60
+view with horror;60
 vig;40;Charge taken on bets, as by a bookie or gambling establishment.
 Vig;40
 Vigée;40;Elisabeth Vigee Le Brun, French portraitist
@@ -111615,6 +111641,7 @@ week-at-a-glance calendars;60
 weekend escape;60
 weekend escapes;60
 Weekend Update;60
+week in review;60
 weekly allowance;50
 Weeknd;60;The Weeknd, singer-songwriter and 2021 Super Bowl halftime show
 wee lad;50
@@ -114999,6 +115026,10 @@ Yelper;40;Yelp reviewer
 Yelpers;40;Yelp reviewers
 Yelp rating;60
 Yelp ratings;60
+Yelp review;60
+Yelp reviewer;60
+Yelp reviewers;60
+Yelp reviews;60
 Yeltsin;50;Boris Yeltsin, first Russian president
 Yeltsins;40;Plural last name
 Yemen;50;Country on the Arabian Peninsula
@@ -116273,6 +116304,8 @@ Zoom fatigue;60
 zoomies;60
 zooming in on;40
 zoom in on;40
+Zoom interview;60
+Zoom interviews;60
 zoom lens;50
 zoom lenses;50
 Zoom meeting;60
