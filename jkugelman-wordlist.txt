@@ -35965,6 +35965,7 @@ five K;20
 Five K's;20
 five-letter word;50
 five-letter words;50
+five-minute;40
 five o'clock shadow;60
 Five Pillars of Islam;60
 five p.m.;50
@@ -66302,6 +66303,7 @@ Minuit;20;Peter who bought Manhattan in the 1600s
 minuscule amount;50
 minute amount;50
 minuted;40
+minute-long;40
 Minuteman;50;Revolutionary War militiaman
 Minutemen;50;Revolutionary War militia
 Minute Rice;60
@@ -69695,7 +69697,7 @@ neutral zone infraction;60;Football penalty
 neutral zone infractions;60
 neutrino;50
 neutrinos;50
-Neutrogena;50;Skincare brand
+Neutrogena;60;Skincare brand
 neutrois;40;Null gender identity
 Neuwirth;40;Bebe Neuwirth, Lilith on "Cheers"
 Nev.;40;Nevada
@@ -71771,6 +71773,7 @@ nutrified;40;Supplied nutrients to
 nutrifies;40;Supplies nutrients to
 nutrify;40;Supply nutrients to
 nutrifying;40;Supplying nutrients to
+Nutri-Grain;60
 nutriment;40
 nutriments;40
 nutritional value;60
@@ -85119,6 +85122,7 @@ revenue growth;50
 revenuer;30
 revenuers;30
 revenues;40
+revenue tax;50
 reverenced;40
 reverer;40
 reverers;40
@@ -108414,6 +108418,7 @@ unnailing;30
 unnails;30
 unnear;30
 unneat;20;Untidy
+unneutered;50
 Uno;50
 uno;40
 Unocal;20
