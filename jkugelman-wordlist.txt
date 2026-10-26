@@ -100005,8 +100005,12 @@ take a bath on;60
 take aboard;40
 take a bus;30
 take a cab;30
+take a chill pill;60
+take a close look;50
+take a close look at;50
+take a closer look at;50
 take action;50
-take a cue;40
+take a cue;50
 take a cue from;50
 take a cut;50
 take a dim view;50
@@ -100027,6 +100031,7 @@ take aim at;40
 take a joy ride;60
 take a knee;60
 take a leap;50
+take a licking;60
 take all;30
 take a look;50
 take a memo;40
@@ -100058,6 +100063,8 @@ take credit for;40
 take decisive action;60
 take five;60
 take flak;50
+take flak for;50
+take flak over;50
 take for;40
 take for a fool;60
 take for a ride;60
@@ -100067,16 +100074,28 @@ take for granted;60
 take from;40
 take heat from;50
 take him away boys;60
+take-home exam;60
+take-home exams;60
 take home income;60
+take-home test;60
+take-home tests;60
 Takei;40;"Star Trek" actor George Takei
 take in;40
+take initiative;60
+take in stride;60
 take in the view;60
 take in vain;50
 take it all in;60
+take it a step further;60
+take it day by day;60
+take it down a notch;60
 take it easy;60
 take it easy on me;60
+take it from here;60
+take it from the top;60
 take it in;50
 take it in stride;60
+take it like a champ;60
 take it slow;50
 take it to;0
 take it to the grave;60
@@ -100087,16 +100106,25 @@ take me as I am;60
 Takemitsu;40;Toru Takemitsu, Japanese composer
 take my wife, please;60
 take my wife please;0
+taken a close look;50
+taken a close look at;50
+taken a closer look;20
+taken a closer look at;50
+taken a cue;50
 taken a cue from;50
 taken a dislike to;50
 taken a dive;60
 taken after;50
 taken a hike;60
+taken a licking;60
 taken an L;60
 taken as gospel;60
 taken a step back from;40
 taken away from;40
 taken by storm;60
+taken flak;50
+taken flak for;50
+taken flak over;50
 taken for;40
 taken for a fool;60
 taken for a ride;60
@@ -100105,7 +100133,11 @@ taken for gospel;60
 taken for granted;60
 taken from;40
 taken heat from;50
+taken initiative;60
+taken in stride;60
 taken in vain;50
+taken it a step further;60
+taken it like a champ;60
 taken one's cue from;50
 taken orders from;40
 take note;60
@@ -100139,8 +100171,11 @@ takes a bath;50
 takes aboard;40
 takes a bus;30
 takes a cab;30
+takes a close look;50
+takes a close look at;50
+takes a closer look at;50
 takes action;50
-takes a cue;40
+takes a cue;50
 takes a cue from;50
 takes a cut;50
 takes a dim view;50
@@ -100158,6 +100193,7 @@ takes aim at;40
 takes a joy ride;60
 takes a knee;60
 takes a leap;50
+takes a licking;60
 takes a look;50
 takes a memo;40
 takes a minute;50
@@ -100181,6 +100217,8 @@ takes credit for;40
 takes decisive action;60
 takes five;60
 takes flak;50
+takes flak for;50
+takes flak over;50
 takes for;40
 takes for a fool;60
 takes for a ride;60
@@ -100196,11 +100234,16 @@ takesie backsies;60
 takesies backsies;60
 take sign;50
 takes in;40
+takes initiative;60
+takes in stride;60
 takes in the view;60
 takes in vain;50
 takes it all in;60
+takes it a step further;60
+takes it from the top;60
 takes it in;50
 takes it in stride;60
+takes it like a champ;60
 takes it to the grave;60
 takes liberties;50
 takes matters into one's own hands;50
@@ -100281,8 +100324,11 @@ Takin';40;"Takin' Care of Business"
 taking aboard;40
 taking a bus;30
 taking a cab;30
+taking a close look;50
+taking a close look at;50
+taking a closer look at;50
 taking action;50
-taking a cue;40
+taking a cue;50
 taking a cue from;50
 taking a cut;50
 taking a dim view;50
@@ -100299,6 +100345,7 @@ taking aim at;40
 taking a joy ride;60
 taking a knee;60
 taking a leap;50
+taking a licking;60
 taking a look;50
 taking a memo;40
 taking a minute;50
@@ -100322,6 +100369,8 @@ taking credit for;40
 taking decisive action;60
 taking five;60
 taking flak;50
+taking flak for;50
+taking flak over;50
 taking for;40
 taking for a fool;60
 taking for a ride;60
@@ -100330,11 +100379,16 @@ taking for gospel;60
 taking for granted;60
 taking from;40
 taking heat from;50
+taking initiative;60
+taking in stride;60
 taking in the view;60
 taking in vain;50
 taking it all in;60
+taking it a step further;60
+taking it from the top;60
 taking it in;50
 taking it in stride;60
+taking it like a champ;60
 taking it to the grave;60
 taking liberties;50
 taking matters into one's own hands;50
@@ -105347,8 +105401,11 @@ took a bath;50
 took aboard;40
 took a bus;30
 took a cab;30
+took a close look;50
+took a close look at;50
+took a closer look at;50
 took action;50
-took a cue;40
+took a cue;50
 took a cue from;50
 took a cut;50
 took a dim view;50
@@ -105366,6 +105423,7 @@ took aim at;40
 took a joy ride;60
 took a knee;60
 took a leap;50
+took a licking;60
 took a look;50
 took a memo;40
 took a minute;50
@@ -105389,6 +105447,8 @@ took credit for;40
 took decisive action;60
 took five;60
 took flak;50
+took flak for;50
+took flak over;50
 took for;40
 took for a fool;60
 took for a ride;60
@@ -105398,12 +105458,17 @@ took for granted;60
 took from;40
 took heat from;50
 took in;40
+took initiative;60
+took in stride;60
 took in the view;60
 took in vain;50
 took it all in;60
+took it a step further;60
 took it easy;60
+took it from the top;60
 took it in;50
 took it in stride;60
+took it like a champ;60
 took it to the grave;60
 took liberties;50
 took matters into one's own hands;50
@@ -115630,6 +115695,7 @@ you stink;60
 Yousuf;40;Yousuf Karsh, portrait photographer
 you sure about that;60
 you take it back;60
+you take it from here;60
 you take that back;60
 you tell me this now;60
 youth academies;50
