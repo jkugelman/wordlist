@@ -1559,6 +1559,11 @@ admeasurement;40
 admeasures;40
 admeasuring;40
 admen;40
+admission prices;50
+admission scandal;60
+admission scandals;60
+admissions scandal;60
+admissions scandals;60
 admit it;60
 admit one;60
 admits to;40
@@ -70472,6 +70477,7 @@ NNW;30
 no;50
 Noa;20
 NOAA;40
+no admission;50
 Noah;50;Ark builder, and a common first name
 Noah Cyrus;50;Sister of Miley Cyrus, 2021 Best New Artist nominee
 Noah Kahan;50;Noah Kahan, Grammy-nominated folk-pop artist famous for his 2023 album "Stick Season"
@@ -70695,6 +70701,7 @@ Nona;30;Nona Hendryx, "Lady Marmalade" singer, or nona- shape prefix
 nonacid;40
 nonacidic;40
 nonacids;40
+nonadmission;50
 Nona Gaye;40;Singer/model/actress Nona Gaye in the Matrix sequels
 nonage;20
 nonages;20
@@ -103189,6 +103196,7 @@ The Post;30
 the Potomac;30
 the powers that be;60
 the prez;40
+the price of admission;50
 The Prince;60;Political treatise by Niccolò Machiavelli
 The Prom;40;2020 movie with Meryl Streep, Nicole Kidman, and others
 the proper task of life;60;Art, per Nietzsche
@@ -114114,6 +114122,7 @@ worth one's weight in gold;50
 worth one's while;50
 worth reading;50
 worths;30
+worth the price of admission;60
 worts;40
 Wossamotta;50;Wossamotta U, fictional university from "The Bullwinkle Show"
 Wossamotta U;60;Fictional university from "The Bullwinkle Show"
