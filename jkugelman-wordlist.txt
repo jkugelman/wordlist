@@ -51216,6 +51216,8 @@ intromit;40;Allow in
 intromits;40
 intromitted;40
 intromitting;40
+intro sequence;60
+intro sequences;60
 intruded on;40
 intrude on;40
 intrudes on;40
@@ -59082,12 +59084,14 @@ letter L;40
 letter M;40
 letter N;40
 letter O;40
+letter of introduction;60
 letter of transit;50
 letter P;40
 letter Q;40
 letter R;40
 letters;50
 letters in;40
+letters of introduction;60
 letters of transit;50
 Letters to Cleo;40;American alternative rock band
 Letters to Juliet;50;2010 romcom
@@ -69363,12 +69367,14 @@ need a lift;60
 needed a hand;50
 needed air;50
 Needed Me;50;2016 single by Rihanna
+needed no introduction;60
 needed to;40
 need for speed;60
 Needful Things;60
 Needham;40;Director Hal Needham, scholar Joseph Needham, Massachusetts town
 needing a hand;50
 needing air;50
+needing no introduction;60
 needing to;40
 needle;50
 needle and thread;50
@@ -69381,8 +69387,10 @@ needles;50
 needle scratch;60
 needle scratches;60
 needling;50
+need no introduction;60
 needs a hand;50
 needs air;50
+needs no introduction;60
 need some help;60
 needs to;40
 need to;40
@@ -112063,6 +112071,7 @@ we're fresh out;60
 were hot;30
 we're in big trouble;60
 We're in This Love Together;50;1981 single by Al Jarreau
+we're in trouble;60
 we're like this;60;"We are *this* close" 🤞
 we're next;50
 we're no good together;60
