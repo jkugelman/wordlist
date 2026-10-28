@@ -28078,6 +28078,7 @@ don't hesitate to ask;60
 don't, I beg of you;50
 don't interrupt;60
 don't just sit there;60
+don't just sit there, do something;60
 don't laugh;60
 don't leave;50
 don't let me stop you;60
@@ -28339,6 +28340,8 @@ do shots;50
 dosimeter;30
 dosimeters;30
 dosimetry;30;Measure of radiation exposure from x-rays
+do something;60
+do something, don't just sit there;60
 dossal;20;Church altar cloth
 dosser;20;Homeless person: Br.
 dossers;20;Homeless people: Br.
