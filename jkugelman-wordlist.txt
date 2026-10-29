@@ -2615,6 +2615,8 @@ AI summary;60
 ait;20
 AITA;20
 Aitana;40;Aitana Bonmatí, Ballon d'Or soccer star
+AI tool;40;Green paint
+AI tools;40;Green paint
 Aivazovsky;40;Ivan Aivazovsky, Russian seascape painter
 Aiwa;40;Japanese electronics brand
 Ai Weiwei;50;Chinese conceptual artist and dissident (born 1957)
