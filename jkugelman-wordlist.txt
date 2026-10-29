@@ -33434,6 +33434,8 @@ excusers;40
 excuses, excuses;60
 excuses excuses;0
 excuse you;60
+ex-DA;20
+ex-DAs;20
 .exe;40
 executive power;60
 exed;30
