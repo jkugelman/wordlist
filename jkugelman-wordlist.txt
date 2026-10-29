@@ -14538,7 +14538,11 @@ bronco busters;50
 Bronislaw;40;Bronisław Malinowski, pioneering anthropologist
 Bronko;20
 Bronny;40;Bronny James, LeBron's son and Lakers guard
-Bronson;50;Charles Bronson, action star / Action Bronson, rapper
+Bronski;40;Bronski Beat, 1980s synth-pop band
+Bronski Beat;50;1980s synth-pop band
+Bronson;40;Charles Bronson, action star / Action Bronson, rapper / Bronson Pinchot, actor
+Bronson Alcott;40
+Bronson Pinchot;50;"Perfect Strangers" actor
 Brontë;50
 Bronte;0
 Brontës;50
@@ -37993,6 +37997,7 @@ fucks up;10
 fucks with;10
 fuck that;10
 fuck that guy;10
+Fuck, That's Delicious;10;Food documentary series starring rapper Action Bronson
 fuck the dog;10
 fuck the world;10
 fuck this;10
@@ -59161,6 +59166,8 @@ Levantine;50;Of the eastern Mediterranean
 LeVar;40;Levar Burton
 levator;30;Muscle that raises a body part
 levators;30
+Lev Davidovich Bronstein;50;Leon Trotsky
+Lev Davidovich Trotsky;50;Leon Trotsky
 level A;20
 level best;60
 Leveller;40;English Civil War radical
@@ -93932,6 +93939,7 @@ small SUV;50
 small SUVs;50
 small talk;50
 small-timer;60
+Smalltown Boy;50;1984 single by Bronski Beat
 small u;30
 small u's;30
 Smallville;50;Superman's hometown, and a WB series
@@ -103649,6 +103657,7 @@ The Unforgiven;50;1991 song by Metallica
 The Unforgiven II;50;1998 single by Metallica
 The Unforgiven III;50;2008 song by Metallica
 the Unmelancholy Dane;60;Nickname for pianist Victor Borge
+The Untitled Action Bronson Show;50
 the Upanishads;20
 the upshot;50
 The Upside Down;60;"Stranger Things" alternate dimension
@@ -108662,6 +108671,7 @@ untied shoelaces;60
 until one's dying day;50
 until recently;50
 untimes Chicagos;0
+Untitled Action Bronson Show;50
 Untouchables;50;Eliot Ness's squad
 untrained eye;50
 untwist;50
