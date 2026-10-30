@@ -10641,6 +10641,7 @@ Beirutis;40;Beirut residents
 be it;20
 be it so;40
 Beiyang;40;Chinese army and government of the early 1900s
+bejeezus;60
 bejesus;60
 Bejo;40;Berenice Bejo, actress in "The Artist"
 be kind rewind;60
@@ -88997,6 +88998,7 @@ scared of;40
 scared shitless;10
 scared stiff;60
 scared straight;60
+scared the bejeezus out of;60
 scared up;60
 scaredy-cat;60
 scaredy-cats;60
@@ -89006,9 +89008,11 @@ scarer;50
 scarers;50
 scare shitless;10
 scares shitless;10
+scares the bejeezus out of;60
 scares up;60
 scare tactic;60
 scare tactics;60
+scare the bejeezus out of;60
 scare up;60
 scarey;20;Variant spelling
 Scarface;60
@@ -89024,6 +89028,7 @@ scarify;40;Scar-ify, or frighten
 scarifying;50
 scarifyingly;50
 scaring shitless;10
+scaring the bejeezus out of;60
 ScarJo;50;Scarlett Johansson, familiarly
 scarlatina;30;Scarlet fever
 Scarlatti;50;Domenico Scarlatti, Baroque composer
