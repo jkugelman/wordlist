@@ -6628,6 +6628,7 @@ aseethe;30
 aseptate;40;Without a separating membrane, in biology
 Asereje;40;"The Ketchup Song (Aserejé)"
 a set;20
+as far as the eye can see;60
 as fate would have it;60
 as flat;20
 as for;40
@@ -35257,6 +35258,7 @@ field bet;50
 field bets;50
 field day;50
 fielder;50
+Fielder;50;Nathan Fielder, comedian
 fielders;50
 field goal;60
 field goal attempt;60
@@ -69056,6 +69058,9 @@ Nat Geo Wild;50
 Nathalie;40;Nathalie Sarraute, French novelist
 Nathan;50;Common first name
 Nathanael;40;Nathanael West, "The Day of the Locust" author / Nathanael Greene, Revolutionary War general
+Nathan Fielder;60
+Nathan Fillion;60
+Nathan for You;60
 Nathan Hale;50
 Nathaniel;50;Common first name, as in Nathaniel Hawthorne
 Nathan's;40;Famous hot dog brand
@@ -115441,6 +115446,7 @@ you can bet your bottom dollar;60
 you can do it;60
 you can do that;60
 you can only blame yourself;60
+You Can See Everything;60
 you can't beat that;60
 you can't be serious;60
 you can't deny it;60
