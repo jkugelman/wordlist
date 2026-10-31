@@ -97541,7 +97541,7 @@ St. Ides;40;St. Ides malt liquor
 stied;40
 Stieg;40;Stieg Larsson, author of "The Girl with the Dragon Tattoo"
 Stieglitz;40;Alfred Stieglitz, pioneering photographer
-S-tier;50;Excellent
+S-tier;40;Excellent
 Stiers;40;David Ogden Stiers of M*A*S*H
 stiff-arm;50
 stiff-armed;50
