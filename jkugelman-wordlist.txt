@@ -7216,9 +7216,9 @@ at a slant;30
 at a standstill;60
 a taste;40
 at a stop;30
-AT-AT;40
+AT-AT;30
 at a trot;40
-AT-ATs;40
+AT-ATs;30
 Atatürk;50;Mustafa Kemal Atatürk, founder of modern Turkey
 Ataturk;0
 Ataulfo;40;Mango variety
