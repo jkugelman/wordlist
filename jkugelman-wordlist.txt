@@ -84164,11 +84164,15 @@ reheal;30
 rehealed;30
 rehealing;30
 reheals;30
-rehear;30
-reheard;30
-rehearing;30
-rehearings;30
-rehears;30
+rehear;40;Try again judicially
+reheard;40;Tried again judicially
+rehearing;40;Trying again judicially
+rehearings;40;Retrials
+rehears;40;Tries again judicially
+rehearsal schedule;60
+rehearsal schedules;60
+rehearsal space;60
+rehearsal spaces;60
 rehearser;40
 rehearsers;40
 reheed;20
@@ -103355,6 +103359,7 @@ The Red Shoes;50;1948 film
 the Red Sox;40
 There Goes My Baby;60
 there goes the neighborhood;60
+The Rehearsal;60
 there is a;0
 there I said it;60
 there is no choice;60
@@ -111697,6 +111702,8 @@ wedding reception;50
 wedding receptions;50
 wedding registries;50
 wedding registry;50
+wedding rehearsal;60
+wedding rehearsals;60
 wedding ring;60
 wedding rings;60
 wedding shower;60
