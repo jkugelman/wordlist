@@ -542,6 +542,7 @@ Abbass;40;Hiam Abbass, "Succession" actress
 abbatial;40;Pertaining to an abbey or abbot
 Abba-Zaba;40;Taffy candy bar
 Abba-Zabas;40;Taffy candy bars
+abbé;30
 Abbe;20
 Abbey Road Studios;60
 Abbi;30;Comedian Abbi Jacobson
@@ -1578,6 +1579,8 @@ adnoun;20
 ado;50
 Ado Annie;40;Oklahoma! character
 adobada;40;Mexican dish
+adobe;50
+Adobe;50
 Adobe Flash;50
 a dog's age;60
 A Dog's Life;50
@@ -10174,6 +10177,7 @@ be a sport;60
 be assured;50
 be a star;40
 Beastars;40;Anime and manga series
+Beastie Boy;60
 Beastie Boys;60
 Beastmaster;40;1982 sword-and-sorcery film
 beast mode;60
@@ -26977,6 +26981,7 @@ director;50
 direct order;50
 direct orders;50
 directors;50
+director's jail;60;Metaphor for a director having a hard time getting work
 directory of telephone numbers;20
 directrix;30
 direct snap;50
@@ -27318,6 +27323,7 @@ Djawadi;40;Ramin Djawadi, "Game of Thrones" composer
 DJ booth;60
 DJ booths;60
 DJed;50;Spun the records
+djembe;40;Type of African goblet drum
 djent;60
 Djesse;40;Jacob Collier album series
 DJIA;30;Dow Jones Industrial Average, for short
@@ -38289,7 +38295,7 @@ gab;50
 Gabaldon;40;"Outlander" books author Diana Gabaldon
 Gabbana;40;Stefano Gabbana, half of Dolce & Gabbana
 Gabby's;40;"Gabby's Dollhouse", kids' cartoon
-Gabe;50;Gabe Kotter, "Welcome Back, Kotter" teacher / short for Gabriel
+Gabe;50
 gabfest;50
 gabfests;50
 Gabin;40;Jean Gabin, French film star
@@ -52337,6 +52343,7 @@ it's a gift;60
 it's a girl;60
 it's a good start;60
 it's a good thing;60
+it's a hoot;50
 it's a joke;60
 it's a keeper;60
 it's all a blur;60
@@ -52450,6 +52457,7 @@ it's magic;60
 it's meant to be;60
 it's mine;50
 it's more than that;60
+it's mutual;50
 it's my first day;60
 it's my go-to;60
 it's my turn;50
@@ -67788,6 +67796,7 @@ Moviefone;50;Bygone showtimes hotline
 movie franchise;60
 movie franchises;60
 movie industry;60
+movie jail;60;Metaphor for a director having a hard time getting work
 movie marathon;60
 movie marathons;60
 movie mogul;60
@@ -67919,6 +67928,7 @@ Mr. Know-It-All;60
 Mr Know-It-All;0
 Mr. Lee;30;From Bobbettes song "I Shot Mr. Lee"
 Mr Lee;0
+Mr. Lube;40;Canadian automotive centre chain
 Mr. Mayor;60
 Mr Mayor;0
 Mr. Men;40;Children's book series since 1971
@@ -68146,6 +68156,7 @@ muffin tins;50
 Muffley;40;Merkin Muffley, "Dr. Strangelove" president
 mufti;30
 mug;50
+Mugabe;10;Robert Mugabe, Zimbabwean dictator
 mug for the camera;60
 mugged for the camera;60
 mugging for the camera;60
@@ -99553,6 +99564,7 @@ Swift Boat;50
 Swift Boats;50
 Swiftian;50;Like Jonathan Swift's satire
 Swiftie;60
+Swiftie bracelet;50
 Swifties;60
 swift justice;60
 swifts;20;Birds like swallows, not used in Shortz era
@@ -104431,6 +104443,8 @@ tie back;40
 tie back to;40
 tie bar;50
 tie bars;50
+tie bolt;40
+tie bolts;40
 tiebreakers;60
 tie-breaking vote;50
 tie-breaking votes;50
@@ -112911,6 +112925,8 @@ White House bid;50
 White House bids;50
 White House staff;50
 White House tours;50
+white ibis;50
+white ibises;50
 white key;50
 white keys;50
 white knight;60
