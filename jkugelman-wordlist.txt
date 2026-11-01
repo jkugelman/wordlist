@@ -157,7 +157,7 @@
 2pm;40
 #2 seed;50
 #2 seeds;50
-2-tier;20
+2-tier;50
 2 turtledoves;60
 2-wood;30;Obsolete club
 2-woods;30;Obsolete clubs
@@ -191,7 +191,7 @@
 3rd Rock from the Sun;60;American television sitcom (1996–2001)
 #3 seed;50
 #3 seeds;50
-3-tier;20
+3-tier;50
 3 wise monkeys;60
 3-wood;50
 3-woods;50
@@ -7314,6 +7314,7 @@ athwart;40;Contrary to, or across
 atidein;20;"There is ___ the affairs of men" (Julius Caesar) FITB
 a tie;20
 A-tier;40
+a tier;20
 a tight ship;50
 atilde;30
 atilt;40
@@ -29365,6 +29366,7 @@ D'Souza;30;Dinesh D'Souza, right-wing conspiracy theorist
 DST;40
 DSW;30;Used in USAT/LAT, but not NYT
 D-tier;40
+D tier;0
 DTMF;10;Dump the MFer
 D train;40
 DTs;20
