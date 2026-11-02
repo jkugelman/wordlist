@@ -55034,6 +55034,7 @@ kedgeree;30
 kedgers;20
 Kedrova;30;"Zorba the Greek" Best Supporting Actress
 Keds;40;Sneaker brand
+kee;20
 Keebler;50;Cookie brand with elves
 Keebler elf;60
 Keebler elves;60
@@ -102944,7 +102945,8 @@ The Iron Giant;60
 the Iron Horse;40
 The Iron Maidens;50;All-female tribute to heavy metal band Iron Maiden
 The Iron Throne;60;From "Game of Thrones"
-theirs;30
+theirs;50
+the IRS;30
 the Isles;40;New York Islanders nickname
 Theiss;30;Actress Brooke Theiss, not super notable
 The Italian Job;60
