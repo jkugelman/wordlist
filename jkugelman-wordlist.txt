@@ -29370,7 +29370,7 @@ DSM;20
 DSO;20
 D'Souza;30;Dinesh D'Souza, right-wing conspiracy theorist
 DST;40
-DSW;30;Used in USAT/LAT, but not NYT
+DSW;40;Designer Shoe Warehouse
 D-tier;40
 D tier;0
 DTMF;10;Dump the MFer
