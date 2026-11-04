@@ -8445,6 +8445,8 @@ backup planning;50
 backup plans;50
 backup QB;50
 backup QBs;50
+backup quarterback;60
+backup quarterbacks;60
 backup singer;60
 backup singers;60
 back up the truck;50
@@ -29390,6 +29392,8 @@ Dua Lipa;50
 dual monitors;60
 dual monitors setup;60
 dual monitors setups;60
+dual threat quarterback;60
+dual threat quarterbacks;60
 dual-use;60
 Duane;50
 duarchies;30;Governments by two independent authorities
@@ -67040,7 +67044,8 @@ Mondatta;30;"Zenyatta ___" (Police album)
 Mondavi;40;Napa winemaker Robert Mondavi, wine brand
 Monday;50;Start of the work week
 Monday afternoon;40
-Monday morning QB;30
+Monday morning QB;60
+Monday morning QBs;60
 Monday morning quarterback;60
 Monday morning quarterbacks;60
 Mondays;50;Days of the week
@@ -69977,8 +69982,8 @@ NFL fans;40
 NFL Films;50;NFL production company
 NFL Hall of Famers;50
 NFL MVP;40
-NFL QB;30
-NFL QBs;30
+NFL QB;50
+NFL QBs;50
 NFL ref;50
 NFL referee;60
 NFL referees;60
@@ -81822,11 +81827,16 @@ qat;30
 Qatar;50;Persian Gulf country
 Qataris;40;Persian Gulf peninsula people
 Qattara;40;Qattara Depression, Egyptian lowland
-QB controversies;30
-Q*bert;50
+QB coach;60
+QB coaches;60
+QB controversies;40;Green paint
+QB controversy;40;Green paint
+Q*bert;50;Pyramid-hopping arcade game
 Qbert;50;Pyramid-hopping arcade game
 Q*bert's Qubes;50
 QBs;50
+QB sack;60
+QB sacks;60
 QB VII;30;1970 novel by Leon Uris
 QC check;40
 QC checks;40
@@ -81944,6 +81954,7 @@ Quaritch;40;Miles Quaritch, "Avatar" colonel
 quartan;30;Form of malaria
 quarte;40;Fencing position
 quarterback;60
+quarterbacking;60;Taking over a cooperative board game
 quarterbacks;60
 quarter to;40
 quarter tone clarinet;50;Experimental clarinet designed to play music using quarter tone intervals
@@ -96914,8 +96925,8 @@ starting pistol;50
 starting pistols;50
 starting QB;50
 starting QBs;50
-starting quarterback;50
-starting quarterbacks;50
+starting quarterback;60
+starting quarterbacks;60
 starting to;40
 start in on;40
 start it;20
