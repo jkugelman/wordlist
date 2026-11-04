@@ -4391,6 +4391,8 @@ anchorman;50
 anchormen;50
 anchors to;40
 anchor to;40
+anchoveta;40;Peruvian fish
+anchovetas;40;Peruvian fish
 anchusa;30;Flower genus
 Ancien;40;Ancien Régime, pre-revolutionary France
 ancient man;50
@@ -5524,6 +5526,7 @@ appletinis;60
 Appleton;40;Wisconsin city, Houdini's boyhood home
 apple turnover;60
 apple turnovers;60
+Apple Valley;50
 Apple Vision Pro;60;Apple mixed-reality headset
 Apple Watch;60
 Apple Watches;60
@@ -14933,7 +14936,7 @@ buffer zone;50
 buffer zones;50
 Buffett;50;Warren Buffett, investor / Jimmy Buffett, singer
 Buffy;50;Buffy Summers, the Vampire Slayer
-Buffyverse;50;"Buffy the Vampire Slayer" fictional universe
+Buffyverse;60;"Buffy the Vampire Slayer" fictional universe
 Buford;40;Buford T. Justice, "Smokey and the Bandit" sheriff
 bug;50
 Buganda;40;Kingdom within Uganda
@@ -36188,6 +36191,8 @@ Flecktones;40;Bela Fleck's band
 Fledermaus;50;Bat, in a Strauss operetta title
 fled to;40
 flee;50
+fleece vest;60
+fleece vests;60
 fleeing to;40
 fleek;20;Outdated slang, "on fleek" = "well-groomed", like eyebrows
 fleer;40
@@ -40564,6 +40569,8 @@ gizmos;60
 GLAAD;40;LGBT media monitoring group
 glacé;30;Candied
 glaces;30;French desserts
+glacial valley;50
+glacial valleys;50
 Glad ForceFlex;50;Trash bag brand
 Glad ForceFlexPlus;50;Trash bag brand
 glad I asked;60
@@ -44938,6 +44945,8 @@ hauling ass;60
 hauling in;40
 hauls ass;60
 hauls in;40
+haul video;60
+haul videos;60
 Haumea;40;Dwarf planet
 Haunani-Kay;40;Haunani-Kay Trask, leader of the Hawaiian sovereignty movement
 Haunani-Kay Trask;50;Leader of the Hawaiian sovereignty movement
@@ -46100,6 +46109,8 @@ heroic sacrifice;60
 heroic sacrifices;60
 heroic stanza;50
 heroic stanzas;50
+heroic verse;50
+heroic verses;50
 hero image;60;Large banner image at the top of a web page
 hero images;60;Large banner images at the top of web pages
 heroin;40
@@ -76624,6 +76635,10 @@ peanut M&Ms;60
 peanut oils;30;Rare plural of a mass noun
 peanut sauce;60
 peanut sauces;50
+peanut vendor;40
+peanut vendors;40
+peanut vine;50
+peanut vines;50
 pea patch;50
 pea patches;50
 Pearce;40;Actor Guy Pearce
@@ -79982,6 +79997,7 @@ potted plant;60
 potted plants;60
 Pottermore;50
 potter's thumb;60;Genetic trait with one short, wide thumb
+potterverse;10;Harry Potter
 Pottery Barn;60
 pottery wheel;60
 pottery wheels;60
@@ -83311,6 +83327,8 @@ reaction GIF;60
 reaction GIFs;60
 reaction time;60
 reaction times;60
+reaction video;60
+reaction videos;60
 reactontime;0
 reactontimes;0
 reacts to;40
@@ -91986,6 +92004,8 @@ short days;40
 short E;40
 short E's;40
 short-form content;60
+shortform video;60
+shortform videos;60
 short-haired cat;50
 short-haired cats;50
 shorthanded;50
@@ -96407,6 +96427,7 @@ Squatty Potties;60
 Squatty Potty;60
 Squawkzilla;50;Giant extinct New Zealand parrot
 Squawkzillas;30;Giant extinct New Zealand parrots
+Squaw Valley;50
 Squeakquel;50;"Alvin and the Chipmunks" sequel title
 squealed like a pig;60
 squealed on;40
