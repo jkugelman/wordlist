@@ -7323,6 +7323,7 @@ atilde;30
 atilt;40
 A Time to Die;40;Forgettable 1982 Rex Harrison movie
 a time to remember;50
+-ation;30
 atiptoe;20
 atis;20
 atishoo;20;British "achoo!"
