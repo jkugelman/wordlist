@@ -22441,6 +22441,7 @@ Cosmo girl;50
 Cosmo girls;50
 cosmological constant;60
 cosmological principle;60
+cosmological redshift;60
 cosmologies;50
 cosmologist;60
 cosmologists;60
@@ -42556,9 +42557,17 @@ graveyard;50
 graveyards;50
 gravida;40;Pregnancy stat
 graving;40
+gravitational field;50
+gravitational force;50
+gravitational forces;50
+gravitational redshift;60
+gravitational well;60
+gravitational wells;60
 gravity;50
 gravity-defying;60
 Gravity's;40;"Gravity's Rainbow," Pynchon novel
+gravity well;60
+gravity wells;60
 gravy boat;50
 gravy boats;50
 gravy train with biscuit wheels;60
@@ -104699,6 +104708,7 @@ time crunches;60
 timed;50
 time delay;60
 time delays;60
+time dilation;60
 time eternal;50
 time flies when you're having fun;60
 time fuse;50
