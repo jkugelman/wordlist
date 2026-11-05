@@ -8072,6 +8072,8 @@ axe throwing;50
 axhead;50
 axheads;50
 Axios;40;News website
+Axis & Allies;60
+Axis and Allies;60
 Axis Bold as Love;60
 Axl;50
 Axl Rose;50;Guns N' Roses lead singer
@@ -101226,6 +101228,12 @@ tax ID;30
 taxi dancer;50
 taxi dancers;50
 Taxidea taxus;20;North American badger species
+taxied to the runway;40;Green paint
+taxiing to the runway;40;Green paint
+taxi squad player;50
+taxi squad players;50
+taxis to the runway;40;Green paint
+taxi to the runway;40;Green paint
 tax law;50
 tax laws;50
 tax liabilities;50
