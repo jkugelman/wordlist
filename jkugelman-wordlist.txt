@@ -39091,6 +39091,7 @@ Gchat;30
 G chord;30
 G chords;30
 G clef;40
+GCs;30
 Gd;40;Gadolinium's symbol
 Gdańsk;50;Polish port city, birthplace of Solidarity
 Gdansk;0
@@ -73182,6 +73183,7 @@ omniscience;60
 omniscient;60
 omnium;30;Omnium gatherum, a miscellaneous collection of stuff
 Omnivora;40;Obsolete order of mammals
+OMNY;40;Public transit payment system in the New York City area
 Omoo;20;Melville novel
 omophagia;40;The eating of raw flesh
 omore;20
