@@ -22569,10 +22569,24 @@ couldn't keep a secret;60
 couldn't stick around;50
 could she be the one?;60
 could've fooled me;60
+could you?;50
+could you;0
+Could You Be Loved;50;1980 single by Bob Marley and the Wailers
+could you do me a favor?;60
+could you do me a favor;0
+could you do me a favour?;40
+could you do me a favour;0
 could you fill me in?;60
+could you give me a hand?;60
+could you give me a hand;0
+could you imagine?;60
+could you imagine;0
 could you not;60
-could you please not;60
+could you please not?;60
+could you please not;0
+could you put that in writing?;60
 could you repeat that?;60
+could you repeat that;0
 coulee;30
 coulees;30
 Coulier;40;Dave Coulier, "Full House" actor
@@ -48002,8 +48016,15 @@ how could I not;0
 how could I refuse?;60
 how could I refuse;0
 how could I say no?;60
+how could you?;60
+how could you;0
 how could you forget?;60
 how could you forget;0
+how could you not?;60
+how could you not;0
+how could you say that?;60
+how could you say that;0
+how could you tell?;60
 how cute;60
 howdah;20
 howdahs;20
