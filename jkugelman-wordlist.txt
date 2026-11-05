@@ -81579,7 +81579,8 @@ purples;40
 purrer;40
 purrers;40
 purse strings;60
-pursuit of justice;60
+pursuit of happiness;60
+Pursuit of Happyness;50
 Puscifer;40;Maynard James Keenan's band
 push;50
 Pusha;40;Pusha T, rapper
