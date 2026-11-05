@@ -103432,6 +103432,7 @@ The Prom;40;2020 movie with Meryl Streep, Nicole Kidman, and others
 the proper task of life;60;Art, per Nietzsche
 the Pru;40;Prudential Tower in Boston
 the Punic Wars;40
+the pursuit of happiness;60
 the PX;20
 the queen of clubs;40
 the queen of diamonds;40
