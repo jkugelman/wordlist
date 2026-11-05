@@ -14777,6 +14777,9 @@ BSed;40
 bsee;20
 B-series;40
 BSes;40
+B shape;30
+B-shaped;30
+B shapes;30
 B sharp;40
 B sharps;50
 B-sharp scale;30
@@ -23658,9 +23661,9 @@ C-section;50
 C.S. Forester;50
 C S Forester;0
 C's get degrees;60;"C's get degrees"
-C-shape;30
+C shape;30
 C-shaped;30
-C-shapes;30
+C shapes;30
 C sharp;40
 C sharps;50
 C-sharp scale;30
@@ -29366,6 +29369,8 @@ DSA;30;Democratic Socialists of America
 DSC;20
 D scale;30
 D scales;30
+D shape;30
+D shapes;30
 D sharp;40
 D-sharp scale;30
 DSL;40
@@ -32589,6 +32594,9 @@ EsDeeKid;40;Masked Liverpool rapper ("Phantom," 2025)
 Esdras;20
 -ese;40
 ESG;20
+E shape;30
+E-shaped;30
+E shapes;30
 E sharp;40
 E-sharp scale;30
 Eshkol;30;Levi Eshkol, Israeli PM 1963-69
@@ -37948,9 +37956,9 @@ FSAs;40;Flexible spending accounts
 F scale;30
 F scales;30
 FSH;20
-F-shape;30
+F shape;30
 F-shaped;30
-F-shapes;30
+F shapes;30
 F sharp;40
 F-sharp scale;30
 F star;20
@@ -51794,6 +51802,9 @@ I shall play you the song of my people;60
 I shall sing you the song of my people;60
 I shan't;20
 I shan't mince words;60
+I shape;30
+I-shaped;30
+I shapes;30
 iShares;30;ETF collection
 is he buying it?;60
 Isherwood;40;Christopher Isherwood, "Berlin Stories" author
@@ -56727,6 +56738,9 @@ Krzysztof;40;Krzysztof Kieślowski, "Three Colors" director
 Krzyzewski;50;Mike Krzyzewski, Duke's Coach K
 Ks;30
 ksatehtotpu;0
+K shape;30
+K-shaped;30
+K shapes;30
 ksi;20
 K-star;20
 K stars;20
@@ -61405,8 +61419,8 @@ LSD tab;60
 LSD tabs;60
 L-seven;20
 lsf;20
-L-shape;30
-L shape;0
+L shape;30
+L-shape;0
 L-shaped;30
 L shapes;30
 L-sit;30;Ab exercise
@@ -68059,6 +68073,9 @@ MS-DOS;40
 msec;40
 msecs;40
 MSG;40
+M shape;30
+M-shaped;30
+M shapes;30
 m'sieur;40
 MS MR;20
 MSN;40
@@ -71506,6 +71523,9 @@ NSFW;40
 NSFWish;40;Borderline not safe for work
 NSFW pic;50
 NSFW pics;50
+N shape;30
+N-shaped;30
+N shapes;30
 N-star;20
 N-stars;20
 NSW;40;New South Wales, Australia
@@ -81118,6 +81138,9 @@ pseudoscientific;60
 pseudoscientist;60
 pseudoscientists;60
 psf;20
+P shape;30
+P-shaped;30
+P shapes;30
 psi;50
 Psi Omega;30
 psis;40
@@ -81909,6 +81932,9 @@ QRSTU;20
 Q's;40;Minded things, with P's
 Q Score;40;In marketing, a way to measure the familiarity of an item
 Q Scores;40;In marketing, a way to measure the familiarity of an item
+Q shape;30
+Q-shaped;30
+Q shapes;30
 QT;40
 qt.;40
 Q-tile;30
@@ -87082,6 +87108,9 @@ RR xing;40
 R's;40;Letters, as in rolled ones
 RSA;20;South Africa -- Will Shortz won't accept it
 rsc;20
+R shape;30
+R-shaped;30
+R shapes;30
 RSI;20
 RSO;20
 RSPCA;40;Animal welfare charity in England and Wales
@@ -96516,8 +96545,8 @@ SSgt.;30;Staff sergeant, briefly
 SSgt;0
 SSgts;30;Staff sergeants, briefly
 ssh;20
-S-shape;30
-S shape;0
+S shape;30
+S-shape;0
 S-shaped;30
 S shapes;30
 SSI;20
@@ -107145,8 +107174,8 @@ tsetse;40
 tsetses;40
 T.S. Garp;40
 T S Garp;0
-T-shape;30
-T shape;0
+T shape;30
+T-shape;0
 T-shaped;30
 T shapes;30
 tsimmes;30;Jewish stew
@@ -109139,8 +109168,8 @@ ush;30
 ushabti;20
 ushabtis;20
 ushanka;40;Russian hat with flaps over the ears
-U-shape;30
-U shape;0
+U shape;30
+U-shape;0
 U-shaped;30
 U shapes;30
 ushed;30
@@ -114467,6 +114496,9 @@ wrought iron gates;60
 WRs;20
 wry;50
 W's;40;Five of them cover journalism's basics
+W shape;30
+W-shaped;30
+W shapes;30
 WSJ;40
 WSOP;40
 WSU;20
@@ -116528,6 +116560,8 @@ ZPG;20
 Zr;40;Zirconium's symbol
 Z's;40;Catch some Z's
 Zsa;40;Zsa Zsa Gabor
+Z-shaped;30
+Z shapes;30
 Zsigmond;40;Vilmos Zsigmond, cinematographer
 Z-snap;50
 Z-snaps;50
