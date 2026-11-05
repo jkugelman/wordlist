@@ -65787,6 +65787,7 @@ Michelle;50;Michelle Obama, first lady / Beatles song
 Michelob;50;Beer brand
 Michelobs;40;Beers of a Budweiser sibling brand
 Michelson;40;Albert Michelson, of the Michelson-Morley experiment
+Michelson-Morley experiment;60;1887 investigation of the speed of light
 Michener;50;James Michener, "Hawaii" novelist
 Michgoose;40;???
 Michiana;40;Michigan-Indiana border region
