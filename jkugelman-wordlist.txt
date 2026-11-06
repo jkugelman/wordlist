@@ -6429,6 +6429,7 @@ Artemis I;40;2022 uncrewed NASA moon mission
 Artemisia;30;Plant genus
 Artemis II;60;First manned moon mission since 1972
 Artemus;20;1800s humorist
+arterio-;30
 arteriole;30;Capillary
 arterioles;30;Capillaries
 Arterton;40;Gemma Arterton, English actress (born 1986)
@@ -26208,6 +26209,7 @@ detesters;30
 Dethklok;40;"Metalocalypse" death metal band
 dethorn;30
 Detlef;20
+-Detoo;40
 Detoo;40
 detrital;40;Made of detritus
 Detroit;50;Michigan's largest city
@@ -30396,6 +30398,7 @@ ect-;20
 ecto-;40
 ectoderm;40
 ectoderms;40
+-ectomy;30
 écu;20;Old French coin
 Ecuador;50;Country on the equator
 Ecuadorian;50;From Quito, say
@@ -45759,6 +45762,7 @@ helicopter parenting;60
 helicopter parents;60
 Heligoland;40;German North Sea island
 Helio;40
+helio-;40
 Heliopolis;50;Ancient Egyptian city of the sun
 Helios;40;Greek sun god
 heliostat;40;Solar power device
@@ -50868,6 +50872,7 @@ in-joke;60
 in-jokes;60
 Injun;10
 in June;20
+in Just-;40;e. e. cummings poem
 ink;50
 Inkatha;20;Right wing political party in South Africa
 inked in;40
@@ -63445,6 +63450,7 @@ Mao suit;50
 Mao suits;50
 Maotai;30;Chinese liquor
 Mao Tse;40
+Mao Tse-;20
 Mao Tse-tung;50
 Ma'oz Tzur;40
 map;50
@@ -77520,6 +77526,7 @@ Phaedo;40;Plato dialogue on the immortality of the soul
 Phaedra;40;Theseus's wife in Greek myth / Phaedra Parks, reality star
 Phaedrus;50
 phag;20;Eating: prefix
+-phage;40
 Phair;40;Liz Phair, "Exile in Guyville" musician
 phalange;40;Phalanx
 phalanger;40;Possum
@@ -85611,6 +85618,8 @@ rictuses;30
 rid;50
 Rida;40;Flo Rida, rapper
 ridable;30
+ridden;50
+-ridden;40
 ridden at;20
 ridder;40
 ridders;40
@@ -106947,6 +106956,7 @@ tromp in;40
 tromping in;40
 tromps in;40
 Tron;50;Disney sci-fi film franchise
+-tron;40
 Tron Ares;50;"Tron: Ares"
 Trondheim;40;Norwegian city
 Troopa;40;Koopa Troopa, Mario turtle
@@ -112286,6 +112296,8 @@ wepa;30
 wept for;40
 WeRateDogs;50;Twitter account rating good dogs
 Werckmeister;40;Andreas Werckmeister, music theorist / "Werckmeister Harmonies" film
+we're;50
+were;50
 we're all ears;60
 we're all out;60
 we're all set;60
