@@ -24601,6 +24601,7 @@ Danity;30;Danity Kane, girl group
 Danity Kane;40;Girl group
 D'Anjou;40;Pear variety
 danke;40
+Dan Koh;40;Massachusetts representative
 Dan Marino;50
 Danner;40;Blythe Danner, actress
 Dannii;40;Dannii Minogue, singer and Kylie's sister
@@ -56406,7 +56407,7 @@ Kofi Annan;50;UN Secretary-General from 1997 to 2006
 Kofi Atta Annan;50;UN Secretary-General from 1997 to 2006
 Kogawa;40;Joy Kogawa, author of "Obasan"
 Kogonada;40;Director of "Columbus" and "After Yang"
-koh;20
+Koh;40;Dan Koh, Massachusetts representative
 Kohai;40;Japanese junior, opposite of senpai
 Kohan;40;Jenji Kohan, "Orange Is the New Black" creator
 Koh-e-Noor;40;Koh-e-Noor, 105.6 carat diamond in the Crown of Queen Elizabeth
@@ -92242,6 +92243,8 @@ shower radios;60
 showers;50
 shower scene;60
 shower scenes;60
+shower shoe;50
+shower shoes;60
 showers with gifts;60
 shower thought;60
 shower thoughts;60
