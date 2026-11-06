@@ -12650,9 +12650,11 @@ Bluetooth headsets;60
 Bluetooth receiver;50
 Bluetooth receivers;50
 bluets;40;Bluish flowers
+blue tsunami;60
 blue wall;60
 blue wall state;60
 blue wall states;60
+blue wave;60
 Bluey;50
 BLUF;40;Bottom line up front
 Bluff the Listener;60;NPR show where three panelists tell stories and one's a lie
