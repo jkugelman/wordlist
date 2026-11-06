@@ -56412,6 +56412,7 @@ Kohai;40;Japanese junior, opposite of senpai
 Kohan;40;Jenji Kohan, "Orange Is the New Black" creator
 Koh-e-Noor;40;Koh-e-Noor, 105.6 carat diamond in the Crown of Queen Elizabeth
 Koh-i-Noor;40;Koh-i-Noor, 105.6 carat diamond in the Crown of Queen Elizabeth
+Koh-i-noor;0
 Koh-i-Nur;40;Koh-i-Nur, 105.6 carat diamond in the Crown of Queen Elizabeth
 kohl;40
 Kohler;40;Kitchen/bathroom brand
