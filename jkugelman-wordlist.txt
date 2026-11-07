@@ -8040,7 +8040,16 @@ AWOL;50
 Awol Erizku;40
 Awolnation;40;"Sail" rock band
 AWOLs;40
+a word;50
+a word?;50
 A Word A Day;50
+a word from our sponsor;50
+a word in edgeways;50
+a word in edgewise;50
+A Word in Spanish;50;1988 single by Elton John
+a word of advice;60
+a word to;20
+a word to the wise;60
 a work of art;50
 a world of hurt;60
 a wrap;20
@@ -20990,13 +20999,16 @@ coibot;20;Wikipedia conflict-of-interest bot
 Coimbatore;40;Large city in Tamil Nadu
 Coimbra;40;Portuguese city with an ancient university
 coin a new word;50
+coin a word;50
 Coinbase;40;Cryptocurrency exchange
 coined a new word;50
+coined a word;50
 coiner;50
 coiners;50
 coin flip;60
 coin flips;60
 coining a new word;50
+coining a word;50
 coin-op;60
 coin-operated;60
 coin-op game;60
@@ -21009,6 +21021,7 @@ coin purses;50
 coin return;50
 coin returns;50
 coins a new word;50
+coins a word;50
 coin slots;50
 coin sorter;50
 coin sorters;50
@@ -23518,7 +23531,7 @@ crossword;60
 crossword constructor;50
 crossword constructors;60
 crosswords;60
-CrosswordTok;20;TikTok's crossword community
+CrosswordTok;50;TikTok's crossword community
 Crossy;40;"Crossy Road," mobile game
 cross your heart;50
 crotales;40;Percussion instrument
@@ -28072,6 +28085,10 @@ don't at me;60
 don't be;60
 don't be a fool;60
 don't be a hog;60
+don't believe a word;60
+don't believe a word he says;60
+don't believe a word she says;60
+don't believe a word they say;60
 don't believe everything you hear;60
 don't be mad;60
 don't be rude;60
@@ -43864,6 +43881,7 @@ had a temper;50
 had at it;40
 had a try;50
 had a try at;40
+had a word with;50
 had a yen for;40
 had butterflies;60
 Haddad;40;Fernando Haddad, Brazilian politician / Joumana Haddad, Lebanese writer
@@ -44826,6 +44844,7 @@ has a temper;50
 has at it;50
 has a try;50
 has a try at;40
+has a word with;50
 has a yen for;40
 Hasbro;50;Toy company
 has butterflies;60
@@ -45071,6 +45090,7 @@ have a temper;50
 have at it;60
 have a try;50
 have a try at;40
+have a word with;50
 have a yen for;40
 have been around;40
 have butterflies;60
@@ -45171,6 +45191,7 @@ having a sip;50
 having a temper;50
 having a try;50
 having a try at;40
+having a word with;50
 having a yen for;40
 having butterflies;60
 having designs on;50
@@ -49260,6 +49281,7 @@ Idlewild;50;JFK Airport's former name
 idli;40;Indian rice cake
 I'd Lie for You (And That's the Truth);50;1995 single by Meat Loaf
 idlike;40
+I'd like a word with you;60
 I'd like to but;60
 I'd like to buy;0
 I'd like to buy an A;40
@@ -50674,6 +50696,7 @@ I need a nap;60
 I need a ride;60
 I need a volunteer;60
 I need a win;60
+I need a word with you;60
 I needed that;60
 I need it;50
 I need some space;60
@@ -66004,6 +66027,7 @@ Mifune;40;Toshiro Mifune, Kurosawa's go-to actor
 MiG;40
 might as well;60
 might I add;60
+might I have a word?;60
 might I just add;60
 might makes right;60
 mights;40;Bad plural
@@ -71240,6 +71264,7 @@ not bat an eyelid;60
 not been;0
 not be good for;20
 not big on;60
+not breathe a word;50
 not care;30
 not care for;40
 not cheap;50
@@ -71377,6 +71402,7 @@ no true Scotsman fallacy;60
 nots;40;Forget-me-nots, have-nots
 not safe;40
 not safe for work;60
+not say a word;50
 not so fast;60
 not so hot;60
 not-so-secret;60
@@ -81668,6 +81694,8 @@ put down your pens;60
 Puth;40;Charlie Puth, pop singer
 put hair on one's chest;50
 put in a good word for;50
+put in a word;50
+put in a word for;50
 put into;40
 put into action;50
 put into effect;50
@@ -81729,6 +81757,8 @@ puts down on paper;50
 puts hair on one's chest;50
 puts in;40
 puts in a good word for;50
+puts in a word;50
+puts in a word for;50
 puts into;40
 puts into action;50
 puts into effect;50
@@ -81785,6 +81815,8 @@ putting down in writing;50
 putting down on paper;50
 putting hair on one's chest;50
 putting in a good word for;50
+putting in a word;50
+putting in a word for;50
 putting into;40
 putting into action;50
 putting into effect;50
@@ -114213,9 +114245,11 @@ word searches;60
 word search puzzle;60
 word search puzzles;60
 words of wisdom;60
+words to;20
 words to live by;60
 Wordsworth;50;William Wordsworth, Romantic poet
 Wordsworthian;50;Like the Lake District poet
+word to;20
 wore a wire;60
 wore in;40;More commonly "broke in"
 wore on;40
