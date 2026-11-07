@@ -56407,7 +56407,7 @@ Kofi Annan;50;UN Secretary-General from 1997 to 2006
 Kofi Atta Annan;50;UN Secretary-General from 1997 to 2006
 Kogawa;40;Joy Kogawa, author of "Obasan"
 Kogonada;40;Director of "Columbus" and "After Yang"
-Koh;40;Dan Koh, Massachusetts representative
+Koh;30;Dan Koh, Massachusetts representative
 Kohai;40;Japanese junior, opposite of senpai
 Kohan;40;Jenji Kohan, "Orange Is the New Black" creator
 Koh-e-Noor;40;Koh-e-Noor, 105.6 carat diamond in the Crown of Queen Elizabeth
