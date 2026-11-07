@@ -6515,6 +6515,7 @@ art studios;60
 artsy-fartsy;60
 art test;30;Green paint
 art tests;30
+Art the Clown;60
 art theft;60
 art theory;60
 art thief;60
@@ -56438,6 +56439,7 @@ Kokomo;50;Indiana city, or a Beach Boys hit
 Kokopelli;50;Flute-playing Southwestern fertility deity
 Kokoro;40;Sōseki novel, or Japanese for "heart"
 Kokoschka;40;Oskar Kokoschka, Austrian expressionist
+Koko the Clown;50;Cartoon character in the silent era
 Kol;20
 kola;40
 kolas;40;Caffeinated nuts
@@ -115649,7 +115651,7 @@ you don't mean that;60
 you don't say;60
 you do that;60
 you do the talking;60
-you down to clown?;60;Question
+you down to clown?;60
 you do you;60
 you finished?;60
 you finished;0
