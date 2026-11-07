@@ -23532,6 +23532,8 @@ crossword constructor;50
 crossword constructors;60
 crosswords;60
 CrosswordTok;50;TikTok's crossword community
+crossword tournament;60
+crossword tournaments;60
 Crossy;40;"Crossy Road," mobile game
 cross your heart;50
 crotales;40;Percussion instrument
