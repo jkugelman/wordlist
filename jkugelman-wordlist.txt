@@ -16125,6 +16125,9 @@ caltrop;30;Road spike
 caltrops;30;Road spikes
 Calum;40;Calum Scott, British singer
 calumets;30;Peace pipes
+Calvados;40
+calvaries;40
+Calvary;40
 Calvert;40;George Calvert, Lord Baltimore
 Calvin;50;Calvin and Hobbes, or John Calvin
 Calvinball;60;"Calvin and Hobbes" game whose rules change constantly
@@ -25537,6 +25540,7 @@ Deerhunter;40;Bradford Cox's indie rock band
 deerskin;50
 deerskins;50
 Deerslayer;50;Cooper's Natty Bumppo novel
+Deer Valley;50
 Dees;30
 Deesha;30;Deesha Philyaw, author of "The Secret Lives of Church Ladies" (2020)
 Deesha Philyaw;50;Author of "The Secret Lives of Church Ladies" (2020)
@@ -38500,6 +38504,7 @@ Galatea;50;Statue brought to life by Pygmalion
 Galatia;30;Ancient Turkish region
 Galatian;30;Celtic person of old
 Galatians;30;Bible book
+Galavant;40;Musical fantasy comedy television series (2015-16)
 galaxies;50
 galaxy;50
 galaxy gas;60;Flavored laughing gas (whippits)
@@ -49005,6 +49010,8 @@ ice cold take;60
 ice cold takes;60
 ice cream sandwich;60
 ice cream sandwiches;60
+ice cream vendor;50
+ice cream vendors;50
 ice cube tray;50
 ice cube trays;50
 ice dance;50
@@ -54613,6 +54620,8 @@ Kabul;50;Capital of Afghanistan
 Kabyle;40;Berber people and language of Algeria
 Kabyles;40;Berber people of Algeria
 Kacey;40
+ka-chow!;50;Lightning McQueen's catchphrase in "Cars"
+ka-chow;0
 Kaczmarek;40;Jane Kaczmarek, "Malcolm in the Middle" mom
 Kadabra;40;Pokeyman
 Kadare;40;Ismail Kadare, Albanian novelist
