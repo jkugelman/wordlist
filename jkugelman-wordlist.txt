@@ -70,6 +70,25 @@
 15-year-olds;40
 16:9;40;Aspect ratio for TV and computer monitors
 16:9 aspect ratio;60
+16-bit;50
+16-bit architecture;50
+16-bit architectures;50
+16-bit color;50
+16-bit computer;50
+16-bit computers;50
+16-bit computing;50
+16-bit console;50
+16-bit consoles;50
+16-bit graphics;50
+16-bit image;50
+16-bit images;50
+16-bit machine;50
+16-bit machines;50
+16-bit microcomputer;50
+16-bit microcomputers;50
+16-bit processor;50
+16-bit processors;50
+16-bit sound;50
 16 Blocks;40;2006 Bruce Willis / Mos Def action thriller
 16 Candles;40;Spelled out is the norm
 16-year-old;40
@@ -135,6 +154,10 @@
 24/7;50
 24/7/365;60
 24/7 news cycle;60;Investigation and reporting of news, concomitant with fast-paced lifestyles
+24-bit color;50
+24-bit graphics;50
+24-bit image;50
+24-bit images;50
 24-hour news cycle;60;Investigation and reporting of news, concomitant with fast-paced lifestyles
 24-hour society;60;Modern society in which people can buy goods, work, go to restaurants, etc. all night and all day
 24: Live Another Day;50;2014 limited event television series
@@ -166,6 +189,20 @@
 30 for 30;50;ESPN sports documentary film series
 30 Rock;50;NBC Tina Fey sitcom 2006-13
 3:10 to Yuma;60;Western movie
+32-bit;50
+32-bit architecture;50
+32-bit architectures;50
+32-bit color;50
+32-bit computer;50
+32-bit computers;50
+32-bit computing;50
+32-bit graphics;50
+32-bit image;50
+32-bit images;50
+32-bit machine;50
+32-bit machines;50
+32-bit processor;50
+32-bit processors;50
 .38 Special;50;Smith & Wesson revolver cartridge
 3 AM;40;1996 Matchbox Twenty single
 3am;40
@@ -263,6 +300,16 @@
 5-year-old;40
 5-year-olds;40
 60 Minutes;60;American television news magazine program
+64-bit;50
+64-bit architecture;50
+64-bit architectures;50
+64-bit computer;50
+64-bit computers;50
+64-bit computing;50
+64-bit machine;50
+64-bit machines;50
+64-bit processor;50
+64-bit processors;50
 69;10
 69ed;10
 69ing;10
@@ -309,6 +356,25 @@
 867-5309;60;1981 single by Tommy Tutone
 867-5309/Jenny;60;1981 single by Tommy Tutone
 8am;40
+8-bit;50
+8-bit architecture;50
+8-bit architectures;50
+8-bit color;50
+8-bit computer;50
+8-bit computers;50
+8-bit computing;50
+8-bit console;50
+8-bit consoles;50
+8-bit graphics;50
+8-bit image;50
+8-bit images;50
+8-bit machine;50
+8-bit machines;50
+8-bit microcomputer;50
+8-bit microcomputers;50
+8-bit processor;50
+8-bit processors;50
+8-bit sound;50
 8K UHD;40;Ultra-high-definition
 8 maids a-milking;60
 8 Mile;60;2002 Eminem movie
@@ -13293,6 +13359,12 @@ Boosey;40;Boosey & Hawkes, music publisher
 Boosh;40;"The Mighty Boosh," British comedy series
 Boosler;40;70s/80s comedian Elayne Boosler
 boos off stage;60
+booster chair;60
+booster chairs;60
+booster club;60
+booster clubs;60
+booster seat;60
+booster seats;60
 booster shot;60
 booster shots;60
 boot camp;60
@@ -21790,6 +21862,8 @@ conference centres;20
 Confessions of a Teenage Drama Queen;20;2004 Lindsay Lohan teen musical
 confetti launcher;60
 confetti launchers;60
+confidence booster;60
+confidence boosters;60
 confider;40
 confiders;40
 confined to;40
@@ -92691,6 +92765,8 @@ Sigismund;40;Holy Roman Emperor
 Sigler;40;Jamie-Lynn Sigler, "The Sopranos" actress
 Sigmund;50;Sigmund Freud, founder of psychoanalysis
 Signac;40;Paul Signac, pointillist painter
+signal booster;60
+signal boosters;60
 signal fire;60
 signal fires;60
 signal flare;60
