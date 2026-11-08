@@ -88672,6 +88672,9 @@ Sarafina!;40;South African musical and film
 Sarafina;0
 Sarah;50;Common given name / Sarah Bernhardt, actress
 Sarah Dessen;50;YA author Sarah Dessen
+Sarah Jessica;20
+Sarah J. Maas;60;Romantasy author of "A Court of Thorns and Roses"
+Sarah J Maas;0
 Sarah McBride;60;First transgender member of Congress
 Sarahs;30
 Sarajevan;40;Bosnian capital resident
