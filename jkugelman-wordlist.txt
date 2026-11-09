@@ -79,6 +79,8 @@
 16-bit computing;50
 16-bit console;50
 16-bit consoles;50
+16-bit CPU;50
+16-bit CPUs;50
 16-bit graphics;50
 16-bit image;50
 16-bit images;50
@@ -86,6 +88,10 @@
 16-bit machines;50
 16-bit microcomputer;50
 16-bit microcomputers;50
+16-bit operating system;50
+16-bit operating systems;50
+16-bit OS;40
+16-bit OSes;40
 16-bit processor;50
 16-bit processors;50
 16-bit sound;50
@@ -196,11 +202,17 @@
 32-bit computer;50
 32-bit computers;50
 32-bit computing;50
+32-bit CPU;50
+32-bit CPUs;50
 32-bit graphics;50
 32-bit image;50
 32-bit images;50
 32-bit machine;50
 32-bit machines;50
+32-bit operating system;50
+32-bit operating systems;50
+32-bit OS;40
+32-bit OSes;40
 32-bit processor;50
 32-bit processors;50
 .38 Special;50;Smith & Wesson revolver cartridge
@@ -306,8 +318,14 @@
 64-bit computer;50
 64-bit computers;50
 64-bit computing;50
+64-bit CPU;50
+64-bit CPUs;50
 64-bit machine;50
 64-bit machines;50
+64-bit operating system;50
+64-bit operating systems;50
+64-bit OS;40
+64-bit OSes;40
 64-bit processor;50
 64-bit processors;50
 69;10
@@ -365,6 +383,8 @@
 8-bit computing;50
 8-bit console;50
 8-bit consoles;50
+8-bit CPU;50
+8-bit CPUs;50
 8-bit graphics;50
 8-bit image;50
 8-bit images;50
@@ -52757,6 +52777,7 @@ it's what everyone's thinking;60
 it's what we're all thinking;60
 it's what we've all been thinking;60
 it's when, not if;60
+itsy-bitsy spider;60
 it's you;60
 it's you and me against the world;60
 it's your ass;60
@@ -68920,6 +68941,9 @@ nail;50
 nail apron;50
 nail aprons;50
 nail art;50
+nail-biter;60
+nail-biters;60
+nail-biting;60
 nailed;50
 nailed in;40
 nailed it;60
@@ -108016,6 +108040,8 @@ two-bagger;50
 two-baggers;50
 two bars;50;OK signal
 two-bit chiselers;40
+two-bit gangster;60
+two-bit gangsters;60
 two-by-four;60
 two-by-fours;60
 two-car;50
