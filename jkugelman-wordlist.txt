@@ -93567,16 +93567,16 @@ skibobbing;50
 skibobs;40
 ski chalet;60
 ski chalets;60
-skidded out;40
-skidding out;40
+skidded out;50
+skidding out;50
 skiddy;40
 skid lid;50
 skid lids;50
 Skidmore;40;Saratoga Springs college
 skidoo;40
-skid out;40
+skid out;50
 skid row bum;20
-skids out;40
+skids out;50
 skied out;30
 skies out;30
 SkiFree;40;Windows game with the abominable snowman
