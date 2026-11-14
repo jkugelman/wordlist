@@ -98744,6 +98744,26 @@ stultified;50
 stultifies;40
 stultify;40
 stultifying;50
+stumble about;50
+stumbled about;50
+stumbled in;50
+stumbled into;40
+stumbled onto;50
+stumbled out;50
+stumble in;50
+stumble into;40
+stumble onto;50
+stumble out;50
+stumbles about;50
+stumbles in;50
+stumbles into;40
+stumbles onto;50
+stumbles out;50
+stumbling about;50
+stumbling in;50
+stumbling into;40
+stumbling onto;50
+stumbling out;50
 stumped for;40
 stumpf fiddle;50;Musical instrument
 stump fiddle;50;Musical instrument
