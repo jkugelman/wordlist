@@ -46175,6 +46175,8 @@ Herculean;0
 Hercules;50
 Herculius;40;Maximian, nicknamed Herculius, Roman emperor from 286 to 305
 herd;50
+herd animal;50
+herd animals;50
 herd cats;60
 herded;50
 herded cats;60
