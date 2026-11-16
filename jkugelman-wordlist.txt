@@ -27308,6 +27308,8 @@ dispenses with;40
 dispense with;40
 dispensing with;40
 DiSpirito;40;TV chef Rocco DiSpirito
+display screen;50
+display screens;50
 disport;30
 disported;30
 disporting;30
@@ -30528,7 +30530,8 @@ Ecuadorians;40;People of Ecuador
 écus;20;Old French coins
 ecycled;30
 ecycling;30
-Ed;40
+Ed;50
+ed.;40
 Eda;20
 edacious;30
 edacity;30
@@ -68000,6 +68003,8 @@ move to strike;60
 move your tail;60
 movie agent;60
 movie agents;60
+movie credit;50
+movie credits;50
 movie deal;60
 movie deals;60
 movie fan;40
@@ -106242,6 +106247,8 @@ touch grass;60
 touching a nerve;60
 touching a raw nerve;60
 touch-me-not;60;A.k.a. shameplant
+touch pass;50
+touch passes;50
 touch sensitive;60
 Tougaloo;40;Mississippi HBCU
 toughie;50
