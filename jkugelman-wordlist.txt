@@ -84796,6 +84796,8 @@ renrocaotni;0
 renrocehtdnuora;0
 Rensselaer;40;New York city
 Renta;40;Oscar de la Renta, fashion designer
+rental canoe;50
+rental canoes;50
 rental car pickup;20
 rental contract;50
 rental contracts;50
