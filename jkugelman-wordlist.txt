@@ -105164,6 +105164,8 @@ tip one's cap to;60
 tip one's hand;50
 tip one's hat;50
 Tippecanoe;50;Battle site in "Tippecanoe and Tyler Too"
+Tippecanoe and;0
+Tippecanoe and Tyler too;60
 tipped in;40
 tipped one's cap;60
 tipped one's cap to;60
