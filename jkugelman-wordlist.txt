@@ -53096,6 +53096,7 @@ Jacksonville;50;Florida's most populous city
 Jacksonvillian;40;Jacksonville resident
 Jacksonvillians;40;Florida city's residents
 Jack Soo;50
+jacks or better;60
 Jack the Giant Slayer;50;Movie
 Jack Torrance;60;From "The Shining"
 Jack Webb;50
@@ -58948,6 +58949,7 @@ lemon rind;50
 lemon rinds;50
 lemon slice;60
 lemon slices;60
+lemon sorbets;50
 lemon squeezy;60
 lemon twist;60
 lemon twists;60
@@ -59907,6 +59909,8 @@ limbo sticks;60
 Limburg;40;Dutch province, cheese namesake
 Limburger;50;Notoriously stinky cheese
 limerence;60
+lime sorbet;50
+lime sorbets;50
 LimeWire;50;Bygone file-sharing app
 limier;30
 limiest;30
@@ -74303,6 +74307,8 @@ Orangemen;40;Ulster Protestant order, or old Syracuse team name
 orange pip;60
 orange pips;60
 orange pop;50
+orange sorbet;50
+orange sorbets;50
 Orangina;50;Citrus soda in a bulby bottle
 Oranginas;40;Fizzy orange sodas
 orangs;40
@@ -83267,6 +83273,8 @@ Rasoulof;40;Mohammad Rasoulof, Iranian director
 raspberried;60
 raspberries;50
 raspberry;50
+raspberry sorbet;50
+raspberry sorbets;50
 rasper;30
 raspers;30
 Rasputin;50;Grigori Rasputin, the mad monk
@@ -98354,6 +98362,8 @@ strawberry seeds;50
 strawberry shake;50
 strawberry shakes;50
 strawberry shortcake;50
+strawberry sorbet;50
+strawberry sorbets;50
 strawberry tree;50
 strawberry trees;50
 strawberry wine;50
