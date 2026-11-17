@@ -55161,6 +55161,8 @@ Kawasakis;40;Kawasaki motorcycles
 Kawhi;40;NBA All-Star Kawhi Leonard
 Kaws;40;Contemporary artist behind the Companion figure
 Kay;40
+kayak rental;50
+kayak rentals;50
 Kaye;40
 kayfabe;60
 Kayleigh;40;Kayleigh McEnany, press secretary, or a first name
@@ -89938,6 +89940,9 @@ sea hares;40
 Seahenge;40;Bronze Age timber circle in Norfolk
 sea hog;40;Porpoise
 sea hogs;40
+sea kayaker;50
+sea kayakers;50
+sea kayaks;50
 Sealab;40;"Sealab 2021" cartoon
 Sealand;40;Micronation on a North Sea platform
 Seale;40;Bobby Seale
@@ -99517,6 +99522,11 @@ surfer girl;50
 Surfer Girl;50
 surfer girls;50
 Surfin';40
+surf kayak;50
+surf kayaker;50
+surf kayakers;50
+surf kayaking;50
+surf kayaks;50
 surf rock band;60
 surf rock bands;60
 surf shop;50
@@ -100979,6 +100989,8 @@ Tanaka;40
 Tanakh;30;Hebrew Bible
 Tananarive;40;Tananarive Due, horror novelist
 Tancredi;40;Rossini opera / Sara Tancredi of "Prison Break"
+tandem kayak;50
+tandem kayaks;50
 tandems;50;Tandem bikes
 Tanden;30;Neera Tanden, Biden policy adviser
 tandoor;50
@@ -108107,6 +108119,8 @@ two irons;50
 T-Wolf;20;Minnesota Timberwolves player, informally
 two-l llama;40
 T-Wolves;20;Minnesota Timberwolves, informally
+two-man kayak;50
+two-man kayaks;50
 Twombly;40;Painter Cy Twombly
 twoness;20
 two nothing;40
