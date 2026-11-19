@@ -9971,6 +9971,7 @@ Battle of the Ebro;40
 Battle of the Nile;50
 battle of the sexes;60
 Battle of the Sinai;50
+Battle of Tippecanoe;50
 Battle of Verdun;50
 Battle of Waterloo;50
 battle of wills;60
@@ -67040,6 +67041,8 @@ models;50;They might say "Take your best shot!"
 Model S;40
 Model Ss;40
 Model UN;60
+model volcano;50
+model volcanoes;50
 Model X;40
 Model Xs;40
 Model Y;40
@@ -102837,6 +102840,7 @@ the bar is on the floor;60
 The Bat;60;Batman, to goons
 the Batpole;20
 the Battle of Bunker Hill;50
+the Battle of Tippecanoe;50
 the BBC;20
 The Beach Boys;60
 The Bean;60;Shiny metal sculpture in Chicago aka "Cloud Gate"
