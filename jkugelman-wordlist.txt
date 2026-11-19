@@ -45691,6 +45691,7 @@ heaving up;40
 Heaviside;40;Oliver Heaviside, physicist of the Heaviside layer
 heavy bag;50
 heavy bags;50
+heavy is the head that wears the crown;60
 heavy metal;60
 heavy metal riff;60
 heavy metal riffs;60
@@ -50968,6 +50969,10 @@ inhere;50;"In here!"
 inhered;40
 inherence;30
 inheres;40
+inherited the crown;50
+inheriting the crown;50
+inherits the crown;50
+inherit the crown;50
 in high gear;60
 in high heels;50
 in his hat;30
@@ -56105,6 +56110,7 @@ King Tutankhamun;60
 King Tut exhibit;50
 King Tut's tomb;60
 King Wenceslas;50
+king without a crown;50
 Kinji;40;Kinji Fukasaku, "Battle Royale" director
 Kinkade;40;Thomas Kinkade, the "Painter of Light"
 kinkajou;40;Rainforest mammal "honey bear"
@@ -63236,6 +63242,7 @@ Malraux;40;André Malraux, French novelist and culture minister
 Malta;50;Mediterranean island nation
 Maltby;40;Richard Maltby Jr., Tony-winning Broadway director
 Maltese;50;Small white dog / Malta native
+Maltese Falcon;60
 Malteser;40;British malted milk ball candy
 Maltesers;40;Malted milk ball candy
 Malthus;40;Thomas Malthus, population theorist
@@ -103426,6 +103433,7 @@ the main act;40
 the main course;40
 the majors;30
 the male bag;20;Pun on mailbag
+The Maltese Falcon;60
 the mambo;30
 the man;60
 The Man Behind the Curtain;60
@@ -103474,6 +103482,7 @@ the middle of nowhere;60
 The Mikado;60
 the mile;20
 the mile run;20
+The Millennium Falcon;60
 the Mines of Moria;50
 the Ministry of Magic;60
 the Minotaur;40
@@ -103627,6 +103636,7 @@ the Pinta;20
 The Pirate;40;Walter Scott novel
 The Pirate Bay;50;Website providing torrent files and magnet links
 The Pit;20
+The Pit and the Pendulum;60
 The Pitt;60
 The Pixies;60
 the place to be;60
@@ -103945,6 +103955,7 @@ the theater;50
 the thief of joy;60;Comparison, it's said
 the third degree;40
 the third rail;40
+The Thomas Crown Affair;50
 the thought police;60
 the Three Bears;40
 the Three Furies;50;Erinyes of Greek myth
@@ -104337,6 +104348,7 @@ tholes;20
 tholing;20
 Thom;50
 Thomas;50;Common name
+Thomas Crown Affair;50
 Thomas Dewey;50;47th governor of New York from 1943 to 1954
 Thomas E. Dewey;50;47th governor of New York from 1943 to 1954
 Thomas Edison;60
