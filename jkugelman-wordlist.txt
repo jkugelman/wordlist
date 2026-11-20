@@ -36266,7 +36266,11 @@ flannel coat;50
 flannel coats;50
 Flannery;50;Flannery O'Connor, Southern Gothic author
 Flansburgh;40;John Flansburgh, They Might Be Giants co-founder
+flap one's gums;60
+flapped one's gums;60
+flapping one's gums;60
 Flappy Bird;60
+flaps one's gums;60
 flare at;20
 flared at;20
 flare gun;50
@@ -65730,20 +65734,24 @@ Mesozoic;50;Era of the dinosaurs
 message in a bottle;60
 Messala;30;Ben-Hur antagonist
 Messalina;40;Roman empress, wife of Claudius
+messed with one's head;60
 messenger RNA;60
 Messenia;30;Greek region
 Messerschmitt;50;German WWII fighter plane
+messes with one's head;60
 Messi;50
 Messiaen;40;Olivier Messiaen, French composer
 messin';30
 Messina;40;Chris Messina, actor, or the Sicilian city
 Messinas;20
+messing with one's head;60
 Messner;40;Reinhold Messner, first to climb Everest solo without oxygen
 Messrs.;30
 Messrs;0
 messuage;30;Dwelling
 messuages;30
 Messud;40;Claire Messud, novelist
+mess with one's head;60
 messy bun;60
 messy buns;60
 messy eater;60
@@ -67629,6 +67637,7 @@ Mordor;50;Sauron's realm in "The Lord of the Rings"
 Mordred;40;King Arthur's killer
 more after the jump;60
 Moreau;40;Artist Gustave Moreau
+more bark than bite;60
 Morecambe;40;Eric Morecambe, of Morecambe and Wise
 more cowbell;60
 moreen;20;Fabric
@@ -73008,6 +73017,7 @@ okay Mr. Smarty-pants;60
 okay, now what?;60
 okay, smarty-pants;60
 okay sure;60
+okay sure, whatever;60
 okay, that's enough;60
 okay then;60
 okay, you've had your fun;60
@@ -83205,6 +83215,8 @@ Raquel;40;Raquel Welch, "One Million Years B.C." actress
 rara;40;___ avis
 rarae;20
 rare as hen's teeth;60
+rare baseball card;50
+rare baseball cards;50
 rare bird;50
 rare birds;50
 rarebit;40;Welsh dish
@@ -112782,13 +112794,15 @@ what choice did I have;60
 what choice do I have;60
 what could go wrong;60
 what could have been;60;Trope
-what did I just read;60
+what did I just read?;60
+what did I just read;0
 what does it matter;60
 what does it say?;60
 what does it say;0
 what does that even mean;60
 what does that have to do with the price of tea in China?;60
-what does that mean;60
+what does that mean?;60
+what does that mean;0
 What Does the Fox Say?;60
 What Does the Fox Say;0
 what do we say?;60
@@ -114096,6 +114110,8 @@ wireless mice;60
 wireless mouse;60
 wireless network;60
 wireless networks;60
+wireless password;60
+wireless passwords;60
 wireless printer;60
 wireless printers;60
 wireless security;60
