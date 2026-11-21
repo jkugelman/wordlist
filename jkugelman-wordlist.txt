@@ -5002,6 +5002,8 @@ años;40
 a nose;40
 a nose for news;60
 anosmia;20;Loss of sense of smell
+Another One Bites the Dust;60
+Another One Rides the Bus;60
 Another Roadside Attraction;50;1971 novel by Tom Robbins
 Another Saturday Night;60
 another thing;60
@@ -18715,6 +18717,7 @@ Charlie Day;50
 Charlie's;40;"___ Angels"
 Charli XCX;60;"Brat" singer
 Charlize;50;Charlize Theron, Oscar-winning actress
+Charlize Theron;60
 Charlotte;50;North Carolina city, or a given name
 Charlotte Hornet;50
 Charlotte's;40;"Charlotte's Web," E.B. White classic
@@ -26867,6 +26870,7 @@ digitalizing;30
 digital libraries;60
 digital library;60
 digital literacy;60
+digitally remastered;60
 Digital Short;60
 Digital Shorts;60
 digital SLR;50
@@ -31822,6 +31826,7 @@ End key;50
 end key;0
 End keys;40
 end keys;0
+endlessly rewatchable;60
 endo;40
 endocarp;40;Seed layer
 endodontic;40
@@ -52204,6 +52209,8 @@ isolators;40
 Isolda;20;Not Tristan's love, it's rarely spelled that way
 Isolde;50;Tristan's beloved
 isomeric;40
+isometric exercise;60
+isometric exercises;60
 isomorph;40
 isomorphs;40
 is on the blink;20
@@ -70808,6 +70815,7 @@ Noam;40;Noam Chomsky, linguist
 no Amex;20
 no angel;60
 no arms;30
+no assembly required;60
 nob;40;Head
 Nob;40;Nob Hill
 Nobama;40
@@ -75563,6 +75571,7 @@ paid one's fair share;50
 paid one's respects;50
 paid one's way;50
 paid retail;50
+paid sick leave;50
 paid the price;60
 paid the tab;50
 paid to;40
@@ -83746,6 +83755,7 @@ reallots;30
 reallotted;30
 reallotting;30
 really into;50
+really really;60
 real man;40
 real mature;60
 real me;50
@@ -92703,6 +92713,8 @@ sick as a dog;60
 sick bay;60
 sick burn;60
 sickish;30
+sick leave;50
+sick leaves;20
 sicklily;30;Weird adverb
 Sickly Smurf;50
 sickly sweet;60
@@ -108983,6 +108995,7 @@ unopen;30
 unopinionated;50
 unorganic;40
 unos;40
+unpaid sick leave;50
 unpause;50
 unpaused;50
 unpauses;50
