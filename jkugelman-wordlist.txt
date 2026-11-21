@@ -2445,6 +2445,7 @@ aides-de-camp;50
 aidless;30
 Aidoo;40;Ama Ata Aidoo, Ghanaian author
 aids;50
+AIDS Quilt;50
 aid station;60
 aid stations;60
 AIDS vaccine;50
@@ -9583,9 +9584,11 @@ barreled along;50
 barrelhouse;60;Cheap drinking and dancing establishment, or strident style of jazz or blues
 barrelhouses;60
 barreling along;50
+barrel of oil;50
 barrel organ;50
 barrel organs;50
 barrels along;50
+barrels of oil;50
 barren wasteland;50
 barren wastelands;50
 Barrera;40;Melissa Barrera, "In the Heights" actress
@@ -14477,6 +14480,8 @@ British Academy;60
 British Academy Film Award;60
 British Academy Film Awards;60
 British Academy of Film and Television Arts;60
+British alehouse;50
+British alehouses;50
 Britisher;40;A Brit, old-style
 Britishers;40;Brits, old-fashioned
 British Film Academy;60
@@ -16624,6 +16629,7 @@ canoers;40
 canoe spare a dime;0
 can of beer;50
 can of corn;50
+can of oil;40
 can of sardines;40
 can of tomatoes;40
 can of tuna;50
@@ -16647,6 +16653,7 @@ cans it;40
 can so;40;Playground retort
 cans of beer;50
 cans of corn;50
+cans of oil;40
 cans of sardines;40
 cans of tomatoes;40
 cans of tuna;50
@@ -34448,6 +34455,8 @@ family home;50
 family line;50
 family lines;50
 family-owned;50
+family recipe;60
+family recipes;60
 family tradition;50
 family unit;50
 family units;50
@@ -42818,6 +42827,7 @@ great Scott!;60
 great Scott;0
 great shot;50
 great stuff;60
+Great Ziggurat of Ur;60
 grebdlogipoohw;0
 grebe;30;Diving bird
 grebes;30
@@ -43651,6 +43661,7 @@ gulab jamun;50;Indian dessert gulab jamun
 Gulager;30;Actor Clu Gulager
 Gulf of America;60
 Gulf of Mexico;60
+Gulf oil spill;50
 Gulf state;50
 Gulf states;50
 Gulistan;40;Saadi's Persian classic
@@ -54117,6 +54128,7 @@ Johar;40;Karan Johar, Bollywood director
 john;50
 John;50
 John B;30
+John Birch Society;50;Right-wing advocacy group
 John Bonham;60;Led Zeppelin drummer
 John Cage;60
 John Cameron Swayze;50;News commentator and game show panelist (1906–1995)
@@ -73172,6 +73184,8 @@ Old Eli;40;Nickname for Yale
 Oldenburg;30;German city
 older pipes;20;Green paint
 olde worlde;50
+old family recipe;60
+old family recipes;60
 old fart;60
 old favorite;60;Something loved since way back when
 old favorites;60
@@ -77064,6 +77078,7 @@ Peeta;40;From "The Hunger Games"
 Peete;40;Various
 Peet's;40;Coffee chain
 peewee;50
+Pee-wee Herman Show;50
 pee-wee league;60
 Pee Wee Reese;50
 peewit;30;Bird
@@ -91845,6 +91860,7 @@ shell-shocks;60
 Shelly;40;Adrienne Shelly, director of "Waitress"
 she loves me;50
 she loves me not;50
+Shel Silverstein;60
 sheltie;40;Shetland sheepdog
 Sheltie;0
 shelties;40;Shetland sheepdogs
@@ -93074,6 +93090,12 @@ Silurian;40;Geologic period after the Ordovician
 Silva;40;Anderson Silva, MMA champion / Lula da Silva, Brazilian president
 Silverado;50;Chevy pickup truck
 Silverados;40;Chevy pickups
+Silver Age;60
+Silver Age of Comic Books;60
+silver anniversaries;50
+silver anniversary;60
+silverback gorilla;60
+silverback gorillas;60
 silver boot;50
 silver bullet;60
 silver bullets;60
@@ -102845,6 +102867,7 @@ the Aeneid;20
 the AFI list;20
 the afternoon of;20
 The Age;20
+the Age of Oil;40
 the age of steam;40
 Theages;30;Dialogue attributed to Plato
 the air;20
@@ -116709,6 +116732,7 @@ Ziering;30;Actor Ian of 90210
 zig;50
 Zigeunerweisen;40;Pablo de Sarasate violin showpiece
 Ziggler;40;Dolph Ziggler, WWE wrestler
+Ziggurat of Ur;60
 Ziggy;50;Ziggy Stardust, Bowie's alter ego / Ziggy Marley
 Zihuatanejo;50;Mexican beach town Andy Dufresne heads for
 Zika;40;Mosquito virus
