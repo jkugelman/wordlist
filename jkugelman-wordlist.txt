@@ -79294,6 +79294,8 @@ ply;50
 plying one's trade;50
 plying one's wares;50
 Plymouth;50;Pilgrims' landing place
+plyometric exercise;60
+plyometric exercises;60
 ply one's trade;50
 ply one's wares;50
 plz;40
