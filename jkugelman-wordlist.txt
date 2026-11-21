@@ -12698,6 +12698,8 @@ blue notes;60
 Blue Nun;30
 blue onyx;50
 Blue Origin;60
+Blue Öyster Cult;60
+Blue Oyster Cult;0
 blue paint;20
 blue paper;30
 blue pill;60
@@ -20949,7 +20951,8 @@ Coco;50;Coco Chanel / Coco Gauff, tennis star / Pixar film
 cocoa mix;50
 cocoa mixes;50
 cocoa powder;50
-Cocoa Puff;30
+Cocoa Puff;40
+Cocoa Puffs;60
 cocoas;40
 cocoa syrup;50
 cocobolo;50
@@ -33919,6 +33922,7 @@ ey em eir pronouns;0
 ey/em pronouns;50;Set of gender-neutral neopronouns
 ey em pronouns;0
 eye of newt;60;Witches' brew ingredient in Macbeth
+eye of newt and toe of frog;60
 Eye of Ra;60
 eye on the ball;60
 eyepatch;50
@@ -41286,6 +41290,7 @@ goes solo;50
 goes sour;50
 goes stag;50
 goest;30
+goes the weasel;20
 goes to;40
 goes to and fro;50
 goes to bat for;60
@@ -43945,6 +43950,7 @@ had a couple;60
 had a cow;50
 had a crush on;60
 had a drink;50
+had a frog in one's throat;50
 had a go at it;50
 had a hankering;50
 had a hankering for;50
@@ -44912,6 +44918,7 @@ has a couple;60
 has a cow;50
 has a crush on;60
 has a drink;50
+has a frog in one's throat;50
 has a go at it;50
 has a hankering;50
 has a hankering for;50
@@ -45158,6 +45165,7 @@ have a couple;60
 have a cow;60
 have a crush on;60
 have a drink;50
+have a frog in one's throat;50
 have a go at it;50
 have a good trip;50
 have a hankering;50
@@ -45266,6 +45274,7 @@ having a conniption;60
 having a cow;50
 having a crush on;60
 having a drink;50
+having a frog in one's throat;50
 having a go at it;50
 having a hankering;50
 having a hankering for;50
@@ -46655,6 +46664,7 @@ high word score;50
 high word scores;50
 hi ho;40
 hi-ho;40
+hi-ho Kermit the Frog here;60
 hi, hon;50
 hi honey I'm home;60
 Hi Hos;20
@@ -47864,7 +47874,10 @@ Hot Chocolate;60;"You Sexy Thing" (1975) soul band
 hot chocolate bomb;60
 hot chocolate bombs;60
 hot cocoa;60
-hot cocoas;40
+hot cocoa bomb;60
+hot cocoa bombs;60
+hot cocoa mix;60
+hot cocoas;60
 hot coffee;50
 hot coffees;50
 hot date;60
@@ -50109,6 +50122,7 @@ ImClone;30;Company in Martha Stewart's trading scandal
 I'm comin';0
 I'm cooked;60
 I'm cool;60
+I'm cuckoo for Cocoa Puffs;60
 I'm curious;60
 IMDb;40
 I'm dead;60
@@ -51229,6 +51243,7 @@ instalments;20
 instals;20
 Instamatic;50;Kodak's classic snapshot camera
 Instamatics;50;Old Kodak cameras
+instant cocoa mix;50
 instant coffee;60
 instant coffees;50
 Instant Icicle Maker;60;Acme invention
@@ -53416,6 +53431,8 @@ Japan;50
 Japandroids;50;Canadian garage rock duo
 Japanese;50;Language of Japan
 Japanese mustard spinach;50
+Japanese oyster;50
+Japanese oysters;50
 japanned;40
 japanning;40;Type of finish
 Japanoise;40;Japanese noise music
@@ -55639,6 +55656,7 @@ Kermanshah;40;Iranian city
 Kermie;40;Miss Piggy's pet name for Kermit
 Kermit;50;Kermit the Frog, Muppet
 Kermit Roosevelt;20
+Kermit the Frog here;60
 kern;40
 kerned;40
 kernels of truth;60
@@ -58481,6 +58499,9 @@ leaper;40
 leapers;40
 leap for;40
 leapfrog;60
+leapfrogged;60
+leapfrogging;60
+leapfrogs;60
 leaping at;50
 leaping into;40
 leaping to;40
@@ -66003,6 +66024,8 @@ Michif;40;Métis language of Canada
 Michigan;50;Great Lakes state
 Michigander;50
 Michiganders;50
+Michigan J. Frog;60
+Michigan J Frog;0
 Michigeese;40;Jocular plural for Michigan residents
 Michiko;40;Michiko Kakutani, book critic / Japan's empress emerita
 Michio;40;Michio Kaku, physicist and science popularizer
@@ -67950,6 +67973,8 @@ mountain state;50
 Mountain States;50
 mountain states;0
 Mountain View;60
+mountain weasel;50
+mountain weasels;50
 Mountbatten;50;Louis Mountbatten, last viceroy of India
 Mount Capricorn;50;Tasmanian peak
 Mount Erebus;60
@@ -73579,6 +73604,7 @@ one for all and all for one;60;Unofficial motto of Switzerland
 one for the books;60
 one for the road;60
 one franc;30
+One Froggy Evening;60
 O neg;40
 Onega;30;Large Russian lake
 one gallon;30
@@ -75330,6 +75356,10 @@ oyster bar;60
 oyster bars;60
 oyster crab;50
 oyster crabs;50
+oyster cracker;60
+oyster crackers;60
+oyster hatcheries;50
+oyster hatchery;50
 oyster mushrooms;50
 oyster pail;60;Chinese takeout container
 oyster pails;60
@@ -95826,6 +95856,8 @@ Spanish;50;Language of Spain and much of Latin America
 Spanish accent;50
 Spanish accents;50
 Spanish lit;50
+Spanish oyster plant;50
+Spanish oyster plants;50
 Spanky;40
 Spanx;50
 spare a dime;50
@@ -99979,6 +100011,7 @@ Swiss;50;Of Switzerland
 Swiss bank;50
 Swiss banks;50
 Swiss cheese;60
+Swiss cocoa;50
 Swisses;40;Plural cheeses
 Swiss-made watch;50
 Swiss-made watches;50
@@ -104093,6 +104126,8 @@ The Wire;60
 the wise men;30
 Thewlis;40;David Thewlis, actor who played Lupin
 the wool;40
+the world is my oyster;50
+the world's mine oyster;50
 the WTA Tour;30
 the X Games;40
 the X-Men;40
@@ -110072,6 +110107,8 @@ Velcro strap;50
 Velcro straps;50
 Velcro strip;50
 Velcro strips;50
+Velcro wallet;60
+Velcro wallets;60
 veld;40;African grassland
 velds;40
 veldt;40;African grassland
@@ -110628,6 +110665,8 @@ virgin ears;60
 Virginia;50;Old Dominion state
 Virginian;50
 Virginians;50
+Virginia oyster;50
+Virginia oysters;50
 Virginia reels;30
 Virginie;40;Virginie Despentes, French author
 Virgin Islander;50
@@ -111942,13 +111981,24 @@ wear upon;40
 weasand;20;Throat, archaic
 weasands;20
 weaseled in;50
-weaseled out of;40
+weaseled into;50
+weaseled one's way into;50
+weaseled out of;50
 weasel in;50
 weaseling in;50
-weaseling out of;40
-weasel out of;40
+weaseling into;50
+weaseling one's way into;50
+weaseling out of;50
+weasel into;50
+weaselled one's way into;40
+weaselling one's way into;40
+weasel one's way into;50
+weasel out of;50
 weasels in;50
-weasels out of;40
+weasels into;50
+weasels one's way into;50
+weasels out of;50
+Weasels Ripped My Flesh;60
 weasel word;60
 weasel words;60
 we ate;30
@@ -114574,6 +114624,7 @@ WorldCat;40;Global library catalog
 world champion;60
 world champions;60
 world economy;50
+world is my oyster;20
 world leader;50
 world leaders;50
 worldlily;30;Weird adverb
