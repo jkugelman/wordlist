@@ -13551,7 +13551,7 @@ Bortles;40;Blake Bortles, Jaguars quarterback
 Borussia;40;Borussia Dortmund, German soccer club
 borzoi;40;Russian dog breed
 Borzoi;0
-borzois;40
+borzois;40;Russian dogs
 Borzois;0
 BOS;40;Boston, on scoreboards
 Bosc;50;Pear variety
@@ -28420,6 +28420,8 @@ door's open;60
 door three;40
 door-to-door sales;50
 door two;40
+door zone;50
+door zones;50
 do-over;50
 do-overs;50
 Doo Wop (That Thing);50;1998 single by Lauryn Hill
@@ -74645,6 +74647,9 @@ Orwell;50;George Orwell, "1984" author
 Orwellian;50;Dystopian, in the manner of "1984"
 -ory;20
 or your money back;60
+orzos;40
+orzo salad;50
+orzo salads;50
 orzotto;40
 OS;40
 osa;20
@@ -81091,6 +81096,7 @@ professional golfers;60
 professional murderer;20
 professor;50
 professors;50
+Professor Zoom;50;DC Comics supervillain
 profit and loss statement;60
 profit and loss statements;60
 profit centre;20
