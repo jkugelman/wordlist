@@ -5704,6 +5704,10 @@ Apted;20;Bond Director Michael
 apteral;30;Lacking columns, as a church
 apterous;20;Having no wings, as an insect
 apteryx;30;Kiwi bird genus
+AP test;50
+aptest;50
+AP tests;50
+AP test scores;50
 aptitude test;50
 aptitude tests;50
 apt. no.;40
@@ -36677,6 +36681,7 @@ flush draws;50
 flush it;20
 flu shot;50
 flu shots;50
+flush out;50
 flu strain;50
 flu strains;50
 fluter;20
@@ -50944,6 +50949,8 @@ informal fallacies;60
 informal fallacy;60
 informal talk;50
 informal talks;50
+in formation;50
+information;50
 information content;50
 information desk;60
 information desks;60
@@ -68521,6 +68528,8 @@ Mulroney;40;Brian Mulroney, Canadian prime minister / Dermot Mulroney, actor
 multinomial;40
 multi-platinum;60
 multiple times;50
+multi-ply;50
+multiply;50
 multiply by three;0
 multiprocessors;30;Computers with multiple CPUs
 multiversal;60
@@ -77472,6 +77481,7 @@ peroxiding;40
 perpetuum mobile;60
 per pop;20
 Perrault;40;Charles Perrault, fairy tale collector
+perreo;30
 Perrey;30;Jean-Jacques Perrey, Moog music pioneer
 Perri;40;Christina Perri, "A Thousand Years" singer
 Perrier;50;Sparkling water brand
@@ -84060,6 +84070,8 @@ recrating;40
 recreancy;30
 recreant;40;Coward, archaic
 recreants;40
+re-creation;50
+recreation;50
 recreative;40
 recross;30
 recrudesce;40
@@ -93351,6 +93363,7 @@ sir, no sir;50
 sir no sir;0
 sirocco;40;Hot African wind
 siroccos;40
+sirrah;40
 Sir Rudolf Bing;50;Austrian-American opera impresario (1902–1997)
 sir this is a Wendy's;60
 Sirtis;40;Marina Sirtis of ST:TNG
@@ -99332,6 +99345,8 @@ sun-dried;60
 sun-dried tomato;60
 sundried tomato;0
 sundried tomatoes;60
+sun-dry;50
+sundry;50
 sunevfohtribeht;0
 sunglasses emoji;60
 sunglasses emojis;60
@@ -102348,6 +102363,7 @@ terrorist attacks;10
 terrorists;10
 terror-struck;60
 Terry Gross;50
+Terry's;40
 Terrys;30;Plural name
 tertial;30;Feather adjective
 tertian;30
