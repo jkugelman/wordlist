@@ -11374,6 +11374,9 @@ Bevan;40;Aneurin Bevan, NHS founder / Bev Bevan, ELO drummer
 Bevatron;40;Berkeley particle accelerator
 Beveridge;40;William Beveridge, welfare state architect
 Beverly;50;Common first name / Beverly Hills
+Beverly Hillbillies;50
+Beverly Hills, 90210;60
+Beverly Hills Chihuahua;50;2008 Disney movie
 Beverly Hills Cop;60
 Bevin;40;Ernest Bevin, British foreign secretary
 Bevins;40;Vincent Bevins, author of "The Jakarta Method"
