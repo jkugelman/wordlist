@@ -67040,6 +67040,7 @@ Moafi;40;Sepideh Moafi, actress on "The Pitt"
 moai;40;Easter Island statues
 Moana;50;Disney's Polynesian voyager
 Moanin';40;Art Blakey jazz standard
+moar;40;Deliberate misspelling of more
 moated;40
 mob;50
 MOBA;20;Multiplayer online battle arena
