@@ -44528,6 +44528,7 @@ Hangar 18;50;Conspiracy theory / Megadeth song
 Hanga Roa;30;Main town on Easter Island
 hang around at;20
 hang around with;40
+hang a uey;50
 hang a Uie;30
 hanged a Uie;0
 Hanged Man;60;Tarot card
@@ -44542,6 +44543,7 @@ Hanginaround;50;1999 single by Counting Crows
 hanging;50
 hanging around the corner;20
 hanging around with;40
+hanging a uey;50
 hanging a Uie;30
 hanging in;40
 hanging in the air;60
@@ -44579,6 +44581,7 @@ hang out with;40
 hangry;60
 Hangsaman;40;Shirley Jackson novel
 hangs around with;40
+hangs a uey;50
 hangs a Uie;30
 hangs in;40
 hangs in the air;60
@@ -48680,6 +48683,7 @@ Hungarian;50;Of a Central European country
 Hungarians;50;Magyars
 hung around with;40
 Hungary;50;Central European country
+hung a uey;50
 hung a Uie;30
 hungered for;40
 hunger for;40
