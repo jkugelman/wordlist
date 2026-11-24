@@ -107883,7 +107883,9 @@ turned two;50;Completed a double play, in baseball
 turned up one's nose;60
 turned up one's nose at;60
 turned upside down;50
+Turner and Hooch;50
 Turneresque;40;Like the paintings of J.M.W. Turner
+Turner & Hooch;50
 turnery;30
 turn green;60
 turn heads;60
