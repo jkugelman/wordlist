@@ -38290,6 +38290,7 @@ fulgurates;30
 fulgurating;30
 Fulham;40;London district and soccer club
 full amnesty;50
+full amount;50
 full bird colonel;60
 full bird colonels;60
 full body wax;60
