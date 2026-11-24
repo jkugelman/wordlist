@@ -53102,7 +53102,8 @@ jabronies;60
 jabronis;60
 jabs at;40
 jacaranda;30;Flower genus
-J'accuse;50;Émile Zola's Dreyfus affair open letter
+j'accuse;50
+J'Accuse...!;50;Émile Zola's Dreyfus affair open letter
 Jacinda;40;New Zealand PM Jacinda Ardern 2017-23
 Jacinto;40;San Jacinto, CA (research required)
 jackal;50
@@ -81432,6 +81433,8 @@ P shape;20
 P-shaped;20
 P shapes;20
 psi;50
+P.S. I Love You;50
+PS I Love You;0
 Psi Omega;30
 psis;40
 psittacine;30;Of parrots
