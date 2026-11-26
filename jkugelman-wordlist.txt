@@ -59918,7 +59918,9 @@ Like Water for Chocolate;60
 like you wouldn't believe;60
 liking a lot;50
 Likud;30;Israeli right-wing political party
-lil';50
+li'l;50
+lil;50
+lil';0
 Lila;40
 Lila Lee;40;Silent film actress
 Lilangeni;40;Currency of Eswatini
