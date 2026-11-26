@@ -11128,6 +11128,7 @@ Berners;40;Tim Berners-Lee, Web inventor
 Berners-Lee;50
 Bernese;30;Mountain dog
 Bernhard;40;Sandra Bernhard, comedian / Thomas Bernhard, Austrian novelist
+Bernhard Riemann;60
 Bernhardt;50;Sarah Bernhardt, legendary stage actress
 Bernice;40;Bernice King, MLK's daughter / "Bernice Bobs Her Hair"
 Bernie;50;Common first name, or Bernie Sanders
@@ -17187,6 +17188,7 @@ Carl;50;Common first name
 Carla;50;Carla Gugino, actress / Carla Bruni, singer and French first lady
 Carle;40;Eric Carle, author of "The Very Hungry Caterpillar"
 Carleton;40;Minnesota college, or Ottawa university
+Carl Friedrich Gauss;60
 Carli;40;Carli Lloyd, top FIFA women's soccer champion
 Carlile;40;Brandi Carlile, Grammy-winning singer
 Carlin;50;George Carlin, comedian
@@ -39147,8 +39149,13 @@ Gauls;50;Ancient people of France, Caesar's foes
 Gaultier;40;Jean-Paul Gaultier, fashion designer
 Gaumont;40;World's oldest film studio
 Gaussian;50;Bell-curve or blur descriptor
+Gaussian curve;50
 Gaussian distribution;50
 Gaussian distributions;50
+Gaussian integer;50
+Gaussian integers;50
+Gaussian prime;50
+Gaussian primes;50
 Gauss's;40;Gauss's law, in electromagnetism
 Gautama;50;Siddhartha Gautama, the Buddha
 Gauteng;40;South African province
@@ -55084,6 +55091,8 @@ Karisma;40;Karisma Kapoor, Bollywood actress
 Kariya;40;Paul Kariya, Hall of Fame NHL winger
 Karl;50;Common first name: Karl Marx, Karl Malone
 Karla;40;John le Carré villain
+Karl Friedrich Gauss;20
+Karl Gauss;20
 Karlheinz;40;Karlheinz Stockhausen, avant-garde composer
 Karlie;30;Model Kloss, host of "Project Runway"
 Karloff;50;Boris Karloff, Frankenstein's monster actor
@@ -66096,6 +66105,7 @@ microfiche;60
 microfiches;60
 microfilm;60
 microfilms;60
+microgauss;50
 microgenre;60;Highly specialised or niche artistic domain
 microgenres;60
 Micrographia;50;Robert Hooke's pioneering microscopy book
@@ -85984,7 +85994,10 @@ Rieger;20;Misclued in NYT as "Taxi" character Alex *Reiger*
 riel;40;Cambodian currency
 riels;40;Cambodian currency
 Riemann;50;Bernhard Riemann, mathematician of the hypothesis
+Riemann hypothesis;60
 Riemannian;50;Of Riemann's curved geometry
+Riemannian geometry;60
+Riemann zeta function;60
 rien;40;Nothing: Fr.
 Rienzi;30;Wagner opera
 Riesen;40;Caramel candy
