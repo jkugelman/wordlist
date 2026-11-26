@@ -67877,6 +67877,7 @@ mossed;50;Dominated by a wide receiver's showy catch, a la Randy Moss / covered 
 mosser;30
 mossers;30
 mosses;30
+moss graffiti;60;Type of street art that uses living moss to write on the walls of public spaces
 mossing;50;Getting dominated by a wide receiver's showy catch, a la Randy Moss
 mosso;30;Animated or rapid, in music
 most commonly;50
@@ -104181,6 +104182,9 @@ the west wind;40
 The West Wing;60
 The Wet Bandits;60
 The Whale;60
+the what?;50;"That's a thing?"
+the what now?;60;"That's a thing?"
+the what now;0
 the Whiskey Rebellion;40
 The White Lotus;60
 The White Nile;60
