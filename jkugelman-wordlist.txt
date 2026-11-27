@@ -14165,6 +14165,7 @@ breakings;40;Weird plural
 breaking serve;50
 breaking the bank;60
 breaking the fourth wall;60
+breaking the mold;60
 breaking the sound barrier;60
 breaking up the band;60
 break into;40
@@ -14195,10 +14196,12 @@ breaks out in song;60
 breaks out into song;60
 breaks the bank;60
 breaks the fourth wall;60
+breaks the mold;60
 breaks the sound barrier;60
 breaks up the band;60
 break the bank;60
 break the fourth wall;60
+break the mold;60
 break the sound barrier;60
 breakthrough role;60
 breakthrough roles;60
@@ -14657,6 +14660,7 @@ brokering a deal;60
 brokers a deal;60
 broke the bank;60
 broke the fourth wall;60
+broke the mold;60
 broke the sound barrier;60
 broke up the band;60
 broking;40
