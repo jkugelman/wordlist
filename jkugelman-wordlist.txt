@@ -77668,7 +77668,7 @@ Peter II;30
 Peterloo;40;1819 Manchester massacre
 Peterman;40;J. Peterman, "Seinfeld" catalog magnate
 Peter Opie;40;English folklorist
-Pete Rose;50
+Pete Rose;60
 Peter O'Toole;60
 Pete Rouse;40;Interim Chief of Staff to Barack Obama
 Peter Pan;60
