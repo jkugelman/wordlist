@@ -19877,8 +19877,12 @@ Churchill;50
 Churchillian;50;Like the British wartime PM
 church leader;60
 church leaders;60
-church organ;50
-church organs;50
+church organ;60
+church organist;60
+church organists;60
+church organs;60
+church wedding;60
+church weddings;60
 churned out;50
 churning out;50
 churn out;50
