@@ -38479,6 +38479,10 @@ Fuzhou;40;Chinese port city
 fuzzball;60;What Han calls Chewie
 Fvck;10;Demi Lovato's "Holy Fvck"
 FWD;40
+fwd.;40
+F. W. de Klerk;40;President of South Africa from 1989 to 1994
+F W de Klerk;0
+F.W. de Klerk;0
 FWIW;40
 F W Murnau;50;"Nosferatu" director F. W. Murnau
 FXX;40;Cable channel
