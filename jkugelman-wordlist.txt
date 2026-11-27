@@ -8383,6 +8383,9 @@ Baby Doe;50
 Baby Does;50
 baby elephant seal;60
 baby elephant seals;60
+baby farm;50
+baby farming;50
+baby farms;50
 baby fat;60
 baby fever;60
 baby food;60
@@ -17818,6 +17821,9 @@ cattle dog;50;Australian herding dog
 cattle dogs;50
 cattle drive;50
 cattle drives;50
+cattle farm;50
+cattle farming;50
+cattle farms;50
 cattle pen;50
 cattle pens;50
 cattlesportsbar;0
@@ -27173,6 +27179,7 @@ dirs.;30
 dirt and worms;60;Chocolate pudding + gummy worms
 dirt clod;50
 dirt clods;50
+dirt farming;50
 dirt nap;60;Death
 dirt nappie;20
 dirt-poor;60
@@ -31742,6 +31749,7 @@ emu chicks;50
 emu egg;30
 emu eggs;30
 emu farm;40
+emu farming;50
 emu farms;40
 emulative;40
 emu oil;40
@@ -34154,6 +34162,7 @@ fact-checking;60
 fact-checks;60
 fact is;60
 facto;40
+factory farming;60
 factory reset;60
 factory resets;60
 factory showroom;60
@@ -38414,6 +38423,9 @@ furcation;40
 furcula;30;Wishbone
 Für Elise;60
 Fur Elise;0
+fur farm;50
+fur farming;50
+fur farms;50
 Furies;50;Greek avenging spirits
 Furiosa;60
 Furiosa A Mad Max Saga;60
@@ -46221,6 +46233,7 @@ Herbalife;50;Nutrition MLM company
 Herb Caen;40
 Herbert;50;Herbert Hoover, president / Frank Herbert, "Dune" author
 herb farm;50
+herb farming;50
 herb farms;50
 Herbie;50;Herbie Hancock, jazz pianist / the Love Bug
 herb stuffing;60
@@ -60494,6 +60507,7 @@ live sports;50
 livest;30
 lives the high life;60
 lives to;30
+livestock farming;50
 Livestrong;50;Lance Armstrong's yellow wristband charity
 lives up to expectations;60
 live the high life;60
@@ -69439,6 +69453,7 @@ natural blond;60
 natural blonde;60
 natural blondes;60
 natural blonds;60
+natural farming;50
 natural minor;60
 natural minor scale;60
 natural minor scales;60
@@ -93108,6 +93123,9 @@ silk ascot;50
 silk ascots;50
 silk boxers;50
 silk dress;60
+silk farm;50
+silk farming;50
+silk farms;50
 silk hat;50;A la Frosty
 silk hats;50
 silk moth;50
@@ -97987,9 +98005,10 @@ Stieg;40;Stieg Larsson, author of "The Girl with the Dragon Tattoo"
 Stieglitz;40;Alfred Stieglitz, pioneering photographer
 S-tier;40;Excellent
 Stiers;40;David Ogden Stiers of M*A*S*H
-stiff-arm;50
-stiff-armed;50
-stiff-arms;50
+stiff-arm;60
+stiff-armed;60
+stiff-arming;60
+stiff-arms;60
 stiff back;50
 stiff competition;60
 stiffened up;50
