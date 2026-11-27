@@ -29018,6 +29018,7 @@ Dr Doofenshmirtz;60;Dr. Doofenshmirtz from "Phineas and Ferb"
 drdoolittle;0
 Dre;50
 Drea;40;Actress de Matteo
+dread pirate;60
 Dread Pirate Roberts;60
 dreamboat;60
 dreamboats;60
