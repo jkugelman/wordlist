@@ -55659,8 +55659,8 @@ Keogh;40;Keogh plan, retirement account for the self-employed
 Keoghan;40;Barry Keoghan, "Saltburn" star / Phil Keoghan, "Amazing Race" host
 Keokuk;40;Iowa city named for a Sauk chief
 Keough;40;Riley Keough, "Daisy Jones & the Six" actress
-kepi;20;French military cap
-kepis;20;French military caps
+kepi;30;French military cap
+kepis;30;French military caps
 Kepler;50;Johannes Kepler, planetary motion astronomer
 kept after;50
 kept alive;50
