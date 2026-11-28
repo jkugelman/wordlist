@@ -34909,8 +34909,8 @@ FCUK;40;French Connection UK
 FDA;40
 FDIC;40
 FDNY;40
-FDR;40
-FDR Jr.;30
+FDR;50
+FDR Jr.;40
 FDR Jr;0
 Fe;30
 Fear and Loathing;60
@@ -47836,6 +47836,7 @@ horoscopes;60
 horoscope sign;60
 horoscope signs;60
 Horowitz;50;Vladimir Horowitz, pianist, or Cher of "Clueless"
+Horror of Dracula;60;First Hammer Horror film with Christopher Lee as Dracula
 horror show;60
 horror shows;60
 horror-struck;50
@@ -48132,6 +48133,7 @@ House majority;60
 Houseman;40;John Houseman, "The Paper Chase" actor
 House of Blues;60
 house of cards;60
+House of Dracula;60;1945 horror film
 House of Ghosts;60;1907 stop-motion film, one of the earliest depictions of a haunted house
 house of ill repute;60
 House of Leaves;60
@@ -56225,6 +56227,8 @@ kinpira;40;Japanese dish
 Kinsella;40
 Kinsey;40;Alfred Kinsey, sex researcher / Kinsey Millhone, Sue Grafton sleuth
 Kinsey Institute;60
+Kinsey Milhone;0;Misspelling of Kinsey Millhone
+Kinsey Millhone;40;Sue Grafton detective
 Kinsey Scale;60
 Kinshasa;50;Capital of the DRC
 Kinski;40;Klaus Kinski, intense German actor / Nastassja Kinski, actress
@@ -68986,6 +68990,8 @@ Nabokov;50;Vladimir Nabokov, author of "Lolita"
 Nabokovian;50;In the style of Nabokov
 Naboo;40;Amidala's planet
 Nabors;40;Jim Nabors who played Gomer Pyle
+nacho bar;50
+nacho bars;50
 nacho hat;60
 nacho hats;60
 Nacho Libre;60
